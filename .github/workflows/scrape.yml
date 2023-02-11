@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in *.txt ; do for j in $(cat $i) ; do curl -s $j | grep "var stream" | cut -c52- | rev | cut -c5- | rev >> A$i ; echo -e "$i - $j" ; done ; done
+          #for i in *.txt ; do for j in $(cat $i) ; do curl -s $j | grep "var stream" | cut -c52- | rev | cut -c5- | rev >> A$i ; echo -e "$i - $j" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

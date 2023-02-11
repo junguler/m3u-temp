@@ -1,0 +1,19 @@
+name: scrape m3u
+on:
+  push
+jobs:
+  automated-scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@main
+
+      - name: run commands
+        run: |
+          chmod +x ./htmlq
+          for i in "" \&page={2..} ; do for j in $(cat genres.txt) ; do curl https://www.radioguide.fm/search/index\?genre\=$i\&limit\=250 | htmlq -a href a | awk '!seen[$0]++' | grep "/internet-radio-" | sed 's/\;//g' | sed '/^$/d' >> $j.txt ; echo -e "$j - $i" ; done ; done
+
+      - name: add & commit
+        uses: EndBug/add-and-commit@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

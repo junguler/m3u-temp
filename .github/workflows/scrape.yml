@@ -11,7 +11,7 @@ jobs:
       - name: run commands
         run: |
           chmod +x ./htmlq
-          for i in \&page={5..9} ; do for j in $(cat genres.txt) ; do curl -s "https://www.radioguide.fm/search/index?genre=$j$i&limit=250" | ./htmlq -a href a | awk '!seen[$0]++' | grep "/internet-radio-" | sed 's/\;//g' | sed '/^$/d' >> $j.txt ; echo -e "$j - $i" ; done ; done
+          for i in \&page={10..15} ; do for j in $(cat genres.txt) ; do curl -s "https://www.radioguide.fm/search/index?genre=$j$i&limit=250" | ./htmlq -a href a | awk '!seen[$0]++' | grep "/internet-radio-" | sed 's/\;//g' | sed '/^$/d' >> $j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

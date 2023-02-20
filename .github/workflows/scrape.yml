@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in A-*.txt ; do for j in $(cat $i) ; do cat $i | awk '!seen[$0]++' | tac | sed "1,9d" | tac > A$i ; done ; done
+          for i in A-*.txt ; do cat $i | awk '!seen[$0]++' | tac | sed "1,9d" | tac > A$i ; echo -e $i ;  done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in AA-hits.txt ; do for j in $(cat $i) ; do curl -s $j | grep "id=\"__NEXT_DATA__\"" | grep -Po '"url": *\K"[^"]*"' | sed 's/\"//g' | grep "/" | grep -v "radio.net" | head -n 1 | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
+          for i in AA-pop-a.txt ; do for j in $(cat $i) ; do curl -s $j | grep "id=\"__NEXT_DATA__\"" | grep -Po '"url": *\K"[^"]*"' | sed 's/\"//g' | grep "/" | grep -v "radio.net" | head -n 1 | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

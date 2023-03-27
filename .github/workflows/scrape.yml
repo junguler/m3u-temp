@@ -10,6 +10,7 @@ jobs:
 
       - name: run commands
         run: |
+          curl https://online-radio.eu/top100 | ./htmlq -a href a | grep "/radio/" | cut -c31- > A-top_100.txt
           for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://online-radio.eu/radio/$j | grep "url\":" | head -n 1 | awk -F '"' '{print $4}' | grep -v "object" | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
 
       - name: add & commit

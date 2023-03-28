@@ -10,8 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          curl https://online-radio.eu/top100 | ./htmlq -a href a | grep "/radio/" | cut -c31- > A-top_100.txt
-          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://online-radio.eu/radio/$j | grep "url\":" | head -n 1 | awk -F '"' '{print $4}' | grep -v "object" | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
+          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://online-radio.eu/export/winamp/$j | grep "Title\|File" | sed 's/File1\=//g' | sed 's/Title1\=/#EXTINF:-1 , /g' | sed 's/\;//g' >> A$i ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

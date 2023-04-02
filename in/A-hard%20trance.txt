@@ -39,6 +39,7 @@ http://46.105.122.141:6664/listen.pls
 http://radio.jointil.net:9986/listen.pls
 http://159.69.76.173:3001/listen.pls
 http://listen.to.distfm.se:8144/stream
+http://159.69.76.173:3001/listen.pls
 http://87.98.216.129:4198/listen.pls
 https://stream.laut.fm/ganorium-radio.m3u
 http://orion.shoutca.st:8066/listen.pls
@@ -57,7 +58,10 @@ http://188.138.198.247:8002/listen.pls
 http://83.170.76.46:8048/listen.pls
 http://radio.695therock.com:8000/listen.pls
 http://78.72.52.223:7000/listen.pls
+http://radio.695therock.com:8000/listen.pls
+http://83.170.76.46:8048/listen.pls
 http://radio.trance-energy.org:8000/trance192.m3u
+http://78.72.52.223:7000/listen.pls
 http://Radio.TRANCE.one:7777/online.m3u
 http://91.121.178.222:6488/listen.pls
 http://live1.radioseven.ro:7480/listen.pls
@@ -70,11 +74,14 @@ http://198.27.66.225:8096/listen.pls
 http://2.58.194.54:8876/listen.pls
 http://94.23.23.97:7178/listen.pls
 http://hd.lagrosseradio.info:8000/lagrosseradio-metal-024.mp3
+https://stream.laut.fm/danceclubradio.m3u
 http://94.23.57.5:9134/listen.pls
 http://cast.iplayradio.net:9500/stream.m3u
 http://85.195.88.149:10364/listen.pls
+http://94.23.57.5:9134/listen.pls
 http://2.58.194.54:9546/listen.pls
 http://cast3.my-control-panel.com:8730/listen.pls
+http://cast.iplayradio.net:9500/stream.m3u
 https://stream.laut.fm/repubblicrockradio.m3u
 http://hhuk.netmindz.net:8000/listen.pls
 https://45.33.5.23:8000/listen.pls
@@ -92,6 +99,7 @@ http://77.68.29.126:8300/live
 http://s2.stationplaylist.com:7064/listen.mp3.m3u
 http://cosmo.shoutca.st:8065/listen.pls
 http://108.61.84.23:80/listen.pls
+http://cp12.serverse.com:7069/live.m3u
 http://51.195.201.191:8000/listen.pls
 http://109.74.206.14:8273/listen.pls
 http://158.69.4.114:8581/listen.pls
@@ -100,6 +108,7 @@ http://51.15.177.152:8006/listen.pls
 http://canopus.dribbcast.com:8028/listen.pls
 http://109.74.206.14:8126/listen.pls
 http://85.195.72.226:11076/listen.pls
+http://77.68.29.126:8300/live
 http://66.207.196.222:8100/listen.pls
 https://stream.laut.fm/technobeat.m3u
 http://stream.lonely-oak.com:8082/listen.pls
@@ -109,10 +118,15 @@ http://188.166.32.205:8000/128.mp3.m3u
 http://51.81.46.118:1270/listen.pls
 http://generationdance.lu:8030/hd.m3u
 http://globaldjbroadcast.cc:8001/.m3u
+http://canopus.dribbcast.com:8028/listen.pls
+http://51.81.46.118:1270/listen.pls
+http://generationdance.lu:8030/hd.m3u
+http://globaldjbroadcast.cc:8001/.m3u
 https://shoutcast.overclockedmusic.com:8000/listen.pls
 http://listen.blkindustries.net:8000/soki320.m3u
 http://cast3.my-control-panel.com:8612/autodj
 http://cast1.my-control-panel.com:7228/autodj
+http://188.166.32.205:8000/128.mp3.m3u
 http://212.96.160.160:8084/listen.pls
 http://thestyx.chickenkiller.com:8000/ruinnation.ogg.m3u
 http://212.96.160.160:8036/listen.pls

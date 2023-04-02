@@ -42,6 +42,7 @@ http://94.23.81.197:8044/listen.pls
 http://46.7.51.110:8000/listen.pls
 http://live.radioclubmix.ro:9999/listen.pls
 http://91.121.118.99:8032/listen.pls
+http://s1.radioparty.pl:8000/stream64aac.m3u
 http://79.143.187.96:8000/listen.pls
 http://173.249.25.221:8000/listen.pls
 http://noisefm.ru:8000/play_256.m3u
@@ -56,6 +57,7 @@ http://149.56.147.197:8307/listen.pls
 http://stream.trance.ie:8000/stream.m3u
 http://live.radiobandit.ro:8000/listen.pls
 http://streaming.radiodancefloor.it:443/listen.pls
+http://server-23.stream-server.nl:8326/listen.pls
 http://server-23.stream-server.nl:8326/listen.pls
 http://playmusicfm.no-ip.biz:9000/listen.pls
 http://139.162.50.55:8000/listen.pls
@@ -96,6 +98,9 @@ http://london-ssd.myautodj.com:8022/autodj
 http://94.249.254.11:9050/listen.pls
 http://broadcast.shoutstream.co.uk:8006/listen.pls
 https://stream.laut.fm/hitradiode.m3u
+http://s1.slotex.pl:7488/listen.pls
+http://149.202.22.75:8066/listen.pls
+http://ice.studiopiu.net:8060/rete.aac.m3u
 http://212.96.160.160:7994/listen.pls
 http://81.169.198.233:80/listen.pls
 http://94.228.133.5:8381/listen.pls
@@ -103,8 +108,10 @@ http://188.134.10.11:8000/listen.pls
 http://159.69.76.173:3200/listen.pls
 https://stream.laut.fm/rsmusic.m3u
 http://5.39.89.17:14690/listen.pls
+https://stream.laut.fm/bassnurbass.m3u
 http://213.202.241.199:8964/listen.pls
 http://81.23.235.131:8182/listen.pls
+http://broadcast.shoutstream.co.uk:8006/listen.pls
 http://sr2.inmystream.it:8006/stream
 http://199.195.194.140:8073/listen.pls
 http://192.111.140.6:8030/listen.pls
@@ -118,6 +125,7 @@ http://cast3.my-control-panel.com:8730/listen.pls
 http://hyades.shoutca.st:9095/listen.pls
 https://stream.laut.fm/powerstationitaly.m3u
 http://5.9.65.9:8240/listen.pls
+http://199.195.194.140:8073/listen.pls
 http://104.243.45.185:8275/listen.pls
 http://188.165.206.81:8130/listen.pls
 http://kathy.torontocast.com:2990/listen.pls
@@ -133,8 +141,10 @@ http://radiodeepanet.xyz:9500/dn90
 http://s28.myradiostream.com:28054/listen.pls
 http://66.206.12.2:8228/listen.pls
 http://cosmo.shoutca.st:8065/listen.pls
+http://194.249.173.216:8888/listen.pls
 http://91.121.104.139:8080/listen.pls
 http://45.43.200.10:11708/listen.pls
+http://radiodeepanet.xyz:9500/dn90
 http://212.96.160.160:8006/listen.pls
 http://stream.db962.nl:8030/listen.pls
 http://traditionalhiphop.zapto.org:7500/listen.pls
@@ -143,6 +153,7 @@ http://5.63.151.52:7212/listen.pls
 http://192.241.185.108:8080/listen.pls
 http://91.121.118.99:8048/listen.pls
 http://78.72.52.223:9000/listen.pls
+http://209.126.119.28:8027/listen.pls
 http://radio.freefm.uk:8020/radio.ogg.m3u
 http://212.96.160.160:8086/listen.pls
 http://185.105.4.100:8041/listen.pls
@@ -151,6 +162,7 @@ http://canopus.dribbcast.com:8028/listen.pls
 http://163.172.202.219:10020/listen.pls
 http://us01.xrn.com.au:8300/listen.pls
 http://89.39.189.72:8000/listen.pls
+http://radiocp.jump.bg:8062/autodj
 http://eu1.fastcast4u.com:21900/listen.pls
 http://jbstream.net:8074/listen.pls
 http://91.121.134.23:8276/listen.pls
@@ -168,8 +180,14 @@ http://94.23.67.172:9283/listen.pls
 http://209.126.124.126:8063/listen.pls
 http://162.244.80.21:9086/listen.pls
 http://radio10.pro-fhi.net:9063/stream
+http://5.63.151.52:7212/listen.pls
 http://s44.myradiostream.com:5670/stream
 http://87.98.217.63:23794/listen.pls
+http://212.96.160.160:8086/listen.pls
+http://185.105.4.100:8041/listen.pls
+http://canopus.dribbcast.com:8028/listen.pls
+http://163.172.202.219:10020/listen.pls
+http://89.39.189.72:8000/listen.pls
 https://stream.laut.fm/ladiesfirst.m3u
 http://88.99.171.20:8020/listen.pls
 http://192.99.8.170:6027/listen.pls
@@ -196,6 +214,10 @@ http://generationdance.lu:8030/hd.m3u
 http://51.255.8.139:8638/listen.pls
 https://stream.laut.fm/jcradio.m3u
 http://91.121.178.222:4042/listen.pls
+http://radiocp.jump.bg:8062/autodj
+http://decibel.legendhits.nl:8000/listen.pls
+http://88.99.171.20:8020/listen.pls
+http://192.99.8.170:6027/listen.pls
 https://pegasus.nucast.co.uk:8028/listen.pls
 http://theqradio.servemp3.com:8000/QRadio.m3u
 http://example.com:8047/autodj
@@ -215,5 +237,10 @@ http://79.98.108.170:8068/listen.pls
 http://87.98.219.178:8160/listen.pls
 http://51.89.195.240:8099/listen.pls
 http://192.99.4.205:8720/listen.pls
+http://cast1.my-control-panel.com:8117/listen.pls
+http://51.255.8.139:9700/listen.pls
+http://87.98.219.178:8160/listen.pls
+http://51.89.195.240:8099/listen.pls
+http://192.99.4.205:8724/listen.pls
 http://cast1.my-control-panel.com:8117/listen.pls
 http://listen.blkindustries.net:8000/soki320.m3u

@@ -1,48 +1,0 @@
-Script started on 2023-04-02 16:26:23+03:30 [TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="141" LINES="6"]
-remote: Enumerating objects: 73, done.[K
-remote: Counting objects:   1% (1/73)[Kremote: Counting objects:   2% (2/73)[Kremote: Counting objects:   4% (3/73)[Kremote: Counting objects:   5% (4/73)[Kremote: Counting objects:   6% (5/73)[Kremote: Counting objects:   8% (6/73)[Kremote: Counting objects:   9% (7/73)[Kremote: Counting objects:  10% (8/73)[Kremote: Counting objects:  12% (9/73)[Kremote: Counting objects:  13% (10/73)[Kremote: Counting objects:  15% (11/73)[Kremote: Counting objects:  16% (12/73)[Kremote: Counting objects:  17% (13/73)[Kremote: Counting objects:  19% (14/73)[Kremote: Counting objects:  20% (15/73)[Kremote: Counting objects:  21% (16/73)[Kremote: Counting objects:  23% (17/73)[Kremote: Counting objects:  24% (18/73)[Kremote: Counting objects:  26% (19/73)[Kremote: Counting objects:  27% (20/73)[Kremote: Counting objects:  28% (21/73)[Kremote: Counting objects:  30% (22/73)[Kremote: Counting objects:  31% (23/73)[Kremote: Counting objects:  32% (24/73)[Kremote: Counting objects:  34% (25/73)[Kremote: Counting objects:  35% (26/73)[Kremote: Counting objects:  36% (27/73)[Kremote: Counting objects:  38% (28/73)[Kremote: Counting objects:  39% (29/73)[Kremote: Counting objects:  41% (30/73)[Kremote: Counting objects:  42% (31/73)[Kremote: Counting objects:  43% (32/73)[Kremote: Counting objects:  45% (33/73)[Kremote: Counting objects:  46% (34/73)[Kremote: Counting objects:  47% (35/73)[Kremote: Counting objects:  49% (36/73)[Kremote: Counting objects:  50% (37/73)[Kremote: Counting objects:  52% (38/73)[Kremote: Counting objects:  53% (39/73)[Kremote: Counting objects:  54% (40/73)[Kremote: Counting objects:  56% (41/73)[Kremote: Counting objects:  57% (42/73)[Kremote: Counting objects:  58% (43/73)[Kremote: Counting objects:  60% (44/73)[Kremote: Counting objects:  61% (45/73)[Kremote: Counting objects:  63% (46/73)[Kremote: Counting objects:  64% (47/73)[Kremote: Counting objects:  65% (48/73)[Kremote: Counting objects:  67% (49/73)[Kremote: Counting objects:  68% (50/73)[Kremote: Counting objects:  69% (51/73)[Kremote: Counting objects:  71% (52/73)[Kremote: Counting objects:  72% (53/73)[Kremote: Counting objects:  73% (54/73)[Kremote: Counting objects:  75% (55/73)[Kremote: Counting objects:  76% (56/73)[Kremote: Counting objects:  78% (57/73)[Kremote: Counting objects:  79% (58/73)[Kremote: Counting objects:  80% (59/73)[Kremote: Counting objects:  82% (60/73)[Kremote: Counting objects:  83% (61/73)[Kremote: Counting objects:  84% (62/73)[Kremote: Counting objects:  86% (63/73)[Kremote: Counting objects:  87% (64/73)[Kremote: Counting objects:  89% (65/73)[Kremote: Counting objects:  90% (66/73)[Kremote: Counting objects:  91% (67/73)[Kremote: Counting objects:  93% (68/73)[Kremote: Counting objects:  94% (69/73)[Kremote: Counting objects:  95% (70/73)[Kremote: Counting objects:  97% (71/73)[Kremote: Counting objects:  98% (72/73)[Kremote: Counting objects: 100% (73/73)[Kremote: Counting objects: 100% (73/73), done.[K
-remote: Compressing objects:  20% (1/5)[Kremote: Compressing objects:  40% (2/5)[Kremote: Compressing objects:  60% (3/5)[Kremote: Compressing objects:  80% (4/5)[Kremote: Compressing objects: 100% (5/5)[Kremote: Compressing objects: 100% (5/5), done.[K
-Unpacking objects:   2% (1/37)Unpacking objects:   5% (2/37)Unpacking objects:   8% (3/37)Unpacking objects:  10% (4/37)Unpacking objects:  13% (5/37)Unpacking objects:  16% (6/37)Unpacking objects:  18% (7/37)Unpacking objects:  21% (8/37)Unpacking objects:  24% (9/37)Unpacking objects:  27% (10/37)Unpacking objects:  29% (11/37)Unpacking objects:  32% (12/37)Unpacking objects:  35% (13/37)Unpacking objects:  37% (14/37)Unpacking objects:  40% (15/37)Unpacking objects:  43% (16/37)Unpacking objects:  45% (17/37)Unpacking objects:  48% (18/37)Unpacking objects:  51% (19/37)Unpacking objects:  54% (20/37)Unpacking objects:  56% (21/37)Unpacking objects:  59% (22/37)Unpacking objects:  62% (23/37)Unpacking objects:  64% (24/37)Unpacking objects:  67% (25/37)remote: Total 37 (delta 32), reused 37 (delta 32), pack-reused 0[K
-Unpacking objects:  70% (26/37)Unpacking objects:  72% (27/37)Unpacking objects:  75% (28/37)Unpacking objects:  78% (29/37)Unpacking objects:  81% (30/37)Unpacking objects:  83% (31/37)Unpacking objects:  86% (32/37)Unpacking objects:  89% (33/37)Unpacking objects:  91% (34/37)Unpacking objects:  94% (35/37)Unpacking objects:  97% (36/37)Unpacking objects: 100% (37/37)Unpacking objects: 100% (37/37), 39.26 KiB | 717.00 KiB/s, done.
-From https://github.com/junguler/test1
-   18e974d..64a2334  main       -> origin/main
-Updating 18e974d..64a2334
-Fast-forward
- A-70s.txt               |   4 [32m++[m
- A-80s.txt               |  99 [32m++++++++++++++++++++++++++++++++++++[m
- A-90s.txt               |   5 [32m++[m
- A-acid%20house.txt      |  82 [32m++++++++++++++++++++++++++++++[m
- A-alternative.txt       |  46 [32m+++++++++++++++++[m
- A-bass%20house.txt      |  98 [32m++++++++++++++++++++++++++++++++++++[m
- A-christian.txt         | 155 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-classic%20rock.txt    | 300 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-classical.txt         |  20 [32m++++++++[m
- A-country.txt           |  75 [32m++++++++++++++++++++++++++++[m
- A-dance.txt             | 146 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-deep%20house.txt      |  78 [32m+++++++++++++++++++++++++++++[m
- A-disco.txt             |   5 [32m++[m
- A-drum%20and%20bass.txt |  43 [32m++++++++++++++++[m
- A-easy%20listening.txt  |   4 [32m++[m
- A-electro%20house.txt   | 100 [32m+++++++++++++++++++++++++++++++++++++[m
- A-electronic.txt        |  43 [32m++++++++++++++++[m
- A-fidget%20house.txt    |  78 [32m+++++++++++++++++++++++++++++[m
- A-glam%20rock.txt       | 300 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-glitch%20hop.txt      |  64 [32m++++++++++++++++++++++++[m
- A-gospel.txt            | 132 [32m++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-hard%20house.txt      | 120 [32m++++++++++++++++++++++++++++++++++++++++++++[m
- A-hard%20trance.txt     |  33 [32m++++++++++++[m
- A-hip%20hop.txt         |  64 [32m++++++++++++++++++++++++[m
- A-house.txt             |  76 [32m++++++++++++++++++++++++++++[m
- A-jazz.txt              |  66 [32m++++++++++++++++++++++++[m
- A-nu%20jazz.txt         |  67 [32m+++++++++++++++++++++++++[m
- A-oldies.txt            | 143 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-pop.txt               | 300 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-rock.txt              | 300 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-smooth%20jazz.txt     |  69 [32m+++++++++++++++++++++++++[m
- A-talk.txt              |  81 [32m++++++++++++++++++++++++++++++[m
- A-tech%20house.txt      |  77 [32m++++++++++++++++++++++++++++[m
- A-top%2040.txt          |  46 [32m+++++++++++++++++[m
- A-trip%20hop.txt        |  64 [32m++++++++++++++++++++++++[m
- 35 files changed, 3383 insertions(+)
-
-Script done on 2023-04-02 16:26:25+03:30 [COMMAND_EXIT_CODE="0"]

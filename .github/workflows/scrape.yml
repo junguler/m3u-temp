@@ -10,8 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          chmod +x ./htmlq
-          curl -s https://onlineradiobox.com/genres/ | ./htmlq -a href a | grep "genre" | grep -v "genres" | sort | uniq | awk -F "/" '{print $3}' | grep -iv "lgbt" | > genres.txt
+          curl -s https://onlineradiobox.com/genres/ | ./htmlq -a href a | grep "genre" | grep -v "genres" | sort | uniq | awk -F "/" '{print $3}' | grep -iv "lgbt" > genres.txt
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

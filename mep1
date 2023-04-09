@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head itemtype="https://schema.org/WebSite">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, user-scalable=yes" />
+  <meta name="HandheldFriendly" content="true"/>
+  <meta name="MobileOptimized" content="480"/>
+  <meta name="PalmComputingPlatform" content="true"/>
+	<meta name="referrer" content="origin">
+	<link rel="preload" href="//us0-cdn.onlineradiobox.com/fonts/orb-icons.v2.woff" as="font" crossorigin="anonymous">
+	<link rel="preconnect" href="//us0-cdn.onlineradiobox.com/img/">
+	<link rel="preconnect" href="//pagead2.googlesyndication.com">
+	<link rel="preconnect" href="//www.google-analytics.com">
+	<link rel="preconnect" href="//www.googletagservices.com">
+	<link rel="preconnect" href="//googleads.g.doubleclick.net">
+	<link rel="preconnect" href="//securepubads.g.doubleclick.net">
+		
+	<link rel="preconnect" href="//s7.addthis.com">
+		
+	<link rel="stylesheet" media="only screen" href="//us0-cdn.onlineradiobox.com/css/main.min.86c3ea1b.css"/>
+	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+	<!--[if lt IE 10]><link rel="stylesheet" media="screen" href="//us0-cdn.onlineradiobox.com/css/ie.min.b59a44d3.css" /><![endif]-->
+
+	<link rel="icon" href="//us0-cdn.onlineradiobox.com/img/favicon.ico" type="image/x-icon"/>
+	<link rel="shortcut icon" href="//us0-cdn.onlineradiobox.com/img/favicon.ico" type="image/x-icon"/>
+	<link rel="apple-touch-icon" href="//us0-cdn.onlineradiobox.com/img/ios_favicon.png"/>
+	<link rel="apple-touch-icon" sizes="57x57" href="//us0-cdn.onlineradiobox.com/img/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="//us0-cdn.onlineradiobox.com/img/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="//us0-cdn.onlineradiobox.com/img/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="//us0-cdn.onlineradiobox.com/img/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="//us0-cdn.onlineradiobox.com/img/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="//us0-cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="//us0-cdn.onlineradiobox.com/img/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="//us0-cdn.onlineradiobox.com/img/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="//us0-cdn.onlineradiobox.com/img/apple-touch-icon-180x180.png" />
+	<link rel="icon" type="image/png" href="//us0-cdn.onlineradiobox.com/img/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="//us0-cdn.onlineradiobox.com/img/favicon-194x194.png" sizes="194x194" />
+	<link rel="icon" type="image/png" href="//us0-cdn.onlineradiobox.com/img/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="//us0-cdn.onlineradiobox.com/img/android-chrome-192x192.png" sizes="192x192" />
+	<link rel="icon" type="image/png" href="//us0-cdn.onlineradiobox.com/img/favicon-16x16.png" sizes="16x16" />
+	<link rel="manifest" href="//us0-cdn.onlineradiobox.com/img/manifest.json" />
+	<meta name="msapplication-TileColor" content="#2f63a0" />
+	<meta name="msapplication-TileImage" content="//us0-cdn.onlineradiobox.com/img/mstile-144x144.png" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta name="description" content="TDI Acoustic,Srbija - slušajte kvalitetan radio na internetu besplatno na adresi OnlineRadioBox.com ili na svom pametnom telefonu." />
+	<meta name="keywords" content="TDI Acoustic, onlajn radio, radio, slušajte radio, slušate radio na internetu, Radio na internetu besplatno, radio stanice na internetu, radio stanice,radio fm na internetu, fm radio, radio uživo na internetu" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@onlineradiobox" />
+	<meta property="og:site_name" content="OnlineRadioBox.com" />
+	<meta property="og:locale" content="sr-rs" />
+	<meta property="og:title" content="TDI Acoustic" />
+	<meta property="og:url" content="https://onlineradiobox.com/rs/tdiacoustic/" />
+	<meta property="og:description" content="Slušajte TDI Acoustic ne internetu" />
+	<meta property="og:image" content="https://us0-cdn.onlineradiobox.com/img/fblogo/4/93164.v4.png" />
+	<meta property="og:image:width" content="470" />
+	<meta property="og:image:height" content="245" />
+	<meta name="apple-itunes-app" content="app-id=1101437391" />
+	<title>TDI Acoustic uživo - Beograd, Srbija | Online Radio Box</title>
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "WebSite",
+	  "name": "OnlineRadioBox",
+	  "url": "https://onlineradiobox.com"
+	}
+	</script>
+
+<link rel="canonical" href="https://onlineradiobox.com/rs/tdiacoustic/" />
+<link rel="alternate" hreflang="de" href="https://onlineradiobox.com/rs/tdiacoustic/?lang=de" />
+<link rel="alternate" hreflang="en" href="https://onlineradiobox.com/rs/tdiacoustic/?lang=en" />
+<link rel="alternate" hreflang="hr" href="https://onlineradiobox.com/rs/tdiacoustic/?lang=hr" />
+<link rel="alternate" hreflang="hu" href="https://onlineradiobox.com/rs/tdiacoustic/?lang=hu" />
+<link rel="alternate" hreflang="ro" href="https://onlineradiobox.com/rs/tdiacoustic/?lang=ro" />
+<link rel="alternate" hreflang="sr" href="https://onlineradiobox.com/rs/tdiacoustic/" />
+<meta name="twitter:app:name:iphone" content="Online Radio Box" />
+<meta name="twitter:app:name:ipad" content="Online Radio Box" />
+<meta name="twitter:app:id:iphone" content="1101437391" />
+<meta name="twitter:app:id:ipad" content="1101437391" />
+<meta name="twitter:app:name:googleplay" content="Online Radio Box" />
+<meta name="twitter:app:id:googleplay" content="com.finallevel.radiobox" />
+<meta name="twitter:app:url:iphone" content="https://onlineradiobox.com/rs/tdiacoustic/" />
+<meta name="twitter:app:url:ipad" content="https://onlineradiobox.com/rs/tdiacoustic/" />
+<meta name="twitter:app:url:googleplay" content="https://onlineradiobox.com/rs/tdiacoustic/" />
+
+	
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52815707-2" type="0739f00523ed2000a07d52b2-text/javascript"></script>
+<script type="0739f00523ed2000a07d52b2-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-52815707-2');
+  gtag('config', 'G-7LD76EP8L7');
+</script>
+
+
+	<script async src="https://cdn.fuseplatform.net/publift/tags/2/3053/fuse.js" type="0739f00523ed2000a07d52b2-text/javascript"></script>
+
+<script type="0739f00523ed2000a07d52b2-text/javascript">
+
+</script>
+</head>
+
+<body itemscope itemtype="https://schema.org/WebPage">
+
+<div class="panel alert--cookies collapse in" id="alert_cookies" role="alertdialog">
+	<span>
+	Ova veb-lokacija koristi <a href="/privacy" class="ajax">cookies</a>. Ako nastavite da koristite ovu veb lokaciju, pristajete na našu politiku korišćenja kolačića.
+	</span>
+	<span class="action">
+		<input type="button" data-toggle="collapse" id="alert_cookies_close" data-target="#alert_cookies" aria-expanded="true" value="Dogovoriti se">
+	</span>
+</div>
+
+<audio id="top_player" crossorigin="true" style="width:1px;height:1px;overflow:hidden;position:absolute;"></audio>
+<div class="player">
+	<div class="player__promo">
+		<figure><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 888 296"><path fill="#212838" d="M837.95,82.84L491.46,282.89c-30.2,17.43-67.38,17.49-97.63,0.15L49.58,85.67 c-30.52-17.5-49.11-50.03-49-85.22V0H0v296h888V2.06C886.56,35.49,867.07,66.03,837.95,82.84z"/></svg></figure>
+		<section>
+			<p>Instalirajte besplatnu mobilnu aplikaciju Online Radio Box na svom pametnom telefonu i slušajte svoje omiljene radio stanice preko interneta - gde god da ste!</p>
+			<button class="player__promo__close" id="player__promo__close">Ne, hvala</button>
+			<span id="banner-android-app-link" class="link--playmarket" role="button" style="display:none">
+				<a href="https://play.google.com/store/apps/details?id=com.finallevel.radiobox&amp;referrer=utm_source%3Dplayer%26utm_medium%3Dreferral%26utm_campaign%3Dads" class="promo-store-link"><img alt="Get it on Google Play" src="//us0-cdn.onlineradiobox.com/img/google-play-badge2_sr.png" /></a>
+			</span>
+			<span id="banner-ios-app-link" class="link--playmarket" role="button" style="display:none">
+				<a href="https://geo.itunes.apple.com/us/app/id1101437391?referrer=utm_source%3Dplayer%26utm_medium%3Dreferral%26utm_campaign%3Dads" class="promo-store-link">
+					<img alt="Download on the App Store" src="//us0-cdn.onlineradiobox.com/img/app-store-sr.svg">
+				</a>
+			</span>
+		</section>
+	</div>	
+	<div class="player__section">
+		<div class="player__station">
+<a href="" target="_blank" class="player__station__to-applemusic" id="top_player_apple" style="display:none">Slušajte na Apple Music</a>			
+			<figure class="player__station__title" id="top_player_title">
+			</figure>
+			<span id="top_player_track" class="player__station__track" loading="učitava se" playing="reprodukuje se" error="graška pri reprodukciji" not_supported="this browser can&#39;t play it" external="Slušaj sada (Plejer se otvara u iskačućem prozoru)" stopped="prestala je sa emitovanjem" geo_blocked="Nije dostupan u vašoj zemlji"></span>
+		<!--/player__station-->
+		</div>
+
+		<div class="player__controls" role="toolbar">
+<button class="b-favorite" data-toggle="modal" data-target="#popup_auth" title="Dodaj u moje favorite"></button>
+			<button class="b-bwd" id="top_player_bwd" title="Prethodna stanica"></button>
+			<button class="b-play" id="b_top_play" role="button" title="Slušajte radio uživo"></button>
+			<button class="b-fwd" id="top_player_fwd" title="Sledeća stanica"></button>
+
+			<div class="player__volume" id="top_vol_panel">
+				<button class="b-volume" id="b_vol_control" title="Kontrola jačine zvuka"></button>
+				<div class="player__volume__slider" role="slider" id="top_volume_slider" aria-label="volume_level" aria-valuemin="0" aria-valuemax="100" aria-valuenow="" aria-orientation="vertical">
+					<div class="b-slider" id="top_volume_control"></div>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+</div>
+<script type="0739f00523ed2000a07d52b2-text/javascript">
+	window._hlsurl="//us0-cdn.onlineradiobox.com/js/hls.min.a0ffeac4.js";
+	window._dashurl="//us0-cdn.onlineradiobox.com/js/videojs-contrib-dash.min.d3846507.js";
+</script>
+<div class="wrapper" id="bodyW">
+<header>
+	<div class="banner--header">
+
+<!-- 71161633/radio_header/radio_header -->
+<div data-fuse="22875212923"></div>	
+			
+	</div>
+
+	<div class="header">
+		<a href="/srb/" class="header__logo"></a>
+		<a href="/srb/" class="projectbar__logo" title="Online Radio Box. Ostanite uključeni!">Online Radio Box</a>
+		<a class="header__favorites ajax" href="/favorites/"></a>
+		<span class="header__toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-label="Site navigation" role="button"></span>
+
+		<nav id="navbar" class="collapse">
+			<ul class="header__navbar" aria-expanded="false" role="navigation" aria-label="Site navigation">
+				
+				<li class="navbar__country active" role="menuitem">
+					<a href="/rs/" class="i-flag rs ajax">Sve stanice</a>
+				</li>
+				
+				<li class="navbar__favorites" role="menuitem">
+					<a href="/favorites/" class="ajax">Favoriti</a>
+				</li>
+				
+				<li class="navbar__tags" role="menuitem">
+					<a href="/genres/" class="ajax">Žanrovi</a>
+				</li>
+				
+				<li class="navbar__tracks" role="menuitem">
+					<a href="/music/" class="ajax">Muzika</a>
+				</li>
+				
+				<li class="navbar__countries" role="menuitem">
+					<a href="/Europe/" class="ajax">Srbija</a>
+				</li>
+				
+			</ul>
+
+			<div class="header__projectbar" role="toolbar" aria-label="Project bar">
+				<a href="/" class="projectbar__logo">Online Radio Box</a>
+				<ul class="projects-links">
+					
+					<li><a class="i-puzzlegarage" target="_blank" href="https://puzzlegarage.com/?lang=sr" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://puzzlegarage.com/?utm_source=orb&amp;utm_medium=link&amp;utm_campaign=puzzle&amp;lang=sr'" rel="noopener" data-cf-modified-0739f00523ed2000a07d52b2-="">Slagalice</a></li>
+					<li><a class="i-solitaire" target="_blank" href="https://solitairehut.com/?lang=sr" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://solitairehut.com/?utm_source=orb&amp;utm_medium=link&amp;utm_campaign=solitaire&amp;lang=sr'" rel="noopener" data-cf-modified-0739f00523ed2000a07d52b2-="">Pasijans</a></li>
+					<li><a class="i-mahjongchest" target="_blank" href="https://mahjongchest.com/?lang=sr" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://mahjongchest.com/?utm_source=orb&amp;utm_medium=link&amp;utm_campaign=mahjong&amp;lang=sr'" rel="noopener" data-cf-modified-0739f00523ed2000a07d52b2-="">Mahjong</a></li>
+					<li><a class="i-sudoku" target="_blank" href="https://sudokutable.com/?lang=sr" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://sudokutable.com/?utm_source=orb&amp;utm_medium=link&amp;utm_campaign=sudoku&amp;lang=sr'" rel="noopener" data-cf-modified-0739f00523ed2000a07d52b2-="">Sudoku</a></li>
+					<li><a class="i-colorsbattle" target="_blank" href="https://colorsbattle.com/?lang=sr" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://colorsbattle.com/?utm_source=orb&amp;utm_medium=link&amp;utm_campaign=colorsbattle&amp;lang=sr'" rel="noopener" data-cf-modified-0739f00523ed2000a07d52b2-="">Colors Battle</a></li>
+				</ul>
+				
+					<span class="i-login" data-toggle="modal" data-target="#popup_auth" role="button">Prijava</span>
+				
+				<!--.header__projectbar-->
+			</div>
+		</nav>
+		<!--.header-->
+	</div>
+</header>
+
+<div class="panel alert--favorite collapse" id="addToFavouritesPopup" role="alertdialog">
+	<span class="alert__i-close" data-toggle="collapse" id="addToFavouritesClose" data-target="#addToFavouritesPopup" aria-expanded="true" role="button">×</span>
+	<div class="alert__content">
+		Sviđa mi se <b></b>? <span class="link"data-toggle="modal" data-target="#popup_auth" role="button">Sačuvajte u svoje favorite</span>
+	</div>
+</div>
+
+<div class="panel alert--reviews collapse" id="alert_reviews" role="alertdialog">
+	<span class="alert__i-close" data-toggle="collapse" id="add_review_close" data-target="#alert_reviews" aria-expanded="true" role="button">×</span>
+	<div class="alert__content">
+		Sviđa mi se <b></b>? <span class="link"data-toggle="modal" data-target="#popup_auth" role="button">Ostavite svoju recenziju!</span>
+	</div>
+</div>
+
+<div class="panel alert--puzzlegarage collapse" id="alert_puzzlegarage" role="alertdialog">
+	<span class="alert__i-close" id="alert_puzzlegarage_close" data-toggle="collapse" data-target="#alert_puzzlegarage" aria-expanded="true" role="button">×</span>	<ul class="alert__content">
+		<li>
+			<span>Imate slobodnog vremena?<br>
+				<a href="https://puzzlegarage.com/" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://puzzlegarage.com/?utm_source=orb&utm_medium=advert&utm_campaign=puzzle'" target="_blank" data-cf-modified-0739f00523ed2000a07d52b2-="">Igrajte slagalice besplatno!</a>
+			</span>
+		</li>
+		<li>
+			<ul class="list-previews">
+	
+	<li class="list-previews__item">
+		<a href="https://puzzlegarage.com/puzzle/11800/" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://puzzlegarage.com/puzzle/11800/?utm_source=orb&utm_medium=advert&utm_campaign=puzzle'" target="_blank" data-cf-modified-0739f00523ed2000a07d52b2-="">
+			<picture title="Texas Longhorn">
+				<source srcset="https://cdn.puzzlegarage.com/img/puzzle/18/11800_thumb.v1.webp, https://cdn.puzzlegarage.com/img/puzzle/18/11800_thumb_r.v1.webp 2x" type="image/webp">
+				<img loading="lazy" src="https://cdn.puzzlegarage.com/img/puzzle/18/11800_thumb.v1.jpg" srcset="https://cdn.puzzlegarage.com/img/puzzle/18/11800_thumb.v1.jpg, https://cdn.puzzlegarage.com/img/puzzle/18/11800_thumb_r.v1.jpg 2x" alt="Texas Longhorn">
+			</picture>
+		</a>
+	</li>
+	
+	<li class="list-previews__item">
+		<a href="https://puzzlegarage.com/puzzle/7289/" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://puzzlegarage.com/puzzle/7289/?utm_source=orb&utm_medium=advert&utm_campaign=puzzle'" target="_blank" data-cf-modified-0739f00523ed2000a07d52b2-="">
+			<picture title="Katedrala Santjago">
+				<source srcset="https://cdn.puzzlegarage.com/img/puzzle/19/7289_thumb.v1.webp, https://cdn.puzzlegarage.com/img/puzzle/19/7289_thumb_r.v1.webp 2x" type="image/webp">
+				<img loading="lazy" src="https://cdn.puzzlegarage.com/img/puzzle/19/7289_thumb.v1.jpg" srcset="https://cdn.puzzlegarage.com/img/puzzle/19/7289_thumb.v1.jpg, https://cdn.puzzlegarage.com/img/puzzle/19/7289_thumb_r.v1.jpg 2x" alt="Katedrala Santjago">
+			</picture>
+		</a>
+	</li>
+	
+	<li class="list-previews__item">
+		<a href="https://puzzlegarage.com/puzzle/9204/" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://puzzlegarage.com/puzzle/9204/?utm_source=orb&utm_medium=advert&utm_campaign=puzzle'" target="_blank" data-cf-modified-0739f00523ed2000a07d52b2-="">
+			<picture title="Sculpture of a lion at the Genoese Cathedral">
+				<source srcset="https://cdn.puzzlegarage.com/img/puzzle/14/9204_thumb.v1.webp, https://cdn.puzzlegarage.com/img/puzzle/14/9204_thumb_r.v1.webp 2x" type="image/webp">
+				<img loading="lazy" src="https://cdn.puzzlegarage.com/img/puzzle/14/9204_thumb.v1.jpg" srcset="https://cdn.puzzlegarage.com/img/puzzle/14/9204_thumb.v1.jpg, https://cdn.puzzlegarage.com/img/puzzle/14/9204_thumb_r.v1.jpg 2x" alt="Sculpture of a lion at the Genoese Cathedral">
+			</picture>
+		</a>
+	</li>
+	
+	<li class="list-previews__item">
+		<a href="https://puzzlegarage.com/puzzle/9469/" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://puzzlegarage.com/puzzle/9469/?utm_source=orb&utm_medium=advert&utm_campaign=puzzle'" target="_blank" data-cf-modified-0739f00523ed2000a07d52b2-="">
+			<picture title="Dijamantski prsten">
+				<source srcset="https://cdn.puzzlegarage.com/img/puzzle/1d/9469_thumb.v1.webp, https://cdn.puzzlegarage.com/img/puzzle/1d/9469_thumb_r.v1.webp 2x" type="image/webp">
+				<img loading="lazy" src="https://cdn.puzzlegarage.com/img/puzzle/1d/9469_thumb.v1.jpg" srcset="https://cdn.puzzlegarage.com/img/puzzle/1d/9469_thumb.v1.jpg, https://cdn.puzzlegarage.com/img/puzzle/1d/9469_thumb_r.v1.jpg 2x" alt="Dijamantski prsten">
+			</picture>
+		</a>
+	</li>
+	
+			<!--/list-previews-->
+			</ul>
+		</li>
+	<!--/alert__content-->
+	</ul>
+</div>
+
+
+
+<div class="panel alert--mahjong collapse" id="alert_mahjong" role="alertdialog">
+	<span class="alert__i-close" data-toggle="collapse" data-target="#alert_mahjong" aria-expanded="true" role="button" id="alert_mahjong_close">×</span>
+	<ul class="alert__content">
+		<li>
+			<ul class="list-previews">
+				
+				<li class="list-previews__item" id="mahjong-0">
+					<a href="https://mahjongchest.com/" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://mahjongchest.com/?utm_source=orb&utm_medium=advert&utm_campaign=mahjong'" data-cf-modified-0739f00523ed2000a07d52b2-="">
+						<img src="//us0-cdn.onlineradiobox.com/img/mhj_banner-orbpopup.png" data-mahjong="" alt="" style="opacity: 0;">
+						<img src="//us0-cdn.onlineradiobox.com/img/mhj_banner-orbpopup-bg3.jpg" alt="Mahjong Waves">
+					</a>
+				</li>
+				
+				<li class="list-previews__item" id="mahjong-1">
+					<a href="https://mahjongchest.com/" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://mahjongchest.com/?utm_source=orb&utm_medium=advert&utm_campaign=mahjong'" data-cf-modified-0739f00523ed2000a07d52b2-="">
+						<img src="//us0-cdn.onlineradiobox.com/img/mhj_banner-orbpopup.png" data-mahjong="" alt="" style="opacity: 0;">
+						<img src="//us0-cdn.onlineradiobox.com/img/mhj_banner-orbpopup-bg1.jpg" alt="Mahjong Candy">
+					</a>
+				</li>
+				
+				<li class="list-previews__item" id="mahjong-2">
+					<a href="https://mahjongchest.com/" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://mahjongchest.com/?utm_source=orb&utm_medium=advert&utm_campaign=mahjong'" data-cf-modified-0739f00523ed2000a07d52b2-="">
+						<img src="//us0-cdn.onlineradiobox.com/img/mhj_banner-orbpopup.png" data-mahjong="" alt="" style="opacity: 0;">
+						<img src="//us0-cdn.onlineradiobox.com/img/mhj_banner-orbpopup-bg4.jpg" alt="Mahjong Triangle">
+					</a>
+				</li>
+				
+				<li class="list-previews__item" id="mahjong-3">
+					<a href="https://mahjongchest.com/" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://mahjongchest.com/?utm_source=orb&utm_medium=advert&utm_campaign=mahjong'" data-cf-modified-0739f00523ed2000a07d52b2-="">
+						<img src="//us0-cdn.onlineradiobox.com/img/mhj_banner-orbpopup.png" data-mahjong="" alt="" style="opacity: 0;">
+						<img src="//us0-cdn.onlineradiobox.com/img/mhj_banner-orbpopup-bg2.jpg" alt="Mahjong Snowflake">
+					</a>
+				</li>
+				
+			<!--/list-previews-->
+			</ul>
+		</li>
+		<li>
+			Imate slobodnog vremena?<br><a href="https://mahjongchest.com/" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; this.href='https://mahjongchest.com/?utm_source=orb&utm_medium=advert&utm_campaign=mahjong'" data-cf-modified-0739f00523ed2000a07d52b2-="">Igrajte najbolji Mahjong na mreži!</a>
+		</li>
+	<!--/alert__content-->
+	</ul>
+</div>
+
+<div class="page">
+
+
+<ul class="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList" role="navigation">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="/rs/" class="ajax" itemprop="item" itemtype="https://schema.org/Thing"><span itemprop="name">Srbija</span></a><meta itemprop="position" content="1" /></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="/rs/Central_Serbia-/" class="ajax" itemprop="item" itemtype="https://schema.org/Thing"><span itemprop="name">Централна Србија</span></a><meta itemprop="position" content="2" /></li>
+
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="/rs/Belgrade" class="ajax" itemprop="item" itemtype="https://schema.org/Thing"><span itemprop="name">Beograd</span></a><meta itemprop="position" content="3" /></li>
+
+<li><span>TDI Acoustic</span></li></ul>
+<div class="page__wrapper-4aside">
+	<div class="page__wrapper-4right">
+	   <div class="page__column-left" itemscope="" itemtype="https://schema.org/RadioStation">
+
+	<style>
+    .saveUA{display:block; margin-bottom:24px; padding:8px; color:#0057B8; text-align:center; text-decoration:none; box-shadow:0 0 0 1px #0057B8 inset; border-radius:4px; font-size:1.25rem}
+    .saveUA:hover{color:#ff6000; box-shadow:0 0 0 1px #ff6000 inset}
+    @media screen and (min-width: 1080px) {.saveUA{margin-left:16px}}
+</style>
+<a href="https://u24.gov.ua/" target="_blank" class="saveUA">Stanimo uz Ukrajinu. Sačuvajmo mir u svetu!</a>
+
+
+
+<section class="station">
+	<figure class="station__logo">
+		<img itemprop="image" src="//us0-cdn.onlineradiobox.com/img/l/4/93164.v4.png" alt="TDI Acoustic" title="TDI Acoustic">
+	</figure>
+	<h1 class="station__title" itemprop="name">TDI Acoustic</h1>
+  <button  class="b-play station_play" aria-label="Slušajte uživo" title="Slušajte radio uživo" stream="https://streaming.tdiradio.com/acoustic.mp3" streamType="mp3" radioId="rs.tdiacoustic" radioImg="//us0-cdn.onlineradiobox.com/img/l/4/93164.v4.png" radioName="TDI Acoustic"></button>
+
+
+<div class="station__location">
+
+</div>
+	<ul class="station__tags" role="list">
+<li><a href="/rs/genre/acoustic/" class="ajax">acoustic</a></li>
+
+	</ul>
+
+<div class="subject-rating">
+
+<div class="stars-rating" onclick="if (!window.__cfRLUnblockHandlers) return false; $('html,body').animate({scrollTop:$('#review').offset().top},500);return false;" data-cf-modified-0739f00523ed2000a07d52b2-="">
+	<span data-rating="0.0"></span><div style="width:0%;"></div>
+</div>
+
+<div class="subject-rating__votes"><span class="subject-rating__votes__value">Ocena: <span>0.0</span></span>
+    <a href="#review" onclick="if (!window.__cfRLUnblockHandlers) return false; $('html,body').animate({scrollTop:$('#review').offset().top},500);return false;" data-cf-modified-0739f00523ed2000a07d52b2-="">Komentara</a>: <span>0</span>
+</div>
+</div>
+
+
+<div class="station__description" itemprop="description">Najslusaniji Radio u Beogradu! Najbolja muzika, top liste, urbane emisije!
+</div>
+
+<ul class="station__reference">
+	<li class="station__reference__lang"> <a class="ajax" href="/search?l=sr" title="Serbian">Srpski</a></li>
+<li><a href="http://www.tdiradio.com/" target="_blank" class="station__reference--web" itemprop="url">Veb-lokacija</a></li><li><a href="https://www.facebook.com/tdiradiotelevizija" target="_blank" class="i-fb--reference" title="Facebook"></a></li><li><a href="https://sr.wikipedia.org/wiki/Радио_ТДИ" target="_blank" class="i-wiki--reference" title="Wikipedia"></a></li>
+</ul>
+
+<div class="station__actions">
+	<div class="station__actions__share">
+    <div class="sharing" role="complementary">
+      <div class="addthis_sharing_toolbox"></div>
+    </div>
+	</div>
+	<div class="station__actions__buttons"><span class="station__actions__pill"><button class="b-favorite" title="Dodaj u moje favorite" data-toggle="modal" data-target="#popup_auth">Sviđa mi se</button><span class="i-chart" title="ocena">10</span></span>
+		<span class="station__actions__pill"><button  class="b-play station_play" aria-label="Slušajte uživo" title="Slušajte radio uživo" stream="https://streaming.tdiradio.com/acoustic.mp3" streamType="mp3" radioId="rs.tdiacoustic" radioImg="//us0-cdn.onlineradiobox.com/img/l/4/93164.v4.png" radioName="TDI Acoustic">Slušajte uživo</button>
+<span class="i-listeners" title="slušalaca">1</span></span>
+	</div>
+</div>
+
+<ul class="station__services">
+<li><a href="#station_contacts" class="station__services--contacts" onclick="if (!window.__cfRLUnblockHandlers) return false; $('html,body').animate({scrollTop:$('#station_contacts').offset().top},500);return false;" data-cf-modified-0739f00523ed2000a07d52b2-="">Kontakti</a></li>
+</ul>
+
+<!--/station-->
+</section>
+
+
+
+<section class="station-linked">
+	<h2>Srodne radio stanice</h2>
+
+	<div class="cut collapse " id="station-linked__list" data-toggle="collapse" aria-expanded="false">
+	<ul class="station-linked__list">
+
+<li><a href="/rs/tdi/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/5/11805.v6.png" alt="TDI Radio" title="TDI Radio">TDI Radio</a></li>
+
+<li><a href="/rs/tdihouse/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/9/11809.v7.png" alt="TDI House" title="TDI House">TDI House</a></li>
+
+<li><a href="/rs/tditop40/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/1/11811.v7.png" alt="TDI TOP 40" title="TDI TOP 40">TDI TOP 40</a></li>
+
+<li><a href="/rs/tdidomacica/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/2/11812.v5.png" alt="TDI DOMAĆICA" title="TDI DOMAĆICA">TDI DOMAĆICA</a></li>
+
+<li><a href="/rs/tdilove/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/3/11813.v7.png" alt="TDI LOVE" title="TDI LOVE">TDI LOVE</a></li>
+
+<li><a href="/rs/tdiclassic/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/9/12439.v7.png" alt="TDI Classics 80&#39; 90&#39;" title="TDI Classics 80&#39; 90&#39;">TDI Classics 80&#39; 90&#39;</a></li>
+
+<li><a href="/rs/tdiyudance/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/6/12916.v7.png" alt="TDI Yu Euro Dance" title="TDI Yu Euro Dance">TDI Yu Euro Dance</a></li>
+
+<li><a href="/rs/tdichillout/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/7/12917.v7.png" alt="TDI CHILLOUT" title="TDI CHILLOUT">TDI CHILLOUT</a></li>
+
+<li><a href="/rs/tdiradiobezreklama/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/5/67045.v6.png" alt="TDI Radio Bez Reklama" title="TDI Radio Bez Reklama">TDI Radio Bez Reklama</a></li>
+
+<li><a href="/rs/tdihouseclassics/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/9/67049.v6.png" alt="TDI House Classics" title="TDI House Classics">TDI House Classics</a></li>
+
+<li><a href="/rs/tdipoprnbhits/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/2/67052.v6.png" alt="TDI Pop RnB Hits" title="TDI Pop RnB Hits">TDI Pop RnB Hits</a></li>
+
+</ul>
+</div>
+
+	<span class="stations__more collapsed" data-target="#station-linked__list" data-toggle="collapse" aria-expanded="false" role="button">Prikaži više</span>
+
+
+<!--/station-linked__section-->
+</section>
+<a name="review" id="review"></a>
+<section class="review">
+
+<h2>TDI Acoustic komentara</h2>
+
+
+	<form class="review__form post_form" action="https://onlineradiobox.com/rs/tdiacoustic/" anchor="review" id="reviewForm">
+	
+		<input type="button" class="button" value="Ostavite svoju ocenu" data-target="#popup_auth" data-toggle="modal" />
+	
+	</form>
+	<script type="0739f00523ed2000a07d52b2-text/javascript">
+	function confirmDeleleteReview(e, text) {
+		if (!confirm(text)) {
+			e.stopImmediatePropagation();
+		}
+	}
+
+	function checkReviewForm() {
+		var form = document.getElementById("reviewForm");
+		var submit = form.querySelector("input[type=submit]");
+		if (!submit) {
+				return;
+		}
+		var review = form.querySelector("textarea[name=review]");
+		var ratings = form.querySelectorAll("input[name=review_rating]");
+		var checked = false;
+		for (var i = 0; i < ratings.length; i++) {
+			if (ratings[i].checked) {
+				checked = true;
+				break;
+			}
+		}
+		if (review.value=="" || !checked) {
+			submit.disabled = true;
+		} else {
+			submit.disabled = false;
+		}
+	}
+	checkReviewForm();
+	</script>
+
+
+
+<!-- /reviews -->
+</section>
+
+<section class="station-description">
+
+	<a name="station_contacts" id="station_contacts"></a>
+	<h2>Radio kontakti</h2>
+	<p></p>
+	<table role="complementary"><tbody>
+
+<tr>
+	<td>Adresa:</td>
+	<td>
+		<span itemprop="address">Alekse Nenadovića 19-21, 11000 Beograd</span>
+	</td>
+</tr>
+
+<tr>
+	<td>Telefon:</td>
+	<td>
+		<a href="tel:+381 11 3089 399" itemprop="telephone" rel="nofollow" target="_blank">+381 11 3089 399</a>
+	</td>
+</tr>
+
+<tr>
+	<td>Lokacija:</td>
+	<td>
+		<a href="http://www.tdiradio.com/" itemprop="url" rel="nofollow" target="_blank">www.tdiradio.com</a>
+	</td>
+</tr>
+
+<tr>
+	<td>Email:</td>
+	<td>
+		<a href="/cdn-cgi/l/email-protection#7d19180e163d0919140f1c191412531e1210" itemprop="email" rel="nofollow" target="_blank"><span class="__cf_email__" data-cfemail="02666771694276666b7063666b6d2c616d6f">[email&#160;protected]</span></a>
+	</td>
+</tr>
+
+<tr>
+	<td>Facebook:</td>
+	<td>
+		<a href="https://www.facebook.com/tdiradiotelevizija" itemprop="additionalProperty" rel="nofollow" target="_blank">@tdiradiotelevizija</a>
+	</td>
+</tr>
+
+<tr>
+	<td>Instagram:</td>
+	<td>
+		<a href="https://www.instagram.com/tdiradio/" itemprop="additionalProperty" rel="nofollow" target="_blank">@tdiradio</a>
+	</td>
+</tr>
+
+<tr>
+	<td>Youtube:</td>
+	<td>
+		<a href="https://www.youtube.com/user/tdiradiotelevizija" itemprop="additionalProperty" rel="nofollow" target="_blank">@tdiradiotelevizija</a>
+	</td>
+</tr>
+
+	</tbody></table>
+
+	<p role="complementary">
+		<span itemprop="additionalProperty">SMS/MMS broj:  381 69 3089 399</span>
+	</p>
+
+
+<p class="station__dp-time">
+	<a href="https://dayspedia.com/time/rs/Belgrade/?lang=sr" target="_blank">Vreme u gradu Beograd</a>: <ins>11:40</ins>, <ins>04.09.2023</ins>
+</p>
+
+</section>
+
+		<!--/page__column-left-->
+	</div>
+
+<!--/page__wrapper-4right-->
+</div>
+
+			<div class="page__column-right">
+<div class="banner--vertical">
+
+<!-- 71161633/radio_vrec_1/radio_vrec_1 -->
+<div data-fuse="22875713429"></div>	
+	
+</div>
+
+
+
+
+<div class="playmarket" role="alertdialog">
+
+	<p>Instalirajte besplatnu Online Radio Box <a href="/rs/tdiacoustic/app/" class="ajax">aplikacija</a> aplikaciju na svom pametnom telefonu i slušajte svoje omiljene radio stanice preko interneta - gde god da ste!</p>
+	<div class="playmarket__buttons">
+	<span class="link--playmarket" role="button">
+            <a href="https://play.google.com/store/apps/details?id=com.finallevel.radiobox&amp;referrer=utm_source%3Dradiobox%26utm_medium%3Dreferral%26utm_campaign%3Dhomepage" target="_blank">
+                <img alt="Get it on Google Play" src="//us0-cdn.onlineradiobox.com/img/google-play-badge2_sr.png">
+            </a>
+    </span>
+
+	
+	<span class="link--appstore" role="button">
+            <a href="https://geo.itunes.apple.com/us/app/id1101437391?referrer=utm_source%3Dradiobox%26utm_medium%3Dreferral%26utm_campaign%3Dhomepage" target="_blank">
+                <img alt="Download on the App Store" src="//us0-cdn.onlineradiobox.com/img/app-store-sr.svg">
+            </a>
+    </span>
+
+	</div>
+	<div class="playmarket__other">
+		<a href="/android" class="ajax">druge opcije</a>
+	</div>
+	<!--/playmarket-->
+</div>
+
+
+  <!--/page__column-right-->
+  </div>
+<!--/page__wrapper-4aside-->
+</div>
+
+<aside class="page__aside">
+<h2>Preporučeno</h2>
+<table class="tablelist-stations" role="list">
+<tbody>
+
+<tr><td><a href="/rs/buca/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/2/11532.v5.png" alt="Radio Buca" title="Radio Buca">Radio Buca</a></td></tr>
+
+<tr><td><a href="/rs/okradio/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/4/11534.v11.png" alt="Ok Radio" title="Ok Radio">Ok Radio</a></td></tr>
+
+<tr><td><a href="/rs/naxi/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/0/11540.v6.png" alt="Naxi Radio" title="Naxi Radio">Naxi Radio</a></td></tr>
+
+<tr><td><a href="/rs/as958/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/4/11824.v13.png" alt="Radio AS FM" title="Radio AS FM">Radio AS FM</a></td></tr>
+
+<tr><td><a href="/rs/beograd202/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/8/11828.v4.png" alt="Radio Beograd 202" title="Radio Beograd 202">Radio Beograd 202</a></td></tr>
+
+<tr><td><a href="/rs/pink/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/3/12093.v7.png" alt="Pink Radio" title="Pink Radio">Pink Radio</a></td></tr>
+
+<tr><td><a href="/rs/pannon/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/0/12890.v4.png" alt="Pannon Radio" title="Pannon Radio">Pannon Radio</a></td></tr>
+
+<tr><td><a href="/rs/hit985/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/6/13256.v3.png" alt="HIT FM" title="HIT FM">HIT FM</a></td></tr>
+
+<tr><td><a href="/rs/delta/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/9/13469.v17.png" alt="Delta Radio" title="Delta Radio">Delta Radio</a></td></tr>
+
+<tr><td><a href="/rs/karolina/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/9/66599.v5.png" alt="Radio Karolina" title="Radio Karolina">Radio Karolina</a></td></tr>
+
+<tr><td><a href="/rs/sumadinac/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/4/66644.v5.png" alt="Radio Šumadinac" title="Radio Šumadinac">Radio Šumadinac</a></td></tr>
+
+<tr><td><a href="/rs/puls887/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/9/67369.v7.png" alt="Radio Puls Grocka" title="Radio Puls Grocka">Radio Puls Grocka</a></td></tr>
+
+<tr><td><a href="/rs/lola/" class="ajax"><img src="//us0-cdn.onlineradiobox.com/img/l/5/119695.v1.png" alt="Lola radio" title="Lola radio">Lola radio</a></td></tr>
+
+</tbody>
+</table>
+
+<!--/page__aside-->
+</aside>
+
+
+
+<!--/page-->
+</div>
+<div class="banner--footer">
+	
+<!-- 71161633/radio_footer/radio_footer -->
+<div data-fuse="22875212926"></div>
+	
+</div>
+
+<!--/wrapper-->
+</div>
+
+<footer class="footer">
+<section class="footer__section" id="footer-section">
+<div  class="footer__current">
+			<a href="/rs/" class="footer__current__link ajax">
+				Radio na Internetu <span class="footer__current__link__country">Srbija</span> <i class="i-flag rs"></i>
+			</a>
+
+	<span class="footer__language-toggle dropup">Jezik:<br /><span id="dLang" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">Srpski</span>
+<div class="dropdown-menu" aria-labelledby="dLang">
+<ul class="lang-menu" role="menu">
+<li><a href="?lang=en">English</a></li><li><a href="?lang=es">Español</a></li><li><a href="?lang=de">Deutsch</a></li><li><a href="?lang=fr">Français</a></li><li><a href="?lang=pt">Português</a></li><li><a href="?lang=ru">Русский</a></li>
+</ul>
+<ul class="lang-menu" role="menu">
+<li><a href="?lang=be">Беларуская</a></li><li><a href="?lang=bg">Български</a></li><li><a href="?lang=cs">Čeština</a></li><li><a href="?lang=da">Dansk</a></li><li><a href="?lang=el">Ελληνικά</a></li><li><a href="?lang=hr">Hrvatski</a></li><li><a href="?lang=id">Bahasa Indonesia</a></li><li><a href="?lang=it">Italiano</a></li><li><a href="?lang=hu">Magyar</a></li><li><a href="?lang=ms">Bahasa Melayu</a></li><li><a href="?lang=nl">Nederlands</a></li><li><a href="?lang=pl">Polski</a></li><li><a href="?lang=ro">Română</a></li><li class="active"><a href="?lang=sr">Srpski</a></li><li><a href="?lang=sk">Slovenský</a></li><li><a href="?lang=th"> ภาษาไทย</a></li><li><a href="?lang=tr">Türkçe</a></li><li><a href="?lang=uk">Українська</a></li>
+</ul>
+</div>
+	</span>
+</div>
+
+<dl class="footer__suggestions">
+	<dt>Susedne države</dt>
+	<dd>
+		<ul class="footer__countries-list" role="directory">
+<li><a href="/al/" class="i-flag al ajax">Albanija</a></li><li><a href="/hu/" class="i-flag hu ajax">Mađarska</a></li><li><a href="/mk/" class="i-flag mk ajax">Severna Makedonija</a></li><li><a href="/ro/" class="i-flag ro ajax">Rumunija</a></li><li><a href="/hr/" class="i-flag hr ajax">Hrvatska</a></li><li><a href="/ba/" class="i-flag ba ajax">Bosna i Hercegovina</a></li><li><a href="/bg/" class="i-flag bg ajax">Bugarska</a></li><li><a href="/me/" class="i-flag me ajax">Crna Gora</a></li><li><a href="/xk/" class="i-flag xk ajax">Kosovo</a></li>
+		</ul>
+	</dd>
+
+<dt>Popularne države</dt>
+<dd>
+
+	<ul class="footer__countries-list" role="directory">
+<li><a href="/us/" class="i-flag us ajax">Sjedinjene Američke Države</a></li><li><a href="/br/" class="i-flag br ajax">Brazil</a></li><li><a href="/de/" class="i-flag de ajax">Njemačka</a></li><li><a href="/co/" class="i-flag co ajax">Kolumbija</a></li>
+	</ul>
+</dd>
+<dt class="footer__playmarket">
+
+<h3>Slušajte <b>TDI Acoustic</b> na vašem pametnom telefonu besplatno pomoću  <a href="/android">Android</a> ili <a href="https://geo.itunes.apple.com/us/app/id1101437391?referrer=utm_source%3Dradiobox%26utm_medium%3Dreferral%26utm_campaign%3Dhomepage">iOS</a> aplikacije!</h3>
+</dt>
+<!--/footer__countries-->
+</dl>
+
+<div class="footer__additional">
+<ul class="footer__mainland-list" role="directory">
+<li><a href="/Africa/" class="ajax">Afrike</a></li><li><a href="/Asia/" class="ajax">Azije</a></li><li><a href="/North-America/" class="ajax">Severna Amerika</a></li><li><a href="/South-America/" class="ajax">Južna Amerika</a></li><li class=&#34;active&#34;><a href="/Europe/" class="ajax">Europe</a></li><li><a href="/Oceania/" class="ajax">Okeanija</a></li>
+</ul>
+	<div class="footer__socials">
+		<a href="https://www.facebook.com/onlineradiobox/" target="_blank" class="i-fb" title="Online Radio Box on facebook"></a> <a href="https://twitter.com/onlineradiobox/" target="_blank" class="i-tw" title="Online Radio Box's twitter"></a>
+		<a href="https://www.instagram.com/_online_radio_box_/" target="social" class="i-inst" title="Online Radio Box's Instagram"></a>
+	</div>
+</div>
+
+
+<!--/footer__section-->
+</section>
+
+<section class="footer__info">
+	<span class="footer__info__copyright" role="contentinfo">&copy;&nbsp;Online Radio Box, 2015-2023.<br/>
+			Created by <a href="https://final-level.com/" target="_blank">Final Level</a>
+	</span>
+	<ul class="footer__info__links" role="complementary">
+		<li><a href="/terms" class="ajax">Uslovi</a></li>
+		
+			<li><a href="/privacy" class="ajax">Privatnost</a></li>
+		
+		<li><a href="/feedback" class="ajax">Povratne informacije</a></li>
+		<li><a href="/widgets/" class="ajax">Vidžeti</a></li>
+		<li><a href="/office/" class="ajax">Za radio stanice</a></li>
+	</ul>
+<!--/footer__info-->
+</section>
+
+</footer>
+
+<div class="modal fade _login" id="popup_auth" tabindex="-1" aria-labelledby="myModalLabel_0" aria-hidden="true" role="dialog">
+	<div class="modal__dialog">
+		<div class="modal__content">
+			<span class="modal__i-close" data-dismiss="modal" aria-label="Close" aria-hidden="true">×</span>
+			<h3 class="modal__heading" id="myModalLabel_0">Autorizacija</h3>
+			<p>Autorizacija se samo traži radi čuvanja vaših ličnih podešavanja</p>
+			<div class="login__agreement">
+				<input type="checkbox" id="user-agree"> <label for="user-agree">Pročitao/la sam i slažem se sa</label> <a href="/terms" target="policy">Uslovi</a> & <a href="/privacy" target="policy">Privatnost</a>
+			</div>
+			<p>Prijava pomoću</p>
+			<p class="login__social-buttons"><a href="#" class="b-fb socialLoginPopup disabled" haspopup="false" network="fb" title="Facebook"></a><a href="#" class="b-google socialLoginPopup disabled" haspopup="false" network="google" title="Google"></a><a href="#" class="b-tw socialLoginPopup disabled" haspopup="false" network="tw" title="Twitter"></a><a href="#" class="b-yahoo socialLoginPopup disabled" haspopup="false" network="yahoo" title="Yahoo"></a><a href="#" class="b-apple socialLoginPopup disabled" haspopup="false" network="apple" title="Apple"></a><a href="#" class="b-telegram socialLoginPopup disabled" haspopup="true" network="telegram" title="Telegram"></a>
+</p>
+			<p>
+				<small class="link collapsed" data-toggle="collapse" data-target="#auth_options" aria-expanded="false">Prikaži više načina autorizacije</small>
+			</p>
+			<div class="panel">
+				<div class="login__social-buttons collapse" id="auth_options" aria-expanded="false">
+<a href="#" class="b-vk socialLoginPopup disabled" network="vk" title="ВКонтакте"></a><a href="#" class="b-mailru socialLoginPopup disabled" network="mailru" title="Мейл.ру"></a><a href="#" class="b-yandex socialLoginPopup disabled" network="yandex" title="Яндекс"></a>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+<button id="set_radio_button" style="display: none;" played="0" class="b-play station_play" aria-label="Slušajte uživo" title="Slušajte radio uživo" stream="https://streaming.tdiradio.com/acoustic.mp3" streamType="mp3" radioId="rs.tdiacoustic" radioImg="//us0-cdn.onlineradiobox.com/img/l/4/93164.v4.png" radioName="TDI Acoustic"></button>
+
+<div class="modal fade _disconnect" tabindex="-1" aria-labelledby="pDisconnect" id="popup_no_internet" aria-hidden="true" role="dialog">
+	<div class="modal__dialog">
+		<div class="modal__content">
+			<span class="modal__i-close" data-dismiss="modal" aria-label="Close" aria-hidden="true">×</span>
+			<div class="_loading"></div>
+			<span id="pDisconnect">Veza sa serverom je izgubljena</span>
+		</div>
+	</div>
+</div>
+<div class="modal fade _loading" id="loading" tabindex="-1" aria-hidden="true" role="progressbar"></div>
+<div class="modal fade _disabled" id="popup_disabled" tabindex="-1" aria-labelledby="stopped_station_popup" aria-hidden="true" role="dialog">
+	<div class="modal__dialog">
+		<div class="modal__content">
+			<span class="modal__i-close" data-dismiss="modal" aria-label="Close" aria-hidden="true">×</span>
+			<h3 class="modal__heading" id="stopped_station_popup">Nažalost, stanica je prestala sa emitovanjem</h3>
+			<p>Možda je ovo privremeni problem sa stanicom.</p>
+			Možete da nam ostavite adresu e-pošte i mi ćemo vam javiti kada stanica opet počne da emituje na internetu:
+			<form>
+				<input type="email" placeholder="email" /> <input type="submit" class="button" value="pretplati se" id="disabled_subscribe" />
+			</form>
+			Ili slušajte drugu <a href="/rs/" class="ajax" id="alternative-stations-link">Srbije stanice</a>
+		</div>
+	</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="0739f00523ed2000a07d52b2-text/javascript">
+window.trackServer="https://scraper2.onlineradiobox.com/";
+window.currentCountry="rs";
+</script>
+	
+<script type="0739f00523ed2000a07d52b2-text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5599667902ff0b70" async="async"></script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="0739f00523ed2000a07d52b2-text/javascript"></script>
+<script src="//us0-cdn.onlineradiobox.com/js/bootstrap.js" type="0739f00523ed2000a07d52b2-text/javascript"></script>
+<script type="0739f00523ed2000a07d52b2-text/javascript" src="//us0-cdn.onlineradiobox.com/js/videojs-7.8.4.min.26a26e10.js"></script>
+
+<script src="//us0-cdn.onlineradiobox.com/js/radio.min.10df41a4.js" type="0739f00523ed2000a07d52b2-text/javascript"></script>
+
+	<script type="0739f00523ed2000a07d52b2-text/javascript">
+		(function() {
+			function getXHR() {
+				if (navigator.appName == "Microsoft Internet Explorer"){
+					return new ActiveXObject("Microsoft.XMLHTTP");
+				} else {
+					return new XMLHttpRequest();
+				}
+			}
+
+			function getAuth() {
+				var xhr = getXHR();
+				xhr.open('POST', 'https://oauth.telegram.org/auth/get?bot_id=5527323299&lang=sr-rs');
+				xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+				xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+				xhr.onreadystatechange = function() {
+					if (xhr.readyState == 4) {
+						if (typeof xhr.responseBody == 'undefined' && xhr.responseText) {
+							try {
+								var result = JSON.parse(xhr.responseText);
+							} catch(e) {
+								var result = {};
+							}
+							if (!result.user) {
+								console.log("Failed to get user auth data");
+								return;
+							}
+							var authXhr = getXHR();
+							var params = new URLSearchParams(result.user);
+							authXhr.open("GET", "https://onlineradiobox.com/social/auth/telegram/?" + params.toString());
+							authXhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+							authXhr.onreadystatechange = function() {
+								if (authXhr.readyState == 4 && authXhr.status == 200) {
+									window.location.reload();
+									return;
+								}
+							};
+							authXhr.onerror = function() {
+								console.log("Failed to send user auth data");
+							};
+							authXhr.withCredentials = true;
+							authXhr.send();
+						}
+					}
+				};
+				xhr.onerror = function() {
+					console.log("Tg auth failed");
+				};
+				xhr.withCredentials = true;
+				xhr.send();
+			};
+
+			document.addEventListener('DOMContentLoaded', function() {
+				document.getElementsByClassName("b-telegram")[0].addEventListener("click", function(event) {
+					event.preventDefault();
+					if (this.classList.contains('disabled')) {
+						return;
+					}
+
+					var popup = window.open("https://oauth.telegram.org/auth/?bot_id=5527323299&embed=1&origin=https%3A%2F%2Fonlineradiobox.com", 'telegram_oauth_bot5527323299', 'width=550,height=470,left=445,top=240,status=0,location=0,menubar=0,toolbar=0');
+					popup.focus();
+
+					var timer = setInterval(function() {
+						if (popup.closed) {
+							clearInterval(timer);
+							getAuth();
+						}
+					}, 100);
+
+					return false;
+				});
+			}, false);
+		})();
+	</script>
+	
+
+<script type="0739f00523ed2000a07d52b2-text/javascript">
+$(function() {
+	console.log("Load css")
+	$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', '//us0-cdn.onlineradiobox.com/css/icons.min.7d4caca3.css') );
+})
+</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="0739f00523ed2000a07d52b2-|49" defer=""></script></body>
+</html>

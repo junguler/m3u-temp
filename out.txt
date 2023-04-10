@@ -1,19 +1,0 @@
-Script started on 2023-04-10 15:56:14+03:30 [TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="141" LINES="6"]
-remote: Enumerating objects: 15, done.[K
-remote: Counting objects:   6% (1/15)[Kremote: Counting objects:  13% (2/15)[Kremote: Counting objects:  20% (3/15)[Kremote: Counting objects:  26% (4/15)[Kremote: Counting objects:  33% (5/15)[Kremote: Counting objects:  40% (6/15)[Kremote: Counting objects:  46% (7/15)[Kremote: Counting objects:  53% (8/15)[Kremote: Counting objects:  60% (9/15)[Kremote: Counting objects:  66% (10/15)[Kremote: Counting objects:  73% (11/15)[Kremote: Counting objects:  80% (12/15)[Kremote: Counting objects:  86% (13/15)[Kremote: Counting objects:  93% (14/15)[Kremote: Counting objects: 100% (15/15)[Kremote: Counting objects: 100% (15/15), done.[K
-remote: Compressing objects: 100% (1/1)[Kremote: Compressing objects: 100% (1/1), done.[K
-Unpacking objects:  12% (1/8)Unpacking objects:  25% (2/8)Unpacking objects:  37% (3/8)Unpacking objects:  50% (4/8)Unpacking objects:  62% (5/8)Unpacking objects:  75% (6/8)remote: Total 8 (delta 7), reused 8 (delta 7), pack-reused 0[K
-Unpacking objects:  87% (7/8)Unpacking objects: 100% (8/8)Unpacking objects: 100% (8/8), 108.51 KiB | 277.00 KiB/s, done.
-From https://github.com/junguler/test1
-   d9b7e44..7b4eb03  main       -> origin/main
-Updating d9b7e44..7b4eb03
-Fast-forward
- A-electronic-.txt | 2100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-folk-.txt       | 2100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-news.txt        | 2100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-newstalk-.txt   | 2100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-pop.txt         | 2100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-talk.txt        | 2100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- 6 files changed, 12600 insertions(+)
-
-Script done on 2023-04-10 15:56:17+03:30 [COMMAND_EXIT_CODE="0"]

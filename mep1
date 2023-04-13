@@ -1,0 +1,2010 @@
+<!DOCTYPE html class="container">
+<!--[if IE 8 ]><html class="ie8" itemscope itemtype="http://schema.org/WebPage"><![endif]-->
+<!--[if IE 9 ]><html class="ie9" itemscope itemtype="http://schema.org/WebPage"><![endif]-->
+<!--[if IE 10 ]><html class="ie10" itemscope itemtype="http://schema.org/WebPage"><![endif]-->
+<meta http-equiv="language" content="en_US">
+<head>
+	<!-- Global META -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="apple-itunes-app" content="app-id=587362421">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, target-densitydpi=device-dpi">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+	<!-- Page title -->
+	<title>Internet radio | Listen to online radio stations | Radioguide.FM</title>
+
+
+	<!-- Favicon -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ee6f00">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="theme-color" content="#ffffff">
+
+	<!-- HTML5 shiv and Respond.js -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-NMFSTL9');</script>
+	<!-- End Google Tag Manager -->
+	<meta name="title">
+<meta name="description" content="">
+<link href="/media/public/css/main.css" rel="stylesheet">
+    <!-- Semantic data -->
+    <meta itemprop="name" content="Radioguide.FM - Listen to online radio stations in your genre">
+    <meta itemprop="description" content="Listen to online radio stations in your favourite genre. Select your genre and listen. In each genre we have selected the most popular radio stations. Just click and listen. Your internet radio.">
+    <!-- 74fc94b280a53c34 -->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMFSTL9"
+				  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header>
+	<!-- Full width background -->
+	<div id="headerbg" class="hidden-xs">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="row">
+						<div class="col-md-3">
+							<!-- Site logo -->
+							<a href="/" title="Radioguide.fm" class="pull-left"><img src="/public/img/rg-logo.png" id="header_logo"></a>
+
+						</div>
+						<div class="col-md-9">
+															<ul id="guest" class="pull-left">
+
+								</ul>
+														<ul class="pull-right">
+																	<li><a href="/login"><i class="fa fa-lock fa-inverse" aria-hidden="true"></i>Login</a></li>
+									<li><a href="/user/register" class="btn btn-primary"><i class="fa fa-pencil fa-inverse" aria-hidden="true"></i>Sign Up</a></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<nav class="navbar">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="navbar-header">
+
+						<button type="button" class="navbar-toggle collapsed" style="margin-right: 0px" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand visible-xs" rel="home" href="/" title="Radioguide.fm" style="padding: 0px; margin-top: 10px; height: 0px;">
+							<img src="/img/radioguidelogo.png" class="img-responsive" style="width: 220px">
+						</a>
+					</div>
+					<div class="collapse navbar-collapse" id="navbar-collapse-1">
+						<a href="/">
+							<div class="rg-icon" style="margin-left: -85px; opacity: 0; margin-top: 3px;"></div>
+						</a>
+						<ul class="nav navbar-nav">
+							<li class="active"><a href="/">Home <span class="sr-only">(current)</span></a></li>
+							<li class="clearfix expand"><a href="/genre" class="extra clearfix">Genres</a>
+								<div class="clearfix second">
+									<div><p>Most popular genres:</p></div>
+									<ul class="clearfix">
+																					<li class="genre">
+												<a href="/search/index?genre=pop">
+													<img src="/uploads/images/genre/pop.jpg" alt="Pop"><p>Pop</p>
+													<div>
+														<i class="fa fa-music"></i>3452													</div>
+												</a>
+											</li>
+																					<li class="genre">
+												<a href="/search/index?genre=rock">
+													<img src="/uploads/images/genre/rock.jpg" alt="Rock"><p>Rock</p>
+													<div>
+														<i class="fa fa-music"></i>1958													</div>
+												</a>
+											</li>
+																					<li class="genre">
+												<a href="/search/index?genre=top-40">
+													<img src="/uploads/images/genre/top-40.jpg" alt="Top 40"><p>Top 40</p>
+													<div>
+														<i class="fa fa-music"></i>1895													</div>
+												</a>
+											</li>
+																					<li class="genre">
+												<a href="/search/index?genre=hits">
+													<img src="/uploads/images/genre/hits.jpg" alt="Hits"><p>Hits</p>
+													<div>
+														<i class="fa fa-music"></i>1819													</div>
+												</a>
+											</li>
+																					<li class="genre">
+												<a href="/search/index?genre=talk">
+													<img src="/uploads/images/genre/talk.jpg" alt="Talk"><p>Talk</p>
+													<div>
+														<i class="fa fa-music"></i>1469													</div>
+												</a>
+											</li>
+																					<li class="genre">
+												<a href="/search/index?genre=oldies">
+													<img src="/uploads/images/genre/oldies.jpg" alt="Oldies"><p>Oldies</p>
+													<div>
+														<i class="fa fa-music"></i>1419													</div>
+												</a>
+											</li>
+																					<li class="genre">
+												<a href="/search/index?genre=dance">
+													<img src="/uploads/images/genre/dance.jpg" alt="Dance"><p>Dance</p>
+													<div>
+														<i class="fa fa-music"></i>1416													</div>
+												</a>
+											</li>
+																					<li class="genre">
+												<a href="/search/index?genre=news">
+													<img src="/uploads/images/genre/news.jpg" alt="News"><p>News</p>
+													<div>
+														<i class="fa fa-music"></i>1200													</div>
+												</a>
+											</li>
+																					<li class="genre">
+												<a href="/search/index?genre=house">
+													<img src="/uploads/images/genre/house.jpg" alt="House"><p>House</p>
+													<div>
+														<i class="fa fa-music"></i>760													</div>
+												</a>
+											</li>
+																					<li class="genre">
+												<a href="/search/index?genre=classic">
+													<img src="/uploads/images/genre/classic.jpg" alt="Classic"><p>Classic</p>
+													<div>
+														<i class="fa fa-music"></i>733													</div>
+												</a>
+											</li>
+																			</ul>
+									<div class="clearfix"><a href="/genre">Show all genres</a></div>
+								</div>
+							</li>
+							<li class="clearfix expand"><a href="/countries" class="extra clearfix">Countries</a>
+								<div class="clearfix second">
+									<div><p>Most popular countries:</p></div>
+									<ul class="clearfix">
+																					<li class="country">
+												<a href="/internet-radio-america">
+													<img src="/uploads/images/region/america.jpg" alt="America"><p>America</p>
+													<div>
+														<i class="fa fa-music"></i>12													</div>
+												</a>
+											</li>
+																					<li class="country">
+												<a href="/internet-radio-united-states">
+													<img src="/uploads/images/region/united-states.jpg" alt="United States"><p>United States</p>
+													<div>
+														<i class="fa fa-music"></i>3382													</div>
+												</a>
+											</li>
+																					<li class="country">
+												<a href="/internet-radio-france">
+													<img src="/uploads/images/region/france.jpg" alt="France"><p>France</p>
+													<div>
+														<i class="fa fa-music"></i>841													</div>
+												</a>
+											</li>
+																					<li class="country">
+												<a href="/internet-radio-england">
+													<img src="/uploads/images/region/england.jpg" alt="England"><p>England</p>
+													<div>
+														<i class="fa fa-music"></i>572													</div>
+												</a>
+											</li>
+																					<li class="country">
+												<a href="/internet-radio-nederland">
+													<img src="/uploads/images/region/nederland.jpg" alt="Nederland"><p>Nederland</p>
+													<div>
+														<i class="fa fa-music"></i>534													</div>
+												</a>
+											</li>
+																					<li class="country">
+												<a href="/internet-radio-canada">
+													<img src="/uploads/images/region/canada.jpg" alt="Canada"><p>Canada</p>
+													<div>
+														<i class="fa fa-music"></i>432													</div>
+												</a>
+											</li>
+																					<li class="country">
+												<a href="/internet-radio-deutschland">
+													<img src="/uploads/images/region/deutschland.jpg" alt="Deutschland"><p>Deutschland</p>
+													<div>
+														<i class="fa fa-music"></i>367													</div>
+												</a>
+											</li>
+																					<li class="country">
+												<a href="/internet-radio-espana">
+													<img src="/uploads/images/region/espana.jpg" alt="Espana"><p>Espana</p>
+													<div>
+														<i class="fa fa-music"></i>338													</div>
+												</a>
+											</li>
+																					<li class="country">
+												<a href="/internet-radio-italia">
+													<img src="/uploads/images/region/italia.jpg" alt="Italia"><p>Italia</p>
+													<div>
+														<i class="fa fa-music"></i>337													</div>
+												</a>
+											</li>
+																					<li class="country">
+												<a href="/internet-radio-brasil">
+													<img src="/uploads/images/region/brasil.jpg" alt="Brasil"><p>Brasil</p>
+													<div>
+														<i class="fa fa-music"></i>267													</div>
+												</a>
+											</li>
+																			</ul>
+									<div class="clearfix"><a href="/countries">Show all countries</a></div>
+								</div>
+							</li>
+                            <li class="clearfix expand"><a href="/blog" class="extra clearfix">Blog</a>
+                                <div class="clearfix second">
+                                    <div><p>Latest blogs:</p></div>
+                                    <ul class="clearfix">
+                                                                                    <li class="genre">
+                                                <a href="/blog/comparateur-de-prix-de-monte-escaliers-en-belgique-et-france">
+                                                    <img src="/uploads/images/blog/8A85DA36-1126-4FBA-B3EA-CB2989FCE01F-2-2.jpeg" alt="Comparateur de prix de monte-escaliers en Belgique et France"><p>Comparateur de prix de monte-escaliers en Belgique et France</p>
+                                                </a>
+                                            </li>
+                                                                                    <li class="genre">
+                                                <a href="/blog/everything-you-need-to-know-about-sound-effects-for-podcasts">
+                                                    <img src="/uploads/images/blog/tobias-tullius-yoT88Qjmsqo-unsplash.jpg" alt="Everything you need to know about sound effects for podcasts"><p>Everything you need to know about sound effects for podcasts</p>
+                                                </a>
+                                            </li>
+                                                                                    <li class="genre">
+                                                <a href="/blog/terrassendielen-darauf-sollten-sie-beim-kauf-achten">
+                                                    <img src="/uploads/images/blog/BC1E021E-7F8B-401D-9DB8-6DF24F40DACC.jpeg" alt="Terrassendielen - Darauf sollten Sie beim Kauf achten"><p>Terrassendielen - Darauf sollten Sie beim Kauf achten</p>
+                                                </a>
+                                            </li>
+                                                                                    <li class="genre">
+                                                <a href="/blog/top-5-of-earth-wind-and-fire-songs">
+                                                    <img src="/uploads/images/blog/pexels-rodnae-productions-6806400.jpg" alt="Top 5 of Earth, Wind and Fire Songs"><p>Top 5 of Earth, Wind and Fire Songs</p>
+                                                </a>
+                                            </li>
+                                                                                    <li class="genre">
+                                                <a href="/blog/robuste-holzlasuren-effektiver-schutz-fur-schwedische-holzfarben">
+                                                    <img src="/uploads/images/blog/A4A61C39-A747-44E9-9D10-89101B86E9EE.jpeg" alt="Robuste Holzlasuren: Effektiver Schutz für schwedische Holzfarben"><p>Robuste Holzlasuren: Effektiver Schutz für schwedische Holzfarben</p>
+                                                </a>
+                                            </li>
+                                                                                    <li class="genre">
+                                                <a href="/blog/naar-f1-radio-luisteren-vanuit-het-buitenland-met-een-vpn">
+                                                    <img src="/uploads/images/blog/vpn.png" alt="Naar F1 radio luisteren vanuit het buitenland met een VPN"><p>Naar F1 radio luisteren vanuit het buitenland met een VPN</p>
+                                                </a>
+                                            </li>
+                                                                                    <li class="genre">
+                                                <a href="/blog/top-5-popular-bruno-mars-songs">
+                                                    <img src="/uploads/images/blog/pexels-kindel-media-7527862.jpg" alt="Top 5 popular Bruno Mars songs"><p>Top 5 popular Bruno Mars songs</p>
+                                                </a>
+                                            </li>
+                                                                                    <li class="genre">
+                                                <a href="/blog/waarom-gaat-het-massaal-over-when-i-was-your-man-nadat-miley-cyrus-haar-nieuwste-single-flowers-heeft-uitgebracht">
+                                                    <img src="/uploads/images/blog/0D17082A-7DEA-4865-9F0F-AC88C1044F94.jpeg" alt="Waarom gaat het massaal over When I Was Your Man nadat Miley Cyrus haar nieuwste single Flowers heeft uitgebracht?"><p>Waarom gaat het massaal over When I Was Your Man nadat Miley Cyrus haar nieuwste single Flowers heeft uitgebracht?</p>
+                                                </a>
+                                            </li>
+                                                                                    <li class="genre">
+                                                <a href="/blog/een-nieuwe-uitstraling-met-andere-binnendeuren">
+                                                    <img src="/uploads/images/blog/11B4B69D-D4DD-467E-ACCD-BFDD5B596865.jpeg" alt="Een nieuwe uitstraling met andere binnendeuren"><p>Een nieuwe uitstraling met andere binnendeuren</p>
+                                                </a>
+                                            </li>
+                                                                                    <li class="genre">
+                                                <a href="/blog/4-tips-voor-een-goed-feest">
+                                                    <img src="/uploads/images/blog/pexels-cottonbro-3171837.jpg" alt="4 tips voor een goed feest"><p>4 tips voor een goed feest</p>
+                                                </a>
+                                            </li>
+                                                                            </ul>
+                                    <div class="clearfix"><a href="/blog">Show all blogs</a></div>
+                                </div>
+                            </li>
+							<li><a href="/search/index">Search</a></li>
+															<li><a href="/add-station">Add station</a></li>
+													</ul>
+						<!-- begin AutoComplete search-->
+						<form class="navbar-form navbar-right clearfix" method="get" action="/search/index">
+							<div class="ui-widget">
+								<input id="SearchAutocompleteHeader" name="searchtext" placeholder="Search station or genre">
+  								<span class="input-group-btn">
+  									<button type="submit" class="btn btn-default btn-md" >
+										<i class="fa fa-search fa-inverse" aria-hidden="true"></i>
+									</button>
+  								</span>
+							</div>
+						</form>
+						<ul class="nav navbar-nav header-items">
+															<li><a href="/login"><i class="fa fa-lock " aria-hidden="true"></i> Login</a></li>
+								<li><a href="/user/register"><i class="fa fa-pencil" aria-hidden="true"></i> Sign Up</a></li>
+													</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+</header>
+
+<body>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="../js/delay.js"></script>
+<!-- Breadcrumbs -->
+<div class="container" itemprop="mainEntityOfPage" itemscope itemprop="organization" itemtype="http://schema.org/Organization">
+    <div class="row" style="margin-top: -20px">
+        <form id="w0" action="/internet-radio-usa-florida/wqrb-rnb-radio" method="post" role="form">
+<input type="hidden" name="_csrf" value="b3h1ZTdwUy06OwIqRx0rHiRVLSAAFQtnNTQPHWIAAlU1VTEOdEU1Qg==">
+        <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="b3h1ZTdwUy06OwIqRx0rHiRVLSAAFQtnNTQPHWIAAlU1VTEOdEU1Qg==">
+        <div class="form-group field-ratingform-rating">
+
+<input type="hidden" id="ratingform-rating" class="form-control" name="RatingForm[rating]">
+
+</div>        <div class="form-group field-ratingform-radiostation_id">
+
+<input type="hidden" id="ratingform-radiostation_id" class="form-control" name="RatingForm[radiostation_id]" value="641d9b23b5551e6d538b477c">
+
+</div>        </form>        <div class="col-md-12">
+            <ol class="breadcrumb" itemprop="breadcrumb">
+                <li><a href="/" title="Internet Radio">Internet Radio</a></li>
+                <li><a href="/internet-radio-usa-florida" title="Nederland">USA Florida</a></li>
+                <li class="active">WQRB RNB RADIO</li>
+            </ol>
+        </div>
+    </div>
+    <div itemscope itemtype="http://schema.org/RadioStation">
+        <style>
+            @media (max-width: 768px) {
+                /* flip the entire row */
+                .row.switch-xs {
+                    transform: rotate(180deg);
+                    -webkit-transform: rotate(180deg);
+                    direction: rtl;
+                    margin-bottom: 20px;
+                }
+
+                /* flip the col */
+                .row.switch-xs > [class^="col-"] {
+                    transform: rotate(-180deg);
+                    -webkit-transform: rotate(-180deg);
+                    direction: ltr;
+                    margin-bottom: 0px;
+                }
+                body{
+                    text-align: center;
+                }
+                .breadcrumb>li {
+                    font-size: 12px;
+                }
+            }
+        </style>
+            <div class="col-md-8">
+                <div class="row switch-xs">
+                                            <div class="col-md-12">
+                            <div class="row visible-xs visible-sm">
+                                <div class="col-xs-6 col-md-3 col-xs-offset-3" style="border: solid 1px #ccc; border-radius: 5px; margin-bottom: 10px; margin-top: 10px;">
+                                    <img src="/uploads/images/radiostation/WQRB RNB RADIO.jpg" class="img-responsive center-block" style="height: 100px">
+                                </div>
+                            </div>
+                            <div class="row visible-xs visible-sm">
+                                <!-- Radio station player -->
+                                <div class="col-md-8" style="text-align: center; margin-bottom: 10px;">
+                                    <div class="row">
+                                        <button class="btn btn-primary btn-large" id="mplayBtn"><i class="fa fa-play" style="color: #fff;"></i> &nbsp;Listen radio</button>
+                                        <button class="btn btn-primary btn-large" id="mloadBtn" style="display: none;"><i class="fa fa-spinner fa-spin" style="color: #fff;"></i> &nbsp;Listen radio</button>
+                                        <button class="btn btn-primary btn-large" id="mpauseBtn" style="display: none;"><i class="fa fa-pause" style="color: #fff;"></i> &nbsp;Listen radio</button>
+                                    </div>
+                                </div>
+                            </div>
+                    <div class="row visible-xs visible-sm">
+                        <div class="col-md-12">
+                            <div class="rating" style="text-align: center">
+                                                                <i class="fa fa-star-o fa-1x" style="color: #cccccc" aria-hidden="true"></i>                                                                <i class="fa fa-star-o fa-1x" style="color: #cccccc" aria-hidden="true"></i>                                                                <i class="fa fa-star-o fa-1x" style="color: #cccccc" aria-hidden="true"></i>                                                                <i class="fa fa-star-o fa-1x" style="color: #cccccc" aria-hidden="true"></i>                                                                <i class="fa fa-star-o fa-1x" style="color: #cccccc" aria-hidden="true"></i>                                </li>
+                            </div>
+                        </div>
+                    </div>
+                            <div class="row" style="margin-bottom: 10px">
+                            <div class="radiostation-title" style="padding: 0px">
+                                <h1 itemprop="name">WQRB RNB RADIO</h1>
+                                
+                            </div>
+                            <div class="radiostation-content" style="padding: 0px">
+                                <p itemprop="description" class="bold" style="width: 100%; line-height: 1.5; font-size: 16px; margin: 0px;">WQRB RNB Radio is the radio station providing that RNB Vibe that you are looking for.
+ 
+The whole station is a journey from old school hits to the latest RNB hits to suit your vibe.
+
+We take pride in not only playing your favorites but also playing music that you didn’t know that you wanted to hear but will soon become favorites of yours.
+
+Follow us on social media @WQRBradio
+</p>
+                            </div>
+                        </div>
+                        </div>
+                                        <div class="col-md-12">
+                        <a href="/radiostation/favorite?slug=wqrb-rnb-radio" class="favorite pull-left"><i class="fa fa-star"></i> Add to Favorites</a>
+                        <a role = 'button' class="pull-right" id="no-sound" data-toggle="modal" data-target="#modalEmail"><i class="fa fa-chain-broken"></i> No sound?</a>
+                       </div>
+                    <div class="col-md-12 hidden-sm hidden-xs" style="padding: 0; min-height: 80px">
+                        <div class="col-xs-12 col-md-3 p-0">
+                                                                       <img src="/uploads/images/radiostation/WQRB RNB RADIO.jpg" class="img-responsive center-block">
+                                                                        
+                        </div>
+                        <div class="col-xs-12 col-md-9 p-0">
+                            <div class="well well-sm" style="">
+                                <div class="row">
+                                    <div class="col-xs-2 text-right">
+                                        <a href="javascript:void(0);" id="playBtn"><i class="fa fa-play" aria-hidden="true"></i></a>
+                                        <i class="fa fa-spinner fa-spin" id="loadBtn" aria-hidden="true" style="display:none;"></i>
+                                        <a href="javascript:void(0);" id="pauseBtn" style="display:none;"><i class="fa fa-pause" aria-hidden="true"></i></a>
+                                    </div>
+                                    <div class="col-xs-2 text-center" id="title">
+                                        <div id="timer">0:00</div>
+                                    </div>
+                                    <div class="col-xs-6">
+                                        <input type="range" id="volBtn" name="volBtn" min="0" max="100" value="80">
+                                    </div>
+                                    <div class="col-xs-2">
+                                        <span id='muteBtn'><i class="fa fa-volume-up" aria-hidden="true"></i></span>
+                                        <span id='unmuteBtn' style="display:none;"><i class="fa fa-volume-off" aria-hidden="true"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                </div>
+        <div class="col-md-4 col-sm-12 hidden-xs hidden-sm">
+            <div class="radiostation-right" style=" margin-top: -30px">
+
+<!-- 300x250_rg_new_07062018 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7023873810903687"
+     data-ad-slot="1285814718"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				<!--<img class = 'image_delay' style= "z-index: 1; position: absolute;" src = '#' data-delayedsrc= '../public/img/banners/Radioguide-banner-300x250.jpg'> -->                               
+            </div>
+        </div>
+                    <meta itemprop="url" content="https://www.radioguide.fm/internet-radio-usa-florida/wqrb-rnb-radio">
+                        <style>
+                            .well.well-sm {
+                                border-radius:20px;
+                                border:0;
+                                margin-top: 20px;
+                            }
+                            .well.well-sm > div.row > div.col-xs-2.text-right i {
+                                font-size:18px;
+                            }
+                            .well.well-sm > div.row > div.col-xs-2 span i {
+                                font-size:24px;
+                            }
+                            .well.well-sm > div.row > div {
+                                padding-top:6px;
+                            }
+                        </style>
+                        <div class="clearfix"></div>
+
+    <div class="row">
+        <div class="col-md-12 hidden-xs hidden-sm">
+            <!-- Info about the radio station -->
+            <div class="station-stats" >
+                <ul class="clearfix">
+                    <li itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Country: <a href="/internet-radio-usa-florida"><span itemprop="addressLocality">USA Florida</span></a></li>
+                    <li>Genre(s): <a href="/search/index?genre=r-n-b">R n B</a>, <a href="/search/index?genre=urban">Urban</a></li>
+                        <span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+                            <li id="rating-container"> <span itemprop="ratingValue" style="margin-left: 5px"> 0 Ratings</span>
+                                                                    <i id="1" class="fa fa-star " aria-hidden="true"> </i>
+                                                                    <i id="2" class="fa fa-star " aria-hidden="true"> </i>
+                                                                    <i id="3" class="fa fa-star " aria-hidden="true"> </i>
+                                                                    <i id="4" class="fa fa-star " aria-hidden="true"> </i>
+                                                                    <i id="5" class="fa fa-star " aria-hidden="true"> </i>
+                                </li>
+                            <li><a id="addrevlink"><span itemprop="reviewCount">0</span> reviews</a></li>
+                        </span>
+                    <li><a id="addrevlink">Add review</a></li>
+                    <style>
+                        li.pull-right:after {
+                            content: none !important;
+                        }
+                    </style>
+                    <li class="pull-right hidden-sm hidden-xs">
+                        <a href="https://facebook.com/sharer/sharer.php?u=https://www.radioguide.fm/internet-radio-usa-florida/wqrb-rnb-radio" target="_blank" aria-label="Share on Facebook"><i class="fa fa-facebook-square" style="font-size: 25px; color: #3B5998"></i></a>
+                        <a href="https://twitter.com/home?status=https://www.radioguide.fm/internet-radio-usa-florida/wqrb-rnb-radio" target="_blank" aria-label="Share on Twitter"><i class="fa fa-twitter-square" style="font-size: 25px; color: #00aced"></i></a>
+                        <a href="https://plus.google.com/share?url=https://www.radioguide.fm/internet-radio-usa-florida/wqrb-rnb-radio" target="_blank" aria-label="Share on Google+"><i class="fa fa-google-plus-square" style="font-size: 25px; color: #d34836"></i></a>
+                        <i class="fa fa-envelope-square" style="font-size: 25px;"></i>
+                    </li>
+                </ul>
+                <div class="tabs more clearfix" style="display: none;">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs nav-tabs-dropdown" role="tablist">
+                                <li role="presentation" style="display: list-item;"><a data-toggle="tab" role="tab" href="#tab-background" class="nav-link">Background</a></li>
+                                <li role="presentation" style="display: list-item;"><a data-toggle="tab" role="tab" href="#tab-programs" class="nav-link disabled">Programs &amp; DJ's</a></li>
+                                <li role="presentation" style="display: list-item;"><a data-toggle="tab" role="tab" href="#tab-pictures" class="nav-link disabled">Pictures</a></li>
+                                <li role="presentation" style="display: list-item;"><a data-toggle="tab" role="tab" href="#tab-videos" class="nav-link disabled">Videos</a></li>
+                                <li role="presentation" style="display: list-item;"><a data-toggle="tab" role="tab" href="#tab-playlist" class="nav-link disabled">Playlist</a></li>
+
+                                <li role="presentation" style="display: list-item;"><a data-toggle="tab" role="tab" href="#tab-reviews" class="nav-link">Reviews</a></li>
+                                <li role="presentation" style="display: list-item;" class="active"><a data-toggle="tab" role="tab" href="#tab-social" class="nav-link">Social</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-12 tab-content">
+                            <div id="tab-background" class="tab-pane" role="tabpanel">
+                                <div class="row">
+                                    <div class="col-sm-12"><hr></div>
+                                    <div class="col-sm-3"><strong>Description</strong></div><div class="col-sm-9">WQRB RNB Radio is the radio station providing that RNB Vibe that you are looking for.
+ 
+The whole station is a journey from old school hits to the latest RNB hits to suit your vibe.
+
+We take pride in not only playing your favorites but also playing music that you didn’t know that you wanted to hear but will soon become favorites of yours.
+
+Follow us on social media @WQRBradio
+</div>
+                                                                            <div class="col-sm-12"><hr></div>
+                                        <div class="col-sm-3"><strong>Station owner</strong></div><div class="col-sm-9">Nino Lee</div>
+                                                                                                                <div class="col-sm-12"><hr></div>
+                                        <div class="col-sm-3"><strong>Year of establishment</strong></div><div class="col-sm-9">2022</div>
+                                                                                                                <div class="col-sm-12"><hr></div>
+                                        <div class="col-sm-3"><strong>Address</strong></div><div class="col-sm-9">10927 OAK RIDGE DR S</div>
+                                                                                                                <div class="col-sm-12"><hr></div>
+                                        <div class="col-sm-3"><strong>Postal / zip code</strong></div><div class="col-sm-9">32225</div>
+                                                                                                                <div class="col-sm-12"><hr></div>
+                                        <div class="col-sm-3"><strong>City</strong></div><div class="col-sm-9">JACKSONVILLE</div>
+                                                                                                                <div class="col-sm-12"><hr></div>
+                                        <div class="col-sm-3"><strong>History</strong></div><div class="col-sm-9">Welcome to WQRB RNB Radio!
+We are a premier RNB radio station located in the heart of Jacksonville, FL. Since our founding in 2022, we have been committed to bringing our listeners the best of both worlds - new hits and classic jams.
+
+At WQRB, we believe that music is the universal language that brings people together. That's why we're dedicated to playing a wide range of music, from party hits to new jams from both mainstream and indie artists. Our playlist is carefully curated to keep you entertained and engaged throughout the day.
+
+Our team at WQRB is made up of passionate professionals who are committed to delivering high-quality content and exceptional listening experiences. We strive to bring you the latest news, exclusive interviews, and exciting events that keep you connected to the world of RNB.
+
+Thank you for choosing WQRB RNB Radio as your go-to station for all things RNB. We look forward to sharing our love of music with you!</div>
+                                                                    </div>
+                            </div>
+                            <div id="tab-programs" class="tab-pane" role="tabpanel">
+                                                            </div>
+                            <div id="tab-pictures" class="tab-pane" role="tabpanel">
+                                                            </div>
+                            <div id="tab-videos" class="tab-pane" role="tabpanel">
+                                                             </div>
+                            <div id="tab-playlist" class="tab-pane" role="tabpanel">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <input type="hidden" value="" id="playlisttype">
+                                        <input type="hidden" value="" id="playlistid">
+                                        <input type="hidden" value="true" id="tuneinenabled">
+                                        <input type="hidden" value="true" id="shoutcastenabled">
+                                        <p><strong>current program:</strong> <span class="program"></span></p>
+                                        <p><strong>now playing:</strong> <span class="nowplaying"></span></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="tab-reviews" class="tab-pane" role="tabpanel">
+                                                                <hr>
+                                <form id="w1" action="/internet-radio-usa-florida/wqrb-rnb-radio" method="post" enctype="multipart/form-data">
+<input type="hidden" name="_csrf" value="b3h1ZTdwUy06OwIqRx0rHiRVLSAAFQtnNTQPHWIAAlU1VTEOdEU1Qg==">
+                                <div class="form-group field-reviewform-name required">
+<div class="row"><div class="col-md-3"><label class="control-label" for="reviewform-name">Name</label></div><div class="col-sm-9"><input type="text" id="reviewform-name" class="form-control" name="ReviewForm[name]" error="test" aria-required="true"><p class="help-block help-block-error"></p></div></div>
+</div>
+                                <div class="form-group field-reviewform-email required">
+<div class="row"><div class="col-md-3"><label class="control-label" for="reviewform-email">Email address (Will not be shown)</label></div><div class="col-sm-9"><input type="text" id="reviewform-email" class="form-control" name="ReviewForm[email]" error="test" aria-required="true"><p class="help-block help-block-error"></p></div></div>
+</div>
+                                <div class="form-group field-reviewform-review required">
+<div class="row"><div class="col-md-3"><label class="control-label" for="reviewform-review">Review</label></div><div class="col-sm-9"><textarea id="reviewform-review" class="form-control" name="ReviewForm[review]" rows="4" error="test" aria-required="true"></textarea><p class="help-block help-block-error"></p></div></div>
+</div>
+                                <div class="row rating-row">
+                                    <div class="col-md-3">
+                                        <label class="control-label">Rating</label>
+                                    </div>
+                                    <div class="col-md-9">
+                                        <div id="five-star-rating">
+                                            <i class="fa fa-star star1" aria-hidden="true"></i>
+                                            <i class="fa fa-star star2" aria-hidden="true"></i>
+                                            <i class="fa fa-star star3" aria-hidden="true"></i>
+                                            <i class="fa fa-star star4" aria-hidden="true"></i>
+                                            <i class="fa fa-star star5" aria-hidden="true"></i>
+                                            <input type="hidden" name="five-star-rating-value">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group field-reviewform-captcha required">
+<div class="row"><div class="col-md-3"><label class="control-label" for="reviewform-captcha">Captcha</label></div><div class="col-sm-9"><img id="reviewform-captcha-image" src="/site/captcha?v=64382e3ddab59" alt=""> <input type="text" id="reviewform-captcha" class="form-control" name="ReviewForm[captcha]"><p class="help-block help-block-error"></p></div></div>
+</div>
+                                <input type="submit" class="btn btn-primary" value="Save">
+                                </form>                            </div>
+                            <div id="tab-social" class="tab-pane active" role="tabpanel">
+                                <div id="fb-root"></div>
+                                <script>(function(d, s, id) {
+                                        var js, fjs = d.getElementsByTagName(s)[0];
+                                        if (d.getElementById(id)) return;
+                                        js = d.createElement(s); js.id = id;
+                                        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+                                        fjs.parentNode.insertBefore(js, fjs);
+                                    }(document, 'script', 'facebook-jssdk'));</script>
+                                <div class="fb-comments" data-href="https://www.radioguide.fm/internet-radio-usa-florida/wqrb-rnb-radio" data-numposts="5"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="more">Show more</div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="related_stations">
+                <h4>other visitors also listened to:</h4>
+                <div class="row">
+                    <div class="col-md-6 col-sm-9 col-xs-12">
+                        <ul>
+                                                                                                <li class="col-md-3 col-sm-3 col-xs-3">
+                                        <div>
+                                            <a href="/internet-radio-usa-florida/k92fm-orlando">
+                                                <img src="/uploads/images/radiostation/k923-fm-orlando.jpg" class="img-responsive">
+                                            </a>
+                                        </div>
+                                    </li>
+                                                                        <li class="col-md-3 col-sm-3 col-xs-3">
+                                        <div>
+                                            <a href="/internet-radio-usa-florida/1063-the-rock">
+                                                <img src="/uploads/images/radiostation/1063-the-rock.jpg" class="img-responsive">
+                                            </a>
+                                        </div>
+                                    </li>
+                                                                        <li class="col-md-3 col-sm-3 col-xs-3">
+                                        <div>
+                                            <a href="/internet-radio-usa-florida/hot-959-fm">
+                                                <img src="/uploads/images/radiostation/hot-959-fm.jpg" class="img-responsive">
+                                            </a>
+                                        </div>
+                                    </li>
+                                                                        <li class="col-md-3 col-sm-3 col-xs-3">
+                                        <div>
+                                            <a href="/internet-radio-usa-florida/wflc-973-the-coast">
+                                                <img src="/uploads/images/radiostation/973-the-coast.jpg" class="img-responsive">
+                                            </a>
+                                        </div>
+                                    </li>
+                                                                                        </ul>
+                    </div>
+                    <div class="col-md-6 col-sm-9 col-xs-12 topstation hidden-xs hidden-sm" style="margin-bottom: 10px">
+                                                <a href="/add-station" style="margin: 0!important;">
+                            <img src="/public/img/promo-logo2.png" class="img-responsive">
+                            <div class="radio-stations">
+                                <p>Top station of the week</p>
+                                <h3>YOUR STATION HERE ?</h3>
+                            </div>
+                                                            <div class="play"><i class="fa fa-play fa-inverse fa-2x" aria-hidden="true"></i></div>
+                            </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!-- Div that shows the most popular radio stations -->
+    <div class="stations-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Popular radiostations in USA Florida</h2>
+                    <div class="row">
+                        <ul class="clearfix countries">
+                                                            <li class="col-md-2 col-sm-6 col-xs-6">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/k92fm-orlando">
+                                            <div>
+                                                1                                            </div>
+                                                                                        <img src="/uploads/images/radiostation/k923-fm-orlando.jpg" class="img-responsive">
+                                                                                       
+                                        </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-2 col-sm-6 col-xs-6">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/1063-the-rock">
+                                            <div>
+                                                2                                            </div>
+                                                                                        <img src="/uploads/images/radiostation/1063-the-rock.jpg" class="img-responsive">
+                                                                                       
+                                        </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-2 col-sm-6 col-xs-6">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/hot-959-fm">
+                                            <div>
+                                                3                                            </div>
+                                                                                        <img src="/uploads/images/radiostation/hot-959-fm.jpg" class="img-responsive">
+                                                                                       
+                                        </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-2 col-sm-6 col-xs-6">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/wflc-973-the-coast">
+                                            <div>
+                                                4                                            </div>
+                                                                                        <img src="/uploads/images/radiostation/973-the-coast.jpg" class="img-responsive">
+                                                                                       
+                                        </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-2 col-sm-6 col-xs-6">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/sunny-1043-fm">
+                                            <div>
+                                                5                                            </div>
+                                                                                        <img src="/uploads/images/radiostation/sunny-1079-fm.jpg" class="img-responsive">
+                                                                                       
+                                        </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-2 col-sm-6 col-xs-6">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/80sus-fl">
+                                            <div>
+                                                6                                            </div>
+                                                                                        <img src="/uploads/images/radiostation/radio-80s.jpg" class="img-responsive">
+                                                                                       
+                                        </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-2 col-sm-6 col-xs-6">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/pointus-fl">
+                                            <div>
+                                                7                                            </div>
+                                                                                        <img src="/uploads/images/radiostation/radio-the-point.jpg" class="img-responsive">
+                                                                                       
+                                        </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-2 col-sm-6 col-xs-6">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/wduv-1055">
+                                            <div>
+                                                8                                            </div>
+                                                                                        <img src="/uploads/images/radiostation/wduv-1055.jpg" class="img-responsive">
+                                                                                       
+                                        </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-2 col-sm-6 col-xs-6">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/z883-fm">
+                                            <div>
+                                                9                                            </div>
+                                                                                        <img src="/uploads/images/radiostation/z883-fm.jpg" class="img-responsive">
+                                                                                       
+                                        </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-2 col-sm-6 col-xs-6">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/tantalk-radio">
+                                            <div>
+                                                10                                            </div>
+                                                                                        <img src="/uploads/images/radiostation/tan-talk-1340-am.jpg" class="img-responsive">
+                                                                                       
+                                        </a>
+                                    </div>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="container">
+    <div class="row">
+        <ul class="clearfix">
+            <li class="col-md-1 col-xs-12 spotlights hidden-xs hidden-sm"><label>spotlight</label>
+                <div class="top-link">
+                                        <a href="/add-station">
+                        <img src="/public/img/promo-logo2.png" class="img-responsive">
+                                                </a>
+                </div>
+            </li>
+            <li class="col-md-10 col-xs-12 com hidden-xs hidden-sm">
+				<!-- stationpage_728x90 -->
+                <ins class="adsbygoogle"
+                     style="display:block"
+                     data-ad-client="ca-pub-7023873810903687"
+                     data-ad-slot="3922258681"
+                     data-ad-format="horizontal"></ins>
+                <script>
+                     (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+				<!--<img class = 'image_delay' style= "z-index: 1; position: relative; left:0px;" src = '#' data-delayedsrc= '../public/img/banners/Radioguide-banner-79.jpg'>  --->                             
+                <div>
+				</div>
+
+            </li>
+            <li class="col-md-1 col-xs-12 spotlights hidden-xs hidden-sm"><label>spotlight</label>
+                <div class="top-link">
+                                        <a href="/add-station">
+                        <img src="/public/img/promo-logo2.png" class="img-responsive">
+                                                </a>
+                </div>
+            </li>
+        </ul>
+        <ul class="clearfix">
+                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/jamzus-fl">
+                                                                <img src="/uploads/images/radiostation/radio-jamz.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/wami-radio">
+                                                                <img src="/uploads/images/radiostation/1700-wami-radio-am.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/power-96">
+                                                                <img src="/uploads/images/radiostation/power-96.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/1063-the-seabreeze">
+                                                                <img src="/uploads/images/radiostation/wsbz-1063-the-seabreeze.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/wkis-999-fm">
+                                                                <img src="/uploads/images/radiostation/wkis-999-kiss-fm.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/hitradio-florida">
+                                                                <img src="/uploads/images/radiostation/Logohitradio300x300.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/throwback-80s-radio">
+                                                                <img src="/uploads/images/radiostation/throwback-80s-radio.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/max-983-fm">
+                                                                <img src="/uploads/images/radiostation/max-983-fm.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/memoryradio-florida">
+                                                                <img src="/uploads/images/radiostation/Logomemories300x300.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/q105-wrbq">
+                                                                <img src="/uploads/images/radiostation/q105-wrbq.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/radio-wokv">
+                                                                <img src="/uploads/images/radiostation/wokv-radio.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/951-wape">
+                                                                <img src="/uploads/images/radiostation/951-wape.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/island-106">
+                                                                <img src="/uploads/images/radiostation/island-106.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/kiss-1053-wyks-fm">
+                                                                <img src="/uploads/images/radiostation/kiss-1053-wyks-fm.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/b1063-fm">
+                                                                <img src="/uploads/images/radiostation/b1063-fm.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/la-nueva-883-fm">
+                                                                <img src="/uploads/images/radiostation/wgnk-la-nueva-883-fm.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/mixus_co">
+                                                                <img src="/uploads/images/radiostation/radio-mix-1.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/trance-florida">
+                                                                <img src="/uploads/images/radiostation/trance-radio-florida.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/techno-florida">
+                                                                <img src="/uploads/images/radiostation/techno-radio-florida.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/house-florida">
+                                                                <img src="/uploads/images/radiostation/house-radio-florida.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/wirkus-fl">
+                                                                <img src="/uploads/images/radiostation/radio-wirk.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/eagleus-fl">
+                                                                <img src="/uploads/images/radiostation/radio-the-eagle.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/wildus-fl">
+                                                                <img src="/uploads/images/radiostation/radio-wild.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/wmfeus-fl">
+                                                                <img src="/uploads/images/radiostation/radio-wmfe.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/buzzus-fl">
+                                                                <img src="/uploads/images/radiostation/radio-buzz.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/wqamus-fl">
+                                                                <img src="/uploads/images/radiostation/radio-wqam.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                <li class="col-md-6 com">
+                        <div class="spotlight-between-small hidden-xs hidden-sm">
+
+                          <!-- 468x60_new -->
+                            <ins class="adsbygoogle"
+                                 style="display:block"
+                                 data-ad-client="ca-pub-7023873810903687"
+                                 data-ad-slot="1230063688"></ins>
+                            <script>
+                                 (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+						<!--<img class = 'image_delay' style= "z-index: 1; position: absolute;" src = '#' data-delayedsrc= '../public/img/banners/Radioguide-banner-46.jpg'>  -->                        
+                        </div>
+                    </li>
+                                                    <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/wqykus-fl">
+                                                                <img src="/uploads/images/radiostation/radio-wqyk.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                                <li class="col-md-1 col-sm-3 col-xs-3">
+                        <div>
+                            <a href="/internet-radio-usa-florida/play-987-fm">
+                                                                <img src="/uploads/images/radiostation/play-987-fm.jpg" class="img-responsive">
+                                                            </a>
+                        </div>
+                    </li>
+                                                                    </ul>
+    </div>
+</div>
+    <div class="stations-bg trending">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Trending radio stations in USA Florida</h2>
+                    <div class="row">
+                        <ul class="clearfix">
+
+                                                            <li class="col-md-1 col-sm-3 col-xs-3">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/moonlight-mist">
+                                                                                        <img src="/uploads/images/radiostation/MoonlightMist.png" class="img-responsive">
+                                                                                    </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-1 col-sm-3 col-xs-3">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/andino-la-ideal">
+                                                                                        <img src="/uploads/images/radiostation/57E29046-6A1B-479A-BE20-E7D33C3B254E.png" class="img-responsive">
+                                                                                    </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-1 col-sm-3 col-xs-3">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/100-hip-hop-and-rnb-fm">
+                                                                                        <img src="/uploads/images/radiostation/100 LOGO 24b.png" class="img-responsive">
+                                                                                    </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-1 col-sm-3 col-xs-3">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/schlagerradio-florida">
+                                                                                        <img src="/uploads/images/radiostation/Logoschlager300x300.jpg" class="img-responsive">
+                                                                                    </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-1 col-sm-3 col-xs-3">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/verdad-y-gracia">
+                                                                                        <img src="/uploads/images/radiostation/Copia de logo radio.png" class="img-responsive">
+                                                                                    </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-1 col-sm-3 col-xs-3">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/99-the-breeze-orlando">
+                                                                                        <img src="/uploads/images/radiostation/breeze_logo_new.png" class="img-responsive">
+                                                                                    </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-1 col-sm-3 col-xs-3">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/radio-el-tercer-angel-las-profecias">
+                                                                                        <img src="/uploads/images/radiostation/el mensaje del tercer angel.jpg" class="img-responsive">
+                                                                                    </a>
+                                    </div>
+                                </li>
+                                                            <li class="col-md-1 col-sm-3 col-xs-3">
+                                    <div>
+                                        <a href="/internet-radio-usa-florida/w933-the-heat">
+                                                                                        <img src="/uploads/images/radiostation/ggift25 c1.jpg" class="img-responsive">
+                                                                                    </a>
+                                    </div>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="show showstations">Show more stations</div>
+                <div class="morestations">
+                    <ul class="clearfix">
+                        <div class="row">
+                                                    <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/wwbaus-fl">
+                                        <img src="/uploads/images/radiostation/radio-wwba.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/haitian-vibes-radio">
+                                        <img src="/uploads/images/radiostation/haitian-vibes-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/heartbeatus-fl">
+                                        <img src="/uploads/images/radiostation/radio-heartbeat.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/space-coast-iradio">
+                                        <img src="/uploads/images/radiostation/space-coast-iradio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/galactic-world-radio">
+                                        <img src="/uploads/images/radiostation/galactic-world-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/scad-radio">
+                                        <img src="/uploads/images/radiostation/scad-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/wmnf-radio">
+                                        <img src="/uploads/images/radiostation/wmnf-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/wusf-public-media">
+                                        <img src="/uploads/images/radiostation/wusf-public-media.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/wlrn-miami">
+                                        <img src="/uploads/images/radiostation/wlrn-miami.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/moody-radio">
+                                        <img src="/uploads/images/radiostation/moody-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/joy-fm">
+                                        <img src="/uploads/images/radiostation/joy-fm-1.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/1019-amp-radio">
+                                        <img src="/uploads/images/radiostation/1019-amp-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/hits-973-fm">
+                                        <img src="/uploads/images/radiostation/hits-973-fm.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/easy-931">
+                                        <img src="/uploads/images/radiostation/easy-931.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/light-force-radio">
+                                        <img src="/uploads/images/radiostation/light-force-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/wpbi-news">
+                                        <img src="/uploads/images/radiostation/wpbi-news.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/97-country">
+                                        <img src="/uploads/images/radiostation/97-country.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/wapn-915">
+                                        <img src="/uploads/images/radiostation/wapn-915.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/news-965">
+                                        <img src="/uploads/images/radiostation/news-965.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/kingdom-fm">
+                                        <img src="/uploads/images/radiostation/kingdom-fm.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/wfsu">
+                                        <img src="/uploads/images/radiostation/wfsu.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/radio-a1a">
+                                        <img src="/uploads/images/radiostation/radio-a1a.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/wshe-shes-only-rockn-roll">
+                                        <img src="/uploads/images/radiostation/wshe-shes-only-rockn-roll.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/easy-hits-florida">
+                                        <img src="/uploads/images/radiostation/easy-hits-florida.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/classic-rock-florida-she-radio">
+                                        <img src="/uploads/images/radiostation/classic-rock-florida-she-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/smooth-jazz-florida">
+                                        <img src="/uploads/images/radiostation/smooth-jazz-florida-1.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/101-the-nest">
+                                        <img src="/uploads/images/radiostation/101-the-nest.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/starlitefm">
+                                        <img src="/uploads/images/radiostation/starlitefm.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/irievybz-radio">
+                                        <img src="/uploads/images/radiostation/irievybz-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/kette-drum-radiocom">
+                                        <img src="/uploads/images/radiostation/kette-drum-radiocom.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/live-from-the-mia">
+                                        <img src="/uploads/images/radiostation/live-from-the-mia.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/live-from-the-mia">
+                                        <img src="/uploads/images/radiostation/live-from-the-mia-1.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/teamboxradio">
+                                        <img src="/uploads/images/radiostation/teamboxradio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/sorcerer-radio">
+                                        <img src="/uploads/images/radiostation/sorcerer-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/bite-internet-radio">
+                                        <img src="/uploads/images/radiostation/bite-internet-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/sunny-florida-radio">
+                                        <img src="/uploads/images/radiostation/sunny-florida-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/edm-after-dark">
+                                        <img src="/uploads/images/radiostation/edm-after-dark.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/iconic-radio">
+                                        <img src="/uploads/images/radiostation/iconic-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/the-disco-palace">
+                                        <img src="/uploads/images/radiostation/the-disco-palace.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/radio-secuencia-digital-fm">
+                                        <img src="/uploads/images/radiostation/radio-secuencia-digital-fm.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/world-christian-radio">
+                                        <img src="/uploads/images/radiostation/world-christian-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/q-star-radio">
+                                        <img src="/uploads/images/radiostation/q-star-radio-1.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/eel-bloke-radio">
+                                        <img src="/uploads/images/radiostation/eel-bloke-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/easy-hits-radio-plus">
+                                        <img src="/uploads/images/radiostation/easy-hits-radio-plus.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/dancehall-jams">
+                                        <img src="/uploads/images/radiostation/dancehall-jams.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/rockitman-radio">
+                                        <img src="/uploads/images/radiostation/rockitman-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/cgcradocom">
+                                        <img src="/uploads/images/radiostation/cgcradocom.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/graftedvineradiocom">
+                                        <img src="/uploads/images/radiostation/graftedvineradiocom.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/sussex-drive-radio">
+                                        <img src="/uploads/images/radiostation/sussex-drive-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/hippie-soul-radio">
+                                        <img src="/uploads/images/radiostation/hippie-soul-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/musical-spa-radio">
+                                        <img src="/uploads/images/radiostation/musical-spa-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/steelcage-rock-radio">
+                                        <img src="/uploads/images/radiostation/steelcage-rock-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/tunel-del-tiempo-exitos-de-los-70s-80s-90s-y-de-hoy">
+                                        <img src="/uploads/images/radiostation/tunel-del-tiempo-exitos-de-los-70s-80s-90s-y-de-hoy.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/hott-or-nott-radio">
+                                        <img src="/uploads/images/radiostation/hott-or-nott-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/sunny-radio">
+                                        <img src="/uploads/images/radiostation/sunny-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/imperio-digital-radio">
+                                        <img src="/uploads/images/radiostation/imperio-digital-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/hockey-talk-radio">
+                                        <img src="/uploads/images/radiostation/hockey-talk-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/pzr-911-fm">
+                                        <img src="/uploads/images/radiostation/pzr-911-fm.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/radio-4-freedom">
+                                        <img src="/uploads/images/radiostation/radio-4-freedom.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/radio4freedom">
+                                        <img src="/uploads/images/radiostation/radio4freedom.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/hockey-talk-radio">
+                                        <img src="/uploads/images/radiostation/hockey-talk-radio-1.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/danceclassicsradio">
+                                        <img src="/uploads/images/radiostation/danceclassicsradio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/the-disco-palace">
+                                        <img src="/uploads/images/radiostation/thediscopalace.png" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/classic-rock-florida">
+                                        <img src="/uploads/images/radiostation/classic-rock-florida.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/country-jam-radio-network">
+                                        <img src="/uploads/images/radiostation/country-jam-radio-network.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/intergalactic-funk">
+                                        <img src="/uploads/images/radiostation/intergalactic-funk.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/dagr8-fm">
+                                        <img src="/uploads/images/radiostation/dagr8-fm-1.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/isla-94">
+                                        <img src="/uploads/images/radiostation/isla-94.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/radio-sallie">
+                                        <img src="/uploads/images/radiostation/radio-sallie.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/wzqr-lp">
+                                        <img src="/uploads/images/radiostation/wzqr-lp.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/xtreme-mixx-radio">
+                                        <img src="/uploads/images/radiostation/xtreme-mixx-radio.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                        <li class="col-md-1 col-sm-3 col-xs-3">
+                                <div>
+                                    <a href="/internet-radio-usa-florida/techno-beach-stream">
+                                        <img src="/uploads/images/radiostation/techno-beach-stream.jpg" class="img-responsive lazy">
+                                    </a>
+                                </div>
+                            </li>
+
+                                                    </div>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+<!-- Div with info -->
+<div class="radio-info">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <i class="fa fa-music fa-5x"></i>
+                <h2>START YOUR STATION</h2>
+                <p>Add your internet radio station on radioguide.FM and create your own station page. Increase your exposure worldwide!</p>
+                <a href="/add-station">Add your station now</a>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-globe fa-5x"></i>
+                <h2>ALL GENRES AVAILABLE</h2>
+                <p>Listen to all your favorite music by choosing your favorite genre on Radioguide.FM. Jazz, Rock and Classical music one click away.</p>
+                <a href="/genre">Browse genres</a>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-headphones fa-5x"></i>
+                <h2>EASY TO USE</h2>
+                <p>All your favorite radiostations just one click away. Just choose your favorite radiostation and listen to the best radio stations in the world.</p>
+                <a href="/search/index">Start using</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Div where you can add stations -->
+<div class="add-station">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <a href="">
+						<span class="fa-stack fa-3x">
+							<i class="fa fa-circle fa-stack-2x"></i>
+							<i class="fa fa-plus fa-stack-1x fa-inverse"></i>
+						</span>
+                </a>
+                <h2><a href="/add-station" title="Add station now">Add station now</a></h2>
+                <p>Would you like to have your own station on radioguide.fm? <br>  Sign up now and promote your station to a worldwide audience. </p>
+                <p><a href="/add-station" title="Sign up" id="sign">Sign up</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="visible-xs visible-sm" style="overflow:hidden; bottom: 0; position: fixed; height: 50px; background: #192532; width: 100%; z-index: 10; text-align: center; align-items: center; margin: 0 auto">
+    <div class="ad-footer" style="height: 50px; width: 320px; margin: 0 auto">
+       <!-- 320x50_new_07062018 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7023873810903687"
+     data-ad-slot="1081800580"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            
+    </div>
+</div>
+<script>
+    // Uncomment for preroll 
+    var preroll = '';
+    var stream = {'preroll' : preroll, 'stream' : 'http://65.109.81.84:7100/stream'};
+</script>
+<div class="modal fade" id="modalEmail" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title">Email</h4>
+                <button type="button" class="btn btn-primary pull-right" data-dismiss="modal">Close &times;</button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+				<p>Solving the problem as good as possible and informing you requires your email address. we will update you as soon as possible.</p>
+                <input id = 'nosound_mail' class = 'form-control' type='text' name='email' placeholder="Email"><br>
+                <button data-dismiss="modal" style='display: block; margin: 0 auto;' class="btn btn-primary" onclick="loadNoSoundNotice()" data-toggle="modal" data-target="#exampleModalLong">Continue no sound report</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="btn btn-primary pull-right" data-dismiss="modal">Close &times;</button>
+<h2 class="modal-title" id="exampleModalLongTitle">FAQ</h2>
+<p>
+<strong style="font-family:verdana, geneva;font-size:small;">Frequently Asked Questions</strong></p>
+</div>
+<div class="modal-body">
+<div class="alert alert-success" style="display:none;" id="nosound-message">No Sound Report successful! In the meanwhile, please look if your problem is in our FAQ:</div>
+<input type="hidden" id="nosound-input" value="/nosound/create/641d9b23b5551e6d538b477c">
+<input type="hidden" id="faq-input" value="/page/get/faq">
+<div id="loader" style="display:none;"></div>
+<div class="row page-row">
+<div class="col-md-12">
+<strong>What could be the reason there is no sound?</strong>
+<ol>
+<li>
+1. Make sure your speakers and the media player are not muted :) Not an uncommon problem ;)</li>
+<li>
+2. Please try again in another browser, preferably Chrome, Firefox and when using a windows media player option Internet Explorer.</li>
+<li>
+3. Try another stream type clicking: windows media player or external player as alternative</li>
+<li>
+4. Be patient, some radiostations load within 10-20 seconds due to high traffic issues.&nbsp;</li>
+<li>
+5. If you do not have any flash player we automatically load the second best player, so again be patient.</li>
+<li>
+6. If the stream doesn&#39;t&nbsp;start automatically please click the play button or the mp3 option on the right, please retry 1,2 or 3 times. Most of the times this works.</li>
+<li>
+7. If you are using a windows media player, this will mostly only work in Internet Explorer.</li>
+<li>
+8. A radiostation might be temporarily unavailable due to several reasons. If your favorite station is not working right now, please try again in a few moments.</li>
+<li>
+9. The media player isn&#39;t showing/working in your browser, check below what you can do about it</li>
+<li>
+10. Try another computer or device (tablet, phone etc).</li>
+<li>
+11. Some radiostations have limited rights for international broadcasting. Some stations only broadcast in their own country. For example BBC in the UK and lots of stations in the US. If you really want to listen use a proxy server from that specific country to solve this problem.</li>
+<li>
+12. Report this issue using our&nbsp;<a href="http://www.radioguide.fm/admin/webdocuments/popup/brokenlink">Broken Link page</a>&nbsp;or send an email to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8fe6e1e9e0cffdeeebe6e0e8fae6ebeaa1e9e2a1">[email&#160;protected]</a> We are able to see if there is something wrong.</li>
+</ol>
+<p>
+If this does not work you can try one of the options below.</p>
+<br />
+<strong>Please try these 5 options first:</strong>
+<ul>
+<li>
+<a href="http://windows.microsoft.com/en-US/windows/products/windows-media-player">Download the latest version of Windows Media Player</a>&nbsp;if you are using Internet Explorer, Chrome or Opera</li>
+<li>
+if you use google chrome and you have no sound then&nbsp;<a href="http://www.interoperabilitybridges.com/wmp-extension-for-chrome">click here</a>&nbsp;for a solution</li>
+<li>
+<a href="http://www.interoperabilitybridges.com/windows-media-player-firefox-plugin-download">Download the Windows Media Player plugin for Firefox</a>&nbsp;if you are using Firefox and then check if it works,&nbsp;<a href="http://hg.mozilla.org/qa/litmus-data/raw-file/tip/firefox/plugins/mediaplayer.html">click here</a></li>
+<li>
+<a href="http://get.adobe.com/flashplayer/">Download the latest Flash player</a></li>
+<li>
+<a href="http://uk.real.com/realplayer">Download the latest version of Real Player</a></li>
+</ul>
+<p>
+<br />
+<strong>Why do I see a grey screen?</strong></p>
+<p>
+Probably this is caused by an popup adblocker</p>
+<ul>
+<li>
+<a href="http://browsers.about.com/od/internetexplorertutorials/ss/ie7popupblocker.htm">How to Use the Pop-up Blocker In Internet Explorer 7</a></li>
+<li>
+<a href="http://browsers.about.com/od/internetexplorertutorials/ss/ie8popupblocker.htm">How to Use the Pop-up Blocker In Internet Explorer 8</a></li>
+<li>
+<a href="http://windows.microsoft.com/en-US/Windows7/Internet-Explorer-Pop-up-Blocker-frequently-asked-questions">Block Pop-up Windows with Internet Explorer</a></li>
+<li>
+<a href="http://familyinternet.about.com/od/software/ht/firefox_popup.htm">How to Disable the Popup Blocker in Firefox</a></li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Stream keeps on buffering</strong><br />
+In Windows Media Player you can improve this. Go to Extra, Options, and then tab performance to extend the netwerkbuffer to 15 seconds.</p>
+<p>
+<br />
+<strong>Internet Explorer: no sound in internet explorer?</strong></p>
+<p>
+<a href="http://windows.microsoft.com/en-US/windows/products/windows-media-player">Download the latest version of Windows Media Player from Microsoft</a></p>
+<p>
+<br />
+<strong>Firefox: no sound in firefox?</strong></p>
+<p>
+<a href="http://www.interoperabilitybridges.com/windows-media-player-firefox-plugin-download">Download the Windows Media Player Firefox Plugin</a></p>
+<p>
+<a href="http://kb.mozillazine.org/Windows_Media_Player">More info on using Windows Media Player in Firefox</a></p>
+<p>
+<a href="http://plugindoc.mozdev.org/important.html#WMP">Common sound problems with Firefox</a></p>
+<p>
+<a href="http://hg.mozilla.org/qa/litmus-data/raw-file/tip/firefox/plugins/mediaplayer.html">Check if Windows Media Player is correctly installed</a></p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Chrome: no sound in chrome?</strong></p>
+<p>
+<a href="http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95697">Problems with listening in Google Chrome? try this</a>&nbsp;or&nbsp;<a href="http://www.interoperabilitybridges.com/wmp-extension-for-chrome">Download the Windows Media Player Chrome Plugin</a></p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Opera: no sound in opera?</strong></p>
+<p>
+<a href="http://www.opera.com/docs/plugins/">Problems with listening in Opera? try this</a></p>
+<p>
+<br />
+<strong>The radiostation still refuses to play, what can I do?</strong></p>
+<p>
+Report this issue using our&nbsp;<a href="http://www.radioguide.fm/admin/Webdocuments/popup/brokenlink">Broken Link page</a>&nbsp;or send an email to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="553c3b333a152734313c3a32203c31307b3338">[email&#160;protected]</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<!-- List style that includes the icons -->
+				<ul class="pull-right" id="footer">
+					 <a href="https://www.facebook.com/Radioguidefm-138952262802495" title="Facebook" target="_blank" style="margin-right: 1rem">
+                        <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><circle fill="#fff" cx="20" cy="20" r="20"></circle><path d="M25.01 21.25l.555-3.62h-3.473v-2.348c0-.99.485-1.956 2.04-1.956h1.58v-3.081S24.279 10 22.909 10c-2.86 0-4.73 1.734-4.73 4.872v2.758H15v3.62h3.18V30h3.912v-8.75h2.918z" fill="#000" fill-rule="nonzero"></path></g></svg>
+                    </a>
+                    <a href="https://twitter.com/RadioguideFM" title="Twitter" target="_blank">
+                        <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><circle fill="#fff" cx="20" cy="20" r="20"></circle><path d="M28.599 15.97c.012.175.012.349.012.523 0 5.315-4.045 11.438-11.438 11.438A11.36 11.36 0 0111 26.127c.324.037.635.05.97.05 1.88 0 3.61-.635 4.992-1.718a4.027 4.027 0 01-3.759-2.788c.249.037.498.062.76.062.36 0 .721-.05 1.057-.137a4.02 4.02 0 01-3.223-3.945v-.05a4.049 4.049 0 001.817.51 4.017 4.017 0 01-1.793-3.348c0-.747.2-1.431.548-2.029a11.427 11.427 0 008.29 4.207c-.063-.299-.1-.61-.1-.92A4.018 4.018 0 0124.579 12a4.01 4.01 0 012.937 1.27 7.915 7.915 0 002.552-.971 4.01 4.01 0 01-1.768 2.215 8.06 8.06 0 002.315-.622A8.642 8.642 0 0128.6 15.97z" fill="#000" fill-rule="nonzero"></path></g></svg>
+                    </a>
+				</ul>
+				<p class="pull-right">Follow us</p>
+			</div>
+		</div>
+	</div>
+	<!-- Menu bar with fixed position -->
+	<style>
+	</style>
+	<div id="sticky">
+		<div class="alert text-center cookiealert" role="alert">
+			Do you like cookies? &#x1F36A; We use cookies to ensure you get the best experience on our website.
+
+			<button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
+				I agree
+			</button>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 hidden-xs hidden-sm hidden-md">
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="/about-us">About us</a></li>
+						<li><a href="/faq">Faq</a></li>
+						<li><a href="/privacy-policy">Privacy and policy</a></li>
+						<li><a href="/return-policy">Return policy</a></li>
+						<li><a href="/broken-link">Broken link?</a></li>
+						<li><a href="/online-radio">Online radio</a></li>
+						<li><a href="/sitemap">Sitemap</a></li>
+						<li><a href="/contact">Contact</a></li>
+						<li class="pull-right"><a target="_blank" href="/share/twitter" title="Twitter" id="twitter" ><div><i class="fa fa-twitter"></i></div></a></li>
+						<li class="pull-right"><a target="_blank" href="/share/facebook" title="FaceBook" id="fb"><div><i class="fa fa-facebook"></i></div></a></li>
+						<li class="pull-right"><a target="_blank" href="/share/email" title="email" id="email"><div><i class="fa fa-envelope"></i></div></a></li>
+						<li class="pull-right"><span>share</span></li>
+					</ul>
+				</div>
+				<ul>
+					<div class="col-md-5 hidden-lg">
+						<li><a href="/">Home</a></li>
+						<li><a href="/about-us">About us</a></li>
+						<li><a href="/faq">Faq</a></li>
+						<li><a href="/privacy-policy">Privacy and policy</a></li>
+						<li><a href="/terms-and-services">Terms and Services</a></li>
+					</div>
+					<div class="col-md-5 hidden-lg">
+						<li><a href="/broken-link">Broken link?</a></li>
+						<li><a href="/online-radio">Online radio</a></li>
+						<li><a href="/sitemap">Sitemap</a></li>
+						<li><a href="/contact">Contact</a></li>
+					</div>
+					<div class="col-md-2 hidden-lg">
+						<li class="pull-right"><a target="_blank" href="/share/twitter" title="Twitter" id="twitter" ><div><i class="fa fa-twitter"></i></div></a></li>
+						<li class="pull-right"><a target="_blank" href="/share/facebook" title="FaceBook" id="fb"><div><i class="fa fa-facebook"></i></div></a></li>
+						<li class="pull-right"><a target="_blank" href="/share/email" title="email" id="email"><div><i class="fa fa-envelope"></i></div></a></li>
+						<li class="pull-right"><span>share</span></li>
+					</div>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+<script>
+	function cookieFunction() {
+		Cookies.set('cookieAccepted', 'true', { expires: 365, path: '/' });
+	}
+</script>
+<!-- Load concatened JS -->
+<script src="/media/public/js/main.min.js"></script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#w0').yiiActiveForm([{"id":"ratingform-rating","name":"rating","container":".field-ratingform-rating","input":"#ratingform-rating","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Rating Score(1-5) must be a string.","skipOnEmpty":1});}},{"id":"ratingform-radiostation_id","name":"radiostation_id","container":".field-ratingform-radiostation_id","input":"#ratingform-radiostation_id","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Radiostation ID must be a string.","skipOnEmpty":1});}}], []);
+jQuery('#reviewform-captcha-image').yiiCaptcha({"refreshUrl":"\/site\/captcha?refresh=1","hashKey":"yiiCaptcha\/site\/captcha"});
+jQuery('#w1').yiiActiveForm([{"id":"reviewform-name","name":"name","container":".field-reviewform-name","input":"#reviewform-name","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Name must be a string.","skipOnEmpty":1});yii.validation.required(value, messages, {"message":"Name cannot be blank."});}},{"id":"reviewform-email","name":"email","container":".field-reviewform-email","input":"#reviewform-email","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Email address (Will not be shown) must be a string.","skipOnEmpty":1});yii.validation.required(value, messages, {"message":"Email address (Will not be shown) cannot be blank."});yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Email address (Will not be shown) is not a valid email address.","enableIDN":false,"skipOnEmpty":1});}},{"id":"reviewform-review","name":"review","container":".field-reviewform-review","input":"#reviewform-review","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Review must be a string.","skipOnEmpty":1});yii.validation.required(value, messages, {"message":"Review cannot be blank."});}},{"id":"reviewform-captcha","name":"captcha","container":".field-reviewform-captcha","input":"#reviewform-captcha","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Captcha cannot be blank."});yii.validation.captcha(value, messages, {"hash":749,"hashKey":"yiiCaptcha/site/captcha","caseSensitive":false,"message":"The verification code is incorrect."});}}], []);
+});</script>
+</body>
+
+</html>

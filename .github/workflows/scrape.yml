@@ -10,7 +10,10 @@ jobs:
 
       - name: run commands
         run: |
-          for i in \?page=2 ; do for j in $(cat countries.txt) ; do curl -s https://streema.com/radios/country/$j$i | ./htmlq -a href a | grep "/radios/" | grep -v "/social/\|page=\|country/" | cut -c9- | grep -v "region/" >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          sudo apt install tor -y
+          sudo systemctl start tor
+          sleep 60s
+          for i in \?page=6 ; do for j in $(cat countries.txt) ; do curl -x socks5h://localhost:9050 -s https://streema.com/radios/country/$j$i | ./htmlq -a href a | grep "/radios/" | grep -v "/social/\|page=\|country/" | cut -c9- | grep -v "region/" >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

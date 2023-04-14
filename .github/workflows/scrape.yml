@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in "2" ; do for j in $(cat countries.txt) ; do curl -s https://streema.com/radios/country/$j?page=$i | ./htmlq -a href a | grep "/radios/" | grep -v "/social/\|page=\|country/" | cut -c9- | grep -v "region/" >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          for i in "" \?page={2..4} ; do for j in $(cat sub-genres.txt) ; do curl -s https://streema.com/radios/genre/$j$i | ./htmlq -a href a | grep "/radios/" | grep -v "/social/\|page=\|genre/" | cut -c9- | grep -v "region/" >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

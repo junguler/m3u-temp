@@ -1,715 +1,0 @@
-Script started on 2023-04-14 13:54:49+03:30 [TERM="xterm-256color" TTY="/dev/cons1" COLUMNS="141" LINES="3"]
-remote: Enumerating objects: 354, done.[K
-remote: Counting objects:   0% (1/354)[Kremote: Counting objects:   1% (4/354)[Kremote: Counting objects:   2% (8/354)[Kremote: Counting objects:   3% (11/354)[Kremote: Counting objects:   4% (15/354)[Kremote: Counting objects:   5% (18/354)[Kremote: Counting objects:   6% (22/354)[Kremote: Counting objects:   7% (25/354)[Kremote: Counting objects:   8% (29/354)[Kremote: Counting objects:   9% (32/354)[Kremote: Counting objects:  10% (36/354)[Kremote: Counting objects:  11% (39/354)[Kremote: Counting objects:  12% (43/354)[Kremote: Counting objects:  13% (47/354)[Kremote: Counting objects:  14% (50/354)[Kremote: Counting objects:  15% (54/354)[Kremote: Counting objects:  16% (57/354)[Kremote: Counting objects:  17% (61/354)[Kremote: Counting objects:  18% (64/354)[Kremote: Counting objects:  19% (68/354)[Kremote: Counting objects:  20% (71/354)[Kremote: Counting objects:  21% (75/354)[Kremote: Counting objects:  22% (78/354)[Kremote: Counting objects:  23% (82/354)[Kremote: Counting objects:  24% (85/354)[Kremote: Counting objects:  25% (89/354)[Kremote: Counting objects:  26% (93/354)[Kremote: Counting objects:  27% (96/354)[Kremote: Counting objects:  28% (100/354)[Kremote: Counting objects:  29% (103/354)[Kremote: Counting objects:  30% (107/354)[Kremote: Counting objects:  31% (110/354)[Kremote: Counting objects:  32% (114/354)[Kremote: Counting objects:  33% (117/354)[Kremote: Counting objects:  34% (121/354)[Kremote: Counting objects:  35% (124/354)[Kremote: Counting objects:  36% (128/354)[Kremote: Counting objects:  37% (131/354)[Kremote: Counting objects:  38% (135/354)[Kremote: Counting objects:  39% (139/354)[Kremote: Counting objects:  40% (142/354)[Kremote: Counting objects:  41% (146/354)[Kremote: Counting objects:  42% (149/354)[Kremote: Counting objects:  43% (153/354)[Kremote: Counting objects:  44% (156/354)[Kremote: Counting objects:  45% (160/354)[Kremote: Counting objects:  46% (163/354)[Kremote: Counting objects:  47% (167/354)[Kremote: Counting objects:  48% (170/354)[Kremote: Counting objects:  49% (174/354)[Kremote: Counting objects:  50% (177/354)[Kremote: Counting objects:  51% (181/354)[Kremote: Counting objects:  52% (185/354)[Kremote: Counting objects:  53% (188/354)[Kremote: Counting objects:  54% (192/354)[Kremote: Counting objects:  55% (195/354)[Kremote: Counting objects:  56% (199/354)[Kremote: Counting objects:  57% (202/354)[Kremote: Counting objects:  58% (206/354)[Kremote: Counting objects:  59% (209/354)[Kremote: Counting objects:  60% (213/354)[Kremote: Counting objects:  61% (216/354)[Kremote: Counting objects:  62% (220/354)[Kremote: Counting objects:  63% (224/354)[Kremote: Counting objects:  64% (227/354)[Kremote: Counting objects:  65% (231/354)[Kremote: Counting objects:  66% (234/354)[Kremote: Counting objects:  67% (238/354)[Kremote: Counting objects:  68% (241/354)[Kremote: Counting objects:  69% (245/354)[Kremote: Counting objects:  70% (248/354)[Kremote: Counting objects:  71% (252/354)[Kremote: Counting objects:  72% (255/354)[Kremote: Counting objects:  73% (259/354)[Kremote: Counting objects:  74% (262/354)[Kremote: Counting objects:  75% (266/354)[Kremote: Counting objects:  76% (270/354)[Kremote: Counting objects:  77% (273/354)[Kremote: Counting objects:  78% (277/354)[Kremote: Counting objects:  79% (280/354)[Kremote: Counting objects:  80% (284/354)[Kremote: Counting objects:  81% (287/354)[Kremote: Counting objects:  82% (291/354)[Kremote: Counting objects:  83% (294/354)[Kremote: Counting objects:  84% (298/354)[Kremote: Counting objects:  85% (301/354)[Kremote: Counting objects:  86% (305/354)[Kremote: Counting objects:  87% (308/354)[Kremote: Counting objects:  88% (312/354)[Kremote: Counting objects:  89% (316/354)[Kremote: Counting objects:  90% (319/354)[Kremote: Counting objects:  91% (323/354)[Kremote: Counting objects:  92% (326/354)[Kremote: Counting objects:  93% (330/354)[Kremote: Counting objects:  94% (333/354)[Kremote: Counting objects:  95% (337/354)[Kremote: Counting objects:  96% (340/354)[Kremote: Counting objects:  97% (344/354)[Kremote: Counting objects:  98% (347/354)[Kremote: Counting objects:  99% (351/354)[Kremote: Counting objects: 100% (354/354)[Kremote: Counting objects: 100% (354/354), done.[K
-remote: Compressing objects:   0% (1/335)[Kremote: Compressing objects:   1% (4/335)[Kremote: Compressing objects:   2% (7/335)[Kremote: Compressing objects:   3% (11/335)[Kremote: Compressing objects:   4% (14/335)[Kremote: Compressing objects:   5% (17/335)[Kremote: Compressing objects:   6% (21/335)[Kremote: Compressing objects:   7% (24/335)[Kremote: Compressing objects:   8% (27/335)[Kremote: Compressing objects:   9% (31/335)[Kremote: Compressing objects:  10% (34/335)[Kremote: Compressing objects:  11% (37/335)[Kremote: Compressing objects:  12% (41/335)[Kremote: Compressing objects:  13% (44/335)[Kremote: Compressing objects:  14% (47/335)[Kremote: Compressing objects:  15% (51/335)[Kremote: Compressing objects:  16% (54/335)[Kremote: Compressing objects:  17% (57/335)[Kremote: Compressing objects:  18% (61/335)[Kremote: Compressing objects:  19% (64/335)[Kremote: Compressing objects:  20% (67/335)[Kremote: Compressing objects:  21% (71/335)[Kremote: Compressing objects:  22% (74/335)[Kremote: Compressing objects:  23% (78/335)[Kremote: Compressing objects:  24% (81/335)[Kremote: Compressing objects:  25% (84/335)[Kremote: Compressing objects:  26% (88/335)[Kremote: Compressing objects:  27% (91/335)[Kremote: Compressing objects:  28% (94/335)[Kremote: Compressing objects:  29% (98/335)[Kremote: Compressing objects:  30% (101/335)[Kremote: Compressing objects:  31% (104/335)[Kremote: Compressing objects:  32% (108/335)[Kremote: Compressing objects:  33% (111/335)[Kremote: Compressing objects:  34% (114/335)[Kremote: Compressing objects:  35% (118/335)[Kremote: Compressing objects:  36% (121/335)[Kremote: Compressing objects:  37% (124/335)[Kremote: Compressing objects:  38% (128/335)[Kremote: Compressing objects:  39% (131/335)[Kremote: Compressing objects:  40% (134/335)[Kremote: Compressing objects:  41% (138/335)[Kremote: Compressing objects:  42% (141/335)[Kremote: Compressing objects:  43% (145/335)[Kremote: Compressing objects:  44% (148/335)[Kremote: Compressing objects:  45% (151/335)[Kremote: Compressing objects:  46% (155/335)[Kremote: Compressing objects:  47% (158/335)[Kremote: Compressing objects:  48% (161/335)[Kremote: Compressing objects:  49% (165/335)[Kremote: Compressing objects:  50% (168/335)[Kremote: Compressing objects:  51% (171/335)[Kremote: Compressing objects:  52% (175/335)[Kremote: Compressing objects:  53% (178/335)[Kremote: Compressing objects:  54% (181/335)[Kremote: Compressing objects:  55% (185/335)[Kremote: Compressing objects:  56% (188/335)[Kremote: Compressing objects:  57% (191/335)[Kremote: Compressing objects:  58% (195/335)[Kremote: Compressing objects:  59% (198/335)[Kremote: Compressing objects:  60% (201/335)[Kremote: Compressing objects:  61% (205/335)[Kremote: Compressing objects:  62% (208/335)[Kremote: Compressing objects:  63% (212/335)[Kremote: Compressing objects:  64% (215/335)[Kremote: Compressing objects:  65% (218/335)[Kremote: Compressing objects:  66% (222/335)[Kremote: Compressing objects:  67% (225/335)[Kremote: Compressing objects:  68% (228/335)[Kremote: Compressing objects:  69% (232/335)[Kremote: Compressing objects:  70% (235/335)[Kremote: Compressing objects:  71% (238/335)[Kremote: Compressing objects:  72% (242/335)[Kremote: Compressing objects:  73% (245/335)[Kremote: Compressing objects:  74% (248/335)[Kremote: Compressing objects:  75% (252/335)[Kremote: Compressing objects:  76% (255/335)[Kremote: Compressing objects:  77% (258/335)[Kremote: Compressing objects:  78% (262/335)[Kremote: Compressing objects:  79% (265/335)[Kremote: Compressing objects:  80% (268/335)[Kremote: Compressing objects:  81% (272/335)[Kremote: Compressing objects:  82% (275/335)[Kremote: Compressing objects:  83% (279/335)[Kremote: Compressing objects:  84% (282/335)[Kremote: Compressing objects:  85% (285/335)[Kremote: Compressing objects:  86% (289/335)[Kremote: Compressing objects:  87% (292/335)[Kremote: Compressing objects:  88% (295/335)[Kremote: Compressing objects:  89% (299/335)[Kremote: Compressing objects:  90% (302/335)[Kremote: Compressing objects:  91% (305/335)[Kremote: Compressing objects:  92% (309/335)[Kremote: Compressing objects:  93% (312/335)[Kremote: Compressing objects:  94% (315/335)[Kremote: Compressing objects:  95% (319/335)[Kremote: Compressing objects:  96% (322/335)[Kremote: Compressing objects:  97% (325/335)[Kremote: Compressing objects:  98% (329/335)[Kremote: Compressing objects:  99% (332/335)[Kremote: Compressing objects: 100% (335/335)[Kremote: Compressing objects: 100% (335/335), done.[K
-Receiving objects:   0% (1/353)Receiving objects:   1% (4/353)Receiving objects:   2% (8/353)Receiving objects:   3% (11/353)Receiving objects:   4% (15/353)Receiving objects:   5% (18/353)Receiving objects:   6% (22/353)Receiving objects:   7% (25/353)Receiving objects:   8% (29/353)Receiving objects:   9% (32/353)Receiving objects:  10% (36/353)Receiving objects:  11% (39/353)Receiving objects:  12% (43/353)Receiving objects:  13% (46/353)Receiving objects:  14% (50/353)Receiving objects:  15% (53/353)Receiving objects:  16% (57/353)Receiving objects:  17% (61/353)Receiving objects:  18% (64/353)Receiving objects:  19% (68/353)Receiving objects:  20% (71/353)Receiving objects:  21% (75/353)Receiving objects:  22% (78/353)Receiving objects:  23% (82/353)Receiving objects:  24% (85/353)Receiving objects:  25% (89/353)Receiving objects:  26% (92/353)Receiving objects:  27% (96/353)Receiving objects:  28% (99/353)Receiving objects:  29% (103/353)Receiving objects:  30% (106/353)Receiving objects:  31% (110/353)Receiving objects:  32% (113/353)Receiving objects:  33% (117/353)Receiving objects:  34% (121/353)Receiving objects:  35% (124/353)Receiving objects:  36% (128/353)Receiving objects:  37% (131/353)Receiving objects:  38% (135/353)Receiving objects:  39% (138/353)Receiving objects:  40% (142/353)Receiving objects:  41% (145/353)Receiving objects:  42% (149/353)Receiving objects:  43% (152/353)Receiving objects:  44% (156/353)Receiving objects:  45% (159/353)Receiving objects:  46% (163/353)Receiving objects:  47% (166/353)Receiving objects:  48% (170/353)Receiving objects:  49% (173/353)Receiving objects:  50% (177/353)Receiving objects:  51% (181/353)Receiving objects:  52% (184/353)Receiving objects:  53% (188/353)Receiving objects:  54% (191/353)Receiving objects:  55% (195/353)Receiving objects:  56% (198/353)Receiving objects:  57% (202/353)Receiving objects:  58% (205/353)Receiving objects:  59% (209/353)Receiving objects:  60% (212/353)Receiving objects:  61% (216/353)Receiving objects:  62% (219/353)Receiving objects:  63% (223/353)Receiving objects:  64% (226/353)Receiving objects:  65% (230/353)Receiving objects:  66% (233/353)Receiving objects:  67% (237/353)Receiving objects:  68% (241/353)Receiving objects:  69% (244/353)Receiving objects:  70% (248/353)Receiving objects:  71% (251/353)Receiving objects:  72% (255/353)Receiving objects:  73% (258/353)Receiving objects:  74% (262/353)Receiving objects:  75% (265/353)Receiving objects:  76% (269/353)Receiving objects:  77% (272/353)Receiving objects:  78% (276/353)Receiving objects:  79% (279/353)Receiving objects:  80% (283/353)Receiving objects:  81% (286/353)Receiving objects:  82% (290/353)Receiving objects:  83% (293/353)Receiving objects:  84% (297/353)Receiving objects:  85% (301/353)Receiving objects:  86% (304/353)Receiving objects:  87% (308/353)Receiving objects:  88% (311/353)remote: Total 353 (delta 0), reused 353 (delta 0), pack-reused 0[K
-Receiving objects:  89% (315/353)Receiving objects:  90% (318/353)Receiving objects:  91% (322/353)Receiving objects:  92% (325/353)Receiving objects:  93% (329/353)Receiving objects:  94% (332/353)Receiving objects:  95% (336/353)Receiving objects:  96% (339/353)Receiving objects:  97% (343/353)Receiving objects:  98% (346/353)Receiving objects:  99% (350/353)Receiving objects: 100% (353/353)Receiving objects: 100% (353/353), 102.43 KiB | 749.00 KiB/s, done.
-From https://github.com/junguler/test1
-   cf1740d2..fdd2bc45  main       -> origin/main
-Updating cf1740d2..fdd2bc45
-Fast-forward
- A-40s.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-50s.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-60s.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-70s.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-80s.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-90s.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-AAA.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Acid_Jazz.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Acoustic.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Active_Rock.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-Adult.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Adult_Contemporary.txt          | 30 [32m++++++++++++++++++++++++++++++[m
- A-African.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-African_Gospel.txt              | 30 [32m++++++++++++++++++++++++++++++[m
- A-Afrobeat.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Afropop.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Agriculture.txt                 |  6 [32m++++++[m
- A-Air_Traffic_Control.txt         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Airport.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Alternative.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-Ambient.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Americana.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Anime.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Arabesk.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Arabic.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Art.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Asian.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Assamese.txt                    |  2 [32m++[m
- A-Astrology.txt                   | 21 [32m+++++++++++++++++++++[m
- A-Austrian.txt                    | 25 [32m+++++++++++++++++++++++++[m
- A-Bachata.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Balada.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Balkan.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Ballad.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Ballroom.txt                    |  5 [32m+++++[m
- A-Bandanejo.txt                   |  8 [32m++++++++[m
- A-Baroque.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Bengali.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Bhakti.txt                      |  2 [32m++[m
- A-Bhangra.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Big_Band.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Bluegrass.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Blues.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Bolero.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Bollywood.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Bongo_Flava.txt                 | 24 [32m++++++++++++++++++++++++[m
- A-Bossa_Nova.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Brazilian.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Breaks.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Britpop.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Bulgarian.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Burmese.txt                     |  2 [32m++[m
- A-Business.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Cabo_Love.txt                   | 10 [32m++++++++++[m
- A-Calypso.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Campeira.txt                    |  4 [32m++++[m
- A-Cantonese.txt                   |  1 [32m+[m
- A-Caribbean.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Carnatic.txt                    |  7 [32m+++++++[m
- A-Catalan.txt                     | 20 [32m++++++++++++++++++++[m
- A-Catholic.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Celtic.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Chaabi.txt                      |  7 [32m+++++++[m
- A-Chamber_Music.txt               | 30 [32m++++++++++++++++++++++++++++++[m
- A-Chansons_Francaises.txt         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Chillhop.txt                    |  8 [32m++++++++[m
- A-Chillout.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Chinese.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Christian.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Christian_Rock.txt              | 30 [32m++++++++++++++++++++++++++++++[m
- A-Christmas.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Chutney.txt                     | 18 [32m++++++++++++++++++[m
- A-Cinematics.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Classic_Rock.txt                | 30 [32m++++++++++++++++++++++++++++++[m
- A-Classical.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Classics.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Club.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-College.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Comedy.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Community.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Contemporary_Christian.txt      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Contemporary_Classical.txt      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Cooking.txt                     |  9 [32m+++++++++[m
- A-Cool_Jazz.txt                   |  5 [32m+++++[m
- A-Country.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Croatian.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Cubaton.txt                     |  2 [32m++[m
- A-Culture.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Cumbia.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Current_Affairs.txt             | 30 [32m++++++++++++++++++++++++++++++[m
- A-DJ.txt                          | 30 [32m++++++++++++++++++++++++++++++[m
- A-Dance.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Dance_Hits.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Dancehall.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Deep_House.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Desi.txt                        | 16 [32m++++++++++++++++[m
- A-Disco.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Doo_Wop.txt                     | 18 [32m++++++++++++++++++[m
- A-Downtempo.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Drama.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Dreampop.txt                    | 21 [32m+++++++++++++++++++++[m
- A-Drum_and_Bass.txt               | 30 [32m++++++++++++++++++++++++++++++[m
- A-Dubstep.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Dulpod.txt                      |  2 [32m++[m
- A-Dutch.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-EBM.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Easy_Listening.txt              | 30 [32m++++++++++++++++++++++++++++++[m
- A-Eclectic.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Education.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Ehthnic.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Electro.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Electronica.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-Emergency_and_Public_Safety.txt | 30 [32m++++++++++++++++++++++++++++++[m
- A-Emo.txt                         | 16 [32m++++++++++++++++[m
- A-English.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Entertainment.txt               | 30 [32m++++++++++++++++++++++++++++++[m
- A-Europe.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Experimental.txt                | 30 [32m++++++++++++++++++++++++++++++[m
- A-FIlipino.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Fado.txt                        | 10 [32m++++++++++[m
- A-Festival.txt                    | 21 [32m+++++++++++++++++++++[m
- A-Film.txt                        |  2 [32m++[m
- A-Financial.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Fitness.txt                     |  2 [32m++[m
- A-Flamenco.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Flashback.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Folk.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Football.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Forro.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-French.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Funk.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Fusion.txt                      |  1 [32m+[m
- A-Gabber.txt                      | 16 [32m++++++++++++++++[m
- A-Gaming.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Garage.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Garbage.txt                     |  1 [32m+[m
- A-Ghetto.txt                      | 14 [32m++++++++++++++[m
- A-Glam.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Goa.txt                         | 12 [32m++++++++++++[m
- A-Gospel.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Gospel_Pop.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Gospel_Rock.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-Gothic.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Government.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Greek.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Groove.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Grunge.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Grupera.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Guitar.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Gujarati.txt                    |  6 [32m++++++[m
- A-Gumbe.txt                       |  1 [32m+[m
- A-Halloween.txt                   | 28 [32m++++++++++++++++++++++++++++[m
- A-Ham_Radio.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Hanukkah.txt                    |  2 [32m++[m
- A-Hard_Rock.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Hardcore.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Hardstyle.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Hawaiian.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Health.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Hebrew.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Hindi.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Hindu.txt                       | 20 [32m++++++++++++++++++++[m
- A-Hip_Hop.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-History.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Hits.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Holidays.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Holistic_health.txt             | 30 [32m++++++++++++++++++++++++++++++[m
- A-House.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Hungarian.txt                   |  7 [32m+++++++[m
- A-IDM.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Ibiza_Club.txt                  |  1 [32m+[m
- A-India.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Indian.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Indie.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Indigenous.txt                  |  4 [32m++++[m
- A-Information.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-Instrumental.txt                | 30 [32m++++++++++++++++++++++++++++++[m
- A-Irish.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Islamic.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Italian.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Italo_Disco.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-J_pop.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Japanese.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Jazz.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Jewish.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Jungle.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Kannada.txt                     | 23 [32m+++++++++++++++++++++++[m
- A-Kashmiri.txt                    |  2 [32m++[m
- A-Kids.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Kizomba.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Kompa.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Konkani.txt                     |  4 [32m++++[m
- A-Korean.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Krautrock.txt                   |  2 [32m++[m
- A-Kuduro.txt                      |  8 [32m++++++++[m
- A-Kurdish.txt                     |  3 [32m+++[m
- A-Kwaito_music.txt                | 30 [32m++++++++++++++++++++++++++++++[m
- A-Language_Learning.txt           |  8 [32m++++++++[m
- A-Laptop_Music.txt                | 11 [32m+++++++++++[m
- A-Latin.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Latin_Jazz.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Liquid_Funk.txt                 | 12 [32m++++++++++++[m
- A-Lite_Pop.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Lithuanian.txt                  | 14 [32m++++++++++++++[m
- A-Live_Shows.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Lo_Fi.txt                       | 11 [32m+++++++++++[m
- A-Lofi.txt                        |  5 [32m+++++[m
- A-Lounge.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Love.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-MPB.txt                         | 12 [32m++++++++++++[m
- A-Malayalam.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Mandarin.txt                    |  1 [32m+[m
- A-Mando.txt                       |  4 [32m++++[m
- A-Manele.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Marathi.txt                     | 10 [32m++++++++++[m
- A-Mariachi.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Masala.txt                      |  4 [32m++++[m
- A-Medieval.txt                    | 21 [32m+++++++++++++++++++++[m
- A-Meditation.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Mediterranean.txt               | 17 [32m+++++++++++++++++[m
- A-Meitei.txt                      |  2 [32m++[m
- A-Merengue.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Metal.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Mexican.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Middle_Eastern.txt              | 30 [32m++++++++++++++++++++++++++++++[m
- A-Military.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Minimal.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Motown.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Native_American.txt             | 20 [32m++++++++++++++++++++[m
- A-Nature.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Nepali.txt                      | 11 [32m+++++++++++[m
- A-New_Age.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-New_Wave.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-News.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Novelty.txt                     |  5 [32m+++++[m
- A-Nutrition.txt                   |  9 [32m+++++++++[m
- A-Odia.txt                        |  2 [32m++[m
- A-Old_School.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Old_Time_Radio.txt              | 30 [32m++++++++++++++++++++++++++++++[m
- A-Oldies.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Opera.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Other.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Pagode.txt                      |  6 [32m++++++[m
- A-Paranormal_Talk.txt             | 30 [32m++++++++++++++++++++++++++++++[m
- A-Party.txt                       | 13 [32m+++++++++++++[m
- A-Persian.txt                     | 27 [32m+++++++++++++++++++++++++++[m
- A-Piano.txt                       |  7 [32m+++++++[m
- A-Pinoy.txt                       |  2 [32m++[m
- A-Poetry_and_Prose.txt            | 30 [32m++++++++++++++++++++++++++++++[m
- A-Polish.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Politics.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Polka.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Pop.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Pop_Rock.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Portuguese.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Positive.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Postpunk.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Postrock.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Praise_and_Worship.txt          | 30 [32m++++++++++++++++++++++++++++++[m
- A-Progressive.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-Progressive_House.txt           | 30 [32m++++++++++++++++++++++++++++++[m
- A-Psy.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Psych.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Public.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Punjabi.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Punk.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Radio_Reading_Service.txt       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Railroad.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Ramadam.txt                     |  3 [32m+++[m
- A-Ranchera.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Rap.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Rapso.txt                       |  5 [32m+++++[m
- A-Rave.txt                        |  5 [32m+++++[m
- A-Recommended.txt                 | 17 [32m+++++++++++++++++[m
- A-Reggae.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Reggaeton.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Religious.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-RnB.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Rock.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Rock_and_Roll.txt               | 30 [32m++++++++++++++++++++++++++++++[m
- A-Romanian.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Romantic.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Rumba.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Rural.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Russian.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Russkiy_Shanson.txt             | 12 [32m++++++++++++[m
- A-Salsa.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Samba.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Scanner.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Schlager.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Science.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Seasons.txt                     | 12 [32m++++++++++++[m
- A-Sertanejo.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Sex_Education.txt               | 20 [32m++++++++++++++++++++[m
- A-Shoegaze.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Sikh.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Singer_Songwriter.txt           | 30 [32m++++++++++++++++++++++++++++++[m
- A-Ska.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Slow.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Slowjam.txt                     | 17 [32m+++++++++++++++++[m
- A-Smooth_Jazz.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-Soca.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Soft.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Soft_Rock.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Soukous.txt                     | 16 [32m++++++++++++++++[m
- A-Soul.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Soundtracks.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-Southern_Rock.txt               | 20 [32m++++++++++++++++++++[m
- A-Spanish.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Spiritual.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Sports.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Standards.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Steel_Pan.txt                   |  3 [32m+++[m
- A-Student_Radio.txt               | 30 [32m++++++++++++++++++++++++++++++[m
- A-Sufi.txt                        |  4 [32m++++[m
- A-Swedish.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Swing.txt                       |  3 [32m+++[m
- A-Synthpop.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Tagnawite.txt                   |  1 [32m+[m
- A-Talk.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-Tamil.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Tango.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Tarab.txt                       |  3 [32m+++[m
- A-Techno.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Technology.txt                  | 30 [32m++++++++++++++++++++++++++++++[m
- A-Teen_Pop.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Tejano.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Telugu.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Thai.txt                        | 11 [32m+++++++++++[m
- A-Top.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Traditional.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-Traffic.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Trance.txt                      | 30 [32m++++++++++++++++++++++++++++++[m
- A-Travel_Tourism.txt              | 30 [32m++++++++++++++++++++++++++++++[m
- A-Tribute.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Trip_Hop.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Tropical.txt                    | 30 [32m++++++++++++++++++++++++++++++[m
- A-Turkish.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Underground.txt                 | 30 [32m++++++++++++++++++++++++++++++[m
- A-Urban.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Urdu.txt                        | 20 [32m++++++++++++++++++++[m
- A-Vallenato.txt                   | 30 [32m++++++++++++++++++++++++++++++[m
- A-Variety.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-Vocal.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Weather.txt                     | 30 [32m++++++++++++++++++++++++++++++[m
- A-White_Noice.txt                 |  1 [32m+[m
- A-Woman.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-World.txt                       | 30 [32m++++++++++++++++++++++++++++++[m
- A-Zen.txt                         | 30 [32m++++++++++++++++++++++++++++++[m
- A-Zouk.txt                        | 30 [32m++++++++++++++++++++++++++++++[m
- A-_2.txt                          | 30 [32m++++++++++++++++++++++++++++++[m
- 351 files changed, 8686 insertions(+)
- create mode 100644 A-40s.txt
- create mode 100644 A-50s.txt
- create mode 100644 A-60s.txt
- create mode 100644 A-70s.txt
- create mode 100644 A-80s.txt
- create mode 100644 A-90s.txt
- create mode 100644 A-AAA.txt
- create mode 100644 A-Acid_Jazz.txt
- create mode 100644 A-Acoustic.txt
- create mode 100644 A-Active_Rock.txt
- create mode 100644 A-Adult.txt
- create mode 100644 A-Adult_Contemporary.txt
- create mode 100644 A-African.txt
- create mode 100644 A-African_Gospel.txt
- create mode 100644 A-Afrobeat.txt
- create mode 100644 A-Afropop.txt
- create mode 100644 A-Agriculture.txt
- create mode 100644 A-Air_Traffic_Control.txt
- create mode 100644 A-Airport.txt
- create mode 100644 A-Alternative.txt
- create mode 100644 A-Ambient.txt
- create mode 100644 A-Americana.txt
- create mode 100644 A-Anime.txt
- create mode 100644 A-Arabesk.txt
- create mode 100644 A-Arabic.txt
- create mode 100644 A-Art.txt
- create mode 100644 A-Asian.txt
- create mode 100644 A-Assamese.txt
- create mode 100644 A-Astrology.txt
- create mode 100644 A-Austrian.txt
- create mode 100644 A-Bachata.txt
- create mode 100644 A-Balada.txt
- create mode 100644 A-Balkan.txt
- create mode 100644 A-Ballad.txt
- create mode 100644 A-Ballroom.txt
- create mode 100644 A-Bandanejo.txt
- create mode 100644 A-Baroque.txt
- create mode 100644 A-Bengali.txt
- create mode 100644 A-Bhakti.txt
- create mode 100644 A-Bhangra.txt
- create mode 100644 A-Big_Band.txt
- create mode 100644 A-Bluegrass.txt
- create mode 100644 A-Blues.txt
- create mode 100644 A-Bolero.txt
- create mode 100644 A-Bollywood.txt
- create mode 100644 A-Bongo_Flava.txt
- create mode 100644 A-Bossa_Nova.txt
- create mode 100644 A-Brazilian.txt
- create mode 100644 A-Breaks.txt
- create mode 100644 A-Britpop.txt
- create mode 100644 A-Bulgarian.txt
- create mode 100644 A-Burmese.txt
- create mode 100644 A-Business.txt
- create mode 100644 A-Cabo_Love.txt
- create mode 100644 A-Calypso.txt
- create mode 100644 A-Campeira.txt
- create mode 100644 A-Cantonese.txt
- create mode 100644 A-Caribbean.txt
- create mode 100644 A-Carnatic.txt
- create mode 100644 A-Catalan.txt
- create mode 100644 A-Catholic.txt
- create mode 100644 A-Celtic.txt
- create mode 100644 A-Chaabi.txt
- create mode 100644 A-Chamber_Music.txt
- create mode 100644 A-Chansons_Francaises.txt
- create mode 100644 A-Chillhop.txt
- create mode 100644 A-Chillout.txt
- create mode 100644 A-Chinese.txt
- create mode 100644 A-Christian.txt
- create mode 100644 A-Christian_Rock.txt
- create mode 100644 A-Christmas.txt
- create mode 100644 A-Chutney.txt
- create mode 100644 A-Cinematics.txt
- create mode 100644 A-Classic_Rock.txt
- create mode 100644 A-Classical.txt
- create mode 100644 A-Classics.txt
- create mode 100644 A-Club.txt
- create mode 100644 A-College.txt
- create mode 100644 A-Comedy.txt
- create mode 100644 A-Community.txt
- create mode 100644 A-Contemporary_Christian.txt
- create mode 100644 A-Contemporary_Classical.txt
- create mode 100644 A-Cooking.txt
- create mode 100644 A-Cool_Jazz.txt
- create mode 100644 A-Country.txt
- create mode 100644 A-Croatian.txt
- create mode 100644 A-Cubaton.txt
- create mode 100644 A-Culture.txt
- create mode 100644 A-Cumbia.txt
- create mode 100644 A-Current_Affairs.txt
- create mode 100644 A-DJ.txt
- create mode 100644 A-Dance.txt
- create mode 100644 A-Dance_Hits.txt
- create mode 100644 A-Dancehall.txt
- create mode 100644 A-Deep_House.txt
- create mode 100644 A-Desi.txt
- create mode 100644 A-Disco.txt
- create mode 100644 A-Doo_Wop.txt
- create mode 100644 A-Downtempo.txt
- create mode 100644 A-Drama.txt
- create mode 100644 A-Dreampop.txt
- create mode 100644 A-Drum_and_Bass.txt
- create mode 100644 A-Dubstep.txt
- create mode 100644 A-Dulpod.txt
- create mode 100644 A-Dutch.txt
- create mode 100644 A-EBM.txt
- create mode 100644 A-Easy_Listening.txt
- create mode 100644 A-Eclectic.txt
- create mode 100644 A-Education.txt
- create mode 100644 A-Ehthnic.txt
- create mode 100644 A-Electro.txt
- create mode 100644 A-Electronica.txt
- create mode 100644 A-Emergency_and_Public_Safety.txt
- create mode 100644 A-Emo.txt
- create mode 100644 A-English.txt
- create mode 100644 A-Entertainment.txt
- create mode 100644 A-Europe.txt
- create mode 100644 A-Experimental.txt
- create mode 100644 A-FIlipino.txt
- create mode 100644 A-Fado.txt
- create mode 100644 A-Festival.txt
- create mode 100644 A-Film.txt
- create mode 100644 A-Financial.txt
- create mode 100644 A-Fitness.txt
- create mode 100644 A-Flamenco.txt
- create mode 100644 A-Flashback.txt
- create mode 100644 A-Folk.txt
- create mode 100644 A-Football.txt
- create mode 100644 A-Forro.txt
- create mode 100644 A-French.txt
- create mode 100644 A-Funk.txt
- create mode 100644 A-Fusion.txt
- create mode 100644 A-Gabber.txt
- create mode 100644 A-Gaming.txt
- create mode 100644 A-Garage.txt
- create mode 100644 A-Garbage.txt
- create mode 100644 A-Ghetto.txt
- create mode 100644 A-Glam.txt
- create mode 100644 A-Goa.txt
- create mode 100644 A-Gospel.txt
- create mode 100644 A-Gospel_Pop.txt
- create mode 100644 A-Gospel_Rock.txt
- create mode 100644 A-Gothic.txt
- create mode 100644 A-Government.txt
- create mode 100644 A-Greek.txt
- create mode 100644 A-Groove.txt
- create mode 100644 A-Grunge.txt
- create mode 100644 A-Grupera.txt
- create mode 100644 A-Guitar.txt
- create mode 100644 A-Gujarati.txt
- create mode 100644 A-Gumbe.txt
- create mode 100644 A-Halloween.txt
- create mode 100644 A-Ham_Radio.txt
- create mode 100644 A-Hanukkah.txt
- create mode 100644 A-Hard_Rock.txt
- create mode 100644 A-Hardcore.txt
- create mode 100644 A-Hardstyle.txt
- create mode 100644 A-Hawaiian.txt
- create mode 100644 A-Health.txt
- create mode 100644 A-Hebrew.txt
- create mode 100644 A-Hindi.txt
- create mode 100644 A-Hindu.txt
- create mode 100644 A-Hip_Hop.txt
- create mode 100644 A-History.txt
- create mode 100644 A-Hits.txt
- create mode 100644 A-Holidays.txt
- create mode 100644 A-Holistic_health.txt
- create mode 100644 A-House.txt
- create mode 100644 A-Hungarian.txt
- create mode 100644 A-IDM.txt
- create mode 100644 A-Ibiza_Club.txt
- create mode 100644 A-India.txt
- create mode 100644 A-Indian.txt
- create mode 100644 A-Indie.txt
- create mode 100644 A-Indigenous.txt
- create mode 100644 A-Information.txt
- create mode 100644 A-Instrumental.txt
- create mode 100644 A-Irish.txt
- create mode 100644 A-Islamic.txt
- create mode 100644 A-Italian.txt
- create mode 100644 A-Italo_Disco.txt
- create mode 100644 A-J_pop.txt
- create mode 100644 A-Japanese.txt
- create mode 100644 A-Jazz.txt
- create mode 100644 A-Jewish.txt
- create mode 100644 A-Jungle.txt
- create mode 100644 A-Kannada.txt
- create mode 100644 A-Kashmiri.txt
- create mode 100644 A-Kids.txt
- create mode 100644 A-Kizomba.txt
- create mode 100644 A-Kompa.txt
- create mode 100644 A-Konkani.txt
- create mode 100644 A-Korean.txt
- create mode 100644 A-Krautrock.txt
- create mode 100644 A-Kuduro.txt
- create mode 100644 A-Kurdish.txt
- create mode 100644 A-Kwaito_music.txt
- create mode 100644 A-Language_Learning.txt
- create mode 100644 A-Laptop_Music.txt
- create mode 100644 A-Latin.txt
- create mode 100644 A-Latin_Jazz.txt
- create mode 100644 A-Liquid_Funk.txt
- create mode 100644 A-Lite_Pop.txt
- create mode 100644 A-Lithuanian.txt
- create mode 100644 A-Live_Shows.txt
- create mode 100644 A-Lo_Fi.txt
- create mode 100644 A-Lofi.txt
- create mode 100644 A-Lounge.txt
- create mode 100644 A-Love.txt
- create mode 100644 A-MPB.txt
- create mode 100644 A-Malayalam.txt
- create mode 100644 A-Mandarin.txt
- create mode 100644 A-Mando.txt
- create mode 100644 A-Manele.txt
- create mode 100644 A-Marathi.txt
- create mode 100644 A-Mariachi.txt
- create mode 100644 A-Masala.txt
- create mode 100644 A-Medieval.txt
- create mode 100644 A-Meditation.txt
- create mode 100644 A-Mediterranean.txt
- create mode 100644 A-Meitei.txt
- create mode 100644 A-Merengue.txt
- create mode 100644 A-Metal.txt
- create mode 100644 A-Mexican.txt
- create mode 100644 A-Middle_Eastern.txt
- create mode 100644 A-Military.txt
- create mode 100644 A-Minimal.txt
- create mode 100644 A-Motown.txt
- create mode 100644 A-Native_American.txt
- create mode 100644 A-Nature.txt
- create mode 100644 A-Nepali.txt
- create mode 100644 A-New_Age.txt
- create mode 100644 A-New_Wave.txt
- create mode 100644 A-News.txt
- create mode 100644 A-Novelty.txt
- create mode 100644 A-Nutrition.txt
- create mode 100644 A-Odia.txt
- create mode 100644 A-Old_School.txt
- create mode 100644 A-Old_Time_Radio.txt
- create mode 100644 A-Oldies.txt
- create mode 100644 A-Opera.txt
- create mode 100644 A-Other.txt
- create mode 100644 A-Pagode.txt
- create mode 100644 A-Paranormal_Talk.txt
- create mode 100644 A-Party.txt
- create mode 100644 A-Persian.txt
- create mode 100644 A-Piano.txt
- create mode 100644 A-Pinoy.txt
- create mode 100644 A-Poetry_and_Prose.txt
- create mode 100644 A-Polish.txt
- create mode 100644 A-Politics.txt
- create mode 100644 A-Polka.txt
- create mode 100644 A-Pop.txt
- create mode 100644 A-Pop_Rock.txt
- create mode 100644 A-Portuguese.txt
- create mode 100644 A-Positive.txt
- create mode 100644 A-Postpunk.txt
- create mode 100644 A-Postrock.txt
- create mode 100644 A-Praise_and_Worship.txt
- create mode 100644 A-Progressive.txt
- create mode 100644 A-Progressive_House.txt
- create mode 100644 A-Psy.txt
- create mode 100644 A-Psych.txt
- create mode 100644 A-Public.txt
- create mode 100644 A-Punjabi.txt
- create mode 100644 A-Punk.txt
- create mode 100644 A-Radio_Reading_Service.txt
- create mode 100644 A-Railroad.txt
- create mode 100644 A-Ramadam.txt
- create mode 100644 A-Ranchera.txt
- create mode 100644 A-Rap.txt
- create mode 100644 A-Rapso.txt
- create mode 100644 A-Rave.txt
- create mode 100644 A-Recommended.txt
- create mode 100644 A-Reggae.txt
- create mode 100644 A-Reggaeton.txt
- create mode 100644 A-Religious.txt
- create mode 100644 A-RnB.txt
- create mode 100644 A-Rock.txt
- create mode 100644 A-Rock_and_Roll.txt
- create mode 100644 A-Romanian.txt
- create mode 100644 A-Romantic.txt
- create mode 100644 A-Rumba.txt
- create mode 100644 A-Rural.txt
- create mode 100644 A-Russian.txt
- create mode 100644 A-Russkiy_Shanson.txt
- create mode 100644 A-Salsa.txt
- create mode 100644 A-Samba.txt
- create mode 100644 A-Scanner.txt
- create mode 100644 A-Schlager.txt
- create mode 100644 A-Science.txt
- create mode 100644 A-Seasons.txt
- create mode 100644 A-Sertanejo.txt
- create mode 100644 A-Sex_Education.txt
- create mode 100644 A-Shoegaze.txt
- create mode 100644 A-Sikh.txt
- create mode 100644 A-Singer_Songwriter.txt
- create mode 100644 A-Ska.txt
- create mode 100644 A-Slow.txt
- create mode 100644 A-Slowjam.txt
- create mode 100644 A-Smooth_Jazz.txt
- create mode 100644 A-Soca.txt
- create mode 100644 A-Soft.txt
- create mode 100644 A-Soft_Rock.txt
- create mode 100644 A-Soukous.txt
- create mode 100644 A-Soul.txt
- create mode 100644 A-Soundtracks.txt
- create mode 100644 A-Southern_Rock.txt
- create mode 100644 A-Spanish.txt
- create mode 100644 A-Spiritual.txt
- create mode 100644 A-Sports.txt
- create mode 100644 A-Standards.txt
- create mode 100644 A-Steel_Pan.txt
- create mode 100644 A-Student_Radio.txt
- create mode 100644 A-Sufi.txt
- create mode 100644 A-Swedish.txt
- create mode 100644 A-Swing.txt
- create mode 100644 A-Synthpop.txt
- create mode 100644 A-Tagnawite.txt
- create mode 100644 A-Talk.txt
- create mode 100644 A-Tamil.txt
- create mode 100644 A-Tango.txt
- create mode 100644 A-Tarab.txt
- create mode 100644 A-Techno.txt
- create mode 100644 A-Technology.txt
- create mode 100644 A-Teen_Pop.txt
- create mode 100644 A-Tejano.txt
- create mode 100644 A-Telugu.txt
- create mode 100644 A-Thai.txt
- create mode 100644 A-Top.txt
- create mode 100644 A-Traditional.txt
- create mode 100644 A-Traffic.txt
- create mode 100644 A-Trance.txt
- create mode 100644 A-Travel_Tourism.txt
- create mode 100644 A-Tribute.txt
- create mode 100644 A-Trip_Hop.txt
- create mode 100644 A-Tropical.txt
- create mode 100644 A-Turkish.txt
- create mode 100644 A-Underground.txt
- create mode 100644 A-Urban.txt
- create mode 100644 A-Urdu.txt
- create mode 100644 A-Vallenato.txt
- create mode 100644 A-Variety.txt
- create mode 100644 A-Vocal.txt
- create mode 100644 A-Weather.txt
- create mode 100644 A-White_Noice.txt
- create mode 100644 A-Woman.txt
- create mode 100644 A-World.txt
- create mode 100644 A-Zen.txt
- create mode 100644 A-Zouk.txt
- create mode 100644 A-_2.txt
-
-Script done on 2023-04-14 13:54:51+03:30 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,49 @@
+Script started on 2023-04-17 04:07:55+03:30 [TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="111" LINES="9"]
+remote: Enumerating objects: 4, done.[K
+remote: Counting objects:  25% (1/4)[Kremote: Counting objects:  50% (2/4)[Kremote: Counting objects:  75% (3/4)[Kremote: Counting objects: 100% (4/4)[Kremote: Counting objects: 100% (4/4), done.[K
+remote: Compressing objects:  50% (1/2)[Kremote: Compressing objects: 100% (2/2)[Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)Unpacking objects:  66% (2/3)Unpacking objects: 100% (3/3)Unpacking objects: 100% (3/3), 728 bytes | 34.00 KiB/s, done.
+From https://github.com/junguler/test1
+   7615db14..b1454da8  main       -> origin/main
+Updating 7615db14..b1454da8
+Fast-forward
+ A-baden_wuerttemberg.txt     | 0
+ A-bavaria.txt                | 0
+ A-berlin.txt                 | 0
+ A-brandenburg.txt            | 0
+ A-bremen.txt                 | 0
+ A-germany.txt                | 0
+ A-hamburg.txt                | 0
+ A-hessen.txt                 | 0
+ A-lower_saxony.txt           | 0
+ A-mecklenburg_vorpommern.txt | 0
+ A-north_rhine_westphalia.txt | 0
+ A-rhineland_palatinate.txt   | 0
+ A-saarland.txt               | 0
+ A-saxony.txt                 | 0
+ A-saxony_anhalt.txt          | 0
+ A-schleswig_holstein.txt     | 0
+ A-thuringia.txt              | 0
+ A-top100.txt                 | 0
+ 18 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 A-baden_wuerttemberg.txt
+ create mode 100644 A-bavaria.txt
+ create mode 100644 A-berlin.txt
+ create mode 100644 A-brandenburg.txt
+ create mode 100644 A-bremen.txt
+ create mode 100644 A-germany.txt
+ create mode 100644 A-hamburg.txt
+ create mode 100644 A-hessen.txt
+ create mode 100644 A-lower_saxony.txt
+ create mode 100644 A-mecklenburg_vorpommern.txt
+ create mode 100644 A-north_rhine_westphalia.txt
+ create mode 100644 A-rhineland_palatinate.txt
+ create mode 100644 A-saarland.txt
+ create mode 100644 A-saxony.txt
+ create mode 100644 A-saxony_anhalt.txt
+ create mode 100644 A-schleswig_holstein.txt
+ create mode 100644 A-thuringia.txt
+ create mode 100644 A-top100.txt
+
+Script done on 2023-04-17 04:07:57+03:30 [COMMAND_EXIT_CODE="0"]

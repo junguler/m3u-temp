@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for j in $(cat germany.txt) ; do curl -s http://www.hit-tuner.net/en/germany/state/$j.html | ./htmlq -a href a | grep "../radio" | cut -c10-  >> A-$j.txt ; echo -e "$j" ; done
+          for j in $(cat germany.txt) ; do curl -s http://www.hit-tuner.net/en/germany/state/index.php?seite=2&genre=$j | ./htmlq -a href a | grep "../radio" | cut -c10-  >> A-$j.txt ; echo -e "$j" ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

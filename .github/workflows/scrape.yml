@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in "" \?page={2..5} ; do for j in $(cat states.txt) ; do curl -s https://radiostationusa.fm/state/$j$i | ./htmlq -a href a | grep "online" | awk -F '/' '{print $2}' | awk NF >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          for i in \?page={6..10} ; do for j in $(cat states.txt) ; do curl -s https://radiostationusa.fm/state/$j$i | ./htmlq -a href a | grep "online" | awk -F '/' '{print $2}' | awk NF >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

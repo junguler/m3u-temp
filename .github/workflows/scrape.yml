@@ -10,7 +10,8 @@ jobs:
 
       - name: run commands
         run: |
-          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://live365.com/station/$j > mep1 ; cat mep1 | ./htmlq -t h1 | awk '{print "#EXTINF:-1 , "$0}' | uniq >> A$i ; cat mep1 | grep -Po '"streamUrl": *\K"[^"]*"' | sed 's/"//g' | sed 's/\;//g' | sed '/^$/d' | xargs curl -s -I | grep "location" | awk '{print $2}' >> A$i ; echo -e "$i - $j" ; done ; done
+          sudo apt install jq -y
+          for i in {1..5} ; do for j in $(cat genres.txt) ; do curl -s https://zeno.fm/api/stations/?query=&limit=100&genre=$j&country=&language=&page=$i | jq -r '.[].url' | awk -F '/' '{print $5}' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

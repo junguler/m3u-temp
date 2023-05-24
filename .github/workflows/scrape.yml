@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in \?skip={252..480..12} ; do for j in $(cat languages.txt) ; do curl -s https://openradio.app/api/list/by-language/$j$i | jq -r '.items[] | {slug, id} | join("-")' | awk NF >> A-lang-$j.txt ; echo -e "$j - $i" ; done ; done
+          for i in \?skip={492..780..12} ; do for j in $(cat languages.txt) ; do curl -s https://openradio.app/api/list/by-language/$j$i | jq -r '.items[] | {slug, id} | join("-")' | awk NF >> A-lang-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

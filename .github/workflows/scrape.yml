@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in {16..30} ; do for j in $(cat location.txt) ; do curl -s https://vtuner.com/setupapp/guide/asp/BrowseStations/BrowsePremiumStations.asp\?sCategory\=$j\&sBrowseType\=Location\&sViewBy\=\&sSortby\=\&sWhatList\=\&sNiceLang\=\&iCurrPage\=$i | ./htmlq -a href a | uniq | grep "dynampls.asp" | awk -F '=' '{print $2"="$3}' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          for i in {31..60} ; do for j in $(cat location.txt) ; do curl -s https://vtuner.com/setupapp/guide/asp/BrowseStations/BrowsePremiumStations.asp\?sCategory\=$j\&sBrowseType\=Location\&sViewBy\=\&sSortby\=\&sWhatList\=\&sNiceLang\=\&iCurrPage\=$i | ./htmlq -a href a | uniq | grep "dynampls.asp" | awk -F '=' '{print $2"="$3}' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in $(cat genres.txt) ; do curl -s https://laut.fm/fm-api/stations/genre/$i?offset=0&limit=10000 | jq -r '.items[].name' >> A-$i.txt ; echo -e $i ; done
+          for i in A-*.txt ; do for j in $(cat $i) ; do echo "#EXTINF:-1 , $(echo $j | sed -e 's/-/ /g' -e 's/_/ /g')" >> A$i ; echo "http://stream.laut.fm/$j" >> A$i ; echo -e "$i - $j" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

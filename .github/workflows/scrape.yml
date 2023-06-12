@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in A-*.txt ; do for j in $(cat $i) ; do echo "#EXTINF:-1 , $(echo $j | sed -e 's/-/ /g' -e 's/_/ /g')" >> A$i ; echo "http://stream.laut.fm/$j" >> A$i ; echo -e "$i - $j" ; done ; done
+          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s -D - http://stream.laut.fm/$j | grep -i "location" | awk '{print $2}' >> A$i ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

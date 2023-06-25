@@ -1,0 +1,1150 @@
+	
+		<!DOCTYPE html>
+
+	<head>
+	
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177362630-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-177362630-1');
+		</script>
+
+
+
+		<!-- Basic Page Needs
+================================================== -->
+		<title>club dj 80s 2 - club dj 80s remixes</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta name="description" content="club dj 80s 2 - Walli´s 2 Reloaded ExclusivE RemiX DJ dance club classics from the 80s 90s 00s Hi-NRG Italo Eurobeat Eurodance">
+		<meta name="keywords" content="">
+		<meta name="author" content="Get Me Radio!">
+		<meta property="og:title" content="club dj 80s 2 - Walli´s 2 Reloaded ExclusivE RemiX DJ dance club classics from the 80s 90s 00s Hi-NRG Italo Eurobeat Eurodance">
+		<meta property="og:description" content="club dj 80s 2 - Walli´s 2 Reloaded ExclusivE RemiX DJ dance club classics from the 80s 90s 00s Hi-NRG Italo Eurobeat Eurodance">
+		<meta property="og:image" content="https://www.getmeradio.com/stations/clubdj80s2-8075/logos/512x512.png">
+		<meta property="og:url" content="https://www.getmeradio.com/stations/clubdj80s2-8075/" />
+		<meta property="og:site_name" content="club dj 80s 2">
+		<meta property="og:type" content="website">
+		<meta property="fb:app_id" content="292367058689815">
+		<meta name="twitter:title" content="club dj 80s 2 - Walli´s 2 Reloaded ExclusivE RemiX DJ dance club classics from the 80s 90s 00s Hi-NRG Italo Eurobeat Eurodance">
+		<meta name="twitter:description" content="club dj 80s 2 - Walli´s 2 Reloaded ExclusivE RemiX DJ dance club classics from the 80s 90s 00s Hi-NRG Italo Eurobeat Eurodance">
+		<meta name="twitter:image" content="https://www.getmeradio.com/stations/clubdj80s2-8075/logos/512x512.png">
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="">
+		<!-- CSS
+================================================== -->
+		<link rel="stylesheet" href="https://www.getmeradio.com/css/style.css">
+		<link rel="stylesheet" href="https://www.getmeradio.com/css/main-color.css" id="colors">
+		<!--<link rel="stylesheet" href="/var/www/html/includes/index.css" media="screen">-->
+		<script src="https://www.getmeradio.com/common/player/js/jquery-3.2.1.min.js"></script>
+		<!--<script src="https://www.getmeradio.com/common/player/js/lunaradio.min.js"></script>-->
+
+		<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.19.0/jquery.validate.min.js"></script>
+		<link href="https://www.getmeradio.com/css/toastr.min.css" rel="stylesheet" type="text/css">
+		<script src="https://www.getmeradio.com/common/player/js/toastr.min.js"></script>
+		<link rel="stylesheet" href="https://www.getmeradio.com/css/reviews.css">
+		<link rel="stylesheet" href="https://www.getmeradio.com/style.css">
+		<script src="https://kit.fontawesome.com/38aafd0558.js" crossorigin="anonymous"></script>
+
+		<script type="text/javascript">
+			$(document).ready(function() {
+
+				$(".notLooggedin").click(function() {
+					window.location.replace("https://www.getmeradio.com/thanks/prereg/");
+				});
+
+							});
+
+			window.setInterval(function() {
+				var stationId = 8075
+				/*Now Playing*/
+				$.ajax({
+					url: "/common/interval.php",
+					type: "post",
+					dataType: "json",
+					data: {
+						'stationId': stationId,
+						'nowPlaying': 1
+					},
+					success: function(response) {
+						var len = response.length;
+						for (var i = 0; i < len; i++) {
+							var artist = response[i].artist;
+							var title = response[i].title;
+							var artwork = response[i].artwork;
+
+							var shareFB = response[i].share_facebook;
+							var shareTwitter = response[i].share_twitter;
+							var now_playing_vote_icons = response[i].now_playing_vote_icons;
+
+							var now_playing_apple_buy_icon = response[i].now_playing_apple_buy_icon;
+							var now_playing_amazon_icon = response[i].now_playing_amazon_icon;
+
+
+							$(".artist_interval").html(artist);
+							$(".title_interval").html(title);
+							$(".artwork_interval").attr('src', artwork);
+
+							$(".share_facebook").html(shareFB);
+							$(".share_twitter").html(shareTwitter);
+							$(".now_playing_vote_icons").html(now_playing_vote_icons);
+
+							$(".now_playing_apple_buy_icon").html(now_playing_apple_buy_icon);
+							$(".now_playing_amazon_icon").html(now_playing_amazon_icon);
+
+						}
+					},
+					error: function(jqXHR, textStatus, errorThrown) {
+						console.log(textStatus, errorThrown);
+					}
+				});
+
+				/*Recently Playing*/
+				$.ajax({
+					url: "/common/interval.php",
+					type: "post",
+					dataType: "json",
+					data: {
+						'stationId': stationId,
+						'nowPlaying': 2
+					},
+					success: function(response) {
+						var len = response.length;
+						for (var i = 0; i < len; i++) {
+
+
+							$(".artist1_title1_interval").html(response[i].artist1_title1);
+							$(".artwork1_interval").attr('src', response[i].artwork1);
+
+							var shareFB1 = response[i].share_facebook1;
+							var shareTwitter1 = response[i].share_twitter1;
+							var recently_played_vote_icons1 = response[i].recently_played_vote_icons1;
+
+							var recently_played_apple_buy_icon11 = response[i].recently_played_apple_buy_icon1;
+							var recently_played_amazon_icon11 = response[i].recently_played_amazon_icon1;
+
+							$(".share_facebook1").html(shareFB1);
+							$(".share_twitter1").html(shareTwitter1);
+							$(".recently_played_vote_icons1").html(recently_played_vote_icons1);
+
+							$(".recently_played_apple_buy_icon1").html(recently_played_apple_buy_icon11);
+							$(".recently_played_amazon_icon1").html(recently_played_amazon_icon11);
+
+
+							$(".artist2_title2_interval").html(response[i].artist2_title2);
+							$(".artwork2_interval").attr('src', response[i].artwork2);
+
+							var shareFB2 = response[i].share_facebook2;
+							var shareTwitter2 = response[i].share_twitter2;
+							var recently_played_vote_icons22 = response[i].recently_played_vote_icons2;
+
+							var recently_played_apple_buy_icon22 = response[i].recently_played_apple_buy_icon2;
+							var recently_played_amazon_icon22 = response[i].recently_played_amazon_icon2;
+
+							$(".share_facebook2").html(shareFB2);
+							$(".share_twitter2").html(shareTwitter2);
+							$(".recently_played_vote_icons2").html(recently_played_vote_icons22);
+
+							$(".recently_played_apple_buy_icon2").html(recently_played_apple_buy_icon22);
+							$(".recently_played_amazon_icon2").html(recently_played_amazon_icon22);
+
+
+
+							$(".artist3_title3_interval").html(response[i].artist3_title3);
+							$(".artwork3_interval").attr('src', response[i].artwork3);
+
+
+							var shareFB3 = response[i].share_facebook3;
+							var shareTwitter3 = response[i].share_twitter3;
+							var recently_played_vote_icons33 = response[i].recently_played_vote_icons3;
+
+							var recently_played_apple_buy_icon33 = response[i].recently_played_apple_buy_icon3;
+							var recently_played_amazon_icon33 = response[i].recently_played_amazon_icon3;
+
+							$(".share_facebook3").html(shareFB3);
+							$(".share_twitter3").html(shareTwitter3);
+							$(".recently_played_vote_icons3").html(recently_played_vote_icons33);
+
+							$(".recently_played_apple_buy_icon3").html(recently_played_apple_buy_icon33);
+							$(".recently_played_amazon_icon3").html(recently_played_amazon_icon33);
+						}
+					},
+					error: function(jqXHR, textStatus, errorThrown) {
+						console.log(textStatus, errorThrown);
+					}
+				});
+
+			}, 20000);
+
+			$(document).ready(function() {
+
+				$("#contactform1").validate({
+
+					rules: {
+						"name": {
+							required: true,
+						},
+						"email": {
+							email: true,
+							required: true,
+						},
+						"comments": {
+							required: true,
+						}
+
+					},
+					messages: {
+						"name": {
+							required: function() {
+								toastr.error("", "Please enter your name", {
+									"positionClass": "toast-top-right",
+								})
+							},
+						},
+						"email": {
+							required: function() {
+								toastr.error("", "Please enter your email", {
+									"positionClass": "toast-top-right",
+								})
+							},
+							email: function() {
+								toastr.error("", "Please enter a valid email", {
+									"positionClass": "toast-top-right",
+								})
+							},
+						},
+						"comments": {
+							required: function() {
+								toastr.error("", "Please enter a message", {
+									"positionClass": "toast-top-right",
+								})
+							},
+						}
+
+					},
+					submitHandler: function(form) {
+
+
+						$.ajax({
+							type: "POST",
+							url: "/includes/contact_process_stations.php",
+							data: $(form).serialize(),
+							success: function(res) {
+
+								if (res == '1') {
+									$("#contactform1")[0].reset()
+									$(".bhnsuccess").show()
+									$(".bhnerror").hide()
+									return false;
+								} else {
+									$("#contactform1")[0].reset()
+									$(".bhnerror").show()
+									$(".bhnsuccess").hide()
+									return false;
+								}
+							}
+						});
+
+
+
+					}
+				});
+
+			});
+		</script>
+	
+	</head>
+
+	<body>
+	
+
+		<div id="fb-root"></div>
+		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0&appId=292367058689815&autoLogAppEvents=1" nonce="IO7dPyPu"></script>
+		<!-- Wrapper -->
+		<div id="wrapper">
+			<!-- Header Container
+================================================== -->
+			<header id="header-container">
+				<!-- Header -->
+				<div id="header" class="not-sticky">
+					<div class="container">
+						<!-- Left Side Content -->
+						<div class="left-side">
+							<!-- Logo -->
+							<div id="logo">
+								<a href="/"><img src="/images/logo.png" alt=""></a>
+							</div>
+							<!-- Mobile Navigation -->
+							<div class="mmenu-trigger">
+								<button class="hamburger hamburger--collapse" type="button">
+									<span class="hamburger-box">
+										<span class="hamburger-inner"></span>
+									</span>
+								</button>
+							</div>
+							<!-- Main Navigation -->
+<nav id="navigation" class="style-1">
+<ul id="responsive">
+
+	<li><a href="/">Home</a>
+
+	</li>
+
+	<li><a href="#">Stations</a>
+		<ul>
+			<li><a href="/stations/search/">Browse by Name</a>
+
+			</li>
+			<li><a href="/stations/genre/">Browse by Genre</a>
+
+			</li>
+			<li><a href="/stations/country/">Browse by Country</a>
+			</li>
+			<li><a href="/stations/map/">Browse by Location</a>
+			</li>
+		</ul>
+	</li>
+	<li><a href="#">Podcasts</a>
+		<ul>
+			<li><a href="/podcasts/search/">Browse by Name</a>
+
+			</li>
+			<li><a href="/podcasts/category/">Browse by Category</a>
+
+			</li>
+			<li><a href="/podcasts/country/">Browse by Country</a>
+			</li>
+		</ul>
+	</li>
+	<li><a href="/listeners">Listeners</a>
+	<li><a href="/broadcasters">Broadcasters</a>
+	<li><a href="/contact">Contact</a>
+	</li>
+
+</ul>
+</nav>
+<div class="clearfix"></div>
+<!-- Main Navigation / End -->						</div>
+						<!-- Left Side Content / End -->
+						<!-- Right Side Content / End -->
+						<div class="right-side">
+							<div class="header-widget">
+																	<a href="https://my.getmeradio.com" class=""><i class="sl sl-icon-login"></i> Sign In / Register</a>
+															</div>
+						</div>
+						<!-- Right Side Content / End -->
+					</div>
+				</div>
+				<!-- Header / End -->
+			</header>
+			<div class="clearfix"></div>
+			<!-- Header Container / End -->
+
+			<!-- Gradient-->
+			<div class="single-listing-page-titlebar"></div>
+
+			<!-- Content
+================================================== -->
+			<div class="container">
+
+								<div class="row sticky-wrapper">
+					<div class="col-lg-8 col-md-8">
+						<!-- Titlebar -->
+						<div id="titlebar" class="listing-titlebar">
+							<div class="listing-titlebar-title">
+								<h2>club dj 80s 2<span class="listing-tag">80's</span></h2>
+																<div class="star-rating" data-rating="0.0">
+									<div class="rating-counter"><a href="#reviews">0
+											 no reviews
+										</a></div>
+								</div>
+
+								<h3>club dj 80s remixes</h3>
+								<div class="row">
+
+									<div class="col-xs-2 col-sm-1 col-md-1 col-lg-1">
+										<a id="play-pause-button-small" class="fa fa-play" style="margin: 5px 5px 5px 5px;"></a>
+									</div>
+									<div class="col-xs-10 col-sm-11 col-md-11 col-lg-11">
+										<h4 style="color: #ed1a42">club dj 80s 2</h4>
+										<h4>
+											<span style="color: #ed1a42" class="artist_interval">  </span>
+											<span style="color: #ed1a42"> - </span>
+											<span style="color: #ed1a42" class="title_interval"></span>
+										</h4>
+									</div>
+								</div>
+								<style>
+									#play-pause-button-small {
+										font-size: 60px;
+										cursor: pointer;
+										color: #ed1a42;
+										margin-left: 130px;
+									}
+								</style>
+
+
+								<script>
+									var audio = new Audio("https://securestreams7.autopo.st/?uri=http://stream.zeno.fm/qozynl4jkmivv");
+									$('#play-pause-button, #play-pause-button-small').on("click", function() {
+										if ($(this).hasClass('fa-play')) {
+											$(this).removeClass('fa-play');
+											$(this).addClass('fa-pause');
+											audio.play();
+										} else {
+											$(this).removeClass('fa-pause');
+											$(this).addClass('fa-play');
+											audio.pause();
+										}
+									});
+
+									audio.onended = function() {
+										$("#play-pause-button, #play-pause-button-small").removeClass('fa-pause');
+										$("#play-pause-button, #play-pause-button-small").addClass('fa-play');
+									};
+
+
+									$(".btn-effect").click(function() {
+										$("." + $(this).attr('id')).css("display", "block")
+									});
+
+									$("document").ready(function() {
+										setTimeout(function() {
+											var d = "";
+											$("#" + d).trigger('click');
+											$("#" + d).addClass('active');
+										}, 2000);
+									});
+								</script>
+							</div>
+							<br>
+
+
+
+							<h4><b>club dj 80s 2</b> - Walli´s 2 Reloaded ExclusivE RemiX DJ dance club classics from the 80s 90s 00s Hi-NRG Italo Eurobeat Eurodance</h4>
+						</div>
+						<!-- Listing Nav -->
+						<div id="listing-nav" class="listing-nav-container">
+							<ul class="listing-nav">
+								<li><a href="#listing-overview" class="active">Now Playing</a></li>
+								<li><a href="#listing-gallery">Recently Played</a></li>
+								<li><a href="#listing-waystolisten">Ways To Listen</a></li>
+
+								
+								<li><a href="#listing-contact">Contact</a></li>							</ul>
+						</div>
+						<!-- Overview -->
+						<div id="listing-overview" class="listing-section">
+							<!-- Description -->
+							<div class="row">
+								<div class="col-md-12">
+									<h4 class="headline margin-top-0 margin-bottom-30"><u>Now Playing on club dj 80s 2</u></h4>
+								</div>
+								<div class="col-md-4 col-xs-6">
+									<div class="style-1">
+										<img class="artwork_interval" src="">
+										<!-- Tabs Content -->
+									</div>
+								</div>
+								<div class="col-md-8 col-xs-6">
+																		<h3 class="artist_interval"></h3>
+									<h4 class="title_interval"></h4>
+									<br>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+							<h5>Share / Vote / Buy this song</h5>
+														<a class="share_facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.getmeradio.com/stations/clubdj80s2-8075" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.getmeradio.com/stations/clubdj80s2-8075','popup','width=600,height=400,scrollbars=no,resizable=no'); return false;"><i class="fa fa-facebook fa-2x" style="color:#3b5998"></i> </a>&nbsp;
+							<a class="share_twitter" href="https://www.twitter.com/intent/tweet?url=https://getme.radio/clubdj80s2&text=I'm listening to  by  on club dj 80s 2 on the Get Me Radio! platform&via=getmeradio" title="Share this song on Twitter"><i class="fa fa-twitter fa-2x" style="color:#00acee"></i> </a>&nbsp;
+
+							<i class="now_playing_vote_icons">
+							
+															</i>
+							
+							
+							
+							
+							<script type="text/javascript">
+								$("#voteupnowimg").click(function(e) {
+									$.ajax({
+										type: 'post',
+										url: '/api/voting/voteupdate.php?station_id=8075&artist=&title=&up_down=up&platform=website',
+										success: function(result, textStatus, jqXHR) {
+											$("#ajaxnotifier").html(result);
+											toastr.success(" -  voted up!", "Vote Registered!");
+										}
+
+									})
+								})
+							</script>
+
+							<script type="text/javascript">
+								$("#votedownnowimg").click(function(e) {
+									$.ajax({
+										type: 'post',
+										url: '/api/voting/voteupdate.php?station_id=8075&artist=&title=&up_down=down&platform=website',
+										success: function(result, textStatus, jqXHR) {
+											$("#ajaxnotifier").html(result);
+											toastr.error(" -  voted down!", 'Vote Registered!');
+										}
+
+									})
+								})
+							</script>
+
+							<a class="now_playing_apple_buy_icon" href="https://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?at=1001lGBR&term= - " title="Buy  by  on iTunes" target="_blank"><i class="fa fa-apple fa-2x" style="color:black"></i> </a>&nbsp;
+							<a class="now_playing_amazon_icon" href="https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Ddigital-music&tag=%22+filter_link+%22&field-keywords=
+				 - " title="Buy  by  on Amazon" target="_blank"><i class="fa fa-amazon fa-2x" style="color:#FF9900"></i> </a>&nbsp;
+						
+				
+				
+				
+				
+												
+						
+						</div>
+						<!-- Slider -->
+						<div id="listing-gallery" class="listing-section">
+							<h2 class="listing-desc-headline margin-top-70"><u>Recently Played on club dj 80s 2</u></h2>
+							<div class="row">
+								<div class="col-md-2 col-xs-4">
+									<img class="artwork1_interval" src="">
+								</div>
+								<div class="col-md-10 col-xs-8">
+									<h4 class="artist1_title1_interval"> - </h4>
+									<a class="share_facebook1" href="https://www.facebook.com/sharer/sharer.php?u=https://www.getmeradio.com/stations/clubdj80s2-8075" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.getmeradio.com/stations/clubdj80s2-8075','popup','width=600,height=400,scrollbars=no,resizable=no'); return false;"><i class="fa fa-facebook fa-1x" style="color:#3b5998"></i> </a>&nbsp;
+									<a class="share_twitter1" href="https://www.twitter.com/intent/tweet?url=https://getme.radio/clubdj80s2&text=I listened to  by  on club dj 80s 2 on the Get Me Radio! platform&via=getmeradio" title="Share this song on Twitter"><i class="fa fa-twitter fa-1x" style="color:#00acee"></i> </a>&nbsp;
+
+									<i class="recently_played_vote_icons1">
+																			</i>
+
+									<script type="text/javascript">
+										$("#voteuprecently1img").click(function(e) {
+											$.ajax({
+												type: 'post',
+												url: '/api/voting/voteupdate.php?station_id=8075&artist=&title=&up_down=up&platform=website',
+												success: function(result, textStatus, jqXHR) {
+													$("#ajaxnotifier").html(result);
+													toastr.success(" -  voted up!", 'Vote Registered!');
+												}
+											})
+										})
+									</script>
+									<script type="text/javascript">
+										$("#votedownrecently1img").click(function(e) {
+											$.ajax({
+												type: 'post',
+												url: '/api/voting/voteupdate.php?station_id=8075&artist=&title=&up_down=down&platform=website',
+												success: function(result, textStatus, jqXHR) {
+													$("#ajaxnotifier").html(result);
+													toastr.error(" -  voted down!", 'Vote Registered!');
+												}
+											})
+										})
+									</script>
+
+
+									<a class="recently_played_apple_buy_icon1" target="_blank" href="https://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?at=1001lGBR&term= - " title="Buy  by  on iTunes"><i class="fa fa-apple fa-1x" style="color:black"></i> </a>&nbsp;
+									<a class="recently_played_amazon_icon1" target="_blank" href="https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Ddigital-music&tag=%22+filter_link+%22&field-keywords= - " title="Buy  by  on Amazon"><i class="fa fa-amazon fa-1x" style="color:#FF9900"></i> </a>&nbsp;
+								</div>
+							</div>
+							<br>
+							<div class="row">
+								<div class="col-md-2 col-xs-4">
+									<img class="artwork2_interval" src="">
+								</div>
+								<div class="col-md-10 col-xs-8">
+									<h4 class=" artist2_title2_interval"> - </h4>
+									<a class="share_facebook2" href="https://www.facebook.com/sharer/sharer.php?u=https://www.getmeradio.com/stations/clubdj80s2-8075" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.getmeradio.com/stations/clubdj80s2-8075','popup','width=600,height=400,scrollbars=no,resizable=no'); return false;"><i class="fa fa-facebook fa-1x" style="color:#3b5998"></i> </a>&nbsp;
+									<a class="share_twitter2" href="https://www.twitter.com/intent/tweet?url=https://getme.radio/clubdj80s2&text=I listened to  by  on club dj 80s 2 on the Get Me Radio! platform&via=getmeradio" title="Share this song on Twitter"><i class="fa fa-twitter fa-1x" style="color:#00acee"></i> </a>&nbsp;
+
+									<i class="recently_played_vote_icons2">
+																			</i>
+
+									<script type="text/javascript">
+										$("#voteuprecently2img").click(function(e) {
+											$.ajax({
+												type: 'post',
+												url: '/api/voting/voteupdate.php?station_id=8075&artist=&title=&up_down=up&platform=website',
+												success: function(result, textStatus, jqXHR) {
+													$("#ajaxnotifier").html(result);
+													toastr.success(" -  voted up!", 'Vote Registered!');
+												}
+											})
+										})
+									</script>
+									<script type="text/javascript">
+										$("#votedownrecently2img").click(function(e) {
+											$.ajax({
+												type: 'post',
+												url: '/api/voting/voteupdate.php?station_id=8075&artist=&title=&up_down=down&platform=website',
+												success: function(result, textStatus, jqXHR) {
+													$("#ajaxnotifier").html(result);
+													toastr.error(" -  voted down!", 'Vote Registered!');
+												}
+											})
+										})
+									</script>
+
+									<a class="recently_played_apple_buy_icon2" target="_blank" href="https://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?at=1001lGBR&term= - " title="Buy  by  on iTunes"><i class="fa fa-apple fa-1x" style="color:black"></i> </a>&nbsp;
+									<a class="recently_played_amazon_icon2" target="_blank" href="https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Ddigital-music&tag=%22+filter_link+%22&field-keywords= - " title="Buy  by  on Amazon"><i class="fa fa-amazon fa-1x" style="color:#FF9900"></i> </a>&nbsp;
+								</div>
+							</div>
+							<br>
+							<div class="row">
+								<div class="col-md-2 col-xs-4">
+									<img class="artwork3_interval" src="">
+								</div>
+								<div class="col-md-10 col-xs-8"">
+								<h4 class=" artist3_title3_interval"> - </h4>
+									<a class="share_facebook3" href="https://www.facebook.com/sharer/sharer.php?u=https://www.getmeradio.com/stations/clubdj80s2-8075" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.getmeradio.com/stations/clubdj80s2-8075','popup','width=600,height=400,scrollbars=no,resizable=no'); return false;"><i class="fa fa-facebook fa-1x" style="color:#3b5998"></i> </a>&nbsp;
+									<a class="share_twitter3" href="https://www.twitter.com/intent/tweet?url=https://getme.radio/clubdj80s2&text=I listened to  by  on club dj 80s 2 on the Get Me Radio! platform&via=getmeradio" title="Share this song on Twitter"><i class="fa fa-twitter fa-1x" style="color:#00acee"></i> </a>&nbsp;
+									<i class="recently_played_vote_icons3">
+																			</i>
+
+									<script type="text/javascript">
+										$("#voteuprecently3img").click(function(e) {
+											$.ajax({
+												type: 'post',
+												url: '/api/voting/voteupdate.php?station_id=8075&artist=&title=&up_down=up&platform=website',
+												success: function(result, textStatus, jqXHR) {
+													$("#ajaxnotifier").html(result);
+													toastr.success(" -  voted up!", 'Vote Registered!');
+												}
+											})
+										})
+									</script>
+									<script type="text/javascript">
+										$("#votedownrecently3img").click(function(e) {
+											$.ajax({
+												type: 'post',
+												url: '/api/voting/voteupdate.php?station_id=8075&artist=&title=&up_down=down&platform=website',
+												success: function(result, textStatus, jqXHR) {
+													$("#ajaxnotifier").html(result);
+													toastr.error(" -  voted down!", 'Vote Registered!');
+												}
+											})
+										})
+									</script>
+
+
+
+									<a class="recently_played_apple_buy_icon3" target="_blank" href="https://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?at=1001lGBR&term= - " title="Buy  by  on iTunes"><i class="fa fa-apple fa-1x" style="color:black"></i> </a>&nbsp;
+									<a class="recently_played_amazon_icon3" target="_blank" href="https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Ddigital-music&tag=%22+filter_link+%22&field-keywords= - " title="Buy  by  on Amazon"><i class="fa fa-amazon fa-1x" style="color:#FF9900"></i> </a>&nbsp;
+								</div>
+							</div>
+						</div>
+						<!-- Slider -->
+						<div id="listing-waystolisten" class="listing-section">
+							<h2 class="listing-desc-headline margin-top-70"><u>Ways To Listen</u></h2>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="col-sm-2 col-xs-3">
+										<a href="https://www.amazon.com/dp/B08G8GBSPN/" target="_new"><img src="/images/alexa_square.png" height="50"></a>
+									</div>
+									<div class="col-sm-10 col-xs-9">
+										<h5>Enable the Get Me Radio! Skill <u><a href="https://www.amazon.com/dp/B08G8GBSPN/" target="_new">from here</a></u> and say...
+											"Alexa, ask Get Me Radio! to play club dj 80s 2"</h5>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="col-sm-2 col-xs-3">
+										<a href="https://play.google.com/store/apps/details?id=com.getmeradio.gmr"><img src="/images/play_store.png" height="50"></a>
+									</div>
+									<div class="col-sm-10 col-xs-9">
+										<h5>Download the Get Me Radio! Android App <u><a href="https://play.google.com/store/apps/details?id=com.getmeradio.gmr">from here</a></u> and search for
+											club dj 80s 2 on our Mobile App.</h5>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="col-sm-2 col-xs-3">
+										<a href="https://apps.apple.com/us/app/id1531884699" target="_new"><img src="/images/iosappstore.png" height="50"></a>
+									</div>
+									<div class="col-sm-10 col-xs-9">
+										<h5>Download the Get Me Radio! iOS App <u><a href="https://apps.apple.com/us/app/id1531884699" target="_new">from here</a></u> and search for
+											club dj 80s 2 on our Mobile App.</h5>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="col-sm-2 col-xs-3">
+										<a href="https://channelstore.roku.com/en-gb/details/b97490a8fb5758527be0396e43422e42/get-me-radio" target="_new"><img src="/images/rokutv.png" height="51"></a>
+									</div>
+									<div class="col-sm-10 col-xs-9">
+										<h5>Download the Get Me Radio! Roku TV App <u><a href="https://channelstore.roku.com/en-gb/details/b97490a8fb5758527be0396e43422e42/get-me-radio" target="_new">from here</a></u> and then search for
+											club dj 80s 2.</h5>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="col-sm-2 col-xs-3">
+										<a href="https://www.amazon.com/dp/B08LKKGWTH/r" target="_new"><img src="/images/fire.png" height="49"></a>
+									</div>
+									<div class="col-sm-10 col-xs-9">
+										<h5>Download the Get Me Radio! Fire TV App <u><a href="https://www.amazon.com/dp/B08LKKGWTH/r" target="_new">from here</a></u> and then search for
+											club dj 80s 2.</h5>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="col-sm-2 col-xs-3">
+										<a href="https://play.google.com/store/apps/details?id=com.getmeradio.tv.gmr" target="_new"><img src="/images/androidtv.png" height="48"></a>
+									</div>
+									<div class="col-sm-10 col-xs-9">
+										<h5>Download the Get Me Radio! Android TV App <u><a href="https://play.google.com/store/apps/details?id=com.getmeradio.tv.gmr" target="_new">from here</a></u> and then search for
+											club dj 80s 2.</h5>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="col-sm-2 col-xs-3">
+										<a href="https://apps.apple.com/us/app/id1531884699#?platform=appleTV" target="_new"><img src="/images/appletv.png" height="48"></a>
+									</div>
+									<div class="col-sm-10 col-xs-9">
+										<h5>Download the Get Me Radio! Apple TV App <u><a href="https://apps.apple.com/us/app/id1531884699#?platform=appleTV" target="_new">from here</a></u> and then search for
+											club dj 80s 2.</h5>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="col-sm-2 col-xs-3">
+										<a href="https://assistant.google.com/services/a/uid/00000050a3f4ccc8" target="_new"><img src="/images/google_action.png" height="48"></a>
+									</div>
+									<div class="col-sm-10 col-xs-9">
+										<h5>Use the Get Me Radio! Google Home Action <u><a href="https://assistant.google.com/services/a/uid/00000050a3f4ccc8" target="_new">from here</u></a>
+											and say 'Hey Google, talk to Get Me Radio! and play club dj 80s 2.</h5>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="col-sm-2 col-xs-3">
+										<a href="javascript:window.open('/stations/player/?station_id=8075', 'yourWindowName', 'width=460,height=580');"><img src="/images/popup.png" height="50"></a>
+									</div>
+									<div class="col-sm-10 col-xs-9">
+										<h5>Launch club dj 80s 2 in standalone player <u>
+										<a href="javascript:window.open('/stations/player/?station_id=8075', 'yourWindowName', 'width=340,height=510');">here</a></u>.</h5>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Slider -->
+						
+
+
+						
+						
+						<!-- Add Review Box -->
+						<div id="listing-contact" class="listing-section margin-bottom-40">
+							<!-- Add Review -->
+							<h2 class="listing-desc-headline margin-top-70 margin-bottom-30"><u>Send Message to club dj 80s 2</u></h2>
+							<!-- Review Comment -->
+
+
+
+							<form method="post" name="contactform1" id="contactform1" autocomplete="on">
+								<!-- onsubmit="showHide()" -->
+								<fieldset>
+									<div class="row">
+										<div class="col-md-6">
+											<label>Name:</label>
+											<input name="name" type="text" id="name" placeholder="Your Name" required="required" />
+										</div>
+										<div class="col-md-6">
+											<label>Email:</label>
+											<input name="email" type="email" id="email" placeholder="Email Address" pattern="^[A-Za-z0-9](([_\.\-]?[a-zA-Z0-9]+)*)@([A-Za-z0-9]+)(([\.\-]?[a-zA-Z0-9]+)*)\.([A-Za-z]{2,})$" required="required" />
+										</div>
+									</div>
+									<div>
+										<label>Message:</label>
+										<textarea name="comments" cols="40" rows="3" id="comments" placeholder="Message" spellcheck="true" required="required"></textarea>
+									</div>
+								</fieldset>
+
+								<input type="hidden" name="sender_name" value="club dj 80s 2" />
+								<input type="hidden" name="station_email" value="" />
+								<input type="submit" name="Submit2" class="submit button" id="submit" value="Submit Message" />
+								<div class="clearfix"></div>
+
+								<div class="notification success closeable bhnsuccess" style="display: none;">
+									<p>Message has been sent!</p>
+									<a class="close" href="#"></a>
+								</div>
+
+								<div class="notification error closeable bhnerror" style="display: none;">
+									<p>Sending failed! It's possible the station declined to receive messages.</p>
+									<a class="close" href="#"></a>
+								</div>
+							</form>
+
+
+						</div>
+						<!-- Add Review Box / End -->
+					</div>
+					<!-- Sidebar
+		================================================== -->
+					<div class="col-lg-4 col-md-4 margin-top-75 sticky">
+						<!-- Verified Badge -->
+						
+			<div class="verified-badge with-tip" data-tip-content="This station has been verified.">
+				<i class="sl sl-icon-check"></i> Verified Station
+			</div>						<!-- Contact -->
+						<div class="boxed-widget margin-top-35">
+							<div class="hosted-by-title">
+								<h4><span>Station File</span> club dj 80s 2</h4>
+								<h5>club dj 80s remixes</h5>
+								<img src="logos/1024x500.png" width="100%">
+															</div>
+							<ul class="listing-details-sidebar">
+								
+
+								
+					<li><i class="sl sl-icon-globe"></i> <a href="http://" target="_blank">http://</a></li>								
+
+
+
+
+							</ul>
+
+							<ul class="listing-details-sidebar social-profiles">
+																																							</ul>
+						</div>
+						<!-- Contact / End-->
+
+
+												
+						
+						
+						<!-- Share / Like -->
+						<style>
+							iframe {
+								margin-top: -10px;
+							}
+						</style>
+						<div class="listing-share margin-top-40 margin-bottom-40 no-border">
+															<p>0 people have saved this station</p>
+								<button class="like-button notLooggedin"><span class="like-icon"></span> Save this station</button>
+														<a href="https://www.getmeradio.com/contact/report/?station_id=8075&station_name=club dj 80s 2" class="button medium border"><i class="sl sl-icon-info"></i> Report this station</a>
+							<!--<span>. people saved this station</span>-->
+
+
+							<!-- Share Buttons -->
+							<ul class="share-buttons margin-top-40 margin-bottom-0">
+
+								<div class="fb-share-button" data-href="https://www.getmeradio.com/stations/clubdj80s2-station_id/" data-layout="button" data-size="large">
+									<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.getmeradio.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">
+										Share</a>
+								</div>
+								<a valign="bottom" style="display:inline-block; vertical-align:bottom" href="https://twitter.com/intent/tweet?button_hashtag=share&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-text="I'm listening to club dj 80s 2 on Get Me Radio! Join me at https://getme.radio/clubdj80s2" data-url="https://www.getmeradio.com/stations/clubdj80s2-8075" data-related="getmeradio" data-lang="en" data-show-count="false">Tweet #share</a>
+								<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+								<!-- <li><a class="gplus-share" href="#"><i class="fa fa-google-plus"></i> Share</a></li> -->
+								<!-- <li><a class="pinterest-share" href="#"><i class="fa fa-pinterest-p"></i> Pin</a></li> -->
+							</ul>
+							<div class="clearfix"></div>
+						</div>
+						
+						<div class="boxed-widget">
+
+							<div class="content home">
+								<h2 id="reviews">Reviews for club dj 80s 2</h2>
+								<div class="reviews"></div>
+															</div>
+							
+							
+						<div class="boxed-widget">
+
+							<div class="content home">
+							<h2 id="reviews">QR Code for club dj 80s 2</h2>
+								<img src="/stations/clubdj80s2-8075/logos/qr.png">							</div>	
+						</div>
+
+							<script>
+								const reviews_page_id = 8075;
+								fetch("/common/reviews.php?station_id=" + reviews_page_id).then(response => response.text()).then(data => {
+									document.querySelector(".reviews").innerHTML = data;
+									document.querySelector(".reviews .write_review_btn").onclick = event => {
+										event.preventDefault();
+										document.querySelector(".reviews .write_review").style.display = 'block';
+										document.querySelector(".reviews .write_review input[name='name']").focus();
+									};
+									document.querySelector(".reviews .write_review form").onsubmit = event => {
+										event.preventDefault();
+										fetch("/common/reviews.php?station_id=" + reviews_page_id, {
+											method: 'POST',
+											body: new FormData(document.querySelector(".reviews .write_review form"))
+										}).then(response => response.text()).then(data => {
+											document.querySelector(".reviews .write_review").innerHTML = data;
+										});
+									};
+								});
+							</script>
+
+							<script>
+								$(document).ready(function() {
+									$(document).on('click', '#loadBtn', function() {
+										var row = Number($('#row').val());
+										var count = Number($('#postCount').val());
+										var limit = 5;
+										row1 = row + limit;
+										$('#row').val(row1);
+										$("#loadBtn").val('Loading...');
+
+										$.ajax({
+											type: 'POST',
+											url: '/common/reviews_loadmore.php?station_id=' + reviews_page_id,
+											data: 'row=' + row,
+											success: function(data) {
+												var rowCount = row + limit;
+												$('.reviews').append(data);
+												if (rowCount >= count) {
+													$('#loadBtn').css("display", "none");
+												} else {
+													$("#loadBtn").val('Load More');
+												}
+											}
+										});
+									});
+								});
+							</script>
+
+						</div>
+
+						<div class="clearfix"></div>
+					</div>
+				</div>
+				<!-- Sidebar / End -->
+			</div>
+		</div>
+		
+<!-- Footer
+================================================== -->
+<div id="footer" class="sticky-footer">
+    <!-- Main -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5 col-sm-6">
+                <img class="footer-logo" src="/images/logo.png" alt="Get Me Radio!">
+                <br><br><font color="#707070">
+                 <p>Get Me Radio! is a Radio Station & Podcast Directory featuring tons of radio stations and podcasts from all around the world.</p> 
+                 <p>As a listener, you can find all of your favourite radio stations and podcasts in one place across our Mobile Apps, TV Channels and Voice Assistants.</p> 
+                 <p>As a broadcaster/producer, you can get your station/podcast listed on multiple platforms and reach a wider audience.</p>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <h4>Links</h4>
+                <ul class="footer-links">
+					<li><a href="/aboutus">About Us</a></li>
+					<li><a href="/news">News</a></li>
+					<li><a href="/faq">FAQ</a></li>
+					<li><a href="/terms">Terms and Conditions</a></li>
+					<li><a href="/privacy">Privacy Policy</a></li>
+					<li><a href="https://my.getmeradio.com">Submit Station/Podcast</a></li>
+                    
+                </ul>
+                <ul class="footer-links">
+                	<li><a href="/platform">Our Platform</a></li>
+                	<li><a href="/dmca">DMCA</a></li>
+                	<li><a href="https://status.getmeradio.com" target="_new">Network Status</a></li>
+                	<li><a href="/chart">Top 40</a></li>
+                	<li><a href="https://my.getmeradio.com">Register</a></li>
+                	<li><a href="/contact">Contact</a></li>
+                </ul>
+                <div class="clearfix"></div>
+            </div>      
+            <div class="col-md-3 col-sm-12">
+                <h4>Contact Us</h4>
+                <div class="text-widget">
+                    E-Mail:<span> <a href="mailto:info@getmeradio.com">info@getmeradio.com</a> </span><br>
+                </div>
+                <ul class="social-icons margin-top-20">
+                    <li><a class="facebook" href="https://www.facebook.com/getmeradio" target="_new"><i class="icon-facebook"></i></a></li>
+                    <li><a class="twitter" href="https://www.twitter.com/getmeradio" target="_new"><i class="icon-twitter"></i></a></li>
+                    <li><a class="instagram" href="https://www.instagram.com/getmeradio" target="_new"><i class="icon-instagram"></i></a></li>
+					<li><a class="linkedin" href="https://www.linkedin.com/company/getmeradio" target="_new"><i class="icon-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <!-- Copyright -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="copyrights">©2023 Get Me Radio! All Rights Reserved.</div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+<!-- Footer / End -->
+
+<!-- Back To Top Button -->
+<div id="backtotop"><a href="#"></a></div>
+
+
+ </div>
+<!-- Wrapper / End -->
+
+
+<!-- Scripts
+================================================== -->
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/jquery-migrate-3.1.0.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/mmenu.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/chosen.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/slick.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/rangeslider.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/magnific-popup.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/waypoints.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/counterup.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/tooltips.min.js"></script>
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/custom.js"></script>
+
+
+
+
+<!-- Leaflet // Docs: https://leafletjs.com/ -->
+<script src="https://www.getmeradio.com/scripts/leaflet.min.js"></script>
+<!-- Leaflet Maps Scripts -->
+<script src="https://www.getmeradio.com/scripts/leaflet-markercluster.min.js"></script>
+<script src="https://www.getmeradio.com/scripts/leaflet-gesture-handling.min.js"></script>
+<script src="https://www.getmeradio.com/scripts/leaflet-listeo.js"></script>
+
+<!-- Leaflet Geocoder + Search Autocomplete // Docs: https://github.com/perliedman/leaflet-control-geocoder -->
+<script src="https://www.getmeradio.com/scripts/leaflet-autocomplete.js"></script>
+<script src="https://www.getmeradio.com/scripts/leaflet-control-geocoder.js"></script>
+
+
+<!-- Typed Script -->
+<script type="text/javascript" src="https://www.getmeradio.com/scripts/typed.js"></script>
+
+<!--  validation script  -->
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.19.0/jquery.validate.min.js"></script>
+
+
+<!-- <link href="https://www.getmeradio.com/audio7_html5.css" rel="stylesheet" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="https://www.getmeradio.com/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+<script src="https://www.getmeradio.com/js/jquery.touchSwipe.min.js" type="text/javascript"></script>
+<script src="https://www.getmeradio.com/js/audio7_html5.js" type="text/javascript"></script> -->
+
+</body>
+</html>		
+
+	    
+
+		<!-- partial:index.partial.html -->
+		<style id=basic_page_styles>			
+
+			figure {
+				max-width: 40rem;
+				margin: 3rem auto;
+			}
+
+			figcaption {
+				font-size: 1.25rem;
+			}
+
+			pre {
+				overflow: scroll;
+				background-color: hsla(0, 0%, 100%, 0.3);
+			}
+
+			code {
+				font-family: monospace, monospace;
+				font-size: inherit;
+			}			
+		</style>
+		<style id=action_button_animations>
+			/* Buttons (or links) */
+			[class^="actions_btn"],
+			[class^="actions_btn"]:visited {
+				/* button colors light */
+				--btn-fg: #f91942;
+				--btn-bg: #fafafd;
+				--btn-fg-hover: #f91942;
+				--btn-bg-hover: #fff;
+				box-sizing: content-box;
+				display: block;
+				width: 2.25rem;
+				height: 2.25rem;
+				padding: 0.25rem;
+				color: var(--btn-fg);
+				background-color: var(--btn-bg);
+				border: 0.125rem solid transparent;
+				border-radius: 50%;
+				box-shadow: 0 0.25em 0.25em rgba(0, 0, 0, 0.3);
+				text-decoration: none;
+				outline: 0 solid;
+				transition: all 0.3s ease-out;
+				z-index: 999999;
+				margin-top: 0px;
+				margin-right: 70px;
+			}
+
+			[class^="actions_btn"]:hover,
+			[class^="actions_btn"]:focus {
+				color: var(--btn-fg-hover);
+				background-color: var(--btn-bg-hover);
+				border-color: var(--btn-fg-hover);
+				transform: scale(1.2);
+				box-shadow: 0 0.5em 0.5em rgba(0, 0, 0, 0.4);
+			}
+
+			[class^="actions_svg"] {
+				width: 2.25rem;
+				height: 2.25rem;
+				fill: currentColor;
+				stroke: currentColor;
+				border-radius: 100%;
+				overflow: hidden;
+				pointer-events: none;
+				transition: transform 0.5s ease-out;
+			}
+
+			/* Button click animation */
+
+			[class^="actions_btn"].-js-clicked {
+				animation: actions_btn-clicked 0.3s ease-out forwards;
+			}
+
+			@keyframes actions_btn-clicked {
+				0% {
+					transform: scale(1.2);
+				}
+
+				50% {
+					transform: scale(0.8);
+				}
+
+				100% {
+					transform: scale(1.2);
+				}
+			}
+
+			/* Remove all buttons from printouts */
+
+			@media print {
+				[class^="actions_container"] {
+					display: none !important;
+				}
+			}
+		</style>
+		<!-- partial -->
+		<script src="https://www.getmeradio.com/script.js"></script>

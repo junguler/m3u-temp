@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 , MEGATON CAFE RADIO
+#EXTINF:-1_,_MEGATON_CAFE_RADIO
 http://us2.internet-radio.com:8443/stream
-#EXTINF:-1 , Swing Street Radio Failover
+#EXTINF:-1_,_Swing_Street_Radio_Failover
 http://s6.voscast.com:11312/
-#EXTINF:-1 , 1940s 1950s Radio Retro
+#EXTINF:-1_,_1940s_1950s_Radio_Retro
 http://64.150.176.42:8098/stream
-#EXTINF:-1 , Scorpios Athens Radio
+#EXTINF:-1_,_Scorpios_Athens_Radio
 http://cast.streams.ovh:14116/stream

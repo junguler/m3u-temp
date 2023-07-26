@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 , psyradio * fm - progressive
+#EXTINF:-1_,_psyradio_*_fm_-_progressive
 http://komplex2.psyradio.org:8010/stream
-#EXTINF:-1 , Psyndora Psytrance
+#EXTINF:-1_,_Psyndora_Psytrance
 http://cast.magicstreams.gr:9111/stream
-#EXTINF:-1 , Hirschmilch Progressive
+#EXTINF:-1_,_Hirschmilch_Progressive
 http://hirschmilch.de:7000/progressive.aac
-#EXTINF:-1 , Psyland Radio
+#EXTINF:-1_,_Psyland_Radio
 http://sp.streams.ovh:8020/stream
-#EXTINF:-1 , Space Unicorn Radio
+#EXTINF:-1_,_Space_Unicorn_Radio
 http://107.161.29.166:8000/stream

@@ -9,7 +9,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: run commands
-        run: for i in \?pagina={41..60} ; do for j in $(cat genres.txt) ; do curl -s https://escuchar.radio/genero/$j$i | ./htmlq .main-container -a href a | grep -v "genero\|pagina\|.com" | cut -c24- | grep -v "/" | awk NF >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+        run: for i in \?pagina={61..100} ; do for j in $(cat genres.txt) ; do curl -s https://escuchar.radio/genero/$j$i | ./htmlq .main-container -a href a | grep -v "genero\|pagina\|.com" | cut -c24- | grep -v "/" | awk NF >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

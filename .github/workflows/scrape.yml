@@ -9,7 +9,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: run commands
-        run: for i in {4..15}/ ; do for j in $(cat countries.txt) ; do curl -s https://radiotrucker.com/en/stations/$j-radios/$i | ./htmlq -a href a | grep -v "radiotrucker" | sed -n 's|.*/en/stations/||p' | grep -v '/' | awk NF >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+        run: for i in {16..25}/ ; do for j in $(cat countries.txt) ; do curl -s https://radiotrucker.com/en/stations/$j-radios/$i | ./htmlq -a href a | grep -v "radiotrucker" | sed -n 's|.*/en/stations/||p' | grep -v '/' | awk NF >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

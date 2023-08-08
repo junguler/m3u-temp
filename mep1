@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- 
+                   ___       __                  __            
+   _________ _____/ (_)___  / /________  _______/ /_____  _____
+  / ___/ __ `/ __  / / __ \/ __/ ___/ / / / ___/ //_/ _ \/ ___/
+ / /  / /_/ / /_/ / / /_/ / /_/ /  / /_/ / /__/ ,< /  __/ /    
+/_/   \__,_/\__,_/_/\____/\__/_/   \__,_/\___/_/|_|\___/_/     
+  
+                                                               
+-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<script>(function(a,r){function c(a){y[y.length]=a}function m(a){s.className=s.className.replace(new RegExp(" ?\\b"+a+"\\b"),"")}function h(a,c){for(var b=0,s=a.length;b<s;b++)c.call(a,a[b],b)}function t(){s.className=s.className.replace(/ (w-|eq-|gt-|gte-|lt-|lte-|portrait|no-portrait|landscape|no-landscape)\d+/g,"");var f=a.innerWidth||s.clientWidth,g=a.outerWidth||a.screen.width;l.screen.innerWidth=f;l.screen.outerWidth=g;c("w-"+f);h(b.screens,function(a){f>a?(b.screensCss.gt&&c("gt-"+a),b.screensCss.gte&&
+c("gte-"+a)):f<a?(b.screensCss.lt&&c("lt-"+a),b.screensCss.lte&&c("lte-"+a)):f===a&&(b.screensCss.lte&&c("lte-"+a),b.screensCss.eq&&c("e-q"+a),b.screensCss.gte&&c("gte-"+a))});var g=a.innerHeight||s.clientHeight,d=a.outerHeight||a.screen.height;l.screen.innerHeight=g;l.screen.outerHeight=d;l.feature("portrait",g>f);l.feature("landscape",g<f)}function v(){a.clearTimeout(f);f=a.setTimeout(t,50)}var n=a.document,g=a.navigator,u=a.location,s=n.documentElement,y=[],b={screens:[240,320,480,640,768,800,
+1024,1280,1440,1680,1920],screensCss:{gt:!0,gte:!1,lt:!0,lte:!1,eq:!1},browsers:[{ie:{min:6,max:11}}],browserCss:{gt:!0,gte:!1,lt:!0,lte:!1,eq:!0},html5:!0,page:"-page",section:"-section",head:"head"};if(a.head_conf)for(var d in a.head_conf)a.head_conf[d]!==r&&(b[d]=a.head_conf[d]);var l=a[b.head]=function(){l.ready.apply(null,arguments)};l.feature=function(a,b,f){if(!a)return s.className+=" "+y.join(" "),y=[],l;"[object Function]"===Object.prototype.toString.call(b)&&(b=b.call());c((b?"":"no-")+
+a);l[a]=!!b;f||(m("no-"+a),m(a),l.feature());return l};l.feature("js",!0);d=g.userAgent.toLowerCase();g=/mobile|android|kindle|silk|midp|phone|(windows .+arm|touch)/.test(d);l.feature("mobile",g,!0);l.feature("desktop",!g,!0);d=/(chrome|firefox)[ \/]([\w.]+)/.exec(d)||/(iphone|ipad|ipod)(?:.*version)?[ \/]([\w.]+)/.exec(d)||/(android)(?:.*version)?[ \/]([\w.]+)/.exec(d)||/(webkit|opera)(?:.*version)?[ \/]([\w.]+)/.exec(d)||/(msie) ([\w.]+)/.exec(d)||/(trident).+rv:(\w.)+/.exec(d)||[];g=d[1];d=parseFloat(d[2]);
+switch(g){case "msie":case "trident":g="ie";d=n.documentMode||d;break;case "firefox":g="ff";break;case "ipod":case "ipad":case "iphone":g="ios";break;case "webkit":g="safari"}l.browser={name:g,version:d};l.browser[g]=!0;for(var x=0,C=b.browsers.length;x<C;x++)for(var q in b.browsers[x])if(g===q){c(q);for(var w=b.browsers[x][q].max,p=b.browsers[x][q].min;p<=w;p++)d>p?(b.browserCss.gt&&c("gt-"+q+p),b.browserCss.gte&&c("gte-"+q+p)):d<p?(b.browserCss.lt&&c("lt-"+q+p),b.browserCss.lte&&c("lte-"+q+p)):
+d===p&&(b.browserCss.lte&&c("lte-"+q+p),b.browserCss.eq&&c("eq-"+q+p),b.browserCss.gte&&c("gte-"+q+p))}else c("no-"+q);c(g);c(g+parseInt(d,10));b.html5&&"ie"===g&&9>d&&h("abbr article aside audio canvas details figcaption figure footer header hgroup main mark meter nav output progress section summary time video".split(" "),function(a){n.createElement(a)});h(u.pathname.split("/"),function(a,f){if(2<this.length&&this[f+1]!==r)f&&c(this.slice(f,f+1).join("-").toLowerCase()+b.section);else{var g=a||"index",
+h=g.indexOf(".");0<h&&(g=g.substring(0,h));s.id=g.toLowerCase()+b.page;f||c("root"+b.section)}});l.screen={height:a.screen.height,width:a.screen.width};t();var f=0;a.addEventListener?a.addEventListener("resize",v,!1):a.attachEvent("onresize",v)})(window);
+(function(a,r){function c(a){var c=a.charAt(0).toUpperCase()+a.substr(1),b;a:{a=(a+" "+v.join(c+" ")+c).split(" ");for(b in a)if(h[a[b]]!==r){b=!0;break a}b=!1}return!!b}var m=a.document.createElement("i"),h=m.style,t=" -o- -moz- -ms- -webkit- -khtml- ".split(" "),v=["Webkit","Moz","O","ms","Khtml"],n=a[a.head_conf&&a.head_conf.head||"head"],g={localstorage:function(){if("undefined"!==typeof localStorage)try{return localStorage.setItem("lstest","yes"),"yes"===localStorage.getItem("lstest")?(localStorage.removeItem("lstest"),
+window.chipStorageReady=!0):window.chipStorageReady=!1}catch(a){return window.chipStorageReady=!1}else return window.chipStorageReady=!1},gradient:function(){h.cssText=("background-image:"+t.join("gradient(linear,left top,right bottom,from(#9f9),to(#fff));background-image:")+t.join("linear-gradient(left top,#eee,#fff);background-image:")).slice(0,-17);return!!h.backgroundImage},rgba:function(){h.cssText="background-color:rgba(0,0,0,0.5)";return!!h.backgroundColor},opacity:function(){return""===m.style.opacity},
+textshadow:function(){return""===h.textShadow},multiplebgs:function(){h.cssText="background:url(https://),url(https://),red url(https://)";var a=(h.background||"").match(/url/g);return"[object Array]"===Object.prototype.toString.call(a)&&3===a.length},boxshadow:function(){return c("boxShadow")},borderimage:function(){return c("borderImage")},borderradius:function(){return c("borderRadius")},cssreflections:function(){return c("boxReflect")},csstransforms:function(){return c("transform")},csstransitions:function(){return c("transition")},
+touch:function(){return"ontouchstart"in a},retina:function(){return 1<a.devicePixelRatio},fontface:function(){var a=n.browser.version;switch(n.browser.name){case "ie":return 9<=a;case "chrome":return 13<=a;case "ff":return 6<=a;case "ios":return 5<=a;case "android":return!1;case "webkit":return 5.1<=a;case "opera":return 10<=a;default:return!1}}},u;for(u in g)g[u]&&n.feature(u,g[u].call(),!0);n.feature()})(window);
+(function(a,r){function c(){}function m(a,e){if(a){"object"===typeof a&&(a=[].slice.call(a));for(var D=0,b=a.length;D<b;D++)e.call(a,a[D],D)}}function h(a,e){var b=Object.prototype.toString.call(e).slice(8,-1);return e!==r&&null!==e&&b===a}function t(a){return h("Function",a)}function v(a){return h("Array",a)}function n(a){a=a||c;a._done||(a(),a._done=1)}function g(a){var e={};if("object"===typeof a)for(var b in a)a[b]&&(e={name:b,url:a[b]});else e=a.split("/"),e=e[e.length-1],b=e.indexOf("?"),e=
+{name:-1!==b?e.substring(0,b):e,url:a};return(a=B[e.name])&&a.url===e.url?a:B[e.name]=e}function u(a){a=a||B;for(var e in a)if(a.hasOwnProperty(e)&&4!==a[e].state)return!1;return!0}function s(a){a.state=2;m(a.onpreload,function(a){a.call()})}function y(a,e){a.state===r&&(a.state=1,a.onpreload=[],C({url:a.url,type:"cache"},function(){s(a)}))}function b(){var a=arguments,e=a[a.length-1],b=[].slice.call(a,1),c=b[0];t(e)||(e=null);if(v(a[0]))return a[0].push(e),k.load.apply(null,a[0]),k;c?(m(b,function(a){!t(a)&&
+a&&y(g(a))}),l(g(a[0]),t(c)?c:function(){k.load.apply(null,b)})):l(g(a[0]));return k}function d(){var a=arguments,e=a[a.length-1],b={};t(e)||(e=null);if(v(a[0]))return a[0].push(e),k.load.apply(null,a[0]),k;m(a,function(a,c){a!==e&&(a=g(a),b[a.name]=a)});m(a,function(a,c){a!==e&&(a=g(a),l(a,function(){u(b)&&n(e)}))});return k}function l(a,e){e=e||c;4===a.state?e():3===a.state?k.ready(a.name,e):1===a.state?a.onpreload.push(function(){l(a,e)}):(a.state=3,C(a,function(){a.state=4;e();m(A[a.name],function(a){n(a)});
+z&&u()&&m(A.ALL,function(a){n(a)})}))}function x(a){a=(a||"").split("?")[0].split(".");return a[a.length-1].toLowerCase()}function C(b,e){function g(a){d.onload=d.onreadystatechange=d.onerror=null;e()}function h(c){c=c||a.event;if("load"===c.type||/loaded|complete/.test(d.readyState)&&(!f.documentMode||9>f.documentMode))a.clearTimeout(b.errorTimeout),a.clearTimeout(b.cssTimeout),d.onload=d.onreadystatechange=d.onerror=null,e()}function k(){if(4!==b.state&&20>=b.cssRetries){for(var e=0,c=f.styleSheets.length;e<
+c;e++)if(f.styleSheets[e].href===d.href){h({type:"load"});return}b.cssRetries++;b.cssTimeout=a.setTimeout(k,250)}}e=e||c;var d;"css"===x(b.url)?(d=f.createElement("link"),d.type="text/"+(b.type||"css"),d.rel="stylesheet",d.href=b.url,b.cssRetries=0,b.cssTimeout=a.setTimeout(k,500)):(d=f.createElement("script"),d.type="text/"+(b.type||"javascript"),d.src=b.url);d.onload=d.onreadystatechange=h;d.onerror=g;d.async=!1;d.defer=!1;b.errorTimeout=a.setTimeout(function(){g({type:"timeout"})},7E3);var l=f.head||
+f.getElementsByTagName("head")[0];l.insertBefore(d,l.lastChild)}function q(){for(var a=f.getElementsByTagName("script"),e=0,b=a.length;e<b;e++){var c=a[e].getAttribute("data-headjs-load");if(c){k.load(c);break}}}function w(){f.body?z||(z=!0,q(),m(F,function(a){n(a)})):(a.clearTimeout(k.readyTimeout),k.readyTimeout=a.setTimeout(w,50))}function p(){f.addEventListener?(f.removeEventListener("DOMContentLoaded",p,!1),w()):"complete"===f.readyState&&(f.detachEvent("onreadystatechange",p),w())}var f=a.document,
+F=[],A={},B={},H="async"in f.createElement("script")||"MozAppearance"in f.documentElement.style||a.opera,z,G=a.head_conf&&a.head_conf.head||"head",k=a[G]=a[G]||function(){k.ready.apply(null,arguments)};if("complete"===f.readyState)w();else if(f.addEventListener)f.addEventListener("DOMContentLoaded",p,!1),a.addEventListener("load",w,!1);else{f.attachEvent("onreadystatechange",p);a.attachEvent("onload",w);var E=!1;try{E=!a.frameElement&&f.documentElement}catch(I){}E&&E.doScroll&&function e(){if(!z){try{E.doScroll("left")}catch(b){a.clearTimeout(k.readyTimeout);
+k.readyTimeout=a.setTimeout(e,50);return}w()}}()}k.load=k.js=H?d:b;k.test=function(a,b,d,f){a="object"===typeof a?a:{test:a,success:b?v(b)?b:[b]:!1,failure:d?v(d)?d:[d]:!1,callback:f||c};(b=!!a.test)&&a.success?(a.success.push(a.callback),k.load.apply(null,a.success)):!b&&a.failure?(a.failure.push(a.callback),k.load.apply(null,a.failure)):f();return k};k.ready=function(a,b){if(a===f)return z?n(b):F.push(b),k;t(a)&&(b=a,a="ALL");if(v(a)){var c={};m(a,function(a){c[a]=B[a];k.ready(a,function(){u(c)&&
+n(b)})});return k}if("string"!==typeof a||!t(b))return k;var d=B[a];if(d&&4===d.state||"ALL"===a&&u()&&z)return n(b),k;(d=A[a])?d.push(b):d=A[a]=[b];return k};k.ready(f,function(){u()&&m(A.ALL,function(a){n(a)});k.feature&&k.feature("domloaded",!0)})})(window);
+function chipStorage(a,r,c,m){if(head.localstorage){var h=!1,h="undefined"==typeof localStorage[a+"_ver"]?!1:localStorage[a+"_ver"]!==m?!1:!0;0==h&&window.XMLHttpRequest?(h=new XMLHttpRequest,h.onreadystatechange=function(){if(4==this.readyState&&200==this.status)switch(localStorage[a]=this.responseText,localStorage[a+"_ver"]=m,c){case "css":var h=document.createElement("style");h.innerHTML=this.responseText;document.getElementsByTagName("head")[0].appendChild(h)}},h.open("GET",r,!0),h.send()):(r=
+document.createElement("style"),r.innerHTML=localStorage[a],document.getElementsByTagName("head")[0].appendChild(r))}else switch(c){case "css":h=document.createElement("link"),h.href=r,h.rel="stylesheet",h.type="text/css",document.getElementsByTagName("head")[0].appendChild(h)}};
+function rtStorage(c,b,d,e){if(head.localstorage){var a=!1,a="undefined"==typeof localStorage[c+"_ver"]?!1:localStorage[c+"_ver"]!==e?!1:!0;0==a&&window.XMLHttpRequest?(a=new XMLHttpRequest,a.onreadystatechange=function(){if(4==this.readyState&&200==this.status)switch(localStorage[c]=this.responseText,localStorage[c+"_ver"]=e,d){case "css":var a=document.createElement("style");a.innerHTML=this.responseText;document.getElementsByTagName("head")[0].appendChild(a)}},b=0<b.indexOf("?")?b+"&t="+Math.random():
+b+"?t="+Math.random(),a.open("GET",b,!0),a.send()):(b=document.createElement("style"),b.innerHTML=localStorage[c],document.getElementsByTagName("head")[0].appendChild(b))}else switch(d){case "css":a=document.createElement("link"),a.href=b,a.rel="stylesheet",a.type="text/css",document.getElementsByTagName("head")[0].appendChild(a)}};
+;rtStorage('rtfonts','/css/fonts.css','css','20160917010000');</script>
+		<title>Радио Ховар 101.5 FM Listen Live (Tajikistan) - Radio Trucker</title>
+		<meta name="title" content="Радио Ховар 101.5 FM Listen Live (Tajikistan) - Radio Trucker" />
+		<meta name="description" content="Listen Радио Ховар 101.5 FM of Tajikistan online. Радио Ховар 101.5 FM plays in World, Chillout genres and add to your games list for listening in your simulation games." /><meta name="keywords" content="радио ховар 101.5 fm, radio khovar 101 5 fm, tajikistan, world, chillout, radio, station, euro truck simulator 2, american truck simulator, video game" /><meta name="robots" content="all" /><meta name="googlebot" content="all" /><link rel="canonical" href="https://radiotrucker.com/en/stations/radio-khovar-101-5-fm" /><meta property="image" content="https://radiotrucker.com/images/og/radio-khovar-101-5-fm-radio.png" /><meta property="thumbnail" content="https://radiotrucker.com/images/og/radio-khovar-101-5-fm-radio.png" />
+		<meta property="name" content="Радио Ховар 101.5 FM Listen Live (Tajikistan) - Radio Trucker" />
+		<meta property="description" content="Listen Радио Ховар 101.5 FM of Tajikistan online. Радио Ховар 101.5 FM plays in World, Chillout genres and add to your games list for listening in your simulation games." />
+		
+		<meta property="fb:pages" content="1685261268466955" />
+		<meta property="og:site_name" content="RadioTrucker" />
+		<meta property="station:name" content="Радио Ховар 101.5 FM" /><meta property="station:url" content="radio-khovar-101-5-fm" /><meta property="station:country" content="Tajikistan" /><meta property="station:iso" content="TJ" /><meta property="station:genre" content="World, Chillout" /><meta property="station:id" content="1102" />
+
+		
+		<meta property="og:title" content="Радио Ховар 101.5 FM Listen Live (Tajikistan) - Radio Trucker" />
+		<meta property="og:image:url" content="https://radiotrucker.com/images/og/radio-khovar-101-5-fm-radio.png" /><meta property="og:image:secure_url" content="https://radiotrucker.com/images/og/radio-khovar-101-5-fm-radio.png" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" /><meta property="og:image" content="https://radiotrucker.com/images/og/radio-khovar-101-5-fm-radio.png" /><meta property="og:description" content="Listen Радио Ховар 101.5 FM of Tajikistan online. Радио Ховар 101.5 FM plays in World, Chillout genres and add to your games list for listening in your simulation games." /><meta property="og:type" content="music.radio_station" />
+		<meta property="fb:app_id" content="546323235447067" />
+		<meta property="twitter:card" content="summary_large_image">
+		<meta property="twitter:site" content="@radiotrucker">
+		<meta property="twitter:creator" content="@radiotrucker">
+		<meta property="twitter:title" content="Радио Ховар 101.5 FM Listen Live (Tajikistan) - Radio Trucker" />
+		<meta property="twitter:description" content="Listen Радио Ховар 101.5 FM of Tajikistan online. Радио Ховар 101.5 FM plays in World, Chillout genres and add to your games list for listening in your simulation games." /><meta property="twitter:image:src" content="https://radiotrucker.com/images/og/radio-khovar-101-5-fm-radio.png" />
+		<meta name="google-signin-scope" content="profile email">
+    <meta name="google-signin-client_id" content="538262634510-4iusp30iksi5pp31dhogsajmrthvebc7.apps.googleusercontent.com">
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+		<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0">
+		<style>html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0;margin-top:54px;font-size:14px;line-height:1.42857143;color:#1b1b1b;background-color:#1b1b1b}a{color:#1b1b1b}.hidden{display:none}[hidden],template{display:none}@media(max-width:767px){.hidden-xs{display:none!important}}@media(max-width:479px){.hidden-xxs{display:none!important}}@media(min-width:768px) and (max-width:991px){.hidden-sm{display:none!important}}@media(min-width:992px) and (max-width:1199px){.hidden-md{display:none!important}}@media(min-width:1200px){.hidden-lg{display:none!important}}.adheader{width:320px;height:50px;max-height:100px}.adheader-lg{width:320px}.adsag,.adsag2{width:300px;height:250px}@media(min-width:479px){.adheader{width:468px;height:60px}.adsag2{width:336px;height:280px}.adheader-lg{width:468px}}@media(min-width:780px){.adheader{width:728px;height:90px}.adsag{width:160px;height:600px}.adsag2{width:336px;height:280px}.adheader-lg{width:728px}}@media(min-width:992px){.adheader{width:970px;height:90px;max-height:250px}.adsag{width:336px;height:280px}.adheader-lg{width:970px}}</style>
+<link rel="alternate" href="https://radiotrucker.com/en/stations/radio-khovar-101-5-fm" hreflang="x-default" /><link rel="alternate" href="https://radiotrucker.com/en/stations/radio-khovar-101-5-fm" hreflang="en" />
+<link rel="alternate" href="https://radiotrucker.com/tr/stations/radio-khovar-101-5-fm" hreflang="tr" />
+<link rel="alternate" href="https://radiotrucker.com/de/stations/radio-khovar-101-5-fm" hreflang="de" />
+<link rel="alternate" href="https://radiotrucker.com/pt/stations/radio-khovar-101-5-fm" hreflang="pt" />
+<link rel="alternate" href="https://radiotrucker.com/az/stations/radio-khovar-101-5-fm" hreflang="az" />
+<link rel="alternate" href="https://radiotrucker.com/fr/stations/radio-khovar-101-5-fm" hreflang="fr" />
+
+<script type="text/javascript">
+	window.mss = false;
+	var has_focus = true;
+	function loading_time() {
+    $(":focus").each(function() {
+      if($(this).attr("id")=="iframeID") { 
+      	has_focus = true;
+      	console.log('focus true');
+      }
+    });
+		
+    setTimeout("loading_time()", 2000);
+	}
+var btimer = 0;
+
+window.onblur = function(){  
+    has_focus=false;  
+    console.log('focus off');
+    window.btimers = setInterval(function() { btimer += 1; }, 1000);
+}  
+window.onfocus = function(){ 
+		var p_has_focus = has_focus; 
+    has_focus=true;  
+    console.log('focus true');
+    clearInterval(window.btimers);
+    if (window.mss = true && p_has_focus == false && btimer > 60) {
+    	googletag.pubads().refresh([window.bnrHeader, window.bnrSag]);
+    	window.mss = false;
+    	btimer = 0;
+  	}
+}
+
+	var languagefile = 'en';
+	var truckScripts = [{ 'bootstrap': '//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'}, { 'rtmain': '/js/rt-20210716211000.js' }, { 'gapi': 'https://apis.google.com/js/api:client.js'},{'jplayer': '/js/jquery.jplayer.min.js'} ];
+	var sitevars = { site: 'https://radiotrucker.com', languagefile: 'en', locale: 'en', langfolder: 'en', ga: 'UA-45983713-1', facebookAppId : '546323235447067', googleClientID: '538262634510-4iusp30iksi5pp31dhogsajmrthvebc7.apps.googleusercontent.com', ref: '', facebookSDK: '//connect.facebook.net/en_US/sdk.js', lastfontupdate: '202005040600', rkl: false, geo: false  }
+	
+	var addthis_config = { ui_offset_left: -122, data_ga_tracker: sitevars.ga, ui_language: sitevars.locale }
+	window.addthis_share = { 'passthrough': { 'facebook':{ 'app_id' : sitevars.facebookAppId, 'redirect_uri': ''}}}
+</script>
+<script defer src="/js/ad.js"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script data-ad-client="ca-pub-7214756907730542" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script defer src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script defer type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57d06104b2dc3d03" ></script>
+<script>
+  var visibleY = function(el){
+  var rect = el.getBoundingClientRect(), top = rect.top, height = rect.height, 
+    el = el.parentNode;
+  do {
+    rect = el.getBoundingClientRect();
+    if (top <= rect.bottom === false) return false;
+    // Check if the element is out of view due to a container scrolling
+    if ((top + height) <= rect.top) return false
+    el = el.parentNode;
+  } while (el != document.body);
+  // Check its within the document viewport
+  return top <= document.documentElement.clientHeight;
+};
+  
+function rfa() {
+	
+}
+
+	window.screenWidths = [ 481, 576, 769, 993 ];
+	
+</script>
+<link rel="stylesheet" href="/css/rt-total-202008020600.css" type="text/css">
+<link rel="manifest" href="/manifest.json" />
+<script defer src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "9567edc2-87d6-4ad7-be71-1ce0cd64a16e",
+    });
+  });
+</script>
+</head>
+<body>
+
+<script>
+	var notloggedInFacebook = 'You are not logged into Facebook from this browser. Please login to Facebook and retry';
+	window.fbAsyncInit = function() {
+	  FB.init({
+	    appId      : sitevars.facebookAppId,
+	    cookie     : true,  
+	    xfbml      : true,  
+	    version    : 'v7.0',
+	    oauth			 : true
+	  });
+	};
+	
+   (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = sitevars.facebookSDK;
+    js.defer = 'defer';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+</script>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid container"> 
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand" href="https://radiotrucker.com/"><img class="brandlogo" src="/images/logo/radiotruckerlogo.png" alt="RadioTrucker.com - Home of Virtual Truck Sims Radio Channels" /></a> </div>
+    
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
+    	 <form class="navbar-form navbar-left" role="search" method="get" id="searchform" action="/en/stations/">
+        <div class="form-group form-group">
+        <div>
+            <div class="input-group">
+              <input type="text" name="q" id="titlesearch" class="form-control" placeholder="Search a station" >
+              <span class="input-group-addon"><span class="glyphicon glyphicon-search" onclick="if (document.getElementById('titlesearch').value.length > 0) { document.getElementById('searchform').submit(); }"></span></span></div>
+            </div>
+        </div>
+
+      </form>
+      <ul class="nav navbar-nav">
+      	
+      </ul>
+    
+      <ul class="nav navbar-nav navbar-right">
+      	
+      	<li><a href="/en/stations/">Stations</a></li>
+      	
+        	<li><a href="/en/signin">Sign-in</a></li>
+        	
+       
+      </ul>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+<section class="mainsection">
+
+<script>
+	var radio_info = { name: "radio-khovar-101-5-fm", radio: "Радио Ховар 101.5 FM", link: "/en/stations/radio-khovar-101-5-fm", stream: "https://radiotrucker.com/en/play/radio-khovar-101-5-fm", genre: "<a href=\"/en/stations/world-stations/\">World</a>, <a href=\"/en/stations/chillout-stations/\">Chillout</a>", country: "Tajikistan", country_url: "/en/stations/tajikistan-radios/", country_flag: "/images/flags/4x3/tj.svg.png", https_stream: false }
+	
+</script>
+
+<div class="jumbotron shortjumbo promo9">
+  <div class="container">
+  <h1 data-text="stations-title">Радио Ховар 101.5 FM</h1>
+	</div>
+</div>
+
+<div class="container nopad contad" >
+<div class="rek-header noafter">
+<div class="rekhead" >
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RT - Esnek -->
+<ins class="adsbygoogle"
+     style="display:block;max-height:100px"
+     data-ad-client="ca-pub-3897025293251882"
+     data-ad-slot="2932340172"
+     data-ad-format="auto"
+     data-full-width-responsive="true"
+     ></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div id="xgpt-header"></div> 
+<div class="rklwarn" style="display: none">Radiotrucker is a free service for your gaming pleasure. Please support us by disabling your Ad-Blocker software at least for this domain</div>
+
+</div>
+</div>
+
+<div class="container">
+	
+</div>
+<div class="container" >
+<div class="row row-fluid">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="/">Home</a></li>
+  <li class="breadcrumb-item"><a href="/en/stations/">Stations</a></li>
+  <li class="breadcrumb-item"><a href="/en/stations/tajikistan-radios/">Tajikistan Stations</a></li>
+  
+</ol> 
+</div>
+	<div class="row row-fluid">
+    <div class="col-sm-6 noleftpad">
+    	<h4 class="rtheadsub headsubgray mt-20 mb-0">Listen Live Радио Ховар 101.5 FM</h4>
+    	<div class="radiobox radioboxbig"  id="jp_container_mainradio">
+    		<div class="row">
+					<div class="pbig">
+						<div id="jquery_jplayer_mainradio" data-autoplay="false"  class="jp-jplayer"   data-ga="radio-khovar-101-5-fm"  data-container="jp_container_mainradio" data-here="no" data-stream="https://radiotrucker.com/en/play/radio-khovar-101-5-fm" data-hl="en" data-radioname="radio-khovar-101-5-fm"></div>
+						<div class="jp-audio-stream" role="application" aria-label="media player">
+							<div class="jp-type-single">
+								<div class="jp-gui jp-interface">
+									<div class="jp-controls">
+										<i class="jp-play listeplay text-warning rtico-play3"></i>
+										<i style="display: none" class="jp-pause text-danger listepause rtico-pause2"></i>
+									</div>
+								</div>
+							</div>
+							
+					</div>
+				
+						
+					</div>
+					<div class="rbrest">
+					
+						<div class="runningtime">
+							<div class="jp-current-time runtime">00:00</div>
+						</div>
+						<div class="volumebar" class="text-center">
+								
+								<div class="jp-volume-bar progress">
+									<div class="jp-volume-bar-value progress-bar active progress-bar-striped progress-bar-danger"></div>
+								</div>
+							</div>
+					</div>
+			
+				</div>
+
+    		
+    	</div>
+    	
+    	<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+	    	<div class="btn-group btn-group-default">
+	    		<a href="/en/signin?u=%2Fen%2Fstations%2Fradio%2Dkhovar%2D101%2D5%2Dfm" class="btn btn-default " data-radio="1102">Report</a>
+	    	</div>
+	    	<div class="btn-group btn-group-default">
+				  
+				 </div>
+				
+			
+				<div class="btn-group btn-group-default pull-right">
+					<a href="#" class="btn btn-default addthis_button_facebook"><i class="rtico rtico-facebook"></i></a>
+					<a href="#" class="btn btn-default addthis_button_twitter"><i class="rtico rtico-twitter"></i></a>
+					<a href="#" class="btn btn-default addthis_button_google_plusone_share"><i class="rtico rtico-google-plus"></i></a>
+					<a href="#" class="btn btn-default addthis_button_expanded"><i class="rtico rtico-share2"></i></a>
+					
+				 </div>
+				 
+				</div>
+				
+				
+				<h4 class="rtheadsub headsubgray mt-20 mb-0">Радио Ховар 101.5 FM Info</h4>
+				<div class="infobox mb-30">
+					<p class="mt-10 mb-20">Радио Ховар 101.5 FM broadcasting in Tajikistan with genre World, Chillout...</p>
+					<dl class="radioinfo"><dt>Station Website</dt><dd>
+						<span class="userinfo"><a href="http://khovar.tj/" target="_blank" rel="nofollow">khovar.tj</a></span>
+						
+						</dd></dl><dl class="radioinfo"><dt>Genre</dt><dd>
+						<span class="userinfo"><a href="/en/stations/world-stations/">World</a>, <a href="/en/stations/chillout-stations/">Chillout</a></span>
+						
+							
+						
+					</dd></dl><dl class="radioinfo"><dt>Location</dt><dd>
+						<span class="userinfo"><a href="/en/stations/tajikistan-radios/">Tajikistan</a></span>
+						
+						</dd></dl><dl class="radioinfo"><dt>Poster</dt><dd><span class="userinfo"><a href="/en/user/sisl/" rel="nofollow">SiSL</a></span></dd></dl><dl class="radioinfo"><dt>Added</dt><dd><span class="userinfo convertdate" data-utc="2018-07-22T16:21:00Z"></span></dd></dl><dl class="radioinfo"><dt>Updated</dt><dd><span class="userinfo convertdate" data-utc="2018-07-22T16:22:00Z"></span></dd></dl>
+					<div class="clearfix"></div>
+				</div>
+				
+				<div class="shistorydiv hidden" data-id="1102">
+				<h4 class="rtheadsub headsubgray mt-50 mb-0 shistory">My Song History</h4>
+				
+				</div>
+				<h4 class="rtheadsub headsubgray mt-30">Explore Stations</h4>
+<div class="mb-30 row">
+	<div class="col-xs-6 col-sm-12 col-md-6">
+	<p>Do you feel lucky?</p>	
+		
+	</div>
+	<div class="col-xs-6 col-sm-12 col-md-6 text-right">
+	<button class="randomstation btn btn-success">Take me to random station</button>
+	</div>
+</div>
+ 
+			<div class="pastRadios hidden">
+			<h4 class="rtheadsub headsubgray mt-50 mb-10">Previously Listened</h4>
+			<div class="radiobox template" id="radio{{ID}}">
+				<div class="row">
+					<div class="pb">
+						<div id="jquery_jplayer_ft{{NUM}}" class="jp-jplayer template" data-ga="{{NAME}}" data-container="jp_container_ft{{NUM}}" data-here="no" data-stream="{{STREAM}}" style="width: 0px; height: 0px;"><img id="jp_poster_{{NUM}}" style="width: 0px; height: 0px; display: none;"><audio id="jp_audio_{{NUM}}" preload="none"></audio></div>
+						<div id="jp_container_ft{{NUM}}" class="jp-audio-stream" role="application" aria-label="media player">
+							<div class="jp-type-single">
+								<div class="jp-gui jp-interface">
+									<div class="jp-controls">
+										<i class="jp-play listeplay text-warning rtico-play3"></i>
+										<i style="display: none" class="jp-pause text-danger listepause rtico-pause2"></i>
+									</div>
+								</div>
+							</div>
+							<div class="volumebar">
+								
+								<div class="jp-volume-bar progress">
+									<div class="jp-volume-bar-value progress-bar active progress-bar-striped progress-bar-danger" style="width: 21%;"></div>
+								</div>
+							</div>
+					</div>
+				
+						
+					</div>
+					<div class="ib"><h3><a href="{{LINK}}" rel="nofollow">{{RNAME}}</a></h3>
+					<dl><dt>Genre</dt><dd>{{GENRE}}</dd></dl>
+					<dl class="hidden-xs location"><dt>Location</dt>
+						<dd><a href="{{CNTLINK}}" rel="nofollow">{{CNT}}</a> <span class="flag-sm"><!--FLAGimg src="{{FLAG}}"></span --></dd>
+					</dl>
+						
+					
+						
+					</div>
+					<div class="listtoolbox">
+						
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+		<div class="col-sm-6">
+		
+				<h4 class="rtheadsub headsubgray mt-20">Comments</h4>
+				<div id="disqus_thread" class="disqus"><a></a></div>
+				
+<script>
+var disqus_identifier = "rt-station-1102";
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'radiotrucker';
+var disqus_title = "Радио Ховар 101.5 FM on Radiotrucker.com";
+var disqus_config_custom = window.disqus_config;
+
+
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    		this.language = 'en';
+    		this.page.identifier = disqus_identifier;
+    		
+        this.callbacks.onReady.push(function () {
+				    
+        // sync comments in the background so we don't block the page
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '';
+
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(script, firstScript);
+    });
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+
+(function() { 
+var d = document, s = d.createElement('script');
+s.src = '//radiotrucker.disqus.com/embed.js';
+s.async = true;
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<div class="nopad contad">
+<div class="rek-header  noafter">
+	<div class="rekkare">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7214756907730542"
+     crossorigin="anonymous"></script>
+<!-- Responsive Vertical -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7214756907730542"
+     data-ad-slot="3347810037"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+ <div id="xgpt-sagbig"></div>
+	
+	</div>
+</div>
+<script>
+//googletag.cmd.push(function() { googletag.display('gpt-sagbig'); });
+</script>
+
+
+		</div>
+		
+		
+	</div>
+</div>
+<div class="break50"></div>
+<div class="container nopad contad">
+<div class="rek-header  noafter">
+	<div class="rekhead">
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7214756907730542"
+     crossorigin="anonymous"></script>
+<!-- Responsive Horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7214756907730542"
+     data-ad-slot="9718627324"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+	<div id="xgpt-footer"></div>
+	<div class="rklwarn" style="display: none">Radiotrucker is a free service for your gaming pleasure. Please support us by disabling your Ad-Blocker software at least for this domain</div>
+
+	</div>
+</div>
+<script> 
+ // googletag.cmd.push(function() { googletag.display('gpt-footer'); });
+</script><div class="modal fade" id="addListmodal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog center-block modal-sm" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <h5 class="modal-title h4" id="exampleModalLabel">Add Radio to your list</h5>
+        </div>
+        <div class="modal-body">
+          	<div class="form-group hidden" id="listselect">
+              <label for="listeler" class="form-control-label">Select one of your lists:</label>
+              <select class="form-control" id="listeler" onchange="selectAddList(this)"><option value="">Select one of your lists</option><option id="newlist" value="0">--- CREATE A NEW LIST ---</option></select>
+            </div>
+            <div id="listenamegroup" class="form-group newliste ">
+              <label for="listename" class="form-control-label">New List Name:</label>
+              <input type="text" class="form-control" class="user-name" id="listename" maxlength="50" placeholder="Enter a name for new list" />
+            </div>
+            <div class="accessdenied alert alert-danger hidden" role="alert">There is a list with same name</div>
+            <div class="listexists alert alert-sm alert-danger hidden" role="alert">There is a list with same name</div>
+            <div class="listnameempty alert alert-sm alert-danger hidden" role="alert">Enter a name for new list</div>
+                       
+          
+        </div>
+        <div class="modal-footer">
+        	
+        		<a href="/en/signin" class="btn btn-primary">Sign in</a>
+        		
+        			
+        		
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="createplaylistmodal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog center-block modal-sm" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <h5 class="modal-title h4">Create new playlist</h5>
+        </div>
+        <div class="modal-body">
+          	
+            <div id="newlistenamegroup" class="form-group newliste">
+              <label for="listename" class="form-control-label">New List Name:</label>
+              <input type="text" class="form-control" class="user-name" id="newlistename" maxlength="50" placeholder="Enter a name for new list" />
+            </div>
+            
+            <div class="listexists alert alert-sm alert-danger hidden" role="alert">There is a list with same name</div>
+            <div class="listnameempty alert alert-sm alert-danger hidden" role="alert">Enter a name for new list</div>
+                       
+          
+        </div>
+        <div class="modal-footer">
+        	
+        		<a href="/en/signin" class="btn btn-primary">Sign in</a>
+        		
+        			
+        		
+        </div>
+      </div>
+    </div>
+  </div>
+  
+<div class="modal fade" id="reportmodal" tabindex="-1" role="dialog" aria-labelledby="reportModelLabel" aria-hidden="true">
+    <div class="modal-dialog center-block modal" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <h5 class="modal-title h4" id="deletestreammodalTitle"><span class="reportmain">Report the station problem</span><span class="reportthanks hidden">Thank you for reporting</span></h5>
+        </div>
+        <div class="modal-body">
+          
+           	<div class="row reportmain">
+           			<div class="col-sm-12">
+           				<label for="reportproblem">The problem with this station:</label>
+           			</div>
+           			<div class="col-sm-12 mt-10">
+           				<select id="reportproblem" class="form-control">
+           					<option value="issue-not-playing">It does not play on webpage</option>
+           					<option value="issue-not-playing-ingame">It does not play in the game</option>
+           					<option value="issue-other">Other...</option>
+           				</select>
+           			</div>
+           			<div class="col-sm-12 mt-10 hidden" id="reportgamediv">
+           				<select id="reportgames" class="form-control">
+           					<option value="1">Euro Truck Simulator 2</option><option value="2">American Truck Simulator</option><option value="3">PLS</option><option value="4">Farming Simulator 2017</option><option value="5">Cattle & Crops</option><option value="6">DirectETS2</option>
+           				</select>
+           			</div>
+           			<div class="col-sm-12 mt-10 hidden" id="reportmsgdiv">
+           				
+           				<textarea class="form-control issue-msg" id="reportmsg" placeholder="Briefly explain the issue you are having. If you want to be contacted, please leave your contact information."></textarea>
+           			</div>
+           	</div>
+           	
+           	<div class="row reportthanks hidden">
+           		
+           		<div class="col-sm-12 mt-10">
+           		We have received your report. We'll check reports as soon as possible and try to solve the issue.
+           		</div>
+           	</div>
+          	
+        </div>
+        <div class="modal-footer">
+        	<div class="reportmain">
+          	<button type="button" class="btn btn-default cancel-but" data-dismiss="modal">Cancel</button>
+        		<button type="button" class="btn btn-danger btn-send-report">Send Report</button>
+        	</div>
+        	<div class="reportthanks hidden">
+        		<button type="button" class="btn btn-primary cancel-but" data-dismiss="modal">Close</button>
+        	</div>
+        			
+        		
+        </div>
+      </div>
+    </div>
+  </div>
+
+	</section>
+	<footer class="mainfooter">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-6 col-sm-4 col-md-3  primefooter footerbox">
+					<a href="https://radiotrucker.com/" class="logo"><img src="/images/ico/icon64des.png" width="64" height="64" alt="Radiotrucker logo (c)" /></a>
+					<ul class="list-unstyled">
+						<li><h5>radiotrucker.com</h5></li>
+						<li>© Copyright 2023</li>
+					
+						
+					</ul>
+					
+				</div>
+				<div class="col-xs-6 col-sm-4 col-md-3 footerbox">
+						<ul class="list-unstyled">
+						<li><h5>Stations</h5></li>
+						<li><a href="/en/stations/latest-radios/">Latest Radios</a></li>
+						<li><a href="/en/stations/world-radios/">All World Stations</a></li>
+						<li><a href="/en/add">Add New Station</a></li>
+						</ul>
+						
+					
+				</div>
+				<div class="col-xs-6 col-sm-4 col-md-3 footerbox">
+					<ul class="list-unstyled">
+						<li><h5>Social Networks</h5></li>
+						<li><i class="rtico-facebook"></i> &nbsp; <a href="https://facebook.com/radiotrucker" rel="nofollow">Facebook</a></li>
+						<li><i class="rtico-twitter"></i> &nbsp; <a href="https://twitter.com/radiotrucker" rel="nofollow">Twitter</a></li>
+						<li><i class="rtico-youtube"></i> &nbsp; <a href="http://www.youtube.com/channel/UCGlNzJuNfgg495TMbju7NqA" rel="nofollow">Youtube</a></li>
+					</ul>
+				</div>
+				<div class="col-xs-6 col-sm-4 col-md-3 footerbox">
+						<ul class="list-unstyled">
+						<li><h5>Terms</h5></li>
+						<li><a href="/en/terms" rel="nofollow">Terms of Service</a></li>
+						<li><a href="/en/privacy" rel="nofollow">Privacy Policy</a></li>
+						<li><a href="/en/acceptableusepolicy" rel="nofollow">Acceptable Use Policy</a></li>
+						
+					</ul></div>
+			</div>
+		</div>
+	</footer>
+	
+	<script>
+		
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', sitevars.ga, 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+
+
+
+<!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> -->
+
+
+<script type="text/javascript">
+	head.test({
+		test: (head.browser.ie && head.browser.version < 9),
+		success: [{ 'jquery': 'https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js' }],
+		failure: [{ 'jquery': 'https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js' }],
+		callback: function() {
+			head.ready("jquery", function() {
+				setTimeout("loading_time()", 2000);
+				head.load(truckScripts);
+				
+			});
+		}
+	});
+	
+</script>
+<div class="modal fade" id="alertmodal" tabindex="-1" role="dialog" aria-labelledby="alertModelLabel" aria-hidden="true">
+    <div class="modal-dialog center-block modal" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <h5 class="modal-title h4" id="alertModalTitle">WARNING</h5>
+        </div>
+        <div class="modal-body">
+                              
+          <p id="alertModalMessage"></p>
+        </div>
+        <div class="modal-footer">
+        	
+          	 
+        		<button type="button" class="btn btn-primary"  data-dismiss="modal">Close</button>
+        		
+        		
+        			
+        		
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="rbmsg" class="rbmsg hidden" style="display: none">Radiotrucker is a free service for your gaming pleasure. Please support us by disabling your Ad-Blocker software at least for this domain</div>
+</body>
+</html>

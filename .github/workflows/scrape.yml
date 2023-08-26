@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in $(cat list.txt | grep "radiomap.eu") ; do curl -s $i | ./htmlq -a href a | grep "\../" | awk 'length>10' | grep -v "about" | sed -e 's/\.htm//g' -e 's|\.\.||g' > A-$(echo $i | awk -F '/' '{print $4"-"$5}').txt ; echo $i ; done
+          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://worldradiomap.com$j > mep1 ; cat mep1 | ./htmlq -t | awk NF | head -n 1 | awk '{print "#EXTINF:-1,"$0}' >> A$(echo $i | awk -F '/' '{print $2"-"$3}') ; cat mep1 | grep "<audio" | awk -F '"' '{print $6}' | sed 's/\;//g' | sed '/^$/d' >> A$(echo $i | awk -F '/' '{print $2"-"$3}') ; echo -e "$i - $j" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

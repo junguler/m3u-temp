@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in $(cat list.txt) ; do curl -s $i | htmlq -a href a | grep "\../" | awk 'length>10' | grep -v "about" | sed -e 's/\.htm//g' -e 's|\.\.||g' > A-$(echo $i | awk -F '/' '{print $NF}').txt ; echo $i ; done
+          for i in $(cat list.txt) ; do curl -s $i | ./htmlq -a href a | grep "\../" | awk 'length>10' | grep -v "about" | sed -e 's/\.htm//g' -e 's|\.\.||g' > A-$(echo $i | awk -F '/' '{print $NF}').txt ; echo $i ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

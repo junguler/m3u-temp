@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for j in {17..25} ; do for i in $(cat genres) ; do curl -s https://www.gemtracks.com/free-music/freeMusicFilter.php\?typeFile\=undefined\&sortFilter\=id_asc\&page\=$j\&category\=$i | grep ".mp3" | awk -F '"' '{print $8}' | sed 's| |%20|g' >> $i.txt ; echo -e "$i - $j" ; done ; done
+          for j in {26..50} ; do for i in $(cat genres) ; do curl -s https://www.gemtracks.com/free-music/freeMusicFilter.php\?typeFile\=undefined\&sortFilter\=id_asc\&page\=$j\&category\=$i | grep ".mp3" | awk -F '"' '{print $8}' | sed 's| |%20|g' >> $i.txt ; echo -e "$i - $j" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

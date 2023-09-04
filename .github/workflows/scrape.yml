@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in page/{11..20}/ ; do for j in $(cat list.txt) ; do curl -s https://radiotolive.com/$j$i | ./htmlq -a href \#gridme-main-wrapper a | grep -v "/page/" | grep -v "genre" | uniq | cut -c25- >> A-$(echo $j | sed 's|/| |g' | awk '{print $2}').txt ; echo -e "$j - $i" ; done ; done
+          for i in page/{21..50}/ ; do for j in $(cat list.txt) ; do curl -s https://radiotolive.com/$j$i | ./htmlq -a href \#gridme-main-wrapper a | grep -v "/page/" | grep -v "genre" | uniq | cut -c25- >> A-$(echo $j | sed 's|/| |g' | awk '{print $2}').txt ; echo -e "$j - $i" ; done ; done
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

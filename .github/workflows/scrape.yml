@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          curl -s https://webradiodirectory.com/?keyword&country=us&genre&perpage=20000&sort=asc | ./htmlq -a href .wp-radio-listings a | grep "station" | uniq | awk -F '/' '{print $5}' > A-United_States.txt
+          curl -s https://webradiodirectory.com/?keyword&country=us&genre&perpage=5000&sort=asc | ./htmlq -a href .wp-radio-listings a | grep "station" | uniq | awk -F '/' '{print $5}' > A-United_States.txt
 
       - name: add & commit
         uses: EndBug/add-and-commit@main

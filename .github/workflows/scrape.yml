@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          #for i in "" \&page={2..5} ; do for j in $(cat countries.txt) ; do curl -s http://keepone.net/land/$j$i | htmlq -a href a | grep "/radio/" | uniq | cut -c8- >> A-$(echo $j | awk -F '/' '{print $NF}').txt ; echo -e "$j - $i" ; done ; done
+          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s http://keepone.net/radio/$j > mep1 ; cat mep1 | ./htmlq -t h1 | awk '{print "#EXTINF:-1,"$0}' >> A$i ; cat mep1 | grep "<source title" | awk -F '"' '{print $6}' | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |

@@ -1,41 +1,0 @@
-Script started on 2023-12-24 21:15:58+03:30 [TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="127" LINES="5"]
-remote: Enumerating objects: 17, done.[K
-remote: Counting objects:   5% (1/17)[Kremote: Counting objects:  11% (2/17)[Kremote: Counting objects:  17% (3/17)[Kremote: Counting objects:  23% (4/17)[Kremote: Counting objects:  29% (5/17)[Kremote: Counting objects:  35% (6/17)[Kremote: Counting objects:  41% (7/17)[Kremote: Counting objects:  47% (8/17)[Kremote: Counting objects:  52% (9/17)[Kremote: Counting objects:  58% (10/17)[Kremote: Counting objects:  64% (11/17)[Kremote: Counting objects:  70% (12/17)[Kremote: Counting objects:  76% (13/17)[Kremote: Counting objects:  82% (14/17)[Kremote: Counting objects:  88% (15/17)[Kremote: Counting objects:  94% (16/17)[Kremote: Counting objects: 100% (17/17)[Kremote: Counting objects: 100% (17/17), done.[K
-remote: Compressing objects:   6% (1/16)[Kremote: Compressing objects:  12% (2/16)[Kremote: Compressing objects:  18% (3/16)[Kremote: Compressing objects:  25% (4/16)[Kremote: Compressing objects:  31% (5/16)[Kremote: Compressing objects:  37% (6/16)[Kremote: Compressing objects:  43% (7/16)[Kremote: Compressing objects:  50% (8/16)[Kremote: Compressing objects:  56% (9/16)[Kremote: Compressing objects:  62% (10/16)[Kremote: Compressing objects:  68% (11/16)[Kremote: Compressing objects:  75% (12/16)[Kremote: Compressing objects:  81% (13/16)[Kremote: Compressing objects:  87% (14/16)[Kremote: Compressing objects:  93% (15/16)[Kremote: Compressing objects: 100% (16/16)[Kremote: Compressing objects: 100% (16/16), done.[K
-Unpacking objects:   6% (1/16)Unpacking objects:  12% (2/16)Unpacking objects:  18% (3/16)Unpacking objects:  25% (4/16)Unpacking objects:  31% (5/16)Unpacking objects:  37% (6/16)Unpacking objects:  43% (7/16)Unpacking objects:  50% (8/16)Unpacking objects:  56% (9/16)Unpacking objects:  62% (10/16)Unpacking objects:  68% (11/16)remote: Total 16 (delta 0), reused 16 (delta 0), pack-reused 0[K
-Unpacking objects:  75% (12/16)Unpacking objects:  81% (13/16)Unpacking objects:  87% (14/16)Unpacking objects:  93% (15/16)Unpacking objects: 100% (16/16)Unpacking objects: 100% (16/16), 32.94 KiB | 562.00 KiB/s, done.
-From https://github.com/junguler/m3u-temp
-   d2a1ed93..e1d9f527  main       -> origin/main
-Updating d2a1ed93..e1d9f527
-Fast-forward
- A-classical-music.txt      | 250 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-easy-listening-radio.txt | 204 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-electronic-music.txt     | 243 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-folk-music.txt           | 216 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-hip-hop-rap.txt          | 237 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-international-music.txt  | 249 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-jazz-funk-blues.txt      | 243 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-news-talk.txt            | 210 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-other.txt                | 240 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-pop-music.txt            | 223 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-religious-radio.txt      | 212 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-retro-music.txt          | 205 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-rock-music.txt           | 244 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-sport-radio.txt          | 122 [32m+++++++++++++++++++++++++++++++++++++++++++++[m
- 14 files changed, 3098 insertions(+)
- create mode 100644 A-classical-music.txt
- create mode 100644 A-easy-listening-radio.txt
- create mode 100644 A-electronic-music.txt
- create mode 100644 A-folk-music.txt
- create mode 100644 A-hip-hop-rap.txt
- create mode 100644 A-international-music.txt
- create mode 100644 A-jazz-funk-blues.txt
- create mode 100644 A-news-talk.txt
- create mode 100644 A-other.txt
- create mode 100644 A-pop-music.txt
- create mode 100644 A-religious-radio.txt
- create mode 100644 A-retro-music.txt
- create mode 100644 A-rock-music.txt
- create mode 100644 A-sport-radio.txt
-
-Script done on 2023-12-24 21:16:01+03:30 [COMMAND_EXIT_CODE="0"]

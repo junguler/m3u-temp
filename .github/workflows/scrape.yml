@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in {201..800}/ ; do for j in $(cat languages.txt) ; do curl -s https://raddio.net/language/$j/$i | ./htmlq .content -a href a | grep -v "sorting\|languages" | awk 'length>4' | sed 's|/||g' >> A-$j.txt ; done ; done
+          for i in "" {1..4}/ ; do for j in $(cat countries.txt) ; do curl -s https://raddio.net/country/$j/$i | ./htmlq .content -a href a | grep -v "sorting\|country" | awk 'length>4' | sed 's|/||g' >> A-$j.txt ; done ; done
 
       - name: git stuff
         run: |

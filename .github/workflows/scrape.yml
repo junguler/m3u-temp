@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in /{11..20} ; do for j in $(cat genres.txt) ; do curl -s https://thenonstopradio.com/genre/$j$i | ./htmlq -a href a | grep "/radio/" | uniq | awk -F '/' '{print $5}' >> A-$j.txt ; done ; done
+          for i in /{21..50} ; do for j in $(cat genres.txt) ; do curl -s https://thenonstopradio.com/genre/$j$i | ./htmlq -a href a | grep "/radio/" | uniq | awk -F '/' '{print $5}' >> A-$j.txt ; done ; done
 
       - name: git stuff
         run: |

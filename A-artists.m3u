@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1,Beatles_Radio
+404 https://streaming.shoutcast.com/beatles-radio
+#EXTINF:-1,Exclusively_Adele
+200 https://streaming.exclusive.radio/er/adele/icecast.audio
+#EXTINF:-1,Polskie_Radio_Pink_Floyd
+200 https://stream85.polskieradio.pl/omniaaxe/k46.stream/playlist.m3u8
+#EXTINF:-1,Polskie_Radio_Led_Zeppelin
+200 https://stream85.polskieradio.pl/omniaaxe/k45.stream/playlist.m3u8
+#EXTINF:-1,Exclusively_Pink_Floyd
+200 https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
+#EXTINF:-1,80s80s_Depeche_Mode
+https://80s80s.hoerradar.de/80s80s-dm-mp3-hq
+#EXTINF:-1,Virgin_Radio_Music_Star_Roger_Waters_Pink_Floyd
+200 https://icy.unitedradio.it/VirginRogerWaters.mp3
+#EXTINF:-1,Vagalume.FM_-_O_Melhor_de_Bob_Marley
+200 https://stream.vagalume.fm/hls/1524167056721891/aac.m3u8
+#EXTINF:-1,Crooner_Radio_Frank_Sinatra
+302 https://direct.croonerradio.fr/croonerradio-franksinatra-midfi.mp3
+#EXTINF:-1,Exclusively_The_Beatles
+200 https://streaming.exclusive.radio/er/beatles/icecast.audio
+#EXTINF:-1,Exclusively_Bob_Marley
+200 https://streaming.exclusive.radio/er/bobmarley/icecast.audio
+#EXTINF:-1,Exclusively_Queen
+200 https://streaming.exclusive.radio/er/queen/icecast.audio
+#EXTINF:-1,181.FM_Beatles
+200 https://listen.181fm.com/181-beatles_128k.mp3
+#EXTINF:-1,80s80s__Michael_Jackson
+https://80s80s.hoerradar.de/80s80s-micjac-mp3-hq
+#EXTINF:-1,Beatles-A-Rama!!!
+200 https://streamdb6web.securenetsystems.net/cirruscontent/BAR
+#EXTINF:-1,Vagalume.FM_-_O_Melhor_de_Pink_Floyd
+200 https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8
+#EXTINF:-1,Exclusively_Frank_Sinatra
+200 https://streaming.exclusive.radio/er/franksinatra/icecast.audio
+#EXTINF:-1,Heart_Beat_Radio_-_Beatle_Radio!
+302 https://onlineradiobox.com/json/us/beatle/play?platform=web
+#EXTINF:-1,Radio_PSR_80er
+302 https://streams.radiopsr.de/psr-80er/mp3-192/onlineradiobox/
+#EXTINF:-1,Virgin_Radio_Music_Star_Coldplay
+200 https://icy.unitedradio.it/ColdPlay.mp3
+#EXTINF:-1,92.3_The_Fox
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Exclusively_Rolling_Stones
+200 https://streaming.exclusive.radio/er/rollingstones/icecast.audio
+#EXTINF:-1,The_Rat_Pack
+302 https://onlineradiobox.com/json/us/theratpack/play?platform=web
+#EXTINF:-1,Exclusively_Coldplay
+200 https://streaming.exclusive.radio/er/coldplay/icecast.audio
+#EXTINF:-1,Depeche_Mode_Radio
+200 https://c2.radioboss.fm:18494/stream
+#EXTINF:-1,Vagalume.FM_-_O_Melhor_de_The_Beatles
+200 https://stream.vagalume.fm/hls/1497301149923842/aac.m3u8
+#EXTINF:-1,R.SA_–_Das_Beatles_Radio
+302 https://streams.rsa-sachsen.de/rsa-beatles/aac-64/onlineradiobox/
+#EXTINF:-1,Web_Rádio_Michael_Jackson
+200 https://hts02.kshost.com.br:8062/live
+#EXTINF:-1,Precious_Radio_Pop
+https://preciousradio.net/proxy/pop/stream
+#EXTINF:-1,Radio_RMF_-_Michael_Jackson
+200 https://rs8-krk2-cyfronet.rmfstream.pl/MICHALEJACKSON
+#EXTINF:-1,Radio_RMF_-_Depeche_Mode
+200 https://rs8-krk2-cyfronet.rmfstream.pl/DEPECHEMODE
+#EXTINF:-1,Exclusively_Depeche_Mode
+200 https://streaming.exclusive.radio/er/depechemode/icecast.audio
+#EXTINF:-1,Mersey_Radio
+302 https://onlineradiobox.com/json/uk/mersey/play?platform=web
+#EXTINF:-1,Yimago_Lite_Rock_(Planet_Earth&amp#39s_Best_Music)
+301 https://yimago.torontocast.stream/pop
+#EXTINF:-1,Radio_RMF_-_Queen
+200 https://rs102-krk-cyfronet.rmfstream.pl/QUEEN
+#EXTINF:-1,24/7_MJ_Radio
+404 https://stream.zeno.fm/us5et3sns0hvv
+#EXTINF:-1,M_Radio_Celine_Dion
+200 https://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
+#EXTINF:-1,Radio_Обозреватель_-_Queen
+400 https://radio-stream-2.obozrevatel.com/queen128.mp3
+#EXTINF:-1,NRG_Bob_Marley
+404 https://live.nrgplay.com/stream/bobmarley
+#EXTINF:-1,Radio_Open_FM_-_100%_Queen
+404 https://stream.open.fm/185
+#EXTINF:-1,MORE_Океан__Ельзи
+400 https://cast.more.fm:8444/oe
+#EXTINF:-1,Exclusively_Celine_Dion
+200 https://streaming.exclusive.radio/er/celinedion/icecast.audio
+#EXTINF:-1,Radio_RMF-_Beatlemania
+200 https://rs201-krk-cyfronet.rmfstream.pl/BEATLEMANIA
+#EXTINF:-1,Nostalgie_Johnny_Hallyday
+404 https://streamingp.shoutcast.com/NostalgieJohnnyHallyday-aac
+#EXTINF:-1,Vagalume.FM_-_O_Melhor_de_Michael_Jackson
+200 https://stream.vagalume.fm/hls/1498504131678502/aac.m3u8
+#EXTINF:-1,M_Radio_Johnny
+200 https://mfmwr-006.ice.infomaniak.ch/mfmwr-006.mp3
+#EXTINF:-1,Exclusively_David_Bowie
+200 https://streaming.exclusive.radio/er/davidbowie/icecast.audio
+#EXTINF:-1,Vagalume.FM_-_O_Melhor_de_Beyoncé
+200 https://stream.vagalume.fm/hls/1524166820939567/aac.m3u8
+#EXTINF:-1,NRG_Michael_Jackson
+404 https://live.nrgplay.com/stream/michaeljackson
+#EXTINF:-1,Radio_Обозреватель_-_Depeche_Mode
+400 https://radio-stream-1.obozrevatel.com/depechemode128.mp3
+#EXTINF:-1,More_Depeche
+400 https://cast.more.fm:8444/dm
+#EXTINF:-1,Movies_Broadway_Singers_and_Beyond
+302 https://streaming.live365.com/a41788
+#EXTINF:-1,Exclusively_Beyonce
+200 https://streaming.exclusive.radio/er/beyonce/icecast.audio
+#EXTINF:-1,Radio_Обозреватель_-_Океан_Эльзы
+400 https://radio-stream-1.obozrevatel.com/okeanelzy128.mp3
+#EXTINF:-1,Depeche_Mode_In_The_Mix_|_Toneart
+https://stream2.radiodienst.de/proxy/toneart/depechemodeinthemix
+#EXTINF:-1,Radio_Open_FM_-_100%_Depeche_Mode
+404 https://stream.open.fm/135
+#EXTINF:-1,Vagalume.FM_-_O_Melhor_de_Queen
+200 https://stream.vagalume.fm/hls/1498761012966340/aac.m3u8
+#EXTINF:-1,M_Radio_-_Voix_Féminines
+200 https://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3
+#EXTINF:-1,80s80s_Queen
+https://80s80s.hoerradar.de/80s80s-queen-mp3-hq
+#EXTINF:-1,NRJ_David_Guetta
+302 https://scdn.nrjaudio.fm/audio1/fr/31053/mp3_128.mp3?origine=radiobox
+#EXTINF:-1,MJJCommunity_Radio
+302 https://onlineradiobox.com/json/uk/king/play?platform=web
+#EXTINF:-1,Radio_Bob!_BOBs_Queen-Stream
+302 https://streams.radiobob.de/bob-queen/mp3-128/onlineradiobox/
+#EXTINF:-1,MJTunes_-_Michael_Jackson_Radio
+404 https://stream.zeno.fm/zzc8g0hd9e9uv
+#EXTINF:-1,MopTop_Radio
+302 https://onlineradiobox.com/json/us/moptop/play?platform=web
+#EXTINF:-1,REGENBOGEN_2_–_Beatles
+302 https://stream.regenbogen2.de/beatles/mp3-128/onlineradiobox
+#EXTINF:-1,Radio_Beatles
+302 https://onlineradiobox.com/json/dk/beatles/play?platform=web
+#EXTINF:-1,Easy_Frank_Sinatra
+200 https://streaming.exclusive.radio/uber/easyfranksinatra/icecast.audio
+#EXTINF:-1,100%_Johnny
+200 https://listen.radioking.com/radio/330148/stream/383350
+#EXTINF:-1,Michael_Jackson_-_Radio_Unbreakable
+404 https://streaming.shoutcast.com/MichaelJackson-RadioUnbreakable-Umjp
+#EXTINF:-1,Planet_Beyoncé_Radio
+200 https://mp3.planetradio.de/plrchannels/hqstars17.aac
+#EXTINF:-1,Planet_David_Guetta_Radio
+200 https://mp3.planetradio.de/plrchannels/hqstars07.aac

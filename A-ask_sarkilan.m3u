@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Joy_Türk_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC.mp3
+#EXTINF:-1,Öz_FM
+200 https://live.ozfm.com.tr:9914/
+#EXTINF:-1,Power_Love
+200 https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
+#EXTINF:-1,Radio_Slow_Time
+http://46.20.7.103:8030/
+#EXTINF:-1,Romantik_Ses_Isparta
+302 https://radyo.romantikses.com/romantiksesispart/stream/type=mp3
+#EXTINF:-1,Slow_Radyo
+200 http://anadolu.liderhost.com.tr:5050/
+#EXTINF:-1,Slow_Türk_FM
+400 https://radyo.duhnet.tv/ak_dtvh_slowturk

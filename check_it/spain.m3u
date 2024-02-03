@@ -1,0 +1,1001 @@
+#EXTM3U
+#EXTINF:-1,RPA
+https://cdnlive.codev8.net/rtpalive/smil:radio.smil/chunklist.m3u8
+#EXTINF:-1,Kiss FM Canaries
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfmcanarias.kissfmradio.cires21.com/bbkissfmcanarias.mp3
+#EXTINF:-1,Euskadi Irratia
+https://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8
+#EXTINF:-1,Catalunya Ràdio
+https://directes-radio-int.ccma.cat/live-content/catalunya-radio-hls/master.m3u8
+#EXTINF:-1,Canal Sur Radio Andalucía
+https://cdnlive.codev8.net/rtvalive/smil:channel9.smil/chunklist.m3u8
+#EXTINF:-1,Canal Fiesta
+https://cdnlive.codev8.net/rtvalive/smil:channel5.smil/chunklist.m3u8
+#EXTINF:-1,Radio Nacional de España
+https://ztnr.rtve.es/ztnr/1938076.m3u8
+#EXTINF:-1,rne Radio Clásica
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8
+#EXTINF:-1,RNE Radio 3
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1,RNE Ràdio 4
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r4_main.m3u8
+#EXTINF:-1,RNE Radio 5
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8
+#EXTINF:-1,Rock FM España
+https://rockfm-cope.flumotion.com/chunks.m3u8
+#EXTINF:-1,Catalunya Música
+https://directes-radio-int.ccma.cat/live-content/catalunya-musica-hls/master.m3u8
+#EXTINF:-1,iCat FM
+https://directes-radio-int.ccma.cat/live-content/icat-hls/master.m3u8
+#EXTINF:-1,Flamenco Radio
+https://cdnlive.codev8.net/rtvalive/smil:channel7.smil/playlist.m3u8
+#EXTINF:-1,Radio Andalucía
+https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/playlist.m3u8
+#EXTINF:-1,COPE
+https://net1-cope-rrcast.flumotion.com/cope/net1.mp3
+#EXTINF:-1,Los40
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
+#EXTINF:-1,Onda Cero
+https://livefastly-webs.ondacero.es/ondacero/audio/chunklist.m3u8
+#EXTINF:-1,EiTB Musika
+https://multimedia.eitb.eus/live-content/eitbmusika-hls/master.m3u8
+#EXTINF:-1,Gaztea Radio
+https://multimedia.eitb.eus/live-content/gaztea-hls/master.m3u8
+#EXTINF:-1,Radio Euskadi
+https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8
+#EXTINF:-1,Radio Galega
+http://wecast01-h-cloud.flumotion.com/radiogalega/live.mp3
+#EXTINF:-1,Catalunya Informació
+https://directes-radio-int.ccma.cat/live-content/catalunya-informacio-hls/master.m3u8
+#EXTINF:-1,Canal Extremadura Radio
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel2.smil/playlist.m3u8
+#EXTINF:-1,Radio Marca
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+#EXTINF:-1,RAC1
+https://streaming.rac1.cat/
+#EXTINF:-1,ELS40
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CATAAC.aac
+#EXTINF:-1,LOS40 Classic
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac
+#EXTINF:-1,Cadena Dial
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC.aac
+#EXTINF:-1,Cadena SER
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac
+#EXTINF:-1,Radio Galega Música
+http://wecast14-h-cloud.flumotion.com/radiogalega-musica/live.mp3
+#EXTINF:-1,Son Galicia Radio
+http://wecast-b03-06.flumotion.com/songalicia/live.mp3
+#EXTINF:-1,Capital Radio España
+http://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3
+#EXTINF:-1,Kiss FM España
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-1,Radio Intereconomía
+https://streaming.intereconomia.com/siliconorg
+#EXTINF:-1,Cadena 100
+https://cadena100-cope.flumotion.com/chunks.m3u8
+#EXTINF:-1,MegaStar FM
+https://megastar-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1,Loca FM
+http://s3.we4stream.com:8045/liv
+#EXTINF:-1,IB3 Ràdio
+https://icecast.ib3radio.com/ib3radio.mp3
+#EXTINF:-1,Radiolé
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLEAAC.aac
+#EXTINF:-1,Hit FM España
+https://hitfm.kissfmradio.cires21.com/hitfm.mp3
+#EXTINF:-1,Radio Voz
+https://live.radiovoz.es/mp3/stream_santiago.mp3
+#EXTINF:-1,RAC105
+https://streaming.rac105.cat/
+#EXTINF:-1,Radio Exterior de España
+https://crtve-rneree-main.hls.nmdn.net/crtve_rneree_main_aac/stream_abr/playlist.m3u8
+#EXTINF:-1,esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac
+#EXTINF:-1,Onda Madrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/index.m3u8
+#EXTINF:-1,À Punt FM
+https://bcovlive-a.akamaihd.net/13b49103a31b48dfa5edf508440cb6f9/eu-central-1/6057955885001/playlist-audio_dvr.m3u8
+#EXTINF:-1,Canarias Radio
+https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3
+#EXTINF:-1,Onda Vasca Bizkaia
+https://live.ondavasca.com:8001/bizkaia
+#EXTINF:-1,Onda Regional de Murcia
+https://live.redctnet.es/live/orm/orm/chunklist.m3u8
+#EXTINF:-1,OR Música
+https://live.redctnet.es/live/ormmusical/ormmusical/chunklist.m3u8
+#EXTINF:-1,Aragón Radio
+https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
+#EXTINF:-1,Radio Mix 106
+https://stream13.shoutcastsolutions.com/proxy/gbeaum00?mp=/stream
+#EXTINF:-1,Melodía FM
+http://icecast-streaming.nice264.com/melodiafmback
+#EXTINF:-1,1000 HITS Love
+https://ais-sa2.cdnstream1.com/2210_128.mp3
+#EXTINF:-1,40 Principales
+http://stream.radiocastellon.com:80/40
+#EXTINF:-1,ActivaFM
+https://stream.emisorasmusicales.net/listen/activa_fm_hq/activafm.mp3
+#EXTINF:-1,Cadena Dial 91.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_SC.mp3
+#EXTINF:-1,CenterWaves
+https://tunein.sonixcast.com/CSNX-8132
+#EXTINF:-1,Classic Old Time Radio
+http://node-24.zeno.fm:80/b6v6nu8uhnruv?rj-ttl=5&rj-tok=AAABbqN62xIAAI8gAUpY0IB4XQ
+#EXTINF:-1,Código FM 100.7 FM
+https://streaming-audio-1.magentalabs.es:8100/codigofm.mp3
+#EXTINF:-1,Escucha LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC.mp3
+#EXTINF:-1,Estado de Trance Radio
+https://secure.tempo-radio.com:1090/stream
+#EXTINF:-1,Europa FM
+http://formula30.dyndns.org/europafmhuelva
+#EXTINF:-1,Flaix FM
+http://flaixfmweb.streaming-pro.com:8000/
+#EXTINF:-1,Flow Radio
+https://radiohd.streaminghd.co:7014/live
+#EXTINF:-1,Hit FM
+http://hitfm.kissfmradio.cires21.com:80/hitfm.mp3
+#EXTINF:-1,JAM 66 Radio
+https://stream.zeno.fm/t53umxdzn0hvv
+#EXTINF:-1,Kiss FM
+http://kissfm.kissfmradio.cires21.com:80/kissfm.mp3
+#EXTINF:-1,La Movida Latina 95.2 FM
+https://server2.ejeserver.com:8400/stream
+#EXTINF:-1,LaFresca
+http://stream.produccionesdale.com:8899/altacalidad
+#EXTINF:-1,Latinos FM 107.9 FM
+http://streaming1.locucionar.com:12896/stream/
+#EXTINF:-1,Los 40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1,Nexus Radio España
+http://159.69.43.96:8188/directomp3
+#EXTINF:-1,Radio 3
+https://addrad.io/4459dfb
+#EXTINF:-1,Radio 4
+https://addrad.io/4459f84
+#EXTINF:-1,Radio Nacional
+http://rne.rtveradio.cires21.com:80/rne_hc.mp3
+#EXTINF:-1,Radio Onda Cero
+http://eu4.fastcast4u.com:5826/stream/1
+#EXTINF:-1,RNE
+https://addrad.io/4459dvr
+#EXTINF:-1,Rock FM
+http://flucast-m04-06.flumotion.com:80/cope/rockfm-low.mp3
+#EXTINF:-1,SPLASH Lounge
+https://ais-sa2.cdnstream1.com/2209_128.mp3
+#EXTINF:-1,Xmas FM by Spectrum
+http://5.63.151.52:7166/
+#EXTINF:-1,_80 EXITOS
+https://80sexitos.stream.laut.fm/80sexitos
+#EXTINF:-1,_Funky Corner Radio (Spain)
+https://ais-sa2.cdnstream1.com/2447_96.aac
+#EXTINF:-1,#1 Splash 90s
+https://c4.auracast.net/radio/8050/radio.mp3
+#EXTINF:-1,#1 Splash 90s Dance
+https://c6.auracast.net/radio/8090/radio.mp3
+#EXTINF:-1,#1 Splash Coffee
+https://ais-sa2.cdnstream1.com/2345_128.mp3
+#EXTINF:-1,#1 Splash Spa
+https://ais-sa2.cdnstream1.com/2347_128.mp3
+#EXTINF:-1,#1 Splash Spain
+https://c2.auracast.net/radio/8022/radio.mp3
+#EXTINF:-1,1 Slow-Radio - laut.fm
+https://1slowradio.stream.laut.fm/1_slowradio
+#EXTINF:-1,1000 HITS 80s
+http://c2.auracast.net:8048/stream
+#EXTINF:-1,13 TV
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+#EXTINF:-1,24 h
+https://rtvelivestream-lvlt.rtve.es/24h_dvr.m3u8
+#EXTINF:-1,7 RTVCyL
+https://cdnlive.shooowit.net/la7live/channel1.smil/.m3u8
+#EXTINF:-1,7.7 radio
+http://195.154.33.95:8078/stream
+#EXTINF:-1,7NN
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,7tv EL PUERTO
+https://d1hk6nekf1x9so.cloudfront.net/out/v1/b87bc0364ac04628bb3c8129a5a0588f/index.m3u8
+#EXTINF:-1,88.2  FM CONTROL MUSIC EUROPA
+http://stream.zenolive.com/wknwwa30mkeuv.pls
+#EXTINF:-1,9 radio
+http://88.198.10.229:8004/stream
+#EXTINF:-1,À Punt Ràdio
+http://stream.elxmedia.es:8888/apunt.mp3
+#EXTINF:-1,Absolute Chillout
+http://edge4.peta.live365.net/b05055_128mp3
+#EXTINF:-1,Activate FM
+https://streaming12.elitecomunicacion.es:8085/stream
+#EXTINF:-1,Adagio Radio 2
+https://streamingv2.shoutcast.com/AdagioRadio
+#EXTINF:-1,Adagio Radio HA
+http://37.252.124.170:8010/
+#EXTINF:-1,Adagio Radio HD
+https://stream.tunerplay.com/radio/8010/adagioradioHD.mp3
+#EXTINF:-1,AdagioRadio
+https://stream.tunerplay.com/radio/8010/adagioradio.mp3
+#EXTINF:-1,AFN 360 Rota
+http://playerservices.streamtheworld.com/m3u/AFNE_RTA.m3u
+#EXTINF:-1,Agora Sol Radio
+https://cervera.eldialdigital.com:23141/stream
+#EXTINF:-1,Alcanar Ràdio
+https://relay.stream.enacast-cloud.com:40241/alcanarradioHD.mp3
+#EXTINF:-1,Alcúdia Ràdio
+https://enacast.com/alcudiaradio/streams/HD
+#EXTINF:-1,ALDAIA RADIOS
+https://relay.stream.enacast-cloud.com:40223/aldaiaradioHD.mp3
+#EXTINF:-1,Alhaurín Radio
+https://server8.emitironline.com:18266/radio?1611567018237
+#EXTINF:-1,Alpicat Ràdio
+https://enacast.com/alpicatradio/streams/SD
+#EXTINF:-1,Altafulla Ràdio
+https://enacast.com/altafullaradio/streams/HD
+#EXTINF:-1,Amb2FM
+http://stream.zeno.fm/yv0h81xunwzuv
+#EXTINF:-1,amb2fm
+https://node-15.zeno.fm/t7ax8x2qychvv?rj-ttl=5\u0026rj-tok=AAABfq68R28Ag9E4yX2SkUlLhw
+#EXTINF:-1,Amposta Ràdio
+http://endirecte.amposta.cat:8000/radio
+#EXTINF:-1,Antena 2000
+https://eu1.fastcast4u.com/proxy/antena2000?mp=/1
+#EXTINF:-1,Antena Caro
+http://streaming.enantena.com:8000/antenacaro128.mp3
+#EXTINF:-1,Aragon TV Internacional
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1,Arraio Irratia
+http://irratia.arraio.eus:9001/irratia.ogg
+#EXTINF:-1,Arrate Irratia
+http://radio1.tecnicofm.com:8002/stream
+#EXTINF:-1,AstroShow TV
+http://149.12.64.81:8080/hls/tarotvision.m3u8
+#EXTINF:-1,ATLANTIS FM - Lanzarote - 101,7 MHz
+http://radionetz.de:8000/atlantisfm.mp3.m3u
+#EXTINF:-1,Auto FM
+http://node-22.zeno.fm/5xkqcw3kev8uv?zs=-hSxA3H2QE-9O0t3t80GAw\u0026rj-tok=AAABgJrIMaIAIUoJ7s-kg2Eb7w\u0026rj-ttl=5
+#EXTINF:-1,Axarquía Radio Información
+https://node-27.zeno.fm/rz9aya99cchvv?rj-ttl=5\u0026rj-tok=AAABf0Dz84EAdE_-lnDId68fNQ
+#EXTINF:-1,Baby Radio España
+http://sd396babyradio1.lcinternet.com:8000/stream
+#EXTINF:-1,Banana Ska
+http://streaming511.radionomy.com/BananaSka_64.aac
+#EXTINF:-1,Barcelona Hits
+http://stream.zeno.fm/h1gy078yt4zuv
+#EXTINF:-1,Bass Club Radio
+https://streamprivate.live/8048/stream
+#EXTINF:-1,Beach Grooves
+http://stream.beachgrooves.com:8000/stream.mp3
+#EXTINF:-1,Beach House Ibiza
+https://ec5.yesstreaming.net:2115/stream
+#EXTINF:-1,BENICARLO RADIO by Xopo
+https://streaming.enacast.com/radiobenicarlo128.mp3
+#EXTINF:-1,BENIGANIM RADIO by Xopo
+http://5.135.183.124:8133/stream
+#EXTINF:-1,BI FM
+http://212.83.151.18:36379/
+#EXTINF:-1,Bible Radio - Reina Valera 2000
+http://streamingbibleradio.org:8001/Spanish
+#EXTINF:-1,Bikini FM Marina Baja (Benidorm)
+https://stream.mediasector.es/radio/8030/bikinifm.mp3
+#EXTINF:-1,Blue Marlin Ibiza Radio
+http://ice1.viastreaming.net:8635/live
+#EXTINF:-1,BN Mallorca
+http://91.121.156.27:8008/stream
+#EXTINF:-1,bruto
+http://bruto.no-ip.com:8000/
+#EXTINF:-1,Bujalance Radio
+https://node-02.zeno.fm/uu249rn3qzzuv?rj-ttl=5\u0026rj-tok=AAABeRRWZDYAZNxaQnuSE-Z5ZQ
+#EXTINF:-1,Cadena 100 Barcelona
+https://cadena100bcn-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1,Cadena Cope
+https://flucast-m02-03.flumotion.com/cope/net1.mp3
+#EXTINF:-1,Cadena Cope Cádiz
+https://wecast-b03-01.flumotion.com/copesedes/cadiz.mp3
+#EXTINF:-1,Cadena Mix
+http://ns5.emisionlocal.com:2199/tunein.php/radiomix/playlist.pls
+#EXTINF:-1,Cadena Mix FM
+https://ns6.emisionlocal.com/proxy/radiomix?mp=/stream
+#EXTINF:-1,Cadena Mix FM Cantabria
+https://ns100.emisionlocal.com/proxy/radiomix?mp=/stream.mp3
+#EXTINF:-1,Cadena SER - Radio Andújar
+https://20103.live.streamtheworld.com/CADENASERAAC.aac
+#EXTINF:-1,Cadena SER - Ràdio Barcelona
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
+#EXTINF:-1,Cadena SER - Radio Coruña
+https://19983.live.streamtheworld.com/SER_ASO_CORUNA_SC
+#EXTINF:-1,Cadena Ser - Radio Denia
+http://streamden01.vpstec.ovh:8030/radiodenia
+#EXTINF:-1,Cadena Ser - Radio León
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3
+#EXTINF:-1,Cadena SER - Ràdio Manresa
+http://streaming.enantena.com:8000/taronjadigital-bages128.mp3
+#EXTINF:-1,Cadena SER - Radio Valencia
+http://provisioning.streamtheworld.com/pls/SER_VALENCIA.pls
+#EXTINF:-1,Cadena SER - Radio Vigo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
+#EXTINF:-1,Cadena SER - Radio Zamora
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
+#EXTINF:-1,Cadena SER Asturias
+https://20073.live.streamtheworld.com/CADENASERAAC.aac
+#EXTINF:-1,Cadena SER Córdoba
+https://21633.live.streamtheworld.com/SER_CORDOBA_SC
+#EXTINF:-1,Cadena SER España
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1,Cadena Ser Guadix
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIXAAC_SC
+#EXTINF:-1,Cadena Ser Haro Rioja Alta Radio Haro
+http://streaming.capsulaimposible.com:8000/radioharo.mp3
+#EXTINF:-1,Cadena SER Lugo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUGO.mp3
+#EXTINF:-1,Cadena SER Málaga
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
+#EXTINF:-1,Cadena SER Mallorca
+http://20043.live.streamtheworld.com:3690/SER_MALLORCA_SC
+#EXTINF:-1,Cadena SER Pontevedra
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEVEDRA.mp3
+#EXTINF:-1,Cadena Ser Radio Galicia
+http://playerservices.streamtheworld.com/m3u/SER_GALICIA.m3u
+#EXTINF:-1,Cadena SER Radio MADRID
+http://server7.20comunicacion.com:8040/
+#EXTINF:-1,Cadena SER Radio Menorca
+http://server10.emitironline.com:8040/
+#EXTINF:-1,Cadena SER Radio Murcia
+http://playerservices.streamtheworld.com/m3u/SER_MURCIA.m3u
+#EXTINF:-1,Cadena SER Vitoria
+http://25603.live.streamtheworld.com/SER_VITORIA.mp3
+#EXTINF:-1,Cadena100
+https://cadena100-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1,Café del Mar
+https://streams.radio.co/se1a320b47/listen
+#EXTINF:-1,Café del Mar HD (unofficial)
+http://stream.zenolive.com/g1s30spcdxquv
+#EXTINF:-1,Cafe Mambo Ibiza Radio
+http://streamer.radio.co/sd7b28e5f3/listen
+#EXTINF:-1,Calafell Ràdio
+http://streaming.enantena.com:8000/calafellradio128.mp3?_=1
+#EXTINF:-1,Calamarrradio
+http://www.calamarrradio.org:8000/stream
+#EXTINF:-1,Canal 2000 La Solana
+http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+#EXTINF:-1,Canal 4 Radio
+http://91.121.156.27:8011/stream#.mp3
+#EXTINF:-1,Canal Blau
+https://enacast.com/canalblau/streams/SD
+#EXTINF:-1,Canal del Misterio
+http://node-01.zeno.fm/zr1ntv61fchvv?rj-ttl=5\u0026rj-tok=AAABgJ9nTXsAez34o-bx46RAbw
+#EXTINF:-1,Canal Fiesta Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/playlist.m3u8
+#EXTINF:-1,Canal Sur Cordoba
+https://cdnlive.shooowit.net/rtvalive/smil:channel12.smil/playlist.m3u8
+#EXTINF:-1,Canal Sur Flamenco Radio
+http://cdnlive.shooowit.net/rtvalive/smil:channel7.smil/chunklist_b250000.m3u8
+#EXTINF:-1,Canal Sur Granada
+https://cdnlive.shooowit.net/rtvalive/smil:channel13.smil/chunklist_b250000.m3u8
+#EXTINF:-1,CANAL SUR RADIO JEREZ
+http://cdnlive.shooowit.net/rtvalive/smil:channel18.smil/playlist.m3u8
+#EXTINF:-1,Canal Sur Radio Música
+https://cdnlive.shooowit.net/rtvalive/smil:channel10.smil/chunklist_b250000.m3u8
+#EXTINF:-1,Carrusel FM
+http://server6.20comunicacion.com:8921/
+#EXTINF:-1,Catalunya Informació (Catinfo)
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
+#EXTINF:-1,Catalunya Música (CatMúsica)
+https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3
+#EXTINF:-1,Catalunya Radio
+http://www.catradio.cat/directes/catradio_http.m3u
+#EXTINF:-1,Chanquete FM Málaga
+http://portalradio.es:8008/
+#EXTINF:-1,China FM 97.4
+http://ns3.mycloud-apps.es:8000/stream
+#EXTINF:-1,Chocolate FM
+http://streaming5.elitecomunicacion.es:8082/live.mp3
+#EXTINF:-1,Chocolate FM [calidad móvil-low bandwidth]
+http://streaming5.elitecomunicacion.es:8082/live32.aac
+#EXTINF:-1,Chocolate FM HD
+http://streaming5.elitecomunicacion.es:8030/live.mp3
+#EXTINF:-1,Cienciaes
+http://ns331078.ip-176-31-120.eu:8000/mpd
+#EXTINF:-1,Cienciaes.com
+http://ns331078.ip-176-31-120.eu:8000/mpd.m3u
+#EXTINF:-1,Clásica FM Radio
+http://edge.mixlr.com/channel/asnfw
+#EXTINF:-1,CMM Castilla La Mancha
+https://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+#EXTINF:-1,Contrabanda FM
+http://www.contrabanda.org:8000/contrabanda
+#EXTINF:-1,Cool Deep
+http://5.39.86.44:8017/stream-mp3-CoolDeep
+#EXTINF:-1,Coolmusic Radio - Cool Coffee
+http://5.39.86.44:8006/stream-mp3-CoolCoffee
+#EXTINF:-1,COPE Albacete
+https://albacete-copesedes-flucast.flumotion.com/copesedes/albacete.mp3.m3u
+#EXTINF:-1,COPE Badajoz
+https://wecast-b02-03.flumotion.com/copesedes/badajoz.mp3
+#EXTINF:-1,Cope Carballiño
+http://radio.copecarballino.es:8000/directo.mp3
+#EXTINF:-1,COPE Coruña
+https://lacoruna-copesedes-rrcast.flumotion.com/copesedes/lacoruna-low.mp3
+#EXTINF:-1,Cope Deportes
+https://net2-cope-rrcast.flumotion.com/cope/net2-low.mp3
+#EXTINF:-1,Cope Directo 2
+https://flucast07-o-cloud.flumotion.com/cope/net2.mp3
+#EXTINF:-1,Cope Gijón
+https://wecast-b03-02.flumotion.com/copesedes/gijon.mp3
+#EXTINF:-1,Cope Granada
+https://granada-copesedes-flucast.flumotion.com/copesedes/granada.mp3.m3u
+#EXTINF:-1,Cope Huelva
+https://wecast-b03-01.flumotion.com/copesedes/huelva.mp3
+#EXTINF:-1,COPE Málaga
+http://net1.cope.stream.flumotion.com/cope/net1.mp3.m3u
+#EXTINF:-1,COPE Menorca
+https://menorca-copesedes-flucast.flumotion.com/copesedes/menorca.mp3.m3u
+#EXTINF:-1,Cope Murcia
+https://wecast-b03-01.flumotion.com/copesedes/murcia.mp3
+#EXTINF:-1,COPE Oviedo
+https://wecast-b03-02.flumotion.com/copesedes/asturias.mp3
+#EXTINF:-1,COPE Pontevedra
+https://wecast-b03-01.flumotion.com/copesedes/pontevedra.mp3
+#EXTINF:-1,Cope Pozoblanco
+http://srv01.redsanmarcos.com:8012/stream
+#EXTINF:-1,COPE Santander
+http://santander.copesedes.stream.flumotion.com/copesedes/santander.mp3.m3u
+#EXTINF:-1,Cope Sevilla
+http://sevilla.copesedes.stream.flumotion.com/copesedes/sevilla.mp3.m3u
+#EXTINF:-1,COPE Valencia
+https://wecast-b03-01.flumotion.com/copesedes/valencia.mp3
+#EXTINF:-1,Cope Zaragoza
+http://wecast-m01-05.flumotion.com/copesedes/zaragoza.mp3
+#EXTINF:-1,Costa Blanca FM
+https://costablancafm.stream:18106/
+#EXTINF:-1,Costa del Mar
+http://sc-costadelmar.1.fm:10152/
+#EXTINF:-1,Costa Del Mar - Chillout (AAC 96kbps)
+http://stream.cdm-chillout.com:8020/stream-AAC-Chill
+#EXTINF:-1,Costa Del Mar Smooth Jazz
+https://radio4.cdm-radio.com:18024/stream-mp3-Smooth
+#EXTINF:-1,Cristianos - Christen auf Spanisch
+http://stream.laut.fm/cristianos.pls
+#EXTINF:-1,CUAC FM
+https://streaming.cuacfm.org/cuacfm.ogg
+#EXTINF:-1,CUAC FM (MP3)
+https://streaming.cuacfm.org/cuacfm-128k.mp3
+#EXTINF:-1,Cugat Ràdio
+http://directe.cugat.cat/directeHQ.mp3
+#EXTINF:-1,DanceControl
+http://streaming.dancecontrol.net:8000/
+#EXTINF:-1,Das Inselradio Mallorca
+http://stream.inselradio.com:20800/high.inselradio.mp3
+#EXTINF:-1,Decisión Radio
+https://s20.prositel.net:9095/decision-radio
+#EXTINF:-1,Diez TV
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1,Digital hits
+http://digitalhits.frilab.com:8000/digitalhits
+#EXTINF:-1,Diversia Radio Activa
+https://vivo.miradio.in/8120/stream
+#EXTINF:-1,dj mapache
+http://stream.zeno.fm/tr9qda8tz7zuv.m3u
+#EXTINF:-1,DMT-FM Psytrance
+http://108.61.34.50:7069/live
+#EXTINF:-1,DMT-FM Psytrance - EU Server
+https://eu2-centova.serverse.com/proxy/ywycfrxn/stream
+#EXTINF:-1,dublab bcn
+http://dublabbcn.out.airtime.pro:8000/dublabbcn_a
+#EXTINF:-1,Edenex
+https://cervera.eldialdigital.com:23121/stream
+#EXTINF:-1,EITB Euskal Kantak
+http://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8
+#EXTINF:-1,EITB Irratia
+http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3
+#EXTINF:-1,El 9 FM
+http://radio.el9fm.cat:8000/stream
+#EXTINF:-1,El Prat Radio
+http://streaming.enantena.com:8000/elpratradio56.mp3
+#EXTINF:-1,ElectroDanceWorld Radio
+http://stream.zeno.fm/s70bvdgqks8uv
+#EXTINF:-1,Elite Fm
+http://stream.zeno.fm/atsvz45arm0uv
+#EXTINF:-1,Elite fm new
+http://stream.zeno.fm/atsvz45arm0uv.m3u
+#EXTINF:-1,Elixir
+https://radio.grupoelixir.es:9006/stream
+#EXTINF:-1,ENERGIA FM - CARAVACA DE LA CRUZ 90.0
+http://streaming5.elitecomunicacion.es:8128/caravaca?type=.mp3
+#EXTINF:-1,ES Radio
+https://livestreaming3.esradio.fm/stream64.mp3
+#EXTINF:-1,Esencia Radio
+http://stream.zenolive.com/qaxnuxap0rquv
+#EXTINF:-1,Esencia Radio Tres Cantos
+http://stream.zenolive.com/51nrp77pbsquv
+#EXTINF:-1,Esplugues FM
+https://antares.dribbcast.com/proxy/espluguesfm?mp=/stream
+#EXTINF:-1,esRadio Albacete
+http://82.223.28.73:8000/esradioalbacete.mp3
+#EXTINF:-1,EsRadio Asturias
+http://server9.emitironline.com:8822/radio
+#EXTINF:-1,esRadio Elche
+http://ns6.emisionlocal.com:8040/
+#EXTINF:-1,esRadio Galicia
+https://libertaddigital-radio-live2.flumotion.com/libertaddigital/ld-live2-low.mp3
+#EXTINF:-1,esRadio Madrid
+http://livestreaming3.esradio.fm/stream64.mp3
+#EXTINF:-1,esradio Malaga
+https://server.spainbroadcast.net/8038/stream
+#EXTINF:-1,esRadio Malaga
+https://server.spainbroadcast.net/8032/stream
+#EXTINF:-1,EsRadio Principal
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
+#EXTINF:-1,esRadio Tenerife
+https://panel.soydigital.fm:8008/stream?1624016697144
+#EXTINF:-1,esRadio Valencia
+https://streaming.esradiovalencia.es:58001/stream
+#EXTINF:-1,esRadio_AAC
+http://livestreaming9.esradio.fm/aaclive32
+#EXTINF:-1,ETIB Euskal Kantak
+https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+#EXTINF:-1,Euskadi irratia
+http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3
+#EXTINF:-1,Euskalerria Irratia
+http://server4.beatproducciones.com:8014/
+#EXTINF:-1,Exito Radio
+http://5.135.183.124:9252/stream
+#EXTINF:-1,Feel Good Radio Costa del Sol
+https://caster05.streampakket.com/proxy/8321/stream
+#EXTINF:-1,Flaixbac
+https://flaixbac.streaming-pro.com:8005/flaixbac.mp3
+#EXTINF:-1,Flip flap Radio
+http://198.7.62.157:8375/stream1/stream.mp3
+#EXTINF:-1,Flipa FM
+https://liveradio.com.es:8006/stream
+#EXTINF:-1,FM MUSICAL
+https://stream.zenolive.com/mpgqwn4h0wzuv.aac
+#EXTINF:-1,FM Pozuelo Radio
+http://stream.dar.fm/39797
+#EXTINF:-1,FORMULA 10 MUSICA
+https://formula10musica.stream.laut.fm/formula10musica
+#EXTINF:-1,Formula 30
+http://stm1.emiteonline.com:8001/formula30
+#EXTINF:-1,Fred Film Radio(Español)
+https://s10.webradio-hosting.com/proxy/fredradiosp/stream
+#EXTINF:-1,Free FM
+https://rocafmadrid.radioca.st/
+#EXTINF:-1,Free FM Classics
+https://xxdelgado.radioca.st/
+#EXTINF:-1,Free FM Love
+http://stream.zeno.fm/umsptm6rvy8uv
+#EXTINF:-1,Free FM Top 100
+http://stream.zeno.fm/a5h7vfret68uv
+#EXTINF:-1,Free FM X-Mas
+http://stream.zeno.fm/h60er015v68uv
+#EXTINF:-1,Fresh Radio
+http://stream.zenolive.com/gzaf75yevceuv.m3u
+#EXTINF:-1,fresh radio spain
+https://freshrad.radioca.st/stream
+#EXTINF:-1,FUNKY TRACKS RADIO
+https://streaming2.elitecomunicacion.es:8134/stream
+#EXTINF:-1,Galicia America TV
+http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
+#EXTINF:-1,Galicia Europe TV
+http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
+#EXTINF:-1,Gaztea Irratia
+http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3
+#EXTINF:-1,Gente Radio
+https://pr1cen101.emisionlocal.com/proxy/genteradio?mp=/live
+#EXTINF:-1,Girona TV
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1,Gladys Palmera Coleccion
+http://streams.radio.co/s496c4d2e8/listen
+#EXTINF:-1,Gladys Palmera Latin Fresh
+https://streamer.radio.co/s00c7ec6fa/listen
+#EXTINF:-1,Gladys Palmera Radio Online
+http://streamer.radio.co/sb28a7fb81/listen
+#EXTINF:-1,GODELLA RADIO by Xopo
+https://ns6.emisionlocal.com/proxy/radiogodella?mp=/stream\u00261639932362191
+#EXTINF:-1,Gozadera FM
+https://server.spainbroadcast.net:10998/?ver=701532
+#EXTINF:-1,Gran Via Radio
+https://antares.dribbcast.com/proxy/granviaradio?mp=/stream
+#EXTINF:-1,Happy FM
+https://happyfm.streaming-pro.com:8010/live.mp3
+#EXTINF:-1,HappyFM-Fuerteventura
+https://happyfuerteventura.streaming-pro.com:6003/live
+#EXTINF:-1,Harmony FM
+https://server8.emitironline.com:18064/stream
+#EXTINF:-1,Hit radio
+http://stm1.emiteonline.com:8004/hitelgrado
+#EXTINF:-1,HIT103
+http://streaming.enantena.com:8000/radiovalls128.mp3
+#EXTINF:-1,Hitz 90s FM
+https://stream.zeno.fm/1q3dwmd6yf8uv
+#EXTINF:-1,HITZ 91.0
+https://stream.zeno.fm/f2qmny74gd0uv
+#EXTINF:-1,Hitz Africa FM
+http://stream.zeno.fm/2s5dd1tzem8uv
+#EXTINF:-1,Hitz Funky Radio
+https://stream.zeno.fm/azgx0ktf4p8uv
+#EXTINF:-1,Hitz Latino FM
+http://stream.zeno.fm/aq899a53rs8uv
+#EXTINF:-1,HKM Radio
+https://stream.zenolive.com/rhf9cqkz3yzuv.aac
+#EXTINF:-1,Hola 95.7 FM 1 Costa Calma
+http://5.135.183.124:8207/stream
+#EXTINF:-1,Holiday Gym FM
+http://holidaygym.emitironline.com/
+#EXTINF:-1,IB3 Ràdio Menorca
+http://streaming01.ib3radio.com:8000/ib3radio_menorca
+#EXTINF:-1,IBI RADIO by Xopo
+https://streaming.enacast.com/radioibiSD.mp3
+#EXTINF:-1,Ibiza Global Radio
+http://ibizaglobalradio.streaming-pro.com:8024/
+#EXTINF:-1,Ibiza Live Radio
+https://streams.radio.co/sdc9cfaf77/listen
+#EXTINF:-1,Ibiza Radios Relax
+http://54.38.43.201:8036/stream-128kmp3-IbizaRelax
+#EXTINF:-1,Ibiza Sonica Radio
+http://s3.sonicabroadcast.com:8136/.m3u
+#EXTINF:-1,Ibiza Stardust Radio
+https://www.radioking.com/play/ibiza-stardust-radio-1
+#EXTINF:-1,IbizaRadio1
+https://listen.radioking.com/radio/10045/stream/20693
+#EXTINF:-1,Indie Fm
+http://188.165.236.90:8008/
+#EXTINF:-1,Inolvidable FM
+https://uk1.streamingpulse.com/ssl/inolvidablefm
+#EXTINF:-1,Inselradio Mallorca
+http://addrad.io/445fxk9
+#EXTINF:-1,Intimidad Radio
+https://eu1.lhdserver.es:9119/stream
+#EXTINF:-1,Intimidad Relax
+https://eu1.lhdserver.es:9121/stream
+#EXTINF:-1,Irati Irratia
+http://188.93.73.7:8102/stream
+#EXTINF:-1,Irola Irratia
+http://s.streampunk.cc/irola_irratia.mp3
+#EXTINF:-1,Isla 106
+https://stream.isla106.com/isla106
+#EXTINF:-1,Italiana FM Mallorca
+https://radio.italiana.fm:8003/ita-fm-cadena-web?ver=665455
+#EXTINF:-1,Jazz Radio Spain
+https://stream.tunerplay.com/radio/8020/jazzradiospain.mp3
+#EXTINF:-1,kanvas.fm
+https://streamkanvas.es/kanvasfm.mp3
+#EXTINF:-1,KBKY Radio Alfa y Omega 94,1 FM
+http://37.59.41.35:6114/
+#EXTINF:-1,KISS FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
+#EXTINF:-1,Kiss Music FM
+https://stream.zeno.fm/aq899a53rs8uv
+#EXTINF:-1,Kyoto FM
+http://178.32.60.136:8148/
+#EXTINF:-1,L'OM PICASSENT RADIO by Xopo
+http://radiolom.es:8800/\u0026type=mp3
+#EXTINF:-1,La 1 TVE
+https://rtvelivestream-lvlt.rtve.es/la1_dvr.m3u8
+#EXTINF:-1,La 2 TVE
+https://rtvelivestream-lvlt.rtve.es/la2_dvr.m3u8
+#EXTINF:-1,La Diez Capital Radio
+http://panel.soydigital.fm:8012/live
+#EXTINF:-1,La Fresca FM
+http://stream.produccionesdale.com:8899/moviles
+#EXTINF:-1,La Fresca FM (AltaCalidad)
+https://stream.produccionesdale.com:8900/altacalidad#.mp3
+#EXTINF:-1,La jungla Radio
+https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3
+#EXTINF:-1,LA JUNGLA RADIO ZARAGOZA
+http://st1.urbanrevolution.es:8000/4gzaragoza
+#EXTINF:-1,La Mega Estación
+https://eu1.lhdserver.es:9049/stream?1630947253320
+#EXTINF:-1,la nueva enjoy
+http://streaming.lanuevaenjoy.com:8000/mobile
+#EXTINF:-1,La Onda de Caño Roto
+https://cervera.eldialdigital.com:23181/stream
+#EXTINF:-1,La Plana Ràdio
+https://enacast.com/laplanaradio/streams/HD
+#EXTINF:-1,La Suegra
+http://131.153.56.235:9300/stream/1
+#EXTINF:-1,La Tropical Radio
+http://s28.myradiostream.com:27372/listen.mp3
+#EXTINF:-1,La Urban Radio
+https://st1.urbanrevolution.es:8443/hispano
+#EXTINF:-1,Libertad FM - Radio Libertad
+http://directo.libertadfm.es:8000/hq-libertadfm.mp3
+#EXTINF:-1,LLOSA FM RADIO by Xopo
+https://via.vulstream.com/radio/8260/radio.mp3?1639937230
+#EXTINF:-1,Loca FM 80s
+http://s02.fjperezdj.com:8075/live
+#EXTINF:-1,Loca FM Ambient
+http://s02.fjperezdj.com:8036/live
+#EXTINF:-1,Loca FM chillout
+http://s02.fjperezdj.com:8006/live
+#EXTINF:-1,Loca fm dance
+http://s02.fjperezdj.com:8025/live
+#EXTINF:-1,Loca FM Deep Techno
+http://s02.fjperezdj.com:8066/live
+#EXTINF:-1,Loca FM live
+http://81.46.247.191:8045/live
+#EXTINF:-1,Loca FM Twchno
+http://s02.fjperezdj.com:8050/live
+#EXTINF:-1,Loca FM Urban
+http://81.25.120.165:8015/live
+#EXTINF:-1,Loca Latino Córdoba
+http://streaming5.elitecomunicacion.es:8034/stream
+#EXTINF:-1,Loca Progressive House
+https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146
+#EXTINF:-1,LocaFM Melodic Deep
+http://s02.fjperezdj.com:8056/live
+#EXTINF:-1,Los 40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:-1,Los 40 Catalunya
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC
+#EXTINF:-1,Los 40 Dance
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC
+#EXTINF:-1,Los 40 Principales León
+http://www.radioleon.com:8000/radio.m3u
+#EXTINF:-1,Los 40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+#EXTINF:-1,LOVE RADIO - LOVE.radio
+https://loveradio.streamingmedia.it/espana
+#EXTINF:-1,M80 Radio
+http://playerservices.streamtheworld.com/pls/M80RADIO.pls
+#EXTINF:-1,Mallorca Sunshine Radio
+https://stream.inselradio.com/high.sunshine.mp3
+#EXTINF:-1,Marca Cordoba
+http://str2.mediatelekom.net:9316/#.mp3%22%20type=%22audio/mp3
+#EXTINF:-1,Marca Valladolid
+https://radiomarcavalladolid.streaming-pro.com:6106/radiomarca.mp3
+#EXTINF:-1,Master FM - Guadalhorce
+https://radios.lamaster.es:8000/guadalhorce
+#EXTINF:-1,Mataró Radio
+http://radio.cdnmedia.tv:8030/mataroradio
+#EXTINF:-1,Matryoshka.FM (Матрёшка)
+http://213.159.214.57:8000/matryoshkaspain
+#EXTINF:-1,MDT Radio
+http://82.223.115.92:8020/ZaraEstudio
+#EXTINF:-1,Mega St☆r Spain
+http://stream.zeno.fm/04uk5f3aqs8uv
+#EXTINF:-1,MegaStarFM
+http://megastar.cope.stream.flumotion.com/cope/megastar.mp3.m3u
+#EXTINF:-1,Mi Amigo Radio, de échte
+https://stan319bisbis.radioca.st/stream
+#EXTINF:-1,Mindalia Barcelona
+http://188.165.131.13:8012/live
+#EXTINF:-1,Mindalia Madrid
+http://188.165.131.13:8008/live
+#EXTINF:-1,Mindalia Radio
+http://188.165.131.13:9994/
+#EXTINF:-1,Mindalia Radio Voz
+http://188.165.131.13:8010/live
+#EXTINF:-1,MISLATA RADIO by Xopo
+https://relay.stream.enacast-cloud.com:40254/mislataradioHD.mp3
+#EXTINF:-1,Misterium
+https://streamingv2.shoutcast.com/Misterium
+#EXTINF:-1,Misterium II
+http://streamingv2.shoutcast.com/misterium-ii
+#EXTINF:-1,Mix Radio Gran Canaria
+https://mixfm.radionetz.de/mixfm.mp3
+#EXTINF:-1,Mix-Radio
+http://radionetz.de:8000/mixfm.mp3.m3u
+#EXTINF:-1,Mix80Radio
+https://stream.tunerplay.com/radio/8040/radio.mp3
+#EXTINF:-1,Montcada Ràdio
+http://streaming.enantena.com:8000/montcada128.mp3
+#EXTINF:-1,Montserrat Ràdio
+https://enacast.com/radioabadiademontserrat/streams/HD
+#EXTINF:-1,MortalFM
+http://server6.20comunicacion.com:8044/
+#EXTINF:-1,Murcia 7 TV
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:-1,musicBox
+http://stm1.emiteonline.com:8025/musicbox
+#EXTINF:-1,MuyBuena
+https://stream.mediasector.es/radio/8010/muybuena.mp3
+#EXTINF:-1,naiz: irratia
+https://zuzenean.naiz.eus/naiz_irratia.mp3
+#EXTINF:-1,Navarra TV
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1,No More No Less
+http://s3.sonicabroadcast.com:8750/.m3u
+#EXTINF:-1,Nostalgia FM
+https://server.spainbroadcast.net/8028/stream?ver=717184
+#EXTINF:-1,Nostalgia FM - Baladas
+http://server.spainbroadcast.net:8004/stream/
+#EXTINF:-1,Nostalgia Fm - Disco
+http://server.spainbroadcast.net:8006/stream/
+#EXTINF:-1,Nostalgia Fm - Latino
+http://server.spainbroadcast.net:8008/stream/
+#EXTINF:-1,Nostalgia Fm - Lolailo FM
+http://server.spainbroadcast.net:8010/stream/
+#EXTINF:-1,Nostalgia Fm – Rock
+http://server.spainbroadcast.net:8012/stream/
+#EXTINF:-1,Nostalgia FM 60s-70s
+http://server.spainbroadcast.net:8014/stream/
+#EXTINF:-1,NoTypicalRadio - Rap
+https://rap.notypicalradio.com/?icy=http
+#EXTINF:-1,NoTypicalRadio - Rock
+https://rock.notypicalradio.com/?icy=http
+#EXTINF:-1,OcioNews
+https://stream.zeno.fm/a8a77f0ygchvv
+#EXTINF:-1,OcioNews Plus
+https://stream.zeno.fm/vgv984uznfhvv
+#EXTINF:-1,OcioNews Urbanwine
+https://stream.zeno.fm/uhgec94rxhhvv
+#EXTINF:-1,OcioNews Xtra
+https://stream.zeno.fm/gqa86qyygchvv
+#EXTINF:-1,OMC Radio
+https://www.omcradio.org/emision.m3u
+#EXTINF:-1,Ona Malgrat
+http://streaming.enantena.com:8000/onamalgrat128.mp3
+#EXTINF:-1,Ona Mediterrània
+https://enacast.com/onamediterrania/streams/HD
+#EXTINF:-1,onda 10
+https://stream.laut.fm/onda10
+#EXTINF:-1,Onda 80 Radio Bellvitge
+https://antares.dribbcast.com/proxy/onda80/stream
+#EXTINF:-1,Onda Aragonesa
+http://eu1.lhdserver.es:9046/stream
+#EXTINF:-1,Onda Cero - Mallorca
+http://livefastly-webs.ondacero.es/mallorca-pull/audio/master.m3u8
+#EXTINF:-1,Onda Cero A Coruña
+https://livefastly-webs.ondacero.es/acoruna-pull/audio/chunklist.m3u8
+#EXTINF:-1,Onda Cero Alzira
+https://livefastly-webs.ondacero.es/alzira-pull/audio/master.m3u8
+#EXTINF:-1,Onda Cero Cádiz
+https://livefastly-webs.ondacero.es/cadiz-pull/audio/master.m3u8
+#EXTINF:-1,Onda Cero Gijón
+https://livefastly-webs.ondacero.es/gijon-pull/audio/chunklist.m3u8
+#EXTINF:-1,Onda Cero Granada
+https://live-audio.ondacero.es/radio/ondacero/bitrate_2.m3u8
+#EXTINF:-1,Onda Cero Huelva
+https://livefastly-webs.ondacero.es/huelva-pull/audio/chunklist.m3u8
+#EXTINF:-1,Onda Cero Málaga
+https://livefastly-webs.ondacero.es/malaga-pull/audio/master.m3u8
+#EXTINF:-1,Onda Cero Menorca
+https://livefastly-webs.ondacero.es/menorca-pull/audio/master.m3u8
+#EXTINF:-1,Onda Cero Murcia
+https://livefastly-webs.ondacero.es/murcia-pull/audio/chunklist.m3u8
+#EXTINF:-1,Onda Cero Noroeste
+http://stream.ondaceronoroeste.es:8000/stream
+#EXTINF:-1,Onda Cero Ourense
+http://livefastly-webs.ondacero.es/ourense-pull/audio/master.m3u8
+#EXTINF:-1,Onda Cero Oviedo
+https://livefastly-webs.ondacero.es/oviedo-pull/audio/master.m3u8
+#EXTINF:-1,Onda Cero Pontevedra
+https://livefastly-webs.ondacero.es/pontevedra-pull/audio/master.m3u8
+#EXTINF:-1,Onda cero Santander
+https://livefastly-webs.ondacero.es/santander/audio/chunklist.m3u8
+#EXTINF:-1,Onda Cero Santander
+https://livefastly-webs.ondacero.es/santander-pull/audio/chunklist.m3u8
+#EXTINF:-1,Onda Cero Sevilla
+https://livefastly-webs.ondacero.es/sevilla-pull/audio/master.m3u8
+#EXTINF:-1,Onda Cero Vitoria
+https://livefastly-webs.ondacero.es/vitoria-pull/audio/chunklist.m3u8
+#EXTINF:-1,onda digital fm guadalajara
+http://radio.serviciosderadio.com:8060/radio.mp3
+#EXTINF:-1,Onda Fuenlabrada
+http://radioserver7.profesionalhosting.com:41008/stream.mp3
+#EXTINF:-1,Onda Guillena Radio
+http://w2.guillena.org:8000/ondaguillenaradio.mp3
+#EXTINF:-1,Onda Joven Sevilla
+https://antares.dribbcast.com/proxy/ondajovensevilla2?mp=/stream?mp=/stream?mp=/live
+#EXTINF:-1,Onda Madrid 106.0
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8
+#EXTINF:-1,Onda Pro
+https://hoth.alonhosting.com:1045/stream
+#EXTINF:-1,Onda Sevilla Radio
+https://streaming2.elitecomunicacion.es:8630/stream?type=.mp3
+#EXTINF:-1,Onda Vasca
+http://www.ondavasca.com:8000/bizkaia
+#EXTINF:-1,Onda Vasca Gipuzkoa
+http://www.ondavasca.com:8000/gipuzkoa
+#EXTINF:-1,ONDA WANTUKI
+https://stream.zeno.fm/5dfkzqm70s8uv
+#EXTINF:-1,Ondacero Albacete
+https://livefastly-webs.ondacero.es/albacete-pull/audio/chunklist.m3u8
+#EXTINF:-1,Ondacero Granada
+https://livefastly-webs.ondacero.es/granada-pull/audio/chunklist.m3u8
+#EXTINF:-1,OndaMadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/bitrate_2.m3u8
+#EXTINF:-1,Ondamar80
+https://antares.dribbcast.com/proxy/ondamar80?mp=/live
+#EXTINF:-1,OpenLab Radio
+https://ice04.fluidstream.net/openlab.mp3
+#EXTINF:-1,Oro
+http://185.23.192.118:8002/
+#EXTINF:-1,Otaku MusicRadio
+http://kathy.torontocast.com:2880/listen.pls?sid=1
+#EXTINF:-1,Pepe Radio
+http://server10.emitironline.com:8032/
+#EXTINF:-1,Perfect Deep House
+https://stream.radiojar.com/asngk2sg798uv?1659885393
+#EXTINF:-1,PETRER RADIO by Xopo
+https://radioserver10.profesionalhosting.com:45969/stream
+#EXTINF:-1,PIMIENTA RADIO by Xopo
+https://cervera.eldialdigital.com:21182/stream?type=http\u0026ampnocache=10
+#EXTINF:-1,PINOSO RADIO by Xopo
+https://server10.emitironline.com:9072/radio.mp3
+#EXTINF:-1,PlayFM
+http://radioplaneta.emitironline.com:8000/
+#EXTINF:-1,PlayTrance Radio - Main Channel
+https://live-ff.playtrance.com/playtrance-main.mp3
+#EXTINF:-1,Pontevedra Viva
+https://server8.emitironline.com:9402/radio
+#EXTINF:-1,Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1,PRA RADIO by xopo
+http://154.58.11.34:8001/?
+#EXTINF:-1,PUNK IRRATIA
+https://punkirratia.net:8443/punk
+#EXTINF:-1,Punt 7 Ràdio
+https://enacast.com/punt7radiosantceloni/streams/HD
+#EXTINF:-1,Punto Sentimientos
+https://streamserver3.radioproducciones.com/8106/stream
+#EXTINF:-1,Pure Ibiza Radio
+https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio
+#EXTINF:-1,Qfm
+http://51.255.235.165:5092/
+#EXTINF:-1,RAC1 +1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+#EXTINF:-1,RAC1 HD
+https://streaming.rac1.cat/Rac1-high
+#EXTINF:-1,rac105
+https://radiolive24.live/rac105/?play=1
+#EXTINF:-1,Ràdio 010
+http://hyades.shoutca.st:8544/?_=1#.mp3
+#EXTINF:-1,radio 105 fm
+http://88.216.203.16:5901/stream/swyh.mp3
+#EXTINF:-1,Radio 4G
+http://sergiobastida.es:8000/radio4gmurcia
+#EXTINF:-1,Radio 5 Aragón
+https://crtve-rne5-zgz.cast.addradio.de/crtve/rne5/zgz/mp3/high
+#EXTINF:-1,Radio 5 Galicia - RNE
+https://crtve-rne5-lcg.cast.addradio.de/crtve/rne5/lcg/mp3/high
+#EXTINF:-1,Radio 5 RNE
+https://crtve-rne5-main.cast.addradio.de/crtve/rne5/main/aac/high
+#EXTINF:-1,Ràdio 90
+https://giss.tv:666/r90.mp3
+#EXTINF:-1,Ràdio Abrera
+http://streaming.enantena.com:8000/radioabrera128.mp3
+#EXTINF:-1,Ràdio Alfacs
+https://radioalfacs.com/emissioogg
+#EXTINF:-1,Radio allegria2
+http://stream.zeno.fm/9ewh90xz4rhvv
+#EXTINF:-1,Radio Almaina
+http://radiobot.radioslibres.info:8020/radio.mp3
+#EXTINF:-1,Ràdio Altea
+https://enacast.com/radioaltea/streams/HD
+#EXTINF:-1,Radio Amistad
+http://srv0410.radiostreaming.es:8026/
+#EXTINF:-1,Radio Andújar
+http://srv01.redsanmarcos.com:9017/live
+#EXTINF:-1,Radio Animex
+https://stream.zeno.fm/t6at38q5yf8uv
+#EXTINF:-1,Ràdio Arbúcies
+http://streaming.enantena.com:8000/radioarbucies128.mp3
+#EXTINF:-1,Ràdio Arenys
+http://streaming.enantena.com:8000/radioarenysdemar128.mp3
+#EXTINF:-1,Ràdio Arenys de Munt
+https://enacast.com/radioarenysdemunt/streams/HD
+#EXTINF:-1,Radio Argayo
+https://radiobot.radioslibres.info/radio/8030/radio.ogg
+#EXTINF:-1,Ràdio Arrels
+http://stream.radios-arra.fr:8000/radioarrels
+#EXTINF:-1,Ràdio Artà
+http://91.121.156.27:8012/stream
+#EXTINF:-1,Ràdio Balaguer
+http://79.148.125.91:8020/stream.nsv
+#EXTINF:-1,Radio Balear 99.9 Palma de Mallorca
+http://server6.20comunicacion.com:8076/
+#EXTINF:-1,Radio Berja (Almeria)
+http://str2.mediatelekom.net:9896/stream
+#EXTINF:-1,Radio Betis
+https://wecast-b01-04.flumotion.com/betistv/radio1.mp3
+#EXTINF:-1,Ràdio Blanes
+http://streaming.enantena.com:8000/radioblanes128.mp3
+#EXTINF:-1,Radio Brand
+https://radiobrand.es:8084/RadioBrand
+#EXTINF:-1,Radio Bronka
+http://radiobronka.info/escuchar
+#EXTINF:-1,Ràdio Cabanes
+http://chrome.frilab.com:8000/radiocabanes
+#EXTINF:-1,Ràdio Cabrera
+http://phoenix.ewserver.net:8000/radio_cabrera
+#EXTINF:-1,Radio Cadena Stereo España
+http://stream.zeno.fm/kpe30u471mruv

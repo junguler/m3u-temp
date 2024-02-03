@@ -1,107 +1,107 @@
 #EXTM3U
-#EXTINF:-1,Radio Kinnekulle
+#EXTINF:-1,Radio_Kinnekulle
 http://lyssna.radiokinnekulle.se:8039/RadioK.mp3
-#EXTINF:-1,Radio Boden
+#EXTINF:-1,Radio_Boden
 https://radio.bodensradio.se:8443/stream.mp3
-#EXTINF:-1,Helsingborgs Närradio
+#EXTINF:-1,Helsingborgs_Närradio
 http://deb.patrikmalmgrenrask.se:8010/
 #EXTINF:-1,Rockklassiker
 https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_mp3
-#EXTINF:-1,SR P1
+#EXTINF:-1,SR_P1
 https://live-cdn.sr.se/pool2/p1/p1.isml/index.m3u8
-#EXTINF:-1,SR P2
+#EXTINF:-1,SR_P2
 https://live-cdn.sr.se/pool2/p2musik/p2musik.isml/index.m3u8
-#EXTINF:-1,SR P3
+#EXTINF:-1,SR_P3
 https://live-cdn.sr.se/pool1/p3/p3.isml/index.m3u8
-#EXTINF:-1,SR P4
+#EXTINF:-1,SR_P4
 https://live-cdn.sr.se/pool1/p4kalmar/p4kalmar.isml/index.m3u8
-#EXTINF:-1,Sveriges Radio Finska
+#EXTINF:-1,Sveriges_Radio_Finska
 https://live-cdn.sr.se/pool2/sisuradio/sisuradio.isml/index.m3u8
-#EXTINF:-1,Ekot sänder direkt
+#EXTINF:-1,Ekot_sänder_direkt
 https://live-cdn.sr.se/pool2/ekotsanderdirekt/ekotsanderdirekt.isml/index.m3u8
-#EXTINF:-1,SR P3 Din gata
+#EXTINF:-1,SR_P3_Din_gata
 https://live-cdn.sr.se/pool3/dingata/dingata.isml/index.m3u8
-#EXTINF:-1,SR P4 Plus
+#EXTINF:-1,SR_P4_Plus
 https://live-cdn.sr.se/pool2/srextra17/srextra17.isml/index.m3u8
-#EXTINF:-1,SR P6
+#EXTINF:-1,SR_P6
 https://live-cdn.sr.se/pool2/srinternational/srinternational.isml/index.m3u8
-#EXTINF:-1,Radioapans knattekanal
+#EXTINF:-1,Radioapans_knattekanal
 https://live-cdn.sr.se/pool1/knattekanalen/knattekanalen.isml/index.m3u8
-#EXTINF:-1,SR Sápmi
+#EXTINF:-1,SR_Sápmi
 https://live-cdn.sr.se/pool1/srsapmi/srsapmi.isml/index.m3u8
-#EXTINF:-1,NRJ Sverige
+#EXTINF:-1,NRJ_Sverige
 https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3
-#EXTINF:-1,Radio Topp 40
+#EXTINF:-1,Radio_Topp_40
 https://live-bauerse-fm.sharp-stream.com/topp40_mp3
-#EXTINF:-1,Pirate Rock
+#EXTINF:-1,Pirate_Rock
 https://stream.piraterock.se:8101/webradio
-#EXTINF:-1,Mix Megapol
+#EXTINF:-1,Mix_Megapol
 https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3
-#EXTINF:-1,Mix Megapol Göteborg
+#EXTINF:-1,Mix_Megapol_Göteborg
 https://edge-bauersefm-08-gos2.sharp-stream.com/mixmegapolgbg_instream_se_mp3?
-#EXTINF:-1,Vinyl FM
+#EXTINF:-1,Vinyl_FM
 https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_mp3
-#EXTINF:-1,Lugna Klassiker
+#EXTINF:-1,Lugna_Klassiker
 https://live-bauerse-fm.sharp-stream.com/lugnaklassiker_instream_se_mp3
-#EXTINF:-1,Retro FM Sverige
+#EXTINF:-1,Retro_FM_Sverige
 https://live-bauerse-fm.sharp-stream.com/retrofm_mp3
-#EXTINF:-1,Radio Fryksdalen
+#EXTINF:-1,Radio_Fryksdalen
 http://webradio.radiofryksdalen.se:8000/RF_Live
-#EXTINF:-1,Västerås Närradio
+#EXTINF:-1,Västerås_Närradio
 http://46.17.184.39:8000/airtime_128
-#EXTINF:-1,Radio Krokom
+#EXTINF:-1,Radio_Krokom
 http://radiokrokom.ddns.net:80/
-#EXTINF:-1,Radio Active Sverige
+#EXTINF:-1,Radio_Active_Sverige
 https://live-bauerse-fm.sharp-stream.com/radioactive_mp3
-#EXTINF:-1,Radio Falköping
+#EXTINF:-1,Radio_Falköping
 http://lyssna.fnf.nu:8080/fnf.mp3
-#EXTINF:-1,Radio Trollhättan
+#EXTINF:-1,Radio_Trollhättan
 http://lyssna.fnf.nu:8080/radiotrollhattan.mp3
-#EXTINF:-1,Radio Lidingö
+#EXTINF:-1,Radio_Lidingö
 http://radio-lidiingo.duckdns.org:8000/
-#EXTINF:-1,Radio Malmokanalen
+#EXTINF:-1,Radio_Malmokanalen
 http://stream.nsp.se:8000/MNR89_AAC_Hi
-#EXTINF:-1,Linköpings Närradio
+#EXTINF:-1,Linköpings_Närradio
 https://stream.linkopingsnarradio.se:8005/radioprogram
-#EXTINF:-1,Radio Ljungby
+#EXTINF:-1,Radio_Ljungby
 http://lyssna.ljungbykanalen.se/lkweb
-#EXTINF:-1,Power Hit Radio
+#EXTINF:-1,Power_Hit_Radio
 https://fm04-ice.stream.khz.se/fm04_mp3?platform=web
-#EXTINF:-1,Radio Rainbow
+#EXTINF:-1,Radio_Rainbow
 https://wr20-ice.stream.khz.se/wr20_mp3?platform=web
-#EXTINF:-1,Rix FM
+#EXTINF:-1,Rix_FM
 https://fm01-ice.stream.khz.se/fm01_mp3?platform=web
-#EXTINF:-1,Rix FM Fresh
+#EXTINF:-1,Rix_FM_Fresh
 https://wr04-ice.stream.khz.se/wr04_mp3?platform=web
-#EXTINF:-1,Star FM
+#EXTINF:-1,Star_FM
 https://fm05-ice.stream.khz.se/fm05_mp3?platform=web
-#EXTINF:-1,Svenska Favoriter
+#EXTINF:-1,Svenska_Favoriter
 https://wr13-ice.stream.khz.se/wr13_mp3?platform=web
-#EXTINF:-1,106,7 Rockklassiker
+#EXTINF:-1,106,7_Rockklassiker
 http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB\u0026i=rockklassiker_instream_se_mp3
-#EXTINF:-1,A && J
+#EXTINF:-1,A_&&_J
 https://s4.radio.co/s32835e59d/listen
 #EXTINF:-1,AORDreamer
 http://178.33.33.176:8060/listen.pls
-#EXTINF:-1,Bandit Classic Rock
+#EXTINF:-1,Bandit_Classic_Rock
 https://wr11-ice.stream.khz.se/wr11_mp3
-#EXTINF:-1,Bandit ÍRock
+#EXTINF:-1,Bandit_ÍRock
 https://fm02-ice.stream.khz.se/fm02_mp3
-#EXTINF:-1,Bandit Metal
+#EXTINF:-1,Bandit_Metal
 http://wr03-ice.stream.khz.se/wr03_mp3
-#EXTINF:-1,Bandit Rock
+#EXTINF:-1,Bandit_Rock
 http://fm02-ice.stream.khz.se/fm02_mp3
-#EXTINF:-1,Best of ericade.radio
+#EXTINF:-1,Best_of_ericade.radio
 http://legacy.ericade.net:8000/stream/2/
-#EXTINF:-1,Borås Närradio
+#EXTINF:-1,Borås_Närradio
 http://lyssna.fnf.nu:8080/radioboras.mp3
 #EXTINF:-1,BozRadio
 http://streaming.live365.com/a80252
-#EXTINF:-1,BPM Malmö
+#EXTINF:-1,BPM_Malmö
 http://stream.radiojar.com/bbhah441b6quv
-#EXTINF:-1,Country Rocks Radio
+#EXTINF:-1,Country_Rocks_Radio
 http://webradio.dbmedia.se/streams/crr96.pls
-#EXTINF:-1,Dagnys Jukebox
+#EXTINF:-1,Dagnys_Jukebox
 https://ice.nordblommedia.se/dagny.mp3
 #EXTINF:-1,Dansbandsdax.se
 http://dansbandsdax.se/dbd.pls
@@ -109,893 +109,893 @@ http://dansbandsdax.se/dbd.pls
 http://www.guldkanalen.se/static/streamDBK/96AAC.pls
 #EXTINF:-1,Dansbandskanalen.se*
 https://stream.dbmedia.se/dbkMP3
-#EXTINF:-1,FUN RADIO 95,3 Sweden
+#EXTINF:-1,FUN_RADIO_95,3_Sweden
 http://stream.funradio.se:81/live192
-#EXTINF:-1,Gold 102,4
+#EXTINF:-1,Gold_102,4
 http://gold24.xnk.nu:8080/listen.pls
-#EXTINF:-1,Göteborgs Närradio 102.6 MHz
+#EXTINF:-1,Göteborgs_Närradio_102.6_MHz
 http://lyssna.fnf.nu:8080/gnf102.mp3
-#EXTINF:-1,Göteborgs Närradio 103.1 MHz
+#EXTINF:-1,Göteborgs_Närradio_103.1_MHz
 http://lyssna.fnf.nu:8080/gnf103.mp3
-#EXTINF:-1,Göteborgs Närradio 94.9 Mhz
+#EXTINF:-1,Göteborgs_Närradio_94.9_Mhz
 http://lyssna.fnf.nu:8080/gnf094.mp3
 #EXTINF:-1,Gubbradio
 http://192.184.9.158:8302/
-#EXTINF:-1,Guldkanalen 60-tal
+#EXTINF:-1,Guldkanalen_60-tal
 http://www.guldkanalen.se/static/streamGK60/192MP3.pls
-#EXTINF:-1,Guldkanalen 70-tal
+#EXTINF:-1,Guldkanalen_70-tal
 http://www.guldkanalen.se/static/streamGK70/192MP3.pls
-#EXTINF:-1,Guldkanalen 80-tal
+#EXTINF:-1,Guldkanalen_80-tal
 http://www.guldkanalen.se/static/streamGK80/192MP3.pls
-#EXTINF:-1,Guldkanalen 90-tal
+#EXTINF:-1,Guldkanalen_90-tal
 http://www.guldkanalen.se/static/streamGK90/192MP3.pls
-#EXTINF:-1,Guldkanalen Helsingborg
+#EXTINF:-1,Guldkanalen_Helsingborg
 http://stream.dbmedia.se/gkhbg96
-#EXTINF:-1,Guldkanalen Malmö/Lund
+#EXTINF:-1,Guldkanalen_Malmö/Lund
 http://stream.dbmedia.se/gk96
-#EXTINF:-1,Himlen TV7
+#EXTINF:-1,Himlen_TV7
 http://vod.tv7.fi:1935/tv7-se/mp4:tv7-se.stream_720p/playlist.m3u8
 #EXTINF:-1,Hitcity
 http://89.160.63.63/hitcity392kbps
 #EXTINF:-1,Julkanalen
 http://fm10-ice.stream.khz.se/fm10_mp3
-#EXTINF:-1,KN Radio
+#EXTINF:-1,KN_Radio
 http://85.17.122.32:8013/stream
 #EXTINF:-1,KURDmix
 http://solid55.streamupsolutions.com:32000/stream
-#EXTINF:-1,Lite FM 101.1
+#EXTINF:-1,Lite_FM_101.1
 http://live.litefm.se:8000/stream_mp3
-#EXTINF:-1,Lugna Favoriter Stockholm
+#EXTINF:-1,Lugna_Favoriter_Stockholm
 http://fm03-ice.stream.khz.se/fm03_mp3?
-#EXTINF:-1,Miracle TV
+#EXTINF:-1,Miracle_TV
 http://miracle_manager-01.stream.boxigy.com/hls/miracle1_high/index.m3u8
-#EXTINF:-1,Mix Megapol GBG
+#EXTINF:-1,Mix_Megapol_GBG
 http://tx-bauerse.sharp-stream.com/http_live.php?i=mixmegapolgbg_instream_se_mp3
-#EXTINF:-1,MRS 90.5 Stockholm
+#EXTINF:-1,MRS_90.5_Stockholm
 http://radiostreamone.mine.nu/MRS9050one
-#EXTINF:-1,Narradion Boden
+#EXTINF:-1,Narradion_Boden
 http://radio.bodensradio.se:8000/stream.ogg
-#EXTINF:-1,Northern Metal Radio
+#EXTINF:-1,Northern_Metal_Radio
 https://s3.free-shoutcast.com/stream/18578
-#EXTINF:-1,NRJ Sweden
+#EXTINF:-1,NRJ_Sweden
 http://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3
-#EXTINF:-1,P4 jönköping
+#EXTINF:-1,P4_jönköping
 https://sverigesradio.se/topsy/direkt/203-hi-mp3.pls
-#EXTINF:-1,P4 Kalmar
+#EXTINF:-1,P4_Kalmar
 https://sverigesradio.se/topsy/direkt/201-hi.mp3
-#EXTINF:-1,P4 Norrbotten
+#EXTINF:-1,P4_Norrbotten
 https://sverigesradio.se/topsy/direkt/209-hi-mp3.m3u
-#EXTINF:-1,P4 Västmanland
+#EXTINF:-1,P4_Västmanland
 https://sverigesradio.se/topsy/direkt/217-hi-aac.m3u
-#EXTINF:-1,P4 Västmanland mp3
+#EXTINF:-1,P4_Västmanland_mp3
 https://sverigesradio.se/topsy/direkt/217-mp3.pls
-#EXTINF:-1,Pirate Rock  Västkustens bästa rock
+#EXTINF:-1,Pirate_Rock__Västkustens_bästa_rock
 http://stream.piraterock.se:8101/webradio
-#EXTINF:-1,Planetary Radio 90,5 Stockholm Pasadena
+#EXTINF:-1,Planetary_Radio_90,5_Stockholm_Pasadena
 http://radiostreamtwo.mine.nu:8186/
 #EXTINF:-1,Polushon
 http://polushon.com/arch/playlist.pls
-#EXTINF:-1,Pop && Rock
+#EXTINF:-1,Pop_&&_Rock
 http://62.101.46.15:8000/poporock
-#EXTINF:-1,Puls FM Borås
+#EXTINF:-1,Puls_FM_Borås
 http://stream.pulsfm.se:8908/stream
-#EXTINF:-1,Puls FM Varberg
+#EXTINF:-1,Puls_FM_Varberg
 http://varberg.pulsfm.se:8708/stream/1/
-#EXTINF:-1,Radio 88 Partille
+#EXTINF:-1,Radio_88_Partille
 http://62.209.164.60:8000/mp128.mp3
-#EXTINF:-1,Radio 94,3
+#EXTINF:-1,Radio_94,3
 http://stream.radio943.se:8000/stream_high
-#EXTINF:-1,Radio bubb.la
+#EXTINF:-1,Radio_bubb.la
 http://live.radio.bubb.la/stream.mp3
-#EXTINF:-1,Radio Gagnef
+#EXTINF:-1,Radio_Gagnef
 http://stream.ueteknik.se:8000/gagnef
-#EXTINF:-1,radio kinnekulle
+#EXTINF:-1,radio_kinnekulle
 http://83.223.7.233:8008/RadioK.mp3.m3u
-#EXTINF:-1,Radio Laholm
+#EXTINF:-1,Radio_Laholm
 http://stream.zeno.fm/tf8vczzxrg0uv
-#EXTINF:-1,Radio Lidingö 97,8 Stockholm
+#EXTINF:-1,Radio_Lidingö_97,8_Stockholm
 http://radiostreamtwo.mine.nu/9780
-#EXTINF:-1,Radio Nacka 99,9
+#EXTINF:-1,Radio_Nacka_99,9
 http://www.mrs.net/stream/radionacka/listen.m3u
-#EXTINF:-1,Radio Rivendell
+#EXTINF:-1,Radio_Rivendell
 https://play.radiorivendell.com/radio/8000/radio.mp3
-#EXTINF:-1,Radio Sandviken
+#EXTINF:-1,Radio_Sandviken
 http://rssand.se:4027/listen.pls?sid=1
-#EXTINF:-1,Radio Sotenäs
+#EXTINF:-1,Radio_Sotenäs
 http://www.radiosotenas.se/live.pls
-#EXTINF:-1,Radio Treby
+#EXTINF:-1,Radio_Treby
 http://streaming.943.se/treby878
-#EXTINF:-1,Radio Viking
+#EXTINF:-1,Radio_Viking
 http://cdn-live2.crossnet.net:8000/radiovikinglive
-#EXTINF:-1,Retreat Radio
+#EXTINF:-1,Retreat_Radio
 http://retreatradio.out.airtime.pro:8000/retreatradio_b
-#EXTINF:-1,Retro FM Skåne
+#EXTINF:-1,Retro_FM_Skåne
 https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB\u0026aw_0_1st.playerid=SBS_RP_WEB\u0026aw_0_1st.skey=1575715192\u0026companionAds=true\u0026listenerId=@@GUID@@
-#EXTINF:-1,SceneSat Radio
+#EXTINF:-1,SceneSat_Radio
 http://oscar.scenesat.com:8000/scenesat
-#EXTINF:-1,SceneSat Radio (AAC+ mobile)
+#EXTINF:-1,SceneSat_Radio_(AAC+_mobile)
 https://scenesat.com/listen/normal/decent.m3u
-#EXTINF:-1,SceneSat Radio (MP3)
+#EXTINF:-1,SceneSat_Radio_(MP3)
 http://scenesat.com/listen/normal/max.m3u
 #EXTINF:-1,Skärgårdsradion
 http://fm06-ice.stream.khz.se/fm06_mp3
-#EXTINF:-1,Slay Radio
+#EXTINF:-1,Slay_Radio
 http://relay3.slayradio.org:8000/
-#EXTINF:-1,SLAY Radio (AAC)
+#EXTINF:-1,SLAY_Radio_(AAC)
 http://relay3.slayradio.org:8300/
 #EXTINF:-1,SlayRadio
 http://relay1.slayradio.org:8000/
-#EXTINF:-1,Soul Classics
+#EXTINF:-1,Soul_Classics
 https://wr08-ice.stream.khz.se/wr08_mp3
-#EXTINF:-1,SR P4 Göteborg
+#EXTINF:-1,SR_P4_Göteborg
 https://http-live.sr.se/p4goteborg-mp3-192
-#EXTINF:-1,SRP4 Kronoberg - AAC 192 kbps (M3U)
+#EXTINF:-1,SRP4_Kronoberg_-_AAC_192_kbps_(M3U)
 http://sverigesradio.se/topsy/direkt/214-hi-aac.m3u
-#EXTINF:-1,Star 70's
+#EXTINF:-1,Star_70's
 http://wr10-ice.stream.khz.se/wr10_mp3
-#EXTINF:-1,Star 80's
+#EXTINF:-1,Star_80's
 http://wr02-ice.stream.khz.se/wr02_mp3
-#EXTINF:-1,Star 90's
+#EXTINF:-1,Star_90's
 http://wr12-ice.stream.khz.se/wr12_mp3
-#EXTINF:-1,Stockholm FM 101,1 Sweden
+#EXTINF:-1,Stockholm_FM_101,1_Sweden
 http://mrs.net/stream/cityradio_fm1011_broadband/listenlive.m3u
-#EXTINF:-1,Stockholm FM 88,0 Sweden
+#EXTINF:-1,Stockholm_FM_88,0_Sweden
 http://mrs.net/stream/cityradio_fm88_broadband/listenlive.m3u
-#EXTINF:-1,Svensk Folkmusik - AkkA radio
+#EXTINF:-1,Svensk_Folkmusik_-_AkkA_radio
 http://mediaserv38.live-streams.nl:8107/stream
-#EXTINF:-1,Svensk Pop
+#EXTINF:-1,Svensk_Pop
 http://tx.sharp-stream.com/http_live.php?i=svenskpop_se_mp3
-#EXTINF:-1,Sverigekanalen Lyssna 8
+#EXTINF:-1,Sverigekanalen_Lyssna_8
 http://78.129.222.62:14002/
-#EXTINF:-1,Sverigekanalen Mediacast 2
+#EXTINF:-1,Sverigekanalen_Mediacast_2
 http://78.129.229.113:5524/
-#EXTINF:-1,Sverigekanalen Mix2
+#EXTINF:-1,Sverigekanalen_Mix2
 http://109.169.76.104:19577/
-#EXTINF:-1,Sveriges Radio - Ekot sänder direkt
+#EXTINF:-1,Sveriges_Radio_-_Ekot_sänder_direkt
 http://sverigesradio.se/topsy/direkt/4540-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P1
+#EXTINF:-1,Sveriges_Radio_-_P1
 http://sverigesradio.se/topsy/direkt/132-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P2
+#EXTINF:-1,Sveriges_Radio_-_P2
 http://sverigesradio.se/topsy/direkt/2562-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P2 Språk och musik
+#EXTINF:-1,Sveriges_Radio_-_P2_Språk_och_musik
 http://sverigesradio.se/topsy/direkt/163-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P3
+#EXTINF:-1,Sveriges_Radio_-_P3
 http://sverigesradio.se/topsy/direkt/164-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P3 Din gata
+#EXTINF:-1,Sveriges_Radio_-_P3_Din_gata
 http://sverigesradio.se/topsy/direkt/2576-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Blekinge
+#EXTINF:-1,Sveriges_Radio_-_P4_Blekinge
 http://sverigesradio.se/topsy/direkt/213-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Dalarna
+#EXTINF:-1,Sveriges_Radio_-_P4_Dalarna
 http://sverigesradio.se/topsy/direkt/223-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Gävleborg
+#EXTINF:-1,Sveriges_Radio_-_P4_Gävleborg
 http://sverigesradio.se/topsy/direkt/210-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Göteborg
+#EXTINF:-1,Sveriges_Radio_-_P4_Göteborg
 http://sverigesradio.se/topsy/direkt/212-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Gotland
+#EXTINF:-1,Sveriges_Radio_-_P4_Gotland
 http://sverigesradio.se/topsy/direkt/205-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Halland
+#EXTINF:-1,Sveriges_Radio_-_P4_Halland
 http://sverigesradio.se/topsy/direkt/220-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Jämtland
+#EXTINF:-1,Sveriges_Radio_-_P4_Jämtland
 http://sverigesradio.se/topsy/direkt/200-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Jönköping
+#EXTINF:-1,Sveriges_Radio_-_P4_Jönköping
 http://sverigesradio.se/topsy/direkt/203-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Kalmar
+#EXTINF:-1,Sveriges_Radio_-_P4_Kalmar
 http://sverigesradio.se/topsy/direkt/201-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Kristianstad
+#EXTINF:-1,Sveriges_Radio_-_P4_Kristianstad
 http://sverigesradio.se/topsy/direkt/211-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Malmöhus
+#EXTINF:-1,Sveriges_Radio_-_P4_Malmöhus
 http://sverigesradio.se/topsy/direkt/207-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Norrbotten
+#EXTINF:-1,Sveriges_Radio_-_P4_Norrbotten
 http://sverigesradio.se/topsy/direkt/209-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Örebro
+#EXTINF:-1,Sveriges_Radio_-_P4_Örebro
 http://sverigesradio.se/topsy/direkt/221-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Östergötland
+#EXTINF:-1,Sveriges_Radio_-_P4_Östergötland
 http://sverigesradio.se/topsy/direkt/222-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Plus
+#EXTINF:-1,Sveriges_Radio_-_P4_Plus
 http://sverigesradio.se/topsy/direkt/4951-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Sjuhärad
+#EXTINF:-1,Sveriges_Radio_-_P4_Sjuhärad
 http://sverigesradio.se/topsy/direkt/206-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Skaraborg
+#EXTINF:-1,Sveriges_Radio_-_P4_Skaraborg
 http://sverigesradio.se/topsy/direkt/208-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Sörmland
+#EXTINF:-1,Sveriges_Radio_-_P4_Sörmland
 http://sverigesradio.se/topsy/direkt/202-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Stockholm
+#EXTINF:-1,Sveriges_Radio_-_P4_Stockholm
 http://sverigesradio.se/topsy/direkt/701-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Uppland
+#EXTINF:-1,Sveriges_Radio_-_P4_Uppland
 http://sverigesradio.se/topsy/direkt/218-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Värmland
+#EXTINF:-1,Sveriges_Radio_-_P4_Värmland
 http://sverigesradio.se/topsy/direkt/204-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Väst
+#EXTINF:-1,Sveriges_Radio_-_P4_Väst
 http://sverigesradio.se/topsy/direkt/219-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Västerbotten
+#EXTINF:-1,Sveriges_Radio_-_P4_Västerbotten
 http://sverigesradio.se/topsy/direkt/215-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Västernorrland
+#EXTINF:-1,Sveriges_Radio_-_P4_Västernorrland
 http://sverigesradio.se/topsy/direkt/216-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P4 Västmanland
+#EXTINF:-1,Sveriges_Radio_-_P4_Västmanland
 http://sverigesradio.se/topsy/direkt/217-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - P6
+#EXTINF:-1,Sveriges_Radio_-_P6
 http://sverigesradio.se/topsy/direkt/166-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - Radioapans knattekanal
+#EXTINF:-1,Sveriges_Radio_-_Radioapans_knattekanal
 http://sverigesradio.se/topsy/direkt/2755-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Extra 1
+#EXTINF:-1,Sveriges_Radio_-_SR_Extra_1
 http://sverigesradio.se/topsy/direkt/2383-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Extra 10
+#EXTINF:-1,Sveriges_Radio_-_SR_Extra_10
 http://sverigesradio.se/topsy/direkt/3269-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Extra 2
+#EXTINF:-1,Sveriges_Radio_-_SR_Extra_2
 http://sverigesradio.se/topsy/direkt/2384-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Extra 3
+#EXTINF:-1,Sveriges_Radio_-_SR_Extra_3
 http://sverigesradio.se/topsy/direkt/2385-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Extra 4
+#EXTINF:-1,Sveriges_Radio_-_SR_Extra_4
 http://sverigesradio.se/topsy/direkt/2386-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Extra 5
+#EXTINF:-1,Sveriges_Radio_-_SR_Extra_5
 http://sverigesradio.se/topsy/direkt/2387-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Extra 6
+#EXTINF:-1,Sveriges_Radio_-_SR_Extra_6
 http://sverigesradio.se/topsy/direkt/2388-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Extra 7
+#EXTINF:-1,Sveriges_Radio_-_SR_Extra_7
 http://sverigesradio.se/topsy/direkt/2389-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Extra 8
+#EXTINF:-1,Sveriges_Radio_-_SR_Extra_8
 http://sverigesradio.se/topsy/direkt/2390-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Extra 9
+#EXTINF:-1,Sveriges_Radio_-_SR_Extra_9
 http://sverigesradio.se/topsy/direkt/3268-hi-aac.pls
-#EXTINF:-1,Sveriges Radio - SR Sápmi
+#EXTINF:-1,Sveriges_Radio_-_SR_Sápmi
 http://http-live.sr.se/srsapmi-aac-192
-#EXTINF:-1,Sveriges Radio P1
+#EXTINF:-1,Sveriges_Radio_P1
 https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u
-#EXTINF:-1,Sveriges Radio P2
+#EXTINF:-1,Sveriges_Radio_P2
 https://http-live.sr.se/p2musik-aac-320
-#EXTINF:-1,Sveriges Radio P4 Blekinge
+#EXTINF:-1,Sveriges_Radio_P4_Blekinge
 http://sverigesradio.se/topsy/direkt/srapi/213.mp3
-#EXTINF:-1,Sveriges Radio P4 Gotland
+#EXTINF:-1,Sveriges_Radio_P4_Gotland
 https://http-live.sr.se/p4gotland-mp3-128
-#EXTINF:-1,Sveriges radio P4 Kristianstad (mp3)
+#EXTINF:-1,Sveriges_radio_P4_Kristianstad_(mp3)
 https://sverigesradio.se/topsy/direkt/211-hi-mp3.m3u
-#EXTINF:-1,Sveriges Radio P4 Norrbotten
+#EXTINF:-1,Sveriges_Radio_P4_Norrbotten
 https://http-live.sr.se/p4norrbotten-aac-192
-#EXTINF:-1,Sveriges Radio P4 Örebro
+#EXTINF:-1,Sveriges_Radio_P4_Örebro
 https://http-live.sr.se/p4orebro-aac-192
-#EXTINF:-1,Sveriges Radio P4 Stockholm
+#EXTINF:-1,Sveriges_Radio_P4_Stockholm
 https://sverigesradio.se/topsy/direkt/701-hi-mp3.m3u
-#EXTINF:-1,Sveriges Radio P4 Västerbotten
+#EXTINF:-1,Sveriges_Radio_P4_Västerbotten
 https://sverigesradio.se/topsy/direkt/215-hi-aac.m3u
-#EXTINF:-1,Sveriges Radio P4 Västernorrland
+#EXTINF:-1,Sveriges_Radio_P4_Västernorrland
 https://http-live.sr.se/p4vasternorrland-aac-192
-#EXTINF:-1,SVT P1 192kps
+#EXTINF:-1,SVT_P1_192kps
 http://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u
-#EXTINF:-1,The ERICADE Radio Network - The last true Amiga music broadcaster
+#EXTINF:-1,The_ERICADE_Radio_Network_-_The_last_true_Amiga_music_broadcaster
 https://radio.ericade.net/sc/stream/1/
 #EXTINF:-1,TUKIO
 https://stream.tukio.se/_b
-#EXTINF:-1,DistFM - 100% ROCK!
+#EXTINF:-1,DistFM_-_100%_ROCK!
 https://listen.to.distfm.se/proxy/distfmsam192?mp=/stream
-#EXTINF:-1,Radio Suomi - Live
+#EXTINF:-1,Radio_Suomi_-_Live
 https://securestreams2.autopo.st:1120/stream1
-#EXTINF:-1,247 Continuous Music
+#EXTINF:-1,247_Continuous_Music
 http://194.195.124.142:8020/radio.mp3
-#EXTINF:-1,Go Country
+#EXTINF:-1,Go_Country
 https://wr14-ice.stream.khz.se/wr14_mp3
-#EXTINF:-1,Radio Nacka FM 99,9
+#EXTINF:-1,Radio_Nacka_FM_99,9
 http://radiostreamone.mine.nu/9990MHz
-#EXTINF:-1,Radio Nord
+#EXTINF:-1,Radio_Nord
 http://176.10.185.249:9000/
-#EXTINF:-1,We Rock FM 91.6
+#EXTINF:-1,We_Rock_FM_91.6
 https://werockfm.radioca.st/stream
-#EXTINF:-1,Galaxy FM
+#EXTINF:-1,Galaxy_FM
 https://galaxyfm.radioca.st/stream
 #EXTINF:-1,HitNet
 https://stream.hitnet.live/radio/8000/radio.mp3
-#EXTINF:-1,Oldies FM
+#EXTINF:-1,Oldies_FM
 https://www.radioking.com/play/oldiesfm/417820
 #EXTINF:-1,Bananradion
 https://lyssna.bananradion.se:8000/lyssna
-#EXTINF:-1,Radio Bergslagen
+#EXTINF:-1,Radio_Bergslagen
 https://lyssna.radiobergslagen.se:8020/radio
-#EXTINF:-1,Nonstop Casiopea
+#EXTINF:-1,Nonstop_Casiopea
 http://hyades.shoutca.st:8551/stream/1
-#EXTINF:-1,The Beat
+#EXTINF:-1,The_Beat
 http://178.32.62.154:8908/stream/1
-#EXTINF:-1,Psy Radio - Chillout
+#EXTINF:-1,Psy_Radio_-_Chillout
 http://komplex2.psyradio.org:8020/stream/1
-#EXTINF:-1,Psy Radio - Psy Trance
+#EXTINF:-1,Psy_Radio_-_Psy_Trance
 http://komplex2.psyradio.org:8030/stream/1
-#EXTINF:-1,Radio Gbg 94.9 FM Zabavna
+#EXTINF:-1,Radio_Gbg_94.9_FM_Zabavna
 http://studio.isasecret.com:8000/stream/1
-#EXTINF:-1,Radio Gbg Laganini
+#EXTINF:-1,Radio_Gbg_Laganini
 http://studio.isasecret.com:8040/stream/1
-#EXTINF:-1,Radio Gbg Narodna
+#EXTINF:-1,Radio_Gbg_Narodna
 http://studio.isasecret.com:8010/stream/1
-#EXTINF:-1,Radio Gbg Sevdah
+#EXTINF:-1,Radio_Gbg_Sevdah
 http://studio.isasecret.com:8030/stream/1
-#EXTINF:-1,Psy Radio - Alternative
+#EXTINF:-1,Psy_Radio_-_Alternative
 http://komplex2.psyradio.org:8040/stream/1
-#EXTINF:-1,Psy Radio - Progressive
+#EXTINF:-1,Psy_Radio_-_Progressive
 http://komplex2.psyradio.org:8010/stream/1
-#EXTINF:-1,Global Swing Broadcast
+#EXTINF:-1,Global_Swing_Broadcast
 http://s4.streammonster.com:8888/stream
-#EXTINF:-1,Radio 45
+#EXTINF:-1,Radio_45
 http://streaming2.nordblommedia.se:443/amal.mp3
-#EXTINF:-1,Dansbandskanalen Julmusik
+#EXTINF:-1,Dansbandskanalen_Julmusik
 http://stream.dbmedia.se/dbkjulMP3
-#EXTINF:-1,Guldkanalen 102.6 FM
+#EXTINF:-1,Guldkanalen_102.6_FM
 http://stream.dbmedia.se/gkMP3
-#EXTINF:-1,Radio Treby 87.8 FM
+#EXTINF:-1,Radio_Treby_87.8_FM
 http://stream1.bogalnet.se:443/vargarda.mp3
-#EXTINF:-1,Radio AF 99.1 FM
+#EXTINF:-1,Radio_AF_99.1_FM
 http://live.radioaf.se:8000/stream/1
-#EXTINF:-1,Radio Berg 107.7 FM
+#EXTINF:-1,Radio_Berg_107.7_FM
 http://62.20.28.156/stream/1
-#EXTINF:-1,Radio Avesta 103.5 FM
+#EXTINF:-1,Radio_Avesta_103.5_FM
 http://test.radioavesta.se:8000/stream/1
-#EXTINF:-1,Radio Haninge Direkt 98.5
+#EXTINF:-1,Radio_Haninge_Direkt_98.5
 http://213.115.49.175:1157/stream/1
-#EXTINF:-1,Pite FM 92.8
+#EXTINF:-1,Pite_FM_92.8
 http://pitefmstream.ltu.se:8000/pitefm.mp3
-#EXTINF:-1,Skargardsradion 90.2 FM
+#EXTINF:-1,Skargardsradion_90.2_FM
 http://sgr.radioprod.se:8000/skargarden_hi
-#EXTINF:-1,SR Extra 11
+#EXTINF:-1,SR_Extra_11
 http://http-live.sr.se/srextra11-mp3-192
-#EXTINF:-1,Sveriges Radio - P2 Musik
+#EXTINF:-1,Sveriges_Radio_-_P2_Musik
 http://http-live.sr.se/p2musik-mp3-192
-#EXTINF:-1,Sveriges Radio - Radioapans Knattekanal
+#EXTINF:-1,Sveriges_Radio_-_Radioapans_Knattekanal
 http://http-live.sr.se/knattekanalen-mp3-192
-#EXTINF:-1,Radio Falkoping 90.8 FM
+#EXTINF:-1,Radio_Falkoping_90.8_FM
 http://fnf.nu:32010/fnf
-#EXTINF:-1,Sveriges Radio - P4 Kronoberg
+#EXTINF:-1,Sveriges_Radio_-_P4_Kronoberg
 http://http-live.sr.se/p4kronoberg-mp3-192
-#EXTINF:-1,Radio Rapsodet
+#EXTINF:-1,Radio_Rapsodet
 http://46.4.104.253:9978/stream/1
-#EXTINF:-1,Lite FM Sverige 101.1
+#EXTINF:-1,Lite_FM_Sverige_101.1
 http://stream.litefm.se:443/lite.mp3
-#EXTINF:-1,Rockkanalen 104.7 FM
+#EXTINF:-1,Rockkanalen_104.7_FM
 http://stream.dbmedia.se/kp128
-#EXTINF:-1,FK FM Online Radio
+#EXTINF:-1,FK_FM_Online_Radio
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,Skargardsradion 94.1 FM
+#EXTINF:-1,Skargardsradion_94.1_FM
 http://radio.darub.se/ockero.mp3
-#EXTINF:-1,SR Extra 12
+#EXTINF:-1,SR_Extra_12
 http://http-live.sr.se/srextra12-mp3-192
-#EXTINF:-1,Radio Gellivare
+#EXTINF:-1,Radio_Gellivare
 http://stream.imegasystem.se:8000/radiogellivare
-#EXTINF:-1,Stockholm Narradio 3 101.1 FM
+#EXTINF:-1,Stockholm_Narradio_3_101.1_FM
 http://radiostreamthree.mine.nu:18020/stream/1
-#EXTINF:-1,Radio Nacka 99.9 FM
+#EXTINF:-1,Radio_Nacka_99.9_FM
 http://radiostreamone.mine.nu:9990/stream/1
-#EXTINF:-1,Radio 94.3
+#EXTINF:-1,Radio_94.3
 http://81.94.175.226:8000/stream
-#EXTINF:-1,Guldkanalen 60 tal
+#EXTINF:-1,Guldkanalen_60_tal
 http://stream.dbmedia.se/gk60tal96
-#EXTINF:-1,Country Classics
+#EXTINF:-1,Country_Classics
 https://wr14-ice.stream.khz.se/wr14_mp3?platform=web
-#EXTINF:-1,Radio Alkompis
+#EXTINF:-1,Radio_Alkompis
 http://206.189.14.120:8500/stream.mp3
-#EXTINF:-1,Bandit Classics
+#EXTINF:-1,Bandit_Classics
 http://wr11-ice.stream.khz.se/wr11_mp3?platform=web&ampaw_0_1st.playerid=mtgradio-web&ampaw_0_1st.skey=1576574706
-#EXTINF:-1,Soundic Radio
+#EXTINF:-1,Soundic_Radio
 http://soundicradio.radioca.st/stream
-#EXTINF:-1,MNF Radio
+#EXTINF:-1,MNF_Radio
 http://webbradio1.intinor.se:8000/mnf.mp3
-#EXTINF:-1,Radio Kramfors
+#EXTINF:-1,Radio_Kramfors
 https://http-live.sr.se/p1-mp3-192
-#EXTINF:-1,One Hit Wonders
+#EXTINF:-1,One_Hit_Wonders
 https://wr18-ice.stream.khz.se/wr18_mp3?platform=web
-#EXTINF:-1,FK FM
+#EXTINF:-1,FK_FM
 http://streaming.radionomy.com/FKFM?type=.mp3
-#EXTINF:-1,102.6 Guldkanalen
+#EXTINF:-1,102.6_Guldkanalen
 http://stream.dbmedia.se/gk96?type=.mp3
-#EXTINF:-1,P4 Plus
+#EXTINF:-1,P4_Plus
 http://http-live.sr.se/srextra17-mp3-128
-#EXTINF:-1,Järfälla Radio
+#EXTINF:-1,Järfälla_Radio
 http://www.jfasandare.se:8000/test.mp3
-#EXTINF:-1,Pite FM
+#EXTINF:-1,Pite_FM
 http://fm02-icecast.mtg-r.net/fm02_mp3?platform=web
 #EXTINF:-1,PowerFM
 http://lys1.soundicradio.com:8100
-#EXTINF:-1,Radio Nostalgi
+#EXTINF:-1,Radio_Nostalgi
 http://212.73.175.58:8020/
-#EXTINF:-1,Radio Fanous
+#EXTINF:-1,Radio_Fanous
 http://s1.voscast.com:9614/
-#EXTINF:-1,Din Gata 100.6
+#EXTINF:-1,Din_Gata_100.6
 http://http-live.sr.se/dingata-aac-96
-#EXTINF:-1,Radio Lyra
+#EXTINF:-1,Radio_Lyra
 http://streaming.jusahost.com:9986/
 #EXTINF:-1,Dansbandsdax
 http://sc.dbd.nu:8358/
-#EXTINF:-1,RIX FM
+#EXTINF:-1,RIX_FM
 http://fm01-icecast.mtg-r.net/fm01_mp3?platform=web
-#EXTINF:-1,Lugna Favoriter
+#EXTINF:-1,Lugna_Favoriter
 https://fm03-ice.stream.khz.se/fm03_mp3?platform=web
-#EXTINF:-1,Finlandia Radio
+#EXTINF:-1,Finlandia_Radio
 http://musiikki.finlandiaseura.com:8000/
-#EXTINF:-1,Hitz FM 97.8
+#EXTINF:-1,Hitz_FM_97.8
 http://146.66.239.30/broadwavehigh.mp3
-#EXTINF:-1,kiss FM Sweden
+#EXTINF:-1,kiss_FM_Sweden
 https://s9.myradiostream.com/45162/?type=http&ampnocache=1581488984?0.45990785856521965
-#EXTINF:-1,Dunken FM 108.5
+#EXTINF:-1,Dunken_FM_108.5
 http://stream.nsp.se:8000/DFM_MP3_Hi
-#EXTINF:-1,Radio Wix
+#EXTINF:-1,Radio_Wix
 https://s2.radio.co/s74d4d7992/listen
-#EXTINF:-1,Gamla Favoriter
+#EXTINF:-1,Gamla_Favoriter
 https://wr09-ice.stream.khz.se/wr09_mp3?platform=web
-#EXTINF:-1,Radio Sala
+#EXTINF:-1,Radio_Sala
 http://test.radioavesta.se:9700/
-#EXTINF:-1,Radio Ljusdal
+#EXTINF:-1,Radio_Ljusdal
 http://87.249.168.199:8002/
-#EXTINF:-1,Tunnel FM
+#EXTINF:-1,Tunnel_FM
 http://eu7.fastcast4u.com:8065
-#EXTINF:-1,Din Gata
+#EXTINF:-1,Din_Gata
 http://http-live.sr.se/dingata-mp3-64
-#EXTINF:-1,Wolf FM 88.8
+#EXTINF:-1,Wolf_FM_88.8
 http://ais-sa1.streamon.fm/7026_48k.aac
-#EXTINF:-1,BitJam Radio
+#EXTINF:-1,BitJam_Radio
 http://marmalade.scenesat.com:8086/bitjam.ogg
-#EXTINF:-1,P4 Goteborg
+#EXTINF:-1,P4_Goteborg
 http://http-live.sr.se/p4goteborg-mp3-128?type=.mp3
-#EXTINF:-1,24/7 Continuous Music
+#EXTINF:-1,24/7_Continuous_Music
 https://stream.kueradio.com.au/radio/8010/radio56.aac
-#EXTINF:-1,Radio Berg
+#EXTINF:-1,Radio_Berg
 http://edge.live.mp3.mdn.newmedia.nacamar.net/radioberg/livestream.mp3
-#EXTINF:-1,Radio Ayeneh
+#EXTINF:-1,Radio_Ayeneh
 http://83.251.238.7/streampath1.mp3/
-#EXTINF:-1,Radio Fisus
+#EXTINF:-1,Radio_Fisus
 https://www.radioking.com/play/radiofisus
-#EXTINF:-1,BPM Malmo
+#EXTINF:-1,BPM_Malmo
 https://n09.radiojar.com/bbhah441b6quv?rj-ttl=5&amprj-tok=AAABej1SWhwAWQRrYCXd79CIIw
-#EXTINF:-1,Boz Radio
+#EXTINF:-1,Boz_Radio
 https://ais-edge08-live365-dal02.cdnstream.com/a80252
-#EXTINF:-1,Alfdeejay Radio
+#EXTINF:-1,Alfdeejay_Radio
 http://us3.ishout.net:8020/
-#EXTINF:-1,Trafik Radion
+#EXTINF:-1,Trafik_Radion
 http://radio.networx-bg.com:8002/stream/1/
-#EXTINF:-1,Gold 102.4
+#EXTINF:-1,Gold_102.4
 http://gold24.xnk.nu:8080
-#EXTINF:-1,Power Millennium
+#EXTINF:-1,Power_Millennium
 https://wr19-ice.stream.khz.se/wr19_mp3?platform=web&ampaw_0_1st.playerid=mtgradio-web&ampaw_0_1st.skey=1592307700
-#EXTINF:-1,Var Radio
+#EXTINF:-1,Var_Radio
 http://46.17.184.39:8000/airtime_128?type=.mp3
-#EXTINF:-1,Radio Gävle 102.7
+#EXTINF:-1,Radio_Gävle_102.7
 http://kepler.shoutca.st:8271/stream?1592393316236
-#EXTINF:-1,Radio Live
+#EXTINF:-1,Radio_Live
 http://stream.radiolive.se:80/live?type=.mp3
-#EXTINF:-1,P4 Stockholm
+#EXTINF:-1,P4_Stockholm
 http://http-live.sr.se/p4stockholm-mp3-64
-#EXTINF:-1,MRS 90.5 FM
+#EXTINF:-1,MRS_90.5_FM
 http://radiostreamone.mine.nu:19050/
 #EXTINF:-1,HamsafarRadio
 http://n0f.radiojar.com:80/pyea7q9h5ehvv
 #EXTINF:-1,Dansbandsradio
 http://lyssna.vimla-tipslank.se:80/320.aac
-#EXTINF:-1,Radio Prime
+#EXTINF:-1,Radio_Prime
 http://berit.createam.se:8000/radioprime.mp3?.mp3
-#EXTINF:-1,Pop and Rock
+#EXTINF:-1,Pop_and_Rock
 http://stream.ueteknik.se:8000/poporock
-#EXTINF:-1,Radio Vara
+#EXTINF:-1,Radio_Vara
 http://lyssna.fnf.nu:8080/radiovara.mp3
-#EXTINF:-1,Hit 24 Fm
+#EXTINF:-1,Hit_24_Fm
 http://192.184.9.158:8309
-#EXTINF:-1,Dansbands Favoriter
+#EXTINF:-1,Dansbands_Favoriter
 https://wr15-ice.stream.khz.se/wr15_mp3?platform=web
-#EXTINF:-1,Dixie Radio 107.9
+#EXTINF:-1,Dixie_Radio_107.9
 https://stream.rcs.revma.com/wgp0gs0yra0uv
-#EXTINF:-1,Radio Ava
+#EXTINF:-1,Radio_Ava
 http://94.255.179.210
-#EXTINF:-1,Radio Andra
+#EXTINF:-1,Radio_Andra
 http://live.radionext.fm:9000/stream.nsv
-#EXTINF:-1,All Radio
+#EXTINF:-1,All_Radio
 https://s5.radio.co/s0072b90d9/listen
-#EXTINF:-1,Radio M Göteborg
+#EXTINF:-1,Radio_M_Göteborg
 http://184.154.43.106:8243/stream/
-#EXTINF:-1,Clubalicious Radio
+#EXTINF:-1,Clubalicious_Radio
 https://www.radioking.com/play/deejay-2
-#EXTINF:-1,Radio Avesta
+#EXTINF:-1,Radio_Avesta
 http://test.radioavesta.se:8000/
-#EXTINF:-1,Kanal Rewind
+#EXTINF:-1,Kanal_Rewind
 http://radio.euronet.nu:8000/stream
-#EXTINF:-1,Guldkanalen 70 tal
+#EXTINF:-1,Guldkanalen_70_tal
 http://stream.dbmedia.se/gk70tal96
-#EXTINF:-1,The Voice Sweden
+#EXTINF:-1,The_Voice_Sweden
 https://live-bauerse-online.sharp-stream.com/264_se_aacp
-#EXTINF:-1,Radio Hambastegi
+#EXTINF:-1,Radio_Hambastegi
 http://hambastegitwo.mine.nu:9600/
-#EXTINF:-1,Radio Trelleborg
+#EXTINF:-1,Radio_Trelleborg
 https://stream.nsp.se/RaTbg_MP3_Lo
-#EXTINF:-1,P3 Star FM
+#EXTINF:-1,P3_Star_FM
 http://stm1.rthk.hk/radio2
-#EXTINF:-1,Radio Suomi
+#EXTINF:-1,Radio_Suomi
 http://108.168.175.149:10033/stream?type=.mp3
-#EXTINF:-1,Radio AF
+#EXTINF:-1,Radio_AF
 http://live.radioaf.se:8000
-#EXTINF:-1,Mix Megapol Malmo
+#EXTINF:-1,Mix_Megapol_Malmo
 https://edge-bauersefm-03-gos2.sharp-stream.com/mixmegapolgbg_instream_se_mp3?
 #EXTINF:-1,AreRadio
 http://radio.aremedia.se:8000/
-#EXTINF:-1,Radio Nacka
+#EXTINF:-1,Radio_Nacka
 http://radiostreamthree.mine.nu:9990/
-#EXTINF:-1,Star 70s
+#EXTINF:-1,Star_70s
 https://wr10-ice.stream.khz.se/wr10_mp3?platform=web&ampaw_0_1st.playerid=mtgradio-web&ampaw_0_1st.skey=1592299202
-#EXTINF:-1,Radio Nybro
+#EXTINF:-1,Radio_Nybro
 http://deb.patrikmalmgrenrask.se:8020/
-#EXTINF:-1,Electro Lounge
+#EXTINF:-1,Electro_Lounge
 https://wr16-ice.stream.khz.se/wr16_mp3?platform=web
 #EXTINF:-1,Playdio
 http://media-kna.playdio.se:80
-#EXTINF:-1,Radio Hallefors
+#EXTINF:-1,Radio_Hallefors
 http://www.grythyttan.se:8000/stream/1/stream.mp3
-#EXTINF:-1,Radio Estocolmo
+#EXTINF:-1,Radio_Estocolmo
 https://node-34.zeno.fm/pmf3n16x1f8uv?rj-ttl=5&amprj-tok=AAABekeOGOAAJmlrRoQnX2yb0A
-#EXTINF:-1,GNF Radio
+#EXTINF:-1,GNF_Radio
 http://lyssna.fnf.nu:8080/gnf094.mp3?type=.mp3
-#EXTINF:-1,The Beat Sweden
+#EXTINF:-1,The_Beat_Sweden
 http://178.32.62.154:8908/
-#EXTINF:-1,Dance 88.3
+#EXTINF:-1,Dance_88.3
 http://radio.itconnect.se/rb3
-#EXTINF:-1,Radio Pontos Stockholm
+#EXTINF:-1,Radio_Pontos_Stockholm
 http://213.188.154.38:8000/live.mp3/
 #EXTINF:-1,K103
 http://130.241.172.94:8080/icestream96.ogg
-#EXTINF:-1,P5 STHLM
+#EXTINF:-1,P5_STHLM
 http://http-live.sr.se/p5sthlm-mp3-128?type=.mp3
-#EXTINF:-1,Radio Soderhamn
+#EXTINF:-1,Radio_Soderhamn
 http://80.245.225.101:8000/stream.mp3
-#EXTINF:-1,P4 Kronoberg
+#EXTINF:-1,P4_Kronoberg
 http://http-live.sr.se/p4kronoberg-mp3-128?type=.mp3
-#EXTINF:-1,Guldkanalen 90 tal
+#EXTINF:-1,Guldkanalen_90_tal
 http://stream.dbmedia.se/gk90tal96
 #EXTINF:-1,Mittradion
 http://stream.ueteknik.se:8000/mittradion?type=.mp3
-#EXTINF:-1,Retro FM Skane
+#EXTINF:-1,Retro_FM_Skane
 https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&ampaw_0_1st.playerid=SBS_RP_WEB&ampaw_0_1st.skey=1581488571&ampcompanionAds=true&amplistenerId=d6f66169-7d1d-4157-bc73-8308967bef46
-#EXTINF:-1,AssyrianMp3 Radio
+#EXTINF:-1,AssyrianMp3_Radio
 http://79.142.67.91:9998/
-#EXTINF:-1,Kohina Radio
+#EXTINF:-1,Kohina_Radio
 http://www.deliancourt.org:8000/stream.ogg
-#EXTINF:-1,Radio Mariestad
+#EXTINF:-1,Radio_Mariestad
 http://89.205.127.244:8000/
-#EXTINF:-1,Rocket FM
+#EXTINF:-1,Rocket_FM
 http://stream.thsradio.se:8000/rocket_hi.mp3
-#EXTINF:-1,P4 Vasterbotten
+#EXTINF:-1,P4_Vasterbotten
 http://http-live.sr.se/p4vasterbotten-mp3-192
-#EXTINF:-1,Allswell Radio
+#EXTINF:-1,Allswell_Radio
 http://198.100.145.185:8592/stream
-#EXTINF:-1,FMSS Radio
+#EXTINF:-1,FMSS_Radio
 http://stream.radio.co/scb933782f/listen
-#EXTINF:-1,P3 Din Gata
+#EXTINF:-1,P3_Din_Gata
 http://http-live.sr.se/dingata-mp3-128?type=.mp3
-#EXTINF:-1,NERadio Nonstop
+#EXTINF:-1,NERadio_Nonstop
 http://disc.neradio.fm:5500/
-#EXTINF:-1,Radio 92
+#EXTINF:-1,Radio_92
 http://s6.voscast.com:8210/
-#EXTINF:-1,Hit City Radio
+#EXTINF:-1,Hit_City_Radio
 http://89.160.63.63:80/live
-#EXTINF:-1,Radio Pasion Latina
+#EXTINF:-1,Radio_Pasion_Latina
 https://sonic-us.streaming-chile.com:7009/
-#EXTINF:-1,East FM
+#EXTINF:-1,East_FM
 https://listen.eastfm.nz/stream.mp3
-#EXTINF:-1,Radio Oskarshamn
+#EXTINF:-1,Radio_Oskarshamn
 http://moon.wavestreamer.com:4687
-#EXTINF:-1,Stockholm FM 95.3 MHz
+#EXTINF:-1,Stockholm_FM_95.3_MHz
 http://radiostreamone.mine.nu:18010/
-#EXTINF:-1,P4 Uppland
+#EXTINF:-1,P4_Uppland
 http://http-live.sr.se/p4uppland-mp3-64
-#EXTINF:-1,Radio Bastad
+#EXTINF:-1,Radio_Bastad
 https://streamingv2.shoutcast.com/radio-bastad-96-1
-#EXTINF:-1,Kanon FM
+#EXTINF:-1,Kanon_FM
 http://85.227.87.176:8000/listen
-#EXTINF:-1,Stockholm University 95.3 FM
+#EXTINF:-1,Stockholm_University_95.3_FM
 http://radiostreamone.mine.nu:8010/
 #EXTINF:-1,Radiosol
 http://live.radiosol.se:8000/stream.mp3
-#EXTINF:-1,BollywoodBio LIVE
+#EXTINF:-1,BollywoodBio_LIVE
 http://cora.cdnstream.com/1925_192
-#EXTINF:-1,Power Club
+#EXTINF:-1,Power_Club
 https://wr06-ice.stream.khz.se/wr06_mp3?platform=web&ampaw_0_1st.playerid=mtgradio-web&ampaw_0_1st.skey=1592300361
-#EXTINF:-1,Radio Active Ystad
+#EXTINF:-1,Radio_Active_Ystad
 https://edge-bauerse-dev-01.sharp-stream.com/radioactive_mp3
-#EXTINF:-1,Student Radion
+#EXTINF:-1,Student_Radion
 http://130.238.166.180:8004/live?type=.mp3
-#EXTINF:-1,Direkt Fran Betongen
+#EXTINF:-1,Direkt_Fran_Betongen
 http://51.255.129.13:8000/stream
-#EXTINF:-1,Sverigekanalen Direkt
+#EXTINF:-1,Sverigekanalen_Direkt
 http://82.145.59.200:19577/
-#EXTINF:-1,kiss FM Rock
+#EXTINF:-1,kiss_FM_Rock
 https://garymelling.radioca.st/stream
-#EXTINF:-1,SR Sisuradio
+#EXTINF:-1,SR_Sisuradio
 http://http-live.sr.se/sisuradio-mp3-128?type=.mp3
-#EXTINF:-1,Nanan Radio
+#EXTINF:-1,Nanan_Radio
 http://37.187.90.196:8971/
-#EXTINF:-1,Star 90s
+#EXTINF:-1,Star_90s
 https://wr12-ice.stream.khz.se/wr12_mp3?platform=web&ampaw_0_1st.playerid=mtgradio-web&ampaw_0_1st.skey=1592298817
-#EXTINF:-1,JVNF – Järva-Västerorts Närradioförening
+#EXTINF:-1,JVNF_–_Järva-Västerorts_Närradioförening
 https://14833.live.streamtheworld.com/SAM10AAC134_SC
-#EXTINF:-1,Radio Vattervag
+#EXTINF:-1,Radio_Vattervag
 http://uk5.internet-radio.com:8199/stream
-#EXTINF:-1,Radio Osteraker
+#EXTINF:-1,Radio_Osteraker
 http://lyssna.osteraker.se/live-mp3-128?type=.mp3
-#EXTINF:-1,Helsingborgs Narradio
+#EXTINF:-1,Helsingborgs_Narradio
 http://server.pmradio.se:8010
-#EXTINF:-1,Stockholm Narradio
+#EXTINF:-1,Stockholm_Narradio
 http://radiostreamfour.mine.nu:18020/
-#EXTINF:-1,Radio Julius
+#EXTINF:-1,Radio_Julius
 http://listen.radionomy.com/Julius?type=.mp3
-#EXTINF:-1,Radio Eskilstuna Latina 88.6
+#EXTINF:-1,Radio_Eskilstuna_Latina_88.6
 http://eskilstunalatina886.ddns.net:88/
-#EXTINF:-1,P4 Orebro
+#EXTINF:-1,P4_Orebro
 http://http-live.sr.se/p4orebro-mp3-192
-#EXTINF:-1,Radio Wake Up
+#EXTINF:-1,Radio_Wake_Up
 http://radiowakeup.falkenberg.se:8000/
-#EXTINF:-1,P4 Gotland
+#EXTINF:-1,P4_Gotland
 http://http-live.sr.se/p4gotland-mp3-64
-#EXTINF:-1,Mas FM Sweden
+#EXTINF:-1,Mas_FM_Sweden
 https://studio22.radiolize.com/radio/8090/radio.mp3
-#EXTINF:-1,Radio Svegot
+#EXTINF:-1,Radio_Svegot
 https://streamingv2.shoutcast.com/svegot
-#EXTINF:-1,SDX Synthetic Experience
+#EXTINF:-1,SDX_Synthetic_Experience
 http://radio.dawnshadow.se:8000/stream
-#EXTINF:-1,P4 Vastmanland
+#EXTINF:-1,P4_Vastmanland
 http://http-live.sr.se/p4vastmanland-mp3-128?type=.mp3
-#EXTINF:-1,ADELE FROM 19 TO 25
+#EXTINF:-1,ADELE_FROM_19_TO_25
 http://wr19-icecast.mtg-r.net/wr19_mp3?platform=web
-#EXTINF:-1,Radio Sweden P6
+#EXTINF:-1,Radio_Sweden_P6
 http://http-live.sr.se/srinternational-mp3-64
-#EXTINF:-1,Radio Lidkoping
+#EXTINF:-1,Radio_Lidkoping
 http://lyssna.fnf.nu:8080/lidkoping.mp3
-#EXTINF:-1,SR Ekot
+#EXTINF:-1,SR_Ekot
 https://http-live.sr.se/ekotsanderdirekt-mp3-192
-#EXTINF:-1,Lyve Radio
+#EXTINF:-1,Lyve_Radio
 http://lyveradio.ml:8888/live?type=.mp3
-#EXTINF:-1,Strul FM
+#EXTINF:-1,Strul_FM
 http://s1.streamaudio.de:8000/strul-fm
-#EXTINF:-1,Jam FM Sweden
+#EXTINF:-1,Jam_FM_Sweden
 http://listen.jamfm.se/
-#EXTINF:-1,SR Sapmi
+#EXTINF:-1,SR_Sapmi
 http://http-live.sr.se/srsapmi-mp3-192
-#EXTINF:-1,Guldkanalen Fm
+#EXTINF:-1,Guldkanalen_Fm
 http://stream.dbmedia.se/gkMP3?type=.mp3
-#EXTINF:-1,Stampus FM
+#EXTINF:-1,Stampus_FM
 http://18193.live.streamtheworld.com/SAM05AAC050.mp3?tdsdk=js-2.9&amppname=TDSdk&amppversion=2.9&ampbanners=none&ampsbmid=4c0aa941-8149-461b-85fc-32664cbacd10
-#EXTINF:-1,Hallsta Sura Narradio
+#EXTINF:-1,Hallsta_Sura_Narradio
 http://s16.myradiostream.com:6630/
-#EXTINF:-1,Nordic Vibrations
+#EXTINF:-1,Nordic_Vibrations
 http://neon.wavestreamer.com:6767
-#EXTINF:-1,P2 Varlden
+#EXTINF:-1,P2_Varlden
 https://live-cdn.sr.se/pool2/p2musik/p2musik.isml/p2musik-audio=192000.m3u8
-#EXTINF:-1,Indie 101
+#EXTINF:-1,Indie_101
 https://wr05-ice.stream.khz.se/wr05_mp3?platform=web
-#EXTINF:-1,One FM Sweden
+#EXTINF:-1,One_FM_Sweden
 http://217.198.148.101:7128
-#EXTINF:-1,Power Street
+#EXTINF:-1,Power_Street
 http://wr07-icecast.mtg-r.net/wr07_mp3?type=.mp3
-#EXTINF:-1,Sverige Kanalen 1
+#EXTINF:-1,Sverige_Kanalen_1
 http://109.169.15.20:6079/
-#EXTINF:-1,P4 Malmohus
+#EXTINF:-1,P4_Malmohus
 http://http-live.sr.se/p4malmo-mp3-64
-#EXTINF:-1,Radio Sotenas
+#EXTINF:-1,Radio_Sotenas
 http://sc1.radiosotenas.se/
-#EXTINF:-1,SR Dalarna
+#EXTINF:-1,SR_Dalarna
 http://http-live.sr.se/p4dalarna-mp3-192?type=.mp3
-#EXTINF:-1,P4 Vast
+#EXTINF:-1,P4_Vast
 http://http-live.sr.se/p4vast-mp3-64
-#EXTINF:-1,Halmstad NarRadio
+#EXTINF:-1,Halmstad_NarRadio
 http://81.233.31.238:8000/?
-#EXTINF:-1,Best Music Ever
+#EXTINF:-1,Best_Music_Ever
 http://193.234.205.212:8000/
-#EXTINF:-1,P4 Ostergotland
+#EXTINF:-1,P4_Ostergotland
 http://http-live.sr.se/p4ostergotland-mp3-64
 #EXTINF:-1,Pulsefm.se
 http://titan.shoutca.st:8339/stream
-#EXTINF:-1,Halmstad Sommarradio
+#EXTINF:-1,Halmstad_Sommarradio
 http://192.165.96.9:8000/
-#EXTINF:-1,Radio Fyris
+#EXTINF:-1,Radio_Fyris
 http://media.radiofyris.se/Vinny/dodsvantan/ADDavsnittet.mp3
-#EXTINF:-1,Radio Falkoping
+#EXTINF:-1,Radio_Falkoping
 http://radio.fnf.nu:443/fnf.mp3
-#EXTINF:-1,P2 Musik
+#EXTINF:-1,P2_Musik
 http://http-live.sr.se/p2musik-mp3-64
-#EXTINF:-1,Radio Play Factory
+#EXTINF:-1,Radio_Play_Factory
 http://dab.no:8900
-#EXTINF:-1,Tidaholm FM
+#EXTINF:-1,Tidaholm_FM
 http://stream1.bogalnet.se:443/radiotidaholm.mp3
-#EXTINF:-1,Crystal One Talk
+#EXTINF:-1,Crystal_One_Talk
 http://neptune.crystalone.net:8000/music.mp3
-#EXTINF:-1,Jennebo Radio
+#EXTINF:-1,Jennebo_Radio
 http://edge.mixlr.com/channel/atvcm
-#EXTINF:-1,P4 Blekinge
+#EXTINF:-1,P4_Blekinge
 http://http-live.sr.se/p4blekinge-mp3-192
 #EXTINF:-1,Radiogodis.se
 http://radiogodis.org:8004/
-#EXTINF:-1,P2 Klassiskt
+#EXTINF:-1,P2_Klassiskt
 https://http-live.sr.se/p2musik-mp3-192
-#EXTINF:-1,Radio Sydvast
+#EXTINF:-1,Radio_Sydvast
 http://149.255.59.3:8049/stream
-#EXTINF:-1,Guldkanalen 80 tal
+#EXTINF:-1,Guldkanalen_80_tal
 http://stream.dbmedia.se/gk80tal96
-#EXTINF:-1,Sjobo Narradio
+#EXTINF:-1,Sjobo_Narradio
 https://stream.flexitech.se:8020/sjobonarradio
-#EXTINF:-1,GBS-FM Goon Radio
+#EXTINF:-1,GBS-FM_Goon_Radio
 https://gbs.fm/256
-#EXTINF:-1,Radio Shahrvand
+#EXTINF:-1,Radio_Shahrvand
 http://radiostreamone.mine.nu:9100/stream.mp3
-#EXTINF:-1,P4 Jonkoping
+#EXTINF:-1,P4_Jonkoping
 http://http-live.sr.se/p4jonkoping-mp3-128?type=.mp3
-#EXTINF:-1,BRPSA Radio
+#EXTINF:-1,BRPSA_Radio
 http://www.live365.com/play/brpsaradio?type=.mp3
-#EXTINF:-1,Radio Hassleholm
+#EXTINF:-1,Radio_Hassleholm
 http://87.96.210.54:88/broadwave.mp3
-#EXTINF:-1,P4 Halland
+#EXTINF:-1,P4_Halland
 http://http-live.sr.se/p4halland-mp3-128?type=.mp3
-#EXTINF:-1,Q Music Sverige
+#EXTINF:-1,Q_Music_Sverige
 http://centauri.shoutca.st:8354/stream
-#EXTINF:-1,Sverigekanalen 5 Extra
+#EXTINF:-1,Sverigekanalen_5_Extra
 http://tachyon.shoutca.st:8128/
-#EXTINF:-1,Radio MRS
+#EXTINF:-1,Radio_MRS
 http://radiostreamtwo.no-ip.org:19050/
 #EXTINF:-1,Cityradion
 http://83.209.34.106:8000/
-#EXTINF:-1,Vinyl Godis Radio
+#EXTINF:-1,Vinyl_Godis_Radio
 http://nvradio.info:8000/
-#EXTINF:-1,Radio Payam Göteborg
+#EXTINF:-1,Radio_Payam_Göteborg
 https://streamingv2.shoutcast.com/RadioPayam
-#EXTINF:-1,Radio P5 Sweden
+#EXTINF:-1,Radio_P5_Sweden
 https://stream.nsp.se/P5
-#EXTINF:-1,Radio Clubzone
+#EXTINF:-1,Radio_Clubzone
 http://virtualdjradio.com:8000/channel1.mp3
-#EXTINF:-1,Scene Sat Radio
+#EXTINF:-1,Scene_Sat_Radio
 http://salyut80.scenesat.com/scenesat
-#EXTINF:-1,Grid Stream Productions
+#EXTINF:-1,Grid_Stream_Productions
 http://daniel.torontocast.com:1740/stream
 #EXTINF:-1,RadioHits
 http://john631.serverroom.net:6484/stream.mp3
-#EXTINF:-1,Pop And Rock Music Radio
+#EXTINF:-1,Pop_And_Rock_Music_Radio
 http://listen.radionomy.com/popandrockmusicradio
-#EXTINF:-1,DistFM Web Rock Radio
+#EXTINF:-1,DistFM_Web_Rock_Radio
 http://185.80.220.12/proxy/distfmsam192?mp=/stream
-#EXTINF:-1,ICPRM Radio Sweden
+#EXTINF:-1,ICPRM_Radio_Sweden
 https://node-29.zeno.fm/kybydz65sfeuv?rj-ttl=5&amprj-tok=AAABbyzsvoYArZ1WbODYjO4ceA
-#EXTINF:-1,Trucknet Radio
+#EXTINF:-1,Trucknet_Radio
 http://stream.ueteknik.se:8000/trucknetradio?type=.mp3
-#EXTINF:-1,Gimme Indie
+#EXTINF:-1,Gimme_Indie
 http://217.115.44.177:8000/07.mp3.indie?type=.mp3
-#EXTINF:-1,P4 Vasternorrland
+#EXTINF:-1,P4_Vasternorrland
 http://http-live.sr.se/p4vasternorrland-mp3-128?type=.mp3
-#EXTINF:-1,P4 Varmland
+#EXTINF:-1,P4_Varmland
 http://http-live.sr.se/p4varmland-mp3-128?type=.mp3
-#EXTINF:-1,Radio Skelleftea
+#EXTINF:-1,Radio_Skelleftea
 http://cast.audiostream.link/radio/8020/stream
-#EXTINF:-1,Radio Bohuslan
+#EXTINF:-1,Radio_Bohuslan
 http://studio.isasecret.com:8010/
-#EXTINF:-1,Radio Bullen
+#EXTINF:-1,Radio_Bullen
 http://184.107.68.177/stream.nsv
-#EXTINF:-1,P4 Sormland
+#EXTINF:-1,P4_Sormland
 http://http-live.sr.se/p4sormland-mp3-128?type=.mp3
-#EXTINF:-1,Selector Radio
+#EXTINF:-1,Selector_Radio
 http://streaming.radionomy.com/SelectorRadio?type=.mp3
-#EXTINF:-1,NERadio House and Trance
+#EXTINF:-1,NERadio_House_and_Trance
 http://fire1.neradio.com
-#EXTINF:-1,Sverige Kanalen 2
+#EXTINF:-1,Sverige_Kanalen_2
 http://109.169.23.95:26965/
-#EXTINF:-1,P4 Kristianstad
+#EXTINF:-1,P4_Kristianstad
 http://http-live.sr.se/p4kristianstad-mp3-128
-#EXTINF:-1,P2 Riks
+#EXTINF:-1,P2_Riks
 http://http-live.sr.se/p2musik-mp3-128?type=.mp3
-#EXTINF:-1,Valhalla Viking Radio
+#EXTINF:-1,Valhalla_Viking_Radio
 http://81.231.106.229:8000/stream.mp3
-#EXTINF:-1,Radio Eskilstuna
+#EXTINF:-1,Radio_Eskilstuna
 http://ice-cluster.streaming.xmc.se/radioeskilstuna
-#EXTINF:-1,P4 Sjuharad
+#EXTINF:-1,P4_Sjuharad
 http://http-live.sr.se/p4sjuharad-mp3-128?type=.mp3
-#EXTINF:-1,Radio Karlstad Rocks
+#EXTINF:-1,Radio_Karlstad_Rocks
 http://radio.karlstadrocks.se:8000
-#EXTINF:-1,Oldies FM Gävle
+#EXTINF:-1,Oldies_FM_Gävle
 https://listen.radioking.com/radio/366505/stream/417820
-#EXTINF:-1,P4 Skaraborg
+#EXTINF:-1,P4_Skaraborg
 http://http-live.sr.se/p4skaraborg-mp3-128?type=.mp3
-#EXTINF:-1,Radio Rockstar Sweden
+#EXTINF:-1,Radio_Rockstar_Sweden
 http://stream.ueteknik.se:8000/rockstar
-#EXTINF:-1,Stockholm FM 101.1
+#EXTINF:-1,Stockholm_FM_101.1
 http://radiostreamone.mine.nu:18020/
-#EXTINF:-1,Radio Arta Stockholm
+#EXTINF:-1,Radio_Arta_Stockholm
 http://173.192.207.51:8086/stream.mp3
-#EXTINF:-1,Radio Campus Sweden
+#EXTINF:-1,Radio_Campus_Sweden
 http://130.243.117.157:8000/radiocampus
-#EXTINF:-1,Star 80s
+#EXTINF:-1,Star_80s
 http://wr02-icecast.mtg-r.net/wr02_mp3?type=.mp3
-#EXTINF:-1,Radio1 se
+#EXTINF:-1,Radio1_se
 http://fm03-icecast.mtg-r.net/fm03_mp3?platform=web
-#EXTINF:-1,Radio Siljan
+#EXTINF:-1,Radio_Siljan
 http://stream.ueteknik.se:8000/siljan?type=.mp3
-#EXTINF:-1,Radio Sedaie Ashena
+#EXTINF:-1,Radio_Sedaie_Ashena
 http://213.113.64.188:88/broadwave.mp3?src=1&amprate=1
-#EXTINF:-1,Rosengards Radio
+#EXTINF:-1,Rosengards_Radio
 http://176.31.159.53:8006/
-#EXTINF:-1,Radio Rangarang 94.6
+#EXTINF:-1,Radio_Rangarang_94.6
 http://radiostreamthree.mine.nu:19460/
-#EXTINF:-1,Sverigekanalen Mediacast1
+#EXTINF:-1,Sverigekanalen_Mediacast1
 http://78.129.229.120:15604/
-#EXTINF:-1,Radio Floda
+#EXTINF:-1,Radio_Floda
 http://streaming.nordblommedia.se:8040/
-#EXTINF:-1,Radio Sky Rose
+#EXTINF:-1,Radio_Sky_Rose
 http://shoutcast.radioskyrose.com:8000/stream/1/
-#EXTINF:-1,Sverigekanalen Dala 1
+#EXTINF:-1,Sverigekanalen_Dala_1
 http://82.145.59.200:195777/
-#EXTINF:-1,P4 Jamtland
+#EXTINF:-1,P4_Jamtland
 http://http-live.sr.se/p4jamtland-mp3-128?type=.mp3
-#EXTINF:-1,Radio Record Sweden
+#EXTINF:-1,Radio_Record_Sweden
 http://streaming.nordblommedia.se:8100
-#EXTINF:-1,Radio Markaryd
+#EXTINF:-1,Radio_Markaryd
 http://87.117.201.22:8400
-#EXTINF:-1,Stockholm College Radio
+#EXTINF:-1,Stockholm_College_Radio
 http://radiostreamone.mine.nu:18010/?1444906179227.mp3/
-#EXTINF:-1,Nacka Rockers Kommunal Radio
+#EXTINF:-1,Nacka_Rockers_Kommunal_Radio
 http://81.228.196.20:80/
 #EXTINF:-1,Mobilkanalen
 http://109.169.23.22:8912/
 #EXTINF:-1,Polarlicht
 https://polarlicht.stream.laut.fm/polarlicht?t302=2019-03-13_10-27-16&ampuuid=54be6fc0-3c35-4d69-9e77-5af567ff9eae
-#EXTINF:-1,Hoganas Narradio
+#EXTINF:-1,Hoganas_Narradio
 http://server.pmradio.se:10000/stream.nsv
-#EXTINF:-1,Radio pE20
+#EXTINF:-1,Radio_pE20
 http://streaming2.nordblommedia.se:443/radiope20.mp3
-#EXTINF:-1,Sverigekanalen Dala 2
+#EXTINF:-1,Sverigekanalen_Dala_2
 http://109.169.15.20:10006/
-#EXTINF:-1,Sverigekanalen 4C
+#EXTINF:-1,Sverigekanalen_4C
 http://109.169.37.137:16428/
-#EXTINF:-1,Sverigekanalen mobil1
+#EXTINF:-1,Sverigekanalen_mobil1
 http://212.84.160.187:9056/
-#EXTINF:-1,NERadio Hardstyle
+#EXTINF:-1,NERadio_Hardstyle
 http://load.hardstyle.nu:443
-#EXTINF:-1,Radio Halmstad 88.6
+#EXTINF:-1,Radio_Halmstad_88.6
 https://s5.voscast.com:10189/stream
-#EXTINF:-1,Sverigekanalen Kanal 3B
+#EXTINF:-1,Sverigekanalen_Kanal_3B
 http://s11.myradiostream.com:13078/stream.mp3
-#EXTINF:-1,Sverigekanalen Mixxx
+#EXTINF:-1,Sverigekanalen_Mixxx
 http://78.129.222.70:12782/
-#EXTINF:-1,Radio Tbone
+#EXTINF:-1,Radio_Tbone
 http://radiotbone.servebeer.com:8000/
-#EXTINF:-1,Radio Ornskoldsvik
+#EXTINF:-1,Radio_Ornskoldsvik
 http://webradio.radioovik.se:8000
-#EXTINF:-1,Sverigekanalen 4D
+#EXTINF:-1,Sverigekanalen_4D
 http://109.169.37.137:36939/
-#EXTINF:-1,Radio Nord 98.3
+#EXTINF:-1,Radio_Nord_98.3
 http://radio.tabyenskilda.se:8000/
-#EXTINF:-1,Sabor Latino 89 FM
+#EXTINF:-1,Sabor_Latino_89_FM
 http://176.31.246.109:8000/saborlatino?type=.mp3
-#EXTINF:-1,Radio Roslagen
+#EXTINF:-1,Radio_Roslagen
 http://stream.radioroslagen.se:8000/mp3.mp3
 #EXTINF:-1,Radio-Schweden
 https://radio-schweden.stream.laut.fm/radio-schweden
-#EXTINF:-1,Umea studentradio
+#EXTINF:-1,Umea_studentradio
 http://webb.umeastudentradio.se:8000/usr.mp3?_=1?type=.mp3
-#EXTINF:-1,Sverige Kanalen 2C
+#EXTINF:-1,Sverige_Kanalen_2C
 http://78.129.229.120:37494/
-#EXTINF:-1,Radio Iran On Air
+#EXTINF:-1,Radio_Iran_On_Air
 http://iranonairone.mine.nu:9300/
-#EXTINF:-1,Sverigekanalen Lyssna1
+#EXTINF:-1,Sverigekanalen_Lyssna1
 http://78.129.193.82:7470/
-#EXTINF:-1,SR Extra 9
+#EXTINF:-1,SR_Extra_9
 http://http-live.sr.se/p4gotland-mp3-128?type=.mp3
-#EXTINF:-1,Roslagen Live
+#EXTINF:-1,Roslagen_Live
 https://radio.daemon.nu/radio/8020/mq
 #EXTINF:-1,MusikMixense
 https://http-live.sr.se/p3-mp3-192
-#EXTINF:-1,Radio Madbone 365
+#EXTINF:-1,Radio_Madbone_365
 http://live.noip.me/stream/1/
-#EXTINF:-1,Sverigekanalen 5C
+#EXTINF:-1,Sverigekanalen_5C
 http://s6.myradiostream.com:7194/
-#EXTINF:-1,Sverigekanalen Lyssna 2
+#EXTINF:-1,Sverigekanalen_Lyssna_2
 http://109.169.76.153:34799/
-#EXTINF:-1,Sverigekanalen Direkt 5
+#EXTINF:-1,Sverigekanalen_Direkt_5
 http://78.129.222.62:27502/
-#EXTINF:-1,Radio Kungs Backa
+#EXTINF:-1,Radio_Kungs_Backa
 http://212.73.175.58:8010/
-#EXTINF:-1,Sverige Kanalen 3C
+#EXTINF:-1,Sverige_Kanalen_3C
 http://s29.myradiostream.com:13242/
-#EXTINF:-1,Sverigekanalen Direkt 2
+#EXTINF:-1,Sverigekanalen_Direkt_2
 http://82.145.41.107:10820/
-#EXTINF:-1,Sverigekanalen Lyssna 3
+#EXTINF:-1,Sverigekanalen_Lyssna_3
 http://78.129.185.81:4161/
-#EXTINF:-1,Sverigekanalen Lyssna 4
+#EXTINF:-1,Sverigekanalen_Lyssna_4
 http://78.129.229.122:17752/
-#EXTINF:-1,Västra Hamnen Radion
+#EXTINF:-1,Västra_Hamnen_Radion
 https://s3.radio.co/s2d61113ff/listen
-#EXTINF:-1,Sverigekanalen 5D
+#EXTINF:-1,Sverigekanalen_5D
 http://109.73.65.69:4080/
 #EXTINF:-1,Radiofredag.se
 https://edge.mixlr.com/channel/vrmfz

@@ -1,137 +1,137 @@
 #EXTM3U
-#EXTINF:-1,Asia Expat Radio
+#EXTINF:-1,Asia_Expat_Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/AXRAAC.aac
-#EXTINF:-1,RTHK Radio 1
+#EXTINF:-1,RTHK_Radio_1
 https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
-#EXTINF:-1,RTHK Radio 2
+#EXTINF:-1,RTHK_Radio_2
 https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
-#EXTINF:-1,RTHK Radio 3
+#EXTINF:-1,RTHK_Radio_3
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
-#EXTINF:-1,RTHK Radio 4
+#EXTINF:-1,RTHK_Radio_4
 https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
-#EXTINF:-1,RTHK Radio 5
+#EXTINF:-1,RTHK_Radio_5
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
-#EXTINF:-1,RTHK Radio 6
+#EXTINF:-1,RTHK_Radio_6
 https://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
-#EXTINF:-1,RTHK Putonghua Channel
+#EXTINF:-1,RTHK_Putonghua_Channel
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
-#EXTINF:-1,Metro Info
+#EXTINF:-1,Metro_Info
 http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8
-#EXTINF:-1,Metro Finance
+#EXTINF:-1,Metro_Finance
 http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8
-#EXTINF:-1,Metro Plus
+#EXTINF:-1,Metro_Plus
 http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8
-#EXTINF:-1,Passion Times
+#EXTINF:-1,Passion_Times
 http://ptmirror3.passiontimes.hk/hls3/stream.m3u8
 #EXTINF:-1,Talkonly
 http://103.11.102.62:8000/talkonly.mp3
 #EXTINF:-1,Apple-FM
 http://server20.applesources.net:8000/apple-fm.mp3
-#EXTINF:-1,Digital Radio Hong Kong
+#EXTINF:-1,Digital_Radio_Hong_Kong
 http://sc.digitalradiohk.net:8394/
-#EXTINF:-1,Radio Lantau
+#EXTINF:-1,Radio_Lantau
 http://205.134.253.103:9302/
-#EXTINF:-1,Billboard Radio China 80s/90s
+#EXTINF:-1,Billboard_Radio_China_80s/90s
 http://gfm.rastream.com/gfm-awesome80s
-#EXTINF:-1,RTHK Radio 1 92.6 FM
+#EXTINF:-1,RTHK_Radio_1_92.6_FM
 http://stm1.rthk.hk/radio1
-#EXTINF:-1,RTHK Radio 2 94.8 FM
+#EXTINF:-1,RTHK_Radio_2_94.8_FM
 http://stm1.rthk.hk/radio2
-#EXTINF:-1,RTHK Radio 3 97.9 FM
+#EXTINF:-1,RTHK_Radio_3_97.9_FM
 http://stm1.rthk.hk/radio3
-#EXTINF:-1,RTHK Radio 4 97.6 FM
+#EXTINF:-1,RTHK_Radio_4_97.6_FM
 http://stm1.rthk.hk/radio4
-#EXTINF:-1,RTHK Radio 5 783 AM
+#EXTINF:-1,RTHK_Radio_5_783_AM
 http://stm1.rthk.hk/radio5
-#EXTINF:-1,RTHK Mandarin 621 AM
+#EXTINF:-1,RTHK_Mandarin_621_AM
 http://202.177.192.119/radiopth
-#EXTINF:-1,Apple FM
+#EXTINF:-1,Apple_FM
 http://sc.apple-fm.net:9020/stream/1
-#EXTINF:-1,RTHK Putonghua Radio
+#EXTINF:-1,RTHK_Putonghua_Radio
 http://202.177.192.119/radiopth?type=.mp3/stream.mp3
 #EXTINF:-1,AppleFM
 http://sc.apple-fm.net:9020/
-#EXTINF:-1,AXR  Hong Kong
+#EXTINF:-1,AXR__Hong_Kong
 https://hongkongstream.axr.online/
-#EXTINF:-1,Billboard Radio China  80s90s
+#EXTINF:-1,Billboard_Radio_China__80s90s
 https://gfm.rastream.com/gfm-awesome80s?
-#EXTINF:-1,Billboard Radio China  Asia Hits
+#EXTINF:-1,Billboard_Radio_China__Asia_Hits
 https://billboardradio.rastream.com/gfm-asiahitz.web
-#EXTINF:-1,Billboard Radio China  China Hits
+#EXTINF:-1,Billboard_Radio_China__China_Hits
 https://billboardradio.rastream.com/gfm-asiahitzchina?
-#EXTINF:-1,Billboard Radio China  Hot 100
+#EXTINF:-1,Billboard_Radio_China__Hot_100
 https://gfm.rastream.com/gfm-todaysmix?
-#EXTINF:-1,Billboard Radio China  Rock
+#EXTINF:-1,Billboard_Radio_China__Rock
 https://gfm.rastream.com/gfm-classicsrewind?
-#EXTINF:-1,Fing Radio
+#EXTINF:-1,Fing_Radio
 https://stream.laut.fm/bluesfan
-#EXTINF:-1,HK Latino Radio
+#EXTINF:-1,HK_Latino_Radio
 https://stream.zeno.fm/rvd3ef4x2tzuv
-#EXTINF:-1,IELTS Podcast
+#EXTINF:-1,IELTS_Podcast
 https://streaming.radio.co/se151f189a/listen
-#EXTINF:-1,Bridge Radio
+#EXTINF:-1,Bridge_Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/BRIDGEHITS_S01.mp3
 #EXTINF:-1,良友电台
 https://listen.729ly.net:8001/ly729_a
-#EXTINF:-1,Metro Plus AM 1044
+#EXTINF:-1,Metro_Plus_AM_1044
 https://1435271937.rsc.cdn77.org/1435271937/index.m3u8
-#EXTINF:-1,葉曦揚 Sunny Ip
+#EXTINF:-1,葉曦揚_Sunny_Ip
 http://procyon.shoutca.st:8492/stream
-#EXTINF:-1,AXR Hong Kong
+#EXTINF:-1,AXR_Hong_Kong
 http://playerservices.streamtheworld.com/api/livestream-redirect/AXR_HONGKONG_SC
-#EXTINF:-1,Billboard Radio China Asia Hitz
+#EXTINF:-1,Billboard_Radio_China_Asia_Hitz
 http://gfm.rastream.com/gfm-asiahitz
-#EXTINF:-1,Billboard Radio China Club
+#EXTINF:-1,Billboard_Radio_China_Club
 http://gfm.rastream.com/gfm-clubhkgfm
-#EXTINF:-1,Billboard Radio China Rock
+#EXTINF:-1,Billboard_Radio_China_Rock
 http://billboardradio.rastream.com/gfm-classicsrewind
-#EXTINF:-1,Billboard Radio China Today's Mix
+#EXTINF:-1,Billboard_Radio_China_Today's_Mix
 http://billboardradio.rastream.com/gfm-todaysmix
-#EXTINF:-1,CNR 14 Hong Kong Radio (RTHK6)
+#EXTINF:-1,CNR_14_Hong_Kong_Radio_(RTHK6)
 http://lhttp.qingting.fm/live/4986/64k.mp3
-#EXTINF:-1,D100 Home
+#EXTINF:-1,D100_Home
 http://59.152.232.107:8000/Channel1-64MP3
-#EXTINF:-1,D100 PBS Radio
+#EXTINF:-1,D100_PBS_Radio
 http://live.d100.net:8000/Channel1-128MP3
-#EXTINF:-1,Digital Radio HK
+#EXTINF:-1,Digital_Radio_HK
 http://ice.digitalradiohk.net:8000/drhk
-#EXTINF:-1,HKJ Radio
+#EXTINF:-1,HKJ_Radio
 http://listen.hkjradio.com:8009/live
-#EXTINF:-1,IMC Broadcasting
+#EXTINF:-1,IMC_Broadcasting
 http://server.jvhost.net.:8021/live
-#EXTINF:-1,Life Broadcast Network - Cantonese
+#EXTINF:-1,Life_Broadcast_Network_-_Cantonese
 http://radio.cgbc.life:8000/2.mp3
-#EXTINF:-1,Life Broadcast Network - English
+#EXTINF:-1,Life_Broadcast_Network_-_English
 http://radio.cgbc.life:8000/4.mp3
-#EXTINF:-1,Life Broadcast Network - Mandarin
+#EXTINF:-1,Life_Broadcast_Network_-_Mandarin
 http://radio.cgbc.life:8000/1.mp3
-#EXTINF:-1,Life Broadcast Network - Praise
+#EXTINF:-1,Life_Broadcast_Network_-_Praise
 http://radio.cgbc.life:8000/3.mp3
-#EXTINF:-1,BOSS TSUNA
+#EXTINF:-1,BOSS_TSUNA
 https://stream.zeno.fm/s9qysh9fn1ntv
-#EXTINF:-1,Hk Latino Radio
+#EXTINF:-1,Hk_Latino_Radio
 https://stream.zeno.fm/0afmaf4x2tzuv
 #EXTINF:-1,marlou
 https://stream.zeno.fm/jy8ok90ftj2tv
-#EXTINF:-1,NEW SHA
+#EXTINF:-1,NEW_SHA
 https://stream.zeno.fm/e5g3r7jioqrvv
 #EXTINF:-1,SHASHAMAOY
 https://stream.zeno.fm/ihfl1h2evqrtv
-#EXTINF:-1,SOWJ 2
+#EXTINF:-1,SOWJ_2
 https://stream.zeno.fm/7ci62cgb61bvv
-#EXTINF:-1,SOWJ 3
+#EXTINF:-1,SOWJ_3
 https://stream.zeno.fm/pqeo49g9dd3vv
 #EXTINF:-1,SADSHA
 https://stream.zeno.fm/kswff8ffhpgtv
 #EXTINF:-1,Jopaymalakas
 https://stream.zeno.fm/szxdilz3it1vv
-#EXTINF:-1,JOPAY 777
+#EXTINF:-1,JOPAY_777
 https://stream.zeno.fm/ozengjd7vctvv
-#EXTINF:-1,M Groove
+#EXTINF:-1,M_Groove
 https://stream.zeno.fm/jdacaz7rqlfvv
 #EXTINF:-1,MAOYMAOY
 https://stream.zeno.fm/jp8zjmerfbhvv
-#EXTINF:-1,Original Radio
+#EXTINF:-1,Original_Radio
 https://stream.zeno.fm/64w8au0dd8zuv
 #EXTINF:-1,SHASHABOG
 https://stream.zeno.fm/llmx2h78lketv
@@ -141,51 +141,51 @@ https://stream.zeno.fm/m9eswj1pti5uv
 https://stream.zeno.fm/mt8tfxippxdvv
 #EXTINF:-1,MutzikerLab
 https://stream.zeno.fm/3w0a8w2dbchvv
-#EXTINF:-1,Highfun Radios
+#EXTINF:-1,Highfun_Radios
 https://stream.zeno.fm/fcfubeyct68uv
-#EXTINF:-1,new shasha
+#EXTINF:-1,new_shasha
 https://stream.zeno.fm/mjnrc0bkkrltv
 #EXTINF:-1,DEYBMAOY
 https://stream.zeno.fm/lfou2hen8ktuv
-#EXTINF:-1,Pasaway10.11fm online radio
+#EXTINF:-1,Pasaway10.11fm_online_radio
 https://stream.zeno.fm/m1vycdqypfhvv
-#EXTINF:-1,BREEZE 88 GOLDEN
+#EXTINF:-1,BREEZE_88_GOLDEN
 https://stream.zeno.fm/vgqrq61wkchvv
 #EXTINF:-1,PostMusic24FM
 https://stream.zeno.fm/1nr31szv1f9uv
 #EXTINF:-1,joyjoy
 https://stream.zeno.fm/4nnnkccabmfvv
-#EXTINF:-1,Boss ains
+#EXTINF:-1,Boss_ains
 https://stream.zeno.fm/9c915ydexgzuv
-#EXTINF:-1,BREEZE 88 FM
+#EXTINF:-1,BREEZE_88_FM
 https://stream.zeno.fm/vb271muvkchvv
 #EXTINF:-1,SHAGANDA
 https://stream.zeno.fm/ef7zhzf0atkuv
-#EXTINF:-1,Lofi FM Radio - by kaoriori
+#EXTINF:-1,Lofi_FM_Radio_-_by_kaoriori
 https://stream.zeno.fm/reb5dqqqhs8uv
-#EXTINF:-1,DWBG-FM BIG SOUND FM BAGUIO
+#EXTINF:-1,DWBG-FM_BIG_SOUND_FM_BAGUIO
 https://stream.zeno.fm/ghdgndebpkhvv
-#EXTINF:-1,XDHK Radio
+#EXTINF:-1,XDHK_Radio
 https://stream.zeno.fm/4xkd29kcay8uv
-#EXTINF:-1,kpop music
+#EXTINF:-1,kpop_music
 https://stream.zeno.fm/xpnmkvcu008uv
 #EXTINF:-1,gggggggggg
 https://stream.zeno.fm/fpdzsez1zf9uv
-#EXTINF:-1,Tzgospel(swahili ) hongkong
+#EXTINF:-1,Tzgospel(swahili_)_hongkong
 https://stream.zeno.fm/1atpwm3fzchvv
-#EXTINF:-1,Radio Balkanci
+#EXTINF:-1,Radio_Balkanci
 https://stream.zeno.fm/8tdb50td2c9uv
-#EXTINF:-1,101.1 BIG HEART FM
+#EXTINF:-1,101.1_BIG_HEART_FM
 https://stream.zeno.fm/n8k2draytrhvv
-#EXTINF:-1,HKYGC Channel 1
+#EXTINF:-1,HKYGC_Channel_1
 https://stream.zeno.fm/qvyz5w1psg0uv
-#EXTINF:-1,Onyx Radio
+#EXTINF:-1,Onyx_Radio
 https://stream.zeno.fm/y3h5vtu3hv8uv
 #EXTINF:-1,PostMusic24FM-ATB
 https://stream.zeno.fm/p313s6qx1f9uv
-#EXTINF:-1,Saturday Report
+#EXTINF:-1,Saturday_Report
 https://stream.zeno.fm/6q089n722s8uv
-#EXTINF:-1,Highfun Radios ( shows)
+#EXTINF:-1,Highfun_Radios_(_shows)
 https://stream.zeno.fm/vzgtzzs0x68uv
 #EXTINF:-1,HAKDOG
 https://stream.zeno.fm/0rdwtjd4sgevv
@@ -193,221 +193,221 @@ https://stream.zeno.fm/0rdwtjd4sgevv
 https://stream.zeno.fm/q44ytrpyyv8uv
 #EXTINF:-1,gdragon
 https://stream.zeno.fm/9hxch8qe408uv
-#EXTINF:-1,Chill Out 86400
+#EXTINF:-1,Chill_Out_86400
 https://stream.zeno.fm/g7yec7nsqfhvv
-#EXTINF:-1,NightcoreSkies All-Day Live Nightcore and Slowed Radio
+#EXTINF:-1,NightcoreSkies_All-Day_Live_Nightcore_and_Slowed_Radio
 https://stream.zeno.fm/xo1tkjqp1eevv
-#EXTINF:-1,The Weekend Rock Show
+#EXTINF:-1,The_Weekend_Rock_Show
 https://stream.zeno.fm/3z6vkvkyty8uv
-#EXTINF:-1,NewsNet WH
+#EXTINF:-1,NewsNet_WH
 https://stream.zeno.fm/upwp4t6c7a0uv
 #EXTINF:-1,Testonlineradio
 https://stream.zeno.fm/yxgk57xuqfhvv
 #EXTINF:-1,radiovoceamore
 https://stream.zeno.fm/ycpgpbhxra0uv
-#EXTINF:-1,Hail Mary Full of Grace Prayer
+#EXTINF:-1,Hail_Mary_Full_of_Grace_Prayer
 https://stream.zeno.fm/umkmmmc22s8uv
-#EXTINF:-1,rodeo musix
+#EXTINF:-1,rodeo_musix
 https://stream.zeno.fm/71nxdyw5pa0uv
-#EXTINF:-1,Brasil play moderno
+#EXTINF:-1,Brasil_play_moderno
 https://stream.zeno.fm/7dfkdt2qyc9uv
-#EXTINF:-1,Star Global Fm
+#EXTINF:-1,Star_Global_Fm
 https://stream.zeno.fm/dr68yeufkf9uv
 #EXTINF:-1,gtsass
 https://stream.zeno.fm/06r0ykz1zf9uv
-#EXTINF:-1,Teen Talk
+#EXTINF:-1,Teen_Talk
 https://stream.zeno.fm/794vzqx6xf9uv
-#EXTINF:-1,BREEZE 88 JAZZ
+#EXTINF:-1,BREEZE_88_JAZZ
 https://stream.zeno.fm/h08n3x6mmchvv
-#EXTINF:-1,CJ Live
+#EXTINF:-1,CJ_Live
 https://stream.zeno.fm/yvw3cssmefhvv
 #EXTINF:-1,asdasd
 https://stream.zeno.fm/vkj37u0y08ptv
-#EXTINF:-1,Lye Radio Station
+#EXTINF:-1,Lye_Radio_Station
 https://stream.zeno.fm/uchuyhgqtxxtv
 #EXTINF:-1,FMtest
 https://stream.zeno.fm/0smara72u7zuv
-#EXTINF:-1,Samp Android
+#EXTINF:-1,Samp_Android
 https://stream.zeno.fm/y5k8zf7qyc9uv
-#EXTINF:-1,Ayse Teyze Sahin K
+#EXTINF:-1,Ayse_Teyze_Sahin_K
 https://stream.zeno.fm/bfuhlgetkcctv
 #EXTINF:-1,Apple-FM.net
 http://sc7b.apple-fm.net:8188/listen.pls
-#EXTINF:-1,Fauve Radio
+#EXTINF:-1,Fauve_Radio
 https://streamer.radio.co/sde68d7e6b/listen
-#EXTINF:-1,Hong Kong Community Radio
+#EXTINF:-1,Hong_Kong_Community_Radio
 https://hkcr.live/audio/index.m3u8
-#EXTINF:-1,La French Radio Honk-Kong et Macao
+#EXTINF:-1,La_French_Radio_Honk-Kong_et_Macao
 https://listen.radioking.com/radio/333865/stream/382282
-#EXTINF:-1,Metro Radio Finance Hong Kong
+#EXTINF:-1,Metro_Radio_Finance_Hong_Kong
 https://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8
 #EXTINF:-1,Originalradio
 https://stream.zeno.fm/rzwzgu0dd8zuv
-#EXTINF:-1,radio 1
+#EXTINF:-1,radio_1
 https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
-#EXTINF:-1,RTHK radio 2
+#EXTINF:-1,RTHK_radio_2
 https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8
-#EXTINF:-1,RTHK radio 3
+#EXTINF:-1,RTHK_radio_3
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8
-#EXTINF:-1,RTHK Radio 6 央廣香港之聲
+#EXTINF:-1,RTHK_Radio_6_央廣香港之聲
 http://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8
-#EXTINF:-1,傍晚新聞天地 18:30
+#EXTINF:-1,傍晚新聞天地_18:30
 https://rthkaod3-vh.akamaihd.net/i/m4a/radio/archive/radio1/6oclocknews/m4a/20220113.m4a/master.m3u8?callback=jQuery112409800777413835493_1642074777532\u0026_=1642074777533
 #EXTINF:-1,夜空傳情
 http://procyon.shoutca.st:8492/listen.mp3
-#EXTINF:-1,The Bridge Best Beats
+#EXTINF:-1,The_Bridge_Best_Beats
 https://playerservices.streamtheworld.com/api/livestream-redirect/BRIDGEEDM_S01AAC.aac
-#EXTINF:-1,Radio Rzo China
+#EXTINF:-1,Radio_Rzo_China
 https://node-18.zeno.fm/5mx670rvzp8uv
 #EXTINF:-1,Originalradio.org
 https://node-35.zeno.fm/rzwzgu0dd8zuv
-#EXTINF:-1,BRG – China Hits
+#EXTINF:-1,BRG_–_China_Hits
 http://202.177.192.119/radio5
 #EXTINF:-1,LoveHKradio
 http://streaming.radio.co/s6f4c5734d/listen
-#EXTINF:-1,Metro Finance FM
+#EXTINF:-1,Metro_Finance_FM
 http://metroradio-lh.akamaihd.net/i/104_h@349798/index_48_a-p.m3u8?sd=10&amprebase=on
-#EXTINF:-1,Metro Radio Showbiz
+#EXTINF:-1,Metro_Radio_Showbiz
 http://metroradio-lh.akamaihd.net/i/997_h@349799/index_48_a-b.m3u8
-#EXTINF:-1,myclub Listen live
+#EXTINF:-1,myclub_Listen_live
 https://stream.laut.fm/myclub?ref=radiode
-#EXTINF:-1,WQQQ - WSHU Public Radio Group 103.3 FM Listen live
+#EXTINF:-1,WQQQ_-_WSHU_Public_Radio_Group_103.3_FM_Listen_live
 https://wshu-iad.streamguys1.com/wshu-air
-#EXTINF:-1,OpenFM - Classic Metal Listen live
+#EXTINF:-1,OpenFM_-_Classic_Metal_Listen_live
 https://stream.open.fm/108
-#EXTINF:-1,TONEART Radio Listen live
+#EXTINF:-1,TONEART_Radio_Listen_live
 https://streamingv2.shoutcast.com/TONEARTRadio
-#EXTINF:-1,BB RADIO - Livestream Havelland Listen live
+#EXTINF:-1,BB_RADIO_-_Livestream_Havelland_Listen_live
 https://streambbr.ir-media-tec.com/sc-brandenburg/mp3-128/
-#EXTINF:-1,Exclusively Roxette Listen live
+#EXTINF:-1,Exclusively_Roxette_Listen_live
 https://streaming.exclusive.radio/er/roxette/icecast.audio
-#EXTINF:-1,Non ho l’età - Radio Ticino Listen live
+#EXTINF:-1,Non_ho_l’età_-_Radio_Ticino_Listen_live
 https://streaming.smartradio.ch:8512/server
-#EXTINF:-1,BLACKPLANET RADIO Listen live
+#EXTINF:-1,BLACKPLANET_RADIO_Listen_live
 https://blackplanetradio.stream.laut.fm/blackplanetradio
-#EXTINF:-1,Cmendina Radio Listen live
+#EXTINF:-1,Cmendina_Radio_Listen_live
 https://streamingv2.shoutcast.com/cmendina-radio
-#EXTINF:-1,Altaro Radio Listen live
+#EXTINF:-1,Altaro_Radio_Listen_live
 https://manager.conceptradio.fr:1135/server
-#EXTINF:-1,889 FM Gbcarchery Listen live
+#EXTINF:-1,889_FM_Gbcarchery_Listen_live
 https://stream.laut.fm/889fm-gbcarchery
-#EXTINF:-1,Adventist Angels Watchman Radio
-http://listen.shoutcast.com/adventistangelswatchmanradio 
-#EXTINF:-1,HKGFM Classics Rewind
+#EXTINF:-1,Adventist_Angels_Watchman_Radio
+http://listen.shoutcast.com/adventistangelswatchmanradio_
+#EXTINF:-1,HKGFM_Classics_Rewind
 http://gfm.rastream.com/gfm-classicsrewind
-#EXTINF:-1,HKGFM The 90's
+#EXTINF:-1,HKGFM_The_90's
 http://gfm.rastream.com/gfm-the90s.m3u
-#EXTINF:-1,HKGFM Todays Mix
+#EXTINF:-1,HKGFM_Todays_Mix
 http://sc.rastream.com:9100/
-#EXTINF:-1,Radio LBM
+#EXTINF:-1,Radio_LBM
 https://streams.radio.co/sfb4d7f31d/listen
-#EXTINF:-1,HKGFM Chill Out
+#EXTINF:-1,HKGFM_Chill_Out
 http://gfm.rastream.com/gfm-chillout.m3u
 #EXTINF:-1,香港80年代樂隊盛世網台
 http://hkpopbandmusic80s.ddns.net:8000/
-#EXTINF:-1,HKGFM The Indie Underground
+#EXTINF:-1,HKGFM_The_Indie_Underground
 http://sc.rastream.com:9060/
-#EXTINF:-1,D100 Radio Hong Kong 香港台
+#EXTINF:-1,D100_Radio_Hong_Kong_香港台
 http://213.229.118.8:8000/Channel2
-#EXTINF:-1,DBC 2 Radio NEWS
+#EXTINF:-1,DBC_2_Radio_NEWS
 http://rtspoversea.dbc.hk/dbc_mp3_ch2?042242.mp3
-#EXTINF:-1,DBC 5 Radio SMILES
+#EXTINF:-1,DBC_5_Radio_SMILES
 http://58.64.197.165:8001/dbc5
-#EXTINF:-1,DBC 3 Radio BUSINESS
+#EXTINF:-1,DBC_3_Radio_BUSINESS
 http://58.64.197.165:8001/dbc3
-#EXTINF:-1,Phoenix U Radio 鳳凰綜合台
+#EXTINF:-1,Phoenix_U_Radio_鳳凰綜合台
 http://202.181.185.182:8000/
-#EXTINF:-1,DBC 4 Radio CAMPUS
+#EXTINF:-1,DBC_4_Radio_CAMPUS
 http://rtspoversea.dbc.hk/dbc_mp3_ch4?221719.mp3
-#EXTINF:-1,Phoenix U Radio Music - 鳳凰音樂台
+#EXTINF:-1,Phoenix_U_Radio_Music_-_鳳凰音樂台
 http://www.881903.com/Resourse/VideoPlayback/res/cr2_local.mp3
-#EXTINF:-1,DBC 6 Radio MUSIC
+#EXTINF:-1,DBC_6_Radio_MUSIC
 http://58.64.197.165:8001/dbc6
-#EXTINF:-1,DBC 7 Radio CO
+#EXTINF:-1,DBC_7_Radio_CO
 http://58.64.197.165:8001/dbc7
-#EXTINF:-1,HKGFM Asia Hitz
+#EXTINF:-1,HKGFM_Asia_Hitz
 http://sc.rastream.com:9010/
 #EXTINF:-1,OMG
 http://00-asia-128.akacast.akamaistream.net/7/841/148615/v1/00.akacast.akamaistream.net/00-asia-128
-#EXTINF:-1,DBC 1 Radio PRIME
+#EXTINF:-1,DBC_1_Radio_PRIME
 http://58.64.197.165:8001/dbc1
-#EXTINF:-1,TalkOnly Radio HK
+#EXTINF:-1,TalkOnly_Radio_HK
 http://103.11.102.62:8000/offair.mp3
-#EXTINF:-1,BEST BEATS
+#EXTINF:-1,BEST_BEATS
 https://samcloud.spacial.com/api/listen?sid=131875&rid=277458&f=mp3,any&br=96000,any&m=sc&t=ssl
 #EXTINF:-1,80s90s
 https://samcloud.spacial.com/api/listen?sid=131874&rid=277454&f=mp3,any&br=96000,any&m=sc&t=ssl
-#EXTINF:-1,Asia Hitz Kpop
+#EXTINF:-1,Asia_Hitz_Kpop
 https://samcloud.spacial.com/api/listen?sid=131877&rid=277465&f=mp3,any&br=96000,any&m=sc&t=ssl
-#EXTINF:-1,Classic Rock
+#EXTINF:-1,Classic_Rock
 https://samcloud.spacial.com/api/listen?sid=131876&rid=277461&f=mp3,any&br=96000,any&m=sc&t=ssl
-#EXTINF:-1,China Hits
+#EXTINF:-1,China_Hits
 https://samcloud.spacial.com/api/listen?sid=131872&rid=277445&f=mp3,any&br=96000,any&m=sc&t=ssl
-#EXTINF:-1,DR P2 Klassisk
+#EXTINF:-1,DR_P2_Klassisk
 http://live-icy.gss.dr.dk/A/A04L.mp3
-#EXTINF:-1,Radio Sunuker
+#EXTINF:-1,Radio_Sunuker
 http://radiosunuker223.primcast.com:6042/
-#EXTINF:-1,Capital Radio
+#EXTINF:-1,Capital_Radio
 http://tx.sharp-stream.com/http_live.php?i=capitalradiosl.mp3
-#EXTINF:-1,Almadies FM Ngor
+#EXTINF:-1,Almadies_FM_Ngor
 http://api.spreaker.com/listen/user/8710338/episode/latest/shoutcast.mp3
-#EXTINF:-1,AXR - Asia Expat Radio Hong Kong
+#EXTINF:-1,AXR_-_Asia_Expat_Radio_Hong_Kong
 https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_HONGKONG.mp3
-#EXTINF:-1,D100 Radio
+#EXTINF:-1,D100_Radio
 http://59.152.232.107:8000/Channel1-128MP3
-#EXTINF:-1,Faizan-e-Auliya Allah Radio HK
+#EXTINF:-1,Faizan-e-Auliya_Allah_Radio_HK
 http://api.spreaker.com/listen/user/8318340/episode/latest/shoutcast.mp3
-#EXTINF:-1,FoP Radio
+#EXTINF:-1,FoP_Radio
 http://fopradio.out.airtime.pro:8000/fopradio_a
-#EXTINF:-1,Houda FM
+#EXTINF:-1,Houda_FM
 http://91.121.153.12:9050/stream
-#EXTINF:-1,ICA Indonesian Radio
+#EXTINF:-1,ICA_Indonesian_Radio
 https://ice64.securenetsystems.net/CLR1MP3
-#EXTINF:-1,Kalaallit Nunaata Radioa
+#EXTINF:-1,Kalaallit_Nunaata_Radioa
 http://radio.knr.gl:8000/
 #EXTINF:-1,Lovehkradio.com
 http://streaming.radio.co:80/s6f4c5734d/listen
-#EXTINF:-1,Pikine Diaspora Radio
+#EXTINF:-1,Pikine_Diaspora_Radio
 http://s8.voscast.com:8252/
-#EXTINF:-1,Prnunes Tsim Sha Tsui live brazil
+#EXTINF:-1,Prnunes_Tsim_Sha_Tsui_live_brazil
 https://stream2.svrdedicado.org:7088/stream
-#EXTINF:-1,RADIO DINGIRAL FULBE
+#EXTINF:-1,RADIO_DINGIRAL_FULBE
 http://s9.voscast.com:8444/
-#EXTINF:-1,Radio Faydatidianiya
+#EXTINF:-1,Radio_Faydatidianiya
 http://listen.senemultimedia.net:5526/
-#EXTINF:-1,Radio Jiida FM Bakel
+#EXTINF:-1,Radio_Jiida_FM_Bakel
 http://jiidafm.ice.infomaniak.ch/jiidafm-96.mp3
-#EXTINF:-1,radio live
+#EXTINF:-1,radio_live
 https://sonicpanel.oficialserver.com/8336/stream
-#EXTINF:-1,Radio Misericordia
+#EXTINF:-1,Radio_Misericordia
 http://rm.aztechnologie.com:8000/misericordia
-#EXTINF:-1,radio pikinebiz
+#EXTINF:-1,radio_pikinebiz
 http://198.178.123.23:7994/
-#EXTINF:-1,Radio Talibé
+#EXTINF:-1,Radio_Talibé
 http://listen.senemultimedia.net:5279/
-#EXTINF:-1,Radio Urum-Bi
+#EXTINF:-1,Radio_Urum-Bi
 http://www.radioking.com/play/urumu-soodaan
-#EXTINF:-1,Roquia from the Koran
+#EXTINF:-1,Roquia_from_the_Koran
 http://quraan.us:9798/
-#EXTINF:-1,Talkonly Live!
+#EXTINF:-1,Talkonly_Live!
 http://live.talkonly.net:8000/talkonly.mp3
-#EXTINF:-1,Xalima Radio
+#EXTINF:-1,Xalima_Radio
 http://radiosunuker221.primcast.com:7148/
 #EXTINF:-1,Xamsadine
 http://s7.voscast.com:7200/
 #EXTINF:-1,GFM.FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOP50HITS_S01.mp3
-#EXTINF:-1,GFM Awesome 80s
+#EXTINF:-1,GFM_Awesome_80s
 https://playerservices.streamtheworld.com/api/livestream-redirect/80S90S_S01AAC.aac
-#EXTINF:-1,Classics Rewind
+#EXTINF:-1,Classics_Rewind
 https://playerservices.streamtheworld.com/api/livestream-redirect/BRIDGECLASSICROCK_S01AAC.aac
-#EXTINF:-1,IMC Broadcasting Radio
+#EXTINF:-1,IMC_Broadcasting_Radio
 http://server.jvhost.net:8021/live
-#EXTINF:-1,Nagaswara FM Hongkong
+#EXTINF:-1,Nagaswara_FM_Hongkong
 http://hongkong.nagaswarafm.com:8088/stream
-#EXTINF:-1,Billboard Radio China -  80/90后 
+#EXTINF:-1,Billboard_Radio_China_-__80/90后_
 https://billboardradio.rastream.com/gfm-awesome80s
-#EXTINF:-1,Billboard Radio China - Club
+#EXTINF:-1,Billboard_Radio_China_-_Club
 https://gfm.rastream.com/gfm-clubhkgfm?
-#EXTINF:-1,Billboard Radio China - Asia Hitz
+#EXTINF:-1,Billboard_Radio_China_-_Asia_Hitz
 https://gfm.rastream.com/gfm-asiahitzchina?

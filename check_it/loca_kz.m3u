@@ -1,67 +1,67 @@
 #EXTM3U
-#EXTINF:-1,Europa Plus Kazakhstan 107.0 FM
+#EXTINF:-1,Europa_Plus_Kazakhstan_107.0_FM
 https://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8
-#EXTINF:-1,Авторадио (Avtoradio)
+#EXTINF:-1,Авторадио_(Avtoradio)
 http://95.56.234.40:8080/AVTORADIO_AAC
-#EXTINF:-1,ХИТ FМ (Hit FM)
+#EXTINF:-1,ХИТ_FМ_(Hit_FM)
 https://hitfm.hostingradio.ru/hitfm96.aacp
-#EXTINF:-1,Radio NS - (Русский Хит) Russian Hit
+#EXTINF:-1,Radio_NS_-_(Русский_Хит)_Russian_Hit
 http://89.219.35.26:8000/radions
-#EXTINF:-1,90s Eurodance
+#EXTINF:-1,90s_Eurodance
 http://listen1.myradio24.com:9000/5967
-#EXTINF:-1,Energy FM 102.2
+#EXTINF:-1,Energy_FM_102.2
 http://89.219.34.117:8008/NEWENERGY
-#EXTINF:-1,Radio Dala FM
+#EXTINF:-1,Radio_Dala_FM
 http://95.56.234.40:8080/DALA_128
 #EXTINF:-1,LoveRadio
 http://stream2.n340.com/12_love_24_reg_23737
-#EXTINF:-1,Радио Жұлдыз FM (Radio Star FM)
+#EXTINF:-1,Радио_Жұлдыз_FM_(Radio_Star_FM)
 http://91.201.214.229:8000/zhulduz
-#EXTINF:-1,Radio ICE
+#EXTINF:-1,Radio_ICE
 http://onair.radioice.ru:8000/mp3_192
-#EXTINF:-1,Ретро FM Казахстан
+#EXTINF:-1,Ретро_FM_Казахстан
 http://s1.radioheart.ru:8001/retrofm-kz-128
-#EXTINF:-1,Astana Radio (Астана радиосы)
+#EXTINF:-1,Astana_Radio_(Астана_радиосы)
 https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
-#EXTINF:-1,Qazaq radiosy
+#EXTINF:-1,Qazaq_radiosy
 https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
-#EXTINF:-1,Радио Тенгри FM (Radio Tengri FM)
+#EXTINF:-1,Радио_Тенгри_FM_(Radio_Tengri_FM)
 http://91.201.214.229:8000/tengrifm
-#EXTINF:-1,Orda FM
+#EXTINF:-1,Orda_FM
 https://edge01.daitsuna.net/orda/orda/icecast.audio
-#EXTINF:-1,Business FM (БИЗНЕС FM)
+#EXTINF:-1,Business_FM_(БИЗНЕС_FM)
 http://94.247.130.243:5050/business
-#EXTINF:-1,Radio Sana
+#EXTINF:-1,Radio_Sana
 http://46.105.180.202:8021/stream.ogg
-#EXTINF:-1,Radio Alau
+#EXTINF:-1,Radio_Alau
 http://109.248.236.142:8000/
-#EXTINF:-1,NE.FM Dance
+#EXTINF:-1,NE.FM_Dance
 http://ne.fm/mp3/NE.FM
-#EXTINF:-1,NE.FM Urban
+#EXTINF:-1,NE.FM_Urban
 http://ne.fm/mp3/URBAN
-#EXTINF:-1,Radio NS - Lounge
+#EXTINF:-1,Radio_NS_-_Lounge
 http://89.219.35.26:8000/radions-lounge
-#EXTINF:-1,Radio NS - Jazz
+#EXTINF:-1,Radio_NS_-_Jazz
 http://89.219.35.26:8000/radions-jazz
-#EXTINF:-1,Radio NS - Chanson
+#EXTINF:-1,Radio_NS_-_Chanson
 http://89.219.35.26:8000/radions-shanson
-#EXTINF:-1,Radio Rauan
+#EXTINF:-1,Radio_Rauan
 http://46.105.180.202:8025/stream.ogg
-#EXTINF:-1,ТЕКС Радио (Radio TEX)
+#EXTINF:-1,ТЕКС_Радио_(Radio_TEX)
 http://ne.fm/mp3/zhanafm
-#EXTINF:-1,NE.FM Hit
+#EXTINF:-1,NE.FM_Hit
 http://ne.fm/mp3/HIT
-#EXTINF:-1,NE.FM Rock
+#EXTINF:-1,NE.FM_Rock
 http://ne.fm/mp3/ROCK
-#EXTINF:-1,Radio NS - Rock
+#EXTINF:-1,Radio_NS_-_Rock
 http://89.219.35.26:8000/radions-rock
-#EXTINF:-1,Радио "КН"
+#EXTINF:-1,Радио_"КН"
 http://radiokn.ddns.net:7000/efir
-#EXTINF:-1,Umax FM
+#EXTINF:-1,Umax_FM
 http://stream.north.kz:8000/radioumax
-#EXTINF:-1,Radio Teos
+#EXTINF:-1,Radio_Teos
 http://5.10.72.187:8004/mp3_128
-#EXTINF:-1,Radio Bulbul
+#EXTINF:-1,Radio_Bulbul
 http://bulbul.hostingradio.ru:8057/bulbul128.mp3
-#EXTINF:-1,Теос Радио
+#EXTINF:-1,Теос_Радио
 http://radioteos.ru:8002/

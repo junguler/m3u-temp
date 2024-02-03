@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1,lounge 
+#EXTINF:-1,lounge_
 https://stream.laut.fm/lounge?ref=radiode
-#EXTINF:-1,bleak radio 
+#EXTINF:-1,bleak_radio_
 https://stream.laut.fm/bleakradio?ref=radiode
-#EXTINF:-1,House Industry Radio
+#EXTINF:-1,House_Industry_Radio
 https://listen.radionomy.com/houseindustry.m3u
 #EXTINF:-1,elektronisch_querbeat
 https://stream.laut.fm/elektronisch_querbeat?ref=radiode
-#EXTINF:-1,Sound Of Berlin
+#EXTINF:-1,Sound_Of_Berlin
 https://streams.fluxfm.de/soundofberlin/mp3-320/radiode/
 #EXTINF:-1,HOUSEBOMB-FN
 https://stream.laut.fm/housebomb-fn?ref=radiode
-#EXTINF:-1,Digital Room Radio
+#EXTINF:-1,Digital_Room_Radio
 https://stream.laut.fm/digitalroomradio?ref=radiode
-#EXTINF:-1,Big Time FM!
+#EXTINF:-1,Big_Time_FM!
 https://stream02.stream-webradiotechnik.de:8102/stream/1/
 #EXTINF:-1,egoFLASH
 https://streams.egofm.de/egoFLASH-hq?ar-distributor=f0a2
@@ -21,21 +21,21 @@ https://streams.egofm.de/egoFLASH-hq?ar-distributor=f0a2
 https://stream.laut.fm/revolution-of-sounds?ref=radiode
 #EXTINF:-1,The-Best-Sound-House-Radio
 https://stream-alfacast-hosting.de:7064/stream/1/
-#EXTINF:-1,Uncoded Radio
+#EXTINF:-1,Uncoded_Radio
 https://manager3.streamradio.fr:1195/stream
 #EXTINF:-1,MoveDaHouse
 https://uk7.internet-radio.com/proxy/movedahouse?mp=/stream
-#EXTINF:-1,320 FM
+#EXTINF:-1,320_FM
 https://320fm.de:8020/stream/1/
-#EXTINF:-1,DEEP KULTURE
+#EXTINF:-1,DEEP_KULTURE
 https://www.radioking.com/play/deep-kulture
 #EXTINF:-1,clubbeats
 https://stream.laut.fm/clubbeats?ref=radiode
 #EXTINF:-1,viennasoundz
 https://stream.laut.fm/viennasoundz?ref=radiode
-#EXTINF:-1,Techno Underground
+#EXTINF:-1,Techno_Underground
 https://streams.fluxfm.de/technoug/mp3-320/radiode/
-#EXTINF:-1,Traxx.FM Tech-Minimal
+#EXTINF:-1,Traxx.FM_Tech-Minimal
 https://traxx020.ice.infomaniak.ch/traxx020-low.mp3
 #EXTINF:-1,mnmlme-offical
 https://stream.laut.fm/mnmlme-offical?ref=radiode
@@ -47,277 +47,277 @@ https://stream.laut.fm/dj-hdready?ref=radiode
 https://stream.laut.fm/exaktneutral?ref=radiode
 #EXTINF:-1,itsours
 https://stream.laut.fm/itsours?ref=radiode
-#EXTINF:-1,Akademickie Radio Luz
+#EXTINF:-1,Akademickie_Radio_Luz
 https://radioluz.pwr.edu.pl/listen.pls
 #EXTINF:-1,nonpop
 https://stream.laut.fm/nonpop?ref=radiode
-#EXTINF:-1,Radio Souvenirs
+#EXTINF:-1,Radio_Souvenirs
 https://listen.radionomy.com/radiosouvenirs.m3u
-#EXTINF:-1,#Musik TechHouse
+#EXTINF:-1,#Musik_TechHouse
 https://techhouse-high.rautemusik.fm/listen.mp3?ref=radiode
 #EXTINF:-1,decoderfm
 https://stream.laut.fm/decoderfm?ref=radiode
-#EXTINF:-1,D.M.G Electro Deep Radio
+#EXTINF:-1,D.M.G_Electro_Deep_Radio
 https://stream.laut.fm/dmg?ref=radiode
 #EXTINF:-1,iamthedj_radio
 https://stream.laut.fm/iamthedj_radio?ref=radiode
-#EXTINF:-1,MixARadio Electro Paradise
+#EXTINF:-1,MixARadio_Electro_Paradise
 https://manager3.streamradio.fr:1665/stream
-#EXTINF:-1,XWAVE RADIO
+#EXTINF:-1,XWAVE_RADIO
 https://xwaveradio.org/wp-content/plugins/shoutcast/listen.pls
-#EXTINF:-1,MixARadio Chic List
+#EXTINF:-1,MixARadio_Chic_List
 https://manager3.streamradio.fr:1905/stream
-#EXTINF:-1,Sound-of-FFM 
+#EXTINF:-1,Sound-of-FFM_
 https://stream.laut.fm/sound-of-ffm?ref=radiode
-#EXTINF:-1,eRadio One - Stage Blue
+#EXTINF:-1,eRadio_One_-_Stage_Blue
 https://eradio-one.de/stage-blue-high.m3u
 #EXTINF:-1,djex-tc
 https://stream.laut.fm/djex-tc?ref=radiode
-#EXTINF:-1,Soul Live Internet Radio
+#EXTINF:-1,Soul_Live_Internet_Radio
 http://radio.soullive.ru:8000/livedj
 #EXTINF:-1,Audioasyl
 http://stream.audioasyl.net/audioasyl
-#EXTINF:-1,UZIC techno-minimal
+#EXTINF:-1,UZIC_techno-minimal
 http://stream.uzic.ch:9010/stream/1
-#EXTINF:-1,Proton Radio
+#EXTINF:-1,Proton_Radio
 https://icecast.protonradio.com/
-#EXTINF:-1,320 FM Listen live
+#EXTINF:-1,320_FM_Listen_live
 https://320-fm.de:8020/
-#EXTINF:-1,Clubbeats Listen live
+#EXTINF:-1,Clubbeats_Listen_live
 https://stream.laut.fm/clubbeats
-#EXTINF:-1,ClubTime.FM Listen live
+#EXTINF:-1,ClubTime.FM_Listen_live
 https://listener2.mp3.tb-group.fm/clt.mp3
-#EXTINF:-1,DecoderFM Listen live
+#EXTINF:-1,DecoderFM_Listen_live
 https://stream.laut.fm/decoderfm
-#EXTINF:-1,Deep Box Radio Listen live
+#EXTINF:-1,Deep_Box_Radio_Listen_live
 https://streaming.radio.co/sbb1cedad3/listen
-#EXTINF:-1,Radio Espérance - Louange Listen live
+#EXTINF:-1,Radio_Espérance_-_Louange_Listen_live
 https://esperance.streamakaci.com/louange.mp3
-#EXTINF:-1,1A Neuheiten Listen live
+#EXTINF:-1,1A_Neuheiten_Listen_live
 https://saw-de-hz-fal-stream05.radiohost.de/saw-neuheiten_mp3-192
-#EXTINF:-1,Bésame Radio Listen live
+#EXTINF:-1,Bésame_Radio_Listen_live
 https://14933.live.streamtheworld.com/BESAME_NACIONALAAC.aac
-#EXTINF:-1,Djex TC Listen live
+#EXTINF:-1,Djex_TC_Listen_live
 https://stream.laut.fm/djex-tc
-#EXTINF:-1,DMG Radio Listen live
+#EXTINF:-1,DMG_Radio_Listen_live
 https://stream.laut.fm/dmg
-#EXTINF:-1,egoFM - egoFLASH Listen live
+#EXTINF:-1,egoFM_-_egoFLASH_Listen_live
 https://streams.egofm.de/egoFLASH-hq
-#EXTINF:-1,VolksmusikRadio Listen live
+#EXTINF:-1,VolksmusikRadio_Listen_live
 https://stream.laut.fm/volksmusikradio?ref=radiode
-#EXTINF:-1,90er Radio Listen live
+#EXTINF:-1,90er_Radio_Listen_live
 https://stream.laut.fm/90er
-#EXTINF:-1,Mainstream - 101.ru Listen live
+#EXTINF:-1,Mainstream_-_101.ru_Listen_live
 https://pub0201.101.ru/stream/pro/aac/64/87
-#EXTINF:-1,Mini - PromoDJ Listen live
+#EXTINF:-1,Mini_-_PromoDJ_Listen_live
 https://radio.promodj.com/mini-192
-#EXTINF:-1,Minimal Tech - Radio Record Listen live
+#EXTINF:-1,Minimal_Tech_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/mini96.aacp
-#EXTINF:-1,ХИТ FM Dance 2000s Listen live
+#EXTINF:-1,ХИТ_FM_Dance_2000s_Listen_live
 https://hitfm-hitdance00.hostingradio.ru/hitdance0096.aacp
-#EXTINF:-1,2 Lvmr Fm Listen live
+#EXTINF:-1,2_Lvmr_Fm_Listen_live
 https://stream.laut.fm/2lvmr-fm
-#EXTINF:-1,RauteMusik - TechHouse Listen live
+#EXTINF:-1,RauteMusik_-_TechHouse_Listen_live
 https://rautemusik-de-hz-fal-stream11.radiohost.de/techhouse
-#EXTINF:-1,rollatorfunk Listen live
+#EXTINF:-1,rollatorfunk_Listen_live
 https://stream.laut.fm/rollatorfunk?ref=radiode
-#EXTINF:-1,KISS FM - Latin Listen live
+#EXTINF:-1,KISS_FM_-_Latin_Listen_live
 https://topradio-de-hz-fal-stream09-cluster01.radiohost.de/kissfm-latin_mp3-192?ref=radioplayer
-#EXTINF:-1,Хиты 90х Зарубежка Радио - RadioSpinner Listen live
+#EXTINF:-1,Хиты_90х_Зарубежка_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/90hs-64
-#EXTINF:-1,FFH Weihnachtsradio Listen live
+#EXTINF:-1,FFH_Weihnachtsradio_Listen_live
 https://mp3.ffh.de/ffhchannels/hqxmas.mp3
-#EXTINF:-1,Минимал Техно Радио - RadioSpinner Listen live
+#EXTINF:-1,Минимал_Техно_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/minimal-techno-64
-#EXTINF:-1,Радио Ваня - Свежий бит Listen live
+#EXTINF:-1,Радио_Ваня_-_Свежий_бит_Listen_live
 https://icecast-radiovanya.cdnvideo.ru/rv_hit
-#EXTINF:-1,Connect Radio Listen live
+#EXTINF:-1,Connect_Radio_Listen_live
 https://www.connectuganda.com/connect-live
-#EXTINF:-1,Trance-Energy Radio Listen live
+#EXTINF:-1,Trance-Energy_Radio_Listen_live
 https://radio.trance-energy.org:8443/trance
-#EXTINF:-1,Rádio FM Super Listen live
+#EXTINF:-1,Rádio_FM_Super_Listen_live
 https://audio8.cmaudioevideo.com:10150/server
-#EXTINF:-1,De'Awan FM Listen live
+#EXTINF:-1,De'Awan_FM_Listen_live
 https://azuracast.shoutcastsolutions.com/radio/8120/radio.mp3
-#EXTINF:-1,Radio Niesen Listen live
+#EXTINF:-1,Radio_Niesen_Listen_live
 https://server31677.streamplus.de/stream.mp3
-#EXTINF:-1,KpopHits Listen live
+#EXTINF:-1,KpopHits_Listen_live
 https://stream.laut.fm/kpophits
-#EXTINF:-1,House Music Radio Listen live
+#EXTINF:-1,House_Music_Radio_Listen_live
 https://uk4-vn.mixstream.net/8128/listen.mp3
-#EXTINF:-1,Dash Moonlight Listen live
+#EXTINF:-1,Dash_Moonlight_Listen_live
 https://ice55.securenetsystems.net/DASH37
-#EXTINF:-1,101FM - 80er Listen live
+#EXTINF:-1,101FM_-_80er_Listen_live
 https://stream.laut.fm/0-24_80er_pop_rock
-#EXTINF:-1,255 Global Radio Listen live
+#EXTINF:-1,255_Global_Radio_Listen_live
 https://zas7.ndx.co.za:8026/stream?1596752167644
-#EXTINF:-1,RauteMusik - Christmas Chor Listen live
+#EXTINF:-1,RauteMusik_-_Christmas_Chor_Listen_live
 https://rautemusik-de-hz-fal-stream18.radiohost.de/rm-christmas-chor_mp3-192?ref=rm5beta
-#EXTINF:-1,Unity 101 Listen live
+#EXTINF:-1,Unity_101_Listen_live
 https://ssl.canstream.co.uk:8701/live.mp3
-#EXTINF:-1,ETS-Radio Listen live
+#EXTINF:-1,ETS-Radio_Listen_live
 https://stream.laut.fm/etsradio-2
-#EXTINF:-1,Radio Abderrahman As-Sudais Listen live
+#EXTINF:-1,Radio_Abderrahman_As-Sudais_Listen_live
 https://betelgeuse.dribbcast.com/proxy/asudai?mp=%2Fserver
-#EXTINF:-1,Radio Digital Birigui Listen live
+#EXTINF:-1,Radio_Digital_Birigui_Listen_live
 https://s44.maxcast.com.br:8014/live
-#EXTINF:-1,Radio Ailone Listen live
+#EXTINF:-1,Radio_Ailone_Listen_live
 https://servidor36-3.brlogic.com:8124/live
-#EXTINF:-1,Bikini FM Alicante Listen live
+#EXTINF:-1,Bikini_FM_Alicante_Listen_live
 https://stream.mediasector.es/radio/8030/bikinifm-alicante.mp3
-#EXTINF:-1,Cats & Dogs - 101.ru Listen live
+#EXTINF:-1,Cats_&_Dogs_-_101.ru_Listen_live
 https://pub0201.101.ru/stream/pro/aac/64/281
-#EXTINF:-1,Minimalmix radio
+#EXTINF:-1,Minimalmix_radio
 https://minimalmix.radioca.st/media
-#EXTINF:-1,PsyStation - The Techno Show
+#EXTINF:-1,PsyStation_-_The_Techno_Show
 https://play.adtonos.com/psystation-the-techno-show-1
 #EXTINF:-1,MINIMALRADIO
 https://128kbps.de:8000/160.mp3
-#EXTINF:-1,Tec Radio
+#EXTINF:-1,Tec_Radio
 https://stream.zenolive.com/64h3nxg0rvduv
 #EXTINF:-1,Sound-of-FFM
 https://sound-of-ffm.stream.laut.fm/sound-of-ffm?t302=2020-04-23_06-40-37&uuid=5270a529-b9e4-4f3d-9aa6-4e519fd98fa7
 #EXTINF:-1,lounge
 https://lounge.stream.laut.fm/lounge?t302=2020-04-23_08-08-39&uuid=0cfda117-d650-49d1-a74b-a98f4aa90b75
-#EXTINF:-1,Boom Room 
+#EXTINF:-1,Boom_Room_
 https://a5.radioheart.ru:8037/studio?_ga=2.64488047.1724080751.1537417053-1424790351.1529079995
-#EXTINF:-1,Cool Deep
+#EXTINF:-1,Cool_Deep
 https://listen.openstream.co/6782/audio
-#EXTINF:-1,Cool Chill House
+#EXTINF:-1,Cool_Chill_House
 https://listen.openstream.co/6620/audio
 #EXTINF:-1,MH•radio
 https://stream.mhradio.net/free.mp3
-#EXTINF:-1,UZIC - Techno Minimal
+#EXTINF:-1,UZIC_-_Techno_Minimal
 http://jabba.dasource.ch:9010/
-#EXTINF:-1,Hirschmilch Progressive Channel
+#EXTINF:-1,Hirschmilch_Progressive_Channel
 https://hirschmilch.de:7001/progressive.mp3
-#EXTINF:-1,minimalmix radio
+#EXTINF:-1,minimalmix_radio
 https://minimalmix.radioca.st/media?type=http\u0026nocache=1648820836037
-#EXTINF:-1,Techhouse by rautemusik
+#EXTINF:-1,Techhouse_by_rautemusik
 https://techhouse-high.rautemusik.fm/?ref=radiode
-#EXTINF:-1,globalbeats green channel
+#EXTINF:-1,globalbeats_green_channel
 http://www.globalbeats.fm/gbfm_green_mp3.pls
-#EXTINF:-1,MINIMALRADIO 
+#EXTINF:-1,MINIMALRADIO_
 https://minimalradio.de:7000/stream/1/
-#EXTINF:-1,MABU Beatz Radio Minimal
+#EXTINF:-1,MABU_Beatz_Radio_Minimal
 https://audio.mabu-beatz-radio.com:8003/minimal
 #EXTINF:-1,AmbientRadio.org
 https://uk2.internet-radio.com/proxy/ambientradio/stream
 #EXTINF:-1,ClubTime.FM
 https://mp3.stream.tb-group.fm/clt.mp3
-#EXTINF:-1,MixCult Deep Techno Radio
+#EXTINF:-1,MixCult_Deep_Techno_Radio
 http://radio.mixcult.net:8000/MixCult_256kbps
-#EXTINF:-1,House of Funk
+#EXTINF:-1,House_of_Funk
 https://houseoffunk.eu:8443/live
-#EXTINF:-1,Radio Caprice - Minimal Techno
+#EXTINF:-1,Radio_Caprice_-_Minimal_Techno
 http://79.120.39.202:8000/mintechno
-#EXTINF:-1,MABU Beatz Radio Deep House
+#EXTINF:-1,MABU_Beatz_Radio_Deep_House
 https://audio.mabu-beatz-radio.com:8003/deephouse
-#EXTINF:-1,sonus.fm 
+#EXTINF:-1,sonus.fm_
 http://www.sonus.fm:8000/stream/3/
 #EXTINF:-1,1XE
 https://stream.radiojar.com/wvq04wt90neuv
 #EXTINF:-1,BunkerTV
 https://bunkertv.org:8000/
-#EXTINF:-1,Radio Caprice - Minimal Tech House
+#EXTINF:-1,Radio_Caprice_-_Minimal_Tech_House
 http://79.111.119.111:8000/mintechhouse
-#EXTINF:-1,cliqhop idm
+#EXTINF:-1,cliqhop_idm
 https://ice2.somafm.com/cliqhop-128-mp3
-#EXTINF:-1,Deejay RiMa
+#EXTINF:-1,Deejay_RiMa
 https://equinox.shoutca.st/tunein/djrima-stream.pls
-#EXTINF:-1,Intergalactic FM 1 - Murdercapital FM
+#EXTINF:-1,Intergalactic_FM_1_-_Murdercapital_FM
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
-#EXTINF:-1,my105 AFROJACK 
+#EXTINF:-1,my105_AFROJACK_
 http://stream01.my105.ch/my105afrojack.mp3
-#EXTINF:-1,PDJ.FM Mini
+#EXTINF:-1,PDJ.FM_Mini
 http://radio.promodj.com:8000/mini
 #EXTINF:-1,Power-PartyBunker
 https://power-partybunker.stream.laut.fm/power-partybunker
-#EXTINF:-1,Rainwave All
+#EXTINF:-1,Rainwave_All
 https://relay.rainwave.cc/all.mp3
 #EXTINF:-1,sonus.fm
 http://138.201.226.83:8000/stream/2/
-#EXTINF:-1,ToXoRs minimalRADIO
+#EXTINF:-1,ToXoRs_minimalRADIO
 http://toxor.de:8000/stream/2/
-#EXTINF:-1,GrooveX Radio
+#EXTINF:-1,GrooveX_Radio
 http://sr11.inmystream.it:8164/stream
 #EXTINF:-1,Basstitude
 https://stream.laut.fm/basstitude?ref=radiode
-#EXTINF:-1,ON House
+#EXTINF:-1,ON_House
 https://0n-house.radionetz.de/0n-house.mp3
-#EXTINF:-1,Lebonmix JIM'S PROPHECY
+#EXTINF:-1,Lebonmix_JIM'S_PROPHECY
 https://stream5.xdevel.com/audio4s976748-1518/stream/icecast.audio
-#EXTINF:-1,Radio Garda FM
+#EXTINF:-1,Radio_Garda_FM
 http://stream.webradio.bz:8000/gardafm1
-#EXTINF:-1,Technolovers DEEP HOUSE
+#EXTINF:-1,Technolovers_DEEP_HOUSE
 https://stream.technolovers.fm/deep-house?ref=radiode
-#EXTINF:-1,Technolovers MINIMAL
+#EXTINF:-1,Technolovers_MINIMAL
 https://stream.technolovers.fm/minimal?ref=radiode
-#EXTINF:-1,Radio DeinFM
+#EXTINF:-1,Radio_DeinFM
 https://deinfmowl-live.cast.addradio.de/deinfmowl/live/mp3/high
-#EXTINF:-1,Maxximixx Underground
+#EXTINF:-1,Maxximixx_Underground
 http://u22961583.onlinehome-server.com:1180/stream
-#EXTINF:-1,Rave Satellite
+#EXTINF:-1,Rave_Satellite
 https://stream.laut.fm/rave_satellite?ref=radiode
-#EXTINF:-1,CLUB NUBID FM
+#EXTINF:-1,CLUB_NUBID_FM
 https://stream.laut.fm/clubnubid?ref=radiode
-#EXTINF:-1,Berlin Calling
+#EXTINF:-1,Berlin_Calling
 https://stream.laut.fm/berlin_calling?ref=radiode
-#EXTINF:-1,TC Dj Stay Tunned Live In Streaming
+#EXTINF:-1,TC_Dj_Stay_Tunned_Live_In_Streaming
 https://stream.zeno.fm/mehozbh78c9tv
-#EXTINF:-1,Crop of music Radio
+#EXTINF:-1,Crop_of_music_Radio
 https://s55.radiolize.com/radio/8010/radio.mp3
-#EXTINF:-1,Deep Mix Moscow Radio
+#EXTINF:-1,Deep_Mix_Moscow_Radio
 http://radio.deepmix.ru:7620/
 #EXTINF:-1,UZIC
 http://stream03.uzic.ch:9010/
-#EXTINF:-1,Fnoob Techno
+#EXTINF:-1,Fnoob_Techno
 http://audio-edge-qse4n.yyz.g.radiomast.io/8846a94e-9874-4692-a1a0-ec7aadbe2771
-#EXTINF:-1,PromoDJ FM - Mini
+#EXTINF:-1,PromoDJ_FM_-_Mini
 http://79.120.39.202:8002/mintechno/
-#EXTINF:-1,S4-Radio - Six - House & Electro
+#EXTINF:-1,S4-Radio_-_Six_-_House_&_Electro
 http://144.76.156.119:10024/stream
-#EXTINF:-1,Techno Paradize
+#EXTINF:-1,Techno_Paradize
 http://stream.laut.fm/techno-paradize
-#EXTINF:-1,Additan Radio
+#EXTINF:-1,Additan_Radio
 http://stream.laut.fm/additan
 #EXTINF:-1,playground
 http://stream.laut.fm/playground
-#EXTINF:-1,ON Radio - ON Electro
+#EXTINF:-1,ON_Radio_-_ON_Electro
 http://0n-electro.radionetz.de/0n-electro.mp3
-#EXTINF:-1,France Musique - Webradio La Contemporaine
+#EXTINF:-1,France_Musique_-_Webradio_La_Contemporaine
 http://icecast.radiofrance.fr/francemusiquelacontemporaine-midfi.mp3
-#EXTINF:-1,Radio Folklore Nacional
+#EXTINF:-1,Radio_Folklore_Nacional
 http://stream.zeno.fm/zsbf9w2yzf8uv
-#EXTINF:-1,Trance Planet
+#EXTINF:-1,Trance_Planet
 http://server.radiostreaming.com.ar:8386/stream/
-#EXTINF:-1,Esperante Radio
+#EXTINF:-1,Esperante_Radio
 http://magicscope.s02.radio-tochka.com:4020/stream
-#EXTINF:-1,RauteMusik - BigCityBeats
+#EXTINF:-1,RauteMusik_-_BigCityBeats
 https://stream.bigcitybeats.de/bcb-radio/mp3-192/streema
-#EXTINF:-1,RauteMusik - House
+#EXTINF:-1,RauteMusik_-_House
 https://house-high.rautemusik.fm/?ref=streema
 #EXTINF:-1,Random.FM
 http://radio.random.fm:8000/radio256.mp3
-#EXTINF:-1,The 4th Room Radio
+#EXTINF:-1,The_4th_Room_Radio
 http://85.214.201.133:9500/
-#EXTINF:-1,MixHead Minimal-House
+#EXTINF:-1,MixHead_Minimal-House
 http://mixhead.wellenbereich.de:8010/
-#EXTINF:-1,PsyBrazil Radio
+#EXTINF:-1,PsyBrazil_Radio
 https://radio.psybrazil.com.br/
 #EXTINF:-1,ECO-WEBRADIO
 http://stream.eco-webradio.com:8004/
-#EXTINF:-1,Wasteland Radio - Last Wave
+#EXTINF:-1,Wasteland_Radio_-_Last_Wave
 http://wasteland.su:8080/last
-#EXTINF:-1,RauteMusik -TechHouse
+#EXTINF:-1,RauteMusik_-TechHouse
 https://techhouse-high.rautemusik.fm/?ref=streema
-#EXTINF:-1,Revolution Radio 93.5 - WBGF
+#EXTINF:-1,Revolution_Radio_93.5_-_WBGF
 https://everestcast.shoutcastservices.com:2225/stream
 #EXTINF:-1,Mnmltech
 http://stream.laut.fm/mnmltech
-#EXTINF:-1,Elektronisch Querbeat
+#EXTINF:-1,Elektronisch_Querbeat
 http://stream.laut.fm/elektronisch_querbeat
-#EXTINF:-1,prog alley
+#EXTINF:-1,prog_alley
 http://stream.laut.fm/progalley
 #EXTINF:-1,DecoderFM
 http://stream.laut.fm/decoderfm
@@ -331,7 +331,7 @@ http://stream.laut.fm/nonpop
 http://stream.laut.fm/esounds
 #EXTINF:-1,Jazzthing
 http://stream.laut.fm/jazzthing
-#EXTINF:-1,Deep Depot
+#EXTINF:-1,Deep_Depot
 http://stream.laut.fm/deep_depot
 #EXTINF:-1,bleakradio
 http://stream.laut.fm/bleakradio
@@ -341,109 +341,109 @@ http://stream.laut.fm/caprice247
 https://stream.laut.fm/moods
 #EXTINF:-1,sound-of-ffm
 http://stream.laut.fm/sound-of-ffm
-#EXTINF:-1,Befreite Musik
+#EXTINF:-1,Befreite_Musik
 https://stream.laut.fm/befreite-musik
 #EXTINF:-1,fbradio
 https://stream.laut.fm/fbradio
-#EXTINF:-1,Radio Record - Minimal/Tech
+#EXTINF:-1,Radio_Record_-_Minimal/Tech
 http://radiorecord.hostingradio.ru/mini96.aacp
-#EXTINF:-1,Traxx FM - Tech-Minimal
+#EXTINF:-1,Traxx_FM_-_Tech-Minimal
 http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
-#EXTINF:-1,MRG.fm - Ambient Radio
+#EXTINF:-1,MRG.fm_-_Ambient_Radio
 http://str3.openstream.co/1808
-#EXTINF:-1,egoFM - egoFLASH
+#EXTINF:-1,egoFM_-_egoFLASH
 http://mp3ad.egofm.c.nmdn.net/egofmflash_128/livestream.mp3
 #EXTINF:-1,UNDR
 https://n14a-eu.rcs.revma.com/cmrzxrv3q98uv
-#EXTINF:-1,a.m. ambient
+#EXTINF:-1,a.m._ambient
 http://radio.stereoscenic.com:443/ama-h/
-#EXTINF:-1,Ibiza Stardust Radio
+#EXTINF:-1,Ibiza_Stardust_Radio
 http://listen.radioking.com/radio/260965/stream/305884
-#EXTINF:-1,Underground Kollektiv Radio
+#EXTINF:-1,Underground_Kollektiv_Radio
 https://s2.radio.co/s12ef3f65a/listen
-#EXTINF:-1,Radio Vibe FM 
+#EXTINF:-1,Radio_Vibe_FM_
 http://stream.zenolive.com/s98kga59qnruv
-#EXTINF:-1,InClub Radio
+#EXTINF:-1,InClub_Radio
 http://conectperu.com:8018/stream/
-#EXTINF:-1,Galaxie Radio
+#EXTINF:-1,Galaxie_Radio
 http://listen.radioking.com/radio/15684/stream/63517
-#EXTINF:-1,In2Mixx Radio
+#EXTINF:-1,In2Mixx_Radio
 http://listen.radioking.com/radio/384/stream/62761
-#EXTINF:-1,Like That Underground (LTU)
+#EXTINF:-1,Like_That_Underground_(LTU)
 http://ltu.radioca.st:8091/stream/
-#EXTINF:-1,Dosis Electrónica Radio Online
+#EXTINF:-1,Dosis_Electrónica_Radio_Online
 http://stream.zeno.fm/1zc80p7dyzzuv
-#EXTINF:-1,P.L.U.R Radio - House
+#EXTINF:-1,P.L.U.R_Radio_-_House
 https://sunday-records.io/house
-#EXTINF:-1,Electro Colombia Radio - Underground
+#EXTINF:-1,Electro_Colombia_Radio_-_Underground
 http://servers58.com:9342/live
-#EXTINF:-1,MIDI Underground Radio
+#EXTINF:-1,MIDI_Underground_Radio
 https://s4.radio.co/s11235745b/listen
-#EXTINF:-1,Atma FM
+#EXTINF:-1,Atma_FM
 http://144.91.73.167:7778/channel1-128k
-#EXTINF:-1,MixLive.ie - Minimal & Techno
+#EXTINF:-1,MixLive.ie_-_Minimal_&_Techno
 http://2.58.194.54:8858/stream/
-#EXTINF:-1,MixLive.ie - Deep Planet
+#EXTINF:-1,MixLive.ie_-_Deep_Planet
 http://2.58.194.54:8852/stream/
 #EXTINF:-1,FUSION
 https://stream.zeno.fm/0ybezr1yk2zuv
-#EXTINF:-1,RadioSpinner - Minimal Techno
+#EXTINF:-1,RadioSpinner_-_Minimal_Techno
 http://live.radiospinner.com/minimal-techno-96
-#EXTINF:-1,Winnik Dance Radio (WDR)
+#EXTINF:-1,Winnik_Dance_Radio_(WDR)
 http://stream.zeno.fm/mqdh19vqc0hvv
-#EXTINF:-1,OEM Radio
+#EXTINF:-1,OEM_Radio
 http://oemradio-bofaradio.radioca.st:8454/stream
-#EXTINF:-1,Aber Underground
+#EXTINF:-1,Aber_Underground
 http://www.radioking.com/play/aber-underground
 #EXTINF:-1,deep_depot
 http://stream2.laut.fm/deep_depot
-#EXTINF:-1,Electro Colombia Radio – Underground
+#EXTINF:-1,Electro_Colombia_Radio_–_Underground
 http://stream2.laut.fm/elektrobude
-#EXTINF:-1,France Musique – Webradio La Contemporaine
+#EXTINF:-1,France_Musique_–_Webradio_La_Contemporaine
 https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontemporaine_hifi.m3u8
-#EXTINF:-1,Hardgroup Radio
+#EXTINF:-1,Hardgroup_Radio
 http://server.ohradio.com.ar:8086/stream
-#EXTINF:-1,Logik Radio
+#EXTINF:-1,Logik_Radio
 http://s2.voscast.com:12022/
-#EXTINF:-1,MRG.fm – Ambient Radio
+#EXTINF:-1,MRG.fm_–_Ambient_Radio
 http://62.149.196.16:8888/stream/
-#EXTINF:-1,P.L.U.R Radio – House
+#EXTINF:-1,P.L.U.R_Radio_–_House
 http://stream1.laut.fm/playground
-#EXTINF:-1,PromoDJ FM – Mini
+#EXTINF:-1,PromoDJ_FM_–_Mini
 http://radio.promodj.com:8000/mini-192
-#EXTINF:-1,Radio Record – Minimal/Tech
+#EXTINF:-1,Radio_Record_–_Minimal/Tech
 http://air.radiorecord.ru:8102/mini_320
-#EXTINF:-1,Radio Vibe FM
+#EXTINF:-1,Radio_Vibe_FM
 http://89.163.227.170:8100/
-#EXTINF:-1,RauteMusik – TechHouse
+#EXTINF:-1,RauteMusik_–_TechHouse
 http://techhouse-high.rautemusik.fm/listen.mp3
-#EXTINF:-1,Revolution Radio 93.5 – WBGF
+#EXTINF:-1,Revolution_Radio_93.5_–_WBGF
 http://quarrel.str3am.com:7560/
-#EXTINF:-1,Minimal Techno
+#EXTINF:-1,Minimal_Techno
 http://pub1.di.fm/di_minimal
-#EXTINF:-1,Mixaradio Electro Paradise
+#EXTINF:-1,Mixaradio_Electro_Paradise
 http://37.187.146.140:8534/stream
 #EXTINF:-1,Madzonegeneration
 http://onair22.streaming.xdevel.com:8098/1
-#EXTINF:-1,ClubTime FM
+#EXTINF:-1,ClubTime_FM
 http://aacl.stream.tb-group.fm/clt-low.aac?
-#EXTINF:-1,ON Dance
+#EXTINF:-1,ON_Dance
 http://0n-dance.radionetz.de/0n-dance.mp3
 #EXTINF:-1,Fashionradio
 http://radio.fashionradio.de:9002/
-#EXTINF:-1,Deeptech Soundsystem
+#EXTINF:-1,Deeptech_Soundsystem
 http://38.107.243.188:8558/
 #EXTINF:-1,Esounds
 http://esounds.stream.laut.fm/esounds
-#EXTINF:-1,Hitstation FM Dance
+#EXTINF:-1,Hitstation_FM_Dance
 http://46.105.118.14:17500/
-#EXTINF:-1,The Perfect Mix FM
+#EXTINF:-1,The_Perfect_Mix_FM
 http://www.theperfectmix.fm:8000/
-#EXTINF:-1,Seduction Dance Tunes Radio
+#EXTINF:-1,Seduction_Dance_Tunes_Radio
 https://24streams.me/8057/stream
-#EXTINF:-1,Radio Record Minimal Tech
+#EXTINF:-1,Radio_Record_Minimal_Tech
 https://stream2-alfacast-hosting.com/8004/stream
-#EXTINF:-1,ClubTime.FM 
+#EXTINF:-1,ClubTime.FM_
 https://clt.aacl.stream.tb-group.fm
-#EXTINF:-1,Proton Radio 
+#EXTINF:-1,Proton_Radio_
 https://shoutcast.protonradio.com/

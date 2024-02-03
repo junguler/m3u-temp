@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1,Best FM 98.5
+#EXTINF:-1,Best_FM_98.5
 http://103.48.116.109:9000/stream.mp3
-#EXTINF:-1,MNB Public Radio
+#EXTINF:-1,MNB_Public_Radio
 http://103.14.38.108:8000/radio1
-#EXTINF:-1,MNB Public Radio 3
+#EXTINF:-1,MNB_Public_Radio_3
 http://103.14.38.108:8000/radio2
-#EXTINF:-1,Mongolian Radio
+#EXTINF:-1,Mongolian_Radio
 http://202.179.2.250:8002/stream1
-#EXTINF:-1,Alxa Mongolian Radio
+#EXTINF:-1,Alxa_Mongolian_Radio
 http://lhttp.qingting.fm/live/5022555/64k.mp3
 #EXTINF:-1,BESTTIME
 http://103.48.116.109:9000/?listening-from-radio-garden=1608463364113
-#EXTINF:-1,Business Radio MN 98.9
+#EXTINF:-1,Business_Radio_MN_98.9
 http://202.131.233.34:8014/stream
-#EXTINF:-1,CNR-8 民族之声
+#EXTINF:-1,CNR-8_民族之声
 http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1,MGL Radio
+#EXTINF:-1,MGL_Radio
 http://stream17.shoutcastsolutions.com:8096/
-#EXTINF:-1,Mongolia Best Radio
+#EXTINF:-1,Mongolia_Best_Radio
 http://103.48.116.109:9000/
-#EXTINF:-1,Sinkiang Mongolian Radio
+#EXTINF:-1,Sinkiang_Mongolian_Radio
 http://aod.xjbs.com.cn:1935/live/my/32K/tzwj_video.m3u8
 #EXTINF:-1,乌兰察布蒙语广播
 http://pluslive.wrbtv.cn/aac_my/playlist.m3u8
@@ -53,11 +53,11 @@ http://mmitv.top/test/ytradio.php?id=579\u0026type=neimenggu
 https://lhttp.qingting.fm/live/15318635/64k.mp3
 #EXTINF:-1,阿拉善蒙语综合广播
 http://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8
-#EXTINF:-1,Гэр бүлийн радио
+#EXTINF:-1,Гэр_бүлийн_радио
 https://c4.radioboss.fm/stream/87
-#EXTINF:-1,Jesus Coming FM - Mongolian
+#EXTINF:-1,Jesus_Coming_FM_-_Mongolian
 http://live.jesuscomingfm.com:8292/
-#EXTINF:-1,Buryad FM 90.8 FM
+#EXTINF:-1,Buryad_FM_90.8_FM
 https://buryadfm.hostingradio.ru:8018/buryadfm128.mp3
 #EXTINF:-1,Buryad.fm
 http://buryadfm.hostingradio.ru:8018/buryadfm128.mp3

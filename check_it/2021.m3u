@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,kinderradio anhalt
+#EXTINF:-1,kinderradio_anhalt
 http://kinderradio-anhalt.stream.laut.fm/kinderradio-anhalt
-#EXTINF:-1,hitradio anhalt
+#EXTINF:-1,hitradio_anhalt
 http://hitradio-anhalt.stream.laut.fm/hitradio-anhalt
 #EXTINF:-1,bestof2021
 http://bestof2021.stream.laut.fm/bestof2021
@@ -11,21 +11,21 @@ http://musikcloud.stream.laut.fm/musikcloud
 http://chartradio24.stream.laut.fm/chartradio24
 #EXTINF:-1,happymusic
 http://happymusic.stream.laut.fm/happymusic
-#EXTINF:-1,kresuradio mashup
+#EXTINF:-1,kresuradio_mashup
 http://kresuradio-mashup.stream.laut.fm/kresuradio-mashup
-#EXTINF:-1,rock anhalt
+#EXTINF:-1,rock_anhalt
 http://rock-anhalt.stream.laut.fm/rock-anhalt
-#EXTINF:-1,starnight revival
+#EXTINF:-1,starnight_revival
 http://starnight-revival.stream.laut.fm/starnight-revival
-#EXTINF:-1,beatmusik fm
+#EXTINF:-1,beatmusik_fm
 http://beatmusik-fm.stream.laut.fm/beatmusik-fm
 #EXTINF:-1,scooryfm
 http://scooryfm.stream.laut.fm/scooryfm
-#EXTINF:-1,averfm mashup
+#EXTINF:-1,averfm_mashup
 http://averfm-mashup.stream.laut.fm/averfm-mashup
 #EXTINF:-1,ultrawelle
 http://ultrawelle.stream.laut.fm/ultrawelle
-#EXTINF:-1,function one
+#EXTINF:-1,function_one
 http://function-one.stream.laut.fm/function-one
 #EXTINF:-1,omg
 http://omg.stream.laut.fm/omg
@@ -35,5 +35,5 @@ http://rrpradio.stream.laut.fm/rrpradio
 http://lovefm.stream.laut.fm/lovefm
 #EXTINF:-1,averfm
 http://averfm.stream.laut.fm/averfm
-#EXTINF:-1,nrw go
+#EXTINF:-1,nrw_go
 http://nrw-go.stream.laut.fm/nrw-go

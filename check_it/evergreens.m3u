@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,radio wolfsburg
+#EXTINF:-1,radio_wolfsburg
 http://radio-wolfsburg.stream.laut.fm/radio-wolfsburg
 #EXTINF:-1,deutscheschlagerwelle
 http://deutscheschlagerwelle.stream.laut.fm/deutscheschlagerwelle
@@ -27,13 +27,13 @@ http://chalesevent.stream.laut.fm/chalesevent
 http://bossisradio.stream.laut.fm/bossisradio
 #EXTINF:-1,schuetzenfestimradio
 http://schuetzenfestimradio.stream.laut.fm/schuetzenfestimradio
-#EXTINF:-1,a dream on music
+#EXTINF:-1,a_dream_on_music
 http://a-dream-on-music.stream.laut.fm/a-dream-on-music
 #EXTINF:-1,eidewahn
 http://eidewahn.stream.laut.fm/eidewahn
-#EXTINF:-1,Radio M Evergreen
+#EXTINF:-1,Radio_M_Evergreen
 https://www.liveradio.es/http://team-data.ba:8038/
-#EXTINF:-1,Naxi Evergreen Radio
+#EXTINF:-1,Naxi_Evergreen_Radio
 https://naxidigital-evergreen128ssl.streaming.rs:8012/stream.nsv
-#EXTINF:-1,RPR1. Evergreens
+#EXTINF:-1,RPR1._Evergreens
 https://streams.rpr1.de/rpr-evergreens-128-mp3?usid=0-0-H-M-D-65

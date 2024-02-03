@@ -1,299 +1,299 @@
 #EXTM3U
-#EXTINF:-1,Sunrise Radio
+#EXTINF:-1,Sunrise_Radio
 https://stream1.themediasite.co.uk/8070/high
-#EXTINF:-1,Soho Radio
+#EXTINF:-1,Soho_Radio
 https://sohoradiomusic.doughunt.co.uk:8010/128mp3
-#EXTINF:-1,Canal Sur Radio Andalucía
+#EXTINF:-1,Canal_Sur_Radio_Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel9.smil/chunklist.m3u8
-#EXTINF:-1,Deeman Radio
+#EXTINF:-1,Deeman_Radio
 https://deemanradio.ice.infomaniak.ch/deemanradio-64.mp3
-#EXTINF:-1,NRK P2
+#EXTINF:-1,NRK_P2
 https://lyd.nrk.no/nrk_radio_p2_mp3_h
-#EXTINF:-1,BBC Radio 3
+#EXTINF:-1,BBC_Radio_3
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
 #EXTINF:-1,hr2
 https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8
-#EXTINF:-1,Radio Romania Cultural
+#EXTINF:-1,Radio_Romania_Cultural
 http://stream2.srr.ro:8012/
-#EXTINF:-1,Radio Azawan
+#EXTINF:-1,Radio_Azawan
 http://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3
-#EXTINF:-1,Radio 24syv
+#EXTINF:-1,Radio_24syv
 https://stream.radioloud.dk/loud128
-#EXTINF:-1,AFM Radio
+#EXTINF:-1,AFM_Radio
 https://radioendirect.net/stream/7556
 #EXTINF:-1,DivRadio
 https://icecast.divradio.be:8000/radio.mp3
-#EXTINF:-1,LRT Klasika
+#EXTINF:-1,LRT_Klasika
 http://lrt-cast.lrt.lt:8000/lrt_klasika
-#EXTINF:-1,CMS Radio
+#EXTINF:-1,CMS_Radio
 https://c13.radioboss.fm:18190/stream
-#EXTINF:-1,SR P2
+#EXTINF:-1,SR_P2
 https://live-cdn.sr.se/pool2/p2musik/p2musik.isml/index.m3u8
-#EXTINF:-1,UA:Radio Kultura
+#EXTINF:-1,UA:Radio_Kultura
 https://radio.nrcu.gov.ua:8443/ur3-mp3
-#EXTINF:-1,Radiowa Dwójka
+#EXTINF:-1,Radiowa_Dwójka
 https://stream12.polskieradio.pl/pr2/pr2.sdp/chunklist.m3u8
-#EXTINF:-1,Polskie Radio Chopin
+#EXTINF:-1,Polskie_Radio_Chopin
 https://stream85.polskieradio.pl/live/rytm.sdp/chunklist.m3u8
-#EXTINF:-1,Rádio Devín
+#EXTINF:-1,Rádio_Devín
 https://icecast.stv.livebox.sk/devin_128.mp3
-#EXTINF:-1,Rádio Litera
+#EXTINF:-1,Rádio_Litera
 https://icecast.stv.livebox.sk/litera_128.mp3
-#EXTINF:-1,Radio ARS
+#EXTINF:-1,Radio_ARS
 http://mp3.rtvslo.si:80/ars
-#EXTINF:-1,Radio SI
+#EXTINF:-1,Radio_SI
 http://mp3.rtvslo.si:80/rsi
-#EXTINF:-1,Radio Scorpio
+#EXTINF:-1,Radio_Scorpio
 https://stream.radioscorpio.be/stream
-#EXTINF:-1,Radio Panik
+#EXTINF:-1,Radio_Panik
 https://streaming.domainepublic.net/radiopanik.ogg
-#EXTINF:-1,Radio Stalitsa
+#EXTINF:-1,Radio_Stalitsa
 https://stream2.datacenter.by/stalica
-#EXTINF:-1,Kanal Kultura
+#EXTINF:-1,Kanal_Kultura
 https://stream2.datacenter.by/kultura
-#EXTINF:-1,RTS Radio Beograd 2
+#EXTINF:-1,RTS_Radio_Beograd_2
 https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8
-#EXTINF:-1,Humm FM
+#EXTINF:-1,Humm_FM
 https://tunein-icecast.mediaworks.nz/humm_128kbps
-#EXTINF:-1,Antena 2
+#EXTINF:-1,Antena_2
 https://streaming-live.rtp.pt/liveradio/antena280a/chunklist_DVR.m3u8
-#EXTINF:-1,Radio Mawoua
+#EXTINF:-1,Radio_Mawoua
 https://mawoua.ice.infomaniak.ch/mawoua-32.aac
-#EXTINF:-1,Radio Tabital
+#EXTINF:-1,Radio_Tabital
 https://stream.zeno.fm/u7r209hgxuquv
-#EXTINF:-1,Jiida FM
+#EXTINF:-1,Jiida_FM
 https://stream.zenolive.com/5a0614rr9mruv
-#EXTINF:-1,Vanakkam Réunion Radio
+#EXTINF:-1,Vanakkam_Réunion_Radio
 https://stunnel2.cyber-streaming.com:9100/stream?type=mp3
-#EXTINF:-1,R.I.L FM
+#EXTINF:-1,R.I.L_FM
 http://91.121.29.128:8068/
-#EXTINF:-1,S.M.A FM
+#EXTINF:-1,S.M.A_FM
 http://192.99.170.8:5034/listen.mp3
-#EXTINF:-1,Radio SRF 2 Kultur
+#EXTINF:-1,Radio_SRF_2_Kultur
 https://lsaplus.swisstxt.ch/audio/drs2_96.stream/chunklist_DVR.m3u8
-#EXTINF:-1,Turanga FM
+#EXTINF:-1,Turanga_FM
 https://ais-nzme.streamguys1.com/nz_136/playlist.m3u8
-#EXTINF:-1,Legend FM
+#EXTINF:-1,Legend_FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/PNGLEGENDFM.mp3
-#EXTINF:-1,RTS Espace 2
+#EXTINF:-1,RTS_Espace_2
 https://lsaplus.swisstxt.ch/audio/espace-2_96.stream/chunklist_DVR.m3u8
-#EXTINF:-1,RSI Rete Due
+#EXTINF:-1,RSI_Rete_Due
 https://lsaplus.swisstxt.ch/audio/retedue_96.stream/chunklist_DVR.m3u8
-#EXTINF:-1,iCat FM
+#EXTINF:-1,iCat_FM
 https://directes-radio-int.ccma.cat/live-content/icat-hls/master.m3u8
-#EXTINF:-1,Capital Radio
+#EXTINF:-1,Capital_Radio
 http://198.245.61.161:8642/stream
-#EXTINF:-1,EiTB Musika
+#EXTINF:-1,EiTB_Musika
 https://multimedia.eitb.eus/live-content/eitbmusika-hls/master.m3u8
-#EXTINF:-1,Fulbe FM
+#EXTINF:-1,Fulbe_FM
 https://stream.zeno.fm/e0grbn8e3rquv
-#EXTINF:-1,Dakar Musique
+#EXTINF:-1,Dakar_Musique
 https://fr1-play.adtonos.com/8101/dakar-musique-3
-#EXTINF:-1,Radio Thiossane
+#EXTINF:-1,Radio_Thiossane
 https://fr1-play.adtonos.com/8103/radio-thiossane
-#EXTINF:-1,Lagelu FM
+#EXTINF:-1,Lagelu_FM
 https://edge.mixlr.com/channel/wupzh
-#EXTINF:-1,Radio Culture FM de Kayes
+#EXTINF:-1,Radio_Culture_FM_de_Kayes
 https://stream.zeno.fm/4828mxuqfg0uv
-#EXTINF:-1,Tumpaani Radio
+#EXTINF:-1,Tumpaani_Radio
 https://stream.zeno.fm/xk3wgp9mgnzuv
-#EXTINF:-1,Rádio Voja24
+#EXTINF:-1,Rádio_Voja24
 https://stream.zeno.fm/67ffa6b95uhvv
-#EXTINF:-1,Radio Österreich 1
+#EXTINF:-1,Radio_Österreich_1
 https://orf-live.ors-shoutcast.at/oe1-q2a
-#EXTINF:-1,ABK Radio
+#EXTINF:-1,ABK_Radio
 http://abkradio.ice.infomaniak.ch/abkradio-32.aac
-#EXTINF:-1,Radio Vénégré
+#EXTINF:-1,Radio_Vénégré
 http://stream-51.zeno.fm/c3zu1vtznfhvv
-#EXTINF:-1,Manupugisa FM
+#EXTINF:-1,Manupugisa_FM
 https://stream-50.zeno.fm/873dahv8508uv
-#EXTINF:-1,Radio Chablais
+#EXTINF:-1,Radio_Chablais
 http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
-#EXTINF:-1,Radio Courtoisie
+#EXTINF:-1,Radio_Courtoisie
 https://ice.creacast.com/radio-courtoisie
-#EXTINF:-1,Radio Soa i Madagasikara
+#EXTINF:-1,Radio_Soa_i_Madagasikara
 https://planner.soaimadagasikara.org:8443/streaming
 #EXTINF:-1,Radiónica
 https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8
-#EXTINF:-1,CMBF Radio Musical Nacional
+#EXTINF:-1,CMBF_Radio_Musical_Nacional
 https://icecast.teveo.cu/Nbtz7HT3
-#EXTINF:-1,Radio Fenique Inter Haïti
+#EXTINF:-1,Radio_Fenique_Inter_Haïti
 https://stream.zeno.fm/ym8gkr28gm5tv
-#EXTINF:-1,WDR 3
+#EXTINF:-1,WDR_3
 https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
-#EXTINF:-1,WDR Cosmo
+#EXTINF:-1,WDR_Cosmo
 https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
-#EXTINF:-1,NDR Kultur
+#EXTINF:-1,NDR_Kultur
 https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
-#EXTINF:-1,BR Heimat
+#EXTINF:-1,BR_Heimat
 https://mcdn.hf.br.de/br/hf/brheimat/master.m3u8
-#EXTINF:-1,MDR Kultur
+#EXTINF:-1,MDR_Kultur
 http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/low/stream.mp3
 #EXTINF:-1,SWR2
 https://liveradio.swr.de/sw282p3/swr2
-#EXTINF:-1,Deutschlandfunk Kultur
+#EXTINF:-1,Deutschlandfunk_Kultur
 https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=web
-#EXTINF:-1,Rai Radio 3
+#EXTINF:-1,Rai_Radio_3
 https://icestreaming.rai.it/3.mp3
-#EXTINF:-1,France Culture
+#EXTINF:-1,France_Culture
 https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance
-#EXTINF:-1,rbb Kultur
+#EXTINF:-1,rbb_Kultur
 https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/mid
-#EXTINF:-1,Radio Progreso
+#EXTINF:-1,Radio_Progreso
 https://icecast.teveo.cu/XjfW7qWN
-#EXTINF:-1,Radio Culture
+#EXTINF:-1,Radio_Culture
 https://webradio.tda.dz/Culture_64K.mp3
-#EXTINF:-1,Traditional FM Music 95.0
+#EXTINF:-1,Traditional_FM_Music_95.0
 http://185.105.4.106:1935/live/radio-95-0/playlist.m3u8
-#EXTINF:-1,UN Radio Bogota
+#EXTINF:-1,UN_Radio_Bogota
 http://streaming.unradio.unal.edu.co:8010/stream.mp3
-#EXTINF:-1,UN Radio Medellín
+#EXTINF:-1,UN_Radio_Medellín
 http://streaming.unradio.unal.edu.co:8012/stream.mp3
-#EXTINF:-1,SR 2 Kulturradio
+#EXTINF:-1,SR_2_Kulturradio
 https://sr.audiostream.io/sr/1010/mp3/128/sr2.mp3
-#EXTINF:-1,Traditional Station 94.9
+#EXTINF:-1,Traditional_Station_94.9
 https://hiplayer.hibridcdn.net/t/kwmedia-kwshaabiya.m3u8
-#EXTINF:-1,À Punt FM
+#EXTINF:-1,À_Punt_FM
 https://bcovlive-a.akamaihd.net/13b49103a31b48dfa5edf508440cb6f9/eu-central-1/6057955885001/playlist-audio_dvr.m3u8
 #EXTINF:-1,Fritz
 https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
-#EXTINF:-1,Pilihan FM
+#EXTINF:-1,Pilihan_FM
 https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
-#EXTINF:-1,Bremen Zwei
+#EXTINF:-1,Bremen_Zwei
 https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
-#EXTINF:-1,Radio HJCK
+#EXTINF:-1,Radio_HJCK
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HJCK_SC.aac
-#EXTINF:-1,Radio Dreyeckland 102.3 FM
+#EXTINF:-1,Radio_Dreyeckland_102.3_FM
 http://rdl.de:8000/rdl
-#EXTINF:-1,Radio Pulsar
+#EXTINF:-1,Radio_Pulsar
 http://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-64.mp3
-#EXTINF:-1,Radio Città Aperta
+#EXTINF:-1,Radio_Città_Aperta
 https://www.radiocittaperta.it/redirected-weighted.php
-#EXTINF:-1,Radio Onda Rossa
+#EXTINF:-1,Radio_Onda_Rossa
 https://giffard.streampunk.cc/_stream/ondarossa.ogg
-#EXTINF:-1,Top Albania Radio
+#EXTINF:-1,Top_Albania_Radio
 https://live.top-media.al/tar
-#EXTINF:-1,Bangladesh Betar
+#EXTINF:-1,Bangladesh_Betar
 http://stream.zeno.fm/hbyxfwftaxquv
-#EXTINF:-1,Radio Djiido
+#EXTINF:-1,Radio_Djiido
 http://radiodjiido.nc:8002/stream.mp3
-#EXTINF:-1,Panjab Radio
+#EXTINF:-1,Panjab_Radio
 http://radio3.citrus3.com:8584/stream
-#EXTINF:-1,Radio StHörfunk
+#EXTINF:-1,Radio_StHörfunk
 http://stream.sthoerfunk.de:7000/sthoerfunk.ogg
-#EXTINF:-1,Africa Radio
+#EXTINF:-1,Africa_Radio
 https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
-#EXTINF:-1,Radio Grenouille
+#EXTINF:-1,Radio_Grenouille
 http://live.radiogrenouille.com/live
-#EXTINF:-1,Radio Cabo Verde+
+#EXTINF:-1,Radio_Cabo_Verde+
 http://radios.vpn.sapo.pt/CV/radio6.mp3
-#EXTINF:-1,Divergence FM
+#EXTINF:-1,Divergence_FM
 http://ridibundus.divergence-fm.org:8000/divergence.mp3
-#EXTINF:-1,Radio Le Phare
+#EXTINF:-1,Radio_Le_Phare
 https://stream.zeno.fm/ubhn42cxuv5tv
-#EXTINF:-1,Radio RCN
+#EXTINF:-1,Radio_RCN
 http://46.105.102.17:8000/stream.mp3
-#EXTINF:-1,Radio ARA
+#EXTINF:-1,Radio_ARA
 https://s1.voscast.com:11187/RadioARA.mp3
-#EXTINF:-1,radio 100,7
+#EXTINF:-1,radio_100,7
 http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
-#EXTINF:-1,Radio Dudelange
+#EXTINF:-1,Radio_Dudelange
 http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
-#EXTINF:-1,East FM
+#EXTINF:-1,East_FM
 https://eastfm-atunwadigital.streamguys1.com/eastfm
-#EXTINF:-1,Tropiques Culture
+#EXTINF:-1,Tropiques_Culture
 http://listen.radioking.com/radio/8919/stream/19094
-#EXTINF:-1,Tropiques Tradition
+#EXTINF:-1,Tropiques_Tradition
 http://listen.radioking.com/radio/8922/stream/19100
-#EXTINF:-1,Midayi FM
+#EXTINF:-1,Midayi_FM
 http://91.121.162.224:9015/stream2
-#EXTINF:-1,Radio Deltha 92
+#EXTINF:-1,Radio_Deltha_92
 https://radio1.getstreamhosting.com:6484/stream
-#EXTINF:-1,Kultural Online
+#EXTINF:-1,Kultural_Online
 http://vozdibonaire.primcast.com:9176/stream.mp3
-#EXTINF:-1,Radio Tunisie Culture
+#EXTINF:-1,Radio_Tunisie_Culture
 http://rtstream.tanitweb.com/culturelle
 #EXTINF:-1,KHDX
 https://streaming.radio.co/s662abb673/listen
-#EXTINF:-1,Radio Rural
+#EXTINF:-1,Radio_Rural
 https://radiolatina.live:10959/stream?type=http&ampnocache=6
-#EXTINF:-1,Cultura FM
+#EXTINF:-1,Cultura_FM
 https://tvcultura.com.br/_radio/streaming.php?radio=fm
-#EXTINF:-1,ERT Trito
+#EXTINF:-1,ERT_Trito
 https://radiostreaming.ert.gr/ert-trito
-#EXTINF:-1,ERT 958 FM
+#EXTINF:-1,ERT_958_FM
 https://radiostreaming.ert.gr/ert-958fm
 #EXTINF:-1,FreiRad
 http://stream.freirad.at:8002/live.mp3
-#EXTINF:-1,Rádio Cultura Brasil
+#EXTINF:-1,Rádio_Cultura_Brasil
 https://tvcultura.com.br/_radio/streaming.php?radio=am
-#EXTINF:-1,Nea Radio
+#EXTINF:-1,Nea_Radio
 https://nettradio.nearadio.no:8100/stream
 #EXTINF:-1,XEUN-AM
 http://server1.usatelk.com:25224/
-#EXTINF:-1,ČRo Vltava
+#EXTINF:-1,ČRo_Vltava
 http://icecast5.play.cz/cro3-128.mp3
-#EXTINF:-1,Paraná Educativa AM
+#EXTINF:-1,Paraná_Educativa_AM
 http://200.189.113.201/stream/educativaam.mp3
-#EXTINF:-1,Paraná Educativa FM
+#EXTINF:-1,Paraná_Educativa_FM
 http://200.189.113.201/stream/educativafm.mp3
 #EXTINF:-1,CHIN-FM
 http://ice7.securenetsystems.net/CHINAM
-#EXTINF:-1,CKWT FM
+#EXTINF:-1,CKWT_FM
 http://184.71.87.162:8000/
-#EXTINF:-1,Educadora FM
+#EXTINF:-1,Educadora_FM
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/audio/audio.m3u8
-#EXTINF:-1,Radio Cultural TGN
+#EXTINF:-1,Radio_Cultural_TGN
 http://stream.serverinfinity.com:7054/
 #EXTINF:-1,Nemzetiségi
 http://mr-stream.mediaconnect.hu/4744/mr4.mp3
-#EXTINF:-1,IRIB Radio Farhang
+#EXTINF:-1,IRIB_Radio_Farhang
 http://s0.cdn1.iranseda.ir:1935/liveedge/radio-farhang/chunklist.m3u8
-#EXTINF:-1,IRIB Radio Maaref
+#EXTINF:-1,IRIB_Radio_Maaref
 http://s3.cdn1.iranseda.ir:1935/liveedge/radio-maaref/chunklist.m3u8
-#EXTINF:-1,Radio Hitalia
+#EXTINF:-1,Radio_Hitalia
 http://wma02.fluidstream.net:8130/stream.nsv
-#EXTINF:-1,CUT Radio
+#EXTINF:-1,CUT_Radio
 http://ample-07.radiojar.com/cut-radio.mp3
-#EXTINF:-1,Kan Tarbut
+#EXTINF:-1,Kan_Tarbut
 https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/master.m3u8
-#EXTINF:-1,WACK Radio
+#EXTINF:-1,WACK_Radio
 http://node-29.zeno.fm/n3vg32ukh0quv
 #EXTINF:-1,WRTU
 http://streaming.radiouniversidad.pr:8062/
-#EXTINF:-1,Fine Music Radio
+#EXTINF:-1,Fine_Music_Radio
 https://edge.iono.fm/xice/fmr_live_medium.aac?p=embed
-#EXTINF:-1,Radio Oranim
+#EXTINF:-1,Radio_Oranim
 http://oranim.cdnwz.net/oranim
-#EXTINF:-1,DR P2
+#EXTINF:-1,DR_P2
 http://live-icy.gslb01.dr.dk/A/A04H.mp3
-#EXTINF:-1,Radio Amazigh
+#EXTINF:-1,Radio_Amazigh
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8
-#EXTINF:-1,Radio Selfie
+#EXTINF:-1,Radio_Selfie
 https://streams.radio.co/s69032f19e/listen
-#EXTINF:-1,Periszkóp Rádió
+#EXTINF:-1,Periszkóp_Rádió
 http://sztrim.periszkopradio.hu:8088/
-#EXTINF:-1,Radio Fe y Alegría
+#EXTINF:-1,Radio_Fe_y_Alegría
 http://192.240.114.58/movfeyalegria/movfeyalegria.stream/chunklist.m3u8
-#EXTINF:-1,IDC Radio
+#EXTINF:-1,IDC_Radio
 https://1062onair.idc.ac.il/idc123.mp3
-#EXTINF:-1,RTHK Radio 5
+#EXTINF:-1,RTHK_Radio_5
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
-#EXTINF:-1,Mai FM
+#EXTINF:-1,Mai_FM
 https://livestream.mediaworks.nz/radio_origin/maifm_128kbps/chunklist.m3u8
-#EXTINF:-1,Al Oula Radio
+#EXTINF:-1,Al_Oula_Radio
 http://uk6.internet-radio.com:8103/stream
-#EXTINF:-1,Radio Misk
+#EXTINF:-1,Radio_Misk
 http://178.32.253.134:8000/stream?type=.mp3
 #EXTINF:-1,XEEP-AM
 http://play.gvstream.net/radio-educa/default.stream/chunklist.m3u8
-#EXTINF:-1,Radio Atbir
+#EXTINF:-1,Radio_Atbir
 http://stream.zeno.fm/bqdbb6hd0neuv
-#EXTINF:-1,SLBC Tamil National Service
+#EXTINF:-1,SLBC_Tamil_National_Service
 http://220.247.227.6:8000/Tnsstream
-#EXTINF:-1,Newa FM
+#EXTINF:-1,Newa_FM
 http://216.55.141.189:8683/stream.mp3
 #EXTINF:-1,VOV2
 https://stream.vov.vn/vov2-audio/playlist.m3u8
-#EXTINF:-1,Turricans Radio Resistance
+#EXTINF:-1,Turricans_Radio_Resistance
 http://www.djkike.es:8000/

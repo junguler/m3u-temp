@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1,Psy Radio - Chillout
+#EXTINF:-1,Psy_Radio_-_Chillout
 http://komplex2.psyradio.org:8020/stream/1
-#EXTINF:-1,Psy Radio - Psy Trance
+#EXTINF:-1,Psy_Radio_-_Psy_Trance
 http://komplex2.psyradio.org:8030/stream/1
-#EXTINF:-1,Psyndora Psytrance
+#EXTINF:-1,Psyndora_Psytrance
 http://cast.magicstreams.gr:9111/stream
-#EXTINF:-1,psyradio * fm - chillout
+#EXTINF:-1,psyradio_*_fm_-_chillout
 http://komplex2.psyradio.org:8020/stream
-#EXTINF:-1,Radio Londra Italia
+#EXTINF:-1,Radio_Londra_Italia
 http://79.143.187.96:8000/rmin.mp3
-#EXTINF:-1,goa base
+#EXTINF:-1,goa_base
 http://goa-base.stream.laut.fm/goa-base
-#EXTINF:-1,goa channel one
+#EXTINF:-1,goa_channel_one
 http://goa-channel-one.stream.laut.fm/goa-channel-one
 #EXTINF:-1,goamusic
 http://goamusic.stream.laut.fm/goamusic
-#EXTINF:-1,psychedelic goa trance pro darkspy
+#EXTINF:-1,psychedelic_goa_trance_pro_darkspy
 http://psychedelic_goa_trance_pro_darkspy.stream.laut.fm/psychedelic_goa_trance_pro_darkspy
 #EXTINF:-1,pbr
 http://pbr.stream.laut.fm/pbr
@@ -35,15 +35,15 @@ http://goafm.stream.laut.fm/goafm
 http://marcydelic.stream.laut.fm/marcydelic
 #EXTINF:-1,bredenbeck
 http://bredenbeck.stream.laut.fm/bredenbeck
-#EXTINF:-1,beatz of electronic
+#EXTINF:-1,beatz_of_electronic
 http://beatz_of_electronic.stream.laut.fm/beatz_of_electronic
-#EXTINF:-1,skyradiofm clubhits
+#EXTINF:-1,skyradiofm_clubhits
 http://skyradiofm-clubhits.stream.laut.fm/skyradiofm-clubhits
 #EXTINF:-1,retroelectronicmusic
 http://retroelectronicmusic.stream.laut.fm/retroelectronicmusic
 #EXTINF:-1,leomusik
 http://leomusik.stream.laut.fm/leomusik
-#EXTINF:-1,deep tech club
+#EXTINF:-1,deep_tech_club
 http://deep-tech-club.stream.laut.fm/deep-tech-club
 #EXTINF:-1,meditation
 http://meditation.stream.laut.fm/meditation
@@ -53,7 +53,7 @@ http://clubnight.stream.laut.fm/clubnight
 http://krennerland.stream.laut.fm/krennerland
 #EXTINF:-1,nyox
 http://nyox.stream.laut.fm/nyox
-#EXTINF:-1,mandala fm
+#EXTINF:-1,mandala_fm
 http://mandala-fm.stream.laut.fm/mandala-fm
 #EXTINF:-1,dynaswelt
 http://dynaswelt.stream.laut.fm/dynaswelt
@@ -65,11 +65,11 @@ http://darknightradio.stream.laut.fm/darknightradio
 http://green1.stream.laut.fm/green1
 #EXTINF:-1,cloudvenus
 http://cloudvenus.stream.laut.fm/cloudvenus
-#EXTINF:-1,cr radio
+#EXTINF:-1,cr_radio
 http://cr-radio.stream.laut.fm/cr-radio
-#EXTINF:-1,fire and ice radio
+#EXTINF:-1,fire_and_ice_radio
 http://fire-and-ice-radio.stream.laut.fm/fire-and-ice-radio
-#EXTINF:-1,tekkzilla fm
+#EXTINF:-1,tekkzilla_fm
 http://tekkzilla-fm.stream.laut.fm/tekkzilla-fm
 #EXTINF:-1,turbobeats
 http://turbobeats.stream.laut.fm/turbobeats
@@ -77,9 +77,9 @@ http://turbobeats.stream.laut.fm/turbobeats
 http://netzwerkradio.stream.laut.fm/netzwerkradio
 #EXTINF:-1,radio368
 http://radio368.stream.laut.fm/radio368
-#EXTINF:-1,light and storm music
+#EXTINF:-1,light_and_storm_music
 http://light-and-storm-music.stream.laut.fm/light-and-storm-music
-#EXTINF:-1,fire bass radio
+#EXTINF:-1,fire_bass_radio
 http://fire-bass-radio.stream.laut.fm/fire-bass-radio
 #EXTINF:-1,globalbeatz
 http://globalbeatz.stream.laut.fm/globalbeatz
@@ -91,7 +91,7 @@ http://nordpollounge.stream.laut.fm/nordpollounge
 http://vega.stream.laut.fm/vega
 #EXTINF:-1,nightclubfm
 http://nightclubfm.stream.laut.fm/nightclubfm
-#EXTINF:-1,multi kult radio
+#EXTINF:-1,multi_kult_radio
 http://multi-kult-radio.stream.laut.fm/multi-kult-radio
 #EXTINF:-1,freenoize
 http://freenoize.stream.laut.fm/freenoize
@@ -101,45 +101,45 @@ http://onlineradiobrandenburg.stream.laut.fm/onlineradiobrandenburg
 http://sounphoenix.stream.laut.fm/sounphoenix
 #EXTINF:-1,viennasoundz
 http://viennasoundz.stream.laut.fm/viennasoundz
-#EXTINF:-1,onaga6418 dj bee qua lou
+#EXTINF:-1,onaga6418_dj_bee_qua_lou
 http://onaga6418-dj_bee_qua_lou.stream.laut.fm/onaga6418-dj_bee_qua_lou
-#EXTINF:-1,mallorca andy
+#EXTINF:-1,mallorca_andy
 http://mallorca-andy.stream.laut.fm/mallorca-andy
-#EXTINF:-1,Pyramid Radio Techno Base
+#EXTINF:-1,Pyramid_Radio_Techno_Base
 https://server3.streamserver-unlimited.de:8679/stream/1/
-#EXTINF:-1,Claprocker Radio
+#EXTINF:-1,Claprocker_Radio
 https://stream.laut.fm/cr-radio?ref=radiode
 #EXTINF:-1,Onlineradiobrandenburg
 https://stream.laut.fm/onlineradiobrandenburg?ref=radiode
 #EXTINF:-1,Goamusic
 https://stream.laut.fm/goamusic?ref=radiode
-#EXTINF:-1,Mandala FM
+#EXTINF:-1,Mandala_FM
 https://stream.laut.fm/mandala-fm?ref=radiode
-#EXTINF:-1,GalacticFM - Goa, Psy &amp; Progressive Psy Trance
+#EXTINF:-1,GalacticFM_-_Goa,_Psy_&amp;_Progressive_Psy_Trance
 https://eu1.reliastream.com:2199/tunein/bonz.pls
-#EXTINF:-1,Hellsgate / ClubLife Bassradio
+#EXTINF:-1,Hellsgate_/_ClubLife_Bassradio
 https://i6.streams.ovh/sc/portainf/stream
-#EXTINF:-1,4Lobos - Goa Radio
+#EXTINF:-1,4Lobos_-_Goa_Radio
 http://cassini.shoutca.st:9266/stream
-#EXTINF:-1,WRK PSY Trance Radio
+#EXTINF:-1,WRK_PSY_Trance_Radio
 http://radio.uslsonic.gq:8002/stream/
-#EXTINF:-1,4Lobos - Konkani Radio Station
+#EXTINF:-1,4Lobos_-_Konkani_Radio_Station
 http://puma.streemlion.com:4460/stream
-#EXTINF:-1,Getarum Radio
+#EXTINF:-1,Getarum_Radio
 http://stream.clever-host.ro:8010/stream
 #EXTINF:-1,Fatamorgana
 http://stream.laut.fm/fatamorgana
-#EXTINF:-1,Radio Goa
+#EXTINF:-1,Radio_Goa
 https://radio.faleiro.uk/radio/8000/radio.mp3/
-#EXTINF:-1,Mallorca Andy 
+#EXTINF:-1,Mallorca_Andy_
 http://stream.laut.fm/mallorca-andy
-#EXTINF:-1,4Lobos – Goa Radio
+#EXTINF:-1,4Lobos_–_Goa_Radio
 http://144.217.195.24:9266/stream/
-#EXTINF:-1,4Lobos – Konkani Radio Station
+#EXTINF:-1,4Lobos_–_Konkani_Radio_Station
 http://streamingv2.shoutcast.com/4LobosKonkaniRadioStation
 #EXTINF:-1,Psychedelic.FM
 http://s2.radio.co/s2696f08b5/listen
-#EXTINF:-1,Radio Trance Passion
+#EXTINF:-1,Radio_Trance_Passion
 http://stream.zenolive.com/fx164rdgewzuv
-#EXTINF:-1,90s90s Techno
+#EXTINF:-1,90s90s_Techno
 http://streams.90s90s.de/techno/mp3-192/liveonlineradio/

@@ -1,293 +1,293 @@
 #EXTM3U
-#EXTINF:-1,X-id 97.7 FM
+#EXTINF:-1,X-id_97.7_FM
 https://live.visir.is/hls-radio/x977/chunklist_DVR.m3u8
-#EXTINF:-1,FM 957
+#EXTINF:-1,FM_957
 https://live.visir.is/hls-radio/fm957/chunklist_DVR.m3u8
 #EXTINF:-1,Apparatið
 https://live.visir.is/hls-radio/apparatid/chunklist_DVR.m3u8
-#EXTINF:-1,FMX Klassík
+#EXTINF:-1,FMX_Klassík
 https://live.visir.is/hls-radio/fmx/chunklist_DVR.m3u8
 #EXTINF:-1,Bylgjan
 https://live.visir.is/hls-radio/bylgjan/playlist.m3u8
-#EXTINF:-1,Útvarp Saga
+#EXTINF:-1,Útvarp_Saga
 https://stream.utvarpsaga.is/Hljodver
-#EXTINF:-1,KissFM 104.5
+#EXTINF:-1,KissFM_104.5
 http://ice-11.spilarinn.is/kissfm
-#EXTINF:-1,RÚV Rondó
+#EXTINF:-1,RÚV_Rondó
 https://ruv-radio-live.akamaized.net/streymi/rondo/rondo/rondo.m3u8
-#EXTINF:-1,Létt Bylgjan
+#EXTINF:-1,Létt_Bylgjan
 https://live.visir.is/hls-radio/lettbylgjan/chunklist_DVR.m3u8
-#EXTINF:-1,Gull Bylgjan
+#EXTINF:-1,Gull_Bylgjan
 https://live.visir.is/hls-radio/gullbylgjan/chunklist_DVR.m3u8
-#EXTINF:-1,80s Bylgjan
+#EXTINF:-1,80s_Bylgjan
 https://live.visir.is/hls-radio/80s/chunklist_DVR.m3u8
-#EXTINF:-1,Rás 1
+#EXTINF:-1,Rás_1
 https://ruv-ras1-live-hls.secure.footprint.net/hls-live/ruv-ras1/_definst_/live.m3u8
-#EXTINF:-1,Rás 2
+#EXTINF:-1,Rás_2
 https://ruv-ras2-live-hls.secure.footprint.net/hls-live/ruv-ras2/_definst_/live.m3u8
-#EXTINF:-1,Trölli FM
+#EXTINF:-1,Trölli_FM
 http://live.trolli.is:8200/
-#EXTINF:-1,FM Extra 101.5
+#EXTINF:-1,FM_Extra_101.5
 http://www.radio.is:443/fmxtra
-#EXTINF:-1,Retro 895
+#EXTINF:-1,Retro_895
 http://radio.is:443/retromobile
-#EXTINF:-1,80's Bylgjan
+#EXTINF:-1,80's_Bylgjan
 http://icecast.365net.is:8000/orb80s.aac.m3u
 #EXTINF:-1,Apparatid
 http://icecast.365net.is:8000/orbApparatid.aac
-#EXTINF:-1,Bylgjan 98.9 Reykjavik
+#EXTINF:-1,Bylgjan_98.9_Reykjavik
 http://icecast.365net.is:8000/orbbylgjan.aac
-#EXTINF:-1,Flashback 60's Online - Reykjavik
+#EXTINF:-1,Flashback_60's_Online_-_Reykjavik
 http://radio.is:443/60flashback
-#EXTINF:-1,Flashback 80's 101.5 Reykjavik
+#EXTINF:-1,Flashback_80's_101.5_Reykjavik
 http://www.radio.is:443/80flashback
-#EXTINF:-1,Flashback 90's Online Reykjavik
+#EXTINF:-1,Flashback_90's_Online_Reykjavik
 http://www.radio.is:443/90flashback
-#EXTINF:-1,Flashback 91.9 Reykjavik
+#EXTINF:-1,Flashback_91.9_Reykjavik
 http://www.radio.is:443/flashback
-#EXTINF:-1,FMX Klassik 103.9 Reykjavik
+#EXTINF:-1,FMX_Klassik_103.9_Reykjavik
 http://vcache1.365net.is/hls-radio/fmx/master.m3u8
-#EXTINF:-1,Gull Bylgjan 90.9 Reykjavik
+#EXTINF:-1,Gull_Bylgjan_90.9_Reykjavik
 http://icecast.365net.is:8000/orbGullBylgjan.aac.m3u
 #EXTINF:-1,K100
 https://www.onlineradiobin.com/ajax/live.php?id=60711
-#EXTINF:-1,Kannin FM 100.5 "K100" Reykjavik
+#EXTINF:-1,Kannin_FM_100.5_"K100"_Reykjavik
 http://www.radio.is:443/kaninnmobile
-#EXTINF:-1,Kiss FM 104.5 Reykjavik
+#EXTINF:-1,Kiss_FM_104.5_Reykjavik
 http://stream.radio.is:443/kiss
-#EXTINF:-1,Radio Bodun 105.5 Reykjavik
+#EXTINF:-1,Radio_Bodun_105.5_Reykjavik
 http://radio.bodun.is:8000/stream
 #EXTINF:-1,Rás2
 http://netradio.ruv.is/ras2.aac
-#EXTINF:-1,Retro FM 89.5
+#EXTINF:-1,Retro_FM_89.5
 http://www.radio.is:443/retromobile
 #EXTINF:-1,Rondó
 https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8
-#EXTINF:-1,Saga 99.4 Reykjavik
+#EXTINF:-1,Saga_99.4_Reykjavik
 http://www.radio.is:443/saga
-#EXTINF:-1,Visir "FM 957 Extra" Reykjavik
+#EXTINF:-1,Visir_"FM_957_Extra"_Reykjavik
 http://icecast.365net.is:8000/orbFmExtra.aac
-#EXTINF:-1,Visir "FM957" 95.7 Reykjavik
+#EXTINF:-1,Visir_"FM957"_95.7_Reykjavik
 http://icecast.365net.is:8000/orbFm957.aac.m3u
 #EXTINF:-1,X977
 http://icecast.365net.is:8000/orbXid.aac.m3u
 #EXTINF:-1,Prufa
 https://198.245.61.103:8119/index.html
-#EXTINF:-1,FlashBack 91.9 FM
+#EXTINF:-1,FlashBack_91.9_FM
 http://stream.radio.is:443/flashback
-#EXTINF:-1,FM Xtra 101.5 FM
+#EXTINF:-1,FM_Xtra_101.5_FM
 http://stream.radio.is:443/fmxtra
-#EXTINF:-1,Kaninn FM 100.5
+#EXTINF:-1,Kaninn_FM_100.5
 http://radio.is:443/kaninnmobile
-#EXTINF:-1,Lindin 102.9 FM
+#EXTINF:-1,Lindin_102.9_FM
 http://62.145.147.50:8001/stream.aac
-#EXTINF:-1,Beatles, Rock'n'Roll, Italian Best Music
+#EXTINF:-1,Beatles,_Rock'n'Roll,_Italian_Best_Music
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,Flass X-Tra FM 101.5
+#EXTINF:-1,Flass_X-Tra_FM_101.5
 http://icecast.365net.is:8000/orbFm957.aac
-#EXTINF:-1,Lett Bylgjan
+#EXTINF:-1,Lett_Bylgjan
 http://icecast.365net.is:8000/orbLettBylgjan.aac
 #EXTINF:-1,3ABN
 https://war.str3am.com:7180/live
-#EXTINF:-1,Bylgjan 80s
+#EXTINF:-1,Bylgjan_80s
 http://icecast.365net.is:8000/orb80s.aac
 #EXTINF:-1,FMX
 http://icecast.365net.is:8000/orbFMX.aac
-#EXTINF:-1,ICE FM Iceland
+#EXTINF:-1,ICE_FM_Iceland
 http://37.59.28.208:8188/
 #EXTINF:-1,KissFM
 http://www.radio.is:443/kiss
-#EXTINF:-1,RV Nll
+#EXTINF:-1,RV_Nll
 http://netradio.ruv.is:80/ruvnull.aac
-#EXTINF:-1,RV Rond
+#EXTINF:-1,RV_Rond
 http://netradio.ruv.is:80/rondo.aac
-#EXTINF:-1,Sudurland FM 963
+#EXTINF:-1,Sudurland_FM_963
 http://178.19.58.119:1818/
-#EXTINF:-1,Utvarp Saga
+#EXTINF:-1,Utvarp_Saga
 http://stream.radio.is:443/saga
-#EXTINF:-1,Xid 977 FM
+#EXTINF:-1,Xid_977_FM
 http://icecast.365net.is:8000/orbXid.aac
-#EXTINF:-1,Rondo Listen live
+#EXTINF:-1,Rondo_Listen_live
 https://ruv-radio-live.akamaized.net/streymi/rondo/rondo-256000.m3u8
-#EXTINF:-1,Bikini FM Marina Alta - Sur Listen live
+#EXTINF:-1,Bikini_FM_Marina_Alta_-_Sur_Listen_live
 https://stream.mediasector.es/radio/8030/bikinifm-marina-alta-sur.mp3
-#EXTINF:-1,Jovem Pan - JP News Joinville Listen live
+#EXTINF:-1,Jovem_Pan_-_JP_News_Joinville_Listen_live
 https://ssl1.transmissaodigital.com:2398/server
-#EXTINF:-1,RETROWELLE  Listen live
+#EXTINF:-1,RETROWELLE__Listen_live
 https://stream.laut.fm/retrowelle?ref=radiode
-#EXTINF:-1,Goa-Channel-One Listen live
+#EXTINF:-1,Goa-Channel-One_Listen_live
 https://stream.laut.fm/goa-channel-one
-#EXTINF:-1,Paradise FM Listen live
+#EXTINF:-1,Paradise_FM_Listen_live
 https://audio-edge-es6pf.mia.g.radiomast.io/0068d53d-f6a4-41d3-9e9a-6a2b67387d9f
-#EXTINF:-1,Street Deejays Radio Listen live
+#EXTINF:-1,Street_Deejays_Radio_Listen_live
 https://stream.zeno.fm/nbwdnxz7na0uv.aac
-#EXTINF:-1,BB RADIO - Soft Listen live
+#EXTINF:-1,BB_RADIO_-_Soft_Listen_live
 https://streambbr.ir-media-tec.com/relax/mp3-192/web/
-#EXTINF:-1,BBC Radio Lancashire Listen live
+#EXTINF:-1,BBC_Radio_Lancashire_Listen_live
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_lancashire
-#EXTINF:-1,handmade-music Listen live
+#EXTINF:-1,handmade-music_Listen_live
 https://stream.laut.fm/handmade-music?ref=radiode
-#EXTINF:-1,Dance Family Radio Listen live
+#EXTINF:-1,Dance_Family_Radio_Listen_live
 https://stream.laut.fm/dance-family-radio
-#EXTINF:-1,illerpower Listen live
+#EXTINF:-1,illerpower_Listen_live
 https://stream.laut.fm/illerpower?ref=radiode
-#EXTINF:-1,House Music Channel - Loops Radio Listen live
+#EXTINF:-1,House_Music_Channel_-_Loops_Radio_Listen_live
 https://ssl190.ozelip.com/asistan/stream/ebcc933e674242c816bd38923148d46e
-#EXTINF:-1,partyhouse Listen live
+#EXTINF:-1,partyhouse_Listen_live
 https://stream.laut.fm/partyhouse?ref=radiode
-#EXTINF:-1,welle-nord Listen live
+#EXTINF:-1,welle-nord_Listen_live
 https://stream.laut.fm/welle-nord?ref=radiode
-#EXTINF:-1,Kiss FM
+#EXTINF:-1,Kiss_FM
 https://ice-11.spilarinn.is/kiss
-#EXTINF:-1,RÚV Rás 1
+#EXTINF:-1,RÚV_Rás_1
 https://ruv-radio-live.akamaized.net/streymi/ras1/ras1.m3u8
-#EXTINF:-1,Retro 89.5
+#EXTINF:-1,Retro_89.5
 https://ice-11.spilarinn.is/retromobile
-#EXTINF:-1,RÚV Rás 2
+#EXTINF:-1,RÚV_Rás_2
 https://ruv-radio-live.akamaized.net/streymi/ras2/ras2/ras2.m3u8
-#EXTINF:-1,Útvarp 101
+#EXTINF:-1,Útvarp_101
 https://stream.101.live/audio/101/chunklist.m3u8
-#EXTINF:-1,Íslenska Bylgjan
+#EXTINF:-1,Íslenska_Bylgjan
 https://live.visir.is/hls-radio/fmx/playlist.m3u8
-#EXTINF:-1,80's FlashBack
+#EXTINF:-1,80's_FlashBack
 https://ice-11.spilarinn.is/80flashback
-#EXTINF:-1,96 FM
+#EXTINF:-1,96_FM
 https://corus.leanstream.co/CFPLFM
-#EXTINF:-1,98 FM
+#EXTINF:-1,98_FM
 https://stream.audioxi.com/98
-#EXTINF:-1,RÚV - Rás 1
+#EXTINF:-1,RÚV_-_Rás_1
 http://netradio.ruv.is/ras1.mp3
-#EXTINF:-1,Ice FM
+#EXTINF:-1,Ice_FM
 http://falcon.shoutca.st:8516/stream
-#EXTINF:-1,RÚV - Rás 2
+#EXTINF:-1,RÚV_-_Rás_2
 http://netradio.ruv.is/ras2.mp3
-#EXTINF:-1,Utvarp Bodun
+#EXTINF:-1,Utvarp_Bodun
 http://bodun.is:8000/stream
 #EXTINF:-1,FlashBack
 http://live.visir.is/hls-radio/lettbylgjan/playlist.m3u8
-#EXTINF:-1,FlashBack 60s
+#EXTINF:-1,FlashBack_60s
 http://stream3.radio.is:443/60flashback
-#EXTINF:-1,FlashBack 70s
+#EXTINF:-1,FlashBack_70s
 http://stream3.radio.is:443/70flashback
-#EXTINF:-1,FlashBack 80s
+#EXTINF:-1,FlashBack_80s
 http://stream3.radio.is:443/80flashback
-#EXTINF:-1,FlashBack 90s
+#EXTINF:-1,FlashBack_90s
 http://stream3.radio.is:443/90flashback
-#EXTINF:-1,FM Extra
+#EXTINF:-1,FM_Extra
 http://radio.is:443/fmxtra
-#EXTINF:-1,Gull Bylgjan 909
+#EXTINF:-1,Gull_Bylgjan_909
 http://37.59.28.208:8217/
-#EXTINF:-1,Rás 1 RÚV 93.5 FM
+#EXTINF:-1,Rás_1_RÚV_93.5_FM
 http://netradio.ruv.is:80/ras1.mp3
-#EXTINF:-1,Rás 2 RÚV 90.1 FM
+#EXTINF:-1,Rás_2_RÚV_90.1_FM
 http://netradio.ruv.is:80/ras2.mp3
-#EXTINF:-1,Rondó RÚV 87.7 FM
+#EXTINF:-1,Rondó_RÚV_87.7_FM
 http://netradio.ruv.is:80/rondo.mp3
-#EXTINF:-1,RÚV Núll Pop
+#EXTINF:-1,RÚV_Núll_Pop
 http://netradio.ruv.is:80/ruvnull.mp3
-#EXTINF:-1,Útvarp Saga 99.4 FM
+#EXTINF:-1,Útvarp_Saga_99.4_FM
 http://stream.utvarpsaga.is/Hljodver
-#EXTINF:-1,001Manimaa hd
+#EXTINF:-1,001Manimaa_hd
 https://stream.zeno.fm/n655rxm0238uv
 #EXTINF:-1,JamRock
 https://stream.zeno.fm/rcmergybtpmtv
-#EXTINF:-1,Radio Perro Artico
+#EXTINF:-1,Radio_Perro_Artico
 https://stream.zeno.fm/p9bpmbketc9uv
 #EXTINF:-1,Jamrock
 https://stream.zeno.fm/yxcit5uvslvvv
-#EXTINF:-1,The Howling Tomb
+#EXTINF:-1,The_Howling_Tomb
 https://stream.zeno.fm/hyw46x53z98uv
-#EXTINF:-1,Gingery Radio
+#EXTINF:-1,Gingery_Radio
 https://stream.zeno.fm/im5uhpiwz9dvv
-#EXTINF:-1,Boudoir Radio
+#EXTINF:-1,Boudoir_Radio
 https://stream.zeno.fm/8fk3s6yegphvv
-#EXTINF:-1,Útvarp Keflavík
+#EXTINF:-1,Útvarp_Keflavík
 https://stream.zeno.fm/hhdck8pvbphvv
-#EXTINF:-1,Anuel AA
+#EXTINF:-1,Anuel_AA
 https://stream.zeno.fm/485qy7ewwchvv
-#EXTINF:-1,Radio Perro
+#EXTINF:-1,Radio_Perro
 https://stream.zeno.fm/b78ugghetc9uv
-#EXTINF:-1,Jax ling official radio station
+#EXTINF:-1,Jax_ling_official_radio_station
 https://stream.zeno.fm/qay2essawuhvv
 #EXTINF:-1,prufan
 https://stream.zeno.fm/dw8p60d4xuhvv
-#EXTINF:-1,Diseased Radio
+#EXTINF:-1,Diseased_Radio
 https://stream.zeno.fm/t5re44ttta0uv
-#EXTINF:-1,Radio Frytki 24H LIVE ON (ONLY MUSIC)
+#EXTINF:-1,Radio_Frytki_24H_LIVE_ON_(ONLY_MUSIC)
 https://stream.zeno.fm/4jbp2tq7jvqtv
 #EXTINF:-1,utvarpið
 https://stream.zeno.fm/5c3u29xwp68uv
-#EXTINF:-1,Dannys Rock Station
+#EXTINF:-1,Dannys_Rock_Station
 https://stream.zeno.fm/6e3asd896nhvv
-#EXTINF:-1,The First Time
+#EXTINF:-1,The_First_Time
 https://stream.zeno.fm/1duy32n43hhvv
-#EXTINF:-1,radio c
+#EXTINF:-1,radio_c
 https://stream.zeno.fm/u9xzva5hpd0uv
-#EXTINF:-1,Poland from Hetalia Marukaite Chikyuu FM
+#EXTINF:-1,Poland_from_Hetalia_Marukaite_Chikyuu_FM
 https://stream.zeno.fm/qe3nk3gp2zhvv
-#EXTINF:-1,Tzgospel (Iceland)
+#EXTINF:-1,Tzgospel_(Iceland)
 https://stream.zeno.fm/dc122f8u2ehvv
-#EXTINF:-1,Unholy Radio
+#EXTINF:-1,Unholy_Radio
 https://stream.zeno.fm/41y996trua0uv
 #EXTINF:-1,1vijikandh
 https://stream.zeno.fm/v5t0ysd9938uv
-#EXTINF:-1,LOAT Radio
+#EXTINF:-1,LOAT_Radio
 https://stream.zeno.fm/e6a1gpmxznhvv
-#EXTINF:-1,Radio Frytki 24h LIVE ON
+#EXTINF:-1,Radio_Frytki_24h_LIVE_ON
 https://stream.zeno.fm/93xzfhatmwxtv
-#EXTINF:-1,Skaga Rásin
+#EXTINF:-1,Skaga_Rásin
 https://stream.zeno.fm/0b1q040fuuhvv
-#EXTINF:-1,The tech community
+#EXTINF:-1,The_tech_community
 https://stream.zeno.fm/b3xpzbdfeq8uv
 #EXTINF:-1,asdsdad
 https://stream.zeno.fm/zzfjff5jch0vv
 #EXTINF:-1,Effaþa
 https://stream.zeno.fm/aa61r7cdfc9uv
-#EXTINF:-1,ABBYY FineReader 11 64
+#EXTINF:-1,ABBYY_FineReader_11_64
 https://stream.zeno.fm/odxzhzufoimuv
 #EXTINF:-1,ÁttanFM
 http://www.radio.is:443/attan
-#EXTINF:-1,Bylgjan FM
+#EXTINF:-1,Bylgjan_FM
 http://vcache1.365net.is/hls-radio/bylgjan/playlist.m3u8
-#EXTINF:-1,Ice FM Online
+#EXTINF:-1,Ice_FM_Online
 http://37.59.28.208:8188/stream/
 #EXTINF:-1,Lindin
 http://62.145.147.50:8001/lindin
-#EXTINF:-1,RÚV – Rás 2
+#EXTINF:-1,RÚV_–_Rás_2
 http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8
-#EXTINF:-1,Sudurland FM 96.3
+#EXTINF:-1,Sudurland_FM_96.3
 http://stream3.radio.is:443/saga
-#EXTINF:-1,Sudurland FM
+#EXTINF:-1,Sudurland_FM
 https://www.liveradio.es/http://178.19.58.119:1818/
-#EXTINF:-1,KissFM 104,5
+#EXTINF:-1,KissFM_104,5
 https://live.visir.is/hls-radio/fmextra/playlist.m3u8
-#EXTINF:-1,Apparatid Radio
+#EXTINF:-1,Apparatid_Radio
 https://live.visir.is/hls-radio/apparatid/playlist.m3u8
-#EXTINF:-1,Bitter Sweet Music IS
+#EXTINF:-1,Bitter_Sweet_Music_IS
 http://91.121.236.34:8520/is
-#EXTINF:-1,FlashBack FM
+#EXTINF:-1,FlashBack_FM
 https://ice-11.spilarinn.is/flashback
 #EXTINF:-1,FM957
 https://live.visir.is/hls-radio/fm957/playlist.m3u8
-#EXTINF:-1,RÚV  Rás 1
+#EXTINF:-1,RÚV__Rás_1
 https://ruv-rondo-live-hls.secure.footprint.net/hls-live/ruv-ras3/_definst_/live.m3u8
-#EXTINF:-1,Útvarp Reykjavíkur í beinni
+#EXTINF:-1,Útvarp_Reykjavíkur_í_beinni
 https://stream2.svrdedicado.org:7127/stream
-#EXTINF:-1,RUV Ras 1
+#EXTINF:-1,RUV_Ras_1
 https://ruv-ras1-live-hls.secure.footprint.net/hls-live/ruv-ras1/_definst_/live/stream1.m3u8
-#EXTINF:-1,Biser Radio Live
+#EXTINF:-1,Biser_Radio_Live
 https://as1.prvihosting.com/radio/8100/radio.mp3?1602280578
-#EXTINF:-1,Jólarásin / Christmas Radio
+#EXTINF:-1,Jólarásin_/_Christmas_Radio
 https://s27.myradiostream.com/sc1/:17936/listen.mp3
-#EXTINF:-1,Making Waves Radio 
+#EXTINF:-1,Making_Waves_Radio_
 https://stream.zeno.fm/5dgevfbqyhhvv
-#EXTINF:-1,RADIO STIL
+#EXTINF:-1,RADIO_STIL
 https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1
-#EXTINF:-1,Flashback 90s
+#EXTINF:-1,Flashback_90s
 https://ice-11.spilarinn.is/90flashback
-#EXTINF:-1,Flashback 70s
+#EXTINF:-1,Flashback_70s
 https://ice-11.spilarinn.is/70flashback
-#EXTINF:-1,Flashback 60s
+#EXTINF:-1,Flashback_60s
 https://ice-11.spilarinn.is/60flashback
-#EXTINF:-1,Utvarp Saga FM
+#EXTINF:-1,Utvarp_Saga_FM
 https://ice-11.spilarinn.is/saga

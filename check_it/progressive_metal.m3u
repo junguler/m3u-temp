@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1,progalley
 http://progalley.stream.laut.fm/progalley
-#EXTINF:-1,1 4 1 progressive
+#EXTINF:-1,1_4_1_progressive
 http://1-4-1-progressive.stream.laut.fm/1-4-1-progressive
-#EXTINF:-1,chaos radio
+#EXTINF:-1,chaos_radio
 http://chaos-radio.stream.laut.fm/chaos-radio
 #EXTINF:-1,progressivemusic
 http://progressivemusic.stream.laut.fm/progressivemusic
-#EXTINF:-1,prog rock
+#EXTINF:-1,prog_rock
 http://prog_rock.stream.laut.fm/prog_rock
-#EXTINF:-1,stone prog
+#EXTINF:-1,stone_prog
 http://stone-prog.stream.laut.fm/stone-prog
 #EXTINF:-1,radiosilenceone
 http://radiosilenceone.stream.laut.fm/radiosilenceone
-#EXTINF:-1,rock castle radio
+#EXTINF:-1,rock_castle_radio
 http://rock-castle-radio.stream.laut.fm/rock-castle-radio
 #EXTINF:-1,radionarcan
 http://radionarcan.stream.laut.fm/radionarcan
@@ -21,67 +21,67 @@ http://radionarcan.stream.laut.fm/radionarcan
 http://choiceofnoise.stream.laut.fm/choiceofnoise
 #EXTINF:-1,allaboutrock
 http://allaboutrock.stream.laut.fm/allaboutrock
-#EXTINF:-1,metal watson radio
+#EXTINF:-1,metal_watson_radio
 http://metal_watson_radio.stream.laut.fm/metal_watson_radio
 #EXTINF:-1,thesoundofrock
 http://thesoundofrock.stream.laut.fm/thesoundofrock
-#EXTINF:-1,rock circle radio
+#EXTINF:-1,rock_circle_radio
 http://rock-circle-radio.stream.laut.fm/rock-circle-radio
-#EXTINF:-1,Radio 434 - Rocks
+#EXTINF:-1,Radio_434_-_Rocks
 https://icecast01.mycloudserver.info/lsl-rocks
-#EXTINF:-1,Radio progRock
+#EXTINF:-1,Radio_progRock
 https://pavo.prostreaming.net:8012/stream
-#EXTINF:-1,Metal Maximum Radio (MMR)
+#EXTINF:-1,Metal_Maximum_Radio_(MMR)
 https://s5.ssl-stream.com:8022/stream
-#EXTINF:-1,Prog Palace Radio&amp#39s The Armory
+#EXTINF:-1,Prog_Palace_Radio&amp#39s_The_Armory
 https://cheetah.streemlion.com:4775/stream
-#EXTINF:-1,Radio Extasy | Power Metal
+#EXTINF:-1,Radio_Extasy_|_Power_Metal
 https://onrb.play.extasy.es/
-#EXTINF:-1,PPN Radio
+#EXTINF:-1,PPN_Radio
 https://streamingv2.shoutcast.com/PPNR02
-#EXTINF:-1,Altitude Radio
+#EXTINF:-1,Altitude_Radio
 https://securestream.casthost.net:8025/live
-#EXTINF:-1,Decennial Gothica Radio
+#EXTINF:-1,Decennial_Gothica_Radio
 https://onlineradiobox.com/json/us/decennialgothica/play?platform=web
-#EXTINF:-1,Must Have Metal
+#EXTINF:-1,Must_Have_Metal
 https://stream.zeno.fm/ehmr2unacskvv
-#EXTINF:-1,Progressive Metal
+#EXTINF:-1,Progressive_Metal
 https://onlineradiobox.com/json/de/progressivemetal/play?platform=web
-#EXTINF:-1,92.3 The Fox
+#EXTINF:-1,92.3_The_Fox
 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
-#EXTINF:-1,Almighty On Mt. Zion - Radio
+#EXTINF:-1,Almighty_On_Mt._Zion_-_Radio
 http://50.22.218.101:7661
-#EXTINF:-1,Atlas BD - Radio
+#EXTINF:-1,Atlas_BD_-_Radio
 http://listen.shoutcast.com/atlasbd-radio
-#EXTINF:-1,BCJRADIO Prog radio
+#EXTINF:-1,BCJRADIO_Prog_radio
 http://listen.radionomy.com:80/BCJRADIOProgradio
-#EXTINF:-1,Bullet for My Valentine FanLoop Radio
+#EXTINF:-1,Bullet_for_My_Valentine_FanLoop_Radio
 http://listen.radionomy.com:80/BulletforMyValentineFanLoopRadio
 #EXTINF:-1,CarcelenTown-Radio
 http://listen.shoutcast.com/carcelentown-radio
-#EXTINF:-1,d j e n t
+#EXTINF:-1,d_j_e_n_t
 http://listen.shoutcast.com/djent
-#EXTINF:-1,DJ HELLMAKER
+#EXTINF:-1,DJ_HELLMAKER
 http://listen.shoutcast.com/djhellmaker
 #EXTINF:-1,DJSE
 http://listen.shoutcast.com/djse
 #EXTINF:-1,flntest
 http://listen.shoutcast.com/flntest
-#EXTINF:-1,Gatorsec Radio
+#EXTINF:-1,Gatorsec_Radio
 http://listen.shoutcast.com/gatorsecradio
-#EXTINF:-1,Global Rock Radio
+#EXTINF:-1,Global_Rock_Radio
 http://listen.radionomy.com:80/GlobalRockRadio
 #EXTINF:-1,Hig.Station
 http://listen.shoutcast.com/higstation
-#EXTINF:-1,Hunters Homestead
+#EXTINF:-1,Hunters_Homestead
 http://listen.shoutcast.com/huntershomestead
 #EXTINF:-1,Matthewmatical
 http://listen.shoutcast.com/matthewmatical
 #EXTINF:-1,meegle84
 http://listen.shoutcast.com/meegle84
-#EXTINF:-1,Metal Zone Radio
+#EXTINF:-1,Metal_Zone_Radio
 http://91.121.82.33:14676
-#EXTINF:-1,Ombadd Channel Studio
+#EXTINF:-1,Ombadd_Channel_Studio
 http://listen.shoutcast.com/ombaddchannelstudio
 #EXTINF:-1,Parma
 http://listen.shoutcast.com/parma
@@ -89,27 +89,27 @@ http://listen.shoutcast.com/parma
 http://listen.shoutcast.com/pinoy-hard-rock
 #EXTINF:-1,PPNR02
 http://listen.radionomy.com:80/PPNR02
-#EXTINF:-1,Progulus Metal Radio
+#EXTINF:-1,Progulus_Metal_Radio
 http://listen.radionomy.com:80/ProgulusMetalRadio
-#EXTINF:-1,Radio Anime FreakSekai
+#EXTINF:-1,Radio_Anime_FreakSekai
 http://listen.radionomy.com:80/RadioAnimeFreakSekai
-#EXTINF:-1,Radio Corsario
+#EXTINF:-1,Radio_Corsario
 http://listen.shoutcast.com/radiocorsario
-#EXTINF:-1,Radio Florian
+#EXTINF:-1,Radio_Florian
 http://listen.shoutcast.com/radioflorian
-#EXTINF:-1,RDD MetalRadio
+#EXTINF:-1,RDD_MetalRadio
 http://listen.radionomy.com:80/RDDMetalRadio
-#EXTINF:-1,Rexyraz Radio
+#EXTINF:-1,Rexyraz_Radio
 http://listen.shoutcast.com/rexyrazradio
-#EXTINF:-1,Sora's Sabbulonarium
+#EXTINF:-1,Sora's_Sabbulonarium
 http://listen.shoutcast.com/sora-ssabbulonarium
 #EXTINF:-1,SoterorockpolitanoFm
 http://listen.radionomy.com:80/SoterorockpolitanoFm
-#EXTINF:-1,Super Prog Radio
+#EXTINF:-1,Super_Prog_Radio
 http://listen.radionomy.com:80/SuperProgRadio
-#EXTINF:-1,Tal'mahe'Ra Radio
+#EXTINF:-1,Tal'mahe'Ra_Radio
 http://listen.shoutcast.com/tal-mahe-raradio
-#EXTINF:-1,The Otherworld
+#EXTINF:-1,The_Otherworld
 http://listen.shoutcast.com/theotherworld
-#EXTINF:-1,True Black Hand Radio
+#EXTINF:-1,True_Black_Hand_Radio
 http://listen.shoutcast.com/trueblackhandradio

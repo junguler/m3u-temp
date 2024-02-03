@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1,RFI Monde
+#EXTINF:-1,RFI_Monde
 https://rfimonde-96k.ice.infomaniak.ch/rfimonde-96k.mp3
-#EXTINF:-1,Vesti FM
+#EXTINF:-1,Vesti_FM
 http://icecast-vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1,Radio Lemma
+#EXTINF:-1,Radio_Lemma
 http://212.107.192.130:8000/
-#EXTINF:-1,Vesna FM
+#EXTINF:-1,Vesna_FM
 http://91.203.176.214:8000/vesnafm
-#EXTINF:-1,R Mayak Orenburg
+#EXTINF:-1,R_Mayak_Orenburg
 http://213.135.124.30:8000/maiak.mp3
-#EXTINF:-1,R Rossii Kabardino-Balkaria
+#EXTINF:-1,R_Rossii_Kabardino-Balkaria
 http://31.41.56.29:8000/radio.mp3
-#EXTINF:-1,MPR News
+#EXTINF:-1,MPR_News
 https://nis.stream.publicradio.org/nis-tunein.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1612678271&us_privacy=1YNY&aw_0_1st.platform=tunein
 #EXTINF:-1,OPB
 https://stream5.opb.org/2440_64.aac
@@ -19,13 +19,13 @@ https://stream5.opb.org/2440_64.aac
 http://live.str3am.com:2430
 #EXTINF:-1,KUT
 http://kut.streamguys1.com/kut-tunein
-#EXTINF:-1,CapRadio News
+#EXTINF:-1,CapRadio_News
 https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY3MDExMywiaXNzIjoidGlzcnYifQ.CzjkpWvOQMWfPD5TuU6wWdbGn-OKPZI_7rbRjgol8rA
 #EXTINF:-1,WDET-FM
 https://wdet.streamguys1.com/live-aac2
 #EXTINF:-1,WNYC-FM
 http://fm939.wnyc.org/wnycfm-tunein?source=TuneIn&gdpr=0&us_privacy=1YNY
-#EXTINF:-1,St. Louis Public Radio KWMU 1
+#EXTINF:-1,St._Louis_Public_Radio_KWMU_1
 https://kwmu1-ice.streamguys1.com/kwmu1
 #EXTINF:-1,WMFE-FM
 http://wmfe.iad.streamguys1.com/wmfe
@@ -35,7 +35,7 @@ http://tektite.streamguys1.com:5140/wwnolive
 http://wuwm.streamguys1.com/live.mp3
 #EXTINF:-1,WTAW
 https://ice42.securenetsystems.net/WTAWAM
-#EXTINF:-1,Maine Public Radio
+#EXTINF:-1,Maine_Public_Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMEAFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY3OTU5NCwiaXNzIjoidGlzcnYifQ.f6UDzexjxcMgOxNom7NgW2bfVGpvD9wqdgcmRwNH1rg
 #EXTINF:-1,VPR
 http://vpr.streamguys.net/vpr96.mp3
@@ -47,23 +47,23 @@ https://stream.cinradio.org/noads-wvxu
 https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY4MzEzMiwiaXNzIjoidGlzcnYifQ.wo_IiT9qGQO4w7PB4ypJE3JObUNqRg_KFF1iFiR82ro
 #EXTINF:-1,WSAU
 http://playerservices.streamtheworld.com/api/livestream-redirect/WSAUAMFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjEyNzI3NTk1LCJ0ZC1yZWciOmZhbHNlfQ.RH2lod1IMV8yfAhOp1tQL0_Y5RDyGGa8QFo1wLNmjP4&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjcyNzU5NSwiaXNzIjoidGlzcnYifQ.XyHwQIU9QGbPEUbIz5LTaBGGtPcUyhk
-#EXTINF:-1,Iowa Public Radio News
+#EXTINF:-1,Iowa_Public_Radio_News
 http://news-stream.iowapublicradio.org/News.mp3
-#EXTINF:-1,IPR News Radio
+#EXTINF:-1,IPR_News_Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/WICAFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjEyNjgxNzU4LCJ0ZC1yZWciOmZhbHNlfQ.2fS_jZpjMDWwEwGrkVHgBJAMjQIPlQs6x9UZ24HjbAQ&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY4MTc1OCwiaXNzIjoidGlzcnYifQ.xxYZwgg-dE11JYQNL1q1s0BRwzCO5FsQG
-#EXTINF:-1,Northwest Public Broadcasting
+#EXTINF:-1,Northwest_Public_Broadcasting
 https://streams.nwpr.org:8443/NWPRNEWS
-#EXTINF:-1,WJCT News 89.9
+#EXTINF:-1,WJCT_News_89.9
 http://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjEyNjc0MTMyLCJ0ZC1yZWciOmZhbHNlfQ.hG9n-MTdzg8Qd5wWiysDbuK22j-JEGqMaAv2Jdn8vlY&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY3NDEzMiwiaXNzIjoidGlzcnYifQ.pOzmQMShR252uJtXHDiPCtVzI2xyKANra
 #EXTINF:-1,KVCR
 http://mp3.kvcr.org/live.mp3
-#EXTINF:-1,West Virginia Public Broadcasting
+#EXTINF:-1,West_Virginia_Public_Broadcasting
 https://wvpublic.streamguys1.com/wvpb
 #EXTINF:-1,KAZU
 https://icecastle.csumb.edu/live128
-#EXTINF:-1,The Answer Sacramento
+#EXTINF:-1,The_Answer_Sacramento
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTKZAM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY3MDE3MywiaXNzIjoidGlzcnYifQ.NP4NSuO85tAA6lqbCNM0talV4ph0nzMwo33dHcjqVYE
-#EXTINF:-1,WILL - Illinois Public Media
+#EXTINF:-1,WILL_-_Illinois_Public_Media
 http://icecast.will.illinois.edu:8000/WILL-mp3-48
 #EXTINF:-1,WUOT
 http://playerservices.streamtheworld.com/api/livestream-redirect/WUOTFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjEyNzI0MTE1LCJ0ZC1yZWciOmZhbHNlfQ.4Vxn2gLAcgxK4x28wUyTlhWK8O4fq2eb7cQuppxuKBU&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjcyNDExNSwiaXNzIjoidGlzcnYifQ.pLFvwlr8i8oEt5fjIWp_kzxDGQbu_ycJU
@@ -77,15 +77,15 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAM.mp3?DIST
 http://hannibal.ucs.indiana.edu:8000/wfiu_hi
 #EXTINF:-1,WNIJ
 http://peace.str3am.com:6810/live-96k-nopreroll
-#EXTINF:-1,WSKG Radio
+#EXTINF:-1,WSKG_Radio
 http://peace.str3am.com:7070/wskg
-#EXTINF:-1,WPLN International
+#EXTINF:-1,WPLN_International
 https://wpln.streamguys1.com/wplnam.mp3
 #EXTINF:-1,KSMU
 http://ksmu.streamguys1.com/ksmu3
-#EXTINF:-1,KSER Everett
+#EXTINF:-1,KSER_Everett
 http://jade.streamguys1.com:4050/live
-#EXTINF:-1,WEKU News
+#EXTINF:-1,WEKU_News
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEKUFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY3ODkzMSwiaXNzIjoidGlzcnYifQ.U7hQlILv42ESR2NNMpSz0UUfpQk-a5v542Hono2a-xM
 #EXTINF:-1,WMXI
 http://ice41.securenetsystems.net/WMXI
@@ -95,7 +95,7 @@ https://ais-sa1.streamon.fm/7772_96k.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjcyMDAzMSwiaXNzIjoidGlzcnYifQ.R1Ju-3hVwBndlQ7A1_tt8Yf_gmdUR_AKxsbqGSfCOeY
 #EXTINF:-1,WFIT
 http://streaming.wfit.org/wfit-fm
-#EXTINF:-1,WBAA News
+#EXTINF:-1,WBAA_News
 http://purdue.streamguys1.com/wbaa-news-aac
 #EXTINF:-1,WSVH
 https://gpb.streamguys1.com/gpb-savannah-mp3-tunein
@@ -105,7 +105,7 @@ https://aispool.streamon.fm/ais/KUAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KSFC_FM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjcyNjkzMSwiaXNzIjoidGlzcnYifQ.wDF2obD9-ElUZGxql3M1pEj-yrgU-2N1p7buHHHjLAM
 #EXTINF:-1,KBBI
 http://kbbi.streamguys1.com:80/xstream
-#EXTINF:-1,NET Radio HD2
+#EXTINF:-1,NET_Radio_HD2
 https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVHD2.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY3ODM5MiwiaXNzIjoidGlzcnYifQ.dOLTBikpllcPIsSpNXgOH-OPhbRezsO_lSQ_yxaUAcU
 #EXTINF:-1,WMUM
 https://gpb.streamguys1.com/gpb-macon-mp3-tunein
@@ -119,69 +119,69 @@ http://ic2.mainstreamnetwork.com/whdd-fm
 http://playerservices.streamtheworld.com/api/livestream-redirect/WRVOHD3.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjEyNjg1NTkxLCJ0ZC1yZWciOmZhbHNlfQ.wcj_k4QbwBHuMvCIVjKf6JzgYgsxOzVF6gU9H9vX170&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY4NTU5MSwiaXNzIjoidGlzcnYifQ.UcdYbwL_Aqx_zBfzKWFc2YmUm-B0LlJy
 #EXTINF:-1,KHNS
 http://peridot.streamguys.com:5130/live
-#EXTINF:-1,Lite 94.3 & 100.1 WSDE
+#EXTINF:-1,Lite_94.3_&_100.1_WSDE
 https://ice66.securenetsystems.net/WSDE
 #EXTINF:-1,KWBU-FM
 http://clevr.me/r/radio/kwbu
 #EXTINF:-1,KETO
 http://s30.myradiostream.com:28324/
-#EXTINF:-1,WLVR News
+#EXTINF:-1,WLVR_News
 https://10gb1.tulix.tv/WLVR
-#EXTINF:-1,Radio 24
+#EXTINF:-1,Radio_24
 http://shoutcast2.radio24.ilsole24ore.com:8000/?type=http&nocache=159
-#EXTINF:-1,6PR Perth
+#EXTINF:-1,6PR_Perth
 https://ap-playerservices.streamtheworld.com/api/livestream-redirect/6PR.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY2MjY2OSwiaXNzIjoidGlzcnYifQ.DMZagIBTI35nbp3uqr-8f-FkIG_kByt0r9iXYkzYarU
-#EXTINF:-1,2GB 873
+#EXTINF:-1,2GB_873
 https://ap-playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY1ODE3MiwiaXNzIjoidGlzcnYifQ.f96ET71j2bgP5ei5eKkXgtyS2mozQppkcoSOHScAieQ
-#EXTINF:-1,3LO – ABC Radio Melbourne AM – 774
+#EXTINF:-1,3LO_–_ABC_Radio_Melbourne_AM_–_774
 http://live-radio02.mediahubaustralia.com/3LRW/mp3/
-#EXTINF:-1,SBS Radio 2
+#EXTINF:-1,SBS_Radio_2
 https://sbs-ice.streamguys1.com/sbs2-tunein
-#EXTINF:-1,SBS Radio 1
+#EXTINF:-1,SBS_Radio_1
 https://sbs-ice.streamguys1.com/sbs1-tunein
-#EXTINF:-1,SBS Radio 3
+#EXTINF:-1,SBS_Radio_3
 http://sbs-hls.streamguys1.com/hls/sbs3/playlist.m3u8
-#EXTINF:-1,ABC Radio Darwin AM – 105.7
+#EXTINF:-1,ABC_Radio_Darwin_AM_–_105.7
 http://live-radio02.mediahubaustralia.com/8LRW/mp3/
-#EXTINF:-1,2PB ABC NewsRadio
+#EXTINF:-1,2PB_ABC_NewsRadio
 http://live-radio01.mediahubaustralia.com/PBW/mp3/stream.mp3
-#EXTINF:-1,91.7 ABC Gold Coast FM – 91.7
+#EXTINF:-1,91.7_ABC_Gold_Coast_FM_–_91.7
 http://live-radio02.mediahubaustralia.com/4GLDW/mp3/
 #EXTINF:-1,2XX
 http://streaming.2xxfm.org.au/stream.aac
-#EXTINF:-1,2NC – 1233 ABC Newcastle AM – 1233
+#EXTINF:-1,2NC_–_1233_ABC_Newcastle_AM_–_1233
 http://live-radio02.mediahubaustralia.com/2NEWW/mp3/
-#EXTINF:-1,ABC Radio Australia English
+#EXTINF:-1,ABC_Radio_Australia_English
 http://live-radio01.mediahubaustralia.com/RAEW/mp3/
-#EXTINF:-1,ABC Radio Australia English Service
+#EXTINF:-1,ABC_Radio_Australia_English_Service
 http://live-radio01.mediahubaustralia.com/RAPW/mp3
-#EXTINF:-1,VRT Radio 1
+#EXTINF:-1,VRT_Radio_1
 http://icecast.vrtcdn.be/radio1-high.mp3
-#EXTINF:-1,SRF 1 Ostschweiz
+#EXTINF:-1,SRF_1_Ostschweiz
 https://stream.core-prod.us-west-2.tunenet.io/listen.stream?streamId=1347631&rti=dEZzGgYzfxg4dhE2AxFRSGgyQE5Rdid8WFcFHQASHBMUTxMkflYCFVQZJSkFE0pkDBIYDQcSWT4UHAgaGBwLEAQWWB1pHwdB%7e%7e%7e&render=json&qs=
-#EXTINF:-1,SRF 1 Zentralschweiz
+#EXTINF:-1,SRF_1_Zentralschweiz
 https://stream.core-prod.us-west-2.tunenet.io/listen.stream?streamId=1347633&rti=dEZzGgYzfxg4dhE2AxFRSGgyQE5Rdid8WFcFHQASHBMUTxMkflYCFVQZJSkFE0pkDBIYDQcSWT4UHAgaGBwLEAQWWB1pHwdP%7e%7e%7e&render=json&qs=
-#EXTINF:-1,MAKAN - Arabic Radio
+#EXTINF:-1,MAKAN_-_Arabic_Radio
 http://kanliveicy.media.kan.org.il/icy/makan_mp3?providername=tunein
-#EXTINF:-1,KAN REKA
+#EXTINF:-1,KAN_REKA
 http://kanliveicy.media.kan.org.il/icy/kanreka_mp3?providername=tunein
-#EXTINF:-1,Radio Dalmacija
+#EXTINF:-1,Radio_Dalmacija
 http://shoutcast.pondi.hr:8000
-#EXTINF:-1,P4 Göteborg
+#EXTINF:-1,P4_Göteborg
 https://sverigesradio.se/topsy/direkt/tunein/212-hi.mp3
 #EXTINF:-1,P1
 https://sverigesradio.se/topsy/direkt/tunein/132-hi.mp3
-#EXTINF:-1,Český rozhlas Radiožurnál
+#EXTINF:-1,Český_rozhlas_Radiožurnál
 http://icecast7.play.cz/cro1-128.mp3
-#EXTINF:-1,Newstalk ZB Auckland
+#EXTINF:-1,Newstalk_ZB_Auckland
 http://ais-nzme.streamguys1.com/nz_002_aac
-#EXTINF:-1,NRK P1 Hordaland
+#EXTINF:-1,NRK_P1_Hordaland
 http://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h
-#EXTINF:-1,CRI News Plus
+#EXTINF:-1,CRI_News_Plus
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1,RTVS R Slovensko
+#EXTINF:-1,RTVS_R_Slovensko
 http://live.slovakradio.sk:8000/Slovensko_128.mp3
-#EXTINF:-1,RTVS R Regina KE
+#EXTINF:-1,RTVS_R_Regina_KE
 http://live.slovakradio.sk:8000/Regina_KE_128.mp3
-#EXTINF:-1,RTVS R Regina BB
+#EXTINF:-1,RTVS_R_Regina_BB
 http://live.slovakradio.sk:8000/Regina_BB_128.mp3

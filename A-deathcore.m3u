@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,metalcore
+200 http://metalcore.stream.laut.fm/metalcore
+#EXTINF:-1,beatdownx
+200 http://beatdownx.stream.laut.fm/beatdownx
+#EXTINF:-1,core_mix
+200 http://core-mix.stream.laut.fm/core-mix
+#EXTINF:-1,punk4all
+200 http://punk4all.stream.laut.fm/punk4all
+#EXTINF:-1,deathmetal
+200 http://deathmetal.stream.laut.fm/deathmetal
+#EXTINF:-1,nrwhc
+200 http://nrwhc.stream.laut.fm/nrwhc
+#EXTINF:-1,bang
+200 http://bang.stream.laut.fm/bang
+#EXTINF:-1,rer
+200 http://rer.stream.laut.fm/rer
+#EXTINF:-1,burnyourears
+200 http://burnyourears.stream.laut.fm/burnyourears
+#EXTINF:-1,metal4life
+200 http://metal4life.stream.laut.fm/metal4life
+#EXTINF:-1,metal4nrw_radio
+200 http://metal4nrw-radio.stream.laut.fm/metal4nrw-radio
+#EXTINF:-1,rockmachine
+200 http://rockmachine.stream.laut.fm/rockmachine
+#EXTINF:-1,metaltvradio
+200 http://metaltvradio.stream.laut.fm/metaltvradio
+#EXTINF:-1,Radio_434_-_Rocks
+400 https://icecast01.mycloudserver.info/lsl-rocks
+#EXTINF:-1,Must_Have_Metal
+302 https://stream.zeno.fm/ehmr2unacskvv
+#EXTINF:-1,92.3_The_Fox
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox

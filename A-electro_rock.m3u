@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Radio_434_-_Rocks
+400 https://icecast01.mycloudserver.info/lsl-rocks
+#EXTINF:-1,ON_Gothic
+400 https://0n-gothic.radionetz.de/0n-gothic.mp3
+#EXTINF:-1,ABradio_Depeche_Mode
+400 https://ice4.abradio.cz/depeche128.mp3
+#EXTINF:-1,ON_Indie
+400 https://0n-indie.radionetz.de/0n-indie.mp3
+#EXTINF:-1,Sol_FM
+200 https://stric6.streamakaci.com/solfm64.mp3
+#EXTINF:-1,Alibi_Radio
+302 https://streaming.live365.com/a86183
+#EXTINF:-1,Radio_Petit_Son
+200 https://listen.radioking.com/radio/297130/stream/343663
+#EXTINF:-1,92.3_The_Fox
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox

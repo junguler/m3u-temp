@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Radio_434_-_Rocks
+400 https://icecast01.mycloudserver.info/lsl-rocks
+#EXTINF:-1,ABradio_Depeche_Mode
+400 https://ice4.abradio.cz/depeche128.mp3
+#EXTINF:-1,DJ_Perry_Radio
+200 https://mtl9.hnux.com/http://144.217.233.87:8314/
+#EXTINF:-1,Sol_FM
+https://stric6.streamakaci.com/solfm64.mp3
+#EXTINF:-1,Caverna_do_Rock_Web_Rádio
+200 https://s10.maxcast.com.br:8115/live
+#EXTINF:-1,Denny_Möller
+302 https://stream.laut.fm/leipzigfm
+#EXTINF:-1,92.3_The_Fox
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox

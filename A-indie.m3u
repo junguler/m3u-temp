@@ -1,0 +1,1001 @@
+#EXTM3U
+#EXTINF:-1,-_0_N_-_Indie_on_Radio
+400 https://0n-indie.radionetz.de/0n-indie.mp3
+#EXTINF:-1,013_FM_100.7
+http://r16.ciclano.io:9036/stream
+#EXTINF:-1,100hitz_-_90's_Hitz
+200 http://pureplay.cdnstream1.com/6056_128.mp3?DIST=TuneIn\u0026TGT=TuneIn\u0026maxServers=2\u0026gdpr=0\u0026us_privacy=1YNY\u0026partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODgyMywiaXNzIjoidGlzcnYifQ.p0ux4zgs6Xj7dhIr3EqVlXAiEOTKtY7snGxgD55apOM
+#EXTINF:-1,100hitz_-_Indie
+404 http://206.217.213.236:8360/stream
+#EXTINF:-1,100hitz_-_Indie_Rock
+200 http://pureplay.cdnstream1.com/6056_64.aac?DIST=TuneIn\u0026TGT=TuneIn\u0026maxServers=2\u0026gdpr=0\u0026us_privacy=1YNY\u0026partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODAzMywiaXNzIjoidGlzcnYifQ.iRK4czQtolWgtNsj8Uy5lioP0EoZu1wCuvj2VwsCs3o
+#EXTINF:-1,2XS_Rocks
+https://2xs.rocks:8443/2XS
+#EXTINF:-1,3RRR_"Triple_R"_102.7_FM_Melbourne,_VIC
+400 http://public-radio1.internode.on.net:8002/114
+#EXTINF:-1,3RRR_"Triple_R"_102.7_FM_Melbourne,_VIC_(low_bitrate_live_stream)
+200 http://ondemand.rrr.org.au/stream/ws-lq.m3u
+#EXTINF:-1,50fresh_ELEKTRO_-_by_egoFM
+200 https://cast.egofm.de/50fresh-elektro.mp3?ar-distributor=ffa0
+#EXTINF:-1,80s_Forever_-_We_Keep_The_80s_Alive
+200 https://premium.shoutcastsolutions.com/radio/8050/256.mp3
+#EXTINF:-1,8K.NZ
+200 http://radio8k.out.airtime.pro:8000/radio8k_a.m3u
+#EXTINF:-1,959_Nueve_Cinco_Nueve
+403 https://streannlivepuravida.cachefly.net/puravida4/puravida4/chunks.m3u8
+#EXTINF:-1,959_Nueve_Cinco_NUeve
+403 https://ott.streann.com/loadbalancer/services/public/radios/5931869f9738fd49d4169b36/playlist.m3u8
+#EXTINF:-1,95bFM_Auckland
+400 http://streams.95bfm.com/stream112
+#EXTINF:-1,ABC_Triple_J_Unearthed__(MP3)
+502 http://live-radio01.mediahubaustralia.com/UNEW/mp3/
+#EXTINF:-1,ABC_Triple_J_Unearthed_(AAC)
+502 http://live-radio01.mediahubaustralia.com/UNEW/aac/
+#EXTINF:-1,afk_M94.5_(AAC_HQ)
+400 http://stream.m945.de/m945-hq.aac
+#EXTINF:-1,afk_M94.5_(AAC_LQ)
+400 http://stream.m945.de/m945-lq.aac
+#EXTINF:-1,afk_M94.5_(MP3_HQ_)
+400 http://stream.m945.de/m945-hq
+#EXTINF:-1,afk_M94.5_(MP3_LQ)
+400 http://stream.m945.de/m945-lq
+#EXTINF:-1,Alternativeworld
+302 http://stream.laut.fm/alternativeworld
+#EXTINF:-1,American_Roots
+https://igor.torontocast.com:1945/stream
+#EXTINF:-1,Andhow_fm
+https://us4.internet-radio.com/proxy/andhowfm?mp=/stream
+#EXTINF:-1,Anti_Radio
+200 https://stream.antiradio.net/radio/8000/mp3
+#EXTINF:-1,Antithèse
+200 https://listen.radioking.com/radio/11549/stream/22940
+#EXTINF:-1,asahidenpa
+302 http://stream.zeno.fm/xmmkuekpffhvv
+#EXTINF:-1,Asia_La_Radio
+200 http://167.114.118.120:7804/
+#EXTINF:-1,autobazaradio
+200 http://s3.myradiostream.com:7022/
+#EXTINF:-1,Baltic_Radio
+400 http://stream1.ground-gate.net/baltic1-128
+#EXTINF:-1,BBC_Radio_1
+410 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
+#EXTINF:-1,BBC_Radio_6_Music
+404 http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_6music/format/pls.pls
+#EXTINF:-1,Be
+https://radio.streamings.gr:9018/live
+#EXTINF:-1,Be-Music_Surge_-_BMS_music
+403 https://be-music.spacet.me/radio/be-music-surge
+#EXTINF:-1,BENFM
+302 http://stream.laut.fm/benfm
+#EXTINF:-1,BI_FM
+http://212.83.151.18:36379/
+#EXTINF:-1,Big_Beat_Radio
+200 http://s4.citrus3.com:8366/stream
+#EXTINF:-1,Big_Indie_Giant
+404 http://node-07.zeno.fm/h092qnwqwmzuv
+#EXTINF:-1,Black_Duck
+400 http://n07.radiojar.com/2p937t2kb.m4a?rj-ttl=5\u0026rj-tok=AAABeKdtZzUALIMVzk2Pobu-Ig
+#EXTINF:-1,Black_Rhino_Radio
+200 https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
+#EXTINF:-1,BN_Mallorca
+400 http://91.121.156.27:8008/stream
+#EXTINF:-1,BR_Puls_[aac]
+302 https://dispatcher.rndfnk.com/br/puls/live/aac/low
+#EXTINF:-1,Brum_Radio_-_Birmingham
+400 http://uk3.internet-radio.com:11168/live
+#EXTINF:-1,ByteFM
+200 https://www.byte.fm/stream/bytefm.m3u
+#EXTINF:-1,ByteFM_(192k)
+302 https://bytefm.cast.addradio.de/bytefm/main/high/stream
+#EXTINF:-1,ByteFM_|_HH-UKW
+302 http://bytefm-hamburg.cast.addradio.de/bytefm/hamburg/mp3/mid
+#EXTINF:-1,Cambridge_105
+400 https://stream.cambridge105.co.uk:8443/105-radioplayer-high
+#EXTINF:-1,Cardiowave
+http://91.206.30.79:8000/CW256
+#EXTINF:-1,Championshipvinyl
+200 http://stream.laut.fm/championshipvinyl.m3u
+#EXTINF:-1,CHIRP_Radio_-_Chicago,_IL
+302 http://chirpradio.org/stream
+#EXTINF:-1,CJSW
+301 http://stream.cjsw.com/cjsw.mp3
+#EXTINF:-1,CKTP_95.7_"The_Wolf"_Fredericton,_NB
+200 http://149.56.234.138:8173/stream
+#EXTINF:-1,Contro_Radio
+200 http://streaming.controradio.it:8190/
+#EXTINF:-1,COOLFM_Bside/Alternative
+https://mediagw.e-tiger.net/stream/zc16
+#EXTINF:-1,Couleur3
+200 http://stream.srg-ssr.ch/m/couleur3/aacp_96
+#EXTINF:-1,D95_(Chihuahua)_-_94.9_FM_-_XHCHH-FM_-_Multimedios_Radio_-_Chihuahua,_CH
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCHHFM_SC.mp3
+#EXTINF:-1,D99_(Monterrey)_-_98.9_FM_-_XHJD-FM_-_Multimedios_Radio_-_Monterrey,_NL
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC.mp3
+#EXTINF:-1,Dandelion_Radio
+200 http://stream.dandelionradio.com:9414/
+#EXTINF:-1,Dandelion_Radio_ASX_stream
+200 http://91.121.91.172:9414/
+#EXTINF:-1,delta_radio_Indie
+302 http://streams.deltaradio.de/delta-indie/mp3-192/mediaplayer
+#EXTINF:-1,delta_Radio_Sommer
+http://regiocast.hoerradar.de/deltaradio-sommer-mp3-hq
+#EXTINF:-1,Deutschlandfunk_Nova_[AAC_192]
+302 https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,DKFM_Shoegaze_Radio
+https://maggie.torontocast.com:8090/live.mp3
+#EXTINF:-1,DM_Pulse
+405 http://samcloud.spacial.com/api/listen?sid=78384\u0026rid=140033\u0026f=mp3,any\u0026br=128000,any\u0026m=pls
+#EXTINF:-1,Dreampop_Radio
+302 http://stream.laut.fm/dreampopradio
+#EXTINF:-1,DrGnu_-_20th_Century_Rock
+302 http://streams.radiobob.de/2000er/mp3-192/mediaplayer/
+#EXTINF:-1,DrGnu_-_70th_Rock
+200 http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=6202qr25%230%237osorqnn86p8nnp979o1124290qqo247%23fgernzf.syhksz.qr\u0026amsparams=playerid:streams.fluxfm.deskey:1644355109
+#EXTINF:-1,DrGnu_-_80th_Rock_II
+200 https://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=6202qrr6%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr\u0026amsparams=playerid:streams.fluxfm.deskey:1644355302
+#EXTINF:-1,DrGnu_-_90th_Rock
+302 http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer
+#EXTINF:-1,DrGnu_-_BOB's_Livestream
+302 http://streams.radiobob.de/bob-national/mp3-192/mediaplayer
+#EXTINF:-1,DrGnu_-_Festivals
+404 http://streams.radiobob.de/bob-livemusic/mp3-192/mediaplayer
+#EXTINF:-1,DrGnu_-_Gothic
+302 http://streams.radiobob.de/gothic/mp3-192/mediaplayer
+#EXTINF:-1,DrGnu_-_Hard_Rock
+404 http://streams.radiobob.de/bob-ironworkout/mp3-192/mediaplayer
+#EXTINF:-1,DrGnu_-_Hard_Rock_II
+200 https://fluxfm.streamabc.net/flx-hardrock-mp3-320-7063932?sABC=6202qsp7%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr\u0026amsparams=playerid:streams.fluxfm.deskey:1644355527
+#EXTINF:-1,DrGnu_-_Metal_1
+302 http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer
+#EXTINF:-1,DrGnu_-_Metal_2
+200 https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6202r2p8%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr\u0026amsparams=playerid:streams.fluxfm.deskey:1644356296
+#EXTINF:-1,DrGnu_-_Metal_2_Knight
+302 http://streams.radiobob.de/ritter/mp3-192/mediaplayer
+#EXTINF:-1,DrGnu_-_Metalcore_1
+302 http://streams.radiobob.de/metalcore/mp3-192/mediaplayer
+#EXTINF:-1,DrGnu_-_Metallica
+302 http://streams.radiobob.de/metallica/mp3-192/mediaplayer/
+#EXTINF:-1,DrGnu_-_Rock_Party
+302 http://streams.radiobob.de/rockparty/mp3-192/mediaplayer/
+#EXTINF:-1,DrGnu_-_Wacken_Radio
+302 http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer
+#EXTINF:-1,DrGnu_-_X-Mas_Rock_II
+200 https://fluxfm.streamabc.net/flx-event04-mp3-320-5268754?sABC=6202r047%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr\u0026amsparams=playerid:streams.fluxfm.deskey:1644355655
+#EXTINF:-1,DROD
+302 http://stream.laut.fm/drod
+#EXTINF:-1,egoFLASH
+302 https://egofm-flash.cast.addradio.de/egofm/flash/mp3/high/stream.mp3?ar-distributor=f0a2
+#EXTINF:-1,egoFM
+302 http://streams.egofm.de/egoFM-hq
+#EXTINF:-1,egoSNOW
+302 https://egofm-snow.cast.addradio.de/egofm/snow/mp3/high/stream.mp3?ar-distributor=f0a2
+#EXTINF:-1,egoSUN
+302 https://egofm-sun.cast.addradio.de/egofm/sun/mp3/high/stream.mp3?ar-distributor=f0a2
+#EXTINF:-1,Eirewave
+200 http://eirewave.ice.infomaniak.ch/eirewave-64.aac
+#EXTINF:-1,Electropop
+302 http://stream.laut.fm/electropop
+#EXTINF:-1,Erdély_FM
+400 https://efm.radioca.st/stream
+#EXTINF:-1,Fanatica_INDIE
+200 http://ascl.denial.cl:8008/
+#EXTINF:-1,Flashback_Alternatives
+https://jenny.torontocast.com:8048/192
+#EXTINF:-1,FluxFM
+302 http://streams.fluxfm.de/live/mp3-320/audio/
+#EXTINF:-1,FluxFM_-_FluxKompensator
+200 http://streams.fluxfm.de/fluxkompensator/mp3-128/audio/play.m3u
+#EXTINF:-1,FluxFM_-_JägerMusic_Radio
+302 http://streams.fluxfm.de/jaegermusic/mp3-128/streams.fluxfm.de/
+#EXTINF:-1,FM_Universidad_107.5_UNLP
+400 http://163.10.186.71:8001/broadwavehigh.mp3
+#EXTINF:-1,Foundation_FM
+200 https://streamer.radio.co/s0628bdd53/listen
+#EXTINF:-1,Friends_Forever
+401 http://23.29.71.154:8062/
+#EXTINF:-1,Gangstaville_Radio
+200 http://stream.radio.co/s1cffd7347/listen
+#EXTINF:-1,Glastonbury_FM_"GFM"_107.1
+400 http://live.canstream.co.uk:8000/glastonburyfm.mp3
+#EXTINF:-1,GooGeRaDiO
+400 http://googeradio.dyndns-free.com:8000/listen
+#EXTINF:-1,goREBEL
+200 https://live.gofm.ro:2000/stream/goREBEL/stream.mp3
+#EXTINF:-1,Gri_Balkon
+200 https://falcon.shoutca.st/tunein/gribalkon.pls
+#EXTINF:-1,Guerrilla_Radio
+200 http://s2.stationplaylist.com:9460/guerrilla
+#EXTINF:-1,here4ears
+301 http://here4ears.ddns.net/
+#EXTINF:-1,Hong_Kong_Community_Radio
+200 https://hkcr.live/audio/index.m3u8
+#EXTINF:-1,Hoxton_Radio
+400 http://99.198.118.250:8014/stream
+#EXTINF:-1,IDA_Radio
+https://streams.radio.co/s053b51423/listen
+#EXTINF:-1,Idiotic_Radio
+302 https://stream.zeno.fm/1c4vtuzvveruv
+#EXTINF:-1,idobi_Anthm
+404 http://idobianthm.idobi.com/stream.mp3
+#EXTINF:-1,Indie_And_More
+302 http://stream.laut.fm/indieandmore
+#EXTINF:-1,Indie_Beats
+200 http://prem2.di.fm/indiebeats_hi?b1e8ab696a279ebb68c48cab
+#EXTINF:-1,Indie_Experience
+302 http://stream.laut.fm/indie_experience
+#EXTINF:-1,Indie_Fm
+http://188.165.236.90:8008/
+#EXTINF:-1,Indie_Pop_Rocks!
+200 http://ice3.somafm.com/indiepop-128-mp3
+#EXTINF:-1,Indie_X_FM
+405 http://kathy.torontocast.com:2690/stream
+#EXTINF:-1,INDIE88_CINDFM_Toronto
+200 https://cob-ais.leanstream.co/CINDFM
+#EXTINF:-1,Indiejoulu
+200 https://c9.toivon.net/toivon/toivon_9?mp=/stream
+#EXTINF:-1,Indieselect
+302 http://stream.laut.fm/indieselect
+#EXTINF:-1,Interferencia_105.7_HD3_IMER
+200 https://s2.mexside.net/8022/stream
+#EXTINF:-1,IPR_Studio_One_(Iowa_Public_Radio)
+200 http://studioone-stream.iowapublicradio.org/StudioOneLow.mp3.m3u
+#EXTINF:-1,Isla_Negra
+200 https://radioislanegra.org/radio/8000/basic.aac
+#EXTINF:-1,Isla_Negra_Slowbeat
+200 https://radioislanegra.org/radio/8010/basic.aac
+#EXTINF:-1,Isla_Negra_Upbeat
+200 https://radioislanegra.org/radio/8030/basic.aac
+#EXTINF:-1,Jackson
+200 http://ice.streams.ovh:1120/?type=http\u0026nocache=1161
+#EXTINF:-1,Jams_and_Kooks
+200 http://stream.zenolive.com/0vqtrtyzg4duv.m3u
+#EXTINF:-1,JUKA_Radio
+302 http://stream.laut.fm/juka-radio
+#EXTINF:-1,Kanal_103
+200 http://radiostream.neotel.mk/kanal103
+#EXTINF:-1,KCMP_89.3_"The_Local_Current"_Northfield,_MN
+200 http://localcurrent.stream.publicradio.org/localcurrent.mp3
+#EXTINF:-1,KCSN_88.5_Northridge,_CA
+200 http://130.166.82.184:8000/.mp3
+#EXTINF:-1,KEXP_90.3_FM_Seattle
+200 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+#EXTINF:-1,KEXP_90.3_Seattle,_WA
+200 http://live-mp3-128.kexp.org/kexp128.mp3
+#EXTINF:-1,Kill_Radio_-_Los_Angeles,_CA
+400 http://killradio.org:8000/killradio64.mp3.m3u
+#EXTINF:-1,KINK_128k_aac
+200 https://playerservices.streamtheworld.com/pls/KINKAAC.pls
+#EXTINF:-1,KINK_Indie_128k_aac
+200 https://playerservices.streamtheworld.com/pls/KINKINDIEAAC.pls
+#EXTINF:-1,KOBV-LP_103.3_Bentonville_Community_Radio
+200 http://s2.stationplaylist.com:7058/listen.aac
+#EXTINF:-1,KOSU_91.7_Stillwater,_OK
+200 http://playerservices.streamtheworld.com/m3u/KOSUFM_NEWS.m3u
+#EXTINF:-1,KOSU-HD2_"The_Spy"__Stillwater,_OK
+200 http://playerservices.streamtheworld.com/m3u/KOSUHD2.m3u
+#EXTINF:-1,KRNN_102.7_"Rain_Country_Radio"_Juneau,_AK
+301 http://provisioning.streamtheworld.com/pls/KRNNFM.pls
+#EXTINF:-1,KSFL-LP_99.1_"Portland_Radio_Project",_OR
+302 http://prpfm.streamon.fm:8000/PRPFM-64k.aac
+#EXTINF:-1,KSLG_93.1_Ferndale,_CA
+200 http://lostcoast.streamguys.us/kslg-hi
+#EXTINF:-1,KSYM_90.1_FM_San_Antonio,_TX
+200 http://sacrtf2.sac.alamo.edu:8000/stream
+#EXTINF:-1,KTRU-LP_"Rice_Radio"_96.1_FM_Houston,_TX
+200 http://ice41.securenetsystems.net/KTRU64M
+#EXTINF:-1,Kukuruz
+302 http://stream.laut.fm/kukuruz
+#EXTINF:-1,KURE-FM_88.5_Ames_Alternative_(192k_MP3)
+400 http://kure-network.stuorg.iastate.edu:8000/KUREBroadcastMQ
+#EXTINF:-1,KURE-FM_88.5_Ames_Alternative_(96k_MP3)
+400 http://kure-network.stuorg.iastate.edu:8000/KUREBroadcastLQ
+#EXTINF:-1,KUTX_98.9_Leander,_TX_(AAC+)
+404 http://kut2.streamguys.net/kut2.aac
+#EXTINF:-1,KVOQ_102.3_-Colorado_Public_Radio_"OpenAir"_-_Denver,_CO__AAC
+200 http://stream2.cprnetwork.org:8000/cpr3_aac
+#EXTINF:-1,KVOQ_102.3_Colorado_Public_Radio_"OpenAir"_-_Denver,_CO__(MP3)
+200 http://stream2.cprnetwork.org:8000/cpr3_lo
+#EXTINF:-1,KXLL_100.7_"Excellent_Radio"_Juneau,_AK
+301 http://provisioning.streamtheworld.com/pls/KXLLFM.pls
+#EXTINF:-1,La_Metro_88.5_FM
+http://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8
+#EXTINF:-1,Laurel_Canyon_Radio
+http://s10.voscast.com:7858/
+#EXTINF:-1,laut.fm_gitarre.fm
+302 http://stream.laut.fm/gitarrefm
+#EXTINF:-1,Laut.FM_GitarreFM
+200 http://gitarrefm.stream.laut.fm/gitarrefm?t302=2018-01-20_14-05-15\u0026uuid=1c8009a5-68f5-476b-bc54-9abff67988b5
+#EXTINF:-1,laut.fm_Kakerlakenradio
+http://stream.laut.fm/kakerlakenradio
+#EXTINF:-1,Laut.fm_Popklub
+200 http://stream.laut.fm/popklub.m3u
+#EXTINF:-1,laut.fm_SchneeweissFM
+302 http://stream.laut.fm/schneeweissfm
+#EXTINF:-1,Laut.FM_Shoegaze
+200 https://shoegaze.stream.laut.fm/shoegaze
+#EXTINF:-1,Le_Son_Parisien
+400 http://stream.lesonparisien.com/hi.mp3
+#EXTINF:-1,Lumpen_Radio
+400 https://radio.mensajito.mx/lumpenradio
+#EXTINF:-1,MAD_FM_Auckland_106.7
+200 https://madfm-gecko.radioca.st/stream
+#EXTINF:-1,Mirchi_Indies
+https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/INDIES64kbps.m3u8
+#EXTINF:-1,Mother_Earth
+200 http://server9.streamserver24.com:18900/motherearth
+#EXTINF:-1,mtc-fm
+302 https://stream.laut.fm/mtc-fm
+#EXTINF:-1,Musica_Radio
+404 http://n11.radiojar.com/w6c6bssk95vtv?rj-ttl=5\u0026rj-tok=AAABeL2tvXsA_W4ZZxft3G5omQ
+#EXTINF:-1,MusicArtclub_Radio
+200 http://eu9.fastcast4u.com:8090/
+#EXTINF:-1,Mystery_Train_Radio
+https://streamer.radio.co/sf662f27c0/low
+#EXTINF:-1,NazaRadio_Buenos_Aires_|_by_aureofy.com
+https://vega.aureofy.net/listen/ng_radio_buenos_aires/ngradio-mobile
+#EXTINF:-1,New_Clear_Radio
+400 http://live.ncradio.fm/320
+#EXTINF:-1,NME_1
+302 https://msmn3.co/proxy/x1mp33?mp=/stream
+#EXTINF:-1,NME_1_-_Classic_&&_New_Indie_Alt
+200 http://svr1.msmn.co:8136/
+#EXTINF:-1,NME_2
+302 https://msmn3.co/proxy/x2mp33?mp=/stream
+#EXTINF:-1,NME_2_-_New_&&_Upfront_Indie_Alt
+302 http://msmn.co:8118/stream
+#EXTINF:-1,NoCo_FM_(Low_Bandwidth)
+404 https://stream.noco.fm/radio/8000/low
+#EXTINF:-1,NOTS_radio
+http://server-27.stream-server.nl:8734/stream
+#EXTINF:-1,Novaradio_Città_Futura
+400 http://streaming.novaradio.info:8000/live.mp3
+#EXTINF:-1,NPO_3FM_Alternative
+200 http://icecast.omroep.nl/3fm-alternative-mp3
+#EXTINF:-1,OUI_FM_-_INDIE_ROCK
+https://rockinde.stream.ouifm.fr/ouifm5.mp3?ID=webplayer
+#EXTINF:-1,OUI_FM_-_ROCK_INDÉ
+https://rockinde.stream.ouifm.fr/ouifm5.mp3
+#EXTINF:-1,OÜI_FM_Rock_Indé
+302 http://rockinde.stream.ouifm.fr/ouifm5.mp3
+#EXTINF:-1,Oxygen_Indie
+200 https://oxygenmusic.hu:8443/oxygenindie
+#EXTINF:-1,PashPash_Radio
+200 https://hits.pashpashradio.com:7000/
+#EXTINF:-1,Path_through_the_Forest
+302 http://stream.laut.fm/path_through_the_forest
+#EXTINF:-1,Phonic_FM
+400 http://stream.sentiaglobal.com:8003/main?=\u0026\u0026___cb=914156402529906
+#EXTINF:-1,Pidgin
+http://178.18.137.247/
+#EXTINF:-1,Pinguin_Classics
+400 http://streams.pinguinradio.com/PinguinClassics192.mp3
+#EXTINF:-1,Pinguin_Indie
+400 http://streams.pinguinradio.com/PinguinRadio192.mp3
+#EXTINF:-1,Pinguin_Radio
+400 http://streams.pinguinradio.com/PinguinRadio320.mp3
+#EXTINF:-1,Piraten_Radio
+200 http://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3
+#EXTINF:-1,plant80s
+200 https://laut.fm/planet80s
+#EXTINF:-1,Playgroud_Radio
+200 http://playground.stream.laut.fm/playground
+#EXTINF:-1,Playground_Radio
+200 http://playground.stream.laut.fm/playground?t302=2019-08-15_17-45-19\u0026uuid=74a24b34-418f-487d-872b-1377b197775b
+#EXTINF:-1,Polygon.FM_-_Indie_Russian
+https://eu6.fastcast4u.com/proxy/mrrm?mp=/stream
+#EXTINF:-1,popadelica
+302 http://stream.laut.fm/popadelica
+#EXTINF:-1,QCIndie.com
+http://23.227.178.146/listen.pls
+#EXTINF:-1,Raadio_Tre.ee
+400 http://sc1.treraadio.ee:8002/listen.pls?sid=1
+#EXTINF:-1,RADAR_97.8_FM
+https://proic1.evspt.com/radar_aac
+#EXTINF:-1,Radio_100,7
+302 http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio_105_-_Indie
+https://icy.unitedradio.it/105_524.mp3
+#EXTINF:-1,Radio_42°_North_(R42N)_[AAC+_64kbps]
+200 http://ice66.securenetsystems.net/R42N
+#EXTINF:-1,Radio_Antalya
+200 https://my.radiolize.com/radio/8000/radio.mp3
+#EXTINF:-1,Radio_Antenna_1_Rock_Station_101.300
+http://93.71.145.227:8000/
+#EXTINF:-1,Radio_Art_-_Indie
+400 https://live.radioart.com/fIndie.mp3
+#EXTINF:-1,Radio_Art_-_Workout_Rock_&&_Indie
+400 http://air.radioart.com/fRock_and_indie.mp3
+#EXTINF:-1,Radio_BINA
+404 http://listen.radioking.com/radio/372715/stream/422872
+#EXTINF:-1,Radio_Britannia
+401 http://01.solumedia.com.ar:8472/stream/
+#EXTINF:-1,Radio_Campus_BXL_92.1_[AAC+]
+400 https://www.radiocampus.be/stream/stream.aacplus
+#EXTINF:-1,Radio_Campus_BXL_92.1_[Ogg_HQ]
+400 https://www.radiocampus.be/stream/stream_hi.ogg
+#EXTINF:-1,Radio_Città_Fujiko
+400 http://comodino.org:8001/rcf.ogg
+#EXTINF:-1,Radio_Cucba_Zapopan,_Jalisco_México
+400 http://radio.cucba.udg.mx:8000/radio
+#EXTINF:-1,Radio_Eins_Konstanz
+200 http://laut.fm/eins
+#EXTINF:-1,Radio_Gong_97.1
+301 http://webstream.gong971.de/gong971
+#EXTINF:-1,Radio_Graf'Hit
+400 http://109.238.10.2:8000/grafhit.mp3
+#EXTINF:-1,Radio_Guerrilla
+400 http://live.guerrillaradio.ro:8010/guerrilla.aac
+#EXTINF:-1,Radio_Hindi_International
+200 http://radio.bongonet.net:8012/rhi
+#EXTINF:-1,Radio_Im_Internet
+http://stream.laut.fm/radio-im-internet
+#EXTINF:-1,Radio_Kaos_Italy
+400 http://nr6.newradio.it:9136/stream
+#EXTINF:-1,Radio_Metropolis_One
+200 http://server4.streamserver24.com:2199/tunein/radiomet.pls
+#EXTINF:-1,Radio_Néo
+http://stream.radioneo.org:8000/chat.mp3
+#EXTINF:-1,Radio_Nova_Lyon
+200 http://icepe14.infomaniak.ch/nova-lyon-128.mp3
+#EXTINF:-1,Radio_Paradise_[128k_AAC_(Europe)]
+200 http://stream-uk1.radioparadise.com/aac-128
+#EXTINF:-1,Radio_Paradise_[Main_Mix]
+200 http://stream.radioparadise.com/mp3-128
+#EXTINF:-1,Radio_Paradise_[Mobile_AAC+_24k]
+200 http://www.radioparadise.com/m3u/aac-24.m3u
+#EXTINF:-1,Radio_Paradise_[Mobile_OGG_32k]
+200 http://stream-tx3.radioparadise.com/rp_32.ogg
+#EXTINF:-1,Radio_Pepito
+https://usa2.fastcast4u.com/proxy/radiopepito?mp=/1
+#EXTINF:-1,Radio_Primavera_Sound
+https://streamer.radio.co/s23e62020a/listen
+#EXTINF:-1,Radio_Punctum
+https://radiopunctum.cz:8001/radio
+#EXTINF:-1,Radio_RAM_(AAC)
+400 http://stream2.nadaje.com:9228/ram.aac
+#EXTINF:-1,Radio_Robotic
+302 https://stream.zeno.fm/rhscse2a41zuv
+#EXTINF:-1,Radio_Shadow_Rock_Mix
+200 http://162.244.80.131:8052/
+#EXTINF:-1,Radio_Shadowplay
+302 http://stream.laut.fm/radio-shadowplay
+#EXTINF:-1,Radio_Sherwood
+200 http://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3
+#EXTINF:-1,Radio_Siente
+https://us-b4-p-e-zx8-audio.cdn.mdstrm.com/live-audio/5bedd217987abd4e5d9e04b1/5de5597e52a9da4517903734/chunks.m3u8
+#EXTINF:-1,Radio_Six_International
+200 http://www.radiosix.com/stream_mp3.m3u
+#EXTINF:-1,Radio_UNiCC
+200 http://stream.radio-unicc.de:8000/unicc_mq.aacp
+#EXTINF:-1,Radio_UTN_Mendoza_94.5
+400 http://streaming.fmutn.com.ar:8000/FMUTN
+#EXTINF:-1,Radio_X
+400 https://n07.radiojar.com/yv5xu5h7zwwtv?rj-ttl=5\u0026rj-tok=AAABeMgD8O4ADk3iEmxYJju41w
+#EXTINF:-1,Radio_X_Basel_(MP3_Stream)
+400 http://mp3.radiox.ch:8000/standard.mp3.m3u
+#EXTINF:-1,Radio_Xiuxiu
+200 http://live.radioxiuxiu.com:8040/
+#EXTINF:-1,Radio_XY
+404 http://streaming.live365.com/a41839
+#EXTINF:-1,Radio_Zodiac_Ireland
+405 http://www.radioking.com/play/radio-zodiac-ireland
+#EXTINF:-1,Radio_Zwiebel
+https://server7.streamserver24.com:8080/proxy/radiozwiebel?mp=/stream
+#EXTINF:-1,Radioactive.FM_88.6
+200 https://radio123-gecko.radioca.st/radioactivefm
+#EXTINF:-1,RadioQ_-_Wir_sind_der_Campus!_(mp3_320)
+400 https://rqstream.radioq.de/stream/320.mp3
+#EXTINF:-1,Radyo_Eksen_96.2
+404 http://eksenwmp.radyotvonline.com/stream.mp3
+#EXTINF:-1,Rocky_FM
+301 http://tuner.rockyfm.com/
+#EXTINF:-1,RTÉ_2xm
+200 https://www.rte.ie/manifests/2xm.m3u8
+#EXTINF:-1,Schallgrenzen
+302 http://stream.laut.fm/schallgrenzen
+#EXTINF:-1,SomaFM_BAGeL_Radio
+301 https://somafm.com/bagel64.pls
+#EXTINF:-1,SomaFM_Christmas_Rocks!
+200 http://somafm.com/xmasrocks.pls
+#EXTINF:-1,SomaFM_Folk_Forward
+200 http://ice3.somafm.com/folkfwd-128-mp3
+#EXTINF:-1,SomaFM_Indie_Pop_Rocks!
+200 https://somafm.com/indiepop130.pls
+#EXTINF:-1,SomaFM_Indie_Pop_Rocks!_-_AAC_128k
+200 http://ice3.somafm.com/indiepop-128-aac
+#EXTINF:-1,SomaFM_Indie_Pop_Rocks!_-_AAC_64K
+200 https://somafm.com/indiepop64.pls
+#EXTINF:-1,SomaFM_PopTron
+200 http://ice3.somafm.com/poptron-128-mp3
+#EXTINF:-1,SomaFM_PopTron_128_mp3_m3u
+200 http://somafm.com/m3u/poptron.m3u
+#EXTINF:-1,SomaFM:_Indie_Pop_Rocks!
+200 http://ice2.somafm.com/indiepop-128-mp3
+#EXTINF:-1,Spark_Sunderland
+404 http://radio.canstream.co.uk:8101/live.mp3
+#EXTINF:-1,Sputnik_Radio
+400 http://sputnikradio.es:8009/live
+#EXTINF:-1,SRo4_Rádio_FM
+400 http://live.slovakradio.sk:8000/FM_256.mp3
+#EXTINF:-1,Steel_Bridge_Radio_-_Sturgeon_Bay,_WI
+https://stream.radio.co/sb3c9c9d77/listen
+#EXTINF:-1,Studio_NL
+302 http://stream.laut.fm/studionl
+#EXTINF:-1,Substrate_Radio.com_-_Birmingham,_AL
+http://substrate.serverroom.us:4378/stream.nsv
+#EXTINF:-1,Super45.fm
+https://s4.radio.co/s421105570/listen
+#EXTINF:-1,The_Independent_FM
+200 https://listen.radioking.com/radio/293701/stream/340084
+#EXTINF:-1,The_Most_FM_104.4
+400 http://gordon.mostfm.com:8000/high
+#EXTINF:-1,The_World_Won't_Listen
+302 http://stream.laut.fm/the-world-wont-listen
+#EXTINF:-1,TheRadio.CC_[MP3]
+302 https://mp3.theradio.cc/
+#EXTINF:-1,TheRadio.CC_[Ogg_Vorbis]
+302 https://ogg.theradio.cc/
+#EXTINF:-1,TheRadio.CC_[Opus]
+302 https://opus.theradio.cc/
+#EXTINF:-1,Tonaktiv
+302 http://stream.laut.fm/tonaktiv
+#EXTINF:-1,Trión_Bajío_-_107.1_FM_-_XHACN-FM_-_Grupo_Fórmula_-_León,_GT
+400 http://n09.radiojar.com/4f89tufzv9duv
+#EXTINF:-1,Trión_Ciudad_de_México_-_103.3_HD4_-_XERFR-FM_-_Grupo_Fórmula_-_Ciudad_de_México
+404 https://streaming.radio.co/s46aa86627/listen
+#EXTINF:-1,Trión_Nogales_-_89.1_FM_-_XHEHF-FM_-_Grupo_Fórmula_-_Nogales,_SO
+404 https://stream.radiojar.com/qqtzpdr76p8uv
+#EXTINF:-1,Trión_San_Luis_-_90.1_FM_-_XHSMR-FM_-_GlobalMedia_-_San_Luis_Potosí,_SL
+301 https://trion.b-cdn.net/stream
+#EXTINF:-1,Trión_Veracruz_-_106.1_FM_-_XHETF-FM_-_Grupo_Fórmula_-_Veracruz,_VE
+404 http://stream.radiojar.com/a5qpu2en3p8uv
+#EXTINF:-1,Triple_J_(QLD)
+502 http://live-radio01.mediahubaustralia.com/4TJW/mp3/
+#EXTINF:-1,Uncertain_FM
+303 https://uncertain.fm/streams/direct
+#EXTINF:-1,Universe_Radio
+404 http://www.universeradio.nl/playlist/radio.pls
+#EXTINF:-1,UpBeatRadio
+200 http://live.upbeat.pw/
+#EXTINF:-1,Villa_Indie_Radio_(Veracruz)_-_Online_-_Villa_Indie_-_Veracruz,_VE
+404 https://listen.radioking.com/radio/378751/stream/429556
+#EXTINF:-1,Wavebreaker
+302 http://stream.laut.fm/wavebreaker
+#EXTINF:-1,WCSB_89.3
+https://shoutcastwidgets.com/ssl/523/.mp3
+#EXTINF:-1,WCSF_88.7_University_of_St._Francis,_Joliet,_IL
+302 http://wcsf.streamon.fm/stream/WCSF-32k.aac
+#EXTINF:-1,WERS_88.9_Boston,_MA
+301 http://www.wers.org/wp-content/uploads/2017/01/wers64.asx
+#EXTINF:-1,WFYI-HD2_"XPoNental_Radio"_Indianapolis,_IN
+http://amber.streamguys.com:5600/live1
+#EXTINF:-1,WPRB_103.3_FM_-_Princeton,_NJ
+200 http://wprb.streamguys1.com/live
+#EXTINF:-1,WRMC
+http://173.193.205.96:7693/
+#EXTINF:-1,WRVU
+302 https://onlineradiobox.com/json/us/wrvu/play?platform=web
+#EXTINF:-1,WSHE_"She_Radio.com"_Miami-Ft._Lauderdale
+200 http://sheradio1055.com/ListenLive.m3u
+#EXTINF:-1,WSOU_89.5FM_Pirate_Radio
+200 https://crystalout.surfernetwork.com:8001/WSOU_MP3
+#EXTINF:-1,WTSQ_88.1_The_Status_Quo_-_Charleston's_Community_Radio_Station
+200 http://stream.wtsq.org:7118/
+#EXTINF:-1,Y-Not_Radio
+404 http://kmr.iad.streamguys1.com/ynot
+#EXTINF:-1,Young_Radio
+http://178.32.138.88:8050/stream.mp3
+#EXTINF:-1,ไทยลานนาเรดิโอ_FM_106.5_จังหวัดตาก
+200 https://inter.lannaradio.com/radio/8000/radio.mp3
+#EXTINF:-1,威海音乐广播
+https://lhttp.qtfm.cn/live/15318612/64k.mp3
+#EXTINF:-1,济南音乐广播
+https://lhttp.qtfm.cn/live/1671/64k.mp3
+#EXTINF:-1,湖南文艺广播·摩登音乐台
+https://lhttp.qtfm.cn/live/4980/64k.mp3
+#EXTINF:-1,灵武综合广播
+200 http://live.xmcdn.com/live/2547/64.m3u8
+#EXTINF:-1,赣州农村科教广播
+404 http://pl1.cloud.dayang.com.cn/live/10062_U2olS8.m3u8
+#EXTINF:-1,长沙音乐广播
+http://20573.hlsplay.aodianyun.com/zhcs_radio/jjgb886.m3u8
+#EXTINF:-1,radium
+https://stream.laut.fm/radium?ref=radiode
+#EXTINF:-1,Radiochip
+200 https://listen.radionomy.com/Radiochip.m3u
+#EXTINF:-1,RNE_Radio_3
+https://radio3.rtveradio.cires21.com/radio3.mp3
+#EXTINF:-1,Miuzeknonstop_Radio
+400 https://mzkradio.ddns.net:8443/miuzeknonstop
+#EXTINF:-1,CNX_Global_Radio
+301 https://streaming.radionomy.com/JamendoLounge?lang=es-ES%2ces%3bq%3d0.9
+#EXTINF:-1,Scanner_Hits
+https://streaming.radio.co/s1843fc3d4/listen
+#EXTINF:-1,Moustardisco
+200 https://listen.radionomy.com/moustardisco.m3u
+#EXTINF:-1,Ona_Mediterrània_98.0_FM
+https://streaming.enantena.com:8000/onamediterrania128.mp3
+#EXTINF:-1,NoTypicalRadio_-_Rock
+405 https://rock.notypicalradio.com/stream/1/
+#EXTINF:-1,Neo_Indie_Rock
+200 https://listen.radionomy.com/neoindierock.m3u
+#EXTINF:-1,delta_radio_INDIE
+302 https://streams.deltaradio.de/delta-indie/mp3-128/radiode/
+#EXTINF:-1,Radio_Paradise
+200 https://stream.radioparadise.com/mp3-128
+#EXTINF:-1,delta_radio_ALTERNATIVE
+302 https://streams.deltaradio.de/delta-alternative/mp3-128/radiode/
+#EXTINF:-1,delta_radio_GRUNGE
+302 https://streams.deltaradio.de/delta-grunge/mp3-128/radiode/
+#EXTINF:-1,egoRIFF
+https://egofm-ais-edge-3104-fra-eco-cdn.cast.addradio.de/egofm/riff/mp3/high/stream.mp3
+#EXTINF:-1,indiegoestohollywood
+https://stream.laut.fm/indiegoestohollywood?ref=radiode
+#EXTINF:-1,Radio_X_London
+401 https://media-ssl.musicradio.com/RadioXLondon
+#EXTINF:-1,The_Lot_Radio
+https://thelot.out.airtime.pro:8000/thelot_a
+#EXTINF:-1,95X_Online
+https://edge2-a.exa.live365.net/a94997
+#EXTINF:-1,RADIO_BOB!_BOBs_Alternative_Rock
+302 https://streams.radiobob.de/bob-alternative/mp3-128/radiode/
+#EXTINF:-1,egoPURE
+302 https://streams.egofm.de/egoPURE-hq?ar-distributor=f0a2
+#EXTINF:-1,Indie_Rewind
+200 https://listen.radionomy.com/indierewind.m3u
+#EXTINF:-1,917xfm
+302 https://stream.rockantenne.hamburg/917xfm/stream/mp3?aw_0_1st.playerid=radio.de
+#EXTINF:-1,FluxFM_Livestream
+302 https://streams.fluxfm.de/live/mp3-128/radiode/
+#EXTINF:-1,Indie_97.9
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/WIYYFMAAC.aac
+#EXTINF:-1,BAGeL_Radio_(Soma_FM)
+404 https://ice2.somafm.com/bagel-32-aac
+#EXTINF:-1,Bedda_Radio
+400 https://beddaradio.radioca.st/stream
+#EXTINF:-1,Birch_Street_Radio
+400 https://jenny.torontocast.com:8172/stream
+#EXTINF:-1,Boogaloo_Radio
+200 https://streams.radio.co/sb88c742f0/listen
+#EXTINF:-1,Campus_Crew_Passau
+401 https://server14575.streamplus.de/stream/1/
+#EXTINF:-1,DASDING_Chillout
+404 https://addrad.io/4WRLkL
+#EXTINF:-1,FluxForward
+302 https://streams.fluxfm.de/forward/mp3-320/radiode/
+#EXTINF:-1,JägerMusic_Radio
+302 https://streams.fluxfm.de/jaegermusic/mp3-320/radiode/
+#EXTINF:-1,FluxFM_Ohrspiel
+302 https://streams.fluxfm.de/ohrspiel/mp3-128/radiode/
+#EXTINF:-1,Passport_Approved
+302 https://streams.fluxfm.de/passport/mp3-128/radiode/
+#EXTINF:-1,FluxKompensator
+302 https://streams.fluxfm.de/fluxkompensator/mp3-128/radiode/
+#EXTINF:-1,FM4
+400 https://orf-live.ors-shoutcast.at/fm4-q2a
+#EXTINF:-1,Freies_Radio_Freistadt
+400 https://develop.servus.at:8443/frf
+#EXTINF:-1,Hella_Radio
+404 https://ice10.securenetsystems.net/KNNN
+#EXTINF:-1,Hit_West_Festivals
+200 https://hitwest-festival.ice.infomaniak.ch/hitwest-festival-128.mp3
+#EXTINF:-1,Indie_Imagination_Radio
+200 https://listen.radionomy.com/indieimaginationradio.m3u
+#EXTINF:-1,INHAILER_Radio
+https://streaming.radio.co/seac6e5991/listen
+#EXTINF:-1,altertainment
+https://stream.laut.fm/altertainment?ref=radiode
+#EXTINF:-1,Atlantic_Radio
+302 https://stream.laut.fm/arc?ref=radiode
+#EXTINF:-1,a_passing_feeling_
+302 https://stream.laut.fm/a_passing_feeling?ref=radiode
+#EXTINF:-1,benfm
+302 https://stream.laut.fm/benfm?ref=radiode
+#EXTINF:-1,crunchy
+302 https://stream.laut.fm/crunchy?ref=radiode
+#EXTINF:-1,dreampopradio
+302 https://stream.laut.fm/dreampopradio?ref=radiode
+#EXTINF:-1,Ehrenberg_OnAir_
+302 https://stream.laut.fm/ehrenbergonair?ref=radiode
+#EXTINF:-1,fosterchild_
+https://stream.laut.fm/fosterchild?ref=radiode
+#EXTINF:-1,Greensleeves_Radio_
+302 https://stream.laut.fm/greensleevesradio?ref=radiode
+#EXTINF:-1,Gute_Musik_
+https://stream.laut.fm/gutemusik?ref=radiode
+#EXTINF:-1,hear-it-loud
+302 https://stream.laut.fm/hear-it-loud?ref=radiode
+#EXTINF:-1,herzrasenfm
+302 https://stream.laut.fm/herzrasenfm?ref=radiode
+#EXTINF:-1,Greensleeves_Indieparty
+302 https://stream.laut.fm/indieparty?ref=radiode
+#EXTINF:-1,kamakura
+302 https://stream.laut.fm/kamakura?ref=radiode
+#EXTINF:-1,popklub
+302 https://stream.laut.fm/popklub?ref=radiode
+#EXTINF:-1,radio_bedingungs-los
+302 https://stream.laut.fm/radiobedingungs-los?ref=radiode
+#EXTINF:-1,soundbar-nordheide
+302 https://stream.laut.fm/soundbar-nordheide?ref=radiode
+#EXTINF:-1,suigen
+302 https://stream.laut.fm/suigen?ref=radiode
+#EXTINF:-1,violence_vacance
+302 https://stream.laut.fm/violence_vacance?ref=radiode
+#EXTINF:-1,La_VostokE
+https://lavostoke.ice.infomaniak.ch/lavostoke.aac
+#EXTINF:-1,max_neo
+400 https://stream.afkmax.de/afkmax-hq.mp3
+#EXTINF:-1,NBT_Music_Radio
+200 https://listen.radionomy.com/nbtmusicradio.m3u
+#EXTINF:-1,noesfm
+200 https://noesfm.radioca.st/stream/1/
+#EXTINF:-1,QCindie.com
+https://ssl.aloncast.com:1516/stream/1/
+#EXTINF:-1,Radio_Béton
+400 https://stream.radiobeton.com:8001/stream.mp3.m3u
+#EXTINF:-1,Radio_LOTTE_Weimar
+200 https://www.radiolotte.de/stream/radiolotte.pls
+#EXTINF:-1,Radio_Rocket
+https://a6.radioheart.ru:9017/RH1948
+#EXTINF:-1,Reactor_105.7_FM_XHOF
+200 https://s2.mexside.net/8002/stream
+#EXTINF:-1,Jam.
+503 https://radios.rtbf.be/musiclab-64.aac
+#EXTINF:-1,Rusty_Spear_Radio
+404 https://streaming.live365.com/a69923
+#EXTINF:-1,Sessiz_Radyo
+200 https://listen.radionomy.com/sessizradyo.m3u
+#EXTINF:-1,STAR_FM_Alternative
+404 https://berlin.starfm.de/player/pls/alternative_pls_mp3.pls
+#EXTINF:-1,Strawberry_Tongue_Radio
+404 https://streaming.live365.com/a46822
+#EXTINF:-1,Subcity_Radio
+400 https://stream.subcity.org/subcity.mp3
+#EXTINF:-1,The_Cockpit
+200 https://listen.radionomy.com/thecockpit.m3u
+#EXTINF:-1,TrenTMix_Radio
+405 https://www.radioking.com/play/trentmix-radio
+#EXTINF:-1,WBRU
+https://s3.radio.co/s115121de1/listen
+#EXTINF:-1,WDRE_-_The_Drive_100.5
+200 https://ice24.securenetsystems.net/WDRE
+#EXTINF:-1,R_K_R_
+200 https://feklessradio.files.wordpress.com/2019/06/bob-dylan-nashville-skyline-i-threw-it-all-away.mp3
+#EXTINF:-1,Catorweb_Radio
+https://securestreams.autopo.st:1041/stream/1/
+#EXTINF:-1,electropop
+302 https://stream.laut.fm/electropop?ref=radiode
+#EXTINF:-1,FluxLounge
+302 https://streams.fluxfm.de/lounge/mp3-320/radiode/
+#EXTINF:-1,justclub
+302 https://stream.laut.fm/justclub?ref=radiode
+#EXTINF:-1,RADIOLEZART
+405 https://www.radioking.com/play/radiolezart
+#EXTINF:-1,Witch_House_Radio_
+200 https://listen.radionomy.com/witchhouseradiocom-chillwaveandwitchhousemusic.m3u
+#EXTINF:-1,Assisi_Web_Radio
+400 https://stream.radiojar.com/t8yd56xes8quv
+#EXTINF:-1,IndieRadioFM.net_COUNTRY_RADIO_FM
+302 https://listen.openstream.co/3932/audio
+#EXTINF:-1,Radiodowntown.ca_
+https://streamer.radio.co/s9c3067eb0/listen
+#EXTINF:-1,MUSIC_MAFIA
+200 https://listen.radionomy.com/MUSICMAFIA.m3u
+#EXTINF:-1,BBR_MASTERMIXXX
+405 https://radio.streemlion.com:2025/stream
+#EXTINF:-1,ElektroFlux
+https://fluxfm.hoerradar.de/flux-electro-mp3-mq
+#EXTINF:-1,Riot_Radio
+302 https://streams.fluxfm.de/riotr/mp3-128/radiode/
+#EXTINF:-1,Radio_Vostok
+200 https://statslive.infomaniak.com/playlist/radiovostok/radiovostok.aac/playlist.m3u
+#EXTINF:-1,1.FM_-_Gorilla_FM
+200 https://www.1.fm/tunestream/gorillafm/listen.pls
+#EXTINF:-1,A0-1_WORLD
+200 https://listen.radionomy.com/a0-1-world.m3u
+#EXTINF:-1,CampFM_-_das_Festivalradio
+501 https://campfm.radionetz.de:8001/campfm.mp3
+#EXTINF:-1,IND!ETECTOR_RAD!O
+200 https://listen.radionomy.com/ind-etectorrad-o.m3u
+#EXTINF:-1,aphilia
+302 https://stream.laut.fm/aphilia?ref=radiode
+#EXTINF:-1,fmrausch
+https://stream.laut.fm/fmrausch?ref=radiode
+#EXTINF:-1,pop101
+302 https://stream.laut.fm/pop101?ref=radiode
+#EXTINF:-1,Radio_SugarShock
+302 https://stream.laut.fm/sugarshock?ref=radiode
+#EXTINF:-1,Radio_Welle_West_Wetterau
+400 https://stream.blpn.de:8443/r3we_128
+#EXTINF:-1,Tsugi_Radio
+405 https://www.radioking.com/play/tsugi-radio/62161
+#EXTINF:-1,UP_ZIC_Radio
+404 https://streamingv2.shoutcast.com/up-zic-radio
+#EXTINF:-1,Voz_Efikaz
+404 https://listen.radioking.com/radio/228313/stream/271894
+#EXTINF:-1,Indie_Radio_FM.net
+302 https://listen.openstream.co/3755/audio
+#EXTINF:-1,IndieRadioFM.com_HOT_HITS_RADIO
+302 https://listen.openstream.co/3720/audio
+#EXTINF:-1,Pite_FM_92.8
+400 https://pitefmstream.ltu.se:8443/pitefm.mp3
+#EXTINF:-1,RADIO_BOB!_BOBs_Hardrock
+302 https://streams.radiobob.de/bob-hardrock/mp3-128/radiode/
+#EXTINF:-1,Pirate_Gong
+404 https://addrad.io/44553cp
+#EXTINF:-1,2XS_Rocks!
+https://2xs.rocks/2xs.m3u
+#EXTINF:-1,ESRN_Radio
+https://esrnradio.out.airtime.pro/esrnradio_a
+#EXTINF:-1,delta_radio_UNPLUGGED
+302 https://streams.deltaradio.de/delta-unplugged/mp3-128/radiode/
+#EXTINF:-1,NTS_Radio
+200 https://stream-relay-geo.ntslive.net/stream
+#EXTINF:-1,Indie_98
+404 https://streamingv2.shoutcast.com/indie-98
+#EXTINF:-1,Folk_Forward
+200 https://somafm.com/folkfwd.pls
+#EXTINF:-1,2FBI_-_FBi_Radio_94.5_FM
+502 https://stream.fbiradio.com/stream.mp3
+#EXTINF:-1,917xfm_Indie_Weihnachten
+302 https://stream.rockantenne.hamburg/917xfm-event/stream/mp3?aw_0_1st.playerid=radio.de
+#EXTINF:-1,Beaub_FM
+https://beaubfm2.ice.infomaniak.ch/beaubfm2-96.mp3
+#EXTINF:-1,Blur_FM
+400 https://live.radiovague.com:8443/blurfm01
+#EXTINF:-1,Chérie_Acoustic
+302 https://scdn.nrjaudio.fm/adwz1/fr/30269/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,DASH_Indie
+200 https://ice55.securenetsystems.net/DASH32
+#EXTINF:-1,Estridente_Radio
+https://stream3.mexiserver.com:10135/stream/1/
+#EXTINF:-1,i99Radio
+404 https://streaming.live365.com/a04652
+#EXTINF:-1,Indie_MPB
+404 https://streamingv2.shoutcast.com/indie-mpb
+#EXTINF:-1,La_Radio_Indie_Rock_Thematic_Radio
+200 https://asvradiolive.asvstudios.tk/radio/8040/radio.mp3
+#EXTINF:-1,1000-indietracks
+302 https://stream.laut.fm/1000-indietracks?ref=radiode
+#EXTINF:-1,100indie
+302 https://stream.laut.fm/100indie?ref=radiode
+#EXTINF:-1,chiliguerilla
+302 https://stream.laut.fm/chiliguerilla?ref=radiode
+#EXTINF:-1,crm924
+302 https://stream.laut.fm/crm924?ref=radiode
+#EXTINF:-1,Einklangsbrei
+302 https://stream.laut.fm/einklangsbrei?ref=radiode
+#EXTINF:-1,eswirdmorgen
+302 https://stream.laut.fm/eswirdmorgen?ref=radiode
+#EXTINF:-1,indie-vidual
+https://stream.laut.fm/indie-vidual?ref=radiode
+#EXTINF:-1,konsole
+https://stream.laut.fm/konsole?ref=radiode
+#EXTINF:-1,lavadaze
+https://stream.laut.fm/lavadaze?ref=radiode
+#EXTINF:-1,leilileili
+https://stream.laut.fm/leilileili?ref=radiode
+#EXTINF:-1,leoniden
+302 https://stream.laut.fm/leoniden?ref=radiode
+#EXTINF:-1,osna-fm
+302 https://stream.laut.fm/osna-fm?ref=radiode
+#EXTINF:-1,PiN_FM
+302 https://stream.laut.fm/prettyinnoise?ref=radiode
+#EXTINF:-1,radiosubline
+https://stream.laut.fm/radiosubline?ref=radiode
+#EXTINF:-1,records_mixtape
+302 https://stream.laut.fm/records_mixtape?ref=radiode
+#EXTINF:-1,schneeweissfm
+302 https://stream.laut.fm/schneeweissfm?ref=radiode
+#EXTINF:-1,siegburger-welle
+302 https://stream.laut.fm/siegburger-welle?ref=radiode
+#EXTINF:-1,Smashradio_
+302 https://stream.laut.fm/smashradio?ref=radiode
+#EXTINF:-1,telover
+302 https://stream.laut.fm/tel-over?ref=radiode
+#EXTINF:-1,เพลงลูกทุ่ง_Looktung_Eingdoi_Station_Thailand
+200 https://radio14.plathong.net/7126/stream/1/
+#EXTINF:-1,Lyon_Info_Radio
+500 https://radio12.pro-fhi.net/live/LYONINFORADIO
+#EXTINF:-1,Nation_Radio
+404 https://icy-e-04.sharp-stream.com/tcnation.mp3
+#EXTINF:-1,NTS_Radio_Channel_2
+200 https://stream-relay-geo.ntslive.net/stream2
+#EXTINF:-1,RadioEZ
+https://dgarlock.us:9070/stream
+#EXTINF:-1,Radio_Q
+400 https://rqstream.radioq.de/stream/192.mp3
+#EXTINF:-1,Radio_Regenbogen_-_Indie-Rock
+302 https://streams.regenbogen.de/rr-indierock-128-aac?usid=0-0-H-A-D-06
+#EXTINF:-1,Radio_Woot_
+200 https://listen.radioking.com/radio/4876/stream/79888
+#EXTINF:-1,Radio_Zodiac_-_Dublin,_Ireland
+200 https://listen.radioking.com/radio/124966/stream/164656
+#EXTINF:-1,Roots_Live_Music_Radio
+https://streaming.radio.co/s6fa519cd3/listen
+#EXTINF:-1,rs2_Pop
+302 https://stream.rs2.de/rs2-indie-pop/mp3-128/?ref=radiode
+#EXTINF:-1,R.SA_-_Oldieclub
+302 https://streams.rsa-sachsen.de/rsa-oldies/mp3-128/radiode/
+#EXTINF:-1,Sabotage_Radio
+200 https://listen.radioking.com/radio/634/stream/2282
+#EXTINF:-1,The_Pulse
+200 https://listen.radionomy.com/thepulseinternetradio.m3u
+#EXTINF:-1,WIIS_-_Island_107.1_FM
+404 https://cdn3.wowza.com/1/UUU3OHZFMjdYWnFk/NnovNzdE/hls/live/playlist.m3u8
+#EXTINF:-1,Zeromix_Radio
+200 https://listen.radionomy.com/zeromix-radio.m3u
+#EXTINF:-1,STATIC:_THE_BEST_OF_1981
+404 https://streamingV2.shoutcast.com/Static-TheBestOf1981
+#EXTINF:-1,OpenFM_-_500_Alternative_Hits
+200 https://stream.open.fm/55
+#EXTINF:-1,OpenFM_-_Alt_Classic
+200 https://stream.open.fm/43
+#EXTINF:-1,Le_Mellotron
+https://shouting.trinoma.net/stream/1/
+#EXTINF:-1,indieselect
+302 https://stream.laut.fm/indieselect?ref=radiode
+#EXTINF:-1,Alternative_Rock_|_Best_of_Rock.FM
+302 https://bestofrockfm.stream.vip/altrock/mp3-256/radiode/
+#EXTINF:-1,Rádio_Radar
+https://scast1.evspt.com/radar_mp3
+#EXTINF:-1,95_bFM
+https://ssl.geckohost.nz/proxy/caitlinssl?mp=/stream
+#EXTINF:-1,indieandmore
+302 https://stream.laut.fm/indieandmore?ref=radiode
+#EXTINF:-1,Bone_Pool_Radio
+200 https://streamer.radio.co/s49a58b236/low
+#EXTINF:-1,Radio_Califa
+200 https://listen.radionomy.com/radio-califa.m3u
+#EXTINF:-1,Freewheel_Radio
+https://freewheel.radioca.st/stream
+#EXTINF:-1,Houndstooth_Radio
+400 https://stream.radiojar.com/2q2dbmeqazwtv
+#EXTINF:-1,Just_Another_Radio
+404 https://streamingv2.shoutcast.com/RTFM
+#EXTINF:-1,LA_GRIETA
+200 https://listen.radionomy.com/la-grieta.m3u
+#EXTINF:-1,077radio
+302 https://stream.laut.fm/077radio?ref=radiode
+#EXTINF:-1,farsideradio
+302 https://stream.laut.fm/farsideradio?ref=radiode
+#EXTINF:-1,heimspiel
+302 https://stream.laut.fm/heimspiel?ref=radiode
+#EXTINF:-1,nu-rock-show
+302 https://stream.laut.fm/nu-rock-show?ref=radiode
+#EXTINF:-1,plastikmekka
+302 https://stream.laut.fm/plastikmekka?ref=radiode
+#EXTINF:-1,play4today
+302 https://stream.laut.fm/play4today?ref=radiode
+#EXTINF:-1,polarlicht
+302 https://stream.laut.fm/polarlicht?ref=radiode
+#EXTINF:-1,royalfm
+302 https://stream.laut.fm/royalfm?ref=radiode
+#EXTINF:-1,superhonks
+302 https://stream.laut.fm/superhonks?ref=radiode
+#EXTINF:-1,tomsounds
+302 https://stream.laut.fm/tomsounds?ref=radiode
+#EXTINF:-1,trockendock
+302 https://stream.laut.fm/trockendock?ref=radiode
+#EXTINF:-1,Piratenradio.ch_
+https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3
+#EXTINF:-1,Radio_Aquarius
+https://cast.magicstreams.gr/sc/asavouli/stream
+#EXTINF:-1,RMF_Alternatywa
+200 https://rs6-krk2.rmfstream.pl/ALTERNATYWA
+#EXTINF:-1,STATIC:_GRRRLS,_GRRRLS,_GRRRLS
+404 https://streamingV2.shoutcast.com/GrrrlsGrrrlsGrrrls
+#EXTINF:-1,Vodafone.FM
+https://195.23.102.207/vodafone
+#EXTINF:-1,Radio_Zig_Zag_Rock
+405 https://www.radioking.com/play/zig-zag-metal-phonic
+#EXTINF:-1,mmxRadio
+404 https://mmx-stream.hollweck.it/mmx
+#EXTINF:-1,Radio_Free_Americana_
+https://thassos.cdnstream.com:5479/stream
+#EXTINF:-1,OpenFM_-_ALT_Café
+200 https://stream.open.fm/34
+#EXTINF:-1,Duggy_Stone_Radio
+404 https://streamer.radio.co/s46bb3b4e1/listen
+#EXTINF:-1,Grrif_101.2_FM
+200 https://grrif.ice.infomaniak.ch/grrif-high.mp3

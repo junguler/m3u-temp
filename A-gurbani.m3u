@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Sikhnet_Radio_-_All_Gurbani_Styles
+https://radio.sikhnet.com/proxy/channel1/autodj
+#EXTINF:-1,Sikhnet_Radio_-_Audio_Stories_for_Kids
+https://radio.sikhnet.com/proxy/stories/autodj
+#EXTINF:-1,Sikhnet_Radio_-_Classical_Raag
+https://radio.sikhnet.com/proxy/channel3/autodj
+#EXTINF:-1,GurbaniSewa_-_Akhand_Paath_Sri_Guru_Granth_Sahib_Ji
+302 https://onlineradiobox.com/json/us/gurbanisewa/play?platform=web
+#EXTINF:-1,Sikhnet_Radio_-_The_Classics
+302 https://onlineradiobox.com/json/us/sikhnetradiotheclassics/play?platform=web
+#EXTINF:-1,Sikhnet_Radio_-_Sri_Akhand_Paath_Sahib
+https://radio.sikhnet.com/proxy/channel5/autodj
+#EXTINF:-1,Sikhnet_Radio_-_Western_Non_Traditional
+https://radio.sikhnet.com/proxy/channel2/autodj
+#EXTINF:-1,Sikhnet_Radio_-_Katha
+https://radio.sikhnet.com/proxy/katha/autodj
+#EXTINF:-1,92.3_The_Fox
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox

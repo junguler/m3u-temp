@@ -1,0 +1,1001 @@
+#EXTM3U
+#EXTINF:-1,CMS_Radio
+200 https://c13.radioboss.fm:18190/stream
+#EXTINF:-1,Pro3
+403 http://cdnpro3.rri.co.id/web-kbrn.mp3
+#EXTINF:-1,RRI_Channel_5
+403 http://cdnch5.rri.co.id/web-chlima.mp3
+#EXTINF:-1,Voice_of_Indonesia
+http://streaming.rri.co.id:9125/web-voi.mp3
+#EXTINF:-1,RRI_Pro1_Aceh_Singkil
+http://streaming.rri.co.id:9136/web-rriacehsingkilpro1.mp3
+#EXTINF:-1,RRI_Pro1_Ambon
+http://streaming.rri.co.id:9315/web-rriambonpro1.mp3
+#EXTINF:-1,RRI_Pro2_Ambon
+http://streaming.rri.co.id:9315/web-rriambonpro2.mp3
+#EXTINF:-1,RRI_Pro1_Ampana
+http://streaming.rri.co.id:9337/web-rriampanapro1.mp3
+#EXTINF:-1,RRI_Pro1_Atambua
+http://streaming.rri.co.id:9225/web-rriatambuapro1.mp3
+#EXTINF:-1,RRI_Pro2_Atambua
+http://streaming.rri.co.id:9225/web-rriatambuapro2.mp3
+#EXTINF:-1,RRI_Pro1_Banda_Aceh
+http://streaming.rri.co.id:9214/web-rribandaacehpro1.mp3
+#EXTINF:-1,RRI_Pro2_Banda_Aceh
+http://streaming.rri.co.id:9214/web-rribandaacehpro2.mp3
+#EXTINF:-1,RRI_Pro4_Banda_Aceh
+http://streaming.rri.co.id:9214/web-rribandaacehpro4.mp3
+#EXTINF:-1,RRI_Pro1_Bandar_Lampung
+http://streaming.rri.co.id:9112/web-rrilampungpro1.mp3
+#EXTINF:-1,RRI_Pro2_Bandar_Lampung
+http://streaming.rri.co.id:9112/web-rrilampungpro2.mp3
+#EXTINF:-1,RRI_Pro4_Bandar_Lampung
+http://streaming.rri.co.id:9112/web-rrilampungpro4.mp3
+#EXTINF:-1,RRI_Pro1_Bandung
+http://streaming.rri.co.id:9015/web-rribandungpro1.mp3
+#EXTINF:-1,RRI_Pro2_Bandung
+http://streaming.rri.co.id:9015/web-rribandungpro2.mp3
+#EXTINF:-1,RRI_Pro4_Bandung
+http://streaming.rri.co.id:9015/web-rribandungpro4.mp3
+#EXTINF:-1,RRI_Pro1_Banjarmasin
+http://streaming.rri.co.id:9019/web-rribanjarmasinpro1.mp3
+#EXTINF:-1,RRI_Pro2_Banjarmasin
+http://streaming.rri.co.id:9019/web-rribanjarmasinpro2.mp3
+#EXTINF:-1,RRI_Pro1_Banten
+http://streaming.rri.co.id:9036/web-rribantenpro1.mp3
+#EXTINF:-1,RRI_Pro1_Batam
+http://streaming.rri.co.id:9125/web-rribatampro1.mp3
+#EXTINF:-1,RRI_Pro2_Batam
+http://streaming.rri.co.id:9125/web-rribatampro2.mp3
+#EXTINF:-1,RRI_Pro1_Belitung
+http://streaming.rri.co.id:9020/web-rribelitungpro1.mp3
+#EXTINF:-1,RRI_Pro1_Bengkalis
+http://streaming.rri.co.id:9137/web-rribengkalispro1.mp3
+#EXTINF:-1,RRI_Pro1_Bengkulu
+http://streaming.rri.co.id:9311/web-rribengkulupro1.mp3
+#EXTINF:-1,RRI_Pro2_Bengkulu
+http://streaming.rri.co.id:9311/web-rribengkulupro2.mp3
+#EXTINF:-1,RRI_Pro4_Bengkulu
+http://streaming.rri.co.id:9311/web-rribengkulupro4.mp3
+#EXTINF:-1,RRI_Pro1_Biak
+http://streaming.rri.co.id:9117/web-rribiakpro1.mp3
+#EXTINF:-1,RRI_Pro2_Biak
+http://streaming.rri.co.id:9117/web-rribiakpro2.mp3
+#EXTINF:-1,RRI_Pro1_Bintuhan
+http://streaming.rri.co.id:9237/web-rribintuhanpro1.mp3
+#EXTINF:-1,RRI_Pro1_Bogor
+http://streaming.rri.co.id:9319/web-rribogorpro1.mp3
+#EXTINF:-1,RRI_Pro2_Bogor
+http://streaming.rri.co.id:9319/web-rribogorpro2.mp3
+#EXTINF:-1,RRI_Pro1_Bone
+http://streaming.rri.co.id:9237/web-rribonepro1.mp3
+#EXTINF:-1,RRI_Pro1_Bovendigul
+http://streaming.rri.co.id:9036/web-rribouvenpro1.mp3
+#EXTINF:-1,RRI_Pro1_Bukittinggi
+http://streaming.rri.co.id:9216/web-rribkttinggipro1.mp3
+#EXTINF:-1,RRI_Pro1_Cirebon
+http://streaming.rri.co.id:9317/web-rricirebonpro1.mp3
+#EXTINF:-1,RRI_Pro2_Cirebon
+http://streaming.rri.co.id:9317/web-rricirebonpro2.mp3
+#EXTINF:-1,RRI_Pro1_Denpasar
+403 http://cdndenpasarpro1.rri.co.id/web-rridenpasarpro1.mp3
+#EXTINF:-1,RRI_Pro2_Denpasar
+403 http://cdndenpasarpro2.rri.co.id/web-rridenpasarpro2.mp3
+#EXTINF:-1,RRI_Pro4_Denpasar
+403 http://cdndenpasarpro4.rri.co.id/web-rridenpasarpro4.mp3
+#EXTINF:-1,RRI_Pro1_Bula
+http://streaming.rri.co.id:9020/web-rribulapro1.mp3
+#EXTINF:-1,RRI_Pro2_Bukittinggi
+http://streaming.rri.co.id:9216/web-rribkttinggipro2.mp3
+#EXTINF:-1,RRI_Pro1_Ende
+http://streaming.rri.co.id:9223/web-rriendepro1.mp3
+#EXTINF:-1,RRI_Pro2_Ende
+http://streaming.rri.co.id:9223/web-rriendepro2.mp3
+#EXTINF:-1,RRI_Pro1_Entikong
+http://streaming.rri.co.id:9236/web-rrientikongpro1.mp3
+#EXTINF:-1,RRI_Pro1_Fak_Fak
+http://streaming.rri.co.id:9321/web-rrifakfakpro1.mp3
+#EXTINF:-1,RRI_Pro2_Fak_Fak
+http://streaming.rri.co.id:9321/web-rrifakfakpro2.mp3
+#EXTINF:-1,RRI_Pro1_Gorontalo
+http://streaming.rri.co.id:9115/web-rrigorontalopro1.mp3
+#EXTINF:-1,RRI_Pro2_Gorontalo
+http://streaming.rri.co.id:9115/web-rrigorontalopro2.mp3
+#EXTINF:-1,RRI_Pro4_Gorontalo
+http://streaming.rri.co.id:9115/web-rrigorontalopro4.mp3
+#EXTINF:-1,RRI_Pro1_Gunung_Sitoli
+http://streaming.rri.co.id:9225/web-rrisitolipro1.mp3
+#EXTINF:-1,RRI_Pro2_Gunung_Sitoli
+http://streaming.rri.co.id:9225/web-rrisitolipro2.mp3
+#EXTINF:-1,RRI_Pro1_Jakarta
+403 http://cdnjakartapro1.rri.co.id/web-rrijakartapro1.mp3
+#EXTINF:-1,RRI_Pro2_Jakarta
+403 http://cdnjakartapro2.rri.co.id/web-rrijakartapro2.mp3
+#EXTINF:-1,RRI_Pro4_Jakarta
+403 http://cdnjakartapro4.rri.co.id/web-rrijakartapro4.mp3
+#EXTINF:-1,RRI_Pro1_Jambi
+http://streaming.rri.co.id:9211/web-rrijambipro1.mp3
+#EXTINF:-1,RRI_Pro2_Jambi
+http://streaming.rri.co.id:9211/web-rrijambipro2.mp3
+#EXTINF:-1,RRI_Pro4_Jambi
+http://streaming.rri.co.id:9211/web-rrijambipro4.mp3
+#EXTINF:-1,RRI_Pro1_Jayapura
+http://streaming.rri.co.id:9023/web-rrijayapurapro1.mp3
+#EXTINF:-1,RRI_Pro4_Jayapura
+http://streaming.rri.co.id:9023/web-rrijayapurapro4.mp3
+#EXTINF:-1,RRI_Pro1_Jember
+http://streaming.rri.co.id:9340/web-rrijemberpro1.mp3
+#EXTINF:-1,RRI_Pro2_Jember
+http://streaming.rri.co.id:9340/web-rrijemberpro2.mp3
+#EXTINF:-1,RRI_Pro1_Kaimana
+http://streaming.rri.co.id:9236/web-rrikaimanapro1.mp3
+#EXTINF:-1,RRI_Pro1_Kediri
+http://streaming.rri.co.id:9220/web-rrikediripro1.mp3
+#EXTINF:-1,RRI_Pro1_Kupang
+http://streaming.rri.co.id:9213/web-rrikupangpro1.mp3
+#EXTINF:-1,RRI_Pro2_Kupang
+http://streaming.rri.co.id:9213/web-rrikupangpro2.mp3
+#EXTINF:-1,RRI_Pro4_Kupang
+http://streaming.rri.co.id:9213/web-rrikupangpro4.mp3
+#EXTINF:-1,RRI_Pro1_Madiun
+http://streaming.rri.co.id:9318/web-rrimadiunpro1.mp3
+#EXTINF:-1,RRI_Pro2_Madiun
+http://streaming.rri.co.id:9318/web-rrimadiunpro2.mp3
+#EXTINF:-1,RRI_Pro1_Makassar
+http://streaming.rri.co.id:9022/web-rrimakasarpro1.mp3
+#EXTINF:-1,RRI_Pro2_Makassar
+http://streaming.rri.co.id:9022/web-rrimakasarpro2.mp3
+#EXTINF:-1,RRI_Pro4_Makassar
+http://streaming.rri.co.id:9022/web-rrimakasarpro4.mp3
+#EXTINF:-1,RRI_Pro1_Malang
+http://streaming.rri.co.id:9218/web-rrimalangpro1.mp3
+#EXTINF:-1,RRI_Pro2_Malang
+http://streaming.rri.co.id:9218/web-rrimalangpro2.mp3
+#EXTINF:-1,RRI_Pro4_Malang
+http://streaming.rri.co.id:9218/web-rrimalangpro4.mp3
+#EXTINF:-1,RRI_Pro1_Malinau
+http://streaming.rri.co.id:9237/web-rrimalinaupro1.mp3
+#EXTINF:-1,RRI_Pro1_Mamuju
+http://streaming.rri.co.id:9020/web-rrimamujupro1.mp3
+#EXTINF:-1,RRI_Pro1_Manado
+http://streaming.rri.co.id:9040/web-rrimanadopro1.mp3
+#EXTINF:-1,RRI_Pro2_Manado
+http://streaming.rri.co.id:9040/web-rrimanadopro2.mp3
+#EXTINF:-1,RRI_Pro4_Manado
+http://streaming.rri.co.id:9040/web-rrimanadopro4.mp3
+#EXTINF:-1,RRI_Pro1_Manokwari
+http://streaming.rri.co.id:9024/web-rrimanokwaripro1.mp3
+#EXTINF:-1,RRI_Pro2_Manokwari
+http://streaming.rri.co.id:9024/web-rrimanokwaripro2.mp3
+#EXTINF:-1,RRI_Pro4_Manokwari
+http://streaming.rri.co.id:9024/web-rrimanokwaripro4.mp3
+#EXTINF:-1,RRI_Pro1_Mataram
+http://streaming.rri.co.id:9113/web-rrimatarampro1.mp3
+#EXTINF:-1,RRI_Pro2_Mataram
+http://streaming.rri.co.id:9113/web-rrimatarampro2.mp3
+#EXTINF:-1,RRI_Pro4_Mataram
+http://streaming.rri.co.id:9113/web-rrimatarampro4.mp3
+#EXTINF:-1,RRI_Pro1_Medan
+403 http://cdnmedanpro1.rri.co.id/web-rrimedanpro1.mp3
+#EXTINF:-1,RRI_Pro2_Medan
+403 http://cdnmedanpro2.rri.co.id/web-rrimedanpro2.mp3
+#EXTINF:-1,RRI_Pro4_Medan
+403 http://cdnmedanpro4.rri.co.id/web-rrimedanpro4.mp3
+#EXTINF:-1,RRI_Pro1_Merauke
+http://streaming.rri.co.id:9136/web-rrimeraukepro1.mp3
+#EXTINF:-1,RRI_Pro2_Merauke
+http://streaming.rri.co.id:9136/web-rrimeraukepro2.mp3
+#EXTINF:-1,RRI_Pro1_Meulaboh
+http://streaming.rri.co.id:9325/web-rrimeulabohpro1.mp3
+#EXTINF:-1,RRI_Pro2_Meulaboh
+http://streaming.rri.co.id:9325/web-rrimeulabohpro2.mp3
+#EXTINF:-1,RRI_Pro1_Nabire
+http://streaming.rri.co.id:9122/web-rrinabirepro1.mp3
+#EXTINF:-1,RRI_Pro2_Nabire
+http://streaming.rri.co.id:9122/web-rrinabirepro2.mp3
+#EXTINF:-1,RRI_Pro1_Nias_Selatan
+http://streaming.rri.co.id:9220/web-rriniasselatanpro1.mp3
+#EXTINF:-1,RRI_Pro1_Nunukan
+http://streaming.rri.co.id:9336/web-rrinunukanpro1.mp3
+#EXTINF:-1,RRI_Pro1_Padang
+http://streaming.rri.co.id:9111/web-rripadangpro1.mp3
+#EXTINF:-1,RRI_Pro2_Padang
+http://streaming.rri.co.id:9111/web-rripadangpro2.mp3
+#EXTINF:-1,RRI_Pro1_Palangkaraya
+http://streaming.rri.co.id:9312/web-rripalangkarayapro1.mp3
+#EXTINF:-1,RRI_Pro2_Palangkaraya
+http://streaming.rri.co.id:9312/web-rripalangkarayapro2.mp3
+#EXTINF:-1,RRI_Pro4_Palangkaraya
+http://streaming.rri.co.id:9312/web-rripalangkarayapro4.mp3
+#EXTINF:-1,RRI_Pro1_Palembang
+http://streaming.rri.co.id:9013/web-rripalembangpro1.mp3
+#EXTINF:-1,RRI_Pro2_Palembang
+http://streaming.rri.co.id:9013/web-rripalembangpro2.mp3
+#EXTINF:-1,RRI_Pro4_Palembang
+http://streaming.rri.co.id:9013/web-rripalembangpro4.mp3
+#EXTINF:-1,RRI_Pro1_Palu
+http://streaming.rri.co.id:9114/web-rripalupro1.mp3
+#EXTINF:-1,RRI_Pro2_Palu
+http://streaming.rri.co.id:9114/web-rripalupro2.mp3
+#EXTINF:-1,RRI_Pro4_Palu
+http://streaming.rri.co.id:9114/web-rripalupro4.mp3
+#EXTINF:-1,RRI_Pro1_Pekanbaru
+http://streaming.rri.co.id:9012/web-rripekanbarupro1.mp3
+#EXTINF:-1,RRI_Pro2_Pekanbaru
+http://streaming.rri.co.id:9012/web-rripekanbarupro2.mp3
+#EXTINF:-1,RRI_Pro4_Pekanbaru
+http://streaming.rri.co.id:9012/web-rripekanbarupro4.mp3
+#EXTINF:-1,RRI_Pro1_Pontianak
+http://streaming.rri.co.id:9212/web-rripontianakpro1.mp3
+#EXTINF:-1,RRI_Pro2_Pontianak
+http://streaming.rri.co.id:9212/web-rripontianakpro2.mp3
+#EXTINF:-1,RRI_Pro4_Pontianak
+http://streaming.rri.co.id:9212/web-rripontianakpro4.mp3
+#EXTINF:-1,RRI_Pro1_Purwokerto
+http://streaming.rri.co.id:9119/web-rripurwokertopro1.mp3
+#EXTINF:-1,RRI_Pro2_Purwokerto
+http://streaming.rri.co.id:9119/web-rripurwokertopro2.mp3
+#EXTINF:-1,RRI_Pro1_Ranai
+http://streaming.rri.co.id:9124/web-rriranaipro1.mp3
+#EXTINF:-1,RRI_Pro2_Ranai
+http://streaming.rri.co.id:9124/web-rriranaipro2.mp3
+#EXTINF:-1,RRI_Pro1_Sabang
+http://streaming.rri.co.id:9236/web-rrisabangpro1.mp3
+#EXTINF:-1,RRI_Pro1_Samarinda
+http://streaming.rri.co.id:9116/web-rrisamarindapro1.mp3
+#EXTINF:-1,RRI_Pro2_Samarinda
+http://streaming.rri.co.id:9116/web-rrisamarindapro2.mp3
+#EXTINF:-1,RRI_Pro4_Samarinda
+http://streaming.rri.co.id:9116/web-rrisamarindapro4.mp3
+#EXTINF:-1,RRI_Pro1_Sampang
+http://streaming.rri.co.id:9137/web-rrisampangpro1.mp3
+#EXTINF:-1,RRI_Pro1_Semarang
+http://streaming.rri.co.id:9016/web-rrisemarangpro1.mp3
+#EXTINF:-1,RRI_Pro2_Semarang
+http://streaming.rri.co.id:9016/web-rrisemarangpro2.mp3
+#EXTINF:-1,RRI_Pro4_Semarang
+http://streaming.rri.co.id:9016/web-rrisemarangpro4.mp3
+#EXTINF:-1,RRI_Pro1_Serui
+http://streaming.rri.co.id:9222/web-rriseruipro1.mp3
+#EXTINF:-1,RRI_Pro2_Serui
+http://streaming.rri.co.id:9222/web-rriseruipro2.mp3
+#EXTINF:-1,RRI_Pro1_Sibolga
+http://streaming.rri.co.id:9121/web-rrisibolgapro1.mp3
+#EXTINF:-1,RRI_Pro2_Sibolga
+http://streaming.rri.co.id:9121/web-rrisibolgapro2.mp3
+#EXTINF:-1,RRI_Pro1_Singaraja
+http://streaming.rri.co.id:9240/web-rrisingarajapro1.mp3
+#EXTINF:-1,RRI_Pro2_Singaraja
+http://streaming.rri.co.id:9240/web-rrisingarajapro2.mp3
+#EXTINF:-1,RRI_Pro1_Sintang
+http://streaming.rri.co.id:9123/web-rrisintangpro1.mp3
+#EXTINF:-1,RRI_Pro2_Sintang
+http://streaming.rri.co.id:9123/web-rrisintangpro2.mp3
+#EXTINF:-1,RRI_Pro1_Sorong
+http://streaming.rri.co.id:9217/web-rrisorongpro1.mp3
+#EXTINF:-1,RRI_Pro2_Sorong
+http://streaming.rri.co.id:9217/web-rrisorongpro2.mp3
+#EXTINF:-1,RRI_Pro1_Sumenep
+http://streaming.rri.co.id:9118/web-rrisumeneppro1.mp3
+#EXTINF:-1,RRI_Pro2_Sumenep
+http://streaming.rri.co.id:9118/web-rrisumeneppro2.mp3
+#EXTINF:-1,RRI_Pro1_Sungailiat
+http://streaming.rri.co.id:9314/web-rrisngliatpro1.mp3
+#EXTINF:-1,RRI_Pro2_Sungailiat
+http://streaming.rri.co.id:9314/web-rrisngliatpro2.mp3
+#EXTINF:-1,RRI_Pro4_Sungailiat
+http://streaming.rri.co.id:9314/web-rrisngliatpro4.mp3
+#EXTINF:-1,RRI_Pro1_Surabaya
+403 http://cdnsurabayapro1.rri.co.id/web-rrisurabayapro1.mp3
+#EXTINF:-1,RRI_Pro2_Surabaya
+403 http://cdnsurabayapro2.rri.co.id/web-rrisurabayapro2.mp3
+#EXTINF:-1,RRI_Pro4_Surabaya
+403 http://cdnsurabayapro4.rri.co.id/web-rrisurabayapro4.mp3
+#EXTINF:-1,RRI_Pro1_Surakarta
+http://streaming.rri.co.id:9219/web-rrisurakartapro1.mp3
+#EXTINF:-1,RRI_Pro2_Surakarta
+http://streaming.rri.co.id:9219/web-rrisurakartapro2.mp3
+#EXTINF:-1,RRI_Pro1_Tahuna
+http://streaming.rri.co.id:9316/web-rritahunapro1.mp3
+#EXTINF:-1,RRI_Pro2_Tahuna
+http://streaming.rri.co.id:9316/web-rritahunapro2.mp3
+#EXTINF:-1,RRI_Pro1_Takengon
+http://streaming.rri.co.id:9111/web-rritakengonpro1.mp3
+#EXTINF:-1,RRI_Pro1_Tanjungpinang
+http://streaming.rri.co.id:9221/web-rritjpinangpro1.mp3
+#EXTINF:-1,RRI_Pro2_Tanjungpinang
+http://streaming.rri.co.id:9221/web-rritjpinangpro2.mp3
+#EXTINF:-1,RRI_Pro4_Tanjungpinang
+http://streaming.rri.co.id:9221/web-rritjpinangpro4.mp3
+#EXTINF:-1,RRI_Pro1_Tarakan
+http://streaming.rri.co.id:9323/web-rritarakanpro1.mp3
+#EXTINF:-1,RRI_Pro2_Tarakan
+http://streaming.rri.co.id:9323/web-rritarakanpro2.mp3
+#EXTINF:-1,RRI_Pro1_Ternate
+http://streaming.rri.co.id:9215/web-rriternatepro1.mp3
+#EXTINF:-1,RRI_Pro2_Ternate
+http://streaming.rri.co.id:9215/web-rriternatepro2.mp3
+#EXTINF:-1,RRI_Pro4_Ternate
+http://streaming.rri.co.id:9215/web-rriternatepro4.mp3
+#EXTINF:-1,RRI_Pro1_Tual
+http://streaming.rri.co.id:9322/web-rritualpro1.mp3
+#EXTINF:-1,RRI_Pro2_Tual
+http://streaming.rri.co.id:9322/web-rritualpro2.mp3
+#EXTINF:-1,RRI_Pro1_Wamena
+http://streaming.rri.co.id:9224/web-rriwamenapro1.mp3
+#EXTINF:-1,RRI_Pro2_Wamena
+http://streaming.rri.co.id:9224/web-rriwamenapro2.mp3
+#EXTINF:-1,RRI_Pro1_Yogyakarta
+http://streaming.rri.co.id:9017/web-rrijogjapro1.mp3
+#EXTINF:-1,RRI_Pro2_Yogyakarta
+http://streaming.rri.co.id:9017/web-rrijogjapro2.mp3
+#EXTINF:-1,RRI_Pro4_Yogyakarta
+http://streaming.rri.co.id:9017/web-rrijogjapro4.mp3
+#EXTINF:-1,Jak_101_FM
+https://wow2.mari.co.id:1936/mari/jakfm/chunklist.m3u8
+#EXTINF:-1,Most_Radio
+http://wow2.mari.co.id:1935/mari/most/chunklist.m3u8
+#EXTINF:-1,Kis_95.1_FM
+http://wow2.mari.co.id:1935/mari/kis/chunklist.m3u8
+#EXTINF:-1,Delta_FM
+http://live.deltafm.net:9002/
+#EXTINF:-1,Trax_FM_Jakarta
+404 http://n03.radiojar.com/rrqf78p3bnzuv.mp3
+#EXTINF:-1,Motion_Radio
+http://101.50.1.250:8000/motion.aac
+#EXTINF:-1,Radio_Fajri_FM
+200 http://coloid.fajrifm.com:9930/
+#EXTINF:-1,Mustang_88_FM
+http://wow2.mari.co.id:1935/mari/mustang/playlist.m3u8
+#EXTINF:-1,Radio_Sonora_Jakarta
+501 http://103.226.246.245/kompas-sonorajakarta
+#EXTINF:-1,Ardan_FM
+200 http://listento.ardanradio.com:1059/
+#EXTINF:-1,V_Radio
+http://202.147.199.100:8000/stream.nsv
+#EXTINF:-1,Urban_Radio_Bandung
+http://radio.melsa.net.id:8050/urban
+#EXTINF:-1,OZ_Radio_Bandung
+http://45.64.97.211:1031/stream/1
+#EXTINF:-1,Virgin_Radio_Jakarta
+403 http://18243.live.streamtheworld.com/VIRGINRADAAC.aac
+#EXTINF:-1,Radio_Pelita_Kasih
+http://119.235.255.206:8030/listen.mp3
+#EXTINF:-1,Smooth_99.5_FM
+http://17023.live.streamtheworld.com/SMOOTH995AAC.aac
+#EXTINF:-1,Bens_Radio
+http://175.103.58.72:8000/stream.mp3
+#EXTINF:-1,RDI_FM
+http://202.147.199.99:8000/
+#EXTINF:-1,Star_Radio_1073_FM
+200 http://listen.staradio1073fm.net:8070/stream
+#EXTINF:-1,Cakra_FM
+200 http://dengerin.radiocakrabandung.com:8905/
+#EXTINF:-1,RASfm_Radio
+http://103.28.148.18:9006/
+#EXTINF:-1,Heartline_FM
+http://202.129.186.43:7010//stream
+#EXTINF:-1,Gaya_FM
+http://stream.suararadio.com:8000/bekasi_gayafm_stereo
+#EXTINF:-1,Hot_93.2_FM
+http://wow2.mari.co.id:1936/mari/hotfm/playlist.m3u8
+#EXTINF:-1,89.2_Power_FM
+http://pu.klikhost.com:8054/powerfm
+#EXTINF:-1,Radio_Chevy
+http://45.64.98.181:8377/
+#EXTINF:-1,Hitz_FM
+https://s2.radio.co/s6929cb202/listen
+#EXTINF:-1,Paramuda_FM
+http://115.178.48.43:9990/
+#EXTINF:-1,Radio_DFM_Jakarta
+http://103.28.148.18:9000/
+#EXTINF:-1,Naga_FM
+http://songs.nagafm.com:8006/stream.mp3/ogg
+#EXTINF:-1,RTHK_Radio_2
+302 https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+#EXTINF:-1,Rama_FM
+http://rama-fm.simaya.net.id:8800/
+#EXTINF:-1,VOV5
+https://stream1.vov.vn/vov5-audio/playlist.m3u8
+#EXTINF:-1,Al-Faruq_Purwokerto_Banyumas_<24kb_aac+>
+200 http://alfaruq.radioislam.my.id:12000/
+#EXTINF:-1,Alhikmah_fm
+http://158.69.119.235:8164/
+#EXTINF:-1,AMOEBA_FM
+http://live.syaria.net:9300/listen.pls
+#EXTINF:-1,An-Nashihah_Makassar_<MP3_32_kbps>
+200 http://streaming.an-nashihah.com:8822/stream.nsv
+#EXTINF:-1,Andika_FM_Kediri
+200 http://andikafm.onlivestreaming.net:1057/stream
+#EXTINF:-1,Bahana_FM
+http://stream.bahanafm.co.id:8100/
+#EXTINF:-1,Bass_FM_93.2_Salatiga
+http://live.bassfm.id/
+#EXTINF:-1,Brava_Radio_103.8_FM_Jakarta
+404 http://stream.radiojar.com/5k7t0rq3bnzuv
+#EXTINF:-1,Cosmopolitan
+404 https://n0c.radiojar.com/u7d8heq3bnzuv
+#EXTINF:-1,Cosmopolitan_90.4_FM_Jakarta
+404 http://stream.radiojar.com/u7d8heq3bnzuv
+#EXTINF:-1,Duta_90.9FM_AMBON
+http://live.dutafm.com:8182/
+#EXTINF:-1,Firza_Radio_Madina
+200 http://stream.zeno.fm/p63ug1un92quv.pls
+#EXTINF:-1,Firza_Radio_Medan
+404 http://stream.zeno.fm/15cpxvzd4reuv.pls
+#EXTINF:-1,Firza_Radio_Padang
+404 http://stream.zeno.fm/bwff5w3gtkeuv.pls
+#EXTINF:-1,Firza_Radio_Tapsel
+404 http://stream.zeno.fm/1rb7t4uh55quv.pls
+#EXTINF:-1,GAJAHMADA_FM_SEMARANG
+404 http://gajahmada.i.streaming.id:8000/live
+#EXTINF:-1,Gamasi
+http://s3.vinhostmedia.com:9504/
+#EXTINF:-1,Hardrock_87.6_FM_Jakarta
+404 http://stream.radiojar.com/7csmg90fuqruv
+#EXTINF:-1,HardRock_FM_Bandung
+404 http://stream.radiojar.com/fnex9bkswk8uv
+#EXTINF:-1,I-Radio_Jakarta
+404 http://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1,Iradio_FM
+404 http://n03.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1,JCB_Radio_-_Jakarta_City_Blessing
+http://s5.voscast.com:10524/stream
+#EXTINF:-1,Kampus_Universitas_TV
+200 http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,KBR68H
+200 http://pu.klikhost.com:8056/kbr
+#EXTINF:-1,Kencana_FM
+https://stream.radiokencana.com/stream
+#EXTINF:-1,KIARA_FM_IKIP_PADANG
+404 http://stream.zeno.fm/cxaednz7hkeuv
+#EXTINF:-1,KIDUNG_AGUNG_FM_JAKARTA
+http://u.klikhost.com:7120/
+#EXTINF:-1,KISI_93.4_FM
+http://live.kisifm.com:9340/kisifm
+#EXTINF:-1,Lodiko_Mulo
+404 http://stream.zeno.fm/ddx81xecx5quv.pls
+#EXTINF:-1,Lodiko_MuLo_Komi
+404 http://listen6.myradio24.com:9000/27342
+#EXTINF:-1,Lodiko_Sodonyo
+404 http://stream.zeno.fm/zsz8pkararzuv.pls
+#EXTINF:-1,Lopo_PAR_85
+404 http://stream.zeno.fm/rc612hrdukeuv.pls
+#EXTINF:-1,MAESTRO_FM_BANDUNG
+400 http://maestro.skyline.net.id:10925/radio.maestro
+#EXTINF:-1,Motion_97.5_FM
+501 http://103.226.246.245/kompas-motionjakarta
+#EXTINF:-1,MQFM
+400 http://svara-stream.radioddns.net:8000/bandung_mqfm_mp3.m3u
+#EXTINF:-1,MTA_FM
+200 http://radio.mtafm.com:1079/listen.pls
+#EXTINF:-1,MTV_Indonesia
+302 https://stream.zeno.fm/pvvz3mrtsf9uv
+#EXTINF:-1,Muarasipongi
+200 http://stream.zeno.fm/eus8arb1mkeuv.pls
+#EXTINF:-1,Muhammad_Juneid
+404 http://stream.zeno.fm/15cpxvzd4reuv
+#EXTINF:-1,NAGASWARA_DanceDhut
+200 https://live.nagaswarafm.com:9200/stream
+#EXTINF:-1,NAGASWARA_Pop
+200 https://live.nagaswarafm.com:9100/stream
+#EXTINF:-1,NAGASWARA_RADIOTEMEN
+200 https://live.nagaswarafm.com:9900/stream
+#EXTINF:-1,Nitnut_Radio
+200 http://103.179.56.26:8000/radio.aac
+#EXTINF:-1,PramborsFM
+403 https://22283.live.streamtheworld.com/PRAMBORS_FM.mp3
+#EXTINF:-1,PRFM
+http://prfm.pikiran-rakyat.com:8000/
+#EXTINF:-1,Radio_CMN_Indonesia
+https://stream.lokermusik.com:8160/radiocmn
+#EXTINF:-1,Radio_Gentara
+200 https://sukmben.radiogentara.com:8081/gentara64
+#EXTINF:-1,Radio_Hang_FM
+http://185.47.62.52:8000/
+#EXTINF:-1,Radio_Islam_An-Nubuwwah_Berau
+http://209.58.160.62:11258/
+#EXTINF:-1,Radio_Islam_Malang_1
+200 http://malang.radioislam.my.id:11132/
+#EXTINF:-1,Radio_Islam_Samarinda_<Saluran_1,_32_kbps_AAC+>
+http://209.58.160.62:9444/
+#EXTINF:-1,Radio_Islam_Samarinda_<Saluran_2,_24_kbps_AAC+>
+http://209.58.160.62:11288/
+#EXTINF:-1,Radio_Marhaban_Madiun
+http://209.58.160.62:8090/
+#EXTINF:-1,Radio_Muslim_Jogja
+http://live.radiomuslim.com/
+#EXTINF:-1,Radio_Persada/MTAFM
+200 http://radio.mtafm.com:1079/
+#EXTINF:-1,Radio_Rodja
+http://live2.radiorodja.com:8000/
+#EXTINF:-1,Radio_Suka-Suka
+http://s9.viastreaming.net:7060/
+#EXTINF:-1,RaseFM_Bandung
+http://radio.jabarmaya.net.id:8000/rasefm
+#EXTINF:-1,RASIKA_FM_PEKALONGAN
+400 http://svara-stream.radioddns.net:8000/rasikapekalongan_stereo.m3u
+#EXTINF:-1,RASIKA_FM_USA_SEMARANG
+400 http://svara-stream.radioddns.net:8000/rasikafm_stereo.m3u
+#EXTINF:-1,RRI_Sungailiat_Pro2
+https://cdnsungailiatpro2.rri.co.id/web-rrisngliatpro2.mp3
+#EXTINF:-1,RRI_Surabaya_Pro_1
+https://cdnsurabayapro1.rri.co.id/web-rrisurabayapro1.mp3
+#EXTINF:-1,Sonora_FM_Bandung
+404 https://streamingv2.shoutcast.com/sonora-bandung
+#EXTINF:-1,Suara_Mekarindah
+200 http://stream.zeno.fm/d2k0ptw4kkeuv.pls
+#EXTINF:-1,Suara_Muslim_Surabaya
+200 http://pu.klikhost.com:8052/
+#EXTINF:-1,SURABAYA_LOVE_RADIO
+404 http://streaming.classynetradio.com:8040/love
+#EXTINF:-1,trax_fm_semarang
+400 http://n0f.radiojar.com/fr9zqhv80k8uv
+#EXTINF:-1,UTY_90.7_FM_Medari
+200 http://utyfmedari.us.myradio.web.id:8000/utyfmedari
+#EXTINF:-1,Wijaya_FM_103.5_FM_Surabaya
+200 http://wijayafm.onlivestreaming.net:9880/stream?
+#EXTINF:-1,x_channel_bandung
+http://202.78.200.228:8002/stream
+#EXTINF:-1,Radio_Dangdut_97.1_FM_Jakarta_
+http://202.147.199.99:8000/stream/1
+#EXTINF:-1,Itjen_Radio_Kemdikbud
+http://118.98.232.108:8000/stream/1
+#EXTINF:-1,Geronimo_FM_106.1
+http://live2.indostreamserver.com:8018/stream/1
+#EXTINF:-1,Classy_FM_103.4
+302 http://classyfm.onlivestreaming.net:1034/stream/1
+#EXTINF:-1,Radio_Samhan_AM_630
+http://live.samhanradio.com:8090/stream/1
+#EXTINF:-1,BFM_104.6
+http://live.indostreamserver.com:8132/stream/1
+#EXTINF:-1,Mazmur_FM
+http://u.klikhost.com:7118/stream/1
+#EXTINF:-1,Prestasi_FM
+302 http://u.klikhost.com:7128/stream/1
+#EXTINF:-1,Radio_Pesona_Minang
+404 http://rpm.onlivestreaming.net:9999/live
+#EXTINF:-1,Radio_Rang_Minang
+400 http://cp9.serverse.com:7006/stream
+#EXTINF:-1,Radio_Tiara_FM_107.7
+http://stream.suararadio.com:8000/cilacap_tiarafm_stereo
+#EXTINF:-1,ELPAS_Radio_103.6
+200 http://live.elpasfm.com:8888/elpasfm
+#EXTINF:-1,Unisi_104.5_FM_Radio_
+http://202.162.32.23:8000/stream/1
+#EXTINF:-1,V_Radio_FM_106.6
+http://202.147.199.100:8000/stream/1
+#EXTINF:-1,Radio_Pelita_Kasih_96.30
+http://119.235.255.206:8030/stream/1
+#EXTINF:-1,Heartline_FM_91.7_Lampung
+http://202.129.186.43:7030/stream/1
+#EXTINF:-1,Radio_Guntur_FM_104.6
+http://gunturfm.onlivestreaming.net:9595/streamstream/1
+#EXTINF:-1,DUTA_90.9_FM_AMBON
+http://live.dutafm.com:8182/stream/1
+#EXTINF:-1,95.8_Prima_FM
+http://live.primafm958.com:8004/stream/1
+#EXTINF:-1,Heartline_FM_100.6_Karawaci
+http://202.129.186.43:7010/stream/1
+#EXTINF:-1,93.0_FM_Respon_Radio
+http://202.129.186.43:7045/stream/1
+#EXTINF:-1,Bible_TV
+http://u.klikhost.com:7120/stream/1
+#EXTINF:-1,Pas_Pati_101_FM
+http://pasfmpati.indostreaming.com:8886/stream/1
+#EXTINF:-1,Radio_Retjo_Buntung_99.4
+400 http://usa.jogjastreamers.com:8000/rbfm456789stereo
+#EXTINF:-1,Radio_Trend_FM_101.2_Purwakarta
+http://stream.suararadio.com:8000/trendfm_mono
+#EXTINF:-1,Rakosa_Jogja_FM_105.3
+400 http://usa.jogjastreamers.com:8000/rakosa787878
+#EXTINF:-1,89.5_JIZ_FM_Jogja
+400 http://usa.jogjastreamers.com:8000/jisstereo
+#EXTINF:-1,Manggis_FM_96
+http://stream.suararadio.com:8000/manggisfm_mono
+#EXTINF:-1,Armonia_Radio
+400 http://encoder.armonia.cl:3032/1.mp3
+#EXTINF:-1,Bahana_Ngawi
+200 http://bahanafm.onlivestreaming.net:10450/live
+#EXTINF:-1,KISS_105_FM_Medan
+400 http://live.kissfm-medan.com:8080/kissfm.mp3
+#EXTINF:-1,Pro_News_90_FM
+302 http://pronewsfm.indostreamserver.com:8018/stream/1
+#EXTINF:-1,Radio_Amsal_AM
+http://u.klikhost.com:7098/stream/1
+#EXTINF:-1,Papeja_101.8_FM_Lubuklinggau
+404 http://121.100.24.11:8800/live
+#EXTINF:-1,Sindo_FM_104.2_Pekanbaru
+302 http://202.147.199.101:8000/stream/1
+#EXTINF:-1,Radio_Rasil_AM_720
+http://203.24.76.112:8000/stereo
+#EXTINF:-1,ROCKERS_RADIO.ID
+301 http://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1,StarJogja_FM_101.3
+200 http://jkt.jogjastreamers.com:8000/starfmykstereo
+#EXTINF:-1,Sonora_93.3_FM_Bandung
+http://stream.suararadio.com:8000/bandung_sonora_stereo
+#EXTINF:-1,Jogja_Family_100.9_FM
+400 http://usa.jogjastreamers.com:8000/jogjafamilystereo
+#EXTINF:-1,Radio_Elshinta
+http://202.137.4.147:8000/stream/1
+#EXTINF:-1,Radio_Muslim
+http://live.radiomuslim.com/stream/1
+#EXTINF:-1,Indika_FM_91.6
+http://103.16.199.47:9160/stream/1
+#EXTINF:-1,Bens_Radio_106.2
+http://175.103.58.72:8000/stream/1
+#EXTINF:-1,Radio_Resa_FM
+http://s3.vinhostmedia.com:9690/stream/1
+#EXTINF:-1,Radio_Elgangga_100.3_FM_Bekasi
+http://103.28.148.18:8174/stream/1
+#EXTINF:-1,Radio_Berita_Klasik_AM_828
+http://103.28.148.18:9030/stream/1
+#EXTINF:-1,Radio_Duta_FM
+http://i.klikhost.net:8690/stream/1
+#EXTINF:-1,Trendy_93.6_FM_Manado
+http://103.28.148.18:8018/stream/1
+#EXTINF:-1,Flamboyan_99.6_FM_Karawang
+http://103.28.148.18:8236/stream/1
+#EXTINF:-1,Radio_Online_Sulita
+http://198.178.123.8:7082/stream/1
+#EXTINF:-1,Autoradio_88.9_FM_Bandung
+http://103.28.148.18:8870/stream/1
+#EXTINF:-1,Menara_FM
+http://server.menara-fm.com:10280/menarafmbali
+#EXTINF:-1,In_Radio_97.6_FM
+https://c4.siar.us:8029/stream
+#EXTINF:-1,RRI_Pro_3
+https://cdnpro3.rri.co.id/web-kbrn.mp3
+#EXTINF:-1,102.7_MTB_FM_Surabaya
+200 https://mtbfm-radio.wow.net.id:8111/
+#EXTINF:-1,Radio_Peduli_96.9_FM
+302 https://node-16.zeno.fm/zkzf6x69gfhvv
+#EXTINF:-1,Al_Hidayah_FM
+http://ns3.indonesiastreaming.com:8000/alhidayah
+#EXTINF:-1,Radio_GSM_98.8_FM
+http://live.syaria.net:9982/stream.nsv
+#EXTINF:-1,CJDW_FM
+400 http://usa.jogjastreamers.com:8000/cjdwstereo
+#EXTINF:-1,Us_Radio_107.8FM
+200 http://45.32.103.238:8043/live
+#EXTINF:-1,SQ_Radio_Pangkalpinang
+http://streaming.hostgila.com:8080/
+#EXTINF:-1,Radio_AR_Bali
+404 https://live.radioarbali.com:8450/radioar
+#EXTINF:-1,Radio_Andy
+302 https://node-29.zeno.fm/w6tqbtdvt4zuv
+#EXTINF:-1,M_Radio_98.8
+http://s9.viastreaming.net:9055/
+#EXTINF:-1,Big_90’s
+302 https://node-26.zeno.fm/qmqe8k5e74zuv
+#EXTINF:-1,GCD_FM
+400 http://usa.jogjastreamers.com:8000/gcdstereo
+#EXTINF:-1,100.8_Insania_FM_Makassar
+404 https://streamingv2.shoutcast.com/1008-insania-fm-makassar
+#EXTINF:-1,FM_Bandung_MQ
+http://streaming.mqfmnetwork.com:8300/stream.nsv
+#EXTINF:-1,Pondok_Curhat
+200 http://45.64.97.82:8239/stream/
+#EXTINF:-1,Metta_FM_Solo
+http://c1.siar.us:10136/stream
+#EXTINF:-1,94.1_Salsabila_FM
+302 https://node-11.zeno.fm/9r24durvsa0uv
+#EXTINF:-1,Radio_Sushi_FM
+https://stream2.jejestreaming.com:9200/stream
+#EXTINF:-1,Radio_Key
+http://streaming.listenkeyradio.com:8190/radiokey
+#EXTINF:-1,Hang_FM
+http://185.47.62.52:8000/http://185.47.62.52:8000
+#EXTINF:-1,Dengerin_Musik_Indonesia
+200 https://radione.top:8888/dmi
+#EXTINF:-1,Genta_Bali_FM_96.1
+200 http://stream.werdimedia.com:8200/
+#EXTINF:-1,Rama_99.4_FM_Cianjur
+http://rama-cianjur.simaya.net.id:1250/
+#EXTINF:-1,Radio_Trangkil-FM_Temboro
+http://103.28.148.18:8228/
+#EXTINF:-1,Gen_FM
+https://wow4.mahakaradiointegra.com:1936/web_genfm/genfm/chunklist_w1065472016.m3u8
+#EXTINF:-1,D_News_Radio
+404 https://s3.alhastream.com/radio/8110/radio
+#EXTINF:-1,Kis_FM_Semarang
+200 http://i.klikhost.com:8070/
+#EXTINF:-1,Rain_City_Radio_ID
+200 http://live.serverstreaming.net:8008/livestream
+#EXTINF:-1,RASI_FM
+200 http://rasifm.onlivestreaming.net:9060/live
+#EXTINF:-1,Classy_103.4_FM
+200 http://classyfm.onlivestreaming.net:1034/
+#EXTINF:-1,Sawahlunto_FM
+https://stream2.jejestreaming.com:8050/stream
+#EXTINF:-1,GTA_Radio
+302 https://node-34.zeno.fm/qe1hrwvkg48uv
+#EXTINF:-1,An_Nashihah_2
+401 http://streaming2.an-nashihah.com:9988/
+#EXTINF:-1,Krakatau_Radio
+http://cloud.masrival.com:8200/stream.nsv
+#EXTINF:-1,Toss_FM
+http://streaming.tossfm.com:8078/
+#EXTINF:-1,Prambors_FM
+404 https://rust.mrngroup.co/listen/prambors/prambors
+#EXTINF:-1,HOT_93.2_FM
+https://wow2.mari.co.id:1936/mari/hotfm/playlist.m3u8
+#EXTINF:-1,BBM_FM
+405 http://ample-zeno-12.radiojar.com/kchb1gp3a1duv
+#EXTINF:-1,Radio_Cosmo
+200 http://scg.streamingmurah.com:8074/stream
+#EXTINF:-1,94.8_FM_Bandung
+http://202.137.4.147:8050/
+#EXTINF:-1,Radio_Swara_Koncotani
+http://r5.siar.us:8711/stream
+#EXTINF:-1,HMM_Radio
+http://111.68.116.107:9996/
+#EXTINF:-1,Rock_Rewind
+302 https://node-01.zeno.fm/u18tuaphwzzuv.aac
+#EXTINF:-1,Suara_As’adiyah
+200 http://id.radioimzers.com:1032/stream.nsv
+#EXTINF:-1,Suzana_FM
+200 http://streaming.suzanafm.com:8000/
+#EXTINF:-1,Kis_Rock
+302 https://node-26.zeno.fm/2nbxgbynb18uv
+#EXTINF:-1,Indika_FM
+https://s2.radio.co/sf58a82d7d/listen
+#EXTINF:-1,Radio_Masa_Kini
+http://rmk.baitussubhan.com:8066/rmk
+#EXTINF:-1,Jakarta_Today’s_Hits_Radio
+302 https://node-08.zeno.fm/4m7xu3s6e3quv
+#EXTINF:-1,Delta_FM_Indonesia
+404 https://rust.mrngroup.co/listen/delta_fm/delta
+#EXTINF:-1,Elgangga_FM
+http://103.28.148.18:8174/
+#EXTINF:-1,Ta_Radio_103.5
+200 http://taradio.onlivestreaming.net:10350/stream
+#EXTINF:-1,Jibril_Radio
+http://45.64.98.181:8246/stream
+#EXTINF:-1,DBS_FM_101.9
+200 http://i.klikhost.com:8612/
+#EXTINF:-1,Radio_Perkasa_FM
+http://51.79.18.86:8082/
+#EXTINF:-1,Istana_FM
+http://stream.suararadio.com:8000/ternate_istanafm_stereo
+#EXTINF:-1,MS_TRI_FM
+http://mstrifm.onlivestreaming.net:1042/
+#EXTINF:-1,Smart_FM_Jakarta
+404 https://streamingv2.shoutcast.com/smart-jakarta
+#EXTINF:-1,Radio_SiFM
+200 http://i.klikhost.net:8184/stream.nsv
+#EXTINF:-1,FBI_FM
+http://server.fbifm.com:9180/fbibaliradio
+#EXTINF:-1,IGA_Radio
+http://ns3.indonesiastreaming.com:8000/igaradio
+#EXTINF:-1,Momea_FM
+200 http://45.64.97.82:8133/
+#EXTINF:-1,1921_Bali_Headbanger
+302 http://stream.zeno.fm/h5akw5vnsp8uv
+#EXTINF:-1,Kiss_FM_Indonesia
+302 https://node-18.zeno.fm/pcwybgat34zuv
+#EXTINF:-1,Radio_Purbowangi_FM_Gombong
+200 http://u.klikhost.net:7130/stream.nsv
+#EXTINF:-1,MFM_Radio_Malang
+http://202.164.223.22:8222/
+#EXTINF:-1,Radio_Yadara_FM
+404 http://yadarafm.onlivestreaming.net:9280/stream
+#EXTINF:-1,MRadio
+http://s9.viastreaming.net:9055/stream.mp3
+#EXTINF:-1,Circle_Radio
+302 http://node-20.zeno.fm/4965b1aw868uv
+#EXTINF:-1,Cosmopolitan_FM_90.4
+404 https://n08.radiojar.com/u7d8heq3bnzuv.mp3
+#EXTINF:-1,Arbes_FM
+400 http://161.97.175.204:8000/live
+#EXTINF:-1,Harmony_FM_Serang
+404 https://c1.siar.us/radio/8270/stream
+#EXTINF:-1,R_Radio_89.5_FM
+200 http://u.klikhost.com:8000/rradio
+#EXTINF:-1,One_FM_Garut
+302 https://node-35.zeno.fm/kt0ud2kkb8zuv
+#EXTINF:-1,A_Radio_945_FM
+400 http://svara-stream.radioddns.net:8000/purwakarta_aradio
+#EXTINF:-1,Dakwah_Sunnah
+http://live.dakwahsunnah.com/stream.mp3
+#EXTINF:-1,Z_99.9_FM
+https://svara-stream.radioddns.net:8443/jakarta_z999fm_aac
+#EXTINF:-1,Fajri_FM_99.3
+https://live.radioislam.online:7000/
+#EXTINF:-1,Rau_FM_105.0
+https://svara-stream.radioddns.net:8443/sidempuan_raufm
+#EXTINF:-1,K-Radio_Indonesia
+http://s3.free-shoutcast.com:18048/
+#EXTINF:-1,103.4_Insania_FM_Palu
+404 https://streamingv2.shoutcast.com/1034-insania-fm-palu
+#EXTINF:-1,Angling_Darma_FM
+http://freeus4.listen2myradio.com:5797/stream
+#EXTINF:-1,Vice_City_FM
+302 https://node-21.zeno.fm/5349gzgeyzzuv
+#EXTINF:-1,Radio_Samhan
+http://live.samhanradio.com:8090/
+#EXTINF:-1,iRadio_FM
+https://ample-05.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1,Delta_FM_Semarang
+http://live.deltafm.net:9002/type=mp3
+#EXTINF:-1,Lite_FM_Jakarta
+302 https://node-03.zeno.fm/rqdartkqu4zuv
+#EXTINF:-1,Radio_Suara_Kudus
+http://94.237.2.248:8025/stream
+#EXTINF:-1,Radio_Airmen_FM_107.9
+200 https://void.idserverhost.com:8024/
+#EXTINF:-1,EL_JOHN_102.6_FM
+302 https://stream-48.zeno.fm/kyaeh3a6sm0uv
+#EXTINF:-1,Jeje_Radio
+http://123.108.15.7:8000/
+#EXTINF:-1,Walisongo_FM
+404 http://walisongofm.id.myradio.web.id:8888/walisongofm
+#EXTINF:-1,ADS_Radio
+http://175.103.56.9:8009/
+#EXTINF:-1,Global_Radio_Jakarta
+200 http://202.147.199.98/
+#EXTINF:-1,ESCO_FM
+302 http://node-35.zeno.fm/0mqfeyt2098uv
+#EXTINF:-1,Radio_Singaraja_FM
+http://ns3.indonesiastreaming.com:8000/singaraja
+#EXTINF:-1,Radio_Sonata_Bandung
+200 http://45.64.97.82:8072/
+#EXTINF:-1,Elfara_FM
+400 http://207.244.251.202:8300/stream.mp3
+#EXTINF:-1,MBS_92.70_FM
+http://live.mbsfm.com:7000/airtime_128
+#EXTINF:-1,Radio_Swara_Kenanga_Purworejo
+http://202.65.114.229:9998/
+#EXTINF:-1,Radio_Indonesia
+http://202.137.4.147:8000/
+#EXTINF:-1,Reksa_Radio
+https://freeus5.listen2myradio.com/live.mp3?typeportmount=s2_19514_stream
+#EXTINF:-1,Hard_Rock_87.6_Jakarta
+404 https://n01.radiojar.com/7csmg90fuqruv.mp3
+#EXTINF:-1,Radio_MSR_FM
+404 https://stream.zeno.fm/8fdan6xuc6quv
+#EXTINF:-1,96.4_Bobotoh_FM
+http://103.28.148.18:8182/
+#EXTINF:-1,ACTARI_FM_CIAMIS
+http://stream.suararadio.com:8000/ciamis_actarifm_mp3
+#EXTINF:-1,Radio_Swara_Semarang
+200 https://server.radioimeldafm.co.id/radio/8010/swarasemarang
+#EXTINF:-1,Radio_DMS_Ambon
+http://live2.indostreamserver.com:8130/stream
+#EXTINF:-1,The_Beat_Radio_Bali
+200 https://c1.siar.us/radio/8030/stream
+#EXTINF:-1,Mom_and_Kids_Radio
+502 https://ssg.streamingmurah.com:8038/stream
+#EXTINF:-1,Paramita_FM
+http://s5.alhastream.com/radio/8210/radio
+#EXTINF:-1,Merdeka_106.7_FM
+200 http://streaming.merdekafm.com:8020/stream.nsv
+#EXTINF:-1,Joss_FM_92.7
+200 http://play.xajist.com:8198/stream
+#EXTINF:-1,Kharisma_FM_Pare_Kediri
+200 http://stream.kharismafm.com:9550/kharismafm
+#EXTINF:-1,Audi
+http://live.indostreamserver.com:8068/
+#EXTINF:-1,RKC_FM
+302 http://node-17.zeno.fm/ct82h2kkb8zuv
+#EXTINF:-1,Mix_Radio_92.9_FM
+http://simayaradio.com:9980/
+#EXTINF:-1,IBC_FM_101.6
+http://175.103.49.104:8000
+#EXTINF:-1,Radio_Megaswara_Kulonprogo
+http://203.30.236.2:9382/stream.mp3
+#EXTINF:-1,Bogel_Stream
+200 http://streaming.classynetradio.com:8020/BogelHD
+#EXTINF:-1,Radio_Patria_FM
+http://radiopatria.net:8000/live
+#EXTINF:-1,Rama_FM_Sukabumi
+http://rama-sukabumi.simaya.net.id:1240/
+#EXTINF:-1,Medan_FM
+http://live.medanfm.id:9630/
+#EXTINF:-1,Wiskarradio
+401 http://202.65.114.229:9320/
+#EXTINF:-1,95.5_RASfm_Jakarta
+200 https://i.klikhost.com/9006/stream
+#EXTINF:-1,Delstar_Radio
+http://109.169.37.137:9782/
+#EXTINF:-1,Imelda_FM
+502 https://server.radioimeldafm.co.id/radio/8000/imeldafm
+#EXTINF:-1,RADIO_HARBOSFM_PATI
+http://78.129.185.84:10510/stream.nsv
+#EXTINF:-1,IMC_Radio
+http://jvhost.net:8021/live
+#EXTINF:-1,Radio_Suara_Salatiga
+https://icecast.salatiga.go.id:8443/stream.ogg
+#EXTINF:-1,Madura_FM
+http://stream.suararadio.com:8000/pamekasan_madurafm_stereo
+#EXTINF:-1,Solo_Radio_92.9
+400 http://usa.jogjastreamers.com:8000/soloradio151515stereo
+#EXTINF:-1,OZ_RADIO_BANDA_ACEH
+http://103.29.215.230:9968/stream.nsv
+#EXTINF:-1,Simfoni_FM
+200 https://i.klikhost.com/9160/radio.mp3
+#EXTINF:-1,Bali_United_FM
+200 http://sgp1.onlivestreaming.net:10690/stream
+#EXTINF:-1,Pimbes_Radio
+200 http://sv.stri.my.id/radio/8030/radio
+#EXTINF:-1,RH_56_Radio
+https://live2.indostreamserver.com/8002/stream
+#EXTINF:-1,LPPL_Radio_Gagak_Rimang
+http://180.214.248.14:8000/garim.mp3
+#EXTINF:-1,MGT_RADIO
+400 http://stream.radbdg.net:8000/mgtradio.mp3
+#EXTINF:-1,Radio_Kanza_FM
+404 http://s4.vinhostmedia.com:8000/stream
+#EXTINF:-1,AXR_Asia_Expat_Radio_Jakarta
+403 https://22253.live.streamtheworld.com/AXR_JAKARTA.mp3
+#EXTINF:-1,Kiss_FM_Hits_Indonesia
+302 http://node-22.zeno.fm/ckvbxvgf2k0uv
+#EXTINF:-1,KISI_FM
+200 http://live.serverstreaming.net:9340/kisifm
+#EXTINF:-1,Trendy_FM_Manado
+200 https://i.klikhost.com/8018/super.mp3
+#EXTINF:-1,Rewako_FM
+200 https://freeuk18.listen2myradio.com/live.mp3
+#EXTINF:-1,Petra_FM_Jogja
+400 http://petrafmjogja.ddns.net:8000/stream.aac
+#EXTINF:-1,Bellasalam_FM
+200 http://listen.bellasalamfm.com:8760/
+#EXTINF:-1,INDIEBDGMUSIC
+200 http://i18.klikhost.net:8198/radio.mp3
+#EXTINF:-1,Radio_Wisata
+200 http://radiowisata.onlivestreaming.net:9889/stream
+#EXTINF:-1,Rapma_FM
+404 https://c2.siar.us:9999/stream
+#EXTINF:-1,El_Shaddai_FM
+200 http://shaddai.onlivestreaming.net:9130/live
+#EXTINF:-1,Brava_103.8_FM
+http://ample-08.radiojar.com/5k7t0rq3bnzuv.mp3
+#EXTINF:-1,K_Lite_FM_107.1
+http://stream.suararadio.com:8000/bandung_klitefm_mp3
+#EXTINF:-1,Radio_Istana_Blitar
+http://prssnijatim.onlivestreaming.net:8888/stream
+#EXTINF:-1,Loker_Musik
+200 https://stream.lokermusik.com:8420/lokermusik
+#EXTINF:-1,Nada_FM_107.8_FM
+302 http://listen.radionomy.com/jamendolounge
+#EXTINF:-1,Mandalika_FM_Lombok
+200 http://live.mandalikafmlombok.com:8038/
+#EXTINF:-1,Style_Radio_Tasikmalaya
+400 http://stream.stylefmtasik.com:9460/stream
+#EXTINF:-1,Isy_Karima_Radio
+http://104.236.66.148:8300/
+#EXTINF:-1,Nuansa_Radio_Bojonegoro
+200 http://i.klikhost.net:7162/
+#EXTINF:-1,Mega_FM_Bali
+401 http://i.klikhost.net:8196/
+#EXTINF:-1,Strato_FM
+http://streaming.stratofm.com:8300/
+#EXTINF:-1,Elshifa_Radio_Subang
+400 http://svara-stream.radioddns.net:8000/subang_elshifa_mp3
+#EXTINF:-1,Ananda_Radio
+http://anandaradio.langgammutiara.com/radio/8220/radio
+#EXTINF:-1,Pass_FM_Bandung
+404 https://node-15.zeno.fm/xt3w4uzfsv8uv
+#EXTINF:-1,Amatron_3_FM
+200 http://51.79.167.17:7026/stream.mp3
+#EXTINF:-1,De_Britpop_Radio_Playlist
+302 https://node-33.zeno.fm/1gz1myqfvbruv
+#EXTINF:-1,Top_FM_95.1
+200 http://streaming.topfm951.net:9510/
+#EXTINF:-1,Radio_DMS
+http://live2.indostreamserver.com:8130/
+#EXTINF:-1,Radio_RESA_FM_Tulungagung
+302 https://stream-11.zeno.fm/954yxsx00ehvv
+#EXTINF:-1,Radio_SJFM_Juwana
+http://103.28.148.18:9014/
+#EXTINF:-1,LG_Radio
+200 http://live.lgradio.net:8076/stream.nsv
+#EXTINF:-1,TOPFM_Semarang
+http://server-by.antoners.com:8020/topfm
+#EXTINF:-1,Trend_Digital_Radio
+https://ig.tokostreaming.com/radio/8010/stream
+#EXTINF:-1,J_Radio_91.7_FM
+http://69.172.211.122:9170/
+#EXTINF:-1,Prima_Broadcastation_Radio
+401 http://sci.streamingmurah.com:9797/stream

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,redrap
+200 http://redrap.stream.laut.fm/redrap
+#EXTINF:-1,unitedradio
+200 http://unitedradio.stream.laut.fm/unitedradio
+#EXTINF:-1,viceradiode
+200 http://viceradiode.stream.laut.fm/viceradiode
+#EXTINF:-1,templeofpoetz
+200 http://templeofpoetz.stream.laut.fm/templeofpoetz
+#EXTINF:-1,tsradiode
+200 http://tsradiode.stream.laut.fm/tsradiode
+#EXTINF:-1,woolmc
+200 http://woolmc.stream.laut.fm/woolmc
+#EXTINF:-1,Kedah_FM
+https://kedahfmmobile.secureswiftcontent.com/rtm-ch031/rtm-ch031/chunklist.m3u8
+#EXTINF:-1,Defjay_Radio
+301 http://tuner.defjay.com:80/
+#EXTINF:-1,Hot_108
+200 http://hot108jamz.hot108.com:4040

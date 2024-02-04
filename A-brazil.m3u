@@ -1,0 +1,1001 @@
+#EXTM3U
+#EXTINF:-1,Rádio_Cruzeiro
+200 http://suaradio2.dyndns.ws:10534/stream
+#EXTINF:-1,Rádio_Vitoriosa_Alto_Paranaiba
+http://142.54.174.10:9390/
+#EXTINF:-1,102.3
+200 http://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/playlist.m3u8
+#EXTINF:-1,Tribuna_AM
+http://cast.midiaip.com.br:6590/1
+#EXTINF:-1,Rádio_Novo_Tempo
+200 http://stream.live.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u8
+#EXTINF:-1,BH_FM
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1,Rádio_Estadão
+405 https://estadaohls-lh.akamaihd.net/i/estadaohls_1@301351/master.m3u8
+#EXTINF:-1,Radio_Gaúcha_Serra
+200 https://1162747t.ha.azioncdn.net/primary/gau_serra.sdp/playlist.m3u8
+#EXTINF:-1,Radio_Gaúcha_Santa_Maria
+200 https://1172747t.ha.azioncdn.net/primary/gau_centro.sdp/playlist.m3u8
+#EXTINF:-1,Radio_Gaúcha_Zona_Sul
+200 http://1152747t.ha.azioncdn.net/primary/gau_zs.sdp/playlist.m3u8
+#EXTINF:-1,Radio_Gaúcha_Porto_Alegre
+200 http://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1,Rádio_Atlântida
+200 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1,Antena_1
+200 http://antena1.newradio.it/stream
+#EXTINF:-1,Jovem_Pan_FM
+403 http://18493.live.streamtheworld.com/JP_SP_FMAAC.aac
+#EXTINF:-1,Classic_Pan
+401 http://ingest1sc.cdn.upx.com:8032/stream
+#EXTINF:-1,Jovem_Pan_News
+http://17483.live.streamtheworld.com/JP_NEWSAAC.aac
+#EXTINF:-1,Jovem_Pan_MPB
+401 http://ingest1sc.cdn.upx.com:8034/stream
+#EXTINF:-1,Rádio_Pajuçara_Maceió
+200 https://slrp.sambavideos.sambatech.com/radio/pajucara4_7fbed8aac5d5d915877e6ec61e3cf0db/livestream/chunklist.m3u8
+#EXTINF:-1,Rádio_Aparecida
+http://caikron.com.br:7020/stream.aac
+#EXTINF:-1,Liberal_FM
+200 http://177.105.192.70:9750/liberalfm.mp3
+#EXTINF:-1,Super_Rádio_Tupi
+301 https://wowza.tupi.fm/live/_definst_/tupi-estudio-audio06/playlist.m3u8
+#EXTINF:-1,Rádio_Verdes_Mares
+200 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
+#EXTINF:-1,Cultura_FM
+https://tvcultura.com.br/_radio/streaming.php?radio=fm
+#EXTINF:-1,Rádio_Cultura_Brasil
+https://tvcultura.com.br/_radio/streaming.php?radio=am
+#EXTINF:-1,Rádio_Clube_do_Pará
+200 http://ice01.kshost.com.br:8000/live
+#EXTINF:-1,Super_Rádio_Brasília_1210_AM
+200 http://shout35.crossradio.com.br:8034/1.aac
+#EXTINF:-1,Super_Rede_Boa_Vontade_550_AM
+401 http://shout35.crossradio.com.br:8036/1.aac
+#EXTINF:-1,Super_Rede_Boa_Vontade_1300_AM
+http://shout35.crossradio.com.br:8030/1.aac
+#EXTINF:-1,Super_Rede_Boa_Vontade_1210_AM
+401 http://shout35.crossradio.com.br:8026/1.aac
+#EXTINF:-1,Estação_FM
+400 http://audio1.cmaudioevideo.com:8150/stream
+#EXTINF:-1,Rádio_Guaíba
+200 https://cast4.audiostream.com.br:2007/site
+#EXTINF:-1,Feliz_FM
+400 http://5940.live.upx.net.br:9082/stream
+#EXTINF:-1,Paraná_Educativa_AM
+400 http://200.189.113.201/stream/educativaam.mp3
+#EXTINF:-1,Paraná_Educativa_FM
+400 http://200.189.113.201/stream/educativafm.mp3
+#EXTINF:-1,Fonte_FM
+https://st-fonte.redefonte.com/audio.mp3
+#EXTINF:-1,Hits_Radio_de_Cáceres
+400 https://centova.svdns.com.br:20113/stream?type=.mp3
+#EXTINF:-1,Hits_Radio_de_Araguaia
+400 https://centova.svdns.com.br:20114/stream?type=.mp3
+#EXTINF:-1,Hits_Radio_Sourire
+400 https://centova.svdns.com.br:20112/stream?type=.mp3
+#EXTINF:-1,Radio_Hits_Rondonópolis
+400 https://centova.svdns.com.br:20111/stream?type=.mp3
+#EXTINF:-1,Rádio_Easy_Cuiabá
+400 https://centova.svdns.com.br:20109/stream?type=.mp3
+#EXTINF:-1,Gospel_FM_90.1
+200 http://shoutcast2.s12.com.br:16000/stream.nsv&amptype=mp3
+#EXTINF:-1,FM_Super_94.5
+http://cast.midiaip.com.br:10003/1
+#EXTINF:-1,FM_Super_101.9
+http://cast.midiaip.com.br:6092/1
+#EXTINF:-1,GFM_90.1
+400 http://r6.ciclano.io:10009/stream
+#EXTINF:-1,Rádio_Mania
+200 http://shout35.crossradio.com.br:8086/1/
+#EXTINF:-1,Rádio_99.5_FM_Brazil
+404 https://5a1c76baf08c0.streamlock.net/serradourada/stream/playlist.m3u8
+#EXTINF:-1,Super_FM
+http://95.217.75.38:9962/
+#EXTINF:-1,Rádio_Inconfidência_AM
+200 http://195.201.112.14:9020/
+#EXTINF:-1,Rádio_107_FM
+http://stream.izap.com.br:443/107fm
+#EXTINF:-1,Rádio_Cidade_FM_99.3
+200 http://server2.webradios.com.br:9168/
+#EXTINF:-1,Plus_FM_Brazil
+http://198.24.156.115:9300/stream
+#EXTINF:-1,FM_Cidade_97
+http://autodj.com.br:9978/
+#EXTINF:-1,Grande_Rio_FM
+200 http://shout35.crossradio.com.br:8058/stream
+#EXTINF:-1,Itapoan_FM
+http://streaming.livecenter.com.br:9300/stream/1
+#EXTINF:-1,Rádio_Liderança
+http://webfrequencia.com.br:9510/
+#EXTINF:-1,Educadora_FM
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/audio/audio.m3u8
+#EXTINF:-1,Rádio_Difusora_Pai_Eterno
+http://173.44.38.31:9112/stream.mp3
+#EXTINF:-1,Boa_Vista_FM
+200 http://wz3.dnip.com.br/sc_boavi/sc_boavi.stream/playlist.m3u8
+#EXTINF:-1,Gazeta_FM_Cuiaba
+200 http://wz4.dnip.com.br/gazetacuiabahd/gazetacuiabahd.stream/playlist.m3u8
+#EXTINF:-1,Brasileira_Sat
+http://webfrequencia.com.br:8080/stream
+#EXTINF:-1,Xodó_FM_Aracaju
+404 https://08.stmip.net/player.php?porta=9034&amp1564613420008
+#EXTINF:-1,Rede_Serra_Dourada_Caiapônia
+404 https://5a1c76baf08c0.streamlock.net/rgoiania/stream/playlist.m3u8
+#EXTINF:-1,Rede_Serra_Dourada_São_Miguel_do_Araguaia
+200 https://5a1c76baf08c0.streamlock.net/rsmda/stream/playlist.m3u8
+#EXTINF:-1,Rádio_Gospel_Hits
+http://hts01.kshost.com.br:8836/live
+#EXTINF:-1,Tribuna_FM
+http://cast.midiaip.com.br:6060/1
+#EXTINF:-1,013_FM_100.7
+http://r16.ciclano.io:9036/stream
+#EXTINF:-1,104_(Porto_Alegre)
+200 http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:-1,104FM_Parnamirim_-_RN
+http://cast42.sitehosting.com.br:8878/
+#EXTINF:-1,105_FM_-_É_só_alegria!
+https://appradio.app:8010//live
+#EXTINF:-1,107_FM_Tatuí
+405 https://ice.fabricahost.com.br/107fm
+#EXTINF:-1,107,5_UniversitáriaFM_-_UFU
+http://webradio.dr.ufu.br:8000/live
+#EXTINF:-1,107.5_Educadora_FM
+400 https://streaming.educadora.irdeb.ba.gov.br/stream-01
+#EXTINF:-1,8_FM
+https://centova.svdns.com.br:2508/stream
+#EXTINF:-1,89_A_Radio_Rock
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
+#EXTINF:-1,89_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac
+#EXTINF:-1,89_Goiânia
+405 https://ice.fabricahost.com.br/89aradiorockgo
+#EXTINF:-1,89FM_Joinville
+301 https://stream.loopert.com/stream/12
+#EXTINF:-1,91_Rock_-_Curitiba_(web)
+200 http://servidor40.brlogic.com:8044/live
+#EXTINF:-1,91.9_FM_|_Rádio_Udesc_FM_Joinville
+200 https://cast.youngtech.radio.br/radio/8410/radio
+#EXTINF:-1,92_FM_(Porto_Alegre)
+200 https://1592747t.ha.azioncdn.net/primary/92fm.sdp/playlist.m3u8
+#EXTINF:-1,93,3_FM_(Barbacena_MG)
+200 https://sws.onradio.biz/8126/stream
+#EXTINF:-1,94_FM_CORDEIRO-RJ
+200 http://s17.hstbr.net:8040/live?1601949995965
+#EXTINF:-1,94FM_Bauru
+https://centova.svdns.com.br:20148/stream
+#EXTINF:-1,96_Fm_Arapiraca
+200 http://96fmarapiraca.com.br:9300/
+#EXTINF:-1,A_Tarde_FM_103,9
+400 http://sh.upx.com.br:8120/
+#EXTINF:-1,A_Voz_da_Cura_Divina
+https://player-ssl.kshost.com.br:12802/live
+#EXTINF:-1,Aliança_Fm
+200 https://server01.srvsh.com.br:13788/stream
+#EXTINF:-1,Almenara_FM
+200 http://serv2.audiovox.pw:6794/?type=http\u0026nocache=42
+#EXTINF:-1,Alpha_FM_101.7
+403 https://14613.live.streamtheworld.com/RADIO_ALPHAFM_ADP.aac?dist=site-alphafm
+#EXTINF:-1,Alpha_FM_101.7_MHz_(São_Paulo_-_SP)
+403 https://26583.live.streamtheworld.com/RADIO_ALPHAFM_ADP.aac
+#EXTINF:-1,Alpha_FM_102.1_MHz_(Goiânia_-_GO)
+405 https://ice.fabricahost.com.br/alphafm1021
+#EXTINF:-1,Alpha_FM_SC
+200 https://26653.live.streamtheworld.com/RADIO_ALPHAFM_SC
+#EXTINF:-1,Alpha_MPB
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/ALPHAMPBAAC.aac
+#EXTINF:-1,Altaneira_FM
+200 https://ssl.hdradios.net:15652/
+#EXTINF:-1,Alternativa_Livre
+302 http://stream.zeno.fm/588dt1kykd0uv
+#EXTINF:-1,Alvorada_FM_106.3_Londrina
+404 http://stm01.virtualcast.com.br:8336/live
+#EXTINF:-1,AM_810_Verdinha_(Rádio_Verdes_Mares)
+200 http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w1735907665.m3u8
+#EXTINF:-1,Amazon_Gospel
+200 http://directradios.net:8197/
+#EXTINF:-1,América_Dance_90's
+401 http://stm8.srvstm.com:8212/
+#EXTINF:-1,Amigos_de_Cristo_Web_Rádio
+200 http://sv14.hdradios.net:6860/?type=http\u0026nocache=38
+#EXTINF:-1,Amor_FM
+200 https://r10.ciclano.io:15067/stream
+#EXTINF:-1,Antena_1__-_Porto_Alegre
+200 https://antenaone.crossradio.com.br/stream/1
+#EXTINF:-1,Antena_1_FM_103.7_Rio_de_Janeiro
+200 http://a1rj.streams.com.br:7801/stream
+#EXTINF:-1,Antena_1_Rio_de_Janeiro,_RJ_(ZYD_463,_103,7_MHz_FM)
+200 http://a1rj.streams.com.br:7801/sm
+#EXTINF:-1,Antena_1_São_Paulo,_SP_(ZYD823_94,7_MHz_FM)_[aac]
+200 http://antena1.newradio.it/stream?ext=.mp3
+#EXTINF:-1,Antena_RG
+http://74.63.250.84:8132/live
+#EXTINF:-1,AntenAMetal
+https://servidor18-5.brlogic.com:8124/live
+#EXTINF:-1,antenARebel
+https://servidor15-3.brlogic.com:7740/live
+#EXTINF:-1,antenAZero
+200 https://servidor26-4.brlogic.com:8006/live
+#EXTINF:-1,ApaBossaJazz
+200 http://centova2.ipstm.net:9317/stream
+#EXTINF:-1,Arcanos_Web_Rock
+http://s01.transmissaodigital.com:6750/
+#EXTINF:-1,Arco_da_velha
+302 http://stream.zeno.fm/ndvs4y5wef9uv
+#EXTINF:-1,ari_somente_bandas
+200 https://www.radios.com.br/play/playlist/27268/listen-radio.m3u
+#EXTINF:-1,ASMR_ON_LGBT
+404 https://stream.zeno.fm/47ykhbg3h18uv
+#EXTINF:-1,Assembléia_de_Deus
+200 https://ec2.yesstreaming.net:3925/stream
+#EXTINF:-1,Ativa_FM
+502 https://casthttps1.suaradionanet.net/10012/stream
+#EXTINF:-1,Atividade_Espírita
+200 http://streaming31.hstbr.net:8230/live
+#EXTINF:-1,Atlântico_Sul_FM_105.7_Fortaleza
+http://142.44.230.74:9026/stream
+#EXTINF:-1,Atlántida
+200 https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1,Atlântida_(Santa_Maria)
+200 http://222747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_sma.sdp/playlist.m3u8
+#EXTINF:-1,Atlântida_Blumenau
+404 http://147809y.ha.azioncdn.net/primary/atl_blu.sdp/chunklist_9eaf4d91-089a-436b-a636-9b715ea7a68b.m3u8
+#EXTINF:-1,Atlântida_Florianópolis
+404 https://167809y.ha.azioncdn.net/primary/atl_fln.sdp/chunklist_24c05c70-6fc8-4989-971a-2e6a9fbf742c.m3u8
+#EXTINF:-1,Audiogrooves_Nu_Vibes
+400 http://soul.audiogrooves.net/nu-vibes.aac
+#EXTINF:-1,Audiogrooves_Soul_Channel
+400 http://soul.audiogrooves.net/soul.aac
+#EXTINF:-1,Audiogrooves_Soul_Unmixed
+400 http://soul.audiogrooves.net/soul-unmixed.mp3
+#EXTINF:-1,Avenida_(Erval_Seco)
+404 https://servidor32-5.brlogic.com:8330/live
+#EXTINF:-1,Ayoba_FM_97,7
+405 https://ice.fabricahost.com.br/ayobafm
+#EXTINF:-1,Bahia_FM_88.7
+400 http://r13.ciclano.io:8903/stream
+#EXTINF:-1,Ban_FM
+400 http://69.64.46.159:8000/banfm?1583625208200
+#EXTINF:-1,BandNews_BH
+200 https://cdn-web.tunein.com/assets/media/blank.mp3
+#EXTINF:-1,BandNews_FM_Rio_de_Janeiro_(ZYD_484,_90,3_MHz,_Nilópolis,_RJ)_Band_News
+404 http://57764j.ha.azioncdn.net/7764j/_definst_/bnfmrj.sdp/chunklist.m3u8
+#EXTINF:-1,bandnews_fm_sp
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8
+#EXTINF:-1,Barril_(Frederico_Westphalen)
+http://shoutcast.virtualbit.com.br:8000/
+#EXTINF:-1,bem_gaucho
+https://player-ssl.kshost.com.br:10626/live
+#EXTINF:-1,Bons_Tempos_FM
+200 https://server02.ouvir.radio.br:8050/stream?1609720768800
+#EXTINF:-1,Bossa_Jazz_Brasil
+200 https://centova5.transmissaodigital.com:20104/live
+#EXTINF:-1,BRADO_RADIO
+200 https://servidor17-5.brlogic.com:8300/live
+#EXTINF:-1,Brasil_de_Fato
+200 https://s09.hstbr.net:8238/live?1514038524061
+#EXTINF:-1,Bravo_Web_Rádio_Brasil
+302 http://node-31.zeno.fm/k1m62aqeztzuv?zs=KXk3thZWRgKjylMNjgJJlw\u0026rj-tok=AAABgdsp2O8A0XLfNyPOL2ebYw\u0026rj-ttl=5
+#EXTINF:-1,Caiçara_(Porto_Alegre)
+200 http://cast4.audiostream.com.br:8654/mp3
+#EXTINF:-1,Campina_FM
+400 http://cast61.sitehosting.com.br:9962/live?1583625618600
+#EXTINF:-1,Canaã_FM
+200 http://stream1.svrdedicado.org/8006/stream
+#EXTINF:-1,Canção_Nova_AM_-_Cachoeira_Paulista
+400 http://rdbrasilia-lh.akamaihd.net/i/rdbrasilia_1@190557/master.m3u8
+#EXTINF:-1,Canção_Nova_FM
+400 http://rdfmchp-lh.akamaihd.net/i/rdfmchp_1_0@190586/master.m3u8
+#EXTINF:-1,Cantate_FM
+http://minha.webradio.srv.br:8043/stream
+#EXTINF:-1,Capital_FM_Curitiba__98,3
+404 http://rrdns-continental.webnow.com.br/continental.aac
+#EXTINF:-1,Caraí
+200 http://centova10.ciclanohost.com.br:9236/
+#EXTINF:-1,CBN_97,1
+https://live.ojc.com.br/e9cd_3/myStream.m3u8
+#EXTINF:-1,CBN_BH
+https://medias.sgr.globo.com/hls/aCBNBH/aCBNBH.m3u8
+#EXTINF:-1,CBN_Brasília
+https://medias.sgr.globo.com/hls/aCBNBSB/aCBNBSB.m3u8
+#EXTINF:-1,CBN_Diário_Florianópolis
+404 http://27809y.ha.azioncdn.net/primary/cbn_fln.sdp/playlist.m3u8
+#EXTINF:-1,CBN_Joao_Pessoa_FM_101.7MHz
+200 http://audio.cabobranco.tv.br:8000/cbn
+#EXTINF:-1,CBN_MACEIÓ
+200 http://v3.directradios.com:8229/stream
+#EXTINF:-1,CBN_Recife
+200 https://59f1cbe63db89.streamlock.net:1443/asabrancaradio/_definst_/asabrancaradio/playlist.m3u8
+#EXTINF:-1,CBN_São_Paulo_SP
+https://medias.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
+#EXTINF:-1,CBN_Tocantins
+http://sh.upx.com.br:8158/
+#EXTINF:-1,CBS_(Ibirubá,_RS)
+401 http://sc1.crossdigital.com.br:8232/stream
+#EXTINF:-1,Central_Missões_(São_Luiz_Gonzaga)
+200 http://s1.guaracast.com:8030/stream
+#EXTINF:-1,Cidade_(Ibirubá,_RS)
+http://centova.svdns.com.br:8616/live
+#EXTINF:-1,Cidade_99
+200 http://r10.ciclano.io:9406//listen.pls?sid=1
+#EXTINF:-1,Cidade_Canção_FM
+200 http://148.72.158.239:8012/live
+#EXTINF:-1,Classic_Hits
+https://usa6.fastcast4u.com/proxy/ch247?mp=/classichits
+#EXTINF:-1,Classic_Prime
+https://player-centova.ipstm.net/proxy-full.php?ip=centova10.ipstm.net\u0026port=10033\u0026mount=/stream
+#EXTINF:-1,Clube_FM_99.1
+200 https://radio.saopaulo01.com.br:10913/stream
+#EXTINF:-1,CN
+400 https://rdcuritiba-lh.akamaihd.net/i/rdcuritiba_1@190572/master.m3u8
+#EXTINF:-1,Cnb_campina_grande
+200 http://audio.cabobranco.tv.br:8000/cbncg
+#EXTINF:-1,Contagiante
+http://stm2.srvstm.com:11714/
+#EXTINF:-1,Continental_AM_1120_Porto_Alegre
+200 http://streaming10.hstbr.net:8042/live
+#EXTINF:-1,Continental_FM
+200 http://cast4.audiostream.com.br:8650/mp3
+#EXTINF:-1,Cultura_(Porto_Alegre)
+200 http://streaming.procergs.com.br:1935/fmcultura/sfmcultura/playlist.m3u8
+#EXTINF:-1,Dance_Bem
+200 https://stm18.srvstm.com:6096/?type=http\u0026nocache=1230
+#EXTINF:-1,Diário_FM_-Ribeirão_Preto
+200 https://rrdns-megasistema.webnow.com.br/diario.aac?v=5499
+#EXTINF:-1,Difusora_Bomdespachense
+302 https://ssl.conectastreaming.com:7040/
+#EXTINF:-1,Difusora_FM
+200 https://www.radios.com.br/play/playlist/12592/listen-radio.m3u
+#EXTINF:-1,Difusora_FM_São_João_Nepomuceno_97,3MHz_-
+http://06.atendemidia.com.br:8430/
+#EXTINF:-1,Difusora_Jundiaí
+200 http://shout35.crossradio.com.br:8112/stream?1653871122262
+#EXTINF:-1,Difusora_Manaus_96,9
+200 http://69.16.236.247:9300/mp3
+#EXTINF:-1,Digital_Jazz
+200 http://stm01.virtualcast.com.br:8190/live
+#EXTINF:-1,Diplomata-FM
+200 http://srv01.brasilstream.com.br:9512/stream
+#EXTINF:-1,Dixie_Rebel
+200 https://servidor36.brlogic.com:8572/live
+#EXTINF:-1,DJ_EDUARDO
+302 http://stream.zeno.fm/kcc7svztwd0uv
+#EXTINF:-1,dublab.br
+404 http://n01.radiojar.com/64yv74qzb0quv
+#EXTINF:-1,Dumont_FM
+http://107-182-231-169.webnow.com.br/dumont.mp3
+#EXTINF:-1,Educadora_FM_91.7
+https://cast.hoost.com.br:20027/stream
+#EXTINF:-1,Educativa_Inatel
+http://142.4.217.133:9792/stream
+#EXTINF:-1,EldoPop_FM
+200 http://stm10.srvstm.com:34794/stream
+#EXTINF:-1,Eldorado_FM_-_São_Paulo
+200 https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8
+#EXTINF:-1,ElectroMix_Zone
+404 http://stream.zeno.fm/6ehsprxv5s8uv
+#EXTINF:-1,Emilio_Prime
+401 http://sv13.hdradios.net:7194/
+#EXTINF:-1,Energia_97_FM
+400 http://audio.97fm.com.br/energia
+#EXTINF:-1,Energia_Retrô
+302 http://stream.zeno.fm/qez1mu8dys8uv
+#EXTINF:-1,Energy_FM_Brazil
+301 https://media.energyfm.com.br/stream.mp3
+#EXTINF:-1,Escuta_FM
+200 http://stm3.srvif.com:8054/stream
+#EXTINF:-1,Esoterica.FM_Mantras
+https://radios.esoterica.fm.br/8010/stream
+#EXTINF:-1,Esoterica.FM_New_Age_Brasil
+https://radios.esoterica.fm.br/8002/stream
+#EXTINF:-1,Espacial_FM_-_Pará_de_Minas_105.5_FM
+400 http://paineldj4.com.br:8300/stream.mp3?type=.mp3
+#EXTINF:-1,Estação_POP
+200 https://s46.hstbr.net:8026/live?id=1530746592431
+#EXTINF:-1,Estação_Saudade
+200 https://stream2.svrdedicado.org/8064/stream
+#EXTINF:-1,Estção_FM_89.5
+200 https://play.radio.br:8089/estacaofm/estacaofm/icecast.audio
+#EXTINF:-1,Estilo_FM_92.5
+http://stm24.sateg.com.br:26492/
+#EXTINF:-1,ESTUDIO_FM_FLASH_BACK
+302 http://stream.zeno.fm/f7p7wg20zf8uv
+#EXTINF:-1,ESTUDIO_FM_GOSPEL
+302 http://stream.zeno.fm/94adwcqw7k0uv
+#EXTINF:-1,ESTUDIO_FM_MINISTERIO_JOVEM
+302 http://stream.zeno.fm/duppd1ufqm0uv
+#EXTINF:-1,Excelsion_Gospel
+http://cast.midiaip.com.br:6130/stream
+#EXTINF:-1,Fay_Só_Forró_das_Antigas
+200 https://ssl.xcast.com.br:7132/stremig
+#EXTINF:-1,Felicidade_90.3_FM
+200 http://centova10.ciclanohost.com.br:9230/stream
+#EXTINF:-1,FELIZ_FM_SP
+http://felizfm.sateg.com.br:11520/
+#EXTINF:-1,filhologico
+404 http://stream.zeno.fm/dpcrf16np7zuv
+#EXTINF:-1,Flashback_Internacional
+404 http://stream.zeno.fm/d3mbumgh27zuv
+#EXTINF:-1,FM_PREMIUM
+200 http://cast4.audiostream.com.br:8663/mp3
+#EXTINF:-1,FM_Vale_Verde
+405 https://ice.fabricahost.com.br/fmvaleverde
+#EXTINF:-1,Folha_FM_102,1
+400 http://r13.ciclano.io:8879/live
+#EXTINF:-1,Fortaleza_(Seberi)
+401 http://radioweb.audiosul.com:8265/
+#EXTINF:-1,Francês_Fm_-_Maceió_Alagoas
+200 http://streaming18.hstbr.net:8006/live?
+#EXTINF:-1,Fraternidade_(Ijuí)
+http://radio2.suaradionanet.net:8044/
+#EXTINF:-1,Frei_Caneca_FM
+http://192.99.4.205:8164/stream
+#EXTINF:-1,FS_Web_Rádio
+302 http://stream.zeno.fm/hhbrbhssrbruv
+#EXTINF:-1,FS_WEB_RADIO
+302 https://node-11.zeno.fm/hhbrbhssrbruv?rj-ttl=5\u0026rj-tok=AAABdlJVvKIARfzg30WWbUZgUA
+#EXTINF:-1,Funk_Favela
+302 http://stream.zeno.fm/07z9dqmz0uquv
+#EXTINF:-1,Gabriela_FM_102.9
+302 https://www.radios.com.br/players/listen-radio.m3u?radio=13276
+#EXTINF:-1,Gaúcha
+200 https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1,Gazeta_FM_-_São_Paulo
+200 https://shout25.crossradio.com.br:18002/stream?1653871644022
+#EXTINF:-1,GK_International
+200 http://s20.myradiostream.com:12530/
+#EXTINF:-1,GOLD_INSTRUMENTAL
+200 https://centova.svdns.com.br:19373/stream1
+#EXTINF:-1,Gold_Instrumental
+200 https://centova.svdns.com.br:19373/stream/2/
+#EXTINF:-1,Gold_Web_32kb
+200 https://centova.svdns.com.br:19418/stream1
+#EXTINF:-1,Gospel_FM_89.3
+200 http://148.72.158.239:8161/live
+#EXTINF:-1,Gospel_Mix_Canaoinhas
+http://74.63.237.84:8192/live
+#EXTINF:-1,Gospel_Mix_SP
+http://69.162.115.211:8252/live
+#EXTINF:-1,Grande_Serra_Ouricuri
+https://streaming.rmpsite.com.br/rgsouricuri/
+#EXTINF:-1,Grauna_FM_95,5
+405 https://ice.fabricahost.com.br/graunafm
+#EXTINF:-1,Gromov_Rock
+https://s12.maxcast.com.br:8088/live
+#EXTINF:-1,Hunter_FM_-_80s
+200 https://live.hunter.fm/80s_high
+#EXTINF:-1,Hunter_FM_-_GOSPEL
+200 https://live.hunter.fm/gospel_high
+#EXTINF:-1,Hunter_FM_-_Hits_Brasil
+200 https://live.hunter.fm/hitsbrasil_normal
+#EXTINF:-1,Hunter_FM_-_LOFI
+200 https://live.hunter.fm/lofi_high
+#EXTINF:-1,Hunter_FM_-_MODA_SERTANEJA
+200 https://live.hunter.fm/modasertaneja_high
+#EXTINF:-1,Hunter_FM_-_PISADINHA
+200 https://live.hunter.fm/pisadinha_high
+#EXTINF:-1,Hunter_FM_-_POP
+200 https://live.hunter.fm/pop_high
+#EXTINF:-1,Hunter_FM_-_POP&&NCS
+404 https://live.hunter.fm/smash_high
+#EXTINF:-1,Hunter_FM_-_POP2K
+200 https://live.hunter.fm/pop2k_high
+#EXTINF:-1,Hunter_FM_-_ROCK
+200 https://live.hunter.fm/rock_high
+#EXTINF:-1,Hunter_FM_-_SERTANEJO
+200 https://live.hunter.fm/sertanejo_high
+#EXTINF:-1,Hunter_FM_-_TROPICAL
+200 https://live.hunter.fm/tropical_high
+#EXTINF:-1,Imembuí
+200 http://centova17.ciclanohost.com.br:8405/
+#EXTINF:-1,Imparsom_FM_Governador_Valadares
+200 http://wz3.dnip.com.br/imparsomhd/imparsomhd.stream/playlist.m3u8
+#EXTINF:-1,In_The_Mix_Brasil
+400 https://inthemixbrasil.radioca.st/stream
+#EXTINF:-1,Ipanema
+302 http://cast2.hoost.com.br:2199/tunein/ipafmcom.pls
+#EXTINF:-1,Itapema_102.3
+200 https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_f67b569e-6c38-4dee-9982-46782ad96ca4.m3u8
+#EXTINF:-1,Jaguar_FM
+http://stream.enetbras.com.br:7016/
+#EXTINF:-1,Jangadeiro_BandNews_FM_Fortaleza_101.7
+200 http://evpp.mm.uol.com.br:1935/band/bandnewsfm_for/chunklist.m3u8
+#EXTINF:-1,Jazz_Medley_Webradio
+200 http://server01.ouvir.radio.br:8006/stream
+#EXTINF:-1,JB_Classic
+200 https://26673.live.streamtheworld.com/JBCLASSIC_S01AAC.aac?1653777220673
+#EXTINF:-1,JB_FM
+301 http://provisioning.streamtheworld.com/pls/JBFMAAC.pls
+#EXTINF:-1,JB_FM_99.9
+200 https://26673.live.streamtheworld.com/JBFM_SC
+#EXTINF:-1,Jean_Majolo_Player
+200 http://jeanmajolo.com.br:8000/radio
+#EXTINF:-1,JESUS_fm_102,3
+400 https://stream.appflux.com.br:8048/stream
+#EXTINF:-1,Jovem_Fm
+200 http://wz3.dnip.com.br/aycomau1/aycomau1.stream/playlist.m3u8
+#EXTINF:-1,Jovem_Pan_-_Fortaleza_94,7
+200 https://r10.ciclano.io:15033/stream
+#EXTINF:-1,Jovem_Pan_(Porto_Alegre)
+200 http://centova6.ciclanohost.com.br:9256/
+#EXTINF:-1,Jovem_Pan_Campinas
+302 https://ssl.srvstm.com:6808/
+#EXTINF:-1,Jovem_Pan_Curitiba
+200 https://shout35.crossradio.com.br:18006/1
+#EXTINF:-1,Jovem_Pan_Florianópolis
+200 http://wz5.dnip.com.br/jfloripa/jfloripa.stream/chunklist_w2047482307.m3u8
+#EXTINF:-1,Jovem_Pan_FM_-_Belo_Horizonte_99.1_FM
+400 http://8a3c.live.upx.net.br:8036/stream.aac
+#EXTINF:-1,Jovem_Pan_FM_-_Campo_Grande_-_MS_-_95,3MHz
+http://jovempancg.com.br:9322/stream
+#EXTINF:-1,Jovem_Pan_FM_-_Osório
+200 http://centova14.ciclanohost.com.br:8405/stream
+#EXTINF:-1,Jovem_Pan_FM_-_Sorocaba_91.1
+400 https://cast2.hoost.com.br:8039/stream
+#EXTINF:-1,Jovem_Pan_FM_92,9_MHz_(Três_Rios_-_RJ)
+200 http://wz1.dnip.com.br:1935/jptresrios/jptresrios.stream/chunklist_w1883074206.m3u8
+#EXTINF:-1,Jovem_Pan_FM_São_Paulo_100,9MHz
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac
+#EXTINF:-1,Jovem_Pan_News_620_Sao_Paulo,_SP
+403 http://19293.live.streamtheworld.com:3690/JP_NEWSAAC_SC
+#EXTINF:-1,Jovem_Pan_News_Londrina
+400 http://r13.ciclano.io:8882/live
+#EXTINF:-1,Jovem_Pan_Patos_de_Minas
+200 https://shout25.crossradio.com.br:24030//1
+#EXTINF:-1,Jovem_Pan_Pop_Brasil
+400 http://6d9a.webradio.upx.net.br:9046/stream?1597501793407
+#EXTINF:-1,JovenPan_News
+403 http://19293.live.streamtheworld.com/JP_NEWSAAC_SC?TGT=TuneIn\u0026ttag=k2YHnXyS\u0026gender=m\u0026DIST=TuneIn\u0026partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTU5MTk0MDQwMCwiaXNzIjoidGlzcnYifQ.MeEv9K6B7UQX7HGud1Rx5uuM1zovnaVJm-UMdiIHY10\u0026ua=k2YHnXyS
+#EXTINF:-1,JP_80_(Jovem_Pan)
+400 http://6d9a.webradio.upx.net.br:9059/stream
+#EXTINF:-1,JP_Bossa_Nova_-_Jovem_Pan
+400 http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1,JP_Classic_Pan_(Jovem_Pan)
+400 http://sh.upx.com.br:8032/stream
+#EXTINF:-1,JP_Clássica_-_Jovem_Pan
+400 http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1,JP_Gold_-_Jovem_Pan
+400 http://6d9a.webradio.upx.net.br:9968/stream
+#EXTINF:-1,JP_Lounge_-_Jovem_Pan
+400 http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1,JP_MPB_(Jovem_Pan)
+400 http://6d9a.webradio.upx.net.br:9022/stream
+#EXTINF:-1,JP_MPB_(SP)
+401 https://sc1s.cdn.upx.com:8034/stream
+#EXTINF:-1,JP_Zen_-_Jovem_Pan
+400 http://6d9a.webradio.upx.net.br:8024/stream
+#EXTINF:-1,Juazeiro_Fm
+http://stm2.unicast.net.br:9308/stream.mp3
+#EXTINF:-1,Kiss_FM_92,5
+200 http://cloud2.cdnseguro.com:23538/
+#EXTINF:-1,Kiss_FM_Campinas
+http://stm43.sateg.com.br:24462/
+#EXTINF:-1,Kiss_FM_Litoral_FM_100.3
+405 https://ice.fabricahost.com.br/kissfmlitoral
+#EXTINF:-1,KIss_Fm_RJ
+401 https://cloud1.cdnseguro.com:9758/
+#EXTINF:-1,Kiss_FM_São_Paulo
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAAC.aac?1655609055880
+#EXTINF:-1,KrishnaFM
+302 http://stream.zeno.fm/acu0vhxxe48uv
+#EXTINF:-1,Liberdade_(Porto_Alegre)
+200 http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:-1,Liberdade_92.9_(Belo_Horizonte_-_MG)
+200 http://8335.brasilstream.com.br/stream.m3u
+#EXTINF:-1,LIGA_SAMBA_WEB_RÁDIO
+200 http://srv1.braudio.com.br:7308/stream
+#EXTINF:-1,ligeiroweb
+404 http://stream.zeno.fm/sc0a50tyd48uv
+#EXTINF:-1,Light_Fm_RJ
+404 http://srv05.brasilstream.com.br:9959/stream
+#EXTINF:-1,Lightness_of_Rock
+302 https://stream.zeno.fm/n0dt87vrnd0uv
+#EXTINF:-1,Litoral_FM_Sul
+404 http://260045b.ha.azioncdn.net/0045b/_definst_/lfms.sdp/playlist.m3u8
+#EXTINF:-1,Live_Mix
+400 http://mp4.livemix.com.br/livemix
+#EXTINF:-1,louvor_eterno
+https://player.srvstm.com/proxy/7750/
+#EXTINF:-1,Louvores_ao_Rei
+https://player-ssl.kshost.com.br:10538/live
+#EXTINF:-1,Luz_e_Algeria_AM_(Frederico_Westphalen)
+http://audio3.cmaudioevideo.com:8520/stream
+#EXTINF:-1,Luz_e_Algeria_FM_(Frederico_Westphalen)
+http://audio3.cmaudioevideo.com:8525/stream
+#EXTINF:-1,Mais_FM_Santa_Rosa_Santo_Cristo
+200 http://148.72.158.239:8159/live
+#EXTINF:-1,Máquina_do_Tempo_(Internacional)
+200 http://servidor28.brlogic.com:8212/live
+#EXTINF:-1,Máquina_do_Tempo_(MPB_Brasil)
+200 http://servidor28.brlogic.com:8032/live
+#EXTINF:-1,Máquina_do_Tempo_Web_Radio
+200 http://servidor27.brlogic.com:8124/live
+#EXTINF:-1,maranata
+301 https://player.srvaudio.com.br/player-ssl/10348
+#EXTINF:-1,Massa_FM_Ouro_Fino
+404 https://stm01.virtualcast.com.br:8056/live
+#EXTINF:-1,MEC_FM_-_Rio_de_Janeiro
+404 https://radiomecfm-stream.ebc.com.br/index.m3u8
+#EXTINF:-1,MEC_FM_RIO
+404 https://radio2.lflr.com.br/ebc-live/radio-mec-fm/chunks.m3u8
+#EXTINF:-1,Melhor_da_MPB
+404 http://stream.zeno.fm/8b3b34apta0uv
+#EXTINF:-1,Melodia_FM_-_Varginha
+302 https://www.radios.com.br/players/listen-radio.m3u?radio=8805
+#EXTINF:-1,Melody_94.1_FM
+200 https://sc4s.cdn.upx.com:8080/stream
+#EXTINF:-1,Metrópole_Fm
+http://143.208.11.100:8794/stream/1/Title1
+#EXTINF:-1,Mix_Campinas
+200 https://21933.live.streamtheworld.com/MIXFM_CAMPINASAAC.aac?1649900088068
+#EXTINF:-1,Mix_FM_-_Porto_Alegre
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac
+#EXTINF:-1,Mix_Rio_102.1_Rio_de_Janeiro,_RJ
+301 http://provisioning.streamtheworld.com/pls/MIXRIOAAC.pls
+#EXTINF:-1,mkkweb_radio
+200 https://servidor34-1.brlogic.com:8096/live?source=site
+#EXTINF:-1,MNS_FM_-_WebRadio_From_S
+400 http://lyra.shoutca.st:8206/autodj
+#EXTINF:-1,Mood_FM_104.5_Rio_de_Janeiro
+http://radio.servercsi.com.br:9422/
+#EXTINF:-1,morcegaoBr
+400 https://radio.morcegaofm.com.br/morcegao128
+#EXTINF:-1,Morena_FM_/Rio
+200 https://centova5.transmissaodigital.com:20005/stream
+#EXTINF:-1,Morena_FM_98
+200 https://ssl1.transmissaodigital.com:2692/stream
+#EXTINF:-1,Morena_FM_Easy
+400 https://centova.svdns.com.br:20110/stream
+#EXTINF:-1,MPBdoVinilAoDigital
+400 http://192.99.14.210:8339/stream
+#EXTINF:-1,Multisom_Hits_Cataguases
+200 https://servidor28-3.brlogic.com:8124/live?source=website
+#EXTINF:-1,Mundial_Rock
+200 https://azura.mundialmusic.net/radio/8010/radio.mp3
+#EXTINF:-1,Mundo_Livre_FM
+http://107-182-231-169.webnow.com.br/mundolivre.aac
+#EXTINF:-1,Mundo_Livre_FM_Londrina_93,1
+200 https://rrdns-continental.webnow.com.br/mllondrina.mp3
+#EXTINF:-1,Mundo_Livre_FM_Maringá_102.5
+200 http://up-continental.webnow.com.br/cultura.mp3
+#EXTINF:-1,Music_FM_88.7
+200 http://cast4.audiostream.com.br:8006/live
+#EXTINF:-1,musical_fm_2
+200 https://9176.brasilstream.com.br/stream
+#EXTINF:-1,Nacional_FM
+404 https://radio2.lflr.com.br/ebc-live/radio-nacional-fm/playlist.m3u8
+#EXTINF:-1,Nativa
+200 http://centova17.ciclanohost.com.br:8085/stream.mp3
+#EXTINF:-1,Nativa_FM_103.1_-_Joinville
+301 https://cast.youngtech.radio.br/radio/8940/radio
+#EXTINF:-1,Norte_FM_-_Londrina
+200 https://servidor17.brlogic.com:9394/live
+#EXTINF:-1,Nova_Brasil_FM_-_Rio_de_Janeiro
+403 https://26503.live.streamtheworld.com/NOVABRASIL_RIOAAC.aac?1653870605580
+#EXTINF:-1,Nova_Brasil_FM_93.5_Aracaju
+200 http://playerservices.streamtheworld.com/pls/NOVABRASIL_ARACAJUAAC.pls
+#EXTINF:-1,Nova_Brasil_FM_Brasília,_DF_(ZYC476,_97,5_MHz)
+301 http://provisioning.streamtheworld.com/pls/NOVABRASIL_BSBAAC.pls
+#EXTINF:-1,Nova_Brasil_FM_Recife_(ZYD241,_94,3_MHz_FM)
+301 http://provisioning.streamtheworld.com/pls/NOVABRASIL_RECAAC.pls
+#EXTINF:-1,Nova_Brasil_FM_Rio_de_Janeiro,_RJ_(ZYD472,_89,5_MHz_FM)
+http://20823.live.streamtheworld.com:3690/NOVABRASIL_RIOAAC.aac
+#EXTINF:-1,Nova_Brasil_Fm_São_Paulo
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
+#EXTINF:-1,Nova_Brasil_RJ_89.5
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac
+#EXTINF:-1,Nova_FM
+200 http://hd3.matutos.com.br:8394/stream?1561472887177
+#EXTINF:-1,Nova_Gospel_Araguaína
+http://74.63.241.110:8038/live
+#EXTINF:-1,Novo_Tempo
+200 https://www.radios.com.br/aovivo/radio-novo-tempo-925-fm/16623
+#EXTINF:-1,Novos_Horizontes_FM
+400 https://paineldj5.com.br:20013/stream
+#EXTINF:-1,O_POVO_CBN
+200 https://player.transmissaodigital.com/proxy/6802/1/
+#EXTINF:-1,Ouvindo_a_Bilbia
+200 http://v3.directradios.com:8235/stream
+#EXTINF:-1,OverRock_Radio
+200 http://streaming06.hstbr.net:8008/live
+#EXTINF:-1,OverRock_Rádio_(Brasil)
+200 http://streaming06.hstbr.net:8008/live.m3u
+#EXTINF:-1,Paranoia_Web
+http://streaming16.hstbr.net:8188/live?1492783496409
+#EXTINF:-1,Paul_in_Rio
+200 https://usa10.fastcast4u.com/paulinrio
+#EXTINF:-1,Piauí_Gospel
+302 http://stream.zeno.fm/k4pw9r36mhruv
+#EXTINF:-1,Piratini_(São_Miguel_das_Missões)
+400 http://audio8.cmaudioevideo.com:8809/stream
+#EXTINF:-1,Play_FM_-_Birigui
+400 http://187.17.175.143:3259/stream?1653869498990
+#EXTINF:-1,PLUS_FM_CARIRI_100.5MHz
+200 http://webradio.amsolution.com.br/radio/8140/cariri
+#EXTINF:-1,PLUS_FM_SOBRAL_105.1MHz
+200 http://webradio.amsolution.com.br/radio/8030/sobral
+#EXTINF:-1,Ponte_News_Campinas
+200 http://centova.nardele.com.br:4138/
+#EXTINF:-1,POP_95,1
+200 https://servidor39.brlogic.com:8152/live
+#EXTINF:-1,PorDeus.fm
+302 https://stream.zenolive.com/92ptm8uua2zuv.aac
+#EXTINF:-1,Portal_Web_Gospel
+200 http://centova2.euroti.com.br:8131/tunein/portalw8.pls
+#EXTINF:-1,Positividade_FM
+https://20833.live.streamtheworld.com/POSITIVIDADE_FM.mp3
+#EXTINF:-1,Principe_Joinville
+200 https://servidor35-1.brlogic.com:8036/live
+#EXTINF:-1,Progressive_Earth_Radio
+200 http://sv10.hdradios.net:6674/listen.pls?sid=1
+#EXTINF:-1,Progsky
+400 https://cc3.streammaximum.com:20045/stream
+#EXTINF:-1,Prus_Mano
+302 http://stream.zeno.fm/hn0fwwy7nzzuv
+#EXTINF:-1,R.VALE_VERDE_FM_96,66
+405 https://ice.fabricahost.com.br/valeverdefm
+#EXTINF:-1,RACIONAIS_MCs_HOJE_E_SEMPRE
+302 https://node-28.zeno.fm/zft2dwckcwzuv.aac
+#EXTINF:-1,Radicci__FM
+302 https://ssl.srvstm.com:8082/
+#EXTINF:-1,Rádio_101_FM_-_Xanxere_/_SC_-_Brasil
+200 http://radioweb.audiosul.com:8241/stream
+#EXTINF:-1,Rádio_104_FM
+405 https://ice.fabricahost.com.br/104fmgoioerepr
+#EXTINF:-1,Rádio_80FM
+200 http://104.247.221.130:9020/stream1
+#EXTINF:-1,Rádio_89FM_-_Joinville
+200 https://c1.audiostream.com.br:20010/stream.m3u
+#EXTINF:-1,Rádio_94_FM_94.7_MHz_(Lavras_-_MG)
+200 http://wz5.dnip.com.br:1935/riograndefmhd/riograndefmhd.stream/chunklist_w2010560414.m3u8
+#EXTINF:-1,Rádio_96_FM
+400 https://cast4.hoost.com.br:20079/stream
+#EXTINF:-1,Radio_99_FM
+200 http://hts02.kshost.com.br:8862/live
+#EXTINF:-1,Radio_A
+302 http://stream.zeno.fm/2f943r174k0uv
+#EXTINF:-1,Rádio_A_Voz_da_Liberdade_FM_(ZYX812,_98,5_MHz_FM,_Jaboatão_dos_Guararapes,_PE)
+302 http://cast3.hoost.com.br:2199/tunein/radiofma-stream.pls
+#EXTINF:-1,Rádio_ABC_103.3_FM
+https://streamabc.gruposinos.com.br:8443/radio
+#EXTINF:-1,Rádio_Adoração_Gospel
+https://player-ssl.kshost.com.br:9430/live
+#EXTINF:-1,Rádio_Advento
+400 http://paineldj6.com.br:11430/live
+#EXTINF:-1,Radio_Advento_-_Londrina
+200 https://9121.brasilstream.com.br/stream
+#EXTINF:-1,rádio_águia_cristã_araquari
+302 http://stream.zeno.fm/4qg1g2kxkd0uv
+#EXTINF:-1,Radio_Aliança_Fm
+https://server01.srvsh.com.br:13788/
+#EXTINF:-1,Rádio_Alô_FM_96,7_MHz_(Juiz_de_Fora_-_MG)
+200 http://wz3.dnip.com.br/energiafmjf1/energiafmjf1.stream/playlist.m3u8
+#EXTINF:-1,Rádio_Alpha_FM_101.7
+302 https://www.radios.com.br/players/listen-radio.m3u?radio=9015
+#EXTINF:-1,Rádio_Alvorada
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
+#EXTINF:-1,Rádio_Alvorada_(MP3)
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADA.mp3
+#EXTINF:-1,Rádio_América_-_Canção_Nova
+400 http://rdamericasp-lh.akamaihd.net/i/rdamerica_1@190524/index_1_a-p.m3u8
+#EXTINF:-1,Radio_América_Latina
+200 https://streaming.radiostreamlive.com/radioamericalatina_devices
+#EXTINF:-1,Radio_Amigos_da_MPB
+200 http://stm4.voxhd.com.br:7086/
+#EXTINF:-1,Radio_Amigos_do_Flashback
+http://stm23.srvaudio.com.br:9692/
+#EXTINF:-1,Radio_Amigos_do_Futebol
+302 https://ssl.voxhd.com.br:7086/
+#EXTINF:-1,Radio_Amigos_do_Rock
+200 http://stm25.srvaudio.com.br:11358/
+#EXTINF:-1,Radio_Amigos_do_ROCK_NACIONAL
+200 https://player.srvaudio.com.br/player-ssl/10714/
+#EXTINF:-1,Radio_Amigos_do_Sertanejo
+http://stm28.srvaudio.com.br:11374/
+#EXTINF:-1,Rádio_Amigos_do_Sertanejo
+http://srv2.smghosting.com.br:7176/
+#EXTINF:-1,Rádio_Animu_[192_kbps]
+200 https://cast.animu.com.br:9089/stream
+#EXTINF:-1,Rádio_Animu_[320_kbps]
+200 https://cast.animu.com.br:9079/stream
+#EXTINF:-1,Rádio_Animu_[64_kbps]
+200 https://cast.animu.com.br:9069/stream
+#EXTINF:-1,Radio_Apocalipse
+200 https://sv10.hdradios.net:9200/stream/1/
+#EXTINF:-1,Rádio_Assunção_AM620
+200 https://str.7br.com.br/radio/8170/stream
+#EXTINF:-1,Rádio_Atalaia_SP
+302 https://stm.smghosting.com.br:15150/stream/stream?1658967282374
+#EXTINF:-1,Radio_Ativa_Bom_Despacho
+200 http://148.72.158.239:8036/live
+#EXTINF:-1,Radio_Atlântida
+404 http://167809y.ha.azioncdn.net/primary/atl_fln.sdp/playlist.m3u8
+#EXTINF:-1,Rádio_Axé_Bahia
+200 http://173.208.190.98:8070/
+#EXTINF:-1,Rádio_Band_FM_Cuiabá
+http://zoeweb.net:8010/stream?DIST=TuneIn\u0026TGT=TuneIn\u0026maxServers=2\u0026partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyOTUyNjM2NywiaXNzIjoidGlzcnYifQ.wxlQ5AHQBmYGQKSH_-gjKmoE0mbOrrXq5QIFWYPW5Bc
+#EXTINF:-1,Rádio_Banda_B
+405 https://ice.fabricahost.com.br/bandabctb
+#EXTINF:-1,Rádio_Bandeirantes_-_Porto_Alegre
+200 http://evpp.mm.uol.com.br:1935/band/radiobandeirantes_poa/playlist.m3u8
+#EXTINF:-1,Rádio_Bandeirantes_-_São_Paulo
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8
+#EXTINF:-1,Rádio_Batuta_Clássicos
+200 http://classicoims.out.airtime.pro:8000/classicoims_a
+#EXTINF:-1,Rádio_Batuta_MPB_-_A_webradio_do_Instituto_Moreira_Salles
+200 http://radioims.out.airtime.pro:8000/radioims_a
+#EXTINF:-1,radio_bau_do_flashback
+302 http://stream.zeno.fm/d0qyfqzy5k0uv
+#EXTINF:-1,Rádio_Beach_Park_FM
+302 http://www.radioideal.net:8026/stream/1
+#EXTINF:-1,Radio_Beija_Flor_FM
+502 https://cc6.streammaximum.com/proxy/radiobeijaflor/stream
+#EXTINF:-1,rádio_BIZARRO
+302 http://streaming.live365.com/a07135
+#EXTINF:-1,Rádio_Bla_Rock
+200 https://s12.maxcast.com.br:8086/live
+#EXTINF:-1,Rádio_boa_fm
+302 http://stream.zeno.fm/svapy9sa7f8uv
+#EXTINF:-1,Rádio_Boas_Novas_Envira
+https://player-ssl.kshost.com.br:13272/live
+#EXTINF:-1,Radio_Boituva_1480_AM
+http://stm4.mestrestream.xyz:7284/stream?1657375235844
+#EXTINF:-1,Rádio_Bossa_Nova_Brazil
+http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
+#EXTINF:-1,Rádio_Brasil_Atual
+http://centova18.ciclanohost.com.br:10217/
+#EXTINF:-1,Rádio_Brasil_Atual_98.9_FM
+http://r4.ciclano.io:10217/listen.pls?sid=1
+#EXTINF:-1,Rádio_Brasil_Campinas
+http://streaming04.hstbr.net:8190/live
+#EXTINF:-1,radio_brazil_imperial
+200 http://hts03.kshost.com.br:8430/
+#EXTINF:-1,Rádio_Buteco_Sertanejo
+302 https://stream.zeno.fm/6kumndewqbruv
+#EXTINF:-1,Rádio_Cabrito
+200 http://sc.radiocabrito.com:13386/
+#EXTINF:-1,Rádio_Campeira_FM
+200 https://servidor34-3.brlogic.com:8164/live?source=website
+#EXTINF:-1,Rádio_Campestre
+https://s14.maxcast.com.br:8116/live
+#EXTINF:-1,Rádio_Carijós_FM_89.9_MHz_(Conselheiro_Lafaiete_-_MG)
+200 https://shout35.crossradio.com.br:24030/
+#EXTINF:-1,Radio_Casa_8000
+200 https://servidor34-5.brlogic.com:7240/live?source=website
+#EXTINF:-1,Rádio_Catedral_FM_102,3_MHz_(Juiz_de_Fora_-_MG)
+200 https://5a2b083e9f360.streamlock.net//catedral/catedral.stream/playlist.m3u8
+#EXTINF:-1,Radio_Catedral_FM_106,7
+https://r17.ciclano.io:15057/stream
+#EXTINF:-1,Radio_Catedral_RJ_FM_106.7
+http://149.56.85.6:8217/stream.mp3
+#EXTINF:-1,Rádio_Caverá_FM_87.9
+200 https://s05.maxcast.com.br:8012/live?id=692006007223
+#EXTINF:-1,Rádio_CBN_-_Rio_de_Janeiro
+https://medias.sgr.globo.com/hls/aCBNRJ/aCBNRJ.m3u8
+#EXTINF:-1,Rádio_CBN_Campinas
+400 http://ceb1.live.upx.net.br:8030/
+#EXTINF:-1,Rádio_CBN_Ponta_Grossa_FM_98.1
+302 https://www.radios.com.br/players/listen-radio.m3u?radio=11281
+#EXTINF:-1,rádio_ccr_fm
+200 http://179.127.4.122:8324/stream
+#EXTINF:-1,Radio_CDL_FM
+200 https://9595.brasilstream.com.br/stream?identifica=6604881056089703000
+#EXTINF:-1,Rádio_Central_Campinas
+http://20823.live.streamtheworld.com/RADIOCENTRAL_AM_SC
+#EXTINF:-1,Radio_CGB
+400 http://paineldj6.com.br:8103/stream
+#EXTINF:-1,Radio_Cidade
+http://cast.midiaip.com.br:9770/stream
+#EXTINF:-1,Rádio_Cidade
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
+#EXTINF:-1,Rádio_Cidade_-_Jundiaí
+400 http://r18.ciclano.io:9693/stream?1653871323495
+#EXTINF:-1,Rádio_Cidade_-_Rio_de_Janeiro_-_102.9_FM_-_ZYD462
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
+#EXTINF:-1,Rádio_CIdade_99
+200 https://r10.ciclano.io:15057/stream
+#EXTINF:-1,Radio_Cidade_AM_Brusque
+http://144.217.192.196:8921/radiocidade.mp3
+#EXTINF:-1,Radio_Cidade_BD
+200 https://5a57bda70564a.streamlock.net/cidfm98tv/cidfm98tv.sdp/chunklist_w1979681632.m3u8
+#EXTINF:-1,Rádio_Cidade_FM_100.1_MHz_(Juiz_de_Fora_-_MG)
+200 http://wz1.dnip.com.br/cidadefmjf/cidadefmjf.stream/playlist.m3u8
+#EXTINF:-1,Radio_Classica_Brazil
+404 https://streaming.livebroadcast.biz/radio/8010/classica
+#EXTINF:-1,Rádio_Clube_1200
+http://142.44.230.74:9073/stream
+#EXTINF:-1,Rádio_Clube_de_Canoinhas_94,9_FM
+404 https://cast.youngtech.radio.br/radio/8370/radio
+#EXTINF:-1,Rádio_Clube_de_Lages_98.3_FM
+400 https://r13.ciclano.io:15003/stream
+#EXTINF:-1,Rádio_Clube_FM_94.1_Ponta_Grossa
+302 https://www.radios.com.br/players/listen-radio.m3u?radio=11887
+#EXTINF:-1,Rádio_CNMA
+302 https://stream.zeno.fm/m3ytuubv0uhvv
+#EXTINF:-1,Rádio_Colon_-_AM_1090_-_Joinville
+400 http://stream.splug.com.br:8000/Radio58
+#EXTINF:-1,Rádio_Colonial_FM_104.7_MHz_(Conselheiro_Lafaiete_-_MG)
+200 https://5a2b083e9f360.streamlock.net/radiocolonialhd/radiocolonialhd.stream/playlist.m3u8
+#EXTINF:-1,Radio_Copacabana_680_AM
+400 http://stream.ouveai.com.br:10720/live
+#EXTINF:-1,Rádio_Coringão
+200 https://s18.hstbr.net:8010/live
+#EXTINF:-1,Rádio_CPAD_FM_96.1
+200 http://server3.webradios.com.br:9404/
+#EXTINF:-1,Rádio_Cravo_Albin
+http://minha.webradio.srv.br:8077/stream
+#EXTINF:-1,Radio_Cravo_Albin
+http://minha.webradio.srv.br:8077/live
+#EXTINF:-1,Rádio_Criatividade_FM
+200 https://s04.maxcast.com.br:8148/live
+#EXTINF:-1,Rádio_cristã_Online
+200 https://servidor40.brlogic.com:8004/live
+#EXTINF:-1,Radio_Cristo_em_Casa
+https://s28.maxcast.com.br:8132/live?id=435283483033
+#EXTINF:-1,Rádio_Cruz_Alta_de_Cruz_Alta
+http://sysrad.net:10290/
+#EXTINF:-1,Rádio_Cultura_Brasil_-_São_Paulo
+200 https://radiocultura2.jmvstream.com/stream?1653869769748
+#EXTINF:-1,Rádio_Cultura_Brasil_(ZYK520,_1200_kHz_AM,_São_Paulo)
+http://midiaserver.tvcultura.com.br:8001/
+#EXTINF:-1,Rádio_Cultura_FM_-_São_Paulo
+200 https://radiocultura.jmvstream.com/stream?1653870036525
+#EXTINF:-1,Rádio_Cultura_Rio_Grande
+200 https://casthttps.suaradionanet.net/10402/stream
+#EXTINF:-1,Radio_CUT
+400 http://r10.ciclano.io:8029/stream.mp3
+#EXTINF:-1,Radio_CUT_-_Central_Única_dos_Trabalhadores
+400 http://centova10.ciclanohost.com.br:8029/stream.mp3
+#EXTINF:-1,Radio_Dance
+http://216.144.247.99:8198/live
+#EXTINF:-1,Rádio_Dancing_Days
+200 http://streaming17.hstbr.net:8104/live
+#EXTINF:-1,Radio_Definity
+https://ssl.livemus.com.br:27028/?type=http\u0026nocache=88705
+#EXTINF:-1,Rádio_Delta_FM_Bagé
+https://player.painelvox.com/proxy/8066
+#EXTINF:-1,Rádio_Deus_é_Amor_SP
+403 https://25043.live.streamtheworld.com/SP_STUDIOC_ALTO.mp3
+#EXTINF:-1,Radio_Difusora_de_Assis_-_São_Paulo_-_Brasil
+http://stm16.livebroadcast.biz:7432/stream
+#EXTINF:-1,Rádio_Difusora_Laguna_91,5_FM
+400 http://eventials-i.akamaihd.net/hls/live/746370/zfty8dmscvbgjfjd/playlist.m3u8
+#EXTINF:-1,Radio_Digasalinas
+302 http://stream.zeno.fm/2tvndms5v7zuv
+#EXTINF:-1,rádio_Digital
+200 http://stm1.tcmcast.com.br:7050/
+#EXTINF:-1,Rádio_Digital_96.3_FM
+404 https://stream1.play.radio.br:8089/glomesdfma/glomesdfma/icecast.audio
+#EXTINF:-1,Rádio_Disco_Funk_BR
+200 http://streaming12.hstbr.net:8084/live
+#EXTINF:-1,Radio_Disney_Brasil
+405 http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
+#EXTINF:-1,Rádio_do_Comércio
+200 http://servidor26.brlogic.com:8066/live
+#EXTINF:-1,Radio_do_Rei
+302 http://stream.zeno.fm/g5wqhbbxm8quv
+#EXTINF:-1,Radio_Dorminhoca
+302 http://stream.zeno.fm/dkyrn1814k0uv
+#EXTINF:-1,Rádio_Ebamix
+404 https://streaming.ebamix.com.br/listen/radio_ebamix/radio.mp3
+#EXTINF:-1,Rádio_Ecológica_FM_98,7_Mhz_(São_João_Del_Rei_-_MG)
+https://server06.srvsh.com.br:7440/stream
+#EXTINF:-1,Rádio_Educadora_102,9_FM
+200 https://servidor40.brlogic.com:8252/live
+#EXTINF:-1,Rádio_Elohim
+200 https://servidor34-5.brlogic.com:8190/live
+#EXTINF:-1,Rádio_Emboabas_FM_96,9_Mhz_(São_João_Del_Rei_-_MG)
+400 https://paineldj6.com.br:20144/stream
+#EXTINF:-1,Radio_EPC
+https://hts01.painelstream.net/player-ssl/?porta=10038
+#EXTINF:-1,Rádio_Esperança_Jovem
+https://player-ssl.kshost.com.br:8614/live
+#EXTINF:-1,Rádio_Estação_Gospel
+302 http://stream.zeno.fm/ahu7876hhbruv
+#EXTINF:-1,Radio_Estilo_Leblon
+200 http://us4.internet-radio.com:8193/stream.nsv
+#EXTINF:-1,Rádio_Estrada_Real_FM_102.5_MHz_(Ouro_Branco_-_MG)
+200 https://9981.brasilstream.com.br/stream
+#EXTINF:-1,Radio_Evangelizar_-_Curitiba
+200 https://shout87.crossradio.com.br:18000/stream

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Cadena_SER_-_Radio_Zamora
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
+#EXTINF:-1,Radio_Folklorica_Uyuni
+https://emiteradio.com/proxy/uyuni?mp=/stream
+#EXTINF:-1,Radio_Nuevo_Tiempo
+200 http://stream.novotempo.com:1935/radio/radionuevotiempo.stream/live.m3u8

@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Bayou_Sounds_Radio
+302 http://listen.radionomy.com:80/BayouSoundsRadio
+#EXTINF:-1,Bayou_Sounds_Radio_II
+302 http://listen.radionomy.com:80/BayouSoundsRadioII
+#EXTINF:-1,Bienvenue_en_Louisiane
+302 http://listen.radionomy.com:80/BienvenueenLouisiane
+#EXTINF:-1,Lousiana_Radio
+404 http://listen.shoutcast.com/lousianaradio
+#EXTINF:-1,Mardi_Gras_Radio
+404 http://listen.shoutcast.com/mardigrasradio
+#EXTINF:-1,Mr._PoBoy's_Jambalaya_Jam_New_Orleans_Radio
+302 http://listen.radionomy.com:80/MrPoBoy-sJambalayaJamNewOrleansRadio
+#EXTINF:-1,RFPRADIO.COM_|_French_Quarter_Jams
+http://184.171.163.20:8162/stream
+#EXTINF:-1,RFPRADIO.COM_|_Jabo_--_Texas_Prince_Of_Zydeco
+http://184.171.163.20:8180/stream
+#EXTINF:-1,RFPRADIO.COM_|_Sizzlin_Zydeco_Blues
+http://184.171.163.20:8150/stream
+#EXTINF:-1,Soley_Reunion
+302 http://listen.radionomy.com:80/SoleyReunion
+#EXTINF:-1,Swamp_Pop_dj
+404 http://listen.shoutcast.com/swamppopdj

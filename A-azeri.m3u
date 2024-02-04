@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,ANS_ÇM
+http://stream.ansradio.ws:8152/ANS-102FM-128k-Online
+#EXTINF:-1,Radio_Antenn
+http://85.132.71.10:8000/antenn-mp3
+#EXTINF:-1,AVTOFM
+400 http://5.191.241.101:8000/avtofm
+#EXTINF:-1,Media_FM
+http://95.217.196.109:8000/mediafm
+#EXTINF:-1,Ictimai_Radio
+https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:-1,Araz_FM
+200 http://s14.myradiostream.com:30454/listen.mp3
+#EXTINF:-1,Naxcivanin_Sesi_Radio
+401 https://s2.free-shoutcast.com/stream/18022/stream.mp3
+#EXTINF:-1,Kepez_FM
+400 http://85.132.78.122:3344/now
+#EXTINF:-1,Radio_Tune_Azerbaijan
+https://tune.az:8015/stream
+#EXTINF:-1,ASAN_Radio
+400 http://94.20.74.206:4448/stream1
+#EXTINF:-1,Naxcivan_Radiosu
+200 http://s33.myradiostream.com:12782/listen.mp3
+#EXTINF:-1,AutoLife_Radio_Azerbaijan
+https://radio.autoliferadio.com:8005/radio
+#EXTINF:-1,YSF
+http://95.217.196.109:8000/yusif
+#EXTINF:-1,Xəzər_FM
+302 https://s40.myradiostream.com/22546/listen.mp3
+#EXTINF:-1,BAKU_HIT_FM
+400 http://5.191.241.101:8000/bakuhitfm
+#EXTINF:-1,Yurd_FM
+400 https://icecast.livetv.az/yurdfm
+#EXTINF:-1,BAKU_RETRO_FM
+400 http://5.191.241.101:8000/bakuretrofm
+#EXTINF:-1,DFM
+400 http://557e041d4bdc.sn.mynetname.net:8000/onefm
+#EXTINF:-1,Radio_Vətən
+302 https://node-29.zeno.fm/0kgkkzanmueuv
+#EXTINF:-1,Radio_Space_104_FM
+400 http://5.191.241.101:8000/spaceradio
+#EXTINF:-1,Anti_Radio
+200 https://stream.antiradio.net/radio/8000/web

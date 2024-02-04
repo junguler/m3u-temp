@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,RadioOne
+200 http://radioonetanzania.radioca.st:8854/stream
+#EXTINF:-1,East_Africa_Radio
+200 http://eatv.radioca.st:8312/stream/
+#EXTINF:-1,Bongo_Radio_-_Main_Channel
+200 http://173.244.208.77:9000/bongo.mp3/
+#EXTINF:-1,Bongo_Radio_-_East_African_Music_Channel
+200 http://173.244.208.77:8000/african.mp3/
+#EXTINF:-1,Bongo_Radio_-_Zilipendwa_Channel
+200 http://bongoradio.com:9000/zilipendwa.mp3/
+#EXTINF:-1,Balozi_Radio
+302 http://stream.zeno.fm/x0m9cgk1nfhvv
+#EXTINF:-1,Flamingo_Radio_Nakuru
+302 http://stream.zeno.fm/215bpympks8uv
+#EXTINF:-1,New_Vibes_Radio
+200 http://s3.radio.co/s5fe0de7ed/listen
+#EXTINF:-1,Xavier_Radio_Ug
+http://cast3.asurahosting.com:8131/stream
+#EXTINF:-1,KGT_Radio
+302 http://stream.zeno.fm/2ydchn6cyy8uv
+#EXTINF:-1,Rogue_Fm
+302 http://stream.zeno.fm/s7zqh0mk0hhvv
+#EXTINF:-1,Gem_Radio_Online
+http://195.158.83.101:88/broadwave.mp3?src=1&amprate=1&ampref=
+#EXTINF:-1,Bongo_Radio_–_Zilipendwa_Channel
+http://212.83.149.66:8312/stream/
+#EXTINF:-1,One_Stop_Radio_Kenya
+http://nebula.shoutca.st:8602/stream/

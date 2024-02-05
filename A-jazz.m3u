@@ -1,0 +1,1001 @@
+#EXTM3U
+#EXTINF:-1,SwissGroove
+200 https://relay1.swissgroove.ch/
+#EXTINF:-1,Jazz_FM_România
+200 https://s4.radio.co/s1e25bf273/listen
+#EXTINF:-1,Super_Radio_Smooth_Jazz
+302 https://stream.zeno.fm/p3h95gun6e9uv
+#EXTINF:-1,Radio_Bravo_Relaxing
+http://77.68.84.201/1
+#EXTINF:-1,Sublime_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3
+#EXTINF:-1,Radio_Crne_Gore_2
+200 https://r98.ipradio.rs:10100/
+#EXTINF:-1,EASY_FM_Lithuania
+400 http://netradio.ziniuradijas.lt/easyfm.mp3
+#EXTINF:-1,Radio_Monte_Carlo_JAZZ
+200 https://icy.unitedradio.it/rmcweb019
+#EXTINF:-1,Radio_Monte_Carlo_MUSIC_STAR_PINO_DANIELE
+200 https://icy.unitedradio.it/Daniele.mp3
+#EXTINF:-1,Radio_Monte_Carlo_MUSIC_STAR_FRANCO_BATTIATO
+200 https://icy.unitedradio.it/um057.mp3
+#EXTINF:-1,Radio_Città_Futura_JAZZ
+400 https://stream.romacittafutura.it:8001/play
+#EXTINF:-1,RÚV_Rondó
+200 https://ruv-radio-live.akamaized.net/streymi/rondo/rondo/rondo.m3u8
+#EXTINF:-1,NRK_Jazz
+200 https://lyd.nrk.no/nrk_radio_jazz_mp3_h
+#EXTINF:-1,Apollo_radio_Dresden
+301 https://streams.bcs-systems.de/apollo/live/dresden/mp3/radioplayer/web
+#EXTINF:-1,Apollo_radio_Chemnitz
+301 https://streams.bcs-systems.de/apollo/live/chemnitz/mp3/radioplayer/web
+#EXTINF:-1,Apollo_radio_Leipzig
+301 https://streams.bcs-systems.de/apollo/live/leipzig/mp3/radioplayer/web
+#EXTINF:-1,lulu2
+https://s38.derstream.net/luluzwei.mp3
+#EXTINF:-1,BBC_Radio_2
+410 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+#EXTINF:-1,BBC_Radio_3
+410 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+#EXTINF:-1,Yle_Radio_1
+200 http://icecast.live.yle.fi/radio/YleRadio1/icecast.audio
+#EXTINF:-1,Groove_FM
+404 https://supla.digitacdn.net/live/_definst_/supla/groove/playlist.m3u8
+#EXTINF:-1,Radio_România_Muzical
+http://stream2.srr.ro:8022/
+#EXTINF:-1,YOUFM
+200 http://youfm.ice.infomaniak.ch/youfm-96.aac
+#EXTINF:-1,BNR_Radio_Sofia
+302 https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8
+#EXTINF:-1,Latvijas_Radio_3
+http://lr3mp0.latvijasradio.lv:8004/
+#EXTINF:-1,Latvijas_Radio_6
+http://nabamp0.latvijasradio.lv:8008/
+#EXTINF:-1,Retro_Hits_Radio
+200 http://riphel02.radioca.st/
+#EXTINF:-1,LRT_Opus
+400 http://lrt-cast.lrt.lt:8000/lrt_opus
+#EXTINF:-1,93.7_Edge_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/2BARAAC.aac
+#EXTINF:-1,KRR_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3
+#EXTINF:-1,SR_P2
+200 https://live-cdn.sr.se/pool2/p2musik/p2musik.isml/index.m3u8
+#EXTINF:-1,5GTR_FM
+501 http://203.45.194.8:88/broadwave.mp3?src=1&amprate=1&ampref=
+#EXTINF:-1,Radiowa_Trójka
+200 https://stream13.polskieradio.pl/pr3/pr3.sdp/chunklist.m3u8
+#EXTINF:-1,Rádio_Devín
+400 https://icecast.stv.livebox.sk/devin_128.mp3
+#EXTINF:-1,Magic_FM_Perth
+200 http://67.212.165.106:8150/stream
+#EXTINF:-1,Kanal_Kultura
+400 https://stream2.datacenter.by/kultura
+#EXTINF:-1,RTS_Radio_Beograd_2
+200 https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8
+#EXTINF:-1,OKR_FM
+200 http://198.74.49.203:8026/stream?type=http&ampnocache=1
+#EXTINF:-1,Antena_2
+200 https://streaming-live.rtp.pt/liveradio/antena280a/chunklist_DVR.m3u8
+#EXTINF:-1,Voice_of_the_Avon
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/6YCRAAC.aac
+#EXTINF:-1,MAD_FM_Worldwide
+200 https://madfm-gecko.radioca.st/stream
+#EXTINF:-1,Radio_Wairau
+400 http://121.98.11.25:8000/stream
+#EXTINF:-1,Heads_FM
+http://144.217.195.24:8760/stream/1/
+#EXTINF:-1,Happy_FM
+200 https://stream01.sigile.net/happyfm-128-mp3
+#EXTINF:-1,ČRo_Jazz
+400 https://rozhlas.stream/jazz_mp3_128.mp3
+#EXTINF:-1,Fab_FM_Radio
+400 http://203.217.13.183:8070/fabfm
+#EXTINF:-1,Radio_Mélodia
+https://radiomelodia.ice.infomaniak.ch/radiomelodia-128.mp3
+#EXTINF:-1,Radio_Swiss_Pop
+200 http://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:-1,Radio_Swiss_Classic
+200 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1,Radio_Swiss_Jazz
+200 http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1,Radio_SRF_2_Kultur
+200 https://lsaplus.swisstxt.ch/audio/drs2_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,BNR_Radio_Horizont
+302 https://lb-hls.cdn.bg/2032/fls/Horizont.stream/playlist.m3u8
+#EXTINF:-1,BNR_Radio_Hristo_Botev
+302 https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8
+#EXTINF:-1,BNR_Radio_Burgas
+302 https://lb-hls.cdn.bg/2032/fls/Burgas.stream/playlist.m3u8
+#EXTINF:-1,BNR_Radio_Varna
+302 https://lb-hls.cdn.bg/2032/fls/Varna.stream/playlist.m3u8
+#EXTINF:-1,BNR_Radio_Vidin
+302 https://lb-hls.cdn.bg/2032/fls/Vidin.stream/playlist.m3u8
+#EXTINF:-1,BNR_Radio_Plovdiv
+302 https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8
+#EXTINF:-1,BNR_Radio_Stara_Zagora
+302 https://lb-hls.cdn.bg/2032/fls/StZagora.stream/playlist.m3u8
+#EXTINF:-1,BNR_Radio_Shumen
+302 https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8
+#EXTINF:-1,BNR_Radio_Kardzhali
+302 https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8
+#EXTINF:-1,3MBS_Radio
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/3MBS.mp3
+#EXTINF:-1,West_Side_FM
+https://sv2.famcast.co.za/proxy/westside?mp=/stream
+#EXTINF:-1,Antena2_Jazzin
+200 https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/chunklist_DVR.m3u8
+#EXTINF:-1,RTS_Espace_2
+200 https://lsaplus.swisstxt.ch/audio/espace-2_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,Smooth_FM
+302 https://tx.sharp-stream.com/icecast.php?i=smooth.mp3
+#EXTINF:-1,Catalunya_Música
+200 https://directes-radio-int.ccma.cat/live-content/catalunya-musica-hls/master.m3u8
+#EXTINF:-1,iCat_FM
+https://directes-radio-int.ccma.cat/live-content/icat-hls/master.m3u8
+#EXTINF:-1,Kofifi_FM
+http://kofifi.infoview.tv:8000/kofifi
+#EXTINF:-1,KNC_Radio
+302 https://stream.zeno.fm/4bea85ph7zquv
+#EXTINF:-1,24/7_London_Radio
+200 https://ec3.yesstreaming.net:3645/stream
+#EXTINF:-1,Radio_Österreich_1
+400 https://orf-live.ors-shoutcast.at/oe1-q2a
+#EXTINF:-1,Chillizet
+400 https://ch01.cdn.eurozet.pl/chi-net.mp3
+#EXTINF:-1,Amazing_Radio
+404 https://stream6.amazingradio.com:8443/stream.mp3?redirected=1
+#EXTINF:-1,ABC_Jazz
+200 https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8
+#EXTINF:-1,SWR4_Rheinland-Pfalz
+302 https://liveradio.swr.de/sw282p3/swr4rp
+#EXTINF:-1,SWR4_Baden-Württemberg
+302 https://liveradio.swr.de/sw282p3/swr4bw
+#EXTINF:-1,Radio_Jazz_Ukraine
+400 https://online.radiojazz.ua/RadioJazz
+#EXTINF:-1,Zoom_Radio_95.7_FM
+http://108.178.13.122:8170/
+#EXTINF:-1,Rádio_Oxigénio
+https://proic1.evspt.com/oxigenio_aac
+#EXTINF:-1,French_Radio_London
+200 http://radio.canstream.co.uk:8100/live.mp3
+#EXTINF:-1,WDR_3
+302 https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+#EXTINF:-1,Jazz_London_Radio
+200 http://radio.canstream.co.uk:8075/live.aac
+#EXTINF:-1,NDR_Blue
+302 https://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
+#EXTINF:-1,MDR_Kultur
+302 http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/low/stream.mp3
+#EXTINF:-1,MDR_Klassik
+302 http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/low/stream.mp3
+#EXTINF:-1,SWR2
+302 https://liveradio.swr.de/sw282p3/swr2
+#EXTINF:-1,France_Inter
+200 https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance
+#EXTINF:-1,Radio_Gibraltar
+https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream
+#EXTINF:-1,HJUT_106.9_FM
+http://190.60.231.7:8000/
+#EXTINF:-1,SR_2_Kulturradio
+302 https://sr.audiostream.io/sr/1010/mp3/128/sr2.mp3
+#EXTINF:-1,France_Musique
+200 http://icecast.radiofrance.fr/francemusique-midfi.mp3
+#EXTINF:-1,France_Musique_Jazz
+200 https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac?id=radiofrance
+#EXTINF:-1,FIP_Jazz
+200 https://icecast.radiofrance.fr/fipjazz-midfi.mp3?id=radiofrance
+#EXTINF:-1,Radio_Nova_France
+200 http://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1,Jazz_Radio_France
+200 http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+#EXTINF:-1,Radio_Grenouille
+302 http://live.radiogrenouille.com/live
+#EXTINF:-1,Radio_Classica
+200 http://f027b3b473cf4361.msvdn.net/icecastRelay/S18953915/icecast
+#EXTINF:-1,Aligre_FM
+301 http://live3.vestaradio.com/aligrefm
+#EXTINF:-1,JazzRadio
+https://streaming.radio.co/s774887f7b/listen
+#EXTINF:-1,London_Soul_Radio
+200 http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a
+#EXTINF:-1,Smart_Radio
+400 http://stream.glueckserver.de:8000/smartradio.mp3
+#EXTINF:-1,Radio_Città_Futura
+400 https://stream.romacittafutura.it:8001/radio
+#EXTINF:-1,Est_FM
+200 http://str0.creacast.com/estfm_hq.mp3
+#EXTINF:-1,Power_101.7_FM
+http://38.96.148.28:11832/stream?type=.mp3
+#EXTINF:-1,Radio_ARA
+400 https://s1.voscast.com:11187/RadioARA.mp3
+#EXTINF:-1,Radio_Dudelange
+200 http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
+#EXTINF:-1,Healthy_Choice_FM
+400 http://ic.streann.com:8000/hcfm
+#EXTINF:-1,Love_Soul_Radio_London
+200 http://198.100.145.185:8772/
+#EXTINF:-1,Radio_San_Marino_Classic
+200 https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/chunklist.m3u8
+#EXTINF:-1,103.9_KDKI
+302 https://s11.myradiostream.com/12398/listen.mp3
+#EXTINF:-1,Radio_Clazz
+200 http://64.150.176.42:8016/live
+#EXTINF:-1,WXHQ-LP_Radio_Newport
+http://199.244.85.125:8000/wxhq1
+#EXTINF:-1,WPFW
+400 https://streams.pacifica.org:9000/wpfw_64
+#EXTINF:-1,KJZZ_91.5
+200 https://kjzz.streamguys1.com/kjzz_mp3_128
+#EXTINF:-1,KJZZ-HD2
+200 https://kjzz.streamguys1.com/kjzzhd2_mp3_128
+#EXTINF:-1,KNCJ,_Nevada_Classical_and_Jazz
+400 https://kncjstream.com:8443/live
+#EXTINF:-1,KUCV-HD2
+403 http://18433.live.streamtheworld.com/KUCVHD2.mp3
+#EXTINF:-1,KKJZ_K-Jazz_88.1
+404 https://1.ice1.firststreaming.com/kkjz_fm.aac
+#EXTINF:-1,WUAL-HD3
+403 https://22203.live.streamtheworld.com/WUAL_HD3.mp3
+#EXTINF:-1,KUAR_FM_89
+403 https://17993.live.streamtheworld.com/KUARFM_SC
+#EXTINF:-1,KUAF-HD3
+200 https://war.streamguys1.com:7031/kuaf3
+#EXTINF:-1,KPBX-FM_Spokane_Public_Radio
+https://tektite.streamguys1.com:5012/KPBX-mp3
+#EXTINF:-1,NPO_Radio_2_Soul_&_Jazz
+200 https://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1,WAJH_Jazz_Hall_Radio
+200 http://ice7.securenetsystems.net/WVSU
+#EXTINF:-1,Radio_Brač
+200 http://s8.iqstreaming.com:8066/stream
+#EXTINF:-1,Jazz_FM_Radio
+400 http://live.btvradio.bg/jazz-fm.mp3
+#EXTINF:-1,Radio_Superfly
+400 http://stream01.superfly.fm:8080/live128
+#EXTINF:-1,FreiRad
+400 http://stream.freirad.at:8002/live.mp3
+#EXTINF:-1,Radio_Helsinki
+200 http://live.helsinki.at:8088/live160.mp3
+#EXTINF:-1,Radio_Olimpica
+http://streaming.olimpica970.com:7170/.mp3
+#EXTINF:-1,Concierto_FM
+http://radio.domint.net:8234/
+#EXTINF:-1,JAZZ.FM91
+http://streamertheta.jazz.fm:8000/
+#EXTINF:-1,RTBF_La_Première
+302 https://radios.rtbf.be/laprem1ere-64.aac
+#EXTINF:-1,Musiq’3
+302 https://radios.rtbf.be/musiq3-128.aac
+#EXTINF:-1,Klara
+302 http://icecast.vrtcdn.be/klara-high.mp3
+#EXTINF:-1,Nostalgie_Wallonie
+404 https://streamingp.shoutcast.com/NostalgiePremium-mp3
+#EXTINF:-1,KUOS-LP
+200 http://ice9.securenetsystems.net/KUOSLP
+#EXTINF:-1,Radio_1_Praha
+400 http://icecast2.play.cz/radio1-64.mp3
+#EXTINF:-1,Crooze_FM
+200 http://streams.crooze.fm:8000/stream128
+#EXTINF:-1,QRadio_105.1
+400 http://sg-icecast.eradioportal.com:8000/q105
+#EXTINF:-1,Boracay_Beach_Radio
+http://s7.viastreaming.net:8390/listen.pls
+#EXTINF:-1,Smooth_99.5_FM
+http://17023.live.streamtheworld.com/SMOOTH995AAC.aac
+#EXTINF:-1,Kan_88
+200 https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/master.m3u8
+#EXTINF:-1,Klassikaraadio
+400 http://icecast.err.ee/klassikaraadio.mp3
+#EXTINF:-1,WVID
+http://s3.voscast.com:7720/
+#EXTINF:-1,Smooth_98.1_FM
+https://streams.radio.co/sd1bcd1376/listen
+#EXTINF:-1,Fine_Music_Radio
+200 https://edge.iono.fm/xice/fmr_live_medium.aac?p=embed
+#EXTINF:-1,Classic_FM_Lagos
+502 http://classicfmlagos.atunwadigital.streamguys1.com/classicfmlagos
+#EXTINF:-1,Classic_FM_Abuja
+502 http://classicfmabuja.atunwadigital.streamguys1.com/classicfmabuja
+#EXTINF:-1,DR_P2
+200 http://live-icy.gslb01.dr.dk/A/A04H.mp3
+#EXTINF:-1,DR_P8_Jazz
+200 http://live-icy.gslb01.dr.dk/A/A22H.mp3
+#EXTINF:-1,XO.FM
+400 https://live.xo.fm/xofm128
+#EXTINF:-1,Pūkas_2_Radio
+400 http://82.135.234.195:8000/pukas2.mp3
+#EXTINF:-1,95.5_Jazz
+404 http://streamer.teknoweb.co/s967167041/listen
+#EXTINF:-1,RNZ_Concert
+200 https://stream-ice.radionz.co.nz/concert.mp3
+#EXTINF:-1,George_FM
+404 https://livestream.mediaworks.nz/radio_origin/george_128kbps/chunklist.m3u8
+#EXTINF:-1,Neringa_FM_radija
+400 http://185.11.24.72:8000/neringafm
+#EXTINF:-1,BNR_Radio_BINAR-PunkJazz
+302 https://lb-hls.cdn.bg/2003/fls/BINAR-PunkJazz.stream/playlist.m3u8
+#EXTINF:-1,Radio_Seagull
+400 http://stream.radioseagull.net:8000/seagull
+#EXTINF:-1,Freies_Radio_Salzkammergut
+400 http://stream.xaok.org:8000/frs.mp3
+#EXTINF:-1,Star_Radio_Jordan
+http://78.129.193.82:10360/
+#EXTINF:-1,KPRG_FM
+200 http://peridot.streamguys.com:5090/live
+#EXTINF:-1,Classic_FM_Sofia
+400 http://46.10.150.243/classic-fm.mp3
+#EXTINF:-1,Classic_FM_Uzbekistan
+http://80.80.222.26:8000/classicfm.ogg
+#EXTINF:-1,-_0_N_-_Christmas_on_Radio
+400 https://0n-christmas.radionetz.de/0n-christmas.mp3
+#EXTINF:-1,-_0_N_-_Jazz_on_Radio
+400 https://0n-jazz.radionetz.de/0n-jazz.mp3
+#EXTINF:-1,-_0_N_-_Smooth_Jazz_on_Radio
+400 https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac
+#EXTINF:-1,-_1_A_-_Christmas_on_Radio
+400 https://1a-christmas.radionetz.de/1a-christmas.aac
+#EXTINF:-1,-_1_A_-_Entspannt_von_1A_Radio
+400 https://1a-entspannt.radionetz.de/1a-entspannt.mp3
+#EXTINF:-1,.977_Smooth_Jazz
+200 http://playerservices.streamtheworld.com/pls/977_SMOOJAZZ.pls
+#EXTINF:-1,#1_Splash_Jazz
+200 https://ais-sa2.cdnstream1.com/2346_128.mp3
+#EXTINF:-1,0nlineradio
+200 https://stream.0nlineradio.com/jazz?ref=radiobrowser
+#EXTINF:-1,1.21_Gigawatt_Radio
+https://121gigawattradio.tk:8000/radio.mp3
+#EXTINF:-1,1.FM_-_Adore_Jazz_Radio
+200 http://strm112.1.fm/ajazz_mobile_mp3
+#EXTINF:-1,1.FM_-_Bay_Smooth_Jazz_Radio
+200 http://strm112.1.fm/smoothjazz_mobile_mp3
+#EXTINF:-1,1.FM_-_Sax4Love
+200 http://strm112.1.fm/sax4ever_mobile_mp3
+#EXTINF:-1,100_GREATEST_JAZZ_LOUNGE_BAR
+http://62.171.171.202:8120/radio.mp3
+#EXTINF:-1,101_Smooth_Jazz
+200 http://listen.radionomy.com/101smoothjazz.m3u
+#EXTINF:-1,101_SMOOTH_JAZZ
+200 http://www.101smoothjazz.com/101-smoothjazz.m3u
+#EXTINF:-1,1020_Radio
+https://radio1020.out.airtime.pro/radio1020_a
+#EXTINF:-1,103.3_Asheville_FM
+http://192.99.35.215:5239/studio
+#EXTINF:-1,103.3_FM_-_XHVILL-FM_-_Grupo_ACIR_-_Villahermosa,_TB
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/XHVILLAAC.aac
+#EXTINF:-1,103.7_The_Oasis
+200 https://ice42.securenetsystems.net/KOAZAM?playSessionID=EE67F132-DB59-0E2B-D5F260EC5335C908
+#EXTINF:-1,106.9_The_Ranch
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KRVFFMAAC.aac
+#EXTINF:-1,181.FM_-_BeBop_Jazz
+301 http://www.181.fm/stream/pls/181-bebop.pls
+#EXTINF:-1,181.FM_-_Christmas_Swing
+301 http://www.181.fm/stream/pls/181-xswing.pls
+#EXTINF:-1,181.FM_-_Classical_Jazz
+200 http://listen.181fm.com/181-classicaljazz_128k.mp3
+#EXTINF:-1,181.FM_-_Trance_Jazz
+301 http://www.181.fm/stream/pls/181-trancejazz.pls
+#EXTINF:-1,181.FM_-_Vocal_Jazz
+301 http://www.181.fm/stream/pls/181-vocals.pls
+#EXTINF:-1,1940s_Radio
+200 http://s9.streammonster.com/tunein/madavies.pls
+#EXTINF:-1,1BTN
+400 https://edge.clrmedia.co.uk/obfm_mp3
+#EXTINF:-1,24-7_Smooth_Jazz
+http://146.71.124.10:8280/listen.pls?sid=1
+#EXTINF:-1,4TunesFM
+200 https://c30.radioboss.fm:18274/stream
+#EXTINF:-1,5GTR
+501 http://203.45.194.8:88/broadwave.mp3
+#EXTINF:-1,88.5_KNKX
+https://live.wostreaming.net/direct/ppm-knkxfmmp3-ibc1
+#EXTINF:-1,90.5_wes
+200 https://ais-sa3.cdnstream1.com/2556_128.mp3
+#EXTINF:-1,90.5_WICN_Public_Radio_-_Jazz+_for_New_England
+200 https://wicn-ice.streamguys1.com/live-mp3
+#EXTINF:-1,95.5_Smooth_Jazz
+http://listen.011fm.com:8000/stream23
+#EXTINF:-1,97.1_FM_WAVD
+403 https://24363.live.streamtheworld.com/WAVDFMAAC_SC
+#EXTINF:-1,98.7_DZFE_The_Master's_Touch
+400 http://sg-icecast.eradioportal.com:8000/febc_dzfe
+#EXTINF:-1,A_Fine_Jazz_Gumbo_Radio
+400 https://streaming.smartradio.ch:9502/stream
+#EXTINF:-1,Abaco_Libros_y_Cafe_Jazz_Radio
+200 https://radio30.virtualtronics.com:2199/tunein/abaco.pls
+#EXTINF:-1,ABC_Double_J__(AAC)
+502 http://live-radio01.mediahubaustralia.com/DJDW/aac/
+#EXTINF:-1,ABC_Double_J_(MP3)
+502 http://live-radio01.mediahubaustralia.com/DJDW/mp3/
+#EXTINF:-1,ABC_Jazz_(AAC)
+502 http://live-radio01.mediahubaustralia.com/JAZW/aac/
+#EXTINF:-1,ABC_Jazz_(MP3)
+502 http://live-radio01.mediahubaustralia.com/JAZW/mp3/
+#EXTINF:-1,ABC_Jazz_20220701
+200 https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/masterhq.m3u8
+#EXTINF:-1,ABF_Cult
+400 http://abf.net-radio.fr/abfcult.mp3
+#EXTINF:-1,ABF_World
+400 http://abf.net-radio.fr/abfworld.mp3
+#EXTINF:-1,ABsolute_City
+404 http://n10.radiojar.com/25zkcpdmb.mp3?rj-ttl=5\u0026rj-tok=AAABeJ3QrEMAW4f90j6yUJOD5w
+#EXTINF:-1,Abusia_Radio
+200 https://ice66.securenetsystems.net/ABUSIA
+#EXTINF:-1,Açık_Radyo
+400 https://stream.34bit.net/ar.opus
+#EXTINF:-1,Adroit_Jazz_Underground
+https://walmradio.com:8443/jazz
+#EXTINF:-1,Aïoli_Radio
+400 https://stream.aioli-radio.org/main.ogg
+#EXTINF:-1,AK_Radio
+200 http://sc2.streamwithq.com:8048/stream?type=http\u0026nocache=17
+#EXTINF:-1,Akademickie_Radio_Kampus
+200 http://193.0.98.66:8005/listen.pls
+#EXTINF:-1,Albedo_14
+http://46.4.225.224:9300/
+#EXTINF:-1,Aliança_Fm
+200 https://server01.srvsh.com.br:13788/stream
+#EXTINF:-1,All_Jazz_Groove_and_Smooth_Radio
+200 http://162.244.80.106:11177/stream
+#EXTINF:-1,Allzic_Jazz_Lounge
+200 http://allzic03.ice.infomaniak.ch/allzic03.mp3
+#EXTINF:-1,Alpha_Boys_School_Radio
+200 http://alphaboys-live.streamguys1.com/alphaboys.mp3
+#EXTINF:-1,ALTARO_Radio
+https://manager.conceptradio.fr:1135/stream
+#EXTINF:-1,Alternative_Radio
+405 https://www.radioking.com/play/alternative-radio-1
+#EXTINF:-1,Amapiano_Vibes
+302 http://node-18.zeno.fm/pkza99xshkhvv?zs=KqZvbIlcRXaZ4x_GLlGhgg\u0026rj-tok=AAABf_uzgD4AC1cg5SrmZj78YQ\u0026rj-ttl=5
+#EXTINF:-1,Andromeda
+200 https://stream1.468.gr/8006/stream
+#EXTINF:-1,Angel_Radio_101.1_FM_UK
+200 http://s8.viastreaming.net:7030/stream.mp3
+#EXTINF:-1,Antena_1_Rio_de_Janeiro,_RJ_(ZYD_463,_103,7_MHz_FM)
+http://a1rj.streams.com.br:7801/sm
+#EXTINF:-1,Antena_1_São_Paulo,_SP_(ZYD823_94,7_MHz_FM)_[aac]
+200 http://antena1.newradio.it/stream?ext=.mp3
+#EXTINF:-1,Antena_2_Jazzin'
+400 http://radiocast.rtp.pt/antena2jazzin80a.mp3
+#EXTINF:-1,Antenna_Iblea_Broadcasting
+401 http://dreamsiteradiocp3.com:8038/stream
+#EXTINF:-1,ApaBossaJazz
+200 http://centova2.ipstm.net:9317/stream
+#EXTINF:-1,Arctic_Outpost_Radio
+https://radio.streemlion.com:3715/stream
+#EXTINF:-1,Armstrong
+200 https://streaming.exclusive.radio/er/louisarmstrong/icecast.audio
+#EXTINF:-1,ArtSound_FM_90.3
+http://119.15.96.188/stream2.mp3
+#EXTINF:-1,Asterisco_Radio
+200 http://sr2.inmystream.info:8588/stream.mp3
+#EXTINF:-1,Athens_Jazz
+http://music.wixstatic.com/mp3/6aa018_e43fa27d27c7437fb9306ff8dbb193c9.mp3
+#EXTINF:-1,Audiogrooves_Jazz_Flight_Channel
+400 http://soul.audiogrooves.net/jazzy-flight.ogg
+#EXTINF:-1,Babel
+200 https://radios.iwstreaming.uy/8030/stream
+#EXTINF:-1,Back2Back_FM
+http://109.169.46.197:9108/stream
+#EXTINF:-1,Bar_Legend_Radio
+https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream
+#EXTINF:-1,Barfly_Radio
+302 https://ec2.yesstreaming.net:3340/giorgostalampek1/1/realplayer.ram
+#EXTINF:-1,Bartók_Rádió
+200 http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3
+#EXTINF:-1,Base_FM
+200 http://stream.basefm.co.nz:8000/BaseHi
+#EXTINF:-1,Bayern_2_mp3_low
+302 https://dispatcher.rndfnk.com/br/br2/nord/mp3/low
+#EXTINF:-1,Bayou_Blue_Radio
+http://bayoublueradio.com:8000/live
+#EXTINF:-1,Best_94.7
+200 http://bestradio.net:9470/stream?type=http\u0026nocache=166
+#EXTINF:-1,Best_Net_Radio_-_Coffee_House
+200 http://bigrradio.cdnstream1.com/5156_128?listenerid=43889c39c8ecf4f87725056b0d737597\u0026cb=178685.mp3
+#EXTINF:-1,Binar_Jazz
+https://edge16.cdn.bg:20030/fls/BINAR-PunkJazz.stream/playlist.m3u8
+#EXTINF:-1,Black_Rhino_Radio
+200 https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
+#EXTINF:-1,Black_Soul_Rhythms_Radio
+200 https://s2.reliastream.com:2199/tunein/blacksou.pls
+#EXTINF:-1,bluesflac
+302 http://streams.radiomast.io/radioblues-flac
+#EXTINF:-1,BNR_-_Hristo_Botev
+400 http://stream.bnr.bg:8012/hristo-botev.aac
+#EXTINF:-1,Bossa_Jazz_Brasil
+200 https://centova5.transmissaodigital.com:20104/live
+#EXTINF:-1,Breezy_Radio
+200 http://www.radioveronica.us/breezylisten.pls
+#EXTINF:-1,Brum_Radio_-_Birmingham
+400 http://uk3.internet-radio.com:11168/live
+#EXTINF:-1,ByteFM_|_HH-UKW
+302 http://bytefm-hamburg.cast.addradio.de/bytefm/hamburg/mp3/mid
+#EXTINF:-1,C_Lab
+400 http://stream.c-lab.fr:8001/c-lab
+#EXTINF:-1,Cactus_Blue_Radio
+http://ca2.radioboss.fm:8004/stream
+#EXTINF:-1,Cadillac_Records
+http://207.154.248.204:8000/stream
+#EXTINF:-1,Cafe_Roma_Lounge
+404 https://mpc.mediacp.eu/stream/caferomalounge
+#EXTINF:-1,CAFE_ROMA_LOUNGE
+502 https://jenny.torontocast.com:2000/stream/caferomalounge
+#EXTINF:-1,Calamarrradio
+400 http://www.calamarrradio.org:8000/stream
+#EXTINF:-1,Calm_Radio_-_Cocktail_Jazz
+200 http://streams.calmradio.com:21228/
+#EXTINF:-1,Cámara_FM_(HJUC_95.9_MHz_FM,_Medellín)_Cámara_de_Comercio_de_Medellín
+http://959camarafm.serverroom.net/
+#EXTINF:-1,Canal_Jazz
+http://radiart.eu:10024/stream
+#EXTINF:-1,Capital_FM_Curitiba__98,3
+404 http://rrdns-continental.webnow.com.br/continental.aac
+#EXTINF:-1,Capital_Public_Radio_Jazz
+403 http://14543.live.streamtheworld.com:3690/JAZZSTREAM_SC
+#EXTINF:-1,Capital_Public_Radio_Music_(KXPR,_KXSR,_KXJS)
+200 http://playerservices.streamtheworld.com/m3u/KXPR.m3u
+#EXTINF:-1,CBH-FM
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_hfx
+#EXTINF:-1,CFBW_"BWR_91.3"_Hanover,_ON
+200 http://s41.myradiostream.com:29922/listen.mp3
+#EXTINF:-1,chocolate-radio.com
+https://stream.radio.co/sa7336b687/listen
+#EXTINF:-1,Chrześcijanin_Smooth_Jazz
+200 http://51.255.8.139:9760/
+#EXTINF:-1,City_International
+400 http://radio.lancom.gr:8012/stream5
+#EXTINF:-1,CKVS_93.7_Voice_of_the_Shuswap,_BC
+200 http://s2.stationplaylist.com:9240/listen.aac
+#EXTINF:-1,Classical_Jazz_Radio
+https://fred.torontocast.com:1520/stream
+#EXTINF:-1,Club_De_Los_Libros_Libros_Intocables_-_Radio_Online
+302 http://stream.zeno.fm/fdnbtq898a0uv
+#EXTINF:-1,COMALA_Radio
+405 http://www.radioking.com/play/supag
+#EXTINF:-1,Concertzender_Jazz
+400 http://streams.greenhost.nl:8080/jazz
+#EXTINF:-1,Concertzender_Jazznotjazz
+400 http://streams.greenhost.nl:8080/jazznotjazz
+#EXTINF:-1,Cool_-_Classic_Jazz
+200 https://ice55.securenetsystems.net/DASH6
+#EXTINF:-1,Cool_Blue_Taupo
+400 http://falcon.shoutca.st:8166/stream
+#EXTINF:-1,Cool_Jazz_on_Dash
+200 http://ice55.securenetsystems.net/DASH6
+#EXTINF:-1,COOLFM_Jazz
+200 https://mediagw.e-tiger.net/stream/zc13
+#EXTINF:-1,Coolradio_-_Jazz
+200 http://www.coolradio.de/streams/cooljazz-128.m3u
+#EXTINF:-1,Costa_del_Mar_-_Smooth_Sax
+http://stream.cdm-smoothsax.com:8024/stream-mp3-Smooth
+#EXTINF:-1,Couleurs_JAZZ
+405 https://www.radioking.com/play/couleurs-jazz/216016
+#EXTINF:-1,Couleurs_Lyon
+400 http://91.121.179.64:8000/Couleurslyon?1642512709058
+#EXTINF:-1,Couleurs_Nord-Isère
+400 http://91.121.179.64:8000/Couleurslyon?1642512371261
+#EXTINF:-1,ČRo_Jazz_-_256
+400 https://icecast4.play.cz/crojazz256.mp3
+#EXTINF:-1,ČRO_Jazz_256
+200 https://api.play.cz/radio/crojazz256.mp3.m3u
+#EXTINF:-1,Crooner_Radio
+http://stream.crooner.fr/crooner_hd
+#EXTINF:-1,Crooze_FM_The_Original
+200 http://138.201.83.14:8000/stream64
+#EXTINF:-1,CyC_Radio_(Instituto_Caro_y_Cuervo)
+https://stream.radio.co/s978e5f6bd/listen
+#EXTINF:-1,Delite_Radio
+200 http://stream.deliteonline.com:48000/live128
+#EXTINF:-1,Desert_FM
+200 http://s2.stationplaylist.com:7154/listen.aac
+#EXTINF:-1,Digital_Impulse_-_Jazz_Channel
+301 http://orion.shoutca.st/tunein/asxjyzz.pls
+#EXTINF:-1,Digital_Jazz
+200 http://stm01.virtualcast.com.br:8190/live
+#EXTINF:-1,DIMENSIONE_JAZZ
+502 https://maggie.torontocast.com:2020/stream/radiodimensionejazz
+#EXTINF:-1,DIMENSIONE_JAZZ_RADIO
+502 https://mpc1.mediacp.eu/stream/dimensionejazz
+#EXTINF:-1,Dimensione_Relax
+200 https://jenny.torontocast.com:2000/stream/dimensionerelax
+#EXTINF:-1,Dixieland_Oasis
+200 http://ca8.rcast.net:8018/stream.mp3
+#EXTINF:-1,DLF_Deutschlandfunk_Kultur_[AAC_192k]
+302 https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,DOT_Radio
+200 http://nr9.newradio.it:9504/stream
+#EXTINF:-1,DR_P8_JAZZ
+200 http://live-icy.gss.dr.dk/A/A22H.mp3.m3u
+#EXTINF:-1,DrGnu_-_Prog_Rock_Classics
+302 http://streams.radiobob.de/progrock/mp3-192/mediaplayer/
+#EXTINF:-1,DUBAI_LOUNGE_RADIO
+502 https://mpc1.mediacp.eu/stream/dubailoungeradio
+#EXTINF:-1,Dubplate.fm_-_5_Pointz
+https://dubplate.fm/pls/dubplate_fm_hiphop192k.pls
+#EXTINF:-1,Easy_FM
+400 https://netradio.ziniur.lt/easyfm.mp3
+#EXTINF:-1,Easy_Network_Jazz_&&_Soul
+502 https://sphera.fluidstream.eu/easy_jazz.mp3
+#EXTINF:-1,Eden_of_the_West
+500 https://www.edenofthewest.com/public/eden_radio/playlist.pls
+#EXTINF:-1,egofm_jazz
+302 https://streams.egofm.de/egoJAZZ-hq?aw_0_1st.playerid=radioplayer.de
+#EXTINF:-1,Eldorado_FM_-_São_Paulo
+200 https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8
+#EXTINF:-1,Emisora_HJUT_|_Universidad_de_Bogotá_Jorge_Tadeo_Lozano
+http://hjut.utadeo.edu.co:8000/emisora-hjut.mp3
+#EXTINF:-1,EPIC_CLASSICAL_-_Classical_Background_Music
+200 https://stream.epic-classical.com/classical-background-music
+#EXTINF:-1,EPIC_CLASSICAL_-_Classical_Dinner
+200 https://stream.epic-classical.com/classical-dinner
+#EXTINF:-1,EPIC_CLASSICAL_-_Classical_Oldies
+200 https://stream.epic-classical.com/classical-oldies
+#EXTINF:-1,EPIC_CLASSICAL_-_Classical_Restaurant_Music
+200 https://stream.epic-classical.com/classical-restaurant-music
+#EXTINF:-1,EPIC_CLASSICAL_-_Classical_Romance
+200 https://stream.epic-classical.com/classical-romance
+#EXTINF:-1,EPIC_CLASSICAL_-_Classical_Study
+200 https://stream.epic-classical.com/classical-study
+#EXTINF:-1,EPIC_CLASSICAL_-_Modern_Classical
+200 https://stream.epic-classical.com/modern-classical
+#EXTINF:-1,Epic_Lounge_-_HOTEL_LOUNGE
+200 https://stream.epic-lounge.com/hotel-lounge?ref=radiobrowser
+#EXTINF:-1,Epic_Lounge_-_JAZZHOP
+200 https://stream.epic-lounge.com/jazzhop-lounge?ref=radiobrowser
+#EXTINF:-1,Epic_Lounge_-_LOUNGE_COVERS
+200 https://stream.epic-lounge.com/lounge-covers?ref=radiobrowser
+#EXTINF:-1,Epic_Lounge_-_PIANO_&&_JAZZ_BAR
+200 https://stream.epic-lounge.com/piano-jazz-bar?ref=radiobrowser
+#EXTINF:-1,ERFM
+200 https://stream.erfm.fr/radio?_=1635691472805
+#EXTINF:-1,Euro_Smooth_Jazz
+302 http://stream.laut.fm/eurosmoothjazz
+#EXTINF:-1,Europa_Radio_Jazz
+200 https://onair.europaradiojazz.org/radio/8000/hd
+#EXTINF:-1,EuropaRadio_Jazz
+200 https://onair.europaradiojazz.org/radio/8000/sd
+#EXTINF:-1,EuropaRadio_Jazz_HD
+200 https://onair.europaradiojazz.org//radio//8000//hd
+#EXTINF:-1,Exclusively_John_Coltrane
+200 http://streaming.exclusive.radio/er/johncoltrane/icecast.audio
+#EXTINF:-1,Expansions_|_NTS
+200 https://stream-mixtape-geo.ntslive.net/mixtape3
+#EXTINF:-1,Experimentalgems
+302 http://stream.laut.fm/experimentalgems
+#EXTINF:-1,F06_FLUTE_Dar.fm
+302 http://stream.dar.fm/107618
+#EXTINF:-1,Fanatica_CHILL
+200 http://ascl.denial.cl:8004/
+#EXTINF:-1,Fing_Radio
+200 https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59\u0026uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9
+#EXTINF:-1,FIP_autour_du_groove
+301 http://direct.fipradio.fr/live/fip-webradio3.mp3
+#EXTINF:-1,FIP_JAZZ
+200 http://icecast.radiofrance.fr/fipjazz-midfi.mp3
+#EXTINF:-1,FluxFM_-_Jazzradio_Schwarzenstein
+200 http://streams.fluxfm.de/jazzschwarz/aac-64/audio/play.m3u
+#EXTINF:-1,FluxFM_-_XJAZZ
+200 http://streams.fluxfm.de/xjazz/mp3-320/audio/play.m3u
+#EXTINF:-1,Fórmula_Acústica_(Ciudad_de_México)_-_104.1_HD4_-_XEDF-FM_-_Grupo_Fórmula_-_Ciudad_de_México
+400 https://n02.radiojar.com/3zcudxmb4k0uv
+#EXTINF:-1,Foundation_FM
+https://streamer.radio.co/s0628bdd53/listen
+#EXTINF:-1,France_Musique_|_La_Jazz
+301 http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3
+#EXTINF:-1,France_Musique_La_Jazz
+200 http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac
+#EXTINF:-1,Frei_Caneca_FM
+http://192.99.4.205:8164/stream
+#EXTINF:-1,Freies_Radio_Wiesental
+200 http://88.99.63.244:8000/stream.mp3
+#EXTINF:-1,Fréquence_3_-_World_FLAC
+400 https://frequence3.net-radio.fr/frequence3world.flac
+#EXTINF:-1,Fréquence_3_World
+400 https://frequence3.net-radio.fr/frequence3world.mp3
+#EXTINF:-1,Frequence_70s
+http://flux12.pro-fhi.net/proxy/yvfxtbxo?mp=/stream
+#EXTINF:-1,Fresh_Rock
+200 http://stream.freshrock.net/24.aac
+#EXTINF:-1,FunkURadio
+400 https://furfmcou.radioca.st/stream
+#EXTINF:-1,genesis_radio
+http://104.156.52.236:8000/hifi
+#EXTINF:-1,German_Radio_&&_Television_Denver
+http://91.121.65.37:24906/
+#EXTINF:-1,Ghana_Radio
+200 https://ghana.ghanalisten.com:2200/stream.mp3
+#EXTINF:-1,Giants_of_Jazz_Radio
+200 http://streaming.radio.co/s297e618a7/listen
+#EXTINF:-1,Global_Community_Radio_3_(GCR_3)
+http://198.50.156.92:8327/stream.mp3
+#EXTINF:-1,goJAZZ
+200 https://live.gofm.ro:2020/stream/goJAZZ
+#EXTINF:-1,Golden_Days_Radio
+200 http://1.ice1.firststreaming.com/gndr_fm.aac
+#EXTINF:-1,GoodFellas_Music_Station
+http://onair7.xdevel.com/proxy/xautocloud_q1v0_1005?mp=/stream/
+#EXTINF:-1,Hawaii_Public_Radio_HPR-1_(KHPR)
+200 http://khpr-ice.streamguys1.com/khpr2
+#EXTINF:-1,HD_Radio_-_Jazz
+200 http://myradio.doscast.com:8290/
+#EXTINF:-1,HD_Radio_Jazz
+200 http://rosetta.shoutca.st:8290/
+#EXTINF:-1,Hi_On_Line_Jazz_Radio
+400 http://mediaserv38.live-streams.nl:8006/
+#EXTINF:-1,Hi_On_Line_Radio_-_Jazz
+400 http://mediaserv38.live-streams.nl:8006/live
+#EXTINF:-1,Hisna_Radio_(mp3_stream)
+https://stream02.satliferadio.com/listen/sl13_-_hisnaradio/SL13
+#EXTINF:-1,hitsradio_smooth_jazz
+403 https://18853.live.streamtheworld.com/977_SMOOJAZZ.mp3
+#EXTINF:-1,Horizonte_(Ciudad_de_México)_-_107.9_FM_-_XHIMR-FM_-_IMER_-_Ciudad_de_México
+200 http://s2.mexside.net/8014/stream
+#EXTINF:-1,Horizonte_107.9_FM_"Claridad_informativa_y_todo_el_jazz"_(XHIMR)_IMER
+200 https://s2.mexside.net/8014/stream
+#EXTINF:-1,hr2-kultur
+200 https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8
+#EXTINF:-1,hr2-kultur_|_mp3/low
+302 https://dispatcher.rndfnk.com/hr/hr2/live/mp3/low
+#EXTINF:-1,HTM_eco_RADIO
+https://azuracast.htmecoradio.com/radio/8000/htm.mp3
+#EXTINF:-1,Ice_Radio_The_Alternative
+400 https://stream.iceradio.nl/iceradio
+#EXTINF:-1,iLive_Radio.com_-_Toronto,_ON
+200 http://streaming.radio.co/s735df8c1c/listen
+#EXTINF:-1,Italiana_FM_Mallorca
+https://radio.italiana.fm:8003/ita-fm-cadena-web?ver=665455
+#EXTINF:-1,ITU_Jaz/Blues
+200 http://160.75.86.29:8088/stream/3/
+#EXTINF:-1,İTÜ_Radyosu_-_Caz/Blues
+200 http://160.75.86.29:8088/itucazmp3
+#EXTINF:-1,J-Club_Bandstand_Radio
+http://daniel.torontocast.com/bandstand
+#EXTINF:-1,JAM_66_Radio
+404 http://stream.zeno.fm/75beg1td7gruv
+#EXTINF:-1,Javeriana_Estereo_91.9_Bogota_|_(Hablada_Español)
+520 http://lira.servidoranonimo.org/proxy/javerian?mp=/stream
+#EXTINF:-1,Jazz_Afro
+200 http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
+#EXTINF:-1,Jazz_Club_Bandstand
+https://daniel.torontocast.com:2630/
+#EXTINF:-1,Jazz_CROOZE
+401 http://streams.crooze.fm:8002/stream128
+#EXTINF:-1,Jazz_de_Ville_-_Chill
+https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
+#EXTINF:-1,Jazz_de_Ville_-_Jazz
+https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream
+#EXTINF:-1,Jazz_Decades_ChannelFM89.7_WGBH
+200 http://wgbh.streamguys.com:8116/Jazz24-7
+#EXTINF:-1,Jazz_FM
+404 http://n03.radiojar.com/kv0fc2dmb?rj-ttl=5\u0026rj-tok=AAABeLg9pJEAPq2uhbivcdoMhw
+#EXTINF:-1,Jazz_FM_(Ciudad_de_México)_-_Online_-_Independiente_-_Ciudad_de_México
+302 https://stream.zeno.fm/v6u73sbtsnhvv
+#EXTINF:-1,Jazz_FM_104.6
+400 http://online.radiojazz.ua/RadioJazz
+#EXTINF:-1,Jazz_FM_UK
+500 https://stream-al.planetradio.co.uk/jazzhigh.aac?direct=true\u0026listenerid=undefined\u0026aw_0_1st.bauer_listenerid=undefined\u0026amsparams=playerid:BMUK_html5skey:1616846165\u0026aw_0_1st.playerid=BMUK_html5\u0026aw_0_1st.skey=1616846165\u0026aw_0_1st.bauer_loggedin=false\u0026awparams=loggedin:false\u0026aw_0_req.userConsentV2=false
+#EXTINF:-1,Jazz_Loft_Radio
+200 http://stream.laut.fm/jazzloft.m3u
+#EXTINF:-1,Jazz_Lounge
+200 http://eu8.fastcast4u.com:5068/
+#EXTINF:-1,Jazz_Lovers
+405 https://kathy.torontocast.com:3535/stream
+#EXTINF:-1,Jazz_Manouche
+200 https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3
+#EXTINF:-1,Jazz_Medley_Webradio
+200 http://server01.ouvir.radio.br:8006/stream
+#EXTINF:-1,Jazz_Radio_Black_Music
+200 http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3
+#EXTINF:-1,Jazz_Radio_Blues
+200 http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
+#EXTINF:-1,Jazz_Radio_Classic_Jazz
+200 http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
+#EXTINF:-1,Jazz_Radio_Confluence
+302 http://jzr-com-01.ice.infomaniak.ch/jzr-com-01.mp3
+#EXTINF:-1,Jazz_Radio_Contemporary_Jazz
+200 http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3
+#EXTINF:-1,Jazz_Radio_Electro_Swing
+200 http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3
+#EXTINF:-1,Jazz_Radio_Gospel
+200 http://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3
+#EXTINF:-1,Jazz_Radio_Groov'Up
+200 http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3
+#EXTINF:-1,Jazz_Radio_Groove
+200 http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3
+#EXTINF:-1,Jazz_Radio_Happy_Hour
+200 http://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3
+#EXTINF:-1,Jazz_Radio_Ireland
+https://streamer.radio.co/s87737b1d2/listen
+#EXTINF:-1,Jazz_Radio_Jazz_&&_Cinema
+200 http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
+#EXTINF:-1,Jazz_Radio_Jazzy_French
+200 http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3
+#EXTINF:-1,Jazz_Radio_Ladies_&&_Crooners
+200 http://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3
+#EXTINF:-1,Jazz_Radio_Latin_Jazz
+200 http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
+#EXTINF:-1,Jazz_Radio_Manouche
+200 http://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3
+#EXTINF:-1,Jazz_Radio_New_Orleans
+200 http://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3
+#EXTINF:-1,Jazz_Radio_Nouveautés_Jazz
+200 http://jzr-wr99.ice.infomaniak.ch/jzr-wr99.mp3
+#EXTINF:-1,Jazz_Radio_Only_Women
+200 http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
+#EXTINF:-1,Jazz_Radio_Piano_Jazz
+200 http://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3
+#EXTINF:-1,Jazz_Radio_Reprises
+200 http://reprises.ice.infomaniak.ch/reprises-high.mp3
+#EXTINF:-1,Jazz_Radio_Saxo_Jazz
+200 http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
+#EXTINF:-1,Jazz_Radio_Soul_Food_by_DJ_Philgood
+200 http://jazz-wr12.ice.infomaniak.ch/jazz-wr12-128.mp3
+#EXTINF:-1,Jazz_Radio_Spain
+200 https://stream.tunerplay.com/radio/8020/jazzradiospain.mp3
+#EXTINF:-1,Jazz_Radio_Stax_and_Motown
+200 http://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3
+#EXTINF:-1,Jazz_Radio_Sunset
+200 http://jzr-sunset.ice.infomaniak.ch/jzr-sunset.mp3
+#EXTINF:-1,Jazz_Radio_Zen_Attitude
+200 http://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3
+#EXTINF:-1,Jazz_Sakura_(asia_dream_radio)
+200 http://kathy.torontocast.com:3330/stream/1/?esPlayer\u0026cb=82181.mp3
+#EXTINF:-1,Jazz_Vibe_Radio
+404 http://stream.zeno.fm/puuv6yrm5tzuv
+#EXTINF:-1,Jazz_Wyoming
+200 https://wyoming-public-ice.streamguys1.com/JZZ128MP3
+#EXTINF:-1,JAZZ.FM91_(CJRT-FM)
+200 https://jazzfm91.streamb.live/SB00009?args=web_02\u0026player_type=popup
+#EXTINF:-1,Jazz24_(KNKX_88.5_HD2_Tacoma,_WA)_[256_AAC+]
+https://live.wostreaming.net/playlist/ppm-jazz24aac256-ibc1.m3u
+#EXTINF:-1,Jazz24_[128k_MP3]
+https://live.wostreaming.net/direct/ppm-jazz24mp3-ibc1
+#EXTINF:-1,Jazz24_[256k_AAC]
+https://live.wostreaming.net/direct/ppm-jazz24aac256-ibc1
+#EXTINF:-1,Jazz24_[48K_AAC]
+https://live.wostreaming.net/direct/ppm-jazz24aac48-ibc1
+#EXTINF:-1,Jazz24_[64K_AAC]
+https://live.wostreaming.net/direct/ppm-jazz24aac-ibc1
+#EXTINF:-1,JAZZDINGS
+302 http://stream.laut.fm/jazzdings
+#EXTINF:-1,Jazzessenz
+302 http://stream.laut.fm/jazzessenz
+#EXTINF:-1,Jazzjoulu
+200 https://c8.toivon.net/toivon/toivon_8?mp=/stream
+#EXTINF:-1,Jazzloft
+302 http://stream.laut.fm/jazzloft
+#EXTINF:-1,JAZZON2
+200 https://ice8.securenetsystems.net/JAZZON2
+#EXTINF:-1,Jazzpearls
+302 http://stream.laut.fm/jazzpearls
+#EXTINF:-1,Jazzradio_Berlin_106,8
+200 http://streaming.radio.co/s774887f7b/listen.m3u
+#EXTINF:-1,Jazzradio_GrooveFM
+302 http://streaming.groovefm.de/
+#EXTINF:-1,Jazzradio.fr_Jazz_&&_Classique
+200 https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
+#EXTINF:-1,Jazzradio.hr_-_All_the_colors_of_jazz
+404 https://s5.radio.co/s5daa92f3a/listen
+#EXTINF:-1,Jazzradio.hu
+https://www.jazzradio.hu:8000/jazzradio_192.ogg
+#EXTINF:-1,Jazzradio.nl_Mixed
+http://mediaserv30.live-streams.nl:8010/stream
+#EXTINF:-1,Jazzradio.nl_On_the_Rocks
+http://mediaserv30.live-streams.nl:8007/stream
+#EXTINF:-1,Jazzthing
+302 http://stream.laut.fm/jazzthing
+#EXTINF:-1,JazzW3
+405 https://air.jazz.w3.at/jazzw3.mp3
+#EXTINF:-1,Jazzy_Cool
+https://s04.diazol.hu:9532/live.mp3
+#EXTINF:-1,Jazzy_Rádió_90.9FM
+https://s04.diazol.hu:9502/live.mp3
+#EXTINF:-1,Jazzy_Soul_Radio_Nata
+200 http://209.95.50.189:8112/stream
+#EXTINF:-1,JCR_–_Jones_College_Radio
+404 http://ice5.securenetsystems.net/WKTZ
+#EXTINF:-1,Jet_FM
+400 http://80.82.229.202/jetfm.mp3
+#EXTINF:-1,Joy_Jazz
+403 https://20133.live.streamtheworld.com/JOY_JAZZ128AAC.aac
+#EXTINF:-1,KAJX_91.5_-_Aspen_Public_Radio,_CO
+200 http://playerservices.streamtheworld.com/m3u/KAJXFM.m3u
+#EXTINF:-1,Kamakura_FM_82.8_(かまくらFM,_JOZZ3AF-FM,_82.8_MHz,_Kamakura,_Kanagawa)
+http://musicbird.leanstream.co/JCB016-MP3?args=tunein_02
+#EXTINF:-1,KAMU_Radio_FM_90.9
+200 http://kamu.streamguys1.com/hd1-192
+#EXTINF:-1,Kane_FM
+400 http://stream.kanefm.com:1037/stream
+#EXTINF:-1,KANU_91.5_"Kansas_Public_Radio"_Lawrence,_KS
+400 http://streaming.kansaspublicradio.org:8000/kpr1
+#EXTINF:-1,KAWC_Arizona_Community_Radio/Music
+200 http://playerservices.streamtheworld.com/m3u/KAWCAM.m3u
+#EXTINF:-1,KBCU-FM_88.1_Bethel_College_-_North_Newton,_KS
+400 http://kbcu-live.bethelks.edu:8000/kbcu
+#EXTINF:-1,KBEM_88.5_"Jazz_88"_Minneapolis,_MN
+http://quarrel.str3am.com:7110/live_mp3
+#EXTINF:-1,KCCK_"Jazz_88.3"_Cedar_Rapids,_IA
+400 http://stream.kcck.org/jazz883kcck
+#EXTINF:-1,KCSM_91.1__"Jazz_91"_San_Mateo,_CA_(AAC+)
+200 http://ice5.securenetsystems.net/KCSM
+#EXTINF:-1,KCSM_Jazz_91.1_FM
+200 http://ice7.securenetsystems.net/KCSM2
+#EXTINF:-1,KEWU_Jazz
+400 https://kewuradio.ewu.edu/KEWU_Jazz_89.5
+#EXTINF:-1,KEXP_90.3_FM_Seattle
+200 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+#EXTINF:-1,Kifissia
+200 http://cast.streams.ovh:12097/
+#EXTINF:-1,KJazzFM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KKJZFM.mp3
+#EXTINF:-1,KJEM_89.9_Northwest_Public_Radio_Jazz_-_Pullman,_WA
+400 http://streams.nwpr.org:8000/NWPRKJEM
+#EXTINF:-1,KJGR_Jazz_Grooves
+302 http://stream.zeno.fm/wrwfdegzvk8uv
+#EXTINF:-1,KJLU_"Smooth_Jazz_88.9"_Jefferson_City,_MO
+200 http://ice8.securenetsystems.net/KJLU
+#EXTINF:-1,KJZZ_91.5_Phoenix,_AZ
+200 http://stream.kjzz.org/kjzz_mp3_128
+#EXTINF:-1,KJZZ_HD2_Jazz_PHX
+200 http://stream.kjzz.org/kjzzhd2_mp3_128.m3u
+#EXTINF:-1,Klara_(aac)
+302 http://icecast.vrtcdn.be/klara.aac
+#EXTINF:-1,Klassik_Radio_-_Friends@Home
+302 http://stream.klassikradio.de/friendshome/mp3-128/
+#EXTINF:-1,Klassik_Radio_-_Till_Brönner
+302 http://stream.klassikradio.de/tillbroenner/mp3-128/
+#EXTINF:-1,KLCC_89.7_Eugene,_OR
+200 http://tektite.streamguys1.com:5020/klcc.mp3
+#EXTINF:-1,KMDY_Comedy_World_Radio
+404 https://stream.radiojar.com/fkx06wkaybruv
+#EXTINF:-1,KMHD
+200 https://ais-sa3.cdnstream1.com/2442_128.aac/playlist.m3u8
+#EXTINF:-1,KNCE_93.5_True_Taos_Radio
+401 http://live1.brownrice.com:8010/?type=http\u0026nocache=52040
+#EXTINF:-1,KNTU_88.1_University_of_North_Texas_-_McKinney,_TX
+200 http://stream.kntu.unt.edu:1935/live/radiostation.stream/playlist.m3u8
+#EXTINF:-1,KPSQ-LP_97.3_FM_Community_Radio_for_Fayetteville_Arkansas
+http://stream.kpsq.org:8000/kpsq_64
+#EXTINF:-1,KRNN_102.7_"Rain_Country_Radio"_Juneau,_AK
+301 http://provisioning.streamtheworld.com/pls/KRNNFM.pls
+#EXTINF:-1,KRUI-FM_(College_Radio)
+400 http://krui.student-services.uiowa.edu:8000/#89.7
+#EXTINF:-1,KSDS_"Jazz_88.3"_San_Diego,_CA
+200 http://listen.jazz88.org/ksds.mp3
+#EXTINF:-1,KSMU-HD2_"Jazzworks"_Ozarks_Public_Radio_-_Springfield,_MO
+200 http://ksmu.streamguys1.com/ksmu4
+#EXTINF:-1,KSYM_90.1_FM_San_Antonio,_TX
+200 http://sacrtf2.sac.alamo.edu:8000/stream
+#EXTINF:-1,KTCR_The_Connection
+302 http://stream.zeno.fm/g2h6uv3qdv8uv
+#EXTINF:-1,KTSU_90.9_"The_Choice"_Houston,_TX
+200 http://ice6.securenetsystems.net/KTSUFM
+#EXTINF:-1,KUCV_HD-2_"Nebraska_Educational_Telecommunications"_Lincoln,_NE
+403 http://18243.live.streamtheworld.com:3690/KUCVHD2_SC
+#EXTINF:-1,KUVO_89.3_Denver,_CO_(AAC)
+200 http://kuvo-ice.streamguys.org/kuvo-aac-64
+#EXTINF:-1,KUVO_89.3_Denver,_CO_(MP3)
+200 http://kuvo-ice.streamguys.org/kuvo-mp3-64
+#EXTINF:-1,KUVO_Denver,_CO_(AAC,_128)
+200 http://kuvo-ice.streamguys.org/kuvo-aac-128
+#EXTINF:-1,KWMU-2
+200 https://kwmu2-ice.streamguys1.com/jazz-128.m3u
+#EXTINF:-1,KXCV_90.5_"Northwest_Missouri_Public_Radio"_Maryville,_MO
+http://198.209.246.63:8000/
+#EXTINF:-1,KXSF
+200 http://stream.kxsf.fm:8000/kxsf
+#EXTINF:-1,KZFR
+200 http://stream-tx3.radioparadise.com/kzfr
+#EXTINF:-1,La_Grosse_Radio_Rock
+400 https://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3
+#EXTINF:-1,Lainchan_Swing
+http://lainon.life:8000/swing.mp3
+#EXTINF:-1,Laut.fm_-_After_Hours
+https://after-hours.stream.laut.fm/after-hours?t302=2019-09-27_06-07-17\u0026uuid=64f3acda-820a-4912-9df6-fe85b9cd99a2
+#EXTINF:-1,Laut.FM_Befreite-Musik
+302 http://stream.laut.fm/befreite-musik
+#EXTINF:-1,Laut.FM_Chillharmonie
+200 https://chillharmonie.stream.laut.fm/chillharmonie
+#EXTINF:-1,laut.fm_Freakout
+200 http://stream.laut.fm/freakout.m3u

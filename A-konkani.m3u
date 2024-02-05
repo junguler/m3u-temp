@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Radio_AmchiKONKANI
+200 http://178.32.107.151:3711/stream
+#EXTINF:-1,4Lobos_-_Goa_Radio
+200 http://cassini.shoutca.st:9266/stream
+#EXTINF:-1,4Lobos_-_Konkani_Radio_Station
+200 http://puma.streemlion.com:4460/stream
+#EXTINF:-1,All_India_Radio_-_AIR_Sindhudurg
+200 http://air.pc.cdn.bitgravity.com/air/live/pbaudio219/playlist.m3u8
+#EXTINF:-1,Gammath_FM
+302 https://stream.zeno.fm/ayvca4b5muhvv
+#EXTINF:-1,Playlist_gospel
+404 https://stream.zeno.fm/gfqhybdjmmivv
+#EXTINF:-1,Pop_Erre_Jackson
+302 https://stream.zeno.fm/rxx6d9fbvv8uv
+#EXTINF:-1,PICS_TV
+302 https://stream.zeno.fm/s2svmr7fzk8uv
+#EXTINF:-1,RCG_-_Radio_Clube_Goa
+302 https://stream.zeno.fm/8792kn233k8uv
+#EXTINF:-1,4Lobos_–_Goa_Radio
+http://144.217.195.24:9266/stream/
+#EXTINF:-1,4Lobos_–_Konkani_Radio_Station
+404 http://streamingv2.shoutcast.com/4LobosKonkaniRadioStation
+#EXTINF:-1,RADIO_daijiworld
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC013_SC.aac

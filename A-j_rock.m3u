@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Shinsen_Radio
+http://shinsen-radio.org:8000/shinsen-radio.128.mp3
+#EXTINF:-1,animefm
+200 http://animefm.stream.laut.fm/animefm
+#EXTINF:-1,kawaii_music
+200 http://kawaii-music.stream.laut.fm/kawaii-music
+#EXTINF:-1,geheimwelt
+200 http://geheimwelt.stream.laut.fm/geheimwelt
+#EXTINF:-1,animeacademy
+200 http://animeacademy.stream.laut.fm/animeacademy
+#EXTINF:-1,j_nation
+200 http://j-nation.stream.laut.fm/j-nation
+#EXTINF:-1,otaku_world
+200 http://otaku-world.stream.laut.fm/otaku-world
+#EXTINF:-1,akv1
+200 http://akv1.stream.laut.fm/akv1
+#EXTINF:-1,abw_radio
+200 http://abw-radio.stream.laut.fm/abw-radio
+#EXTINF:-1,Shope_Anime_Radio_Live
+404 https://listen.radioking.com/radio/524044/stream/582313
+#EXTINF:-1,Cuántica_Estéreo_radio
+302 https://cast4.asurahosting.com:2199/start/cuantica
+#EXTINF:-1,SHS_Anime_OST_Radio
+https://shsbbs.ddns.net:8443/stream
+#EXTINF:-1,Tsubaki_Web_Radio
+http://stream.tsubakianimeradio.com:9000/play.mp3

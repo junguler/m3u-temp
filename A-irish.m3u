@@ -1,0 +1,317 @@
+#EXTM3U
+#EXTINF:-1,BBC_Radio_Foyle
+410 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
+#EXTINF:-1,UCC_FM
+400 https://stream.btsstream.com:8062/ucc.mp3
+#EXTINF:-1,Wire_FM
+200 http://s2.radio.co/sf0986595a/listen
+#EXTINF:-1,LMFM_Country
+200 https://gbradio.cdn.tibus.net/LMFMCountry
+#EXTINF:-1,Cork’s_Red_FM
+200 https://edge.audioxi.com/RED
+#EXTINF:-1,ICR_FM
+400 https://streams.happyhits.co.uk/ICR
+#EXTINF:-1,RTÉ_Radio_1
+400 https://rdstrm.com/rte-radio-1.mp3
+#EXTINF:-1,Newstalk
+200 https://stream.audioxi.com/NT
+#EXTINF:-1,FM104
+200 https://wg.cdn.tibus.net/fm104MP3128
+#EXTINF:-1,Galway_Bay_FM
+200 https://wg.cdn.tibus.net/galwaybay.mp3
+#EXTINF:-1,Highland_Radio
+200 https://live-bauerie.sharp-stream.com/HIGHLAND
+#EXTINF:-1,KCLR_96FM
+http://216.119.152.213:8007/stream
+#EXTINF:-1,WLR_FM
+200 http://stream.audioxi.com/WLRAAC
+#EXTINF:-1,Kfm_Radio
+200 http://sirius.shoutca.st:9307/stream
+#EXTINF:-1,Dublin’s_Q102
+200 https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:-1,C103
+200 https://wg.cdn.tibus.net/C103
+#EXTINF:-1,Raidió_Na_Life
+200 http://beryl.streamguys.com:5010/live
+#EXTINF:-1,Eirewave
+https://eirewave.ice.infomaniak.ch/eirewave-128.mp3
+#EXTINF:-1,Dundalk_FM
+200 https://securestreams5.autopo.st:1894/mp3/
+#EXTINF:-1,Raidió_Corca_Baiscinn
+200 http://178.33.135.245:3074/stream
+#EXTINF:-1,LMFM
+200 https://wg.cdn.tibus.net/LMFM
+#EXTINF:-1,Liffey_Sound_FM
+200 http://stream.liffeysoundfm.ie:8000/listen.pls.mp3
+#EXTINF:-1,Breeze_90.9_FM
+http://135.181.78.169:8592/live.m3u
+#EXTINF:-1,Deep_House_Radio
+http://37.187.93.104:8589/deep
+#EXTINF:-1,Raidió_Fáilte_107.1fm
+http://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1
+#EXTINF:-1,Raidió_Rí-Rá
+200 http://185.80.220.12:8166/stream
+#EXTINF:-1,RTÉ_Raidió_na_Gaeltachta
+301 http://av.rasset.ie/av/live/radio/rnag.m3u
+#EXTINF:-1,West_Limerick_102_fm
+200 http://s29.myradiostream.com/17796/listen.mp3
+#EXTINF:-1,Irish_Country_Music_Radio
+200 http://46.28.49.164:7502/
+#EXTINF:-1,ALL_80s
+http://109.169.26.139:8432/1stream/1
+#EXTINF:-1,Classic_Hits_4FM_105
+http://sirius.shoutca.st:8166/stream/1
+#EXTINF:-1,East_Coast_FM_96.2
+302 http://sirius.shoutca.st:8461/stream/1
+#EXTINF:-1,Sunshine_106.8_FM
+302 http://sirius.shoutca.st:8291/stream/1
+#EXTINF:-1,Charity_Radio
+http://37.187.79.93:8640/stream/1
+#EXTINF:-1,Gem_Radio_Gold
+http://167.114.64.181:9031/stream/1
+#EXTINF:-1,PHEVER_IrI
+400 http://uk1.internet-radio.com:8200/live
+#EXTINF:-1,Birdhill_Radio
+302 http://abacus.hostingenergy.com:8000/stream/1
+#EXTINF:-1,Newstalk_106_FM
+302 http://nodec.gocaster.net/nt
+#EXTINF:-1,Q_Radio_Belfast
+200 http://icy-e-03-boh.sharp-stream.com/qr967.mp3
+#EXTINF:-1,Tipperary_Mid_West_Community_Radio_104.8_FM
+http://184.154.145.114:8007/stream
+#EXTINF:-1,Tipp_FM_95.3
+404 http://direct.sharp-stream.com/tippfm1.mp3
+#EXTINF:-1,EIDW_Dublin_International_Airport
+http://bos.liveatc.net:80/eidw3
+#EXTINF:-1,Irelands_KISS_Classical
+200 http://198.105.216.204:8164/streamstream/1
+#EXTINF:-1,Cork_Hospital_Radio_102_FM
+400 http://148.163.81.10:8010
+#EXTINF:-1,Life_FM_93.1
+400 http://79.170.198.170:8000/radio
+#EXTINF:-1,The_Freak
+301 http://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1,Today_FM_100
+302 http://nodec.gocaster.net/td
+#EXTINF:-1,Corcovado_Radio
+400 http://icecast2.rte.ie/2fm
+#EXTINF:-1,ABC_Memories_Ireland
+404 http://158.69.227.214:8006/stream/1
+#EXTINF:-1,IrishRadio.org
+200 http://198.100.145.185:8866/stream
+#EXTINF:-1,irish_folk
+http://irish-folk.stream.laut.fm/irish-folk
+#EXTINF:-1,folk_and_more
+200 http://folk-and-more.stream.laut.fm/folk-and-more
+#EXTINF:-1,macslons_irish_pub_radio
+200 http://macslons-irish-pub-radio.stream.laut.fm/macslons-irish-pub-radio
+#EXTINF:-1,rhein_neckar_pfalz_rockradio
+200 http://rhein-neckar-pfalz-rockradio.stream.laut.fm/rhein-neckar-pfalz-rockradio
+#EXTINF:-1,Irish_Pub_Radio
+https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
+#EXTINF:-1,Macslons-Irish-Pub_Radio
+https://macslons-irish-pub-radio.stream.laut.fm/macslons-irish-pub-radio
+#EXTINF:-1,Clare_FM
+200 https://edge.audioxi.com/CLAREFM
+#EXTINF:-1,Folk_Alley_-_Irish_Music_Stream
+200 https://freshgrass.streamguys1.com/irish-128mp3
+#EXTINF:-1,Folk_Alley_-_Classic_Folk
+200 https://freshgrass.streamguys1.com/ss1-128mp3
+#EXTINF:-1,Cork&amp#39s_96_FM
+200 https://wg.cdn.tibus.net/96fm
+#EXTINF:-1,Celtic_Music_Lab
+404 https://ais-sa2.cdnstream1.com/1931_128.mp3
+#EXTINF:-1,Coast_Internet_Radio
+https://s20.whooshclouds.net:9128/stream
+#EXTINF:-1,Starbox_-_Irish_Folk
+200 https://drive.uber.radio/uber/starboxirishfolk/icecast.audio
+#EXTINF:-1,Wired_99.9FM
+200 https://s2.radio.co/sf0986595a/listen
+#EXTINF:-1,Folk_Alley_-_Fresh_Cuts
+200 https://freshgrass.streamguys1.com/freshcuts-128mp3
+#EXTINF:-1,Raidió_Fáilte
+302 https://onlineradiobox.com/json/uk/raidiofailte/play?platform=web
+#EXTINF:-1,Garden_County_Radio
+302 https://onlineradiobox.com/json/ie/gardencounty/play?platform=web
+#EXTINF:-1,Claremorris_Community
+200 https://s2.radio.co/sddd96b52a/listen
+#EXTINF:-1,Global_Irish_Radio
+https://s3.radio.co:80/s05b500bb8/listen
+#EXTINF:-1,The_Sound_of_Ireland
+403 https://christmasfm.cdnstream1.com/2548_128.mp3
+#EXTINF:-1,KYLO_93.3_FM
+302 https://onlineradiobox.com/json/us/kylolp/play?platform=web
+#EXTINF:-1,Waves_Mediia
+https://fast.citrus3.com:8390/stream
+#EXTINF:-1,92.3_The_Fox
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Live_Ireland_Channel_1
+200 http://192.111.140.11:8058/stream/
+#EXTINF:-1,Ceol_FM_-_Live
+400 http://ceol.fm:8000/live
+#EXTINF:-1,RTÉ_Radio_1_Extra
+400 http://icecast1.rte.ie/radio1extra
+#EXTINF:-1,Live_Ireland_2
+200 http://lynx.prostreaming.net:8058/stream/
+#EXTINF:-1,WKSU_-_Folk_Alley_-_Irish_Music_Stream
+200 http://66.225.205.169:80/ss3.mp3.128
+#EXTINF:-1,U2_Radio
+http://eu1.radio.u-2.im:9998/
+#EXTINF:-1,Sunshine_106.8
+200 http://stream.audioxi.com/SUN
+#EXTINF:-1,Calm_Radio_-_Celtic
+302 https://streams.calmradio.com/api/161/128/stream/
+#EXTINF:-1,Rebs_FM
+200 http://2j0z.com/radio/8000/radio.mp3
+#EXTINF:-1,Dublin's_ABC_-_All_Irish_Radio
+https://hazel.torontocast.com:1605/stream
+#EXTINF:-1,MacSlon's_Irish_Pub_Radio
+302 https://stream.laut.fm/macslons-irish-pub-radio
+#EXTINF:-1,Irish_Favourites_-_Irish_Pub_Radio
+400 http://solid24.streamupsolutions.com:8026/live
+#EXTINF:-1,Ceol_FM_-_Songs
+400 http://ceol.fm:8000/songs
+#EXTINF:-1,Ceol_FM_-_Energetic
+400 http://ceol.fm:8000/energetic
+#EXTINF:-1,Ceol_FM_-_Soothing
+400 http://ceol.fm:8000/soothing
+#EXTINF:-1,Irish_Radio_Canada
+200 https://c5.radioboss.fm:18213/stream
+#EXTINF:-1,Radio_Siamsa
+200 https://cast02.siamsa.ie/radio/8000/mobile.mp3
+#EXTINF:-1,Century_Radio_(NI)
+https://s2.radio.co/s87ffbc098/listen
+#EXTINF:-1,AM_950_WROL_-_WROL
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/WROLAM.mp3
+#EXTINF:-1,Louth_Meath_FM
+400 http://stream1.radiomonitor.com/LMFM-Sport1
+#EXTINF:-1,Near_FM
+200 http://proxima.shoutca.st:8114/stream
+#EXTINF:-1,Ocean_FM_Ireland
+200 http://edge4.audioxi.com/OCEANDAAC
+#EXTINF:-1,Celtic_Sounds
+302 https://stream.laut.fm/celtic-sounds
+#EXTINF:-1,GotRadio_-_Celtic_Crossing
+200 http://gr02.cdnstream.com:8010/
+#EXTINF:-1,Radio_Active
+200 http://radioactiveinternational.org:8000/ddd.mp3/
+#EXTINF:-1,UCB_Ireland
+400 http://stream.btsstream.com:18022/ucbireland
+#EXTINF:-1,GCR_Digital_Radio
+https://uk6.internet-radio.com/proxy/gcrdigitalradio?mp=/stream/
+#EXTINF:-1,Irish_Radio_Online
+200 http://cast1.citrus3.com:8866/stream
+#EXTINF:-1,irish-folk
+302 http://stream.laut.fm/irish-folk
+#EXTINF:-1,Irish_Country_Music_Radio_Studio_1
+200 http://46.28.49.164:7502/live
+#EXTINF:-1,Finn_Valley_FM
+200 http://visual.shoutca.st/stream/finnvalleyfm/stream
+#EXTINF:-1,RadioMoLI
+https://streamer.radio.co/s378b67405/listen
+#EXTINF:-1,Celtic_Trad_&_Folk_Radio
+200 https://quincy.torontocast.com:2865/stream
+#EXTINF:-1,Cluck_Old_Hen
+401 http://149.248.63.246:8005/radio.mp3
+#EXTINF:-1,Emerald_Connection_Radio
+200 http://stream.radio.co/s023a007ae/listen
+#EXTINF:-1,East_Coast_Radio
+http://149.56.147.197:8295/stream
+#EXTINF:-1,Celtic_Salmon
+302 http://streaming.live365.com/a55531
+#EXTINF:-1,Patriot_Radio
+302 http://stream.zeno.fm/fd4v5tqybg0uv
+#EXTINF:-1,Up_The_Jive_Radio
+200 http://cast1.asurahosting.com:8640/stream
+#EXTINF:-1,Exclusively_The_Dubliners_
+200 https://streaming.exclusive.radio/er/thedubliners/icecast.audio
+#EXTINF:-1,Country_Western_Radio_-_Irish_Country
+200 http://drive.uber.radio/uber/cmririshcountry/icecast.audio
+#EXTINF:-1,Folk_Alley_–_Irish_Music_Stream
+200 https://freshgrass.streamguys1.com/folkalley-128mp3
+#EXTINF:-1,AirlessRadio_–_Green_Machine
+404 http://pureplay.cdnstream1.com/6058_128.mp3
+#EXTINF:-1,AM_950_WROL_–_WROL
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WROLAM.flv
+#EXTINF:-1,Celtic_Trad_Radio
+http://hazel.torontocast.com:2170/
+#EXTINF:-1,Ceol_FM_–_Soothing
+404 http://icy-e-05-gos.sharp-stream.com/clarefm.mp3?device=website
+#EXTINF:-1,Dublin’s_98FM
+200 http://stream.audioxi.com/98
+#EXTINF:-1,Dublin’s_ABC_–_All_Irish_Radio
+http://igor.torontocast.com:2280/stream
+#EXTINF:-1,Folkconnection
+http://radio.folkconnection.com:8968/stream/
+#EXTINF:-1,Godtfred_Radio
+http://142.4.217.133:8968/stream/
+#EXTINF:-1,GotRadio_–_Celtic_Crossing
+http://173.244.215.162:8010/
+#EXTINF:-1,macslons-irish-pub-radio
+http://87.98.217.63:24112/stream/
+#EXTINF:-1,Ocean_FM
+400 http://213.175.217.198:8000/donegal
+#EXTINF:-1,Owenea_FM_Radio
+http://c20.radioboss.fm:8053/autodj
+#EXTINF:-1,Radio_Celtic-Sounds
+302 http://stream.laut.fm/celtic-sounds
+#EXTINF:-1,Raidio_na_Life
+200 https://2j0z.com/radio/8000/radio.mp3
+#EXTINF:-1,AsonicA_radio
+400 https://stream.radiojar.com/bca7f63ehtuvv
+#EXTINF:-1,Naas_Radio_Online
+https://s4.radio.co/s14db2b3c0/listen
+#EXTINF:-1,REALRADIO_Ireland
+302 https://stream.zeno.fm/6g19fr9psnhvv
+#EXTINF:-1,iLove_Irish
+200 https://stream.audioxi.com/iirish
+#EXTINF:-1,Up_The_Jive
+https://cast1.asurahosting.com/proxy/jchayesl/stream
+#EXTINF:-1,CanAmRadio
+405 https://cheetah.streemlion.com:5120/stream
+#EXTINF:-1,Ceol_FM_Seanois
+https://listen.ceol.fm:8001/seanois.mp3
+#EXTINF:-1,Ceol_FM_Pipes
+https://listen.ceol.fm:8001/pipes.mp3
+#EXTINF:-1,Ceol_FM_Fiddle
+https://listen.ceol.fm:8001/fiddle.mp3
+#EXTINF:-1,Ceol_FM_Songs
+https://listen.ceol.fm:8001/songs.mp3
+#EXTINF:-1,Irish_Country_Radio
+404 https://www.liveradio.es/http://stream13.shoutcastsolutions.com:8020/listen.mp3
+#EXTINF:-1,Flirt_FM
+200 https://audio-edge-ey5nr.ams.s.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
+#EXTINF:-1,liveIreland
+200 http://192.111.140.11:8058/
+#EXTINF:-1,Q102
+200 https://gbradio.cdn.tibus.net/q102AAC64
+#EXTINF:-1,Midwest_Radio
+200 http://listen-midwest.sharp-stream.com/midwestfmie2.aac
+#EXTINF:-1,East_Coast_FM
+200 https://edge.audioxi.com/EASTCOAST
+#EXTINF:-1,All_Irish_Radio
+https://sky1.torontocast.com:2199/tunein/avwbmiui.pls
+#EXTINF:-1,Power_FM
+http://war.powerfm.org:8000/powerfm.mp3
+#EXTINF:-1,NearFM
+200 http://proxima.shoutca.st:8114/
+#EXTINF:-1,Community_Radio_Youghal
+400 https://cry104fmtech.radioca.st/stream
+#EXTINF:-1,Radio_Campania
+200 https://live.radiocampania.eu/radio/8000/radio.mp3
+#EXTINF:-1,Radio_Kelt_Magic
+200 http://misato.ru-hoster.com:8065/stream
+#EXTINF:-1,Absolute_Irish_Radio
+200 https://stream.audioxi.com/IRISH
+#EXTINF:-1,Today_FM
+200 https://edge7.audioxi.com/TDAAC?aw_0_1st.playerId=BMIE_TuneIn
+#EXTINF:-1,Radio_Kerry
+200 https://edge.audioxi.com/KERRYAAC
+#EXTINF:-1,AM_1540_WADK
+200 http://crystalout.surfernetwork.com:8001/WADK-AM_MP3
+#EXTINF:-1,UGFM
+401 http://streamer3.rightclickitservices.com:8905/
+#EXTINF:-1,EAST_COAST_FM
+200 http://185.80.220.12:8166/stream?
+#EXTINF:-1,Charityradio.ie
+http://37.187.79.93:8640/stream.nsv

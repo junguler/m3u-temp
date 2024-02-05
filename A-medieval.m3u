@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,monacensis
+200 http://monacensis.stream.laut.fm/monacensis
+#EXTINF:-1,mittelalterserver
+200 http://mittelalterserver.stream.laut.fm/mittelalterserver
+#EXTINF:-1,schwarzeszene
+200 http://schwarzeszene.stream.laut.fm/schwarzeszene
+#EXTINF:-1,der_barde
+200 http://der-barde.stream.laut.fm/der-barde
+#EXTINF:-1,mittelalter_net
+200 http://mittelalter-net.stream.laut.fm/mittelalter-net
+#EXTINF:-1,miriquidi
+200 http://miriquidi.stream.laut.fm/miriquidi
+#EXTINF:-1,marktkalendarium
+200 http://marktkalendarium.stream.laut.fm/marktkalendarium
+#EXTINF:-1,rabenwind
+200 http://rabenwind.stream.laut.fm/rabenwind
+#EXTINF:-1,fantasyradio
+200 http://fantasyradio.stream.laut.fm/fantasyradio
+#EXTINF:-1,mittelalter
+200 http://mittelalter.stream.laut.fm/mittelalter
+#EXTINF:-1,early_music
+http://early_music.stream.laut.fm/early_music
+#EXTINF:-1,radio_aena
+200 http://radio-aena.stream.laut.fm/radio-aena
+#EXTINF:-1,beni_oldenburg
+http://beni_oldenburg.stream.laut.fm/beni_oldenburg
+#EXTINF:-1,grimyhell
+200 http://grimyhell.stream.laut.fm/grimyhell
+#EXTINF:-1,filiinoctis
+200 http://filiinoctis.stream.laut.fm/filiinoctis
+#EXTINF:-1,thedarkside
+200 http://thedarkside.stream.laut.fm/thedarkside
+#EXTINF:-1,Toutes_les_couleurs_du_trad
+200 https://my2.radiolize.com/radio/8100/radio.mp3
+#EXTINF:-1,Radio_Monacensis
+302 https://stream.laut.fm/monacensis
+#EXTINF:-1,Durchgehört
+https://1.stream.laut.fm/durchgehoert
+#EXTINF:-1,Radio_Sinnflut
+302 http://stream.laut.fm/sinnflut
+#EXTINF:-1,Narrenwut
+302 http://stream.laut.fm/mittelalter-net
+#EXTINF:-1,Schwarzeszene
+302 http://stream.laut.fm/schwarzeszene
+#EXTINF:-1,Fantasy_Radio
+302 http://stream.laut.fm/fantasyradio
+#EXTINF:-1,Radio_Caprice_-_Medieval_Folk
+404 http://213.141.131.10:8002/medievalfolk/
+#EXTINF:-1,Radio_Bouc_Emiss'Air
+200 https://listen.radioking.com/radio/303082/stream/453334
+#EXTINF:-1,adventon-radio
+http://stream1.laut.fm/adventon-radio
+#EXTINF:-1,Misterium
+404 http://streamingv2.shoutcast.com/Misterium
+#EXTINF:-1,Radio_Nostalgija
+http://srv.mediastriming.com:8004/stream
+#EXTINF:-1,Wyldwood_Radio
+http://hazel.torontocast.com:1425/stream

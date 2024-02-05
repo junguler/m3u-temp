@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Radio_Vilaverde_Limitada
+200 https://fm995.ddns.net/hls1/fm995.m3u8
+#EXTINF:-1,Rádio_Macau_Portuguese
+200 https://live4.tdm.com.mo/live/_definst_/rch1.live/chunklist.m3u8
+#EXTINF:-1,Radio_Macau_Cantonese
+200 https://live4.tdm.com.mo/live/_definst_/rch2.live/chunklist.m3u8
+#EXTINF:-1,RADIO_MARIA_MACAU
+200 http://dreamsiteradiocp2.com:8038/stream
+#EXTINF:-1,Barba_Radio_-_Putzfimmel_Listen_live
+https://barbaradio.hoerradar.de/barbaradio-putzfimmel-mp3-hq
+#EXTINF:-1,Radio_New_York_Live_Listen_live
+200 https://streaming.radiostreamlive.com/radionylive_devices
+#EXTINF:-1,antenne_1_Kochen_und_genießen_Listen_live
+404 https://stream.antenne1.de/kochen/livestream2.mp3
+#EXTINF:-1,House_Радио_-_RadioSpinner_Listen_live
+521 https://live.radiospinner.com/house-64
+#EXTINF:-1,Virgin_Radio_Switzerland_Hits_Listen_live
+https://icecast.argovia.ch/vhits
+#EXTINF:-1,140_Walcolm_Listen_live
+302 https://stream.laut.fm/140-walcolm
+#EXTINF:-1,Maquina_97.7_FM_Listen_live
+https://play10.tikast.com/proxy/xhot?mp=/stream%E2%80%A8

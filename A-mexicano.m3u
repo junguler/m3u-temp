@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Radio_UNAM_-_FM_96.1_mhz
+http://server1.usatelk.com:8950/
+#EXTINF:-1,RadioAMLO.org
+200 http://stream.radioamlo.info:8010/stream.mp3

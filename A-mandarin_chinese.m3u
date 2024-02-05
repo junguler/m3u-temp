@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Jesus_Coming_FM_-_Cantonese
+200 http://live.jesuscomingfm.com:8332/stream/
+#EXTINF:-1,Marc_On_Music
+302 http://listen.radionomy.com/marconmusic
+#EXTINF:-1,LamRim_Tibetan_Buddhist_Internet_Radio
+200 http://199.180.72.2:9097/lamrim
+#EXTINF:-1,Online_Chinese_Classical_Music_Radio
+400 https://radio.chinesemusicworld.com/chinesemusic.ogg?_=1
+#EXTINF:-1,CRI_Easy_FM_-_FM_91.5
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1,Big_B_Radio_-_CPOP
+https://antares.dribbcast.com/proxy/cpop?mp=/s
+#EXTINF:-1,Taiyuan_Private_Car_Radio
+400 https://lhttp.qingting.fm/live/4018/64k.mp3
+#EXTINF:-1,Beijing_Music_Radio_97.4_FM
+400 http://lhttp.qingting.fm/live/332/64k.mp3

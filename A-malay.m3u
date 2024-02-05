@@ -1,0 +1,519 @@
+#EXTM3U
+#EXTINF:-1,Nasional_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC_SC
+#EXTINF:-1,Radio_Klasik
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC.aac
+#EXTINF:-1,Asyil_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC
+#EXTINF:-1,BFM_89.9
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac
+#EXTINF:-1,Radio_Brunei_Nasional_FM
+200 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+#EXTINF:-1,Pilihan_FM
+200 https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
+#EXTINF:-1,Pelangi_FM
+200 https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
+#EXTINF:-1,Harmoni_FM
+200 https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+#EXTINF:-1,Nur_Islam_FM
+200 https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
+#EXTINF:-1,BFBS_Brunei
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs10.aac
+#EXTINF:-1,BFBS_Gurkha_Brunei
+200 http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs3.mp3
+#EXTINF:-1,Kristal_FM
+400 http://202.152.73.2:801/kfm
+#EXTINF:-1,Warna_942
+200 https://19183.live.streamtheworld.com/WARNA942FM_PREM.aac
+#EXTINF:-1,Ria_897
+200 https://19183.live.streamtheworld.com/RIA897FM_PREM.aac
+#EXTINF:-1,Naga_FM
+http://songs.nagafm.com:8006/stream.mp3/ogg
+#EXTINF:-1,Radio_Nurul_Quran
+http://cloud.tujuh.my:8073/stream
+#EXTINF:-1,Cats_FM
+200 http://catsfm2022.cspixel.com:7019/stream/
+#EXTINF:-1,Era_FM
+502 http://astro2.rastream.com/era
+#EXTINF:-1,Hitz_FM
+502 http://astro2.rastream.com/hitz
+#EXTINF:-1,Hot_FM
+200 http://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:-1,Ria_897_Radio
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac
+#EXTINF:-1,Sinar_FM
+502 http://astro2.rastream.com/sinar
+#EXTINF:-1,Warna_942_Radio
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
+#EXTINF:-1,Radio_Alam_Seni_FM
+200 http://s1.cmesolution.my:6178/stream.mp3
+#EXTINF:-1,Radio_Lagenda
+200 http://procyon.shoutca.st:8346/
+#EXTINF:-1,3G_FM_Radio
+http://167.114.131.90:5232/
+#EXTINF:-1,988_FM
+404 http://starrfm.rastream.com/starrfm-988
+#EXTINF:-1,AFO_Radio
+http://stream.aforadio.com:8000/aforadio.mp3
+#EXTINF:-1,Ai_FM
+https://aifmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch020/rtm-ch020.m3u8
+#EXTINF:-1,Alam_MayaFM
+200 http://192.99.8.192:3142/
+#EXTINF:-1,Amal_FM
+http://s10.voscast.com:7874/
+#EXTINF:-1,Amboi_FM
+http://amboifm.iradio.work:8000/stream
+#EXTINF:-1,Arjuna_FM
+http://s1.cmesolution.my:5368/1/
+#EXTINF:-1,Astro_Arena_Radio
+502 https://astro1.rastream.com/amp-arena
+#EXTINF:-1,Bapakku_FM
+http://radio.bapakku.fm:8000/stream.mp3
+#EXTINF:-1,Batu_Kurau_FM
+http://192.111.140.6:8146/
+#EXTINF:-1,Bayu_FM
+501 http://ingest2.astro4.rastream.com/bayu
+#EXTINF:-1,Best_104_FM
+http://s8.voscast.com:8686/stream/1/
+#EXTINF:-1,Best_FM_Malaysia
+http://s8.voscast.com:8686/
+#EXTINF:-1,BFM_Radio__The_Business_Station
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac
+#EXTINF:-1,Borneotune_Radio
+http://199.195.194.140:8085/stream
+#EXTINF:-1,Classic_Rock_Asia
+502 https://astro4.rastream.com/rock
+#EXTINF:-1,Down_Memory_Lane
+302 https://listen.radionomy.com/downmemorylane
+#EXTINF:-1,Durian_FM
+http://s3.voscast.com:7140/
+#EXTINF:-1,DurianAsean
+http://s9.voscast.com:7974/
+#EXTINF:-1,Empayar_Radio_Rocks
+http://188.165.212.154:8044/stream
+#EXTINF:-1,ERA_fm
+502 https://astro2.rastream.com/era
+#EXTINF:-1,ERA_FM_Sabah
+502 https://astro2.rastream.com/amp-era-kk
+#EXTINF:-1,Era_FM_Sarawak
+502 https://astro2.rastream.com/amp-era-kch
+#EXTINF:-1,Fly_FM
+200 https://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:-1,Funker_FM
+200 http://167.114.131.90:5968/ffm
+#EXTINF:-1,Gegar_Muzik_FM
+https://167.114.131.90/proxy/gegarmuzikfm?mp=/stream
+#EXTINF:-1,Gempak_3GFM
+http://167.114.131.90:5232/?.mp3audio.mp3
+#EXTINF:-1,Gempar_Fm
+200 http://usa1.fastcast4u.com:5058/
+#EXTINF:-1,Hijau_FM
+200 https://stream.radio.co/s4c9c7e0cb/listen
+#EXTINF:-1,ILA_FM
+200 http://167.114.131.90:5442/
+#EXTINF:-1,Impian_FM
+200 http://167.114.131.90:6156/
+#EXTINF:-1,India_Beat
+502 https://astro4.rastream.com/india
+#EXTINF:-1,Jalinan_Kasih_FM
+404 https://eu.radiocastvps.com/radio/8000/radio.mp3
+#EXTINF:-1,Jazz_Abe_Radio_Online_Malaysia
+404 https://stream.zeno.fm/r0xpnqmu7mruv
+#EXTINF:-1,Jazz_Lounge_Malaysia
+200 http://eu8.fastcast4u.com:5068/
+#EXTINF:-1,Jei_FM
+http://radio.jeifm.com:8808/jeiradio
+#EXTINF:-1,Jelapang_FM
+http://167.114.131.90:6450/stream/
+#EXTINF:-1,Kinabalu_Highway_Station
+200 http://5.63.151.52:7236/khsfm?1534573997322
+#EXTINF:-1,Kool_FM
+200 https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1,Kuala_Sentul_Heart_FM
+http://172.83.43.165:8000/
+#EXTINF:-1,Melody_FM
+502 https://astro3.rastream.com/melody
+#EXTINF:-1,Mentari_FM
+http://103.28.148.18:9122/
+#EXTINF:-1,MoonZir_FM
+http://cloud.tujuh.my:8039/stream
+#EXTINF:-1,My_FM
+502 https://astro1.rastream.com//myfm?type=mp3
+#EXTINF:-1,My_FM_Chinese
+502 https://astro1.rastream.com/myfm
+#EXTINF:-1,My_Friends_Station_Lu_EnjOy_Wa_Heppy_ArOrareyy
+http://167.114.131.90:5186/listen.pls
+#EXTINF:-1,My_Kampus_Radio
+https://192.99.41.102/proxy/voicespl/?mp=/stream
+#EXTINF:-1,MyFriends_Station
+http://167.114.131.90:5186/stream
+#EXTINF:-1,MySpecialDay
+302 https://listen.radionomy.com/myspecialday
+#EXTINF:-1,Neuro_Nadi_Al_Quran
+http://radio.neuronadi.fm:8000/live
+#EXTINF:-1,NRfm
+200 https://freeuk27.listen2myradio.com/live.mp3?typeportmount=s1_3450_stream_600686368
+#EXTINF:-1,Pendorakit_FM
+http://s2.voscast.com:10864/
+#EXTINF:-1,Pine_Net_Radio
+200 http://167.114.131.90:5744/stream
+#EXTINF:-1,Radio_Alam_MayaFM
+200 http://192.99.8.192:3142/stream
+#EXTINF:-1,Radio_Bapakku
+http://radio.bapakku.fm:8000/
+#EXTINF:-1,Radio_Dealova_FM
+http://172.83.43.164:8282/
+#EXTINF:-1,Radio_Gemersik_FM
+http://167.114.131.90:5232/stream
+#EXTINF:-1,Radio_Havoc_FM__Terbaik_Di_Hatiku
+https://eu8.fastcast4u.com/proxy/havocast?mp=/stream
+#EXTINF:-1,Radio_Iras_FM
+200 http://167.114.131.90:5300/stream
+#EXTINF:-1,Radio_JKT
+401 http://sc11.spacialnet.com/stream/2830/
+#EXTINF:-1,Radio_Kamek
+http://s2.voscast.com:7596/stream.mp3
+#EXTINF:-1,Radio_Klatekita
+http://s6.voscast.com:9748/
+#EXTINF:-1,Radio_KOBATFM
+http://198.27.68.65:8850/
+#EXTINF:-1,Radio_Lambat_Tinggal_FM
+http://172.83.43.166:8000/
+#EXTINF:-1,Radio_Logam
+302 https://listen.radionomy.com/radiologam
+#EXTINF:-1,Radio_Lungi_Fm
+404 https://streamingv2.shoutcast.com/Geetmala
+#EXTINF:-1,Radio_Malayalam
+200 https://radiomalayalamfm.com/radio/8000/radio.mp3
+#EXTINF:-1,RADIO_O_M_G
+http://s1.cmesolution.my:5600/
+#EXTINF:-1,Radio_Osai_FM
+502 https://astro4.rastream.com/osai
+#EXTINF:-1,Radio_Sunnah
+http://radiosunnah.my:8000/live
+#EXTINF:-1,Radio_Ummah_FM
+http://comet.shoutca.st:8452/stream/1/
+#EXTINF:-1,RADIOROSAK
+http://51.15.152.81:9114/stream
+#EXTINF:-1,Rilek_FM
+http://67.212.188.243:80/
+#EXTINF:-1,Rojak_FM
+302 https://listen.radionomy.com/rojakfm
+#EXTINF:-1,RythmMixFm
+502 https://rythmmixfm.radioca.st/stream
+#EXTINF:-1,Sabah_FM
+http://192.111.140.6:8131/stream.mp3
+#EXTINF:-1,Sabah_V_FM
+http://192.111.140.6:8140/stream.mp3
+#EXTINF:-1,Sabah_Vfm
+http://192.111.140.6:8140/
+#EXTINF:-1,Sai_FM
+http://s2.voscast.com:9742/stream1485942010371/1
+#EXTINF:-1,Sai_Radio_FM
+http://s2.voscast.com:9742/
+#EXTINF:-1,Senyum_Selalu_Sempoi
+http://s1.cmesolution.my:5130/
+#EXTINF:-1,SitiFM
+http://107.182.231.73:7090/live
+#EXTINF:-1,Soup_FM
+200 http://usa7.fastcast4u.com:8808/soupfm
+#EXTINF:-1,Suara_Kenyalang_FM
+501 http://ingest2.astro4.rastream.com/kenyalang
+#EXTINF:-1,Suara_Rakyat_FM
+http://s9.voscast.com:7670/
+#EXTINF:-1,Sukma_FM
+http://dengar.sukmafm.com:8000/
+#EXTINF:-1,Suria_FM
+404 https://starrfm.rastream.com/starrfm-suria
+#EXTINF:-1,Take5FM
+http://167.114.131.90:5286/stream/
+#EXTINF:-1,Thr_Gegar
+502 https://astro3.rastream.com/gegar
+#EXTINF:-1,Thr_Gegar_FM
+502 https://astro3.rastream.com/gegar?type=mp3
+#EXTINF:-1,TraXX_FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
+#EXTINF:-1,Wheelerz_Net_Radio
+200 http://167.114.131.90:5448/
+#EXTINF:-1,X_FM
+200 https://audri.rastream.com/amp-xfm_audri?type=mp3
+#EXTINF:-1,Melayu_Klasik
+302 https://stream.zeno.fm/4s44thh7yf9uv
+#EXTINF:-1,AADHIRAI_FM
+302 https://stream.zeno.fm/gs7vbtkxfy8uv
+#EXTINF:-1,Soul_Radio_Malaysia
+302 https://stream.zeno.fm/y0ckbqm4yf9uv
+#EXTINF:-1,XcitedFM
+302 https://stream.zeno.fm/mnau6k172rhvv
+#EXTINF:-1,ANF_RADIO
+404 https://stream.zeno.fm/n19l8xvwfcutv
+#EXTINF:-1,KDimensifm
+302 https://stream.zeno.fm/vfenq4seprhvv
+#EXTINF:-1,AqFad_Radio
+302 https://stream.zeno.fm/92t6ctpayf9uv
+#EXTINF:-1,NADI_FM_Citarasa_Anda
+302 https://stream.zeno.fm/73lqmdegbwbuv
+#EXTINF:-1,HIVE_media
+302 https://stream.zeno.fm/fyk9urr7z98uv
+#EXTINF:-1,ANIMAXVTUBER_RADIO_FM
+302 https://stream.zeno.fm/hd004xxt3a0uv
+#EXTINF:-1,Flora_fm_MY
+302 https://stream.zeno.fm/mmp6p7pw34zuv
+#EXTINF:-1,Radio_Paan_FM
+302 https://stream.zeno.fm/f2zg0mk3jzuvv
+#EXTINF:-1,Cafe_com_a_Torah
+302 https://stream.zeno.fm/pt62awam598uv
+#EXTINF:-1,5wh_Malayalam_Podcast_Radio
+302 https://stream.zeno.fm/qtyc30kqgy8uv
+#EXTINF:-1,Sarkis_fm
+302 https://stream.zeno.fm/7hzpv91tzv8uv
+#EXTINF:-1,PilotDarat_FM
+302 https://stream.zeno.fm/nb6rd9ck9hhvv
+#EXTINF:-1,TISPC._fm
+302 https://stream.zeno.fm/cwzdwpwxvhhvv
+#EXTINF:-1,Syok_FM
+302 https://stream.zeno.fm/993m1qbrtbruv
+#EXTINF:-1,ShayCool_Raya
+302 https://stream.zeno.fm/v161cx7e8s8uv
+#EXTINF:-1,BS_STUDIO
+302 https://stream.zeno.fm/5pk8bbxvn0hvv
+#EXTINF:-1,Mai_FM_-_Internet_Broadcast
+302 https://stream.zeno.fm/uprtx5wkd18uv
+#EXTINF:-1,salamfm
+302 https://stream.zeno.fm/3dy9yfydm48uv
+#EXTINF:-1,Maulana_FM
+302 https://stream.zeno.fm/078u1m3gf0hvv
+#EXTINF:-1,Jiwa.Fm
+302 https://stream.zeno.fm/kht92mhddc9uv
+#EXTINF:-1,Nostalgic_Days
+302 https://stream.zeno.fm/d3y3h4ghs68uv
+#EXTINF:-1,Alere_Flamman_Universal_with_Ibrahim_Gonzalez_and_Friends
+302 https://stream.zeno.fm/y9mqbnsruf9uv
+#EXTINF:-1,DZAKY_FM
+302 https://stream.zeno.fm/x8we9xx81k8uv
+#EXTINF:-1,CamfrogFM
+302 https://stream.zeno.fm/38c4912nh98uv
+#EXTINF:-1,Shahrizal_Nation
+302 https://stream.zeno.fm/qyu3q42skm0uv
+#EXTINF:-1,Radio_An-Najiyah
+302 https://stream.zeno.fm/gsn4kxkty68uv
+#EXTINF:-1,UI_Music_Station
+302 https://stream.zeno.fm/sgae2t7tn0hvv
+#EXTINF:-1,TonotFM
+302 https://stream.zeno.fm/yk34d0dp068uv
+#EXTINF:-1,Amboi_Segment_Broadcast
+302 https://stream.zeno.fm/2yhhgr29rm0uv
+#EXTINF:-1,Radio_Mega_pley
+302 https://stream.zeno.fm/bsxyf4y751zuv
+#EXTINF:-1,Toxic_city_radio
+302 https://stream.zeno.fm/3bh323n7938uv
+#EXTINF:-1,Pop_Erre_Jackson
+302 https://stream.zeno.fm/rxx6d9fbvv8uv
+#EXTINF:-1,OtiGito
+302 https://stream.zeno.fm/8uqnmwmprfhvv
+#EXTINF:-1,Best_FM
+302 https://stream.zeno.fm/a95t7442ss8uv
+#EXTINF:-1,miaradio
+302 https://stream.zeno.fm/ndh0amsgnrhvv
+#EXTINF:-1,OtiGeos
+302 https://stream.zeno.fm/9ppkkcg0uhhvv
+#EXTINF:-1,SUARA_CINTA_FM
+302 https://stream.zeno.fm/888eh3uswxhvv
+#EXTINF:-1,ChatxpressFM
+302 https://stream.zeno.fm/brfczfzhdpouv
+#EXTINF:-1,Radio_MAB
+302 https://stream.zeno.fm/qb5q7a3r8k0uv
+#EXTINF:-1,zetya.FM
+302 https://stream.zeno.fm/atem3gb7srhvv
+#EXTINF:-1,Radio_WOWfm
+302 https://stream.zeno.fm/402gbupxyuhvv
+#EXTINF:-1,CHEMOR_FM
+302 https://stream.zeno.fm/ph46tt5v7k0uv
+#EXTINF:-1,WPL-RC_MALAYSIA_FM
+302 https://stream.zeno.fm/khxsbm9nxk8uv
+#EXTINF:-1,Sinar_Pengharapan
+302 https://stream.zeno.fm/s2f5gpx741zuv
+#EXTINF:-1,WanzoxMyFM_-_Rentak_BurnProof_Anda
+302 https://stream.zeno.fm/gbq27z62qy8uv
+#EXTINF:-1,SALAM_FM
+302 https://stream.zeno.fm/yb0efwor13muv
+#EXTINF:-1,DJ_Training_Radio
+302 https://stream.zeno.fm/yxfz3ez3qy8uv
+#EXTINF:-1,Mahang_-_Internet_Broadcast
+302 https://stream.zeno.fm/8pq2490b038uv
+#EXTINF:-1,Dzaahin_Sufiyya_FM
+302 https://stream.zeno.fm/86q608zf368uv
+#EXTINF:-1,PAIKVTFM
+302 https://stream.zeno.fm/s5ueruekr68uv
+#EXTINF:-1,Sembangsemalaysia.fm
+302 https://stream.zeno.fm/ykhsnd30ynhvv
+#EXTINF:-1,Srikinta.fm
+302 https://stream.zeno.fm/hqcknw4enkhvv
+#EXTINF:-1,MIBradio
+302 https://stream.zeno.fm/bm557kzmr18uv
+#EXTINF:-1,Relaks_FM
+302 https://stream.zeno.fm/r1sp845nzd0uv
+#EXTINF:-1,CHEMOR_FM_80_90
+302 https://stream.zeno.fm/23zbrwsr8k0uv
+#EXTINF:-1,Melayu_FM
+302 https://stream.zeno.fm/27umg0rw808uv
+#EXTINF:-1,ANAstation
+302 https://stream.zeno.fm/tf79rp6qg48uv
+#EXTINF:-1,TMM2_FM
+302 https://stream.zeno.fm/mq0pxfsf0chvv
+#EXTINF:-1,Listentoelzfm
+302 https://stream.zeno.fm/htvksrczng8uv
+#EXTINF:-1,UNDEAD_FM
+302 https://stream.zeno.fm/ibrpc2izxoiuv
+#EXTINF:-1,Radio_Internet_Kelantan
+302 https://stream.zeno.fm/gm1svnzblyavv
+#EXTINF:-1,MalakatRadio
+302 https://stream.zeno.fm/wx4xds1m7k8uv
+#EXTINF:-1,Hashtag_One_Radio
+302 https://stream.zeno.fm/p9zhhf6gachvv
+#EXTINF:-1,skhmtfm
+302 https://stream.zeno.fm/nfgzvr3v298uv
+#EXTINF:-1,NALURI_FM
+302 https://stream.zeno.fm/a7wz5xvyfs8uv
+#EXTINF:-1,zwanskywalker_studio
+302 https://stream.zeno.fm/kvzk4r5n108uv
+#EXTINF:-1,RADIO_RZO_SINGAPORE
+302 https://stream.zeno.fm/80b49nx6schvv
+#EXTINF:-1,Palak_Ventures_FM
+302 https://stream.zeno.fm/9y8n01b61k8uv
+#EXTINF:-1,J-Rock_FM
+302 https://stream.zeno.fm/qd4ceh92kb3vv
+#EXTINF:-1,Radio_Iskandar
+302 https://stream.zeno.fm/ceq218b5098uv
+#EXTINF:-1,MusicNation
+302 https://stream.zeno.fm/nz084cvuxd0uv
+#EXTINF:-1,DEEN_FM
+302 https://stream.zeno.fm/qosgblebmcjuv
+#EXTINF:-1,BINTANG_fm
+302 https://stream.zeno.fm/1p0tmcfqq68uv
+#EXTINF:-1,Malkim_Ministry_dot_FM
+302 https://stream.zeno.fm/d425daqttzzuv
+#EXTINF:-1,PBN_Radio_Malaysia
+302 https://stream.zeno.fm/7nfnrh4qmm0uv
+#EXTINF:-1,MyNasheed
+302 https://stream.zeno.fm/f3b4b3kq598uv
+#EXTINF:-1,Masjid_Al-Imam_Ibnu_Katsir_Karimun
+302 https://stream.zeno.fm/ux15kkp4srhvv
+#EXTINF:-1,HijrahFM
+302 https://stream.zeno.fm/amwz2u65138uv
+#EXTINF:-1,Tenang_Jiwa
+302 https://stream.zeno.fm/bru72fsdd78uv
+#EXTINF:-1,LTR_FM_Radio_Music_(Love_Trust_Respect)
+302 https://stream.zeno.fm/p1ddt1trwchvv
+#EXTINF:-1,PAPAROCK_STYLE
+302 https://stream.zeno.fm/h0t5rducsc9uv
+#EXTINF:-1,Bujangs.FM
+302 https://stream.zeno.fm/64enbkx1b48uv
+#EXTINF:-1,EnigmaFM
+302 https://stream.zeno.fm/a86r4hsah0hvv
+#EXTINF:-1,PBN_Radio_Nurani
+302 https://stream.zeno.fm/2uyfsr25sm0uv
+#EXTINF:-1,247_Muzik_FM
+302 https://stream.zeno.fm/trc6h9fd5uhvv
+#EXTINF:-1,Radio_Aneka
+302 https://stream.zeno.fm/hay4qxdxdg0uv
+#EXTINF:-1,daknakal
+302 https://stream.zeno.fm/nt2ks1vd368uv
+#EXTINF:-1,FAKHRULNOIR_FM
+302 https://stream.zeno.fm/z53ycf1iwhnvv
+#EXTINF:-1,SCARLET_RADIO
+302 https://stream.zeno.fm/ebxbdk6zw68uv
+#EXTINF:-1,Borakbalun
+302 https://stream.zeno.fm/nd3m07gpzc9uv
+#EXTINF:-1,Warna_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac
+#EXTINF:-1,Ria_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac
+#EXTINF:-1,Mix_FM
+502 http://astro2.rastream.com/mix
+#EXTINF:-1,THR_Gegar
+502 http://astro3.rastream.com/gegar
+#EXTINF:-1,RTM_Radio_Klasik
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
+#EXTINF:-1,NasheedFM
+200 http://stereo.nasyidfm.com:8000/
+#EXTINF:-1,BERNAMA_Radio
+http://78.129.187.73:36677/
+#EXTINF:-1,Radio_Malaysia_PERAKfm
+https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/playlist.m3u8
+#EXTINF:-1,RTM_Selangor_FM
+https://selangorfmmobile.secureswiftcontent.com/rtm-ch023/rtm-ch023/playlist.m3u8
+#EXTINF:-1,RTM_Pahang_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/PAHANG_FMAAC_SC
+#EXTINF:-1,Hijau.FM
+200 https://stream.radio.co/s4c9c7e0cb/low
+#EXTINF:-1,RTM_Keningau_FM
+http://192.111.140.6:8148/
+#EXTINF:-1,Aswaja_FM
+http://sci.streamingmurah.com:8113/stream
+#EXTINF:-1,Radio_Malaysia_Perlis
+https://perlisfmmobile.secureswiftcontent.com/rtm-ch040/rtm-ch040/playlist.m3u8
+#EXTINF:-1,RTM_KLFM
+https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/playlist.m3u8
+#EXTINF:-1,CeriaFM
+http://ceriafm.iradio.work:8080/
+#EXTINF:-1,IdoLA.FM
+https://usa18.fastcast4u.com/proxy/idolafm?mp=/1
+#EXTINF:-1,RTM_Asyik_FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+#EXTINF:-1,KC_FM
+http://radio.kcfm.org:8000/128
+#EXTINF:-1,Dealova_FM
+http://dfm.iradio.work:8282/
+#EXTINF:-1,Mahligai_FM
+https://s9.voscast.com:9413/live
+#EXTINF:-1,Syapalikhfm
+200 http://cloud.tujuh.my:8000/
+#EXTINF:-1,Rentak_Pelangi_Muzik_FM
+http://stream.tujuh.my/proxy/rentakpelangifm/stream
+#EXTINF:-1,AlamSeni_FM
+200 http://167.114.131.90:6178/stream
+#EXTINF:-1,Delima_FM
+200 http://167.114.131.90:5610/
+#EXTINF:-1,De_Awan_FM
+http://cassini.shoutca.st:8068/stream
+#EXTINF:-1,MyEidol_FM
+http://212.24.109.1:8264/
+#EXTINF:-1,Jesus_Coming_FM_-_Malay
+http://live.jesuscomingfm.com:8268/
+#EXTINF:-1,RCFM
+http://live.rcfm.my:8010/128kbps
+#EXTINF:-1,Radio_FeldaFM
+http://s1.cmesolution.my:5634/
+#EXTINF:-1,FeldaFM_-_RGWP
+http://167.114.131.90:5634/1
+#EXTINF:-1,MOE_Radiothai
+200 http://www.moeradiothai.net:1935/live/moe32.sdp/playlist.m3u8
+#EXTINF:-1,RS_-_Radio_Sukan_Anda
+https://c23.radioboss.fm:8094/stream
+#EXTINF:-1,ANF_Radio
+200 https://c19.radioboss.fm:8119/stream
+#EXTINF:-1,Ceritera_FM_
+200 http://live.ceriterafm.my:8000/
+#EXTINF:-1,Radio_wayanad_
+302 https://stream.zeno.fm/pmp6rvqpqjyvv
+#EXTINF:-1,PENJALA
+http://live.penjala.net/radio/8000/128kbps
+#EXTINF:-1,Opus
+502 https://astro4.rastream.com/opus
+#EXTINF:-1,Jazz_Radio_Malaysia
+502 https://astro4.rastream.com/jazz
+#EXTINF:-1,Gold
+502 https://astro4.rastream.com/gold
+#EXTINF:-1,OSAI_FM
+200 https://audri.rastream.com/amp-xfm_audri
+#EXTINF:-1,Hot_FM_T'ganu
+200 https://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:-1,SINAR_FM
+502 https://astro2.rastream.com/sinar
+#EXTINF:-1,hitz
+502 https://astro2.rastream.com/hitz
+#EXTINF:-1,Telefonia_da_Amadora
+400 http://148.71.86.214:8000/telefoniadaamadora
+#EXTINF:-1,Kedah_FM
+200 https://23683.live.streamtheworld.com/KEDAH_FMAAC_SC

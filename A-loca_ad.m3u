@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Cadena_100_Andorra
+400 http://flucast-b04-04.flumotion.com/cope/cadena100-low.mp3
+#EXTINF:-1,Catalunya_Ràdio
+403 https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8
+#EXTINF:-1,ROP_-_Rádio_Ondas_de_Portugal
+http://144.76.58.102:9538/
+#EXTINF:-1,Ràdio_Valira
+302 http://91.187.93.115:8020/stream/1
+#EXTINF:-1,Pròxima_FM
+200 http://91.187.93.115:8000/
+#EXTINF:-1,RNA_Radio_Andorra
+https://videos.rtva.ad/live/rna/playlist.m3u8
+#EXTINF:-1,RTVA_Andorra_Música
+https://videos.rtva.ad/live/am/playlist.m3u8
+#EXTINF:-1,KW_ROCK
+http://192.99.17.12:5230/stream

@@ -1,0 +1,1001 @@
+#EXTM3U
+#EXTINF:-1,Cadena_COPE
+400 https://net1-cope-rrcast.flumotion.com/cope/net1.mp3
+#EXTINF:-1,Los_40_Principales
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC_SC
+#EXTINF:-1,EsRadio
+200 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
+#EXTINF:-1,Cadena_SER
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC_SC
+#EXTINF:-1,KISS_FM
+301 http://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-1,Onda_Cero_Madrid
+200 https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
+#EXTINF:-1,Cadena_100
+400 https://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3
+#EXTINF:-1,RNE_Radio_Nacional
+https://rne.rtveradio.cires21.com/rne_hc.mp3
+#EXTINF:-1,Europa_FM
+403 https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+#EXTINF:-1,Cadena_Dial
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC_SC
+#EXTINF:-1,Rock_FM
+400 https://rockfm-cope-rrcast.flumotion.com/cope/rockfm.mp3
+#EXTINF:-1,Los40_Classic
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC_SC
+#EXTINF:-1,Cadena_COPE_Madrid
+400 https://madrid-cope-rrcast.flumotion.com/cope/madrid.mp3
+#EXTINF:-1,Radio_Marca_Nacional
+http://radiomarca.streaming-pro.com:8030/radiomarca.mp3
+#EXTINF:-1,Hit_FM
+301 http://hitfm.kissfmradio.cires21.com/hitfm.mp3
+#EXTINF:-1,RAC_1
+301 https://streaming.rac1.cat/
+#EXTINF:-1,RNE_Radio_5
+https://radio5.rtveradio.cires21.com/radio5_hc.mp3
+#EXTINF:-1,LOS40_Urban
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC_SC
+#EXTINF:-1,Melodía_FM
+http://icecast-streaming.nice264.com/melodiafmback
+#EXTINF:-1,MegaStarFM
+400 https://megastar-cope-rrcast.flumotion.com/cope/megastar.mp3
+#EXTINF:-1,Loca_FM_Urban
+http://audio-online.net:8012/live
+#EXTINF:-1,RNE_Radio_3
+https://radio3.rtveradio.cires21.com/radio3_hc.mp3
+#EXTINF:-1,Loca_FM
+http://audio-online.net:2300/live
+#EXTINF:-1,80s_90s_Super_Pop_Hits
+404 https://streamingv2.shoutcast.com/80s90ssuperpophits?+ad=radiono5+&+extReferer=http%3A%2F%2F80s90ssuperpophits.playtheradio.com%2F+&+lang=pt-PT%2Cpt&tsUid=8dfc7cdc-b468-4e61-afa0-133b17919e38+
+#EXTINF:-1,Flaix_FM
+200 http://radiostream.flaixfm.cat:8000/
+#EXTINF:-1,Blue_Marlin_Ibiza_Radio
+404 https://ice1.viastreaming.net/live
+#EXTINF:-1,Los40_Dance
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC_SC
+#EXTINF:-1,Cadena_COPE_Sevilla
+400 https://wecast-b01-02.flumotion.com/copesedes/sevilla.mp3
+#EXTINF:-1,Radiolé
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.asx_SC
+#EXTINF:-1,Catalunya_Ràdio
+403 https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8
+#EXTINF:-1,RNE_Radio_Clásica
+https://radioclasica.rtveradio.cires21.com/radioclasica_hc.mp3
+#EXTINF:-1,Ibiza_Global_Radio
+404 SimpleHTTP/0.6 https://listenssl.ibizaglobalradio.com:8024/stream
+#EXTINF:-1,Canal_Fiesta_Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/playlist.m3u8
+#EXTINF:-1,Café_del_Mar
+https://streams.radio.co/se1a320b47/listen
+#EXTINF:-1,Cadena_COPE_Barcelona_FM
+https://wecast-m02-04.flumotion.com/copesedes/barcelona.mp3
+#EXTINF:-1,Costa_del_Mar_Chillout
+http://stream.cdm-chillout.com:8020/stream-mp3-Chill
+#EXTINF:-1,Ibiza_Beach_Radio
+http://144.217.129.213:9841/
+#EXTINF:-1,Catalunya_Informació
+403 https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8
+#EXTINF:-1,Ràdio_Flaixbac
+404 SimpleHTTP/0.6 https://flaixbac.streaming-pro.com:8005/flaixbac.mp3
+#EXTINF:-1,Onda_Cero_Sevilla
+200 https://livefastly-webs.ondacero.es/sevilla-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_COPE_Valencia
+400 https://flucast-b03-03.flumotion.com/cope/net1.mp3
+#EXTINF:-1,Cadena_SER_Sevilla
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA_SC
+#EXTINF:-1,Gozadera_FM
+https://server.spainbroadcast.net:10998/1
+#EXTINF:-1,Radio_Intereconomía
+403 https://streaming.intereconomia.com/
+#EXTINF:-1,Loca_FM_Remember
+http://5.39.66.128:8006/live
+#EXTINF:-1,Cadena_SER_Madrid
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID_SC
+#EXTINF:-1,Radio_María_España
+200 http://dreamsiteradiocp.com:8060/
+#EXTINF:-1,Radio_Marca_Barcelona
+https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream
+#EXTINF:-1,EiTB_Radio_Euskadi
+200 http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3
+#EXTINF:-1,CanalSur_Radio_Andalucía
+https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/playlist.m3u8
+#EXTINF:-1,Cadena_SER_Barcelona
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA_SC
+#EXTINF:-1,Ibiza_Sonica
+200 http://s1.sonicabroadcast.com:7005/
+#EXTINF:-1,Onda_Cero_Valencia
+200 https://livefastly-webs.ondacero.es/valencia-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_Dial_Andalucía_Este_91.8
+200 http://streaming8.elitecomunicacion.es:8226/
+#EXTINF:-1,Cadena_SER_Valencia
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC_SC?csegid=10000&dist=c
+#EXTINF:-1,Onda_Cero_Barcelona
+200 https://livefastly-webs.ondacero.es/barcelona-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_COPE_Málaga
+https://flucast-b01-04.flumotion.com/cope/net1.mp3
+#EXTINF:-1,Loca_FM_Tech_House
+http://5.39.66.128:8008/live
+#EXTINF:-1,RAC_105
+301 https://streaming.rac105.cat/
+#EXTINF:-1,Cadena_SER_Bilbao
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BILBAOAAC_SC
+#EXTINF:-1,Costa_del_Mar_Deep_House
+http://stream.cdm-deephouse.com:8012/stream-mp3-Deep
+#EXTINF:-1,Cadena_Nostalgia
+https://server.spainbroadcast.net:10985/1
+#EXTINF:-1,Das_Inselradio_Mallorca
+302 https://stream.inselradio.com/high.inselradio.mp3
+#EXTINF:-1,Chillout_Ibiza_FM
+302 http://streaming.live365.com/b05055_128mp3
+#EXTINF:-1,Loca_FM_Dance
+http://5.39.66.128:8004/live
+#EXTINF:-1,Cadena_SER_Catalunya
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT_SC
+#EXTINF:-1,IBIZA_LIVE_RADIO
+https://streams.radio.co/sdc9cfaf77/listen
+#EXTINF:-1,ROCA_FM_Clasicos
+200 https://xxdelgado.radioca.st/
+#EXTINF:-1,Ibiza_Beats_Radio
+http://188.165.192.5:8273/stream
+#EXTINF:-1,Cadena_COPE_Alicante
+https://flucast-b06-03.flumotion.com/cope/net1.mp3
+#EXTINF:-1,Vaughan_Radio
+200 SimpleHTTP/0.6 http://vaughanradioweb.streaming-pro.com:8057/
+#EXTINF:-1,80s_super_hits
+302 https://listen.radionomy.com/80ssuperhits
+#EXTINF:-1,Flamenco_Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel7.smil/playlist.m3u8
+#EXTINF:-1,Free_FM_Rock
+200 http://tachyon.shoutca.st:8298/
+#EXTINF:-1,Radio_Nature
+302 http://stream.zeno.fm/sfpqezsh6f0uv
+#EXTINF:-1,Onda_Cero_Granada
+200 https://livefastly-webs.ondacero.es/granada-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_COPE_Zaragoza
+400 https://wecast-b02-04.flumotion.com/copesedes/zaragoza.mp3
+#EXTINF:-1,Generacion_KPOP
+http://192.99.14.225:9962/
+#EXTINF:-1,Onda_Madrid
+404 http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
+#EXTINF:-1,Onda_Cero_Zaragoza
+200 https://livefastly-webs.ondacero.es/zaragoza-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_Dial_Latino
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
+#EXTINF:-1,Top_Radio
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIO_SC
+#EXTINF:-1,TIEMPO_DE_JUEGO_Cope_Directo_2
+400 https://net2-cope-rrcast.flumotion.com/cope/net2.mp3
+#EXTINF:-1,Loca_FM_Chill_Out
+http://5.39.66.128:8002/live
+#EXTINF:-1,Loca_FM_Techno
+http://5.39.66.128:8009/live
+#EXTINF:-1,La_Fresca_FM
+200 http://stream.produccionesdale.com:8899/altacalidad
+#EXTINF:-1,1000_Oldies
+200 https://c3.auracast.net/listen/oldies/radio.mp3
+#EXTINF:-1,90FM
+http://www.portalradio.es:8010/
+#EXTINF:-1,RG_-_Radio_Galega
+400 http://wecast-b02-04.flumotion.com/radiogalega/live.mp3
+#EXTINF:-1,esRadio_Malaga
+200 https://server.spainbroadcast.net/8038/stream
+#EXTINF:-1,Cadena_COPE_Granada
+https://wecast-m01-02.flumotion.com/copesedes/granada.mp3
+#EXTINF:-1,Loca_FM_House
+http://s02.fjperezdj.com:8026/live
+#EXTINF:-1,Locos_por_el_Remember_Dance
+302 https://stream.zeno.fm/k2c9kp76xhruv
+#EXTINF:-1,Loca_FM_90's
+http://5.39.66.128:8000/live
+#EXTINF:-1,Aragón_Radio
+404 https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
+#EXTINF:-1,JFK_Ibiza
+https://streams.jfkibiza.com/jfkibiza
+#EXTINF:-1,Kustradion.fm
+405 https://www.radioking.com/play/kustradion-fm
+#EXTINF:-1,esRadio_Castilla_y_Leon
+200 https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.mp3?aw_0_1st.playerid=jPlayer+2.9.2&aw_0_1st.skey=1595861200&aw_0_1st.version=1.1.7%3Ahtml5&awparams=companionAds%3Atrue&listenerid=d936b82b47861024cc9fda1a433d6cb4
+#EXTINF:-1,Flamenkito_Radio
+http://94.23.6.53:8148/
+#EXTINF:-1,Cadena_SER_Zaragoza
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA_SC
+#EXTINF:-1,Cadena_COPE_Murcia
+400 https://wecast-b03-03.flumotion.com/copesedes/murcia.mp3
+#EXTINF:-1,Onda_Cero_Valladolid
+200 https://livefastly-webs.ondacero.es/valladolid-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_COPE_Oviedo
+400 https://wecast-b02-02.flumotion.com/copesedes/asturias.mp3
+#EXTINF:-1,Onda_Cero_Bilbao
+200 https://livefastly-webs.ondacero.es/bilbao-pull/audio/master.m3u8
+#EXTINF:-1,Radio_Marbella_-_Vocal_Deep_House
+https://radiomarbella.radioca.st/stream
+#EXTINF:-1,Beach_House_Radio_Ibiza
+404 http://streaming.live365.com/a41923
+#EXTINF:-1,Radio_Nervión
+404 SimpleHTTP/0.6 https://radionervion.streaming-pro.com:6132/radionervion
+#EXTINF:-1,La_Jungla
+http://5.175.47.12:8005/lajunglaweb
+#EXTINF:-1,BeachGrooves_Radio
+200 http://stream.beachgrooves.com:8000/
+#EXTINF:-1,Cadena_COPE_Bilbao
+400 https://wecast-b02-04.flumotion.com/copesedes/bilbao.mp3
+#EXTINF:-1,Latina_FM_Zaragoza
+http://stream.latinafmzaragoza.com:8000/stream
+#EXTINF:-1,Cadena_SER_Malaga
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGAAAC_SC
+#EXTINF:-1,Onda_Cero_Málaga
+200 https://livefastly-webs.ondacero.es/malaga-pull/audio/master.m3u8
+#EXTINF:-1,Perfect_Reggae
+400 http://stream.radiojar.com/ezs0qr9m4qruv
+#EXTINF:-1,Costa_del_Mar_Dance
+http://stream.cdm-dancemusic.com:8000/stream-mp3-Dance
+#EXTINF:-1,Free_FM
+200 https://rocafmadrid.radioca.st
+#EXTINF:-1,Cadena_Latino
+200 http://185.23.192.118:8000/
+#EXTINF:-1,Europa_FM_Gipuzkoa
+https://server8.emitironline.com:18399/stream
+#EXTINF:-1,Jazz_Radio
+200 https://ais-sa2.cdnstream1.com/2346_128.mp3
+#EXTINF:-1,Ibiza_Radios_-_Chill
+http://ibiza-chill.vip-radios.fm:8018/stream-128kmp3-IbizaChill
+#EXTINF:-1,Onda_Cero_Murcia
+200 https://livefastly-webs.ondacero.es/murcia-pull/audio/master.m3u8
+#EXTINF:-1,Ibiza_Radios_-_Deep_House
+http://ibiza-deep-house.vip-radios.fm:8027/stream-128kmp3-IbizaDeep
+#EXTINF:-1,Loca_FM_Trance
+http://5.39.66.128:8010/live
+#EXTINF:-1,Cadena_COPE_Cantabria
+400 https://wecast-b02-02.flumotion.com/copesedes/santander.mp3
+#EXTINF:-1,Onda_Cero_Alicante
+200 https://livefastly-webs.ondacero.es/alicante-pull/audio/master.m3u8
+#EXTINF:-1,Radio_Planeta
+400 https://radioplaneta.emitironline.com/
+#EXTINF:-1,Cadena_COPE_Coruña
+https://wecast-m02-04.flumotion.com/copesedes/lacoruna.mp3
+#EXTINF:-1,Cadena_COPE_Valladolid
+https://wecast-m02-05.flumotion.com/copesedes/valladolid.mp3
+#EXTINF:-1,Chanquete_FM_Málaga
+200 http://185.23.192.118:8008/
+#EXTINF:-1,iCat_FM
+403 https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8
+#EXTINF:-1,Onda_Cero_Oviedo
+200 https://livefastly-webs.ondacero.es/oviedo-pull/audio/master.m3u8
+#EXTINF:-1,Remember_the_Music_FM
+405 https://eu1.lhdserver.es:9041/stream
+#EXTINF:-1,Nostalgia_FM
+https://server.spainbroadcast.net:10985/
+#EXTINF:-1,Cadena_SER_Coruña
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA_SC
+#EXTINF:-1,Catalunya_Música
+403 https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8
+#EXTINF:-1,80s_90s_2000s_Super_Hits_UK_Chart
+302 https://listen.radionomy.com/80s90s2000ssuperhitsukchart
+#EXTINF:-1,RAI_Radio_Andalucía_Información
+https://cdnlive.shooowit.net/rtvalive/smil:channel6.smil/playlist.m3u8
+#EXTINF:-1,RNE_Radio_Exterior
+https://radioexterior.rtveradio.cires21.com/radioexterior_hc.mp3
+#EXTINF:-1,Onda_Cero_A_Coruña
+200 https://livefastly-webs.ondacero.es/acoruna-pull/audio/master.m3u8
+#EXTINF:-1,Loca_FM_Ambient
+http://5.39.66.128:8007/live
+#EXTINF:-1,SFC_Sevilla_Fútbol_Club_Radio_91.6
+302 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+#EXTINF:-1,Radio_Inter
+http://ns3.mycloud-apps.es:8030/stream
+#EXTINF:-1,Frecuencia_Romántica
+http://94.23.6.53:8672/
+#EXTINF:-1,Radio_Marca_Málaga
+404 SimpleHTTP/0.6 http://malagafm.streaming-pro.com:8130/malagafmmobile
+#EXTINF:-1,Pure_Ibiza_Radio
+200 https://pureibizaradio.streaming-pro.com:8028/stream.mp3
+#EXTINF:-1,Cadena_COPE_Córdoba
+https://flucast-m04-01.flumotion.com/cope/net1.mp3
+#EXTINF:-1,Cadena_SER_San_Sebastian
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SAN_SEBASTIAN_SC
+#EXTINF:-1,Radio_Esport_Valencia_91.4_FM
+http://163.172.62.220:8000/radioesportweb
+#EXTINF:-1,Misterio_FM
+https://eu2.fastcast4u.com/proxy/misterio?mp=/
+#EXTINF:-1,Cadena_SER_Granada
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GRANADAAAC_SC
+#EXTINF:-1,Cadena_Dial_Europa
+http://srv01.redsanmarcos.com:8008/stream
+#EXTINF:-1,Loca_FM_Melodic_Techno
+http://5.39.66.128:8011/live
+#EXTINF:-1,Bikini_FM_Alicante
+200 https://stream.mediasector.es/radio/8030/bikinifm-alicante.mp3
+#EXTINF:-1,Capital_Radio
+200 http://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3
+#EXTINF:-1,80S_SUPER_DANCE_FLOOR
+302 https://s41.myradiostream.com/33604/listen.mp3
+#EXTINF:-1,Onda_Cero_Las_Palmas
+200 https://livefastly-webs.ondacero.es/canarias-pull/audio/master.m3u8
+#EXTINF:-1,Bravo!_Classical_Music
+404 https://streamingv2.shoutcast.com/Bravo-ClassicalMusic
+#EXTINF:-1,MuyBuena_Benidorm
+200 https://stream.mediasector.es/radio/8010/muybuena-marina-baja-benidorm.mp3
+#EXTINF:-1,Elixir_FM_106.9
+http://radioserver10.profesionalhosting.com:41004/stream/1/
+#EXTINF:-1,Cadena_SER_Valladolid
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID_SC
+#EXTINF:-1,Hits_Latinos_96.3_FM
+https://server2.ejeserver.com:8194/stream
+#EXTINF:-1,Chill-Out_Radio_Gaia
+404 https://streamingv2.shoutcast.com/Chill-Out-Radio-Gaia?r=255026
+#EXTINF:-1,Onda_Cero_Cantabria
+200 https://livefastly-webs.ondacero.es/santander-pull/audio/master.m3u8
+#EXTINF:-1,Sonica_Club
+200 http://s3.viastreaming.net:8032/
+#EXTINF:-1,Radio_TeleTaxi
+404 https://radiott-web.streaming-pro.com:6003/radiott.mp3
+#EXTINF:-1,Cadena_COPE_Albacete
+400 https://wecast-b02-01.flumotion.com/copesedes/albacete.mp3
+#EXTINF:-1,EsRadio_Asturias
+200 https://server9.emitironline.com:8822/radio
+#EXTINF:-1,Costa_del_Mar_Zen
+http://stream.cdm-zen.com:8004/stream-mp3-Zen
+#EXTINF:-1,Cadena_COPE_Almería
+400 https://wecast-b02-01.flumotion.com/copesedes/almeria.mp3
+#EXTINF:-1,Zona_Urbana
+http://94.23.6.53:8372/
+#EXTINF:-1,Cadena_COPE_Vigo
+https://wecast-m02-05.flumotion.com/copesedes/vigo.mp3
+#EXTINF:-1,Cadena_COPE_Badajoz
+https://wecast-m02-02.flumotion.com/copesedes/badajoz.mp3
+#EXTINF:-1,Cadena_COPE_Mallorca
+https://wecast-m02-04.flumotion.com/copesedes/mallorca.mp3
+#EXTINF:-1,Cadena_SER_Gijón
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJONAAC_SC
+#EXTINF:-1,Onda_Cero_Pamplona
+200 https://livefastly-webs.ondacero.es/pamplona-pull/audio/master.m3u8
+#EXTINF:-1,EiTB_Euskadi_Irratia
+200 http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3
+#EXTINF:-1,Cadena_SER_Vitoria
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VITORIA_SC
+#EXTINF:-1,Cool_Deep
+http://5.39.86.44:8017/stream-mp3-CoolDeep
+#EXTINF:-1,Radio_Marca_Sevilla
+https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3
+#EXTINF:-1,Cadena_SER_Murcia
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIAAAC_SC
+#EXTINF:-1,AdagioRadio
+404 https://streamingv2.shoutcast.com/AdagioRadio
+#EXTINF:-1,Radio_Marca_Valencia
+https://relay.stream.enacast-cloud.com:40225/radiomarcavalenciaHD.mp3
+#EXTINF:-1,Cadena_COPE_León
+https://wecast-m02-04.flumotion.com/copesedes/leon.mp3
+#EXTINF:-1,Cadena_COPE_Salamanca
+400 https://wecast-b02-01.flumotion.com/copesedes/salamanca.mp3
+#EXTINF:-1,Cadena_SER_Vigo
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGOAAC_SC
+#EXTINF:-1,esRadio_Sevilla
+200 https://libertaddigital-radio-live3.flumotion.com/libertaddigital/ld-live3-low.mp3
+#EXTINF:-1,Cadena_COPE_Pamplona
+400 https://wecast-b02-04.flumotion.com/copesedes/pamplona.mp3
+#EXTINF:-1,Vuelve_el_Remember_-_Radio_Online
+https://streamtotal.net:4155/stream
+#EXTINF:-1,Onda_Vasca
+301 https://www.ondavasca.com:8001/bizkaia
+#EXTINF:-1,Onda_Cero_Mallorca
+200 https://livefastly-webs.ondacero.es/mallorca-pull/audio/master.m3u8
+#EXTINF:-1,Costa_del_Mar_Smooth_Sax
+http://stream.cdm-smoothsax.com:8024/stream-AAC-Smooth
+#EXTINF:-1,MuyBuena_Ibiza
+200 https://stream.mediasector.es/radio/8010/muybuena.mp3
+#EXTINF:-1,Loca_FM_Dub_Techno
+http://audio-online.net:8015/live
+#EXTINF:-1,Digital_Hits
+200 http://digitalhits.frilab.com:8000/digitalhits
+#EXTINF:-1,Cadena_COPE_Cádiz
+https://flucast-m03-06.flumotion.com/cope/net1.mp3
+#EXTINF:-1,CanalSur_Radio_Sevilla
+https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/playlist.m3u8
+#EXTINF:-1,Onda_Cero_Gijón
+200 https://livefastly-webs.ondacero.es/gijon-pull/audio/master.m3u8
+#EXTINF:-1,Onda_Cero_León
+200 https://livefastly-webs.ondacero.es/leon-pull/audio/master.m3u8
+#EXTINF:-1,RGM_-_Radio_Galega_Música
+400 http://wecast-b02-01.flumotion.com/radiogalega-musica/live.mp3
+#EXTINF:-1,Cadena_SER_Galicia
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GALICIAAAC_SC
+#EXTINF:-1,Cadena_COPE_Tenerife
+400 https://wecast-b02-02.flumotion.com/copesedes/tenerife.mp3
+#EXTINF:-1,Flay-FM_Trance
+302 http://stream.zeno.fm/70y2sbqx1a0uv.mp3
+#EXTINF:-1,Ibiza_Bpm_Radio
+200 https://www.ibizabpmradio.es/
+#EXTINF:-1,1000_HITS_Spain
+200 https://c2.auracast.net/listen/1000spain/radio.mp3
+#EXTINF:-1,Ràdio_Móra_la_Nova_107.3_FM
+404 https://radio.cdnmedia.tv/radio/8170/moralanova
+#EXTINF:-1,Radio_Logroño
+200 https://player.lcinternet.es/v9/cc217_id807-2/
+#EXTINF:-1,Onda_Mediana_Canal_2
+200 https://sonic.sistemahost.es/8080/stream
+#EXTINF:-1,Radiochinyero
+https://antares.dribbcast.com/proxy/radiochinyero?mp=/stream
+#EXTINF:-1,Urban_con_Ñ
+400 https://st1.urbanrevolution.es:8443/hispano
+#EXTINF:-1,Mindangos_Radio
+400 https://st1.urbanrevolution.es:8443/mindangos
+#EXTINF:-1,Zona_Electrónica_Urban_Revolution
+400 https://st1.urbanrevolution.es:8443/zonaelectronica
+#EXTINF:-1,Radiopolis_Sevilla
+http://streaming.radiopolis.org:8000/stream.mp3
+#EXTINF:-1,Delete_Radio_not_exist_thanks
+404 http://stream.zeno.fm/yypr70700a0uv.mp3
+#EXTINF:-1,Radio_Kec
+200 https://sonic.sistemahost.es/8042/stream
+#EXTINF:-1,Radio_Aventura_Siglo_21
+https://mytuner-radio.com/radio/country/spain-stations
+#EXTINF:-1,Urban_RockVolution
+400 https://st1.urbanrevolution.es:8443/rockvolution
+#EXTINF:-1,Guerreros_del_Asfalto_FM
+404 http://stream.zeno.fm/6pyd7twkr7zuv
+#EXTINF:-1,todoexitos.com
+400 https://cervera.eldialdigital.com:9000/stream
+#EXTINF:-1,Piratona
+200 https://stream.streamaudio.de:8000/radio-piratona.ogg
+#EXTINF:-1,Radio_Manises
+200 https://tunein.com/radio/Radio-Manises-1057-s45409/
+#EXTINF:-1,Radio_Val_de_Santo_Domingo
+400 http://antares.dribbcast.com:5045/stream
+#EXTINF:-1,La_Veu_de_Sant_Joan
+302 https://enacast.com/laveu/streams/HD.mp3
+#EXTINF:-1,DepuertoplataTV_Radio
+503 https://zeno.fm/depuertoplata/
+#EXTINF:-1,Topdisco_Radio
+http://polaris.dribb.com:5099/stream
+#EXTINF:-1,Playfrequency_Radio
+https://usa4.fastcast4u.com/proxy/supercolor?mp=/1/stream.mp3
+#EXTINF:-1,Radio_Esperantia
+400 https://liveradio.com.es:8062/stream
+#EXTINF:-1,Ondagongora.es
+405 https://eu1.lhdserver.es:9161/stream
+#EXTINF:-1,Radio_Costa_Cálida
+http://178.32.60.136:9030
+#EXTINF:-1,Que_Arte,la_flamenquita_f.m
+http://178.32.60.136:9034
+#EXTINF:-1,Taller_de_radio
+http://servertaller.sytes:8000/laonda
+#EXTINF:-1,80s_Romantics_Radio
+302 https://s47.myradiostream.com/12906/listen.mp3
+#EXTINF:-1,radio_frecuencia_Benidorm
+404 http://stream.zeno.fm/mq9q4fk4sm0uv
+#EXTINF:-1,Onda_Guillena_Radio
+https://onda.guillena.org
+#EXTINF:-1,Ultravoz
+404 https://stream.radiojar.com/1rmq2q81pg0uv.m3u
+#EXTINF:-1,Voz_de_Vida_Radio
+https://srv6021.dns-lcinternet.com:10191/stream
+#EXTINF:-1,Doble_V_radio
+302 http://stream.zeno.fm/x7wm4rrv5yzuv
+#EXTINF:-1,REBOTE_FM_107.7mhz
+200 https://sc.dattalive.com:2083/widgets/player/dj/?p=8744
+#EXTINF:-1,Escuela_de_Radio_TEA_FM
+400 https://cervera.eldialdigital.com:21161/stream
+#EXTINF:-1,ECO_FM
+http://sonic.mediatelekom.net:8032,/stream
+#EXTINF:-1,29_RADIO_ONLINE
+302 http://stream.zeno.fm/rz3vc38z4x8uv
+#EXTINF:-1,solo_para_rumberos
+https://solopararumberos.es/
+#EXTINF:-1,MoreFm_80s
+400 https://stream-mmr80s.creativedork.com/
+#EXTINF:-1,Play_Fm_(_La_Mancha_)
+http://188.165.131.13:9988
+#EXTINF:-1,RADIO_MACEDA
+http://sonic.mediatelekom.net:8150
+#EXTINF:-1,RADIO_ALHENDIN_FM
+https://streaming2.elitecomunicacion.es:8002/stream
+#EXTINF:-1,Cadena_SER_Las_Palmas
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LAS_PALMAS_SC
+#EXTINF:-1,Tropical_FM_Marbella_107.0
+501 http://5.135.183.124:8127/stream
+#EXTINF:-1,80s_Forever_Young
+302 https://listen.radionomy.com/80sforeveryoung
+#EXTINF:-1,RTVC_-_Canarias_Radio
+http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/Playlist.m3u8
+#EXTINF:-1,Radiole_Costa_de_la_Luz
+http://cervera.eldialdigital.com:8040/stream
+#EXTINF:-1,Radio_Flamenca_Huelva
+400 http://antenahuelva.dyndns.org:8000/rflamenca.mp3
+#EXTINF:-1,Mega_Gym_Radio
+501 http://5.135.183.124:8256/stream
+#EXTINF:-1,Radio_Sevillanas
+200 http://radio.wesped.com:8000/
+#EXTINF:-1,Radio_Marca_Zaragoza
+200 https://c6.auracast.net/radio/8020/rmzgz
+#EXTINF:-1,Cadena_COPE_San_Sebastián
+400 https://wecast-b02-02.flumotion.com/copesedes/ssebastian.mp3
+#EXTINF:-1,Tantra_Ibiza
+http://www.tantraibiza.com/maxinne-ibiza-mix.mp3
+#EXTINF:-1,Cadena_COPE_Gran_Canaria
+https://wecast-m02-05.flumotion.com/copesedes/laspalmas.mp3
+#EXTINF:-1,Onda_Cero_Castellón
+200 https://livefastly-webs.ondacero.es/castellon-pull/audio/master.m3u8
+#EXTINF:-1,Only_Romantic
+302 https://stream.laut.fm/only-romantic-radio
+#EXTINF:-1,Cadena_SER_Alicante
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALICANTEAAC_SC
+#EXTINF:-1,Cadena_SER_Castellon
+400 http://stream.radiocastellon.com/ser
+#EXTINF:-1,Cadena_COPE_Toledo
+400 https://wecast-b03-01.flumotion.com/copesedes/toledo.mp3
+#EXTINF:-1,Onda_Cero_Salamanca
+200 https://livefastly-webs.ondacero.es/salamanca-pull/audio/master.m3u8
+#EXTINF:-1,Edenex
+http://popov.eldialdigital.com:8056/
+#EXTINF:-1,Mortal_FM
+200 http://stream2.beatproducciones.com:8044/stream
+#EXTINF:-1,Mariskal_Rock
+200 http://media.profesionalhosting.com:8047/
+#EXTINF:-1,Cadena_COPE_Burgos
+https://wecast-m01-03.flumotion.com/copesedes/burgos.mp3
+#EXTINF:-1,Spektra_FM
+400 http://stm1.emiteonline.com:8008/spektrafm
+#EXTINF:-1,Cadena_COPE_Logroño
+400 https://wecast-b02-04.flumotion.com/copesedes/logrono.mp3
+#EXTINF:-1,Inolvidable_FM
+400 https://uk1.streamingpulse.com/ssl/inolvidablefm
+#EXTINF:-1,Cadena_Mix_FM
+http://91.121.77.67:8000/
+#EXTINF:-1,Los_70_en_Colmenares
+http://94.23.6.53:8709/
+#EXTINF:-1,Échale_Salsita
+405 https://eu1.lhdserver.es:9167/stream
+#EXTINF:-1,Onda_Cero_Vigo
+200 https://livefastly-webs.ondacero.es/vigo-pull/audio/master.m3u8
+#EXTINF:-1,City_80_Radio
+404 https://streamingv2.shoutcast.com/City-80-Radio
+#EXTINF:-1,Herri_Irratia_-_Radio_Popular
+405 http://79.137.33.224/radiopopular1
+#EXTINF:-1,Cadena_SER_Asturias
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ASTURIASAAC_SC
+#EXTINF:-1,Carrusel_FM
+200 https://server10.emitironline.com:8921/
+#EXTINF:-1,80s_Super_Dance
+404 https://streamingv2.shoutcast.com/80ssuperdance
+#EXTINF:-1,Cadena_SER_Pamplona
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC_SC?csegid=10000&dist=cs
+#EXTINF:-1,RNE_Ràdio_4
+https://radio4.rtveradio.cires21.com/radio4_hc.mp3
+#EXTINF:-1,Cadena_SER_León
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON_SC
+#EXTINF:-1,Costa_del_Mar_Funky
+http://stream.cdm-funky.com:8008/stream-mp3-Funk
+#EXTINF:-1,EsRadio_Galicia
+200 https://libertaddigital-radio-live2.flumotion.com/libertaddigital/ld-live2-low.mp3
+#EXTINF:-1,Radio_YA
+http://s2.prositel.net:9075/RadioYA
+#EXTINF:-1,EiTB_Gaztea
+200 http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3
+#EXTINF:-1,Onda_Cero_Marbella
+200 https://livefastly-webs.ondacero.es/marbella-pull/audio/master.m3u8
+#EXTINF:-1,Kyoto_FM
+http://148.251.83.173:9200/
+#EXTINF:-1,Los_40_Benidorm
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_BENIDORMAAC_SC?dist=triton-widget&pname=tdwidgets
+#EXTINF:-1,Cadena_SER_Cádiz
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CADIZAAC_SC
+#EXTINF:-1,Cool_Coffee
+http://5.39.86.44:8006/stream-mp3-CoolCoffee
+#EXTINF:-1,Onda_Cero_Logroño
+200 https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8
+#EXTINF:-1,Ibiza_BPM_Radio
+200 https://streams.radio.co/s3ed04b8f7/listen
+#EXTINF:-1,Loca_FM_Sessions
+http://5.39.66.128:8013/live
+#EXTINF:-1,Deep_Nu_House_Radio_by_SO&SO
+http://151.80.97.38:8121/dnh
+#EXTINF:-1,Activa_FM_Valencia
+200 https://stream.mediasector.es/radio/8000/activafm-valencia.mp3
+#EXTINF:-1,Mambo_Radio
+https://streamer.radio.co/sd7b28e5f3/listen
+#EXTINF:-1,La_Suegra_FM
+200 http://streaming.hdserver.biz:9300/
+#EXTINF:-1,Cadena_SER_Mallorca
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA_SC?csegid=12000&dist=cadenaser-web
+#EXTINF:-1,Holiday_Gym_Zen
+200 http://holidaygym.emitironline.com:9040/stream
+#EXTINF:-1,MuyBuena_Valencia
+200 https://stream.mediasector.es/radio/8010/muybuena-valencia.mp3
+#EXTINF:-1,BCN_Jazz
+302 https://listen.radionomy.com/bcnjazz
+#EXTINF:-1,Cadena_COPE_Ciudad_Real
+https://wecast-m01-02.flumotion.com/copesedes/ciudadreal.mp3
+#EXTINF:-1,Más_Música_FM
+200 http://str2.mediatelekom.net:9994/
+#EXTINF:-1,Onda_Cero_Almería
+200 https://livefastly-webs.ondacero.es/almeria-pull/audio/master.m3u8
+#EXTINF:-1,Radio_Marca_Bilbao
+200 https://cp12.shoutcheap.com:18030/stream
+#EXTINF:-1,à_Punt_FM
+200 https://bcovlive-a.akamaihd.net/13b49103a31b48dfa5edf508440cb6f9/eu-central-1/6057955885001/profile_1/chunklist_dvr.m3u8
+#EXTINF:-1,RTPA_-_RadioTelevisión_del_Principado_de_Asturias
+https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/playlist.m3u8
+#EXTINF:-1,Cadena_COPE_Castellón
+400 https://wecast-b02-04.flumotion.com/copesedes/castellon.mp3
+#EXTINF:-1,EiTB_Radio_Vitoria
+200 http://mp3-eitb.stream.flumotion.com/eitb/radiovitoria.mp3
+#EXTINF:-1,Loca_FM_80's
+http://audio-online.net:8018/live
+#EXTINF:-1,Radio_Marca_Granada
+http://94.23.85.189:9350/stream
+#EXTINF:-1,BeachLatino_Radio
+200 http://stream.beachgrooves.com:8030/
+#EXTINF:-1,Rock_66
+200 http://streaming5.elitecomunicacion.es:8046/
+#EXTINF:-1,Ibiza_Radios_-_Dance
+http://ibiza-dance.vip-radios.fm:8121/stream-128kmp3-IbizaDance
+#EXTINF:-1,Cadena_SER_Club_Tenerife
+https://sdmedia.playser.cadenaser.com/playser/audio/201911/01/1572628440_6253.mp3
+#EXTINF:-1,Chocolate_FM
+https://streaming2.elitecomunicacion.es:8082/live.mp3
+#EXTINF:-1,Cadena_COPE_Huelva
+https://wecast-m01-03.flumotion.com/copesedes/huelva.mp3
+#EXTINF:-1,99.9_Valencia_Radio
+http://130.185.144.199:11593/
+#EXTINF:-1,Cadena_COPE_Tarragona
+400 https://wecast-b02-04.flumotion.com/copesedes/tarragona.mp3
+#EXTINF:-1,Cadena_SER_Extremadura
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_EXTREMADURA_SC
+#EXTINF:-1,Pepe_Radio_89.3_FM
+200 http://server10.emitironline.com:8000/stream
+#EXTINF:-1,Rumbera_Sevilla
+200 http://streaming.enantena.com:8000/rumberasevillaHD.mp3
+#EXTINF:-1,Cadena_COPE_Jerez
+400 https://wecast-b03-04.flumotion.com/copesedes/jerez.mp3
+#EXTINF:-1,ORM_-_Onda_Regional_de_Murcia
+https://live.redctnet.es/live/orm/orm/playlist.m3u8
+#EXTINF:-1,Radio_Voz_Santiago
+400 http://live.radiovoz.es/mp3/stream_santiago.mp3
+#EXTINF:-1,Cadena_COPE_Jaén
+400 https://wecast-b03-03.flumotion.com/copesedes/jaen.mp3
+#EXTINF:-1,Cadena_SER_Madrid_Norte
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MADRID_NORTE_SC
+#EXTINF:-1,Melodia_60
+200 http://212.83.170.14:8136/
+#EXTINF:-1,Onda_Cero_Córdoba
+200 https://livefastly-webs.ondacero.es/cordoba-pull/audio/master.m3u8
+#EXTINF:-1,Valencia_CF_Radio
+400 http://radio-valencia.direct.flumotion.com/rvfc/shoutcast.mp3
+#EXTINF:-1,Ibiza_Radios_-_Relax
+http://ibiza-relax.vip-radios.fm:8036/stream-128kmp3-IbizaRelax
+#EXTINF:-1,Abacus_Jazz
+http://178.33.232.106:8034/stream
+#EXTINF:-1,Cadena_COPE_Elche
+200 https://sonic.mediatelekom.net/9314/stream?ver=857148
+#EXTINF:-1,La_Revoltosa_FM
+405 https://eu1.lhdserver.es:9019/stream
+#EXTINF:-1,Onda_Cero_Jerez_de_la_Frontera
+200 https://livefastly-webs.ondacero.es/jerez-pull/audio/master.m3u8
+#EXTINF:-1,Onda_Cero_Cádiz
+200 https://livefastly-webs.ondacero.es/cadiz-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_COPE_Girona
+400 https://wecast-b02-04.flumotion.com/copesedes/gerona.mp3
+#EXTINF:-1,Holiday_Gym_FM
+200 http://holidaygym.emitironline.com/
+#EXTINF:-1,Our_Soulful_House
+http://eu8.fastcast4u.com:5372/
+#EXTINF:-1,Pagan_Metal_Radio
+http://62.210.209.179:8030/
+#EXTINF:-1,TODO_NOTICIAS_RADIO
+200 http://131.153.56.234:9428/stream.mp3
+#EXTINF:-1,Cadena_COPE_Cartagena
+https://wecast-m01-03.flumotion.com/copesedes/cartagena.mp3
+#EXTINF:-1,La_Mega_Malaga_91.7_FM
+http://streaming8.elitecomunicacion.es:8200/stream?type=.mp3
+#EXTINF:-1,Onda_Cero_San_Sebastián
+200 https://livefastly-webs.ondacero.es/sansebastian-pull/audio/master.m3u8
+#EXTINF:-1,La_Movida_Radio
+302 https://listen.radionomy.com/lamovidaradio
+#EXTINF:-1,Harmony_FM
+https://server8.emitironline.com:18064/
+#EXTINF:-1,Radio_Oro_-_Málaga
+http://www.portalradio.es:8002/
+#EXTINF:-1,Cadena_COPE_Villalba
+https://wecast-m02-04.flumotion.com/copesedes/villalba.mp3
+#EXTINF:-1,Onda_Cero_Toledo
+200 https://livefastly-webs.ondacero.es/toledo-pull/audio/master.m3u8
+#EXTINF:-1,Jetset_FM
+http://193.70.85.13:8000/web
+#EXTINF:-1,Rumba_Latina_Stereo
+http://eu1.serviaudio.com:7030/
+#EXTINF:-1,Cadena_Cope_Espuña
+501 http://5.135.183.124:8110/stream
+#EXTINF:-1,IB3_Ràdio
+400 https://icecast.ib3radio.com/ib3radio.mp3
+#EXTINF:-1,La_Mega_Hit
+https://s3streamingradio.desafiohosting.com:9014/stream
+#EXTINF:-1,Radio_Marca_Coruña
+404 https://relay.stream.enacast-cloud.com:40221/radiomarcacoruna.mp3
+#EXTINF:-1,Onda_Cero_Elche
+200 https://livefastly-webs.ondacero.es/elche-pull/audio/master.m3u8
+#EXTINF:-1,EiTB_Musika
+400 https://etbaeitbmusnogeo-lh.akamaihd.net/i/EITBMUSIKA_1@594815/master.m3u8
+#EXTINF:-1,Classic_Old_Time_Radio
+302 http://node-20.zeno.fm/b6v6nu8uhnruv
+#EXTINF:-1,Talk_Radio_Europe
+200 http://s3.yesstreaming.net:7014/stream
+#EXTINF:-1,Cadena_SER_Salamanca
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_SALAMANCA_SC
+#EXTINF:-1,1000_Christmas
+200 https://ais-sa2.cdnstream1.com/2553_128.mp3
+#EXTINF:-1,Loca_FM_Drum&Bass
+http://audio-online.net:8021/live
+#EXTINF:-1,Onda_Cero_Vitoria
+200 https://livefastly-webs.ondacero.es/vitoria-pull/audio/master.m3u8
+#EXTINF:-1,Radio_Marca_Tenerife
+http://cervera.eldialdigital.com:8068/stream
+#EXTINF:-1,Cadena_COPE_Asturias
+400 https://wecast-b03-02.flumotion.com/copesedes/asturias.mp3
+#EXTINF:-1,Onda_Cero_Albacete
+200 https://livefastly-webs.ondacero.es/albacete-pull/audio/master.m3u8
+#EXTINF:-1,Radio_4G
+400 https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3
+#EXTINF:-1,Canal_Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel3.smil/playlist.m3u8
+#EXTINF:-1,Cadena_SER_Huelva
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HUELVA_SC
+#EXTINF:-1,SmoothJazzRadio.es
+404 https://streamingv2.shoutcast.com/Mediterraneo-SMOOTHJAZZ
+#EXTINF:-1,Chanquete_FM_Costa_del_Sol
+200 http://185.23.192.118:8012/
+#EXTINF:-1,Loca_FM_Big_Room
+http://5.39.66.128:8001/live
+#EXTINF:-1,Carretera_y_Country_Radio
+http://62.210.25.63:45841/stream
+#EXTINF:-1,Fiesta_FM_-_Mallorca
+501 http://5.135.183.124:9510/stream
+#EXTINF:-1,Viva_Pop
+401 http://motivaradio.es:12245/stream/
+#EXTINF:-1,Cadena_SER_Santander
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SANTANDERAAC_SC
+#EXTINF:-1,Cadena_SER_Radio_Rioja
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RIOJAAAC_SC
+#EXTINF:-1,Playa_FM
+http://cristina.torontocast.com:8146/stream
+#EXTINF:-1,Onda_Cero_Santiago
+200 https://livefastly-webs.ondacero.es/santiago-pull/audio/master.m3u8
+#EXTINF:-1,CanalSur_Radio_Granada
+https://cdnlive.shooowit.net/rtvalive/smil:channel13.smil/playlist.m3u8
+#EXTINF:-1,ITALIANA_Mallorca
+400 http://94.177.198.233:8002/ita-mal-aac
+#EXTINF:-1,Café_Cody
+https://ice31.securenetsystems.net/CAFECODY
+#EXTINF:-1,Universal_RAP
+200 http://streaming5.elitecomunicacion.es:8244/stream
+#EXTINF:-1,La_Flamenca
+200 https://stream.mediasector.es/radio/8070/laflamenca-benidorm.mp3
+#EXTINF:-1,Cadena_Cope_Almendralejo
+https://streaming2.elitecomunicacion.es:8632/stream
+#EXTINF:-1,Costa_Blanca_Radio
+400 http://stream.costablancaradio.nl/costablancaradio
+#EXTINF:-1,True_Metal_Radio
+http://centova2.whsh4u.com:9113/
+#EXTINF:-1,Onda_Cero_Huelva
+200 https://livefastly-webs.ondacero.es/huelva-pull/audio/master.m3u8
+#EXTINF:-1,Cotton_FM_(Lounge_Channel)
+https://usa7.fastcast4u.com/proxy/tqamqurl
+#EXTINF:-1,Onda_Cero_Mérida
+200 https://livefastly-webs.ondacero.es/merida-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_SER_Castilla
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS_SC
+#EXTINF:-1,Onda_Cero_Alcalá_de_Henares
+https://icecast-streaming.nice264.com/alcala
+#EXTINF:-1,Beach_Party_Radio
+302 http://stream.zeno.fm/94wqn6zha3quv
+#EXTINF:-1,La_Mega_-_Pamplona
+501 http://5.135.183.124:8036/stream
+#EXTINF:-1,Corazon_Radio
+http://178.32.107.151:4732/
+#EXTINF:-1,Hard_Rock_Espana
+302 http://stream.zeno.fm/08kkdugau7zuv
+#EXTINF:-1,Rumberos_FM
+http://212.129.60.86:9950/
+#EXTINF:-1,SoniCalm
+200 http://s3.sonicabroadcast.com:8915/
+#EXTINF:-1,Kiss_FM_Canaries
+200 http://andromeda.shoutca.st:8396/
+#EXTINF:-1,97.7_Radio_Levante
+401 https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9025/0211/playlist.m3u8
+#EXTINF:-1,Orbita_Hit
+200 https://sonic.mediatelekom.net/8022/stream
+#EXTINF:-1,Cadena_SER_Elche
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELCHEAAC_SC
+#EXTINF:-1,Radio_Lounge
+200 http://ais-sa2.cdnstream1.com/2209_128.mp3
+#EXTINF:-1,Onda_Cero_Badajoz
+200 https://livefastly-webs.ondacero.es/badajoz-pull/audio/master.m3u8
+#EXTINF:-1,Bravo!_Ópera_radio
+404 https://streamingv2.shoutcast.com/Bravo-Opera
+#EXTINF:-1,CanalSur_Radio_Málaga
+https://cdnlive.shooowit.net/rtvalive/smil:channel17.smil/playlist.m3u8
+#EXTINF:-1,Radio_Zumba
+200 http://sonic.sistemahost.es:8036/
+#EXTINF:-1,Loca_FM_Hard
+http://5.39.66.128:8003/live
+#EXTINF:-1,Mallorca_Sunshine_Radio
+302 https://stream2.inselradio.com/high.sunshine.mp3
+#EXTINF:-1,BeachChill_Radio
+http://stream.beachchillradio.com:8110/
+#EXTINF:-1,1000_HITS_Sweet_Radio
+404 https://streamingv2.shoutcast.com/1000-HITS-Sweet-Radio
+#EXTINF:-1,Cadena_COPE_Cáceres
+https://wecast-m02-06.flumotion.com/copesedes/caceres.mp3
+#EXTINF:-1,Yumbo_FM_Gay_Radio
+http://amediastream.com:8400/yumbofm
+#EXTINF:-1,Swing_Latino_FM
+405 https://eu1.lhdserver.es:9033/stream
+#EXTINF:-1,Onda_Cero_Cartagena
+200 https://livefastly-webs.ondacero.es/cartagena-pull/audio/master.m3u8
+#EXTINF:-1,Radio_Ibiza_FM
+200 http://server3.radio-streams.net:8028/stream
+#EXTINF:-1,Banana_Ska
+500 https://listen.radionomy.com/bananaska
+#EXTINF:-1,La_Radio_Latina
+302 http://stream.zeno.fm/gqkw1v1te6quv
+#EXTINF:-1,China_FM
+http://ns3.mycloud-apps.es:8000/live
+#EXTINF:-1,Fabulosa_FM
+http://185.36.211.142:57320/fabulosa
+#EXTINF:-1,Ibiza_Radios_-_Hits
+http://ibiza-hits.vip-radios.fm:8024/stream-128kmp3-IbizaHits
+#EXTINF:-1,Radio_Santa_María_de_Toledo
+200 http://s20.myradiostream.com:15414/
+#EXTINF:-1,Cadena_SER_Córdoba
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBAAAC_SC
+#EXTINF:-1,Cadena_SER_Cartagena
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CARTAGENA_SC
+#EXTINF:-1,Cadena_SER_Albacete
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALBACETE_SC
+#EXTINF:-1,Cadena_COPE_Zamora
+400 https://wecast-b01-03.flumotion.com/copesedes/zamora.mp3
+#EXTINF:-1,Radio_Voz_Coruña
+400 https://live.radiovoz.es/mp3/stream_coruna.mp3
+#EXTINF:-1,Cadena_COPE_Santiago
+400 https://wecast-b02-03.flumotion.com/copesedes/santiago.mp3
+#EXTINF:-1,Onda_Cero_Palencia
+200 https://livefastly-webs.ondacero.es/palencia-pull/audio/master.m3u8
+#EXTINF:-1,MuyBuena_-_Alicante
+200 https://stream.mediasector.es/radio/8010/muybuena-alicante.mp3
+#EXTINF:-1,Babyradio
+http://sd396babyradio1.lcinternet.com:8000/live
+#EXTINF:-1,Radio_One_Mallorca
+http://80.32.132.126:8000/
+#EXTINF:-1,Loca_FM_Trap
+http://audio-online.net:8014/live
+#EXTINF:-1,New_Jazz_Radio
+404 http://node-28.zeno.fm/75beg1td7gruv
+#EXTINF:-1,Radio_Sabadell_94.6_FM
+200 http://online.radiosabadell.fm:8013/stream
+#EXTINF:-1,Perfect_Oldies
+400 https://stream.radiojar.com/bdnkd1mqehruv.mp3
+#EXTINF:-1,Cadena_SER_Zamora
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA_SC
+#EXTINF:-1,Cadena_SER_Madrid_Oeste
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID_OESTE_SC
+#EXTINF:-1,Radio_Las_Palmas
+400 https://uk1.streamingpulse.com/ssl/radiolaspalmas
+#EXTINF:-1,La_Maxi_Radio
+http://188.166.17.53:8040/enlace3.mp3
+#EXTINF:-1,RTVCM_-_Radio_Castilla-La_Mancha
+404 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilzwlkz/format/applehttp/protocol/http/uiConfId/39724601/a.m3u8
+#EXTINF:-1,La_87.9_Madrid
+https://panel.blindstream.com/radio/8450/la879
+#EXTINF:-1,La_Explosiva_FM
+501 http://5.135.183.124:8125/stream
+#EXTINF:-1,Cadena_Dial_Baladas
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03AAC_SC?dist=c
+#EXTINF:-1,Holiday_Gym_Latino
+200 http://holidaygym.emitironline.com:9010/stream
+#EXTINF:-1,Perfect_Rock
+400 http://stream.radiojar.com/guxrfs477qruv
+#EXTINF:-1,Onda_Cero_Jaén
+200 https://livefastly-webs.ondacero.es/jaen-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_100_Vegas_Altas
+405 https://eu1.lhdserver.es:8017/stream
+#EXTINF:-1,Locactiva_radio
+http://91.121.77.67:8106/
+#EXTINF:-1,CanalSur_Radio_Almería
+https://cdnlive.shooowit.net/rtvalive/smil:channel8.smil/playlist.m3u8
+#EXTINF:-1,Cadena_COPE_Onda_Naranja
+http://srv0411.lcinternet.com:9001/stream
+#EXTINF:-1,Radio_Siete
+400 http://play.radiosiete.com:8000/stream
+#EXTINF:-1,Cadena_COPE_Palencia
+https://wecast-m02-03.flumotion.com/copesedes/palencia.mp3
+#EXTINF:-1,Cadena_COPE_Lleida
+400 https://wecast-b01-01.flumotion.com/copesedes/lleida.mp3
+#EXTINF:-1,Onda_Cero_Sagunto
+200 https://livefastly-webs.ondacero.es/sagunto-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_SER_Huesca
+http://streaming.radiohuesca.com:8010/radiohuescaam
+#EXTINF:-1,Cadena_COPE_Vitoria
+400 https://wecast-b03-02.flumotion.com/copesedes/vitoria.mp3
+#EXTINF:-1,TNT_Radio_Rock
+http://s2streamingradio.desafiohosting.com:8023/stream
+#EXTINF:-1,EsRadio_Albacete
+http://82.223.28.73:8000/esradioalbacete.mp3
+#EXTINF:-1,Cadena_SER_Jaén
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JAEN_SC
+#EXTINF:-1,BeachDance_Classics
+http://stream.beachdanceclassics.com:8040/
+#EXTINF:-1,Cadena_Ser_Ourense
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_OURENSEAAC_SC
+#EXTINF:-1,Vinilo_FM
+200 http://server9.emitironline.com:10923/radio
+#EXTINF:-1,Ibiza_Radios_-_Smooth_Jazz
+http://ibiza-smooth-jazz.vip-radios.fm:8033/stream-128kmp3-IbizaSmooth
+#EXTINF:-1,COPE_GIBRALTAR
+302 http://node-32.zeno.fm/vvevgprh0eruv
+#EXTINF:-1,Formula_30
+400 http://stm1.emiteonline.com:8001/formula30
+#EXTINF:-1,Cadena_SER_Segovia
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_SEGOVIA_SC
+#EXTINF:-1,The_One
+http://185.49.169.8:8000/
+#EXTINF:-1,Onda_Cero_Alzira
+200 https://livefastly-webs.ondacero.es/alzira-pull/audio/master.m3u8
+#EXTINF:-1,CV_Radio
+https://stm2.emiteonline.com:9007/cvradio
+#EXTINF:-1,Onda_Cero_Algeciras
+200 https://livefastly-webs.ondacero.es/algeciras-pull/audio/master.m3u8
+#EXTINF:-1,Made_in_90s
+https://radiomadeinvalencia.es/radio/8020/radio.mp3
+#EXTINF:-1,Cadena_SER_Toledo
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TOLEDOAAC_SC
+#EXTINF:-1,TeleElx_Radio_Marca
+http://95.211.109.206:8140/start/stream.mp3
+#EXTINF:-1,Xtra_Musica
+200 http://s36.myradiostream.com:18372/listen.mp3
+#EXTINF:-1,1Mix_Radio_Dance
+302 https://listen.radionomy.com/1mixradiodance
+#EXTINF:-1,Radio_Corazón_Tropical_FM
+501 http://usa1.usastreams.com:8000/tropical
+#EXTINF:-1,Barcelona_City_FM
+https://s2.radio.co/sd9da54aa0/listen
+#EXTINF:-1,Fresh_Radio_Spain
+400 http://kepler.shoutca.st:8031/stream
+#EXTINF:-1,Onda_Cero_Huesca
+200 https://livefastly-webs.ondacero.es/huesca-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_SER_Palencia
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PALENCIA_SC
+#EXTINF:-1,Radio_Mi_Amigo_International
+200 http://195.154.217.103:8123/stream
+#EXTINF:-1,Estación_Rocanrol
+302 https://listen.radionomy.com/estacionrocanrol
+#EXTINF:-1,Radio_Dance_EDT
+http://144.217.165.34:8080/stream
+#EXTINF:-1,Formula_Fun_Galicia
+200 http://s30.myradiostream.com:30464/
+#EXTINF:-1,Radio_Formula_Bajío
+http://strmrfe.grupoformula.com.mx:8000/leon1
+#EXTINF:-1,1Mix_Radio_80s
+302 https://listen.radionomy.com/1mixradio80s
+#EXTINF:-1,Spectrum_FM_-_Marbella
+200 http://51.255.235.165:5014/stream.mp3
+#EXTINF:-1,Onda_Cero_Ciudad_Real
+200 https://livefastly-webs.ondacero.es/ciudadreal-pull/audio/master.m3u8
+#EXTINF:-1,Onda_Cero_Cuenca
+200 https://livefastly-webs.ondacero.es/cuenca-pull/audio/master.m3u8
+#EXTINF:-1,Cadena_SER_Radio_Bierzo
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BIERZO_SC
+#EXTINF:-1,Radio_Melodias_2020
+http://154.16.113.20:8864/
+#EXTINF:-1,LOS_40_Catalunya
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CATAAC_SC?dist=los40
+#EXTINF:-1,Radio_Marca_Cantabria
+http://91.121.77.67:8042/
+#EXTINF:-1,Melodia_Para_Dos
+https://srv5021.dns-lcinternet.com:8500/live
+#EXTINF:-1,Estereo_Latino
+200 http://server3.20comunicacion.com:8028/stream/1/
+#EXTINF:-1,Onda_Cero_Guadalajara
+200 https://livefastly-webs.ondacero.es/guadalajara-pull/audio/master.m3u8
+#EXTINF:-1,Holland_FM
+https://panel.amediastream.eu:8500/live
+#EXTINF:-1,Cadena_COPE_Lugo
+400 https://wecast-b03-04.flumotion.com/copesedes/lugo.mp3

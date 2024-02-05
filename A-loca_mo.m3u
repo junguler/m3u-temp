@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,澳門電台_FM_100.7
+200 http://live4.tdm.com.mo:1935/live/_definst_/rch2.live/playlist.m3u8
+#EXTINF:-1,Rádio_Macau
+200 http://live4.tdm.com.mo:80/live/rch1.live/playlist.m3u8
+#EXTINF:-1,RADIO_MARIA_MACAU
+200 http://dreamsiteradiocp2.com:8038/
+#EXTINF:-1,Radio_Vilaverde_綠邨738_AM
+http://59.188.222.12:1935/am738/738/playlist.m3u8

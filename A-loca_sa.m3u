@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,Rotana_FM_(روتانا_إف_إم)
+200 http://curiosity.shoutca.st:6035/
+#EXTINF:-1,Alif_Alif_FM_(ألف_ألف_إف_إم)
+http://alifaliffm.com:8800/AlifAlif.mp3
+#EXTINF:-1,Quran_Radio
+http://live.atyaf.co:8012/
+#EXTINF:-1,Quran_Live
+http://radio.yaservers.com:9966/
+#EXTINF:-1,Mix_FM_(_مكس_إف_إم_)
+http://s2.voscast.com:11376/live
+#EXTINF:-1,إذاعة_الرياض
+http://live3.almgrat.com:8042/stream
+#EXTINF:-1,Radio_Quran_(راديو_القرآن)
+http://live2.badrshfaqah.sa:8027/stream
+#EXTINF:-1,إذاعة_جدة
+http://live3.almgrat.com:8273/stream
+#EXTINF:-1,Panorama_FM_(بانوراما_)
+404 http://mbcfm-live.hls.adaptive.level3.net/hls-live/mbc-panoramafmvideo/_definst_/live.m3u8
+#EXTINF:-1,Radio_Sunna_إذاعة_السنة
+400 http://andromeda.shoutca.st:8189/stream
+#EXTINF:-1,Mix_FM_105.5
+http://s2.voscast.com:11376/
+#EXTINF:-1,Studio1_Saudi_Aramco
+https://ice31.securenetsystems.net/STUDIO1
+#EXTINF:-1,Radio_Orient
+http://futuretv.cdn.mangomolo.com/orient/orient/playlist.m3u8
+#EXTINF:-1,فيرس_24/7_HOLY_QURAN
+404 https://verse24.ngrok.io/listen.mp3
+#EXTINF:-1,Studio2_Saudi_Aramco
+https://ice31.securenetsystems.net/STUDIO2
+#EXTINF:-1,Khaled_Al-Qahtani_Radio_(خالد_القهطانى_راديو)
+200 http://live.mp3quran.net:9970/stream.mp3
+#EXTINF:-1,فيرس_24/7_Makkah_Live
+404 https://verse24.ngrok.io/stream/10/?type=acc
+#EXTINF:-1,Hala96
+http://108.61.34.50:7026/stream
+#EXTINF:-1,Saudia_Radio_(راديو_السعودية)
+http://cmt-live.hls.adaptive.level3.net/cmt/radiochannel04/01.m3u8
+#EXTINF:-1,النهج_الواضح-الإذاعة_الأولى
+400 http://alnahj.net:8000/stream
+#EXTINF:-1,النهج_الواضح-الإذاعة_الثالثة
+400 http://alnahj.net:8002/stream
+#EXTINF:-1,النهج_الواضح-الإذاعة_الثانية
+400 http://alnahj.net:8001/stream
+#EXTINF:-1,الإذاعات_الدولية_السعودية
+http://cmt-live.hls.adaptive.level3.net/cmt/radiochannel05/index.m3u8
+#EXTINF:-1,187.5_Kingheartfm
+http://stream.hornhost.com:6141/stream?nocache=110&type=http
+#EXTINF:-1,UFM_KSA_(يو_إف_إم)
+http://104.200.150.186:8000/
+#EXTINF:-1,Maher_Al-Muaiqly_(ماهر_المعيقلي)
+200 http://live.mp3quran.net:9996/stream.mp3
+#EXTINF:-1,Star_KSA_(ستار_السعودية)
+http://104.200.150.186:8000/stream=1
+#EXTINF:-1,إذاعة_نداء_الإسلام
+http://87.98.130.255:8348/stream
+#EXTINF:-1,Miraath_Al_Anbiyaa_(ميراث_الأنبياء)
+http://radio.miraath.net:7000/stream
+#EXTINF:-1,Miraath's_Holy_Quran_Radio_(_ميراث_القرآن_الكريم)
+http://178.32.57.87:7000/stream
+#EXTINF:-1,BBC_Xtra
+404 http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08nw8fr.mp3
+#EXTINF:-1,ذاكرة_التاريخ
+404 http://atv-video-test.s3.amazonaws.com/05.mp4
+#EXTINF:-1,ثقافة
+301 http://www.france24.com/ar/tv-shows/ثقافة/podcast
+#EXTINF:-1,SBS_Arabic24
+301 https://feedpress.me/link/17610/13814899/arabic_c1a5dc8e-b02f-4eb5-ba26-3d3877cc2f63.mp3
+#EXTINF:-1,Arabic_News_-_NHK_WORLD_RADIO_JAPAN
+404 https://www3.nhk.or.jp/nhkworld/upld/medias/ar/radio/news/20200818010000_arabic_1.mp3
+#EXTINF:-1,Sawa_Magazine
+301 http://feeds.soundcloud.com/stream/628933869-sawamagazine-30-05-19.mp3

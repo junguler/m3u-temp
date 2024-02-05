@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1,Radio_Kantipur
+200 http://broadcast.radiokantipur.com:7248/stream
+#EXTINF:-1,Image_FM
+http://streaming.hamropatro.com:8631/stream.mp3
+#EXTINF:-1,Kalika_FM
+200 http://kalika-stream.softnep.com:7740/
+#EXTINF:-1,Radio_Nepal
+http://radionepal.gov.np:40100/stream
+#EXTINF:-1,BBC_Nepali
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-nepla_backup?type=.mp3%2F
+#EXTINF:-1,Capital_FM_92.4
+200 http://streaming.softnep.net:8037/
+#EXTINF:-1,Syangja_Internet_Radio
+302 http://stream.zeno.fm/fzqwdre3mp8uv
+#EXTINF:-1,UNN_Ujyaalo_Kathmandu
+302 https://stream.zenolive.com/wtuvp08xq1duv
+#EXTINF:-1,Radio_Mithila
+http://streaming.hamropatro.com:8244/stream.mp3
+#EXTINF:-1,Butwal_FM
+200 http://streaming.softnep.net:8003/
+#EXTINF:-1,Citizen_FM_97.5
+http://144.76.110.138:9870/
+#EXTINF:-1,Radio_Thaha_Sanchar_99.6
+200 http://streaming.softnep.net:8025/
+#EXTINF:-1,Radio_Sagarmatha_102.4
+http://143.95.89.54:9322/
+#EXTINF:-1,Classic_FM_101.2
+http://live.itechnepal.com:8530/stream?type=.mp3
+#EXTINF:-1,Nepal_FM_91.8
+200 http://streaming.hamropatro.com:8230/
+#EXTINF:-1,Times_FM_90.6
+http://144.76.110.138:9999/tfmpls.m3u
+#EXTINF:-1,Radio_Birgunj_FM
+200 http://streaming.softnep.net:8017/
+#EXTINF:-1,Radio_Annapurna
+200 http://live.itechnepal.com:8964/stream?type=.mp3
+#EXTINF:-1,Radio_Himalaya
+http://radio.itech.host:8541/stream
+#EXTINF:-1,Mithilanchal_FM
+http://radio.itech.host:8640/stream
+#EXTINF:-1,Radio_Mithila_-_Headlines_&_Music_FM
+http://streaming.hamropatro.com:8246/
+#EXTINF:-1,Nepaliko_Radio_88.8_FM
+http://144.76.110.154:9888/
+#EXTINF:-1,Radio_Harpal_90.9_FM
+http://radio.online.org.np:9090/stream.mp3
+#EXTINF:-1,Radio_Audio_106.3
+302 https://stream.zenolive.com/2w81t82wx3duv
+#EXTINF:-1,Radio_Nagarik
+http://s2.voscast.com:10720/
+#EXTINF:-1,Radio_Lekhnath
+200 http://streaming.softnep.net:8305/
+#EXTINF:-1,Radio_Lumbini
+200 http://streaming.softnep.net:8085/
+#EXTINF:-1,Saptarangi_FM
+200 http://live.itechnepal.com:9629/stream?type=.mp3
+#EXTINF:-1,Star_FM_92.5
+http://live.itechnepal.com:9539/stream
+#EXTINF:-1,Radio_Mahakali
+http://rstream.abgroupnepal.com:8074/radiomahakali
+#EXTINF:-1,Tinau_Radio
+200 http://streaming.softnep.net:8293/
+#EXTINF:-1,Pathibhara_FM_93.6
+200 http://live.itechnepal.com:8744/stream
+#EXTINF:-1,Antenna_Foundation
+http://streaming.hamropatro.com:8290/
+#EXTINF:-1,Damauli_FM
+http://live.itechnepal.com:8786/stream
+#EXTINF:-1,Radio_Resunga_106.2
+200 http://live.itechnepal.com:9066/stream
+#EXTINF:-1,A_One_FM_99
+http://148.66.135.69:9336/
+#EXTINF:-1,Community_Radio_Parasi_90.2
+200 http://streaming.softnep.net:8129/
+#EXTINF:-1,Khasyauli_FM
+200 http://streaming.softnep.net:8167/
+#EXTINF:-1,Radio_Tehrathum
+200 http://live.itechnepal.com:9150/stream?type=.mp3
+#EXTINF:-1,Everest_Radio
+503 https://everestradio.com/shoutcast/stream
+#EXTINF:-1,Vijayapur_FM
+200 http://live.itech.host:9479/stream
+#EXTINF:-1,Radio_Dharan
+404 http://live.itechnepal.com:7064/stream
+#EXTINF:-1,Radio_Makalu_92.2_FM
+http://live.itechnepal.com:9042/stream?type=.mp3
+#EXTINF:-1,Choice_FM_90.4_FM
+http://streaming.hamropatro.com:8256/
+#EXTINF:-1,ANBU_FM
+302 https://stream.zeno.fm/5csru2np4bruv
+#EXTINF:-1,Radio_Mangsebung
+http://live.itechnepal.com:8212/stream
+#EXTINF:-1,SkyFM_106.6
+http://onair.websoftitnepal.com:8058/
+#EXTINF:-1,Himal_Radio
+http://144.76.110.138:9900/
+#EXTINF:-1,Radio_Arpan_104.5
+http://192.190.84.25:9950/?icy=http
+#EXTINF:-1,Eagle_FM
+http://radio.itechnepal.net:8080/eaglefm/
+#EXTINF:-1,Metro_FM
+http://streaming.softnep.net:8035/
+#EXTINF:-1,Gorkha_FM_93_MHz
+http://live.itechnepal.com:7011/stream?type=.mp3
+#EXTINF:-1,Prime_FM
+http://radio.itechnepal.net:8080/primefm/
+#EXTINF:-1,Singhalila_FM_97.3
+200 https://live.itech.host:3330/stream
+#EXTINF:-1,Radio_Miteri
+401 http://streaming.softnep.net:8053/
+#EXTINF:-1,Community_Radio_Madi_FM_107.6
+http://192.190.84.25:9924/
+#EXTINF:-1,KhabarQuick
+http://centauri.shoutca.st:8272/
+#EXTINF:-1,Radio_Amurta
+http://192.190.84.25:9974/
+#EXTINF:-1,RADIO_HOPE
+http://192.190.84.25:9302/
+#EXTINF:-1,Radio_Rastriya_89.8_FM
+http://37.59.42.207:8232/
+#EXTINF:-1,Radio_Sandesh
+400 http://live.itechnepal.com:7170/stream?type=.mp3

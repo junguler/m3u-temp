@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Best_FM_98.5
+200 http://103.48.116.109:9000/stream.mp3
+#EXTINF:-1,Mgl_Radio
+200 http://74.91.125.187:8096/stream
+#EXTINF:-1,Mongolian_Music_Radio
+http://109.169.23.17:8920/
+#EXTINF:-1,Гэр_бүлийн_радио_(Family_Radio_FM)
+404 http://c4.radioboss.fm/stream/87
+#EXTINF:-1,Wind_FM_104.5_(Гэр_бүлийн_радио)
+404 https://c4.radioboss.fm/stream/87
+#EXTINF:-1,Mongolian_National_Broadcaster
+http://103.14.38.108:8000/radio2

@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,Nau_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/NAUFM.mp3
+#EXTINF:-1,Radio_Maria_Papua_New_Guinea
+200 http://dreamsiteradiocp2.com:8112/stream/
+#EXTINF:-1,Legend_FM
+302 http://playerservices.live.streamtheworld.com/api/livestream-redirect/PNGLEGENDFM_SC
+#EXTINF:-1,NauFM_96.5
+302 http://playerservices.live.streamtheworld.com/api/livestream-redirect/NAUFM_SC
+#EXTINF:-1,Wantok_Radio_Light
+http://ca7.rcast.net:8060
+#EXTINF:-1,YumiFM
+302 http://playerservices.live.streamtheworld.com/api/livestream-redirect/YUMIFM_SC
+#EXTINF:-1,Kakashki
+302 https://stream.zeno.fm/bjt0atxwewlvv
+#EXTINF:-1,NBC_PnG
+302 https://stream.zeno.fm/8dhz9ksa8f0uv
+#EXTINF:-1,Latest_Vibez_Tasol
+302 https://stream.zeno.fm/3yvx9tr2pa0uv
+#EXTINF:-1,Friends_FM
+302 https://stream.zeno.fm/qys48zc1x68uv
+#EXTINF:-1,Radio_UnderGround-Bata_Rasta
+302 https://stream.zeno.fm/s0g8qa6hha0uv
+#EXTINF:-1,LMFAO_COMEDY_Show_Gentleman_STAND_UP
+302 https://stream.zeno.fm/hu4bcdcgiwfuv
+#EXTINF:-1,TRIGGERMAN_EXCLUSSIVE
+302 https://stream.zeno.fm/f9zxqsfyexhvv
+#EXTINF:-1,Tzgospel_swahili
+302 https://stream.zeno.fm/qbsupxanffhvv
+#EXTINF:-1,FM_Blo_Yumi
+302 https://stream.zeno.fm/y3w69k1knchvv
+#EXTINF:-1,1611_Living_Word_Radio
+302 https://stream.zeno.fm/4nxvcnna2k0uv
+#EXTINF:-1,Wanbel_FM
+302 https://stream.zeno.fm/80h7xsecvnhvv
+#EXTINF:-1,GINOSKO_RADIO
+302 https://stream.zeno.fm/73uhpkg1ry8uv
+#EXTINF:-1,NAU_FM_96.5_Port_Moresby
+301 http://provisioning.streamtheworld.com/pls/NAUFMAAC.pls
+#EXTINF:-1,Yumi_FM_93.1_Port_Moresby
+301 http://provisioning.streamtheworld.com/pls/YUMIFMAAC.pls
+#EXTINF:-1,Heart_80s_Listen_live
+401 https://media-ssl.musicradio.com/Heart80s
+#EXTINF:-1,Chillharmonie_Listen_live
+302 https://stream.laut.fm/chillharmonie
+#EXTINF:-1,Radio_RapTz_Listen_live
+405 https://www.radioking.com/play/radio-raptz/78175
+#EXTINF:-1,Radio_Bezs_Listen_live
+400 https://stream.radiobezs.hu:8011/bezs
+#EXTINF:-1,CBC_Bachman's_Guitarchives_Listen_live
+400 https://webradios-vh.akamaihd.net/i/mp4/f-j/jonrauhousessteelguitarairshow/00078558_adjusted_,64,128,.mp4.csmil/index_1_a.m3u8
+#EXTINF:-1,Radiopizzo_Listen_live
+302 https://stream.laut.fm/radiopizzo?ref=radiode
+#EXTINF:-1,Brújula_Musical_Listen_live
+https://centova.streaming-chile.com/proxy/brujulam?mp=/
+#EXTINF:-1,More_FM_-_Wellington_95.3_FM_Listen_live
+404 https://livestream.mediaworks.nz/radio_origin/more_[WTN]_128kbps/chunklist.m3u8
+#EXTINF:-1,ВИА_СССР_Listen_live
+https://pub0202.101.ru:8443/stream/personal/aacp/64/678258
+#EXTINF:-1,RMF_Reggae_Listen_live
+200 https://rs7-krk2-cyfronet.rmfstream.pl/REGGAE
+#EXTINF:-1,die_neue_welle_-_80ER_Listen_live
+302 https://dieneuewelle-80er.cast.addradio.de/dieneuewelle/80er/mp3/high
+#EXTINF:-1,Radio_Maria
+200 http://dreamsiteradiocp.com:8030/
+#EXTINF:-1,Hope_Radio
+http://s6.voscast.com:10816/stream

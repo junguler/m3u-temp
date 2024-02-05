@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,bigFM_Deutschland
+302 http://streams.bigfm.de/bigfm-deutschland-128-mp3?usid=0-0-H-M-D-52
+#EXTINF:-1,RPR1
+302 http://streams.rpr1.de/rpr-simulcast-128-mp3?usid=0-0-H-M-D-52
+#EXTINF:-1,radioFH!
+302 http://streamplus5.leonex.de:11000/stream/1
+#EXTINF:-1,eldoradio*
+400 http://sender.eldoradio.de:8000/128
+#EXTINF:-1,Hochschulradio_Aachen
+400 http://evans.hochschulradio.rwth-aachen.de:8000/radio.mp3
+#EXTINF:-1,Radio_Q
+400 http://rqstream.uni-muenster.de:8000/192.mp3
+#EXTINF:-1,Deutschlandfunk
+https://dradio-edge-3099-dus-ts-cdn.cast.addradio.de/dradio/dlf/live/mp3/128/stream.mp3?ar-distributor=f0e5
+#EXTINF:-1,Deutschlandfunk_Kultur
+https://dradio-edge-10c8-fra-dtag-cdn.cast.addradio.de/dradio/kultur/live/mp3/128/stream.mp3?ar-distributor=f0e5
+#EXTINF:-1,bigFM_Saarland
+302 http://streams.bigfm.de/bigfm-sb-128-mp3?usid=0-0-H-M-D-52
+#EXTINF:-1,bonnFM
+400 http://131.220.107.145:8000/live_high.m3u
+#EXTINF:-1,Hertz_87.9
+400 http://stream.radiohertz.de/hertz-hq.mp3
+#EXTINF:-1,Radio_Triquency
+400 http://kelinda.skim.hs-owl.de:8000/live128.mp3
+#EXTINF:-1,Deutschlandfunk_Nova
+https://dradio-edge-3097-dus-ts-cdn.cast.addradio.de/dradio/nova/live/mp3/128/stream.mp3?ar-distributor=f0e5

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,1_Radio_Haugaland
+200 http://radioip.no:8000/stream/1/
+#EXTINF:-1,Radio_Ålesund
+400 https://audio.radioaalesund.no/aalesund_hq
+#EXTINF:-1,Nordfjord_Nærradio
+400 https://lyd.nnr1987.no/nnr_hq

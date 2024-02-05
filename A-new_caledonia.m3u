@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,NIA_Radio_-_Pacifique
+https://radio.nia.nc/radio/8000/pacific-hq-stream.aac
+#EXTINF:-1,NIA_Radio_Lo-Fi
+200 https://radio.nia.nc/radio/8020/lofi-hq-stream.aac
+#EXTINF:-1,Nouvelle-Calédonie_La_Première
+https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3
+#EXTINF:-1,NRJ_Nouvelle_Calédonie_93,5_FM
+200 http://testradio01.ice.infomaniak.ch/testradio01-192.mp3
+#EXTINF:-1,Radio_Djiido
+http://radiodjiido.nc:8002/
+#EXTINF:-1,RRB
+400 http://radio.lagoon.nc/rrb
+#EXTINF:-1,95.0_Océane_FM_Listen_live
+400 https://radio.oceane.nc/oceane
+#EXTINF:-1,NRJ_Nouvelle_Calédonie_Listen_live
+https://testradio01.ice.infomaniak.ch/testradio01-192.mp3
+#EXTINF:-1,Starter_FM_Listen_live
+200 https://streaming.starterfm.com/radio/8010/nc64
+#EXTINF:-1,Rádio_Massa_FM_Taquaritinga_89.3_FM_Listen_live
+404 https://stm01.virtualcast.com.br:8180/live
+#EXTINF:-1,DEEREDRADIO_YELLOW-Zone_Listen_live
+400 https://webcast.deeredradio.com:8430/stream_mp3_128
+#EXTINF:-1,Jazz'Halo_Listen_live
+302 https://stream.laut.fm/jazzhalo?ref=radiode
+#EXTINF:-1,Omrop_Fryslân_Listen_live
+400 https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3
+#EXTINF:-1,Disco_-_101.ru_Listen_live
+https://pub0201.101.ru/stream/pro/aac/64/80
+#EXTINF:-1,Super_radio_Listen_live
+https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/3/
+#EXTINF:-1,Ночной_Джаз_Радио_-_RadioSpinner_Listen_live
+200 https://live.radiospinner.com/night-jazz-64
+#EXTINF:-1,Radio_Song_Niš_Listen_live
+302 https://stream.zeno.fm/wn6rxh42czzuv
+#EXTINF:-1,RPP_Trujillo_-_90.9_FM_/_790_AM_Listen_live
+https://18613.live.streamtheworld.com/RADIO_RPP_TRUJILLO.mp3
+#EXTINF:-1,Sabrozona_101.5_FM_Listen_live
+200 https://cloudstream2034.conectarhosting.com/8336/server
+#EXTINF:-1,Nouméa-Connexion
+405 https://www.radioking.com/play/noumeaconnexion
+#EXTINF:-1,Radio_Rythme_Bleu
+400 https://stream.rrb.nc/
+#EXTINF:-1,Starter_FM
+http://radiodjiido.nc:8000/
+#EXTINF:-1,Radio_Celestine
+404 http://streaming.starterfm.com/radio/8040/192kbps
+#EXTINF:-1,Radio_Océane
+http://radio.oceanefm.nc:8000/oceanenc
+#EXTINF:-1,Nouvelle_Calédonie_La_1ère
+200 http://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3
+#EXTINF:-1,NRJ_Nouvelle-Calédonie
+200 https://listen.radioking.com/radio/10030/stream/20672

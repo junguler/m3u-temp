@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,TUDN_Radio
+https://live.wostreaming.net/direct/univision-deportesaac-imc2
+#EXTINF:-1,WADO_1280_AM
+https://live.wostreaming.net/direct/univision-wadoamaac-imc1
+#EXTINF:-1,1460_Deportes_Vegas
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAMAAC.aac
+#EXTINF:-1,ESPN_Deportes_1220_AM
+https://live.wostreaming.net/direct/alphacorporate-wkrsamaac-ibc4
+#EXTINF:-1,Tu_Liga_Radio_1330_AM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC_SC
+#EXTINF:-1,TUDN_Radio_McAllen_1530_AM
+https://live.wostreaming.net/direct/univision-kgbtfmaac-imc1
+#EXTINF:-1,Univision_Deportes_Radio_1350_AM
+https://live.wostreaming.net/direct/univision-deportesaac-ibc2
+#EXTINF:-1,UNANIMO_Deportes_Radio
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/UNANIMO_NETWORK_SC
+#EXTINF:-1,Unanimo_Deportes_San_Diego
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/XESS_620AM.mp3

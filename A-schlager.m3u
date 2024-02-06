@@ -1,0 +1,1001 @@
+#EXTM3U
+#EXTINF:-1,Limfjord_Slager
+400 https://media.limfjordnetradio.dk/plusslager128
+#EXTINF:-1,Hitradio_Ö3
+400 https://orf-live.ors-shoutcast.at/oe3-q2a
+#EXTINF:-1,Arabella_Oberösterreich
+302 https://frontend.streams.arabella.at/arabella-oberoesterreich
+#EXTINF:-1,Arabella_Niederösterreich
+302 https://frontend.streams.arabella.at/arabella-niederoesterreich
+#EXTINF:-1,Arabella_Wien
+302 https://frontend.streams.arabella.at/arabella-wien
+#EXTINF:-1,Radio_SRF_Musikwelle
+200 https://lsaplus.swisstxt.ch/audio/drsvirus_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,City_Ajoin_Music
+200 https://play.ajoinmusic.be/ajoinmusic.mp3
+#EXTINF:-1,City_Music
+200 http://play.citymusic.be/citymusic.mp3
+#EXTINF:-1,Radio_B2
+302 https://radiob2-rolandkaiser.cast.addradio.de/radiob2/rolandkaiser/mp3/high/stream.mp3
+#EXTINF:-1,NDR_Schlager
+302 https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio_Paloma
+http://pool.radiopaloma.de/RADIOPALOMA.mp3
+#EXTINF:-1,Antenne_Kärnten
+http://live.antenne.at/ak
+#EXTINF:-1,Arabella_Schlager
+302 https://frontend.streams.arabella.at/arabella-schlager
+#EXTINF:-1,Radio_U1_Tirol
+400 https://server24923.streamplus.de/type=mp3
+#EXTINF:-1,BRF2_Radio
+400 https://streaming.brf.be/brf2-high.mp3
+#EXTINF:-1,Radio_Osttirol
+200 http://streamplus20.leonex.de:28768/
+#EXTINF:-1,Ballermann_Radio
+200 http://livestream.bmr-radio.de:80/ballermann-radio.mp3
+#EXTINF:-1,Český_Rozhlas_Pohoda
+400 https://rozhlas.stream/pohoda_mp3_128.mp3
+#EXTINF:-1,Iskelmä
+404 https://stream.bauermedia.fi/iskelma/hki_128.mp3
+#EXTINF:-1,Paloma
+https://pool.radiopaloma.de/RADIOPALOMA.mp3
+#EXTINF:-1,Radio_Bollerwagen
+200 https://ffn-stream26.radiohost.de/radiobollerwagen_mp3-192?
+#EXTINF:-1,Radio_Roland
+200 https://ffn-de-hz-fal-stream06-cluster01.radiohost.de/radioroland_mp3-192?
+#EXTINF:-1,RauteMusik_Best_of_Schlager
+https://rautemusik-de-hz-fal-stream18.radiohost.de/rm-best-of-schlager_mp3-192?ref=radiotrucker
+#EXTINF:-1,RauteMusik_Schlager
+200 https://rautemusik-de-hz-fal-stream14.radiohost.de/schlager
+#EXTINF:-1,RauteMusik_Schlager_Oldies
+200 https://rautemusik-de-hz-fal-stream13.radiohost.de/rm-schlager-oldies_mp3-192?ref=radiotrucker
+#EXTINF:-1,Saxnwelle
+200 https://saxnwelle.stream.laut.fm/saxnwelle?t302=2023-01-17_11-54-58&uuid=941e0c84-f31e-49e9-a5c7-3eb7acc25cbc
+#EXTINF:-1,SchlagerRadio.FM
+https://rautemusik-de-hz-fal-stream18.radiohost.de/schlager?ref=radiotrucker
+#EXTINF:-1,-_0_N_-_Deutsch_Pop_on_Radio
+400 https://0n-deutschpop.radionetz.de/0n-deutschpop.mp3
+#EXTINF:-1,-_0_N_-_Evergreens_on_Radio
+400 https://0n-evergreens.radionetz.de/0n-evergreens.aac
+#EXTINF:-1,-_0_N_-_Party_on_Radio
+400 https://0n-party.radionetz.de/0n-party.mp3
+#EXTINF:-1,-_0_N_-_Schlager_Gold_on_Radio
+400 https://0n-schlagergold.radionetz.de/0n-schlagergold.aac
+#EXTINF:-1,-_0_N_-_Schlager_Kult_on_Radio
+400 https://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3
+#EXTINF:-1,-_0_N_-_Schlager_on_Radio
+400 https://0n-schlager.radionetz.de/0n-schlager.aac
+#EXTINF:-1,-_0_N_-_Volksmusik_on_Radio
+400 https://0n-volksmusik.radionetz.de/0n-volksmusik.aac
+#EXTINF:-1,-_0_N_-_Weihnachten_on_Radio
+400 https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
+#EXTINF:-1,-_1_A_-_Deutsch_Pop_von_1A_Radio
+400 https://1a-deutschpop.radionetz.de/1a-deutschpop.mp3
+#EXTINF:-1,-_1_A_-_Party_von_1A_Radio
+400 https://1a-party.radionetz.de/1a-party.mp3
+#EXTINF:-1,-_1_A_-_Schlager_Gold_von_1A_Radio
+400 https://1a-schlagergold.radionetz.de/1a-schlagergold.aac
+#EXTINF:-1,-_1_A_-_Schlager_Kult_von_1A_Radio
+400 https://1a-schlagerkult.radionetz.de/1a-schlagerkult.mp3
+#EXTINF:-1,-_1_A_-_Schlager_von_1A_Radio
+400 https://1a-schlager.radionetz.de/1a-schlager.aac
+#EXTINF:-1,-_1_A_-_Volksmusik_von_1A_Radio
+400 https://1a-volksmusik.radionetz.de/1a-volksmusik.aac
+#EXTINF:-1,-_1_A_-_Weihnachten_von_1A_Radio
+400 https://1a-weihnachten.radionetz.de/1a-weihnachten.aac
+#EXTINF:-1,0nlineradio_PARTY
+200 https://stream.0nlineradio.com/party?ref=radiobrowser
+#EXTINF:-1,0nlineradio_SCHLAGER
+200 https://stream.0nlineradio.com/schlager?ref=radiobrowser
+#EXTINF:-1,0nlineradio_SCHLAGER_EVERGREENS
+200 https://stream.0nlineradio.com/schlager-evergreens?ref=radiobrowser
+#EXTINF:-1,0nlineradio_SCHLAGER_OLDIES
+200 https://stream.0nlineradio.com/schlager-oldies?ref=radiobrowser
+#EXTINF:-1,0nlineradio_VOLKSMUSIK
+200 https://stream.0nlineradio.com/volksmusik?ref=radiobrowser
+#EXTINF:-1,1_Slow-Radio_-_laut.fm
+200 https://1slowradio.stream.laut.fm/1_slowradio
+#EXTINF:-1,1000_Goldschlager
+200 https://1000goldschlager.stream.laut.fm/1000goldschlager
+#EXTINF:-1,101FM_-_Schlager
+200 http://0-24schlagervolksmusik.stream.laut.fm/0-24_schlager_volksmusik
+#EXTINF:-1,1A_Partyschlager
+404 http://saw-de-hz-fal-stream06-cluster01.radiohost.de/saw-partyschlager_128
+#EXTINF:-1,Absolut_bella
+302 https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3
+#EXTINF:-1,AchjaRadio
+401 http://91.194.84.22:9102/
+#EXTINF:-1,Angelsfox-Radio
+http://85.25.217.30/afr128.mp3
+#EXTINF:-1,Antenne_Bayern_Schlagersahne
+302 http://mp3channels.webradio.antenne.de/das-schlager-karussell
+#EXTINF:-1,Antenne_Bayern,_Schlagersahne
+302 http://stream.antenne.de/das-schlager-karussell/stream/aacp
+#EXTINF:-1,Antenne_Brandenburg
+200 http://www.antennebrandenburg.de/live.m3u
+#EXTINF:-1,Antenne_MV_Schlagerlaune
+http://regiocast.hoerradar.de/antennemv-schlager-mp3-mq?sABC=5811p0r0%231%23s462ons4131qoo108r0sn4p9s4s01s69%23ubzrcntrnzi\u0026amsparams=playerid:homepageamvskey:1477558496
+#EXTINF:-1,Antenne_Niedersachsen_Schlager
+302 http://stream.antenne.com/schlager/mp3-192/linux/
+#EXTINF:-1,Antenne_Vorarlberg_Schlagerkult
+302 https://web.radio.antennevorarlberg.at/av-schlagerkult
+#EXTINF:-1,ANTENNE_VORARLBERG-Schlagerkult
+http://webradio.antennevorarlberg.at/schlagerkult
+#EXTINF:-1,ANTENNEBAYERN_Schlagersahne_(64_kbps_AAC)
+302 http://mp3channels.webradio.antenne.de/das-schlager-karussell.aac
+#EXTINF:-1,BackStage_FM
+200 http://server35127.streamplus.de/stream.mp3
+#EXTINF:-1,Ballermann_Radio_Country
+200 http://country.bmr-radio.com:8000/
+#EXTINF:-1,Ballermann_Radio_Top100
+200 http://top100.bmr-radio.com:8000/
+#EXTINF:-1,BEST_OF_SCHLAGER_by_rautemusik_(rm.fm)
+302 https://best-of-schlager-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,BR_Schlager
+302 https://dispatcher.rndfnk.com/br/brschlager/live/aac/low
+#EXTINF:-1,BRF2
+400 http://streaming.brf.be/brf2-high.mp3
+#EXTINF:-1,Chat-Fire
+302 http://stream.laut.fm/chat-fire
+#EXTINF:-1,CHRISTMAS_SCHLAGER_by_rautemusik_(rm.fm)
+302 https://christmas-schlager-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Dance_Family_Radio
+200 https://dance-family-radio.stream.laut.fm/dance-family-radio
+#EXTINF:-1,Dancefox_Radio
+200 https://s35.derstream.net/dancefox-radio.mp3
+#EXTINF:-1,Dein_Salzkammergutradio
+200 http://rs2.myradio24.de:8410/stream
+#EXTINF:-1,deutschlands_Beatradio_msG
+http://server14963.streamplus.de/stream.mp3
+#EXTINF:-1,Dinkelwelle
+200 http://server4.streamserver24.com:22126/stream
+#EXTINF:-1,Discofox_FM
+http://87.118.78.2:8000/
+#EXTINF:-1,Discofox-Hithaus
+http://discofox-hithaus.com:11550/
+#EXTINF:-1,DJ_Raimund
+302 http://stream.laut.fm/dj_raimund
+#EXTINF:-1,Donau_Radio_Musikwelle
+200 http://musikwelle.com:8000/stream.mp3
+#EXTINF:-1,EASTSIDE_FM
+200 https://laut.fm/eastside_fm
+#EXTINF:-1,Energy_Top_40
+301 http://nrj.de/germanytop40
+#EXTINF:-1,Ferienwelle
+302 http://stream.laut.fm/ferienwelle
+#EXTINF:-1,FoxBoxRadio
+http://streamplus19.leonex.de:11036/audio.mp3
+#EXTINF:-1,FriesenRadio
+200 http://stream.laut.fm/friesenradio.pls
+#EXTINF:-1,Frühlingsradio
+302 http://stream.laut.fm/fruehling
+#EXTINF:-1,gofm.ro
+200 http://live.gofm.ro:9128/
+#EXTINF:-1,goSCHLAGER
+200 https://live.gofm.ro:2000/stream/goSCHLAGER
+#EXTINF:-1,harmony.fm_Schlager_Radio
+200 http://mp3.harmonyfm.de/hrmchannels/schlager.aac
+#EXTINF:-1,Hit_Radio_FFH_-_Schlagerkult
+200 http://streams.ffh.de/ffhchannels/aac/schlager.m3u
+#EXTINF:-1,Hit_Radio_X
+200 https://login.streamplus.de/streamserver/public/34992.m3u
+#EXTINF:-1,Hitparadio
+302 http://stream.laut.fm/hitparadio
+#EXTINF:-1,Hitradio_Schlager
+302 http://stream.laut.fm/hitradio-schlager
+#EXTINF:-1,Ilmwelle_Schlager
+400 http://stream.ilmwelle.de/ilmwelle-schlager-192.mp3
+#EXTINF:-1,Insel_Föhr_Radio
+200 http://stream.laut.fm/mein_inselradio_nf.m3u
+#EXTINF:-1,Joe_Lage_Landen
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/JOE_LAGE_LANDEN.mp3
+#EXTINF:-1,Kaffee_Radio
+302 http://stream.laut.fm/kaffee
+#EXTINF:-1,KARNEVAL_by_rautemusik_(rm.fm)
+302 https://karneval-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,karneval-radio.de
+302 https://stream.laut.fm/karneval-radio
+#EXTINF:-1,Larmo_Online
+302 http://stream.laut.fm/larmo/
+#EXTINF:-1,Laut.fm
+302 http://stream.laut.fm/schlagerradio
+#EXTINF:-1,Laut.FM_DeutschRock_Station
+302 https://stream.laut.fm/deutschrock-station
+#EXTINF:-1,laut.fm_Karneval
+302 http://stream.laut.fm/karneval
+#EXTINF:-1,Laut.FM_Schlagerschweinchen
+302 http://stream.laut.fm/schlagerschweinchen
+#EXTINF:-1,Laut.fm_senderps40
+302 http://stream.laut.fm/senderps40
+#EXTINF:-1,laut.fm_sunsetcity
+302 http://stream.laut.fm/sunsetcity
+#EXTINF:-1,laut.fm_The-Loft
+302 https://stream.laut.fm/the-loft
+#EXTINF:-1,Laut.fm/radioparty
+302 http://stream.laut.fm/radioparty
+#EXTINF:-1,LOA2010
+http://stream.enet24.de:9600/
+#EXTINF:-1,Lokaal_Radio_Nijmegen
+http://stream.lokaalradio.nl:9001/
+#EXTINF:-1,M1.FM_-_Schlagerparty
+http://tuner.m1.fm/schlagerparty.mp3
+#EXTINF:-1,MDR_Sachsen_Leipzig
+200 http://avw.mdr.de/streams/284280-3_aac_high.m3u
+#EXTINF:-1,MDR_Sachsen_SCHLAGERWELT
+302 http://mdr-990801-0.cast.mdr.de/mdr/990801/0/aac/high/stream.aac
+#EXTINF:-1,MDR_Schlagerwelt_Sachsen
+200 http://avw.mdr.de/streams/990801-0_mp3_high.m3u
+#EXTINF:-1,MDR_Schlagerwelt_Sachsen-Anhalt
+200 http://avw.mdr.de/streams/990701-0_aac_high.m3u
+#EXTINF:-1,MDR_Schlagerwelt_Thüringen
+200 http://avw.mdr.de/streams/990601-0_mp3_high.m3u
+#EXTINF:-1,memoryradio_1
+200 http://www.memoryradio.de:4000/
+#EXTINF:-1,memoryradio_2
+200 http://www.memoryradio.de:5000/
+#EXTINF:-1,MFC_Radio
+http://music-fans.com:8000/
+#EXTINF:-1,Musik-Kurier
+302 http://stream.laut.fm/musik-kurier
+#EXTINF:-1,NDR_1_Welle_Nord_Region_Heide
+301 http://www.surfmusik.de/m3u/station/ndr-1-welle-nord-region-heide,17542.m3u
+#EXTINF:-1,NDR_Plus
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndrplus.m3u
+#EXTINF:-1,Notenkiste_-_deutsche_Texte
+302 http://stream.laut.fm/notenkiste
+#EXTINF:-1,Ostseewelle_Schlagerhits
+302 http://streamosw.ir-media-tec.com/schlager/mp3-128/web/
+#EXTINF:-1,Party_Radio
+302 http://stream.laut.fm/party
+#EXTINF:-1,PARTYHITS_by_rautemusik_(rm.fm)
+302 https://partyhits-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Partyradio24
+400 http://server.rmnradio.de/partyradio24
+#EXTINF:-1,R.SA_Snow_Fun
+302 http://streams.rsa-sachsen.de/100/mp3-192/streams.rsa-sachsen.de/
+#EXTINF:-1,Radio_2000
+400 http://159.69.217.78:8000/?radio=radio2000.mp3
+#EXTINF:-1,Radio_30_Plus
+200 http://stream.laut.fm/radio30plus.m3u
+#EXTINF:-1,Radio_Alpenfunk
+http://81.169.174.242:7000/
+#EXTINF:-1,Radio_Attl
+200 https://radio-attl.stream.laut.fm/radio-attl
+#EXTINF:-1,radio_b2
+302 https://radiob2-national.cast.addradio.de/radiob2/national/mp3/high/stream.mp3?ar-distributor=f0b7\u0026token=c3RhcnRUaW1lPTIwMTkwMjA2MTE0ODAxJmVuZFRpbWU9MjAxOTAyMDYxMzQ4MDEmaXB2ND0xODEuMjI2LjE1OS43MS8yNCZkaWdlc3Q9N2U1MmQxYTAwY2EzMGMwZDBhNzczZTg2OTVlZTBhZGU
+#EXTINF:-1,Radio_B2_-_Andrea_Berg
+302 http://mp3ad.radiob2andreaberg.c.nmdn.net/radiob2andreaberg/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Deutschland
+302 http://mp3ad.radiob2.c.nmdn.net/ps-radiob2national/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Helene_Fischer
+302 http://mp3ad.radiob2helenefischer.c.nmdn.net/radiob2helenefischer/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Kultschlager
+302 http://mp3ad.radiob2kultschlager.c.nmdn.net/radiob2kultschlager/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Ostschlager
+302 http://mp3ad.radiob2ostschlager.c.nmdn.net/radiob2ostschlager/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Roland_Kaiser
+302 http://mp3ad.radiob2rolandkaiser.c.nmdn.net/radiob2rolandkaiser/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Schlagermixx
+302 http://mp3ad.radiob2schlagermixx.c.nmdn.net/radiob2schlagermixx/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Volksmusik
+302 http://mp3ad.radiob2volksmusik.c.nmdn.net/radiob2volksmusik/livestream.mp3
+#EXTINF:-1,Radio_B2_Berlin
+302 http://mp3ad.radiob2.c.nmdn.net/ps-radiob2regional/livestream.mp3
+#EXTINF:-1,Radio_Bautzen
+302 http://stream.laut.fm/radiobautzen
+#EXTINF:-1,Radio_Emscher_Lippe_-_Dein_Schlager_Radio
+302 http://rnrw.cast.addradio.de/rnrw-0166/deinschlager/high/stream.mp3
+#EXTINF:-1,Radio_FFN_-_Bollerwagen
+302 https://stream.ffn.de/radiobollerwagen/mp3-192?ref=radio-browser
+#EXTINF:-1,Radio_Flamingo
+http://live.antenne.at/rf
+#EXTINF:-1,Radio_Freedance
+302 http://stream.laut.fm/freedance
+#EXTINF:-1,Radio_Grün_Weiß
+http://live.gruen-weiss.at/rgw.mp3
+#EXTINF:-1,Radio_Grün_Weiß_-_HQ
+http://live.gruen-weiss.at/rgw.aac
+#EXTINF:-1,Radio_Heimatmelodie
+400 http://play.radio-heimatmelodie.de/
+#EXTINF:-1,Radio_Heimatmelodie_(24kb)
+400 http://212.77.178.166:8080/
+#EXTINF:-1,Radio_Heimatmelodie_(64kb)
+400 http://212.77.178.166:8010/
+#EXTINF:-1,Radio_Landeskrone
+302 http://stream.laut.fm/radio-landeskrone
+#EXTINF:-1,Radio_Melody
+https://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3
+#EXTINF:-1,Radio_Nordsee_international
+401 http://stream.radio-northsea.de:7000/aac
+#EXTINF:-1,Radio_Nostalgia
+https://fred.torontocast.com:1395/stream
+#EXTINF:-1,Radio_Ohrwurm
+http://shoutcast.radio-ohrwurm.net:31940/
+#EXTINF:-1,Radio_PSR
+http://regiocast.hoerradar.de/psr-live-mp3-hq
+#EXTINF:-1,Radio_Salü_Mallorca-Style
+400 http://internetradio.salue.de:8000/schlagerparty
+#EXTINF:-1,radio_SAW_-_Partyschlager
+302 http://stream.saw-musikwelt.de/saw-partyschlager/mp3-128/radio-browser/stream.mp3
+#EXTINF:-1,Radio_Schlagerparadies
+400 http://webstream.schlagerparadies.de/schlagerparadies128k.mp3
+#EXTINF:-1,Radio_Siebenbürgen
+http://www.radio-siebenbuergen.de:8000/listen.pls?sid=1
+#EXTINF:-1,Radio_Tirol
+200 http://str2.creacast.com/radiotirol_a
+#EXTINF:-1,Radio_VM1
+https://server35270.streamplus.de:12444/stream.mp3
+#EXTINF:-1,Radio_Wuhletal
+302 http://stream.laut.fm/radio-wuhletal
+#EXTINF:-1,Radio-PlanB
+200 http://85.25.118.42:8400/
+#EXTINF:-1,Radioachterhoek.nl
+200 https://stream.radioachterhoek.nl/index.html?sid=1
+#EXTINF:-1,RadioMonster.FM_-_Schlager_Kanal
+302 http://schlager.radiomonster.fm/320.mp3
+#EXTINF:-1,RPR1._Apré_Ski_&&_Ballermann
+302 http://streams.rpr1.de/rpr-apresski-128-mp3?usid=0-0-H-M-D-50
+#EXTINF:-1,RPR1._Schlagerklassiker
+302 http://streams.rpr1.de/rpr-schlagerklassiker-128-mp3?usid=0-0-H-M-D-50
+#EXTINF:-1,RPR1._Volksmusik
+302 http://streams.rpr1.de/rpr-volksmusik-128-mp3?usid=0-0-H-M-D-50
+#EXTINF:-1,RPW_-_Radio_Partywelle
+http://listen.radiopartywelle.com:8000/
+#EXTINF:-1,SATzentrale_Deluxe
+302 http://stream.laut.fm/satzentrale-deluxe
+#EXTINF:-1,SCHLAGER_OLDIES_by_rautemusik_(rm.fm)
+302 https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Schlagerhölle
+400 http://stream.schlagerhoelle.de:30842/
+#EXTINF:-1,Schlagerparadies
+301 http://www.surfmusik.de/m3u/schlagerparadies,9490.m3u
+#EXTINF:-1,SchlagerPlanet_Radio
+http://schlagerplanet.hoerradar.de/schlagerplanet-party-mp3-hq?sABC=586953n5%231%2361s5osq1428snr8p3940q125o9rsp57s%23yvirbayvarenqvb?glcr=.zc3\u0026amsparams=playerid:liveonlineradio%3Ftype%3D.mp3skey:1483297701
+#EXTINF:-1,SCHLAGERRADIO.FM_by_rautemusik_(rm.fm)
+302 https://schlager-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Schwany__Souvenir_1
+301 https://souvenir1.hoamatwelle.de/
+#EXTINF:-1,Schwany__Souvenir_2
+301 https://souvenir2.hoamatwelle.de/
+#EXTINF:-1,Schwany_2
+301 https://schwany2schlager.hoamatwelle.de/
+#EXTINF:-1,Schwany_Heimatwelle
+301 https://hoamatwelle.schwany.de/
+#EXTINF:-1,Schwany_Herzklang
+301 https://herzklang.hoamatwelle.de/
+#EXTINF:-1,Signal_1
+302 http://stream.laut.fm/signal1
+#EXTINF:-1,SR_3_Saarlandwelle
+403 http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m
+#EXTINF:-1,SR_3_Saarlandwelle_(56_kbit/s)
+302 http://sr.audiostream.io/sr/1011/mp3/56/sr3
+#EXTINF:-1,SWR4_BW_[48_aac]
+302 https://liveradio.swr.de/sw890cl/swr4bw/
+#EXTINF:-1,TeleRadio1
+302 http://stream.laut.fm/teleradio1
+#EXTINF:-1,Ü30-Partyradio_Schlager
+http://stream.ue30partyradio.de:18000/
+#EXTINF:-1,VOLKSMUSIK.FM_by_rautemusik_(rm.fm)
+302 https://volksmusik-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,wunschradio.fm_Schlager
+400 http://mp3.wunschradio.de/wunschradio-schlager.mp3
+#EXTINF:-1,Radio_Farbenspiel
+https://simba.streampanel.cloud:5320/stream
+#EXTINF:-1,Radio_Primavera_GC_107.3_FM
+400 https://stream.radio-pv.com/
+#EXTINF:-1,Radio_Europa_Gran_Canaria_-_Schlager_Welle
+https://server8.emitironline.com:18734
+#EXTINF:-1,Radio_Europa_Tenerife_-_Schlager_Welle
+200 https://server10.emitironline.com:11057
+#EXTINF:-1,Gute_Musik_
+302 https://stream.laut.fm/gutemusik?ref=radiode
+#EXTINF:-1,Viva+
+302 https://radios.rtbf.be/vivaplus-64.aac
+#EXTINF:-1,schlagerrallyefm
+302 https://stream.laut.fm/schlagerrallyefm?ref=radiode
+#EXTINF:-1,DMAX_RADIO
+200 https://listen.radioking.com/radio/159736/stream/200629
+#EXTINF:-1,Hit_Radio_FM_
+https://stream.hit-radio-fm.de:8602/stream/1/
+#EXTINF:-1,Radio_Lechtal
+302 https://stream.laut.fm/lechtal?ref=radiode
+#EXTINF:-1,SunRadioLive
+302 https://stream.laut.fm/sunradiolive?ref=radiode
+#EXTINF:-1,Sunrise-Radio
+502 https://www.tunefm.de:2000/stream/sunrise-radio
+#EXTINF:-1,Discosound-Radio
+302 https://stream.laut.fm/discosound-radio?ref=radiode
+#EXTINF:-1,MDR_Sachsen-Anhalt_Magdeburg
+404 https://addrad.io/444y7th
+#EXTINF:-1,1_HITS_80s
+302 https://stream.laut.fm/hits_80s?ref=radiode
+#EXTINF:-1,Radio_Italia_Stoccarda
+302 https://stream.laut.fm/radioitaliastoccarda?ref=radiode
+#EXTINF:-1,Absolut_Bella
+https://absolutradio.stream24.net/absolut-bella.mp3?ref=radio.de
+#EXTINF:-1,Antenne_MV_Bauer_Korls_Landradio
+302 https://streams.antennemv.de/bauerkorl/mp3-192/radiode/
+#EXTINF:-1,Dancefox24
+302 https://stream.laut.fm/dancefox24?ref=radiode
+#EXTINF:-1,Hot_Power_Radio
+200 https://s2.free-shoutcast.com/stream/18012
+#EXTINF:-1,889fm
+302 https://stream.laut.fm/889fm?ref=radiode
+#EXTINF:-1,Dream_Dance_Radio
+302 https://stream.laut.fm/dream-dance-radio?ref=radiode
+#EXTINF:-1,EMR
+302 https://stream.laut.fm/emr?ref=radiode
+#EXTINF:-1,MusicPowerBeatRadio
+302 https://stream.laut.fm/musicpowerbeat?ref=radiode
+#EXTINF:-1,QUEERBEET_OPF_FM
+302 https://stream.laut.fm/queerbeet-opf-fm?ref=radiode
+#EXTINF:-1,Radio_Mülfort
+302 https://stream.laut.fm/radio-muelfort?ref=radiode
+#EXTINF:-1,MDR_SACHSEN-ANHALT_Dessau
+https://mdr-mdrsachsenanhalt-livede.cast.addradio.de/mdr/mdrsachsenanhalt/livede/aac/128/stream.aac?ar-distributor=f0a0
+#EXTINF:-1,MDR_SACHSEN-ANHALT_Halle
+https://mdr-mdrsachsenanhalt-livehal.cast.addradio.de/mdr/mdrsachsenanhalt/livehal/aac/128/stream.aac?ar-distributor=f0a0
+#EXTINF:-1,MDR_SACHSEN-ANHALT_Stendal
+https://mdr-mdrsachsenanhalt-livesdl.cast.addradio.de/mdr/mdrsachsenanhalt/livesdl/aac/128/stream.aac?ar-distributor=f0a0
+#EXTINF:-1,Radio_Camping_Car_
+404 https://listen.radioking.com/radio/199126/stream/241681
+#EXTINF:-1,The_German_Radio
+404 https://streaming.live365.com/a97323
+#EXTINF:-1,Radio_B6
+302 https://stream.laut.fm/radiob6?ref=radiode
+#EXTINF:-1,Eurovision
+302 https://stream.laut.fm/eurovision?ref=radiode
+#EXTINF:-1,DiscoFoxSound
+https://stream-alfacast-hosting.de:7045/stream/1/
+#EXTINF:-1,radiolovesound
+302 https://stream.laut.fm/radiolovesound?ref=radiode
+#EXTINF:-1,Schlager_Radio_B2_Kuschel-Schlager
+https://radiob2-ais-edge-3103-fra-eco-cdn.cast.addradio.de/radiob2/deutschpop/mp3/high/stream.mp3
+#EXTINF:-1,Schlagermeile
+302 https://stream.laut.fm/schlagermeile?ref=radiode
+#EXTINF:-1,101.ru:_Bards_Song
+200 https://ic6.101.ru:8000/stream/pro/aac/64/35
+#EXTINF:-1,NRJ_Made_in_France
+302 https://scdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,SWR4_Baden-Württemberg_-_SWR4_Stuttgart
+404 https://addrad.io/4WRLNP
+#EXTINF:-1,SWR4_Rheinland-Pfalz_-_SWR4_Mainz
+404 https://addrad.io/4WRMns
+#EXTINF:-1,Dampfradio
+302 https://stream.laut.fm/dampfradio?ref=radiode
+#EXTINF:-1,LittleStar-Radio
+302 https://stream.laut.fm/littlestar-radio?ref=radiode
+#EXTINF:-1,Radio-Cristall_
+302 https://stream.laut.fm/radio-cristall?ref=radiode
+#EXTINF:-1,Radio_Himmelberg
+302 https://stream.laut.fm/radio-himmelberg?ref=radiode
+#EXTINF:-1,Radio_Olbersdorf
+302 https://stream.laut.fm/radio-olbersdorf?ref=radiode
+#EXTINF:-1,radio.null6
+302 https://stream.laut.fm/null6?ref=radiode
+#EXTINF:-1,Whitebeat_Radio
+400 https://radio.whitebeat-radio.de:8443/frei
+#EXTINF:-1,dein-radio-berlin
+302 https://stream.laut.fm/dein-radio-berlin?ref=radiode
+#EXTINF:-1,Radio-Partywelt
+https://stream04.stream-webradiotechnik.de:11252/stream/1/
+#EXTINF:-1,Radio_Illertal
+200 https://stream.radioillertal.de:8002/stream/1/
+#EXTINF:-1,Schlagergarage
+302 https://stream.laut.fm/schlagergarage?ref=radiode
+#EXTINF:-1,radio-holiday
+302 https://stream.laut.fm/radio-holiday?ref=radiode
+#EXTINF:-1,100%_Discofox_von_Schlagerplanet_Radio
+302 https://streams.schlagerplanetradio.com/discofox/mp3-192/radiode/
+#EXTINF:-1,1A_Schlager
+400 https://1a-schlager.radionetz.de/1a-schlager.mp3
+#EXTINF:-1,1A_Weihnachten
+https://s37.derstream.net/afr128.mp3
+#EXTINF:-1,Blue-Crazy-Radio
+https://stream-alfacast-hosting.de:7011/stream/1/
+#EXTINF:-1,Das_Durchgeknallte_Radio
+200 https://das-durchgeknallte-radio.de:8102/
+#EXTINF:-1,Radio_Emsjade
+https://stream.radio-emsjade.de:8002/stream/1/
+#EXTINF:-1,Webradio_FanOma
+https://94.23.163.174:5160/stream
+#EXTINF:-1,discofoxundschlager
+302 https://stream.laut.fm/discofoxundschlager?ref=radiode
+#EXTINF:-1,Radio-Discowelle
+302 https://stream.laut.fm/discowelle?ref=radiode
+#EXTINF:-1,dj-david-dortmund
+302 https://stream.laut.fm/dj-david-dortmund?ref=radiode
+#EXTINF:-1,Dream-Of-Music
+302 https://stream.laut.fm/dream-of-music?ref=radiode
+#EXTINF:-1,ELBE-deutsch
+302 https://stream.laut.fm/elbe-deutsch?ref=radiode
+#EXTINF:-1,Hitradio_Halle_Neustadt
+302 https://stream.laut.fm/hitradio-halle-neustadt?ref=radiode
+#EXTINF:-1,Hitradio-Schlagersternchen
+302 https://stream.laut.fm/hitradio-schlagersternchen?ref=radiode
+#EXTINF:-1,Hitradio_Schlagerwelle
+200 https://laut.fm/hitradio-schlagerwelle?ref=radiode
+#EXTINF:-1,hotradio4you
+302 https://stream.laut.fm/hotradio4you?ref=radiode
+#EXTINF:-1,kanalstadt-radio-datteln
+302 https://stream.laut.fm/kanalstadt-radio-datteln?ref=radiode
+#EXTINF:-1,Radio_Klangbild
+302 https://stream.laut.fm/klangbild?ref=radiode
+#EXTINF:-1,kuschelbaer-radio
+302 https://stream.laut.fm/kuschelbaer-radio?ref=radiode
+#EXTINF:-1,moderator-daniel
+302 https://stream.laut.fm/moderator-daniel?ref=radiode
+#EXTINF:-1,nhw1
+302 https://stream.laut.fm/nhw1?ref=radiode
+#EXTINF:-1,Radio-L
+302 https://stream.laut.fm/radio-l?ref=radiode
+#EXTINF:-1,Radio_Pader_Melodie_
+302 https://stream.laut.fm/radio-pader-melodie?radiode
+#EXTINF:-1,radio-sachsen-palast
+302 https://stream.laut.fm/radio-sachsen-palast?ref=radiode
+#EXTINF:-1,radio-schlagerwahn-mix
+302 https://stream.laut.fm/radio-schlagerwahn-mix?ref=radiode
+#EXTINF:-1,Radio-Marita
+302 https://stream.laut.fm/radiomarita?ref=radiode
+#EXTINF:-1,Schlager_Nonstop
+302 https://stream.laut.fm/schlager-nonstop?ref=radiode
+#EXTINF:-1,SCHLAGERINO
+302 https://stream.laut.fm/schlagerino?ref=radiode
+#EXTINF:-1,SCHLAGERINO_Kultschlager
+302 https://stream.laut.fm/schlagerino-kultschlager?ref=radiode
+#EXTINF:-1,Schlagerstar
+302 https://stream.laut.fm/schlagerstar?ref=radiode
+#EXTINF:-1,schlagerzone
+302 https://stream.laut.fm/schlagerzone?ref=radiode
+#EXTINF:-1,SDR_Niedersachsen
+302 https://stream.laut.fm/sdr-niedersachsen?ref=radiode
+#EXTINF:-1,Radio-Sonnenanbeter
+302 https://stream.laut.fm/sonnenanbeter?ref=radiode
+#EXTINF:-1,Sunshine_Beat_Radio
+302 https://stream.laut.fm/sunshine-beat-radio?ref=radiode
+#EXTINF:-1,webradio-halle
+302 https://stream.laut.fm/webradio-halle?ref=radiode
+#EXTINF:-1,Müritzradio
+https://88.198.175.30:5574/stream/1/
+#EXTINF:-1,Night-Dragon-Radio
+https://stream-alfacast-hosting.de:7052/stream/1/
+#EXTINF:-1,queer-soundz
+302 https://stream.laut.fm/queer-soundz?ref=radiode
+#EXTINF:-1,Radio_Annett
+401 https://server31398.streamplus.de/stream/1/
+#EXTINF:-1,Radiofamily_Sound
+https://server32854.streamplus.de/stream.mp3
+#EXTINF:-1,Radio_Norder_Welle
+302 https://stream.laut.fm/norderwelle?ref=radiode
+#EXTINF:-1,RHP_-_Lavanttal
+https://c01.lexycast.de:2965/stream
+#EXTINF:-1,Tanzbar-Night
+200 https://listen.radionomy.com/tanzbar-night.pls
+#EXTINF:-1,radio_SAW_Deutsch
+302 https://stream.saw-musikwelt.de/saw-deutsch/mp3-128/radiode/stream.mp3
+#EXTINF:-1,7DreamRadio
+https://stream-alfacast-hosting.de:7021/stream/1/
+#EXTINF:-1,euro1
+302 https://stream.laut.fm/euro1?ref=radiode
+#EXTINF:-1,radiobestmusic
+302 https://stream.laut.fm/radiobestmusic?ref=radiode
+#EXTINF:-1,Radio_Olymp_FM
+https://s16.streamcaster.eu:8109/stream/1/
+#EXTINF:-1,#Musik_PartyHits
+302 https://partyhits-high.rautemusik.fm/listen.mp3?ref=radiode
+#EXTINF:-1,Nostalgie_Légendes
+302 https://scdn.nrjaudio.fm/adwz1/fr/55196/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,100%_Partyschlager_-_von_SchlagerPlanet
+302 https://streams.schlagerplanetradio.com/partyschlager/mp3-192
+#EXTINF:-1,100%_Schlager_Best_Of_2019_-_von_SchlagerPlanet
+200 https://streams.schlagerplanetradio.com/best16/mp3-192/radiode/play.pls
+#EXTINF:-1,Antenne_MV_PartyHITmix
+302 https://streams.antennemv.de/partymix/mp3-192/radiode/
+#EXTINF:-1,Berliner_Rundfunk_-_Weihnachten_mit_Simone_Panteleit_
+302 https://stream.berliner-rundfunk.de/brf-ein-herz-fuer-schlager/mp3-128/?ref=radiode
+#EXTINF:-1,HitRadioNRW
+https://stream.hitradionrw.de/live.mp3
+#EXTINF:-1,Radio_Enzian
+400 https://icecast.popradio.space/enzian128.mp3
+#EXTINF:-1,100radio-vollgaga
+302 https://stream.laut.fm/100radio-vollgaga?ref=radiode
+#EXTINF:-1,Radio33smr
+302 https://stream.laut.fm/33smr?ref=radiode
+#EXTINF:-1,Best_Music_Station
+302 https://stream.laut.fm/bestmusicstation?ref=radiode
+#EXTINF:-1,discopapas-musikkarussell
+302 https://stream.laut.fm/discopapas-musikkarussell?ref=radiode
+#EXTINF:-1,Radio-OderSpree
+302 https://stream.laut.fm/radio-oderspree?ref=radiode
+#EXTINF:-1,Radio_RockHarder
+302 https://stream.laut.fm/radiorockharder?ref=radiode
+#EXTINF:-1,Radio_Tv-Mönchengladbach
+302 https://stream.laut.fm/rtv1?ref=radiode
+#EXTINF:-1,Saphira_Sound_Radio
+302 https://stream.laut.fm/saphira-sound-radio?ref=radiode
+#EXTINF:-1,RADIOswii_-_Radio_Schweinfurt
+302 https://stream.laut.fm/swii?ref=radiode
+#EXTINF:-1,webRadio.Tirol
+302 https://stream.laut.fm/webradio-tirol?ref=radiode
+#EXTINF:-1,Webradio36
+302 https://stream.laut.fm/webradio36?ref=radiode
+#EXTINF:-1,zap-fm
+302 https://stream.laut.fm/zap-fm?ref=radiode
+#EXTINF:-1,zweilive
+302 https://stream.laut.fm/zweilive?ref=radiode
+#EXTINF:-1,ORF_Radio_Niederösterreich
+400 https://orf-live.ors-shoutcast.at/noe-q2a
+#EXTINF:-1,Radio_Grün-Weiss
+502 https://ice12.fluidstream.net/rgw.aac?FLID=7
+#EXTINF:-1,ORF_Radio_Kärnten
+https://oe2kshoutcast.sf.apa.at/stream/1/
+#EXTINF:-1,Radio_Plassenburg
+200 https://rs15.stream24.net/radio-plassenburg.mp3
+#EXTINF:-1,RPR1.Après_Ski
+302 https://streams.rpr1.de/rpr-apresski-128-mp3?usid=0-0-H-M-D-06
+#EXTINF:-1,Radio_Schlagerparadies_-_Hitmix_der_Nacht
+400 https://webstream.schlagerparadies.de/hitmixdernacht
+#EXTINF:-1,ORF_Radio_Steiermark
+400 https://orf-live.ors-shoutcast.at/stm-q2a
+#EXTINF:-1,Weltbild_Radio
+200 https://weltbild.streamabc.net/weltb-wbrwebplayer-mp3-128-8626883
+#EXTINF:-1,Radio_Melodie
+400 https://radiomelodie.schlagerparadies.de/radiomelodie
+#EXTINF:-1,Schwany5_Oberkrain
+302 https://schw6.streampanel.cloud/5-oberkrain
+#EXTINF:-1,ORF_Radio_Tirol
+400 https://orf-live.ors-shoutcast.at/tir-q2a
+#EXTINF:-1,Radio_Bläss
+302 https://schwany.streampanel.cloud/10-blaess
+#EXTINF:-1,DHW1
+200 https://c2.radioboss.fm:18051/stream
+#EXTINF:-1,ERiKA_1
+200 https://listen.radionomy.com/erika1.m3u
+#EXTINF:-1,Radio_Herzklang
+https://schwany.streampanel.cloud/8-herzklang
+#EXTINF:-1,0-24_Schlager_Volksmusik
+302 https://stream.laut.fm/0-24_schlager_volksmusik?ref=radiode
+#EXTINF:-1,Absolut_Charts_Wow
+302 https://stream.laut.fm/acw?ref=radiode
+#EXTINF:-1,Radio-Jodlerwirt_1
+302 https://stream.laut.fm/radio-jodlerwirt?ref=radiode
+#EXTINF:-1,Wupperwelle
+302 https://stream.laut.fm/wupperwelle?ref=radiode
+#EXTINF:-1,ORF_Radio_Salzburg
+400 https://orf-live.ors-shoutcast.at/sbg-q2a
+#EXTINF:-1,CrazyFire-Radio
+302 https://stream.laut.fm/crazyfire-radio?ref=radiode
+#EXTINF:-1,musiksender-reckenfeld
+302 https://stream.laut.fm/musiksender-reckenfeld?ref=radiode
+#EXTINF:-1,Justicediggi
+302 https://stream.laut.fm/justicediggi?ref=radiode
+#EXTINF:-1,Radio_Schlagerparadies_-_Instrumental
+400 https://webstream.schlagerparadies.de/schlagerinstrumental
+#EXTINF:-1,reutershagen
+302 https://stream.laut.fm/reutershagen?ref=radiode
+#EXTINF:-1,hr4
+404 https://addrad.io/4WRDWS
+#EXTINF:-1,NDR_1_Welle_Nord_-_Region_Kiel
+404 https://addrad.io/4WRJ7L
+#EXTINF:-1,ORF_Radio_Wien
+400 https://orf-live.ors-shoutcast.at/wie-q2a
+#EXTINF:-1,Radio_F_94.5
+404 https://addrad.io/44553np
+#EXTINF:-1,SWR4_Freiburg
+404 https://addrad.io/4WRLY2
+#EXTINF:-1,SWR4_Karlsruhe
+404 https://addrad.io/4WRM2Z
+#EXTINF:-1,Deine_Musikbox
+https://securestream.x-th.de:9100/stream/1/
+#EXTINF:-1,Family_Radio
+200 https://fs1.stream24.net:8280/live.mp3
+#EXTINF:-1,42Radio-Entertainment
+302 https://stream.laut.fm/42radio?ref=radiode
+#EXTINF:-1,angelfamily2
+302 https://stream.laut.fm/angel-family2?ref=radiode
+#EXTINF:-1,der-gute-laune-sender
+302 https://stream.laut.fm/der-gute-laune-sender?ref=radiode
+#EXTINF:-1,dj-juergen
+302 https://stream.laut.fm/dj-juergen?ref=radiode
+#EXTINF:-1,hitkiste
+302 https://stream.laut.fm/hitkiste?ref=radiode
+#EXTINF:-1,korbach
+302 https://stream.laut.fm/korbach?ref=radiode
+#EXTINF:-1,musiktruhe
+302 https://stream.laut.fm/musiktruhe?ref=radiode
+#EXTINF:-1,Radio_Norderney
+302 https://stream.laut.fm/radio-norderney?ref=radiode
+#EXTINF:-1,Radio-Sulingen
+302 https://stream.laut.fm/radio-sulingen?ref=radiode
+#EXTINF:-1,radio-weissblau
+302 https://stream.laut.fm/radio-weissblau?ref=radiode
+#EXTINF:-1,Radio_Fettehenne
+302 https://stream.laut.fm/radio-fettehenne?ref=radiode
+#EXTINF:-1,RLO-Radio
+302 https://stream.laut.fm/rlo-radio?ref=radiode
+#EXTINF:-1,Siegsound-Radio
+302 https://stream.laut.fm/siegsound-radio?ref=radiode
+#EXTINF:-1,Studio-Apen
+302 https://stream.laut.fm/studio-apen?ref=radiode
+#EXTINF:-1,Radio_Treffpunkt
+302 https://stream.laut.fm/treffpunkt?ref=radiode
+#EXTINF:-1,Wolke7
+302 https://stream.laut.fm/wolke7?ref=radiode
+#EXTINF:-1,Mona_FM
+200 https://monafm.ice.infomaniak.ch/monafm-high.mp3
+#EXTINF:-1,ORF_Radio_Oberösterreich
+400 https://orf-live.ors-shoutcast.at/ooe-q2a
+#EXTINF:-1,Radio-Bluemagic
+302 https://stream.laut.fm/radio-bluemagic?ref=radiode
+#EXTINF:-1,Radio-Red-Devil
+https://c01.lexycast.de:3655/stream
+#EXTINF:-1,Rheinerft-Radio
+https://rs3.stream24.org:8770/
+#EXTINF:-1,Radio_Schlagerparadies_-_Oldieexpress
+400 https://webstream.schlagerparadies.de/schlageroldies
+#EXTINF:-1,Schwany_Souvenir1
+https://schwany.streampanel.cloud/9-souvenir1
+#EXTINF:-1,SWR4_Friedrichshafen
+404 https://addrad.io/4WRLS5
+#EXTINF:-1,SWR4_Heilbronn
+404 https://addrad.io/4WRL_k
+#EXTINF:-1,SWR4_Kaiserslautern
+404 https://addrad.io/4WRM6g
+#EXTINF:-1,SWR4_Koblenz
+404 https://addrad.io/4WRM9z
+#EXTINF:-1,SWR4_Ludwigshafen
+404 https://addrad.io/4WRMdS
+#EXTINF:-1,SWR4_Mannheim
+404 https://addrad.io/4WRMj8
+#EXTINF:-1,SWR4_Trier
+404 https://addrad.io/4WRMrL
+#EXTINF:-1,SWR4_Tübingen
+404 https://addrad.io/4WRMw2
+#EXTINF:-1,SWR4_Ulm
+404 https://addrad.io/4WRMzk
+#EXTINF:-1,Radio_Tirol_Italia
+200 https://players.creacast.com/creacast/radiotirol_a/playlist.pls
+#EXTINF:-1,Weltbild_Radio_Meine_Hitparade
+200 https://weltbild.streamabc.net/weltb-wbrhitparade-mp3-128-4964443
+#EXTINF:-1,100%_NL
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/100PNL_MP3_SC.mp3
+#EXTINF:-1,Antenne_KW
+302 https://stream.laut.fm/antennekw?ref=radiode
+#EXTINF:-1,Antenne_Mallorca
+https://radio-ballermann.stream24.net/ballermann-radio.mp3?ref=Radiode
+#EXTINF:-1,Radio-Busswil
+https://radio-busswil.stream.laut.fm/radio-busswil?ref=radiode
+#EXTINF:-1,Delta_FM_Boulogne
+200 https://deltafmboulogne.ice.infomaniak.ch/deltafmboulogne-high.mp3
+#EXTINF:-1,Delta_FM_Dunkerque
+200 https://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.aac
+#EXTINF:-1,Deutsches_Hitradio
+https://deutsches-hitradio-stream10.radiohost.de/deutsches-hitradio_mp3-192
+#EXTINF:-1,2018
+302 https://stream.laut.fm/2018?ref=radiode
+#EXTINF:-1,angela-westendorf-radio
+302 https://stream.laut.fm/angela-westendorf-radio?ref=radiode
+#EXTINF:-1,Batti_FM_-_Das_Schlagerradio
+302 https://stream.laut.fm/battifm-dasschlagerradio?ref=radiode
+#EXTINF:-1,christmasweihnachten
+302 https://stream.laut.fm/christmasweihnachten?ref=radiode
+#EXTINF:-1,Crazybass-Radio
+302 https://stream.laut.fm/crazybassradio?ref=radiode
+#EXTINF:-1,DUESSELHOF
+302 https://stream.laut.fm/duesselhof?ref=radiode
+#EXTINF:-1,dw19design
+302 https://stream.laut.fm/dw19design?ref=radiode
+#EXTINF:-1,Energymusic
+302 https://stream.laut.fm/energymusic?ref=radiode
+#EXTINF:-1,Firebird_Radio
+302 https://stream.laut.fm/firebird-radio?ref=radiode
+#EXTINF:-1,HouseofClub
+302 https://stream.laut.fm/houseofclub?ref=radiode
+#EXTINF:-1,Karneval
+302 https://stream.laut.fm/karneval?ref=radiode
+#EXTINF:-1,kevin-froese-radio
+302 https://stream.laut.fm/kevin-froese-radio?ref=radiode
+#EXTINF:-1,Kuhstall-Kaldauen
+302 https://stream.laut.fm/kuhstall-kaldauen?ref=radiode
+#EXTINF:-1,Radio_Melody_SF
+302 https://stream.laut.fm/duomelodysf?ref=radiode
+#EXTINF:-1,music-to-relax_
+302 https://stream.laut.fm/music-to-relax?ref=radiode
+#EXTINF:-1,Oldiewelle_Roding
+302 https://stream.laut.fm/oldiewelle-roding?ref=radiode
+#EXTINF:-1,out-of-control_
+302 https://stream.laut.fm/out-of-control?ref=radiode
+#EXTINF:-1,partyundapresski
+302 https://stream.laut.fm/partyundapresski?ref=radiode
+#EXTINF:-1,Radio_Westkapelle
+302 https://stream.laut.fm/radio-westkapelle?ref=radiode
+#EXTINF:-1,radiodiebach
+302 https://stream.laut.fm/radiodiebach?ref=radiode
+#EXTINF:-1,radioella
+302 https://stream.laut.fm/radioella?ref=radiode
+#EXTINF:-1,radiokreisdiepholz
+302 https://stream.laut.fm/radiokreisdiepholz?ref=radiode
+#EXTINF:-1,RadioRodewisch_
+200 https://radiorodewisch.stream.laut.fm/radiorodewisch?ref=radiode
+#EXTINF:-1,RTR1_-_Die_Powerstation_Schlagerwelt
+302 https://stream.laut.fm/rtr1_schlagerwelt?ref=radiode
+#EXTINF:-1,SDfm
+302 https://stream.laut.fm/sd_fm?ref=radiode
+#EXTINF:-1,Seelow1_
+302 https://stream.laut.fm/seelow1?ref=radiode
+#EXTINF:-1,Soundblaster-Radio
+302 https://stream.laut.fm/soundblasterradio?ref=radiode
+#EXTINF:-1,stern-welt
+302 https://stream.laut.fm/stern-welt?ref=radiode
+#EXTINF:-1,sun-and-rain
+302 https://stream.laut.fm/sun-and-rain?ref=radiode
+#EXTINF:-1,SuroFM
+302 https://stream.laut.fm/surofm?ref=radiode
+#EXTINF:-1,thetruckerradio
+302 https://stream.laut.fm/thetruckerradio?ref=radiode
+#EXTINF:-1,TOP_75
+302 https://stream.laut.fm/top75?ref=radiode
+#EXTINF:-1,Warnow_FM
+302 https://stream.laut.fm/warnowfm?ref=radiode
+#EXTINF:-1,waterkant
+302 https://stream.laut.fm/waterkant?ref=radiode
+#EXTINF:-1,wirsinddeinradio
+302 https://stream.laut.fm/wirsinddeinradio?ref=radiode
+#EXTINF:-1,wunschradiofm
+302 https://stream.laut.fm/wunschradiofm?ref=radiode
+#EXTINF:-1,Mein_Kinderradio
+400 https://stream01.zogl.net:8907/stream
+#EXTINF:-1,Popradio_Ostfriesland
+400 https://icecast.popradio.space/stream64.aac
+#EXTINF:-1,Power-of-Dream
+https://stream-alfacast-hosting.de:7065/stream/1/
+#EXTINF:-1,Schlager_Radio_B2_Deutschlands_Schlager-Radio
+302 https://addrad.io/4454r7y
+#EXTINF:-1,Radiostation_218
+400 https://rs218.radioca.st/stream
+#EXTINF:-1,special-sound-radio_
+https://stream04.stream-webradiotechnik.de:10900/stream/1/
+#EXTINF:-1,Worldradioteam
+https://stream04.stream-webradiotechnik.de:8006/stream/1/
+#EXTINF:-1,Radio_Chanson
+https://chanson.hostingradio.ru:8041/chanson128.mp3
+#EXTINF:-1,wap
+302 https://stream.laut.fm/wap?ref=radiode
+#EXTINF:-1,Nostalgie_Les_plus_grands_Tubes_Français
+302 https://scdn.nrjaudio.fm/adwz1/fr/30705/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,BAYERN_plus
+404 https://addrad.io/44597hr
+#EXTINF:-1,RPR1.Schlagerhits
+302 https://streams.rpr1.de/rpr-schlagerhits-128-mp3?usid=0-0-H-M-D-06
+#EXTINF:-1,100%_Schlager_-_von_SchlagerPlanet
+302 https://streams.schlagerplanetradio.com/schlager/mp3-192/radiode/
+#EXTINF:-1,ANTENNE_BAYERN_-_Schlagersahne
+302 https://stream.antenne.de/das-schlager-karussell/stream/mp3?aw_0_1st.playerid=radio.de
+#EXTINF:-1,100%_Kultschlager_-_von_SchlagerPlanet
+302 https://streams.schlagerplanetradio.com/kult/mp3-192/radiode/
+#EXTINF:-1,100%_Helene_Fischer_-_von_SchlagerPlanet
+302 https://streams.schlagerplanetradio.com/hf/mp3-192/radiode/
+#EXTINF:-1,100%_Kaiser_-_von_SchlagerPlanet
+302 https://streams.schlagerplanetradio.com/kaiser/mp3-192/radiode/
+#EXTINF:-1,100%_Weihnachtsschlager_–_von_SchlagerPlanet
+302 https://streams.schlagerplanetradio.com/weihnachten/mp3-192
+#EXTINF:-1,ANTENNE_MÜNSTER_-_Dein_Schlager_Radio
+302 https://stream.lokalradio.nrw/44523xx
+#EXTINF:-1,Antenne_MV_Schlager
+302 https://streams.antennemv.de/amv-schlager/mp3-128/radiode/
+#EXTINF:-1,Antenne_verrückte_Stunde
+502 https://live.antenne.at/cra
+#EXTINF:-1,BB_RADIO_-_Schlager
+302 https://streambbr.ir-media-tec.com/schlager/mp3-128/radiode_web_mp3/
+#EXTINF:-1,Delta_FM_St_Omer
+200 https://deltafmsaintomer.ice.infomaniak.ch/deltafmsaintomer-high.aac
+#EXTINF:-1,FFH_Schlager-Kult
+302 https://streams.ffh.de/ffhchannels/mp3/hqschlager.mp3?amsparams=playerid:RTFFHRadioDE
+#EXTINF:-1,Friends2Dance
+https://streams.friends2dance.de:12000/f2d_highquality
+#EXTINF:-1,Gigant_FM
+https://mcp-1.mm-stream.nl:7204/stream/1/
+#EXTINF:-1,Radio_Gong_96.3_Wiesn_Hits
+302 https://addrad.io/44557x4
+#EXTINF:-1,harmony.fm_SchlagerRadio
+302 https://streams.harmonyfm.de/hrmchannels/mp3/hqschlager.mp3?amsparams=playerid:RTFFHRadioDE
+#EXTINF:-1,Hellweg_Radio_-_Dein_Schlager_Radio
+302 https://stream.lokalradio.nrw/44524bf
+#EXTINF:-1,Jaime_Radio
+200 https://jaimeradio.ice.infomaniak.ch/jaimeradio-64.aac
+#EXTINF:-1,kronehit_vollgas
+404 https://secureonair.krone.at/kronehit-vollgas.mp3
+#EXTINF:-1,-z-a-c-h-i-4-u-schlager-kult
+302 https://stream.laut.fm/-z-a-c-h-i-4-u-schlager-kult?ref=radiode
+#EXTINF:-1,11schlagersee
+302 https://stream.laut.fm/11schlagersee?ref=radiode
+#EXTINF:-1,abw-radio
+302 https://stream.laut.fm/abw-radio?ref=radiode
+#EXTINF:-1,Achimer-Party-Radio
+302 https://stream.laut.fm/achimer-party-radio?ref=radiode
+#EXTINF:-1,allemann
+302 https://stream.laut.fm/allemann?ref=radiode
+#EXTINF:-1,allerlei-buntes
+302 https://stream.laut.fm/allerlei-buntes?ref=radiode
+#EXTINF:-1,antenne-geldern
+302 https://stream.laut.fm/antenne-geldern?ref=radiode
+#EXTINF:-1,Antenne_Baden
+302 https://stream.laut.fm/antenne_baden?ref=radiode
+#EXTINF:-1,basicwave
+302 https://stream.laut.fm/basicwave?ref=radiode
+#EXTINF:-1,bernds_schlager_radio
+302 https://stream.laut.fm/bernds_schlager_radio?ref=radiode
+#EXTINF:-1,bester-sound
+302 https://stream.laut.fm/bester-sound?ref=radiode
+#EXTINF:-1,biggetal
+302 https://stream.laut.fm/biggetal?ref=radiode
+#EXTINF:-1,blackbeatzradio
+302 https://stream.laut.fm/blackbeatzradio?ref=radiode
+#EXTINF:-1,champagne-music-bad-honnef
+302 https://stream.laut.fm/champagne-music-bad-honnef?ref=radiode
+#EXTINF:-1,cityfunk
+302 https://stream.laut.fm/cityfunk?ref=radiode
+#EXTINF:-1,cityradio-stolberg
+302 https://stream.laut.fm/cityradio-stolberg?ref=radiode
+#EXTINF:-1,clara-fanradio
+302 https://stream.laut.fm/clara-fanradio?ref=radiode
+#EXTINF:-1,crazy
+302 https://stream.laut.fm/crazy?ref=radiode
+#EXTINF:-1,Das_Radio_aus_Berlin_Spandau.
+302 https://stream.laut.fm/das-radio-aus-berlin-spandau?ref=radiode
+#EXTINF:-1,devils-sound
+302 https://stream.laut.fm/devils-sound?ref=radiode
+#EXTINF:-1,downtown-island-radio
+302 https://stream.laut.fm/downtown-island-radio?ref=radiode
+#EXTINF:-1,etos
+302 https://stream.laut.fm/etos?ref=radiode
+#EXTINF:-1,foxstarfm
+302 https://stream.laut.fm/foxstarfm?ref=radiode
+#EXTINF:-1,Foxtanz
+302 https://stream.laut.fm/foxtanz?ref=radiode
+#EXTINF:-1,frechdachs
+302 https://stream.laut.fm/frechdachs?ref=radiode
+#EXTINF:-1,freunde-herzenswelt
+302 https://stream.laut.fm/freunde-herzenswelt?ref=radiode
+#EXTINF:-1,gdr
+302 https://stream.laut.fm/gdr?ref=radiode
+#EXTINF:-1,gm-schlager
+302 https://stream.laut.fm/gm-schlager?ref=radiode
+#EXTINF:-1,halligalli
+302 https://stream.laut.fm/halligalli?ref=radiode
+#EXTINF:-1,hitradio-schlager
+302 https://stream.laut.fm/hitradio-schlager?ref=radiode
+#EXTINF:-1,illerpowercharity
+302 https://stream.laut.fm/illerpowercharity?ref=radiode
+#EXTINF:-1,immer-wieder-schlager
+302 https://stream.laut.fm/immer-wieder-schlager?ref=radiode
+#EXTINF:-1,knutsschlagerhouse
+302 https://stream.laut.fm/knutsschlagerhouse?ref=radiode
+#EXTINF:-1,koenigsburg
+302 https://stream.laut.fm/koenigsburg?ref=radiode
+#EXTINF:-1,ktnlive
+302 https://stream.laut.fm/ktnlive?ref=radiode
+#EXTINF:-1,ldedweqd
+302 https://stream.laut.fm/ldedweqd?ref=radiode
+#EXTINF:-1,leonloops
+302 https://stream.laut.fm/leonloops?ref=radiode
+#EXTINF:-1,lippe-sound-schlager
+302 https://stream.laut.fm/lippe-sound-schlager?ref=radiode
+#EXTINF:-1,littleunicornradio
+302 https://stream.laut.fm/littleunicornradio?ref=radiode
+#EXTINF:-1,livestreamradio
+302 https://stream.laut.fm/livestreamradio?ref=radiode
+#EXTINF:-1,ma35
+302 https://stream.laut.fm/ma35?ref=radiode
+#EXTINF:-1,michasschlagertreff
+302 https://stream.laut.fm/michasschlagertreff?ref=radiode
+#EXTINF:-1,music4familie
+302 https://stream.laut.fm/music-4-familie?ref=radiode
+#EXTINF:-1,music4family
+302 https://stream.laut.fm/music4family?ref=radiode
+#EXTINF:-1,neumuensterhitradio
+302 https://stream.laut.fm/neumuensterhitradio?ref=radiode
+#EXTINF:-1,nightlife-express
+302 https://stream.laut.fm/nightlife-express?ref=radiode
+#EXTINF:-1,nonstop_schlager
+302 https://stream.laut.fm/nonstop_schlager?ref=radiode

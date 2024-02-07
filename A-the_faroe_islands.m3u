@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Bible_Radio_-_Sharief_Translation
+http://streamingbibleradio.org:8001/Farsi
+#EXTINF:-1,Kringvarp_Føroya_(KVF)
+400 http://netvarp.kringvarp.fo:443/uvhm
+#EXTINF:-1,Lindin
+301 http://high.lindin.fo/
+#EXTINF:-1,Rás_2
+400 http://stream.midlar.fo/ras2
+#EXTINF:-1,Rás2
+400 http://stream.midlar.fo/ras2-128
+#EXTINF:-1,VoxPop
+400 http://stream.midlar.fo/voxpop

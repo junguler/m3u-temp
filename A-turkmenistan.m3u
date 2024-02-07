@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,Turkmen_Radio_Owaz
+http://217.174.238.20:8000/music.mp3
+#EXTINF:-1,Radio_Owaz
+http://217.174.238.16:8000/Owaz.m3u
+#EXTINF:-1,Radyo_Balkan
+http://sesle.radyobalkan.com:8050/stream
+#EXTINF:-1,النهج_الواضح
+400 https://node33.obviousapproach.com:9000/stream
+#EXTINF:-1,HappyHardcore_Listen_live
+200 https://audio-edge-5bkfj.fra.h.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b
+#EXTINF:-1,Antenne_Bayern_-_Sommer_Hits_Listen_live
+200 https://s10-webradio.webradio.de/sommer-hits
+#EXTINF:-1,tanzschule_Listen_live
+302 https://stream.laut.fm/tanzschule?ref=radiode
+#EXTINF:-1,EDM_Hits_-_Radio_Record_Listen_live
+200 https://radiorecord.hostingradio.ru/edmhits96.aacp
+#EXTINF:-1,FM_TARO_-_エフエム太郎_76.7_Listen_live
+https://musicbird.leanstream.co/JCB029-MP3
+#EXTINF:-1,Radio_Pooki_Listen_live
+200 https://stream.bauermedia.fi/radiopooki/radiopooki_64.aac
+#EXTINF:-1,bigFM_ROCK_AM_RING_Listen_live
+302 https://streams.bigfm.de/bigfm-rockamring-128-aac?usid=0-0-H-A-D-01
+#EXTINF:-1,MAGICBLUE_Radio_-_Eins_Listen_live
+200 https://magicblue.stream.laut.fm/magicblue
+#EXTINF:-1,One_FM_Listen_live
+200 https://onefm.ice.infomaniak.ch/onefm-high.mp3
+#EXTINF:-1,BFT_Radio_Listen_live
+200 https://bft-radio.stream.laut.fm/bft-radio
+#EXTINF:-1,Армения_-_101.ru_Listen_live
+https://pub0201.101.ru/stream/pro/aac/64/60?
+#EXTINF:-1,Türkmen_Radio_FM_Online
+302 https://stream.zeno.fm/gdvbyz7zfgavv
+#EXTINF:-1,Tzgospel
+302 https://stream.zeno.fm/4szvhrxvcfhvv
+#EXTINF:-1,Arabeskfm
+302 https://stream.zeno.fm/0vqhxmn9mf9uv
+#EXTINF:-1,Radio_The_Everly_Brothers
+302 https://stream.zeno.fm/f14kffw9c8zuv
+#EXTINF:-1,arabeskfm
+302 https://stream.zeno.fm/at0n3m4dxf9uv
+#EXTINF:-1,testing_4
+302 https://stream.zeno.fm/rq888tznsg8uv
+#EXTINF:-1,Azatlyk_Radiosy
+301 http://rfe-channel-08.akacast.akamaistream.net/7/873/229658/v1/ibb.akacast.akamaistream.net/rfe_channel_08.mp3
+#EXTINF:-1,Radio_Watan
+https://radio.telecom.tm/watan.mp3
+#EXTINF:-1,Radio_Miras
+https://radio.telecom.tm/miras.mp3
+#EXTINF:-1,Radio_Çar_Tarapdan
+https://radio.telecom.tm/tarap.mp3
+#EXTINF:-1,Music_Radio
+http://217.174.238.16:8000/music.mp3

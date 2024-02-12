@@ -1,0 +1,104 @@
+#EXTINF:-1,Radio 100
+https://tx.planetradio.co.uk/http_live_bauerdk.php?i=radio100_dk_tunein_mp3&aw_0_1st.playerid=BMUK_TuneIn
+#EXTINF:-1,DR P4 Bornholm
+https://stream.core-prod.us-west-2.tunenet.io/listen.stream?streamId=40690614&rti=dEZzGgYzfxg4dhE2AxFRSGgyQE5Rdid8WFcFHQASHBMUTxMkflYCFVQZJSkFE0pkDBIYDQcSWT4UHAgaGBwLEAQWWB1pGgFD%7e%7e%7e&render=json&qs=
+#EXTINF:-1,Fly FM
+http://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:-1,Mix FM Wellington
+https://stream.mixfm.nz/
+#EXTINF:-1,The Edge
+http://tunein-icecast.mediaworks.nz/edge_128kbps
+#EXTINF:-1,Big River FM
+http://bigriver.broadcast.co.nz/bigriverfm
+#EXTINF:-1,More FM Southland
+http://tunein-icecast.mediaworks.nz/more_southland_128kbps
+#EXTINF:-1,More FM Northland
+http://tunein-icecast.mediaworks.nz/more_whangerei_128kbps
+#EXTINF:-1,More FM Taranaki
+http://tunein-icecast.mediaworks.nz/more_taranaki_128kbps
+#EXTINF:-1,Radio Spice
+http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3
+#EXTINF:-1,More FM Canterbury
+http://tunein-icecast.mediaworks.nz/more_chc_128kbps
+#EXTINF:-1,More FM Dunedin
+http://tunein-icecast.mediaworks.nz/more_dunedin_128kbps
+#EXTINF:-1,More FM Hawke's Bay
+http://tunein-icecast.mediaworks.nz/more_hastings_128kbps
+#EXTINF:-1,More FM Wairarapa
+https://livestream.mediaworks.nz/radio_origin/more_[MST]_128kbps/playlist.m3u8
+#EXTINF:-1,More FM Waikato
+http://tunein-icecast.mediaworks.nz/more_waikato_128kbps
+#EXTINF:-1,Arrow FM
+http://arrowfm.co.nz:8080/arrowfm
+#EXTINF:-1,Pongpan Radio
+http://radio.portradiothai.com:6010
+#EXTINF:-1,Rotana FM
+http://curiosity.shoutca.st:6035/stream?type=http&nocache=18450
+#EXTINF:-1,Radio Adressa
+http://icecast.xstream.dk/adressaradio
+#EXTINF:-1,NRJ Norge
+https://nrj.p4groupaudio.com/NRJ_MH?args=tunein_01&distributor=tunein
+#EXTINF:-1,Radio Nordsjo
+https://audio.radionordsjo.no/nordsjo_hq
+#EXTINF:-1,NRK MP3
+http://lyd.nrk.no/nrk_radio_mp3_mp3_h
+#EXTINF:-1,Radio Haugaland
+https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=rh.mp3
+#EXTINF:-1,NRK P3 Urort
+http://lyd.nrk.no/nrk_radio_p3_urort_mp3_h
+#EXTINF:-1,Radio Sevlievo
+http://93.155.136.27:8000/
+#EXTINF:-1,Radio Juvenil
+http://198.50.238.178:5744/stream?type=http&nocache=18693
+#EXTINF:-1,FM104
+https://gbradio.cdn.tibus.net/fm104MP3128
+#EXTINF:-1,HITRADIO CENTER
+http://stream3.radiocenter.si:8000/stream/1
+#EXTINF:-1,Val 202
+https://mp3.rtvslo.si/val202
+#EXTINF:-1,Radio Antena
+http://live2.infonetmedia.si:8000/Antena
+#EXTINF:-1,Radio Salomon
+http://195.95.158.131:80/Salomon
+#EXTINF:-1,Radio Slo Koper
+http://mp3.rtvslo.si/rakp
+#EXTINF:-1,Novoe Radio
+http://live.novoeradio.by:8000/novoeradio-128k
+#EXTINF:-1,Radius FM
+https://stream2.datacenter.by/radiusfm_main
+#EXTINF:-1,Zefir FM
+http://178.124.152.212:8008/Zefir
+#EXTINF:-1,ICRT
+http://live.leanstream.co/ICRTFM-MP3?args=tunein_mp3
+#EXTINF:-1,Radio Nostalgia
+https://stream.bauermedia.fi/nostalgia/nostalgia_64.aac?
+#EXTINF:-1,Radio Pooki
+https://stream-redirect.bauermedia.fi/radiopooki/radiopooki_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Radio SuomiPop
+https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8
+#EXTINF:-1,Iskelmä, Helsinki
+https://stream-redirect.bauermedia.fi/iskelma/hki_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Bassoradio
+https://stream-redirect.bauermedia.fi/basso/bassoradio_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Radio NRJ Finland
+https://stream-redirect.bauermedia.fi/nrj/nrj_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Radio Iskelma
+https://stream-redirect.bauermedia.fi/iskelma/oul_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Radio Pori
+https://stream-redirect.bauermedia.fi/radiopori/radiopori_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Radio Nova
+https://stream-redirect.bauermedia.fi/radionova/radionova_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Radio Trombit
+http://wr2.downtime.fi/trombit.mp3
+#EXTINF:-1,Fun Radio Live
+http://stream.funradio.sk:8000/fun192.mp3
+#EXTINF:-1,Europa 2
+https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1,Zahoracke Radio
+http://failover.live.zahorackeradio.sk:8000/zr128.mp3
+#EXTINF:-1,Radio 7 SK
+http://play.radio7.sk/128
+#EXTINF:-1,Laluna Radio
+https://radio.m-1.fm/laluna/mp3
+#EXTINF:-1,Saules Radijas
+http://saule-aac.vinlita.lt:8008/stream.mp3

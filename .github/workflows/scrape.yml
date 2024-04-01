@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in \?page={29..49}\& ; do for j in $(cat genres.txt) ; do curl -s https://www.streamfinder.com/internet-radio-search/genre/$j/$i | ./htmlq .playbut -r '.span3, .alert' | grep "stname" | awk -F '"' '{print "#EXTINF:-1,"$8"\n"$10}' | sed 's/\;//g' | sed '/^$/d' >> A-$j.txt ; echo -e "$i - $j" ; done ; done
+          for i in \?page={50..100}\& ; do for j in $(cat genres.txt) ; do curl -s https://www.streamfinder.com/internet-radio-search/genre/$j/$i | ./htmlq .playbut -r '.span3, .alert' | grep "stname" | awk -F '"' '{print "#EXTINF:-1,"$8"\n"$10}' | sed 's/\;//g' | sed '/^$/d' >> A-$j.txt ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |

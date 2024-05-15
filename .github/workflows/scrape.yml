@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in $(cat list.txt) ; do curl -s http://myradiobox.com/$(echo $i | awk -F '-' '{print $1}')/genre | ./htmlq -a href a | grep '/genre/' | sort | uniq | sed 's| |%20|g' > A-$(echo $i | awk -F '-' '{print $2}').txt ; done
+          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s http://myradiobox.com$j | ./htmlq -a href a | grep '/radio/' | uniq >> "A-$(echo $j | sed 's|/|_|g').txt" ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |

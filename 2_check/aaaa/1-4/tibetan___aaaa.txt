@@ -1,12 +1,12 @@
-#EXTINF:-1,CNR-11 新闻综合广播（藏语）
+#EXTINF:-1,CNR-11_新闻综合广播（藏语）
 http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-#EXTINF:-1,CNR-11 藏语广播
+#EXTINF:-1,CNR-11_藏语广播
 http://satellitepull.cnr.cn/live/wxzygb/playlist.m3u8
-#EXTINF:-1,Radio Free Asia Channel 4
+#EXTINF:-1,Radio_Free_Asia_Channel_4
 http://rfahls-i.akamaihd.net/hls/live/226235/RFALive_4/index.m3u8
-#EXTINF:-1,Tibet Tibetan Radio
+#EXTINF:-1,Tibet_Tibetan_Radio
 http://ls.qingting.fm/live/1313.m3u8
-#EXTINF:-1,Tibet Tibetan Satellite TV
+#EXTINF:-1,Tibet_Tibetan_Satellite_TV
 http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 #EXTINF:-1,四川民族广播
 http://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8
@@ -32,7 +32,7 @@ http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
 http://media.vtibet.com/masvod/HLSLive/17/dushiRadio.m3u8
 #EXTINF:-1,青海藏语广播
 http://stream2.qhbtv.com/zygb/playlist.m3u8
-#EXTINF:-1,CNR - Tibet
+#EXTINF:-1,CNR_-_Tibet
 http://lhttp.qingting.fm/live/397/64k.mp3?app_id=web
-#EXTINF:-1,Voice of America - བོད་ཡིག - Tibetan
+#EXTINF:-1,Voice_of_America_-_བོད་ཡིག_-_Tibetan
 https://voa12.akacast.akamaistream.net/7/680/437794/v1/ibb.akacast.akamaistream.net/voa12

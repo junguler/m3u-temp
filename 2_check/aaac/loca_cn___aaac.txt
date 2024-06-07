@@ -38,7 +38,7 @@ http://live.lyg1.com/aac_jtgb/sd/live.m3u8?n=c5b29a9108e6fd7b787f
 http://live.lyg1.com/aac_zhgb/sd/live.m3u8?n=26ec133abe339ee57113
 #EXTINF:-1,通化县综合广播
 http://stream3.jlntv.cn/thxgb/playlist.m3u8?n=8dc44ce3234d60101b15
-#EXTINF:-1,通州人民广播电台-2 阳光广播
+#EXTINF:-1,通州人民广播电台-2_阳光广播
 http://lhttp.qingting.fm/live/20211586/64k.mp3?n=39b6e01c1fba9acd5195
 #EXTINF:-1,通榆综合广播
 http://stream7.jlntv.cn/tygb/playlist.m3u8?n=d3350a4ebb0373887e02
@@ -92,7 +92,7 @@ http://183.64.174.171:10124/tlgb.m3u8?n=9a743c37515f858286ae
 http://lhttp.qingting.fm/live/21303/64k.mp3?n=418a9a3355f9d42b791e
 #EXTINF:-1,镇赉综合广播
 http://stream7.jlntv.cn/zlgb/playlist.m3u8?n=a2cee7fe78c79844eec8
-#EXTINF:-1,长兴人民广播电台·Up Radio FM97.3太湖之声
+#EXTINF:-1,长兴人民广播电台·Up_Radio_FM97.3太湖之声
 https://lhttp.qtfm.cn/live/5022311/64k.mp3?n=dd0ef666ae57212db0a5
 #EXTINF:-1,长垣人民广播电台
 https://lhttp.qingting.fm/live/15318663/64k.mp3?n=c3d34a986dcb9926588c
@@ -100,11 +100,11 @@ https://lhttp.qingting.fm/live/15318663/64k.mp3?n=c3d34a986dcb9926588c
 https://lhttp.qtfm.cn/live/21217/64k.mp3?n=a70a21dc51fe84610fc8
 #EXTINF:-1,长春都市音乐广播
 https://lhttp.qtfm.cn/live/5015/64k.mp3?n=b5cfdecb4b0a6dc4f067
-#EXTINF:-1,长春经济广播U FM88.0
+#EXTINF:-1,长春经济广播U_FM88.0
 http://lhttp.qingting.fm/live/4850/64k.mp3?n=895bc0b911e698bc20b2
 #EXTINF:-1,长春都市音乐广播FM99.6
 http://lhttp.qingting.fm/live/5015/64k.mp3?n=76311543c45428637247
-#EXTINF:-1,长沙BIG RADIO流行音乐广播
+#EXTINF:-1,长沙BIG_RADIO流行音乐广播
 http://lhttp.qingting.fm/live/20847/64k.mp3?n=6a06cbb61a5fdad4f30c
 #EXTINF:-1,长沙音乐广播
 https://lhttp.qtfm.cn/live/20847/64k.mp3?n=6b83b4c32f5f21c5b3ee
@@ -220,7 +220,7 @@ https://lhttp.qtfm.cn/live/5021998/64k.mp3?n=e0da1bbbe5c8941cf5de
 https://lhttp.qtfm.cn/live/20500198/64k.mp3?n=1a6b878703460998dd5e
 #EXTINF:-1,Hk
 https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8?n=75a6e5008d9c33380d22
-#EXTINF:-1,中国·汤阴 FM90.5
+#EXTINF:-1,中国·汤阴_FM90.5
 https://lhttp.qtfm.cn/live/20500205/64k.mp3?n=fe6289c5bf1be7014167
 #EXTINF:-1,云梦综合台
 https://lhttp.qtfm.cn/live/20500204/64k.mp3?n=548036ec5664419c1d4c
@@ -230,13 +230,13 @@ https://lhttp.qtfm.cn/live/20166/64k.mp3?n=7d51b1be3111efc9fbd3
 http://vc.bbra.cn:8088/hls/IH88SxBbwG1.m3u8?n=a772607078e461de07bb
 #EXTINF:-1,문예생활방송·延边朝鲜语文艺生活广播
 http://live.ybtvyun.com/audio/s10016-a3311e38bd6e/index.m3u8?n=9a3771fd86420527fb52
-#EXTINF:-1,Lize Radio
+#EXTINF:-1,Lize_Radio
 https://theonestopradio.com/stream?url=http://lizeradio.com:8080/&type=mp3?n=32c09016a7a2d56b0fcd
 #EXTINF:-1,陕西故事广播年代878（经典音乐金曲）
 https://lhttp.qtfm.cn/live/1608/64k.mp3?n=f13e36d0820be4f8dc99
-#EXTINF:-1,Marc On Music
+#EXTINF:-1,Marc_On_Music
 https://theonestopradio.com/stream?url=http://listen.radionomy.com/marconmusic?n=c8fb73f53b90b093e2ef
-#EXTINF:-1,Old-Timers Radio
+#EXTINF:-1,Old-Timers_Radio
 https://servidor31.brlogic.com:7150/live?n=ddfc8b5ddb74b7ca7375
 #EXTINF:-1,历城广播电视台
 https://lhttp.qtfm.cn/live/20500194/64k.mp3?n=a968371268ce67fc6977
@@ -258,9 +258,9 @@ https://lhttp.qtfm.cn/live/4024/64k.mp3?n=7704cf965aad43682ada
 https://lhttp.qtfm.cn/live/4025/64k.mp3?n=4a728711ad74b93015b1
 #EXTINF:-1,FM99.1大连都市之声广播
 https://lhttp.qtfm.cn/live/1086/64k.mp3?n=a3381b54db07d1ac423a
-#EXTINF:-1,BIG BIG MIX 音乐广播电台
+#EXTINF:-1,BIG_BIG_MIX_音乐广播电台
 https://play.gojoy.org/audio/stream?n=e123e0496efd36760c30
-#EXTINF:-1,Radio Impetus 心动电台
+#EXTINF:-1,Radio_Impetus_心动电台
 https://lhttp.qtfm.cn/live/20500161/64k.mp3?n=17413ca1ba409ccad6af
 #EXTINF:-1,二师铁门关综合广播
 https://lhttp.qtfm.cn/live/20211703/64k.mp3?n=11877036d6c1fe430593
@@ -270,9 +270,9 @@ https://lhttp.qingting.fm/live/5022604/64k.mp3?n=b172a14a4b41c6082c5a
 https://liveplay-srs.voc.com.cn/hls/broadcast/143_a544b7.m3u8?n=5d5701004908cf8893c7
 #EXTINF:-1,天镇县凤凰音乐广播电台
 https://lhttp.qtfm.cn/live/20212387/64k.mp3?n=c9b259f0a1261e135e9a
-#EXTINF:-1,幸福105 徐州农村广播
+#EXTINF:-1,幸福105_徐州农村广播
 http://stream3.huaihai.tv/aac_gbfm105/playlist.m3u8?n=f7441afa47c08ed1275c
-#EXTINF:-1,思奥电台 Live
+#EXTINF:-1,思奥电台_Live
 https://stream.zeno.fm/dx5ycbq2vc9uv?n=441e077eedbe1a3ae918
 #EXTINF:-1,攀枝花综合广播
 http://zb.pzhgd.com:9095/live/zhgb.m3u8?n=f7ffae0b79c3cbdbfbff
@@ -280,7 +280,7 @@ http://zb.pzhgd.com:9095/live/zhgb.m3u8?n=f7ffae0b79c3cbdbfbff
 https://liveplay2-xhncloud.voc.com.cn/hls/broadcast/170_2de1d0.m3u8?n=2a1f144381ad004a6b4d
 #EXTINF:-1,朝阳综合广播
 https://lhttp.qtfm.cn/live/20715/64k.mp3?n=4492dc8d0228d8c32884
-#EXTINF:-1,朝阳经济广播 AM648
+#EXTINF:-1,朝阳经济广播_AM648
 https://lhttp.qtfm.cn/live/5021880/64k.mp3?n=59ca8bb2e69299735be9
 #EXTINF:-1,枣庄音乐·人文广播
 https://lhttp.qtfm.cn/live/1689/64k.mp3?n=78bc0aef9c999b7c230d

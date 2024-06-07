@@ -326,7 +326,7 @@ http://live.fm.hebrbtv.com:1935/live/kj/64K/tzwj_video.m3u8
 http://live.fm.hebrbtv.com:1935/live/sjc/64K/tzwj_video.m3u8
 #EXTINF:-1,河北新闻广播
 http://live.fm.hebrbtv.com:1935/live/xw/64K/tzwj_video.m3u8
-#EXTINF:-1,河北旅游广播Hopei Travel Radio
+#EXTINF:-1,河北旅游广播Hopei_Travel_Radio
 http://ls.qingting.fm/live/1651.m3u8
 #EXTINF:-1,河北旅游文化广播
 http://live.fm.hebrbtv.com:1935/live/ly/64K/tzwj_video.m3u8
@@ -356,7 +356,7 @@ http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
 http://stream.hndt.com/live/gudian/playlist.m3u8
 #EXTINF:-1,河南少儿广播
 https://live.xmcdn.com/live/2690/64.m3u8
-#EXTINF:-1,河南广播电视台-My Radio
+#EXTINF:-1,河南广播电视台-My_Radio
 http://lhttp.qingting.fm/live/1206/64k.mp3
 #EXTINF:-1,河南影视广播
 https://stream.hndt.com/live/yingshi/playlist.m3u8
@@ -552,7 +552,7 @@ http://ali-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
 https://pdtvlive.pudongtv.cn/live/fm1001.m3u8
 #EXTINF:-1,浦东综合广播
 https://pdtvlive.pudongtv.cn/live/fm1065.m3u8
-#EXTINF:-1,浦口区Up Radio活力广播
+#EXTINF:-1,浦口区Up_Radio活力广播
 https://lhttp.qtfm.cn/live/20500050/64k.mp3
 #EXTINF:-1,浦江县综合广播
 https://lhttp.qtfm.cn/live/5021924/64k.mp3
@@ -618,7 +618,7 @@ https://lhttp.qtfm.cn/live/1679/64k.mp3
 https://lhttp.qtfm.cn/live/1678/64k.mp3
 #EXTINF:-1,淄川无线广播
 https://lhttp.qtfm.cn/live/20211598/64k.mp3
-#EXTINF:-1,淇县人民广播电台  朝歌之声
+#EXTINF:-1,淇县人民广播电台__朝歌之声
 http://lhttp.qingting.fm/live/5022546/64k.mp3
 #EXTINF:-1,淮北交通广播
 https://lhttp.qingting.fm/live/20211647/64k.mp3
@@ -820,11 +820,11 @@ https://live.xmcdn.com/live/843/64.m3u8
 http://60.30.52.41/live/FM100.1/playlist.m3u8
 #EXTINF:-1,滨海文艺广播
 http://60.30.52.41/live/FM101.7/playlist.m3u8
-#EXTINF:-1,滨海综合广播 100.1
+#EXTINF:-1,滨海综合广播_100.1
 http://traffic.jbh.tjbh.com/live/FM100.1/playlist.m3u8
 #EXTINF:-1,滨海音乐广播
 http://traffic.jbh.tjbh.com/live/FM100.5/playlist.m3u8
-#EXTINF:-1,滨海音乐广播 FM100.5
+#EXTINF:-1,滨海音乐广播_FM100.5
 http://ls.qingting.fm/live/23869.m3u8
 #EXTINF:-1,漯河交通广播
 https://lhttp.qingting.fm/live/5022452/64k.mp3

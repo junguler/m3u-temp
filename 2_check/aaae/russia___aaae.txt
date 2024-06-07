@@ -42,7 +42,7 @@ http://radio.4duk.ru/4duk64.mp3
 https://myradio24.org/djmakc
 #EXTINF:-1,10
 https://ic.radio10.live/stream.mp3
-#EXTINF:-1,1003 FM
+#EXTINF:-1,1003_FM
 https://a2.radioheart.ru:8015/admin
 #EXTINF:-1,107
 http://62.183.34.109:8000/radio107_64.mp3
@@ -52,11 +52,11 @@ https://play4.radio13.ru/mp3
 https://s3.radioheart.ru:8006/3DO
 #EXTINF:-1,54
 http://91.202.68.50:8000/stream.mp3
-#EXTINF:-1,Afrodita FM
+#EXTINF:-1,Afrodita_FM
 https://stream.zeno.fm/xh45bz9g5bruv
 #EXTINF:-1,DendyCollection
 https://s01.radio-tochka.com:4480/radio
-#EXTINF:-1,DLS FM
+#EXTINF:-1,DLS_FM
 http://dls-fm.ru:8000/dls
 #EXTINF:-1,Energy
 https://pub0201.101.ru:8000/stream/air/aac/64/99
@@ -72,7 +72,7 @@ http://radiook.nlink.ru:8000/OKradio128.mp3
 https://cdn.pifm.ru/mp3
 #EXTINF:-1,Republic
 http://media.zaoitt.ru:8080/radio.mp3
-#EXTINF:-1,RockFM Online
+#EXTINF:-1,RockFM_Online
 https://stream.zeno.fm/qfw0rdce0eruv
 #EXTINF:-1,RuWorship
 http://62.109.26.147:8100/radio
@@ -234,7 +234,7 @@ http://radio.mospravda.ru:8000/radio
 https://radio.dline-media.com/mostradio
 #EXTINF:-1,radio-myata
 https://radio.dline-media.com/myata
-#EXTINF:-1,Gold Hits ex
+#EXTINF:-1,Gold_Hits_ex
 https://radio.dline-media.com/gold
 #EXTINF:-1,radio-nadima
 http://93.170.125.91:8000/stream1.ogg
@@ -260,7 +260,7 @@ https://listen.radiopassazh.ru/aac-64
 http://www.radiopiligrim.ru:8000/live
 #EXTINF:-1,radio-pilot-tver-
 http://online.tv-pilot.ru:1027/pilotradio
-#EXTINF:-1,1029 FM
+#EXTINF:-1,1029_FM
 https://live.podsolnuh.media:8000/radio
 #EXTINF:-1,ff
 https://myradio24.org/18417
@@ -282,7 +282,7 @@ http://live.radio7.su:9000/deti
 https://air2.radiorecord.ru:9003/rr_320
 #EXTINF:-1,1970
 https://air2.radiorecord.ru:805/1970_320
-#EXTINF:-1,Big Hits
+#EXTINF:-1,Big_Hits
 https://air2.radiorecord.ru:9003/bighits_320
 #EXTINF:-1,Moombahton
 https://air2.radiorecord.ru:805/mmbt_320
@@ -356,7 +356,7 @@ http://188.120.236.168:8000/radio?52
 http://s01.radio-tochka.com:6590/
 #EXTINF:-1,radiogora
 http://skycast.su:2007/4466
-#EXTINF:-1,1062 FM
+#EXTINF:-1,1062_FM
 https://online.gkvr.ru/radiola_eka_64.aac
 #EXTINF:-1,radiostantciya-pobeda
 http://source.hostingradio.ru:8010/pobedaradio128-2.mp3
@@ -432,11 +432,11 @@ https://radio.dline-media.com/tvsradio
 http://skycast.su:2007/3749?type=.mp3/stream.mp3
 #EXTINF:-1,26
 https://myradio24.org/58828
-#EXTINF:-1,Music Radio
+#EXTINF:-1,Music_Radio
 https://tntradio.hostingradio.ru:8027/tntradio128.mp3
 #EXTINF:-1,trezvoe-radio
 http://eu3.radioboss.fm:8259/stream
-#EXTINF:-1,fm 1079
+#EXTINF:-1,fm_1079
 http://radio.fanat1k.ru:8000/live
 #EXTINF:-1,feliks-radio
 https://free.radioheart.ru:8000/felix
@@ -470,531 +470,531 @@ https://ic5.101.ru:8000/a102
 https://a2.radioheart.ru:8066/nonstop
 #EXTINF:-1,yasenbit
 http://radio.yasenbit.net:8000/yasenbit128k
-#EXTINF:-1, Радио Карнавал 92.8 FM Listen live
+#EXTINF:-1,_Радио_Карнавал_92.8_FM_Listen_live
 https://online.radiokarnaval.ru/karnaval
-#EXTINF:-1,100 Dance Hits Радио - RadioSpinner Listen live
+#EXTINF:-1,100_Dance_Hits_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/100dnc-64
-#EXTINF:-1,101.ru - Rock Listen live
+#EXTINF:-1,101.ru_-_Rock_Listen_live
 https://pub0102.101.ru:8443/stream/trust/mp3/128/69
-#EXTINF:-1,101.ru - Thrash Listen live
+#EXTINF:-1,101.ru_-_Thrash_Listen_live
 https://pub0302.101.ru:8443/stream/pro/aac/64/73
-#EXTINF:-1,2-step - Radio Record Listen live
+#EXTINF:-1,2-step_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/2step96.aacp
-#EXTINF:-1,90s Dance Party Радио - RadioSpinner Listen live
+#EXTINF:-1,90s_Dance_Party_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/90sdncprty-64
-#EXTINF:-1,90's Gold - 101.ru Listen live
+#EXTINF:-1,90's_Gold_-_101.ru_Listen_live
 https://pub0202.101.ru:8443/stream/pro/aac/64/75
-#EXTINF:-1,Acid Jazz Радио - RadioSpinner Listen live
+#EXTINF:-1,Acid_Jazz_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/acid-jazz-64
-#EXTINF:-1,die neue welle - 90ER Listen live
+#EXTINF:-1,die_neue_welle_-_90ER_Listen_live
 https://dieneuewelle-90er.cast.addradio.de/dieneuewelle/90er/mp3/high
-#EXTINF:-1,Ambient - 101.ru Listen live
+#EXTINF:-1,Ambient_-_101.ru_Listen_live
 https://pub0302.101.ru:8443/stream/pro/aac/64/23
-#EXTINF:-1,Ambient Space Радио - RadioSpinner Listen live
+#EXTINF:-1,Ambient_Space_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/ambntspc-64
-#EXTINF:-1,Ambient Радио - RadioSpinner Listen live
+#EXTINF:-1,Ambient_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/ambient-64
-#EXTINF:-1,ART CITY Listen live
+#EXTINF:-1,ART_CITY_Listen_live
 https://myradio24.org/artcity
-#EXTINF:-1,Atmospheric Breaks Радио - RadioSpinner Listen live
+#EXTINF:-1,Atmospheric_Breaks_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/tmsphrcbrks-64
-#EXTINF:-1,Bachata Hit Радио - RadioSpinner Listen live
+#EXTINF:-1,Bachata_Hit_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/bchtht-64
-#EXTINF:-1,Bass House Радио - RadioSpinner Listen live
+#EXTINF:-1,Bass_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/bsshs-64
-#EXTINF:-1,Cuba HE Listen live
+#EXTINF:-1,Cuba_HE_Listen_live
 https://streamingv2.shoutcast.com/CubaHE
-#EXTINF:-1,Big Hits - Radio Record Listen live
+#EXTINF:-1,Big_Hits_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/bighits96.aacp
-#EXTINF:-1,Black - Radio Record Listen live
+#EXTINF:-1,Black_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/yo96.aacp
-#EXTINF:-1,Blues Club Радио - RadioSpinner Listen live
+#EXTINF:-1,Blues_Club_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/blsclb-64
-#EXTINF:-1,Blues Rock Радио - RadioSpinner Listen live
+#EXTINF:-1,Blues_Rock_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/blsrck-64
-#EXTINF:-1,Boney M. - 101.ru Listen live
+#EXTINF:-1,Boney_M._-_101.ru_Listen_live
 https://pub0101.101.ru/stream/pro/aac/64/114
-#EXTINF:-1,Buddha Bar Сhill Радио - RadioSpinner Listen live
+#EXTINF:-1,Buddha_Bar_Сhill_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/bddhbrchll-64
-#EXTINF:-1,Business FM Listen live
+#EXTINF:-1,Business_FM_Listen_live
 https://stream.bfmspb.ru:8000/onlive
-#EXTINF:-1,Cafe Del Mar Радио - RadioSpinner Listen live
+#EXTINF:-1,Cafe_Del_Mar_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/cdmr-64
-#EXTINF:-1,Exclusively Dizzy Gillespie Listen live
+#EXTINF:-1,Exclusively_Dizzy_Gillespie_Listen_live
 https://streaming.exclusive.radio/er/dizzygillespie/icecast.audio
-#EXTINF:-1,Transcontinental FM 104,7 Listen live
+#EXTINF:-1,Transcontinental_FM_104,7_Listen_live
 https://shout25.crossradio.com.br:18200/1
-#EXTINF:-1,Beats Online CR Listen live
+#EXTINF:-1,Beats_Online_CR_Listen_live
 https://streamingv2.shoutcast.com/beats-online-cr
-#EXTINF:-1,1st 80s Fire Fm Listen live
+#EXTINF:-1,1st_80s_Fire_Fm_Listen_live
 https://1-st-80s-fire-fm.stream.laut.fm/-1-st-80s-fire-fm
-#EXTINF:-1,Calm Piano: для отдыха Радио - RadioSpinner Listen live
+#EXTINF:-1,Calm_Piano:_для_отдыха_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/clmpn-64
-#EXTINF:-1,Cats & Dogs - 101.ru Listen live
+#EXTINF:-1,Cats_&_Dogs_-_101.ru_Listen_live
 https://pub0201.101.ru/stream/pro/aac/64/281
-#EXTINF:-1,Chill House Радио - RadioSpinner Listen live
+#EXTINF:-1,Chill_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/chllhs-64
-#EXTINF:-1,Chillhop Радио - RadioSpinner Listen live
+#EXTINF:-1,Chillhop_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/chill-hop-64
-#EXTINF:-1,Chillstep Радио - RadioSpinner Listen live
+#EXTINF:-1,Chillstep_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/chillstep-64
-#EXTINF:-1,Chillоut - 101.ru Listen live
+#EXTINF:-1,Chillоut_-_101.ru_Listen_live
 https://pub0201.101.ru/stream/trust/mp3/128/24
-#EXTINF:-1,Classic EuroDisco Радио - RadioSpinner Listen live
+#EXTINF:-1,Classic_EuroDisco_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/clsscrdsc-64
-#EXTINF:-1,Radio DEEA Listen live
+#EXTINF:-1,Radio_DEEA_Listen_live
 https://radiocdn.nxthost.com/radio-deea
-#EXTINF:-1,Antenna Radio Esse Listen live
+#EXTINF:-1,Antenna_Radio_Esse_Listen_live
 https://ssl1.mediastreaming.it/9058
-#EXTINF:-1,Club Dance Радио - RadioSpinner Listen live
+#EXTINF:-1,Club_Dance_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/club-sounds-64
-#EXTINF:-1,Comedy Radio Listen live
+#EXTINF:-1,Comedy_Radio_Listen_live
 https://pub0302.101.ru:8443/stream/air/aac/64/202
-#EXTINF:-1,Costa Del Mar Радио - RadioSpinner Listen live
+#EXTINF:-1,Costa_Del_Mar_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/costdemar-64
-#EXTINF:-1,Country - 101.ru Listen live
+#EXTINF:-1,Country_-_101.ru_Listen_live
 https://pub0201.101.ru/stream/pro/aac/64/78
-#EXTINF:-1,Country Hit Радио - RadioSpinner Listen live
+#EXTINF:-1,Country_Hit_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/cntryht-64
-#EXTINF:-1,Cyber Space - 101.ru Listen live
+#EXTINF:-1,Cyber_Space_-_101.ru_Listen_live
 https://pub0201.101.ru/stream/pro/aac/64/79
-#EXTINF:-1,Dancecore - Radio Record Listen live
+#EXTINF:-1,Dancecore_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/dc96.aacp
-#EXTINF:-1,DANCE_FM Listen live
+#EXTINF:-1,DANCE_FM_Listen_live
 http://radio-connect.dline-media.com/dancefm
-#EXTINF:-1,FFH+ Charts Listen live
+#EXTINF:-1,FFH+_Charts_Listen_live
 https://mp3.ffh.de/ffhplus/hqcharts.mp3
-#EXTINF:-1,Rádio 96 FM Bauru Listen live
+#EXTINF:-1,Rádio_96_FM_Bauru_Listen_live
 https://streaming.ei3.com.br/radio/8000/mp3
-#EXTINF:-1,Deep House Box Радио - RadioSpinner Listen live
+#EXTINF:-1,Deep_House_Box_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/dphbx-64
-#EXTINF:-1,DEEP ONE Listen live
+#EXTINF:-1,DEEP_ONE_Listen_live
 https://stream.deep1.ru/deep1mp3
-#EXTINF:-1,Deep Tech Party Радио - RadioSpinner Listen live
+#EXTINF:-1,Deep_Tech_Party_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/deepteparty-64
-#EXTINF:-1,DFM Gangster Deep Listen live
+#EXTINF:-1,DFM_Gangster_Deep_Listen_live
 https://dfm-gangstadeep.hostingradio.ru/gangstadeep96.aacp
-#EXTINF:-1,BB RADIO - Rock Listen live
+#EXTINF:-1,BB_RADIO_-_Rock_Listen_live
 https://streambbr.ir-media-tec.com/rock/mp3-192/web/
-#EXTINF:-1,Bestfriend FM Listen live
+#EXTINF:-1,Bestfriend_FM_Listen_live
 https://rolandarnedo.radioca.st/server
-#EXTINF:-1,DFM Русский Рейв Listen live
+#EXTINF:-1,DFM_Русский_Рейв_Listen_live
 https://dfm-russianrave.hostingradio.ru/russianrave96.aacp
-#EXTINF:-1,DFM РЭПчике Listen live
+#EXTINF:-1,DFM_РЭПчике_Listen_live
 https://dfm-nrp.hostingradio.ru/nrp96.aacp
-#EXTINF:-1,Disco - 101.ru Listen live
+#EXTINF:-1,Disco_-_101.ru_Listen_live
 https://pub0201.101.ru/stream/pro/aac/64/80
-#EXTINF:-1,Disco 80е 90е по наши дни Listen live
+#EXTINF:-1,Disco_80е_90е_по_наши_дни_Listen_live
 https://pub0302.101.ru:8443/stream/personal/aacp/64/876430
-#EXTINF:-1,Disco House Радио - RadioSpinner Listen live
+#EXTINF:-1,Disco_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/disco-house-64
-#EXTINF:-1,Downtempo Lounge Радио - RadioSpinner Listen live
+#EXTINF:-1,Downtempo_Lounge_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/downtempo-lounge-64
-#EXTINF:-1,Dream Dance - Radio Record Listen live
+#EXTINF:-1,Dream_Dance_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/dream96.aacp
-#EXTINF:-1,Dream Pop Радио - RadioSpinner Listen live
+#EXTINF:-1,Dream_Pop_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/drmpp-64
-#EXTINF:-1,Drum & Bass Hits - Radio Record Listen live
+#EXTINF:-1,Drum_&_Bass_Hits_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/drumhits96.aacp
-#EXTINF:-1,Drum and Bass Радио - RadioSpinner Listen live
+#EXTINF:-1,Drum_and_Bass_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/drubas-64
-#EXTINF:-1,Exclusively Xmas Carols Listen live
+#EXTINF:-1,Exclusively_Xmas_Carols_Listen_live
 https://streaming.exclusive.radio/er/christmascarols/icecast.audio
-#EXTINF:-1,zone-mix Listen live
+#EXTINF:-1,zone-mix_Listen_live
 https://stream.laut.fm/zone-mix?ref=radiode
-#EXTINF:-1,nordicradio Listen live
+#EXTINF:-1,nordicradio_Listen_live
 https://stream.laut.fm/nordicradio?ref=radiode
-#EXTINF:-1,Nettune Network - Radio Lime Listen live
+#EXTINF:-1,Nettune_Network_-_Radio_Lime_Listen_live
 https://stream.radiolime.ch:8443/radiolime
-#EXTINF:-1,Dubstep - PromoDJ Listen live
+#EXTINF:-1,Dubstep_-_PromoDJ_Listen_live
 https://radio.promodj.com/dubstep-192
-#EXTINF:-1,Dubstep Радио - RadioSpinner Listen live
+#EXTINF:-1,Dubstep_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/dubstep-64
-#EXTINF:-1,Easy Listening - 101.ru Listen live
+#EXTINF:-1,Easy_Listening_-_101.ru_Listen_live
 https://pub0102.101.ru:8443/stream/pro/aac/64/26
-#EXTINF:-1,EDM Dance Floor Радио - RadioSpinner Listen live
+#EXTINF:-1,EDM_Dance_Floor_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/dncflr-64
-#EXTINF:-1,EDM Hits - Radio Record Listen live
+#EXTINF:-1,EDM_Hits_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/edmhits96.aacp
-#EXTINF:-1,Electro - Radio Record Listen live
+#EXTINF:-1,Electro_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/elect96.aacp
-#EXTINF:-1,Electro Swing Радио - RadioSpinner Listen live
+#EXTINF:-1,Electro_Swing_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/elswing-64
-#EXTINF:-1,Electropop Радио - RadioSpinner Listen live
+#EXTINF:-1,Electropop_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/elecpop-64
-#EXTINF:-1,Elton John - 101.ru Listen live
+#EXTINF:-1,Elton_John_-_101.ru_Listen_live
 https://pub0102.101.ru:8443/stream/pro/aac/64/142
-#EXTINF:-1,metalgeneration Listen live
+#EXTINF:-1,metalgeneration_Listen_live
 https://stream.laut.fm/metalgeneration?ref=radiode
-#EXTINF:-1,Elvis Presley - 101.ru Listen live
+#EXTINF:-1,Elvis_Presley_-_101.ru_Listen_live
 https://pub0102.101.ru:8443/stream/pro/aac/64/111
-#EXTINF:-1,Enigmatic Bar Радио - RadioSpinner Listen live
+#EXTINF:-1,Enigmatic_Bar_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/ngmtcbr-64
-#EXTINF:-1,Enigmatic Chill Радио - RadioSpinner Listen live
+#EXTINF:-1,Enigmatic_Chill_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/enigmatic-chill-64
-#EXTINF:-1,Eurodance Classic Радио - RadioSpinner Listen live
+#EXTINF:-1,Eurodance_Classic_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/erdncclssc-64
-#EXTINF:-1,FM на Дону Listen live
+#EXTINF:-1,FM_на_Дону_Listen_live
 https://radio.mediacdn.ru/fm_na_donu.mp3
-#EXTINF:-1,France - Радио Монте Карло Listen live
+#EXTINF:-1,France_-_Радио_Монте_Карло_Listen_live
 https://mc-france.hostingradio.ru/france96.aacp
-#EXTINF:-1,Full Moon - PromoDJ Listen live
+#EXTINF:-1,Full_Moon_-_PromoDJ_Listen_live
 https://radio.promodj.com/fullmoon-192
-#EXTINF:-1,Funky House Радио - RadioSpinner Listen live
+#EXTINF:-1,Funky_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/funky-house-64
-#EXTINF:-1,Future Bass - Radio Record Listen live
+#EXTINF:-1,Future_Bass_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/fbass96.aacp
-#EXTINF:-1,Radio Creativa 95.5 FM Listen live
+#EXTINF:-1,Radio_Creativa_95.5_FM_Listen_live
 https://audio0.tustreaming.cl/7280/stream
-#EXTINF:-1,CFAX 1070 AM Listen live
+#EXTINF:-1,CFAX_1070_AM_Listen_live
 https://13743.live.streamtheworld.com/CFAXAMAAC.aac
-#EXTINF:-1,Radio Argovia 90's Listen live
+#EXTINF:-1,Radio_Argovia_90's_Listen_live
 https://icecast.argovia.ch/a90-mp3-srp
-#EXTINF:-1,Future House - Radio Record Listen live
+#EXTINF:-1,Future_House_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/fut96.aacp
-#EXTINF:-1,Gay Dance Радио - RadioSpinner Listen live
+#EXTINF:-1,Gay_Dance_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/gaydnc-64
-#EXTINF:-1,Goa Psy - Radio Record Listen live
+#EXTINF:-1,Goa_Psy_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/goa96.aacp
-#EXTINF:-1,Gold - Radio Record Listen live
+#EXTINF:-1,Gold_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/gold96.aacp
-#EXTINF:-1,Graal Radio Club Listen live
+#EXTINF:-1,Graal_Radio_Club_Listen_live
 https://graalradio.com:8128/club160
-#EXTINF:-1,Graal Radio Future Listen live
+#EXTINF:-1,Graal_Radio_Future_Listen_live
 https://graalradio.com:8128/future160
-#EXTINF:-1,Graal Radio Sensual Listen live
+#EXTINF:-1,Graal_Radio_Sensual_Listen_live
 https://graalradio.com:8128/sensual160
-#EXTINF:-1,Graal Radio Space Listen live
+#EXTINF:-1,Graal_Radio_Space_Listen_live
 https://graalradio.com:8128/space192
-#EXTINF:-1,Naxi Cafe Radio Listen live
+#EXTINF:-1,Naxi_Cafe_Radio_Listen_live
 https://naxidigital-cafe128ssl.streaming.rs:8022/stream.nsv
-#EXTINF:-1,XFM 105.7 Listen live
+#EXTINF:-1,XFM_105.7_Listen_live
 https://xstream.krd/play.mp3
-#EXTINF:-1,GTF Radio Listen live
+#EXTINF:-1,GTF_Radio_Listen_live
 https://stream.gtf.club:8065/stream
-#EXTINF:-1,Hard Techno Rave Радио - RadioSpinner Listen live
+#EXTINF:-1,Hard_Techno_Rave_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/hrdtchnrv-64
-#EXTINF:-1,House Classics - Radio Record Listen live
+#EXTINF:-1,House_Classics_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/houseclss96.aacp
-#EXTINF:-1,House Hits - Radio Record Listen live
+#EXTINF:-1,House_Hits_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/househits96.aacp
-#EXTINF:-1,Hypnotic - Radio Record Listen live
+#EXTINF:-1,Hypnotic_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/hypno96.aacp
-#EXTINF:-1,Ibiza Club Радио - RadioSpinner Listen live
+#EXTINF:-1,Ibiza_Club_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/ibzclb-64
-#EXTINF:-1,Frekvence 1 Ceskoslovenske hity Listen live
+#EXTINF:-1,Frekvence_1_Ceskoslovenske_hity_Listen_live
 https://ice.actve.net/web-e2-csweb
-#EXTINF:-1,r-team Listen live
+#EXTINF:-1,r-team_Listen_live
 https://stream.laut.fm/r-team?ref=radiode
-#EXTINF:-1,Dairi 87.6 FM Cirebon Listen live
+#EXTINF:-1,Dairi_87.6_FM_Cirebon_Listen_live
 https://svara-stream.radioddns.net:8443/cirebon_dairifm
-#EXTINF:-1,Radio Company Global House Listen live
+#EXTINF:-1,Radio_Company_Global_House_Listen_live
 https://ice03.fluidstream.net/companyhouse.mp3
-#EXTINF:-1,RTL Radio - Weihnachtsradio Listen live
+#EXTINF:-1,RTL_Radio_-_Weihnachtsradio_Listen_live
 https://rtlberlin.streamabc.net/rtlb-rtldeuevent01-mp3-128-3453739
-#EXTINF:-1,Miami Beach Radio Listen live
+#EXTINF:-1,Miami_Beach_Radio_Listen_live
 https://streaming.radiostreamlive.com/miamibeachradio_devices
-#EXTINF:-1,Indie Chill Радио - RadioSpinner Listen live
+#EXTINF:-1,Indie_Chill_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/ndchll-64
-#EXTINF:-1,Indie Pop Hit Радио - RadioSpinner Listen live
+#EXTINF:-1,Indie_Pop_Hit_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/ndppht-64
-#EXTINF:-1,Innocence - Radio Record Listen live
+#EXTINF:-1,Innocence_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/ibiza96.aacp
-#EXTINF:-1,ISKRA✪FM Listen live
+#EXTINF:-1,ISKRA✪FM_Listen_live
 https://c32.radioboss.fm:18309/server
-#EXTINF:-1,Jazz House Радио - RadioSpinner Listen live
+#EXTINF:-1,Jazz_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/jazz-house-64
-#EXTINF:-1,Radio Klassisk Listen live
+#EXTINF:-1,Radio_Klassisk_Listen_live
 https://live-bauerdk.sharp-stream.com/radioklassisk_dk_mp3
-#EXTINF:-1,Jungle - Radio Record Listen live
+#EXTINF:-1,Jungle_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/jungle96.aacp
-#EXTINF:-1,Klubb - PromoDJ Listen live
+#EXTINF:-1,Klubb_-_PromoDJ_Listen_live
 https://radio.promodj.com/klubb-192
-#EXTINF:-1,Latin House Радио - RadioSpinner Listen live
+#EXTINF:-1,Latin_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/lathouse-64
-#EXTINF:-1,Latin Pop Hits Радио - RadioSpinner Listen live
+#EXTINF:-1,Latin_Pop_Hits_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/ltnpphts-64
-#EXTINF:-1,Like FM (Лайк ФМ) Listen live
+#EXTINF:-1,Like_FM_(Лайк_ФМ)_Listen_live
 https://pub0302.101.ru:8443/stream/air/aac/64/219
-#EXTINF:-1,Liquid Funk - Radio Record Listen live
+#EXTINF:-1,Liquid_Funk_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/liquidfunk96.aacp
-#EXTINF:-1,LoFi Chill Радио - RadioSpinner Listen live
+#EXTINF:-1,LoFi_Chill_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/lfch-64
-#EXTINF:-1,100% Schlager - SchlagerPlanet Listen live
+#EXTINF:-1,100%_Schlager_-_SchlagerPlanet_Listen_live
 https://schlagerplanet.hoerradar.de/schlagerplanet-schlager-mp3-hq
-#EXTINF:-1,Radio ZET Alternatywa Listen live
+#EXTINF:-1,Radio_ZET_Alternatywa_Listen_live
 https://zt02.cdn.eurozet.pl/ZETALT.mp3
-#EXTINF:-1,Free Radio Worcestershire Listen live
+#EXTINF:-1,Free_Radio_Worcestershire_Listen_live
 https://stream-al.planetradio.co.uk/freehereford.aac
-#EXTINF:-1,M.Deep Radio Listen live
+#EXTINF:-1,M.Deep_Radio_Listen_live
 https://deephouse.ovh/live
-#EXTINF:-1,Made In Russia_Dance Radio Listen live
+#EXTINF:-1,Made_In_Russia_Dance_Radio_Listen_live
 https://myradio24.org/9083
-#EXTINF:-1,Exclusively Club Listen live
+#EXTINF:-1,Exclusively_Club_Listen_live
 https://streaming.exclusive.radio/er/club/icecast.audio
-#EXTINF:-1,Anandham FM Listen live
+#EXTINF:-1,Anandham_FM_Listen_live
 https://node-11.zeno.fm/1ddxnnrg0d0uv?rj-ttl=5&rj-tok=AAABd_T_k0cApQS3EEL6CSo-Vg
-#EXTINF:-1,Radio 32 Rock Listen live
+#EXTINF:-1,Radio_32_Rock_Listen_live
 https://stream.radio32.ch/radio32rock
-#EXTINF:-1,Mainstream - 101.ru Listen live
+#EXTINF:-1,Mainstream_-_101.ru_Listen_live
 https://pub0201.101.ru/stream/pro/aac/64/87
-#EXTINF:-1,Maximum 90-Е Listen live
+#EXTINF:-1,Maximum_90-Е_Listen_live
 https://maximum90.hostingradio.ru/maximum9096.aacp
-#EXTINF:-1,Maximum Depeche Mode Listen live
+#EXTINF:-1,Maximum_Depeche_Mode_Listen_live
 https://depechemode.hostingradio.ru/depechemode96.aacp
-#EXTINF:-1,Maximum Heavy Monday Listen live
+#EXTINF:-1,Maximum_Heavy_Monday_Listen_live
 https://heavymonday.hostingradio.ru/heavymonday96.aacp
-#EXTINF:-1,Maximum Metallica Listen live
+#EXTINF:-1,Maximum_Metallica_Listen_live
 https://metallica.hostingradio.ru/metallica96.aacp
-#EXTINF:-1,Megamix - Radio Record Listen live
+#EXTINF:-1,Megamix_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/mix96.aacp
-#EXTINF:-1,Michael Jackson - 101.ru Listen live
+#EXTINF:-1,Michael_Jackson_-_101.ru_Listen_live
 https://pub0302.101.ru:8443/stream/pro/aac/64/52
-#EXTINF:-1,Midtempo - Radio Record Listen live
+#EXTINF:-1,Midtempo_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/mt96.aacp
-#EXTINF:-1,Mini - PromoDJ Listen live
+#EXTINF:-1,Mini_-_PromoDJ_Listen_live
 https://radio.promodj.com/mini-192
-#EXTINF:-1,Beat FM 102.5 Listen live
+#EXTINF:-1,Beat_FM_102.5_Listen_live
 https://securestreams2.autopo.st:1242/live
-#EXTINF:-1,Minimal Tech - Radio Record Listen live
+#EXTINF:-1,Minimal_Tech_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/mini96.aacp
-#EXTINF:-1,Mixadance FM Jazz Listen live
+#EXTINF:-1,Mixadance_FM_Jazz_Listen_live
 https://stream.mixadance.fm/mixadancejazz
-#EXTINF:-1,Mixadance FM Relax Listen live
+#EXTINF:-1,Mixadance_FM_Relax_Listen_live
 https://stream.mixadance.fm/relax
-#EXTINF:-1,Moombahton - Radio Record Listen live
+#EXTINF:-1,Moombahton_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/mmbt96.aacp
-#EXTINF:-1,Neoclassical Wave Радио - RadioSpinner Listen live
+#EXTINF:-1,Neoclassical_Wave_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/nclssclwv-64
-#EXTINF:-1,Neurofunk - Radio Record Listen live
+#EXTINF:-1,Neurofunk_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/neurofunk96.aacp
-#EXTINF:-1,New Age Wave Радио - RadioSpinner Listen live
+#EXTINF:-1,New_Age_Wave_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/nwagewv-64
-#EXTINF:-1,Nightcore Beats Радио - RadioSpinner Listen live
+#EXTINF:-1,Nightcore_Beats_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/nghtcrbts-64
-#EXTINF:-1,egoFM - egoPURE Listen live
+#EXTINF:-1,egoFM_-_egoPURE_Listen_live
 https://streams.egofm.de/egoPURE-hq?ar-distributor=f0a2
-#EXTINF:-1,Cowork la Radio Listen live
+#EXTINF:-1,Cowork_la_Radio_Listen_live
 https://coworklaradio.com/stream/cowork.mp3
-#EXTINF:-1,Radio Star Maroc Listen live
+#EXTINF:-1,Radio_Star_Maroc_Listen_live
 https://manager2.creativradio.com:3840/server
-#EXTINF:-1,Old School - PromoDJ Listen live
+#EXTINF:-1,Old_School_-_PromoDJ_Listen_live
 https://radio.promodj.com/oldschool-192
-#EXTINF:-1,Old School - Radio Record Listen live
+#EXTINF:-1,Old_School_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/pump96.aacp
-#EXTINF:-1,Organic House Радио - RadioSpinner Listen live
+#EXTINF:-1,Organic_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/rgnchs-64
-#EXTINF:-1,Oriental Deep House Радио - RadioSpinner Listen live
+#EXTINF:-1,Oriental_Deep_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/rntldphs-64
-#EXTINF:-1,Paris Jazz Cafe Радио - RadioSpinner Listen live
+#EXTINF:-1,Paris_Jazz_Cafe_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/prsjzzcf-64
-#EXTINF:-1,PhonAir - LilacStation Listen live
+#EXTINF:-1,PhonAir_-_LilacStation_Listen_live
 https://azura.shoutca.st/radio/8120/radio.mp3
-#EXTINF:-1,Radio 538 Non-stop Listen live
+#EXTINF:-1,Radio_538_Non-stop_Listen_live
 https://22193.live.streamtheworld.com/TLPSTR09.mp3
-#EXTINF:-1,Radio Bomberos Listen live
+#EXTINF:-1,Radio_Bomberos_Listen_live
 https://chileservidores.cl/audio/?p=9938&t=0
-#EXTINF:-1,Rádio Delta 99.7 FM Listen live
+#EXTINF:-1,Rádio_Delta_99.7_FM_Listen_live
 https://player.painelvox.com/player-ssl/8066/
-#EXTINF:-1,Freies Radio Freistadt Listen live
+#EXTINF:-1,Freies_Radio_Freistadt_Listen_live
 https://develop.servus.at:8443/frf
-#EXTINF:-1,Pirate Station - Radio Record Listen live
+#EXTINF:-1,Pirate_Station_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/ps96.aacp
-#EXTINF:-1,Pop - PromoDJ Listen live
+#EXTINF:-1,Pop_-_PromoDJ_Listen_live
 https://radio.promodj.com/pop-192
-#EXTINF:-1,Pop Cover Hit Радио - RadioSpinner Listen live
+#EXTINF:-1,Pop_Cover_Hit_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/cvrhts-64
-#EXTINF:-1,Pop Hits Радио - RadioSpinner Listen live
+#EXTINF:-1,Pop_Hits_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/pphts-64
-#EXTINF:-1,Pop Rock Hit Радио - RadioSpinner Listen live
+#EXTINF:-1,Pop_Rock_Hit_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/pprck-64
-#EXTINF:-1,Progressive - Radio Record Listen live
+#EXTINF:-1,Progressive_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/progr96.aacp
-#EXTINF:-1,Progressive House Радио - RadioSpinner Listen live
+#EXTINF:-1,Progressive_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/prgrssvhs-32
-#EXTINF:-1,Radio Baires Listen live
+#EXTINF:-1,Radio_Baires_Listen_live
 https://baires.radioplayer.com.ar:8000/baires
-#EXTINF:-1,Domina Fm Listen live
+#EXTINF:-1,Domina_Fm_Listen_live
 https://chileservidores.cl/audio/?p=9398
-#EXTINF:-1,Radio BSJ Listen live
+#EXTINF:-1,Radio_BSJ_Listen_live
 https://evcast01.mediacp.eu/radiobsj
-#EXTINF:-1,104.6 RTL Weihnachtsradio - Greatest Hits Listen live
+#EXTINF:-1,104.6_RTL_Weihnachtsradio_-_Greatest_Hits_Listen_live
 https://rtlberlin.streamabc.net/rtlb-rtlxmsgreath-mp3-128-5365238
-#EXTINF:-1,popklub Listen live
+#EXTINF:-1,popklub_Listen_live
 https://stream.laut.fm/popklub?ref=radiode
-#EXTINF:-1,The Breeze Waikato 99.4FM Listen live
+#EXTINF:-1,The_Breeze_Waikato_99.4FM_Listen_live
 https://livestream.mediaworks.nz/radio_origin/breeze_[HAM]_128kbps/chunklist.m3u8
-#EXTINF:-1,weliketojump Listen live
+#EXTINF:-1,weliketojump_Listen_live
 https://stream.laut.fm/weliketojump?ref=radiode
-#EXTINF:-1,Chocolate Radio Listen live
+#EXTINF:-1,Chocolate_Radio_Listen_live
 https://stream.radio.co/sa7336b687/listen
-#EXTINF:-1,Rádio Festeja Listen live
+#EXTINF:-1,Rádio_Festeja_Listen_live
 https://stream.zeno.fm/68mwpnzfdd0uv
-#EXTINF:-1,Exclusively Eagles Listen live
+#EXTINF:-1,Exclusively_Eagles_Listen_live
 https://streaming.exclusive.radio/er/eagles/icecast.audio
-#EXTINF:-1,Best-of-Trance-Radio Listen live
+#EXTINF:-1,Best-of-Trance-Radio_Listen_live
 https://s11.streamcaster.eu:8243/stream1
-#EXTINF:-1,WSHE - Chicago's 100.3 FM Listen live
+#EXTINF:-1,WSHE_-_Chicago's_100.3_FM_Listen_live
 https://playerservices.streamtheworld.com/api/livestream-redirect/WSHEFM.mp3
-#EXTINF:-1,100% Karneval - SchlagerPlanet Listen live
+#EXTINF:-1,100%_Karneval_-_SchlagerPlanet_Listen_live
 https://schlagerplanet.hoerradar.de/schlagerplanet-karneval-mp3-hq
-#EXTINF:-1,soundnow Listen live
+#EXTINF:-1,soundnow_Listen_live
 https://stream.laut.fm/soundnow?ref=radiode
-#EXTINF:-1,Радыё Марыя Listen live
+#EXTINF:-1,Радыё_Марыя_Listen_live
 https://server.radiorm.by:8443/aac
-#EXTINF:-1,Kapfradio 19 Listen live
+#EXTINF:-1,Kapfradio_19_Listen_live
 https://stream.laut.fm/kapfradio19
-#EXTINF:-1,RRI Pro 2 Banjarmasin FM 95.2 Listen live
+#EXTINF:-1,RRI_Pro_2_Banjarmasin_FM_95.2_Listen_live
 https://cdnbanjarmasinpro2.rri.co.id/web-rribanjarmasinpro2.mp3
-#EXTINF:-1,World Broadcasting Network Listen live
+#EXTINF:-1,World_Broadcasting_Network_Listen_live
 https://solid41.streamupsolutions.com/proxy/hhgfqqyb?mp=/server
-#EXTINF:-1,Lolliradio Dance Listen live
+#EXTINF:-1,Lolliradio_Dance_Listen_live
 https://dance.lolliradio.net/server
-#EXTINF:-1,inspirationofsounds Listen live
+#EXTINF:-1,inspirationofsounds_Listen_live
 https://stream.laut.fm/inspirationofsounds?ref=radiode
-#EXTINF:-1,Radio Обозреватель - Украинские Хиты Listen live
+#EXTINF:-1,Radio_Обозреватель_-_Украинские_Хиты_Listen_live
 https://radio-stream-2.obozrevatel.com/UkrPophit128.mp3
-#EXTINF:-1,Joy Radio Listen live
+#EXTINF:-1,Joy_Radio_Listen_live
 https://stream.joyradio.nl/joyradio
-#EXTINF:-1,movibes Listen live
+#EXTINF:-1,movibes_Listen_live
 https://stream.laut.fm/movibes?ref=radiode
-#EXTINF:-1,Rádio Web Adoração Gospel Listen live
+#EXTINF:-1,Rádio_Web_Adoração_Gospel_Listen_live
 https://player-ssl.kshost.com.br:9430/live
-#EXTINF:-1,Concertzender Oude Muziek Listen live
+#EXTINF:-1,Concertzender_Oude_Muziek_Listen_live
 https://streams.greenhost.nl:8006/oudemuziek
-#EXTINF:-1,100% Jazz - 100FM רדיוס Listen live
+#EXTINF:-1,100%_Jazz_-_100FM_רדיוס_Listen_live
 https://a25.streamgates.net/radios-audio/100Jazz/chunks.m3u8
-#EXTINF:-1,Ballermann Radio Top100 Listen live
+#EXTINF:-1,Ballermann_Radio_Top100_Listen_live
 https://radio-ballermann.stream24.net/ballermann-top100.mp3
-#EXTINF:-1,Radio Alex Listen live
+#EXTINF:-1,Radio_Alex_Listen_live
 https://frradioq.radioca.st/server
-#EXTINF:-1,Star 101 Listen live
+#EXTINF:-1,Star_101_Listen_live
 https://ice9.securenetsystems.net/KNUT
-#EXTINF:-1,Radio La Nueva 107.7 FM Listen live
+#EXTINF:-1,Radio_La_Nueva_107.7_FM_Listen_live
 https://server.radiogs.net:7008/stream?icy=http
-#EXTINF:-1,Classic радиосы Listen live
+#EXTINF:-1,Classic_радиосы_Listen_live
 https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
-#EXTINF:-1,Reactor 105.7 FM Listen live
+#EXTINF:-1,Reactor_105.7_FM_Listen_live
 https://s2.mexside.net/8002/server
-#EXTINF:-1,Radio Art - Guitar Listen live
+#EXTINF:-1,Radio_Art_-_Guitar_Listen_live
 https://live.radioart.com/fGuitar.mp3
-#EXTINF:-1,supreme_everyday Listen live
+#EXTINF:-1,supreme_everyday_Listen_live
 https://stream.laut.fm/supreme_everyday?ref=radiode
-#EXTINF:-1,100% Volksmusik Radio Listen live
+#EXTINF:-1,100%_Volksmusik_Radio_Listen_live
 https://stream.laut.fm/100prozentvolksmusik
-#EXTINF:-1,KBUW - Wyoming Public Radio 90.5 FM Listen live
+#EXTINF:-1,KBUW_-_Wyoming_Public_Radio_90.5_FM_Listen_live
 https://wprhqstream4.uwyo.edu/wpr128.mp3
-#EXTINF:-1,musikbox Listen live
+#EXTINF:-1,musikbox_Listen_live
 https://stream.laut.fm/musikbox?ref=radiode
-#EXTINF:-1,2 Heit Listen live
+#EXTINF:-1,2_Heit_Listen_live
 https://stream.laut.fm/2heit
-#EXTINF:-1,Best-Friends-Radio Listen live
+#EXTINF:-1,Best-Friends-Radio_Listen_live
 https://stream2-alfacast-hosting.com:10966/
-#EXTINF:-1,Exclusively Talking Heads Listen live
+#EXTINF:-1,Exclusively_Talking_Heads_Listen_live
 https://streaming.exclusive.radio/er/talkingheads/icecast.audio
-#EXTINF:-1,Radio Essential Listen live
+#EXTINF:-1,Radio_Essential_Listen_live
 https://c16.radioboss.fm:18258/radioessential
-#EXTINF:-1,Radio Nice Listen live
+#EXTINF:-1,Radio_Nice_Listen_live
 https://radio-nice.ru:8315/server
-#EXTINF:-1,Radio Record Listen live
+#EXTINF:-1,Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/rr96.aacp
-#EXTINF:-1,Южная Волна Listen live
+#EXTINF:-1,Южная_Волна_Listen_live
 https://213.80.160.102/
-#EXTINF:-1,A Sleep Natural Mind Listen live
+#EXTINF:-1,A_Sleep_Natural_Mind_Listen_live
 https://listen.openstream.co/6389/audio
-#EXTINF:-1,RadioFr. Freiburg Listen live
+#EXTINF:-1,RadioFr._Freiburg_Listen_live
 https://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3
-#EXTINF:-1,Radio Uno Listen live
+#EXTINF:-1,Radio_Uno_Listen_live
 https://listen.radioking.com/radio/169255/stream/210568
-#EXTINF:-1,5 Star Deluxe Listen live
+#EXTINF:-1,5_Star_Deluxe_Listen_live
 https://stream.laut.fm/5stardeluxe
-#EXTINF:-1,Зайцев FM Rap Listen live
+#EXTINF:-1,Зайцев_FM_Rap_Listen_live
 https://zaycevfm.cdnvideo.ru/ZaycevFM_rap_128.mp3
-#EXTINF:-1,Radio Record Darkside Listen live
+#EXTINF:-1,Radio_Record_Darkside_Listen_live
 https://radiorecord.hostingradio.ru/darkside96.aacp
-#EXTINF:-1,Radio Record Remix Listen live
+#EXTINF:-1,Radio_Record_Remix_Listen_live
 https://radiorecord.hostingradio.ru/rmx96.aacp
-#EXTINF:-1,Rap Live Radio - Русский рэп Listen live
+#EXTINF:-1,Rap_Live_Radio_-_Русский_рэп_Listen_live
 https://radio-stream-0.obozrevatel.com/rep_news128.mp3
-#EXTINF:-1,Rave FM - Radio Record Listen live
+#EXTINF:-1,Rave_FM_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/rave96.aacp
-#EXTINF:-1,Retro Party Радио - RadioSpinner Listen live
+#EXTINF:-1,Retro_Party_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/rtrprty-64
-#EXTINF:-1,Rock Arsenal Listen live
+#EXTINF:-1,Rock_Arsenal_Listen_live
 https://online.rockarsenal.ru/rockarsenal_aacplus
-#EXTINF:-1,HOT100 Kampala Listen live
+#EXTINF:-1,HOT100_Kampala_Listen_live
 https://www.hot100.ug:8000/server
-#EXTINF:-1,Rock Ballads Радио - RadioSpinner Listen live
+#EXTINF:-1,Rock_Ballads_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/rckbllds-64
-#EXTINF:-1,Rock FM 95.2 Listen live
+#EXTINF:-1,Rock_FM_95.2_Listen_live
 https://nashe1.hostingradio.ru:18000/rock-128.mp3
-#EXTINF:-1,Russian Gold - Radio Record Listen live
+#EXTINF:-1,Russian_Gold_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/russiangold96.aacp
-#EXTINF:-1,4Lobos Pop & Oldies Radio Station Listen live
+#EXTINF:-1,4Lobos_Pop_&_Oldies_Radio_Station_Listen_live
 https://streamingv2.shoutcast.com/4LobosPop-OldiesRadioStation
-#EXTINF:-1,TurnON Radio International Listen live
+#EXTINF:-1,TurnON_Radio_International_Listen_live
 https://turnon-rex.radioca.st/
-#EXTINF:-1,Slase FM Listen live
+#EXTINF:-1,Slase_FM_Listen_live
 https://myradio24.org/slasefm
-#EXTINF:-1,Smooth Lounge Радио - RadioSpinner Listen live
+#EXTINF:-1,Smooth_Lounge_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/smthlng-64
-#EXTINF:-1,Soft Rock Радио - RadioSpinner Listen live
+#EXTINF:-1,Soft_Rock_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/sftrck-64
-#EXTINF:-1,Exclusively George Strait Listen live
+#EXTINF:-1,Exclusively_George_Strait_Listen_live
 https://streaming.exclusive.radio/er/georgestrait/icecast.audio
-#EXTINF:-1,Strange - PromoDJ Listen live
+#EXTINF:-1,Strange_-_PromoDJ_Listen_live
 https://radio.promodj.com/strange-192
-#EXTINF:-1,STUDIO 21 Listen live
+#EXTINF:-1,STUDIO_21_Listen_live
 https://icecast-studio21.cdnvideo.ru/S21_2
-#EXTINF:-1,Synth Pop Радио - RadioSpinner Listen live
+#EXTINF:-1,Synth_Pop_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/synthpp-64
-#EXTINF:-1,Synthwave - Radio Record Listen live
+#EXTINF:-1,Synthwave_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/synth96.aacp
-#EXTINF:-1,Synthwave Радио - RadioSpinner Listen live
+#EXTINF:-1,Synthwave_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/synthwave-64
-#EXTINF:-1,Techno - Radio Record Listen live
+#EXTINF:-1,Techno_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/techno96.aacp
-#EXTINF:-1,Tecktonik - Radio Record Listen live
+#EXTINF:-1,Tecktonik_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/tecktonik96.aacp
-#EXTINF:-1,Radio Celtic Sounds Listen live
+#EXTINF:-1,Radio_Celtic_Sounds_Listen_live
 https://stream.laut.fm/celtic-sounds
-#EXTINF:-1,KAGO - The Rock 94.9 FM Listen live
+#EXTINF:-1,KAGO_-_The_Rock_94.9_FM_Listen_live
 https://ice6.securenetsystems.net/KAGOFM
-#EXTINF:-1,Too Nu - PromoDJ Listen live
+#EXTINF:-1,Too_Nu_-_PromoDJ_Listen_live
 https://radio.promodj.com/toonu-192
-#EXTINF:-1,Top 100 - PromoDJ Listen live
+#EXTINF:-1,Top_100_-_PromoDJ_Listen_live
 https://radio.promodj.com/top100-192
-#EXTINF:-1,Trance Hits - Radio Record Listen live
+#EXTINF:-1,Trance_Hits_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/trancehits96.aacp
-#EXTINF:-1,Trance Радио - RadioSpinner Listen live
+#EXTINF:-1,Trance_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/trance-64
-#EXTINF:-1,Trancehouse - Radio Record Listen live
+#EXTINF:-1,Trancehouse_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/trancehouse96.aacp
-#EXTINF:-1,Trap Радио - RadioSpinner Listen live
+#EXTINF:-1,Trap_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/trp-64
-#EXTINF:-1,Tropical - Radio Record Listen live
+#EXTINF:-1,Tropical_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/trop96.aacp
-#EXTINF:-1,Tropical House Радио - RadioSpinner Listen live
+#EXTINF:-1,Tropical_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/tropical-house-64
-#EXTINF:-1,Exclusively Dr. Dre Listen live
+#EXTINF:-1,Exclusively_Dr._Dre_Listen_live
 https://streaming.exclusive.radio/er/drdre/icecast.audio
-#EXTINF:-1,Hala Bedi Irratia Listen live
+#EXTINF:-1,Hala_Bedi_Irratia_Listen_live
 https://halabedi.eus:8443/hb1_64.mp3
-#EXTINF:-1,Uplifting - Radio Record Listen live
+#EXTINF:-1,Uplifting_-_Radio_Record_Listen_live
 https://radiorecord.hostingradio.ru/uplift96.aacp
-#EXTINF:-1,Vata - PromoDJ Listen live
+#EXTINF:-1,Vata_-_PromoDJ_Listen_live
 https://radio.promodj.com/vata-192
-#EXTINF:-1,Visual neoclassical Omdaru radio Listen live
+#EXTINF:-1,Visual_neoclassical_Omdaru_radio_Listen_live
 https://magicscope.s02.radio-tochka.com:4635/server
-#EXTINF:-1,Vocal House Радио - RadioSpinner Listen live
+#EXTINF:-1,Vocal_House_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/vclhs-64
-#EXTINF:-1,Vocal Trance Радио - RadioSpinner Listen live
+#EXTINF:-1,Vocal_Trance_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/vcltrnc-64
-#EXTINF:-1,Vogue Dance Радио - RadioSpinner Listen live
+#EXTINF:-1,Vogue_Dance_Радио_-_RadioSpinner_Listen_live
 https://live.radiospinner.com/vogd-32
-#EXTINF:-1,Xradio Listen live
+#EXTINF:-1,Xradio_Listen_live
 https://eapps-cs.herokuapp.com/http://185.8.60.5:8000/mp3
-#EXTINF:-1,Yo - PromoDJ Listen live
+#EXTINF:-1,Yo_-_PromoDJ_Listen_live
 https://radio.promodj.com/yo-192
-#EXTINF:-1,Heraldo Radio 98.5 FM CDMX Listen live
+#EXTINF:-1,Heraldo_Radio_98.5_FM_CDMX_Listen_live
 https://stream.radiojar.com/g33sp4yqd6quv

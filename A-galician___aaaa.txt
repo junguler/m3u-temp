@@ -1,0 +1,56 @@
+#EXTINF:-1,Cadena_Ser_Radio_Galicia
+200 http://playerservices.streamtheworld.com/m3u/SER_GALICIA.m3u
+#EXTINF:-1,CUAC_FM
+400 https://streaming.cuacfm.org/cuacfm.ogg
+#EXTINF:-1,CUAC_FM_(MP3)
+400 https://streaming.cuacfm.org/cuacfm-128k.mp3
+#EXTINF:-1,esRadio_Galicia
+https://libertaddigital-radio-live2.flumotion.com/libertaddigital/ld-live2-low.mp3
+#EXTINF:-1,Free_FM_Classics
+200 https://xxdelgado.radioca.st/
+#EXTINF:-1,Galicia_America_TV
+http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
+#EXTINF:-1,Galicia_Europe_TV
+http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
+#EXTINF:-1,Pontevedra_Viva
+https://server8.emitironline.com:9402/radio
+#EXTINF:-1,Radio_5_Galicia_-_RNE
+302 https://crtve-rne5-lcg.cast.addradio.de/crtve/rne5/lcg/mp3/high
+#EXTINF:-1,Radio_Galega
+http://crtvg-android-radiogalega.stream.flumotion.com/android-radiogalega/live.mp3
+#EXTINF:-1,Radio_Galega_Música
+http://crtvg-radiogalega-musica.stream.flumotion.com/radiogalega-musica/live.mp3.m3u
+#EXTINF:-1,Radio_Roncudo
+400 http://radioron.ddns.net:8000/emision.mp3.m3u
+#EXTINF:-1,Radio_Voz_(A_Coruña)
+400 https://live.radiovoz.es/mp3/stream_coruna.mp3
+#EXTINF:-1,Radio_Voz_(Compostela)
+400 https://live.radiovoz.es/mp3/stream_santiago.mp3?source=web\u0026JSESSIONID=B2F48ECDF937FC52DF9C6620C5562234\u0026station=7\u0026dial=Santiago_de_Compostela
+#EXTINF:-1,RNE_-_Galicia
+302 https://crtve-rne1-gal.cast.addradio.de/crtve/rne1/gal/mp3/high
+#EXTINF:-1,Son_Galiza_Radio
+http://crtvg-songalicia.stream.flumotion.com/songalicia/live.mp3.m3u
+#EXTINF:-1,Vía_Radio
+404 https://relay.stream.enacast-cloud.com:40242/viaradioHD.mp3
+#EXTINF:-1,Radio_Fusiòn
+200 https://srv7031.dns-lcinternet.com/8032/stream
+#EXTINF:-1,Radio_Valga
+http://99.198.118.250:8028/
+#EXTINF:-1,RadioVoz
+400 http://live.radiovoz.es/mp3/stream_cadena.mp3
+#EXTINF:-1,Radio_Piratona
+404 http://stream.streamaudio.de:8000/radio-piratona.ogg
+#EXTINF:-1,Si_Radio_Vigo
+400 http://82.223.29.65:8080/vcbm_siradio
+#EXTINF:-1,Radio_Negreira
+200 http://srv7031.dns-lcinternet.com:8030/stream
+#EXTINF:-1,Rádio_FilispiM
+400 https://streaming.cuacfm.org/filispim.mp3
+#EXTINF:-1,Radio_Neria
+400 http://giss.tv:8001/neria.mp3
+#EXTINF:-1,Radio_campUSCulturae
+302 http://stream.zeno.fm/vqhtckpetv8uv
+#EXTINF:-1,Piscis80s
+200 http://01.solumedia.com.ar:7798/stream
+#EXTINF:-1,A_Xente_de_Teo
+200 https://axentedeteo.ddns.net/radio/8000/radio.mp3

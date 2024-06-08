@@ -1,0 +1,48 @@
+#EXTINF:-1,吉林健康娱乐广播_FM101.9_(Jilin_Health_&_Entertainment)
+http://live.jlradio.cn:1935/live/fm1019/playlist.m3u8
+#EXTINF:-1,R_Salamat
+200 http://headend2.iranseda.ir/liveHLS/radio-salamat.m3u8
+#EXTINF:-1,KUSD_89.7
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFM_SC
+#EXTINF:-1,ONE_Radio
+400 http://s10.voscast.com:8202/stream
+#EXTINF:-1,Radio_Centro
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC_SC
+#EXTINF:-1,WBEZ_91.5
+200 https://stream.wbez.org/wbez128.mp3
+#EXTINF:-1,FM_El_Cambio_96.9
+502 https://panel.nexolife.ar/stream/FMElCambio_1
+#EXTINF:-1,2RPH_100.5
+http://27.100.36.118:8000/stream/1/
+#EXTINF:-1,Radio_Universidad
+200 http://148.202.165.7:8000/
+#EXTINF:-1,2SER
+400 https://livestream.2ser.com/streamrelay
+#EXTINF:-1,Vision_Australia_Radio
+http://rphadelaide.org.au:8000/listen.pls
+#EXTINF:-1,Radio_Kampus_97.1
+200 http://193.0.98.66:8002/
+#EXTINF:-1,Radio_Hare_Krishna
+302 https://stream.zeno.fm/acu0vhxxe48uv
+#EXTINF:-1,La_Voz_de_Jesucristo_1530
+http://162.144.254.131:8010/yeshua
+#EXTINF:-1,Radio_786
+http://stream.krypton.co.za/proxy/radio786?mp=/stream
+#EXTINF:-1,Rádio_UCP_FM_106.3
+http://199.201.89.15:9300/
+#EXTINF:-1,Radio_Bolivariana
+200 http://streaming.radiobolivarianavirtual.com:7630/
+#EXTINF:-1,Radio_Salut_100.9
+200 http://ds1961313.radiomarcabarcelona.com:9001/stream
+#EXTINF:-1,Rádio_USP
+http://flow.emm.usp.br:8007/radiousp-rp-128.mp3
+#EXTINF:-1,Radio_IRFEYAL_1090
+400 http://aler.org:8000/radioirfeyal.ogg
+#EXTINF:-1,Vaughan_Radio
+404 SimpleHTTP/0.6 http://vaughanradioweb.streaming-pro.com:8057/streamdemo_mp3.nsv
+#EXTINF:-1,UTM_Radio
+http://186.46.160.211:8085/utmradio1.mp3
+#EXTINF:-1,Radio_Univeridad_Unlam_89.1
+404 https://s8.stweb.tv/unlam/radio/playlist.m3u8
+#EXTINF:-1,Radio_UNAM_96.1
+200 https://tv.radiohosting.online:9484/stream

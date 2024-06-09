@@ -1,0 +1,102 @@
+#EXTINF:-1,RUV_Rás_2
+400 http://netradio.ruv.is/ras2.mp3
+#EXTINF:-1,RÚV_Rás_1
+400 http://netradio.ruv.is/ras1.mp3
+#EXTINF:-1,Bylgjan_FM
+200 http://icecast.365net.is:8000/orbbylgjan.aac
+#EXTINF:-1,Flashback_60's
+http://stream.radio.is:443/60flashback
+#EXTINF:-1,Flashback_80's
+http://stream.radio.is:443/80flashback
+#EXTINF:-1,KissFM_104.5
+400 http://www.radio.is:443/kiss
+#EXTINF:-1,Flashback_70's
+http://stream.radio.is:443/70flashback
+#EXTINF:-1,Radio_Deep_Underground
+404 http://139.28.39.116/radio/8000/rdu.mp3
+#EXTINF:-1,Flashback_90's
+http://stream.radio.is:443/90flashback
+#EXTINF:-1,FM_957
+https://live.365cdn.is/hls-radio/fm957/playlist.m3u8
+#EXTINF:-1,K100_(Kaninn_FM)
+400 http://www.radio.is:443/kaninnmobile
+#EXTINF:-1,80s_BYLGJAN
+200 http://icecast.365net.is:8000/orb80s.aac
+#EXTINF:-1,Suðurland_FM
+200 http://178.19.58.119:1818/
+#EXTINF:-1,Gull_Bylgjan
+https://live.365cdn.is/hls-radio/gullbylgjan/playlist.m3u8
+#EXTINF:-1,Retro_89.5
+http://stream.radio.is:443/retromobile
+#EXTINF:-1,Útvarp_Saga
+http://89.17.150.20:443/saga
+#EXTINF:-1,X-id_97.7_FM
+https://live.365cdn.is/hls-radio/x977/playlist.m3u8
+#EXTINF:-1,FlashBack
+http://stream.radio.is:443/flashback
+#EXTINF:-1,Létt_Bylgjan
+https://live.365cdn.is/hls-radio/lettbylgjan/playlist.m3u8
+#EXTINF:-1,RÚV_Rondó
+http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras3/_definst_/live.m3u8
+#EXTINF:-1,FM_957_Extra
+https://live.365cdn.is/hls-radio/fmextra/playlist.m3u8
+#EXTINF:-1,Apparat_id
+200 http://icecast.365net.is:8000/orbApparatid.aac
+#EXTINF:-1,FMX_Klassik
+https://live.365cdn.is/hls-radio/fmx/playlist.m3u8
+#EXTINF:-1,Ice_FM
+http://37.59.28.208:8188/
+#EXTINF:-1,Rondó
+400 http://netradio.ruv.is/rondo.mp3
+#EXTINF:-1,FM_Xtra
+http://stream.radio.is:443/fmxtra
+#EXTINF:-1,Trölli
+200 http://live.trolli.is:8200/
+#EXTINF:-1,Lindin_Radio
+400 http://62.145.147.50:8001/lindin
+#EXTINF:-1,FRED_FILM_RADIO_Icelandic
+http://s6.webradio-hosting.com:8110/
+#EXTINF:-1,Vinyl_Tónlist_Netútvarp
+https://s3.voscast.com:10165/Hljodver
+#EXTINF:-1,Útvarp_Boðun
+400 http://radio.bodun.is:8000/stream
+#EXTINF:-1,KrakkaRÚV
+http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras4/_definst_/live.m3u8
+#EXTINF:-1,Snow_Radio_Network
+404 http://19293.live.streamtheworld.com/SP_R3489961_SC
+#EXTINF:-1,Skaga_Rásin
+301 http://radio.turteldufur.is/stream/skagarasin/
+#EXTINF:-1,Krúttin
+301 http://radio.turteldufur.is/stream/turteldufur/
+#EXTINF:-1,80s_Bylgjan
+200 http://icecast.365net.is:8000/orb80s.aac.m3u?n=985486bafa3f606a67a2
+#EXTINF:-1,Apparatid
+200 http://icecast.365net.is:8000/orbApparatid.aac?n=85cef086f2cc2e438959
+#EXTINF:-1,Bylgjan
+200 http://icecast.365net.is:8000/orbbylgjan.aac?n=e3c7cf13e264d9d23b47
+#EXTINF:-1,Bylgjan_98.9_Reykjavik
+200 http://icecast.365net.is:8000/orbbylgjan.aac?n=d7592b22ec1f26ec6a7a
+#EXTINF:-1,Flashback_60s_Online_-_Reykjavik
+400 http://radio.is:443/60flashback?n=003b31a5588673a68ee9
+#EXTINF:-1,Flashback_80s_101.5_Reykjavik
+400 http://www.radio.is:443/80flashback?n=989f374e50b6f8f0b1dd
+#EXTINF:-1,Flashback_90s_Online_Reykjavik
+400 http://www.radio.is:443/90flashback?n=e4180bfc1ac79fdc7feb
+#EXTINF:-1,Flashback_91.9_Reykjavik
+400 http://www.radio.is:443/flashback?n=5d9c30c672dd668ba348
+#EXTINF:-1,Flashback_Jól_101.5_Reykjavik
+400 https://ice-11.spilarinn.is/jolaflashback?n=69e72503553af3fda6d7
+#EXTINF:-1,Gull_Bylgjan_90.9_Reykjavik
+200 http://icecast.365net.is:8000/orbGullBylgjan.aac.m3u?n=62acb08237c418fa162e
+#EXTINF:-1,Radio_Bodun_105.5_Reykjavik
+400 http://radio.bodun.is:8000/stream?n=1a71b529fce63d7b83c9
+#EXTINF:-1,Rúv_rás1
+400 http://netradio.ruv.is/ras1.aac.m3u?n=b9aa39c59cc19e2f8d8a
+#EXTINF:-1,Trolli_FM_103.7_Siglufjordu
+200 http://live.trolli.is:8200/?n=e0b4f3abf81a2f813a08
+#EXTINF:-1,Visir_FM_957_Extra_Reykjavik
+200 http://icecast.365net.is:8000/orbFmExtra.aac?n=58443acde961ea944fd0
+#EXTINF:-1,Visir_FM957_95.7_Reykjavik
+200 http://icecast.365net.is:8000/orbFm957.aac.m3u?n=4985bdbd83114dead522
+#EXTINF:-1,X977
+200 http://icecast.365net.is:8000/orbXid.aac.m3u?n=ef0e04b6e9c960dc6eab

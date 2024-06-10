@@ -1,0 +1,44 @@
+#EXTINF:-1,Radio_Aktiv
+400 http://zeus.lrb.lu:8000/stream
+#EXTINF:-1,Radio_Pétange_OnAir
+400 http://stream.petangeonair.lu:9000/live
+#EXTINF:-1,Radio_Gutt_Laun
+200 https://streams.radio.co/sa631ff66a/listen
+#EXTINF:-1,RTL_Radio_Lëtzebuerg
+301 https://shoutcast.rtl.lu/rtl
+#EXTINF:-1,L’Essentiel_Radio
+302 https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
+#EXTINF:-1,Eldoradio
+301 http://shoutcast.rtl.lu/eldo
+#EXTINF:-1,Radio_ARA
+400 https://s1.voscast.com:11187/RadioARA.mp3
+#EXTINF:-1,radio_100,7
+302 http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio_Dudelange
+302 http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
+#EXTINF:-1,Radio_LRB
+400 http://zeus.lrb.lu:8000/lrb.live
+#EXTINF:-1,ROM_FM
+http://rs1.radiostreamer.com:8270/
+#EXTINF:-1,RBV_Luxembourg
+http://radio.rbv.lu:8002/
+#EXTINF:-1,Eldoradio_Alternative
+301 https://eldo-streaming.eldo.lu/radio/eldoalt/playlist.m3u8
+#EXTINF:-1,Eldoradio_Chill
+301 https://eldo-streaming.eldo.lu/radio/eldochill/playlist.m3u8
+#EXTINF:-1,Eldoradio_Top_25
+301 https://eldo-streaming.eldo.lu/radio/eldotop25/playlist.m3u8
+#EXTINF:-1,Eldoradio_80s
+301 https://eldo-streaming.eldo.lu/radio/eldo80s/playlist.m3u8
+#EXTINF:-1,Eldoradio_25_Joer_Chartbreaker
+301 https://eldo-streaming.eldo.lu/radio/eldo25years/playlist.m3u8
+#EXTINF:-1,Free_Radio_Luxembourg_FRL
+302 https://www.radioking.com/play/rfm-luxembourg/137599
+#EXTINF:-1,Radio_100komma7
+302 https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1,RadioARA
+400 http://stream.ara.lu/stream.mp3.pls
+#EXTINF:-1,RTL_Radio_Letzebuerg
+301 http://sc-rtllive.newmedia.lu/
+#EXTINF:-1,EldoRadio_Alternative
+301 https://shoutcast.rtl.lu/eldoalt

@@ -1,0 +1,596 @@
+#EXTINF:-1,Radio_Aktiv
+400 http://zeus.lrb.lu:8000/stream
+#EXTINF:-1,Radio_Pétange_OnAir
+400 http://stream.petangeonair.lu:9000/live
+#EXTINF:-1,Country_Radio_Gilsdorf
+400 http://streaming.aoip.international:8000/cr-gilsdorf
+#EXTINF:-1,Radio_Gutt_Laun
+200 https://streams.radio.co/sa631ff66a/listen
+#EXTINF:-1,RTL
+200 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/index.m3u8
+#EXTINF:-1,RTL_Radio_Lëtzebuerg
+301 https://shoutcast.rtl.lu/rtl
+#EXTINF:-1,L’Essentiel_Radio
+https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
+#EXTINF:-1,Eldoradio
+301 http://shoutcast.rtl.lu/eldo
+#EXTINF:-1,Radio_ARA
+400 https://s1.voscast.com:11187/RadioARA.mp3
+#EXTINF:-1,radio_100,7
+302 http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1,ARA_City_Radio
+400 http://stream.ara.lu/stream.mp3
+#EXTINF:-1,Radio_Dudelange
+200 http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
+#EXTINF:-1,Radio_LRB
+400 http://zeus.lrb.lu:8000/lrb.live
+#EXTINF:-1,ROM_FM
+http://rs1.radiostreamer.com:8270/
+#EXTINF:-1,RBV_Luxembourg
+http://radio.rbv.lu:8002/
+#EXTINF:-1,Eldoradio_Alternative
+301 https://eldo-streaming.eldo.lu/radio/eldoalt/playlist.m3u8
+#EXTINF:-1,Eldoradio_Chill
+301 https://eldo-streaming.eldo.lu/radio/eldochill/playlist.m3u8
+#EXTINF:-1,Eldoradio_Top_25
+301 https://eldo-streaming.eldo.lu/radio/eldotop25/playlist.m3u8
+#EXTINF:-1,Eldoradio_80s
+301 https://eldo-streaming.eldo.lu/radio/eldo80s/playlist.m3u8
+#EXTINF:-1,Eldoradio_25_Joer_Chartbreaker
+301 https://eldo-streaming.eldo.lu/radio/eldo25years/playlist.m3u8
+#EXTINF:-1,Eldo_Radio_Chill
+302 https://stream.rtl.lu/live/hls/radio/eldochill
+#EXTINF:-1,Eldoradio_90's
+http://sc-eldo90s.newmedia.lu/listen.pls
+#EXTINF:-1,Free_Radio_Luxembourg_FRL
+302 https://www.radioking.com/play/rfm-luxembourg/137599
+#EXTINF:-1,Generation_Dance_Radio
+200 http://generationdance.lu:8010/hd
+#EXTINF:-1,Generation_Dance_Radio_(64_Kbps)
+200 http://generationdance.lu:8010/mobile
+#EXTINF:-1,L'Essentiel_Radio
+200 http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
+#EXTINF:-1,Radio_100komma7
+302 https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio_Art_Zone
+400 https://partneraudio.wavefarm.org/radioartzone.mp3
+#EXTINF:-1,Radio_C_Luxembourg
+200 https://edge02.streamonkey.net/radioc-live
+#EXTINF:-1,Rádio_Larochette
+200 https://servidor14.brlogic.com:8150/live
+#EXTINF:-1,Radio_Puls_Luxembourg
+200 https://uk1.listen2myradio.com:2199/listen.php?port=8312\u0026type=s2\u0026mount=/stream
+#EXTINF:-1,RadioARA
+400 http://stream.ara.lu/stream.mp3.pls
+#EXTINF:-1,RTL_Die_besten_Hits_aller_Zeiten
+302 http://stream.rtlradio.de/rtl-de-beste-hits/aac-64
+#EXTINF:-1,RTL_Radio_-_Deutschlands_Hit-Radio
+302 http://stream.rtlradio.de/rtl-de-national/mp3-192/
+#EXTINF:-1,RTL_Radio_-_Die_besten_Hits_aller_Zeiten
+302 http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192
+#EXTINF:-1,RTL_Radio_Letzebuerg
+301 http://sc-rtllive.newmedia.lu/
+#EXTINF:-1,RTL_Schlagerliebe
+302 http://stream.rtlradio.de/schlagerliebe/mp3-192/
+#EXTINF:-1,Radio_2-0-8
+302 https://stream.zeno.fm/3xzaqgvyk2zuv
+#EXTINF:-1,Radio_Mess
+302 https://www.radioking.com/play/radio-mess
+#EXTINF:-1,FCE_Continuo
+302 https://www.radioking.com/play/fce-continuo
+#EXTINF:-1,MUSIC_RADIO_1
+https://carina.streamerr.co:8038/TheLateShow
+#EXTINF:-1,EldoRadio_105_FM
+301 http://eldoradiolive.newmedia.lu:80/stream/1
+#EXTINF:-1,RTL_Radio_Letzebuerg_92.5_FM
+301 http://live.newmedia.lu:80/stream/1
+#EXTINF:-1,EldoRadio_80s
+301 http://shoutcast.rtl.lu/eldo80sstream/1
+#EXTINF:-1,EldoRadio_Alternative
+301 http://shoutcast.rtl.lu/eldoaltstream/1
+#EXTINF:-1,EldoRadio_Chill
+301 http://shoutcast.rtl.lu/eldochillstream/1
+#EXTINF:-1,Crazy_Poisons_Radio
+http://85.25.246.8:20720/
+#EXTINF:-1,Radio_100_Komma
+http://streamserver.100komma7.lu:8000/
+#EXTINF:-1,Jam_Pro_Ambiance_Lounge
+302 http://listen.radionomy.com/JamPRO-AmbianceLounge?type=.mp3
+#EXTINF:-1,Radio_Sympa
+http://www.radiocampusparis.org:8000/stream_rcp/stream.mp3
+#EXTINF:-1,Radio_Tugalux
+http://195.154.176.199:9328/
+#EXTINF:-1,JokeFM
+200 https://rs33.stream24.net/joke-fm.mp3
+#EXTINF:-1,Jam_Pro_Fitness
+302 http://listen.radionomy.com/JamPRO-Fitness?type=.mp3
+#EXTINF:-1,Jam_Pro_Classique
+302 http://listen.radionomy.com/JamPRO-Classique?type=.mp3
+#EXTINF:-1,Jam_Pro_Piano_Bar
+302 http://listen.radionomy.com/JamPRO-PianoBar?type=.mp3
+#EXTINF:-1,Jam_Pro_Parking
+302 http://listen.radionomy.com/JamPRO-Parking?type=.mp3
+#EXTINF:-1,Jam_Pro_Pop_Rock
+302 http://listen.radionomy.com/JamPRO-PopRock?type=.mp3
+#EXTINF:-1,Jam_Pro
+302 http://listen.radionomy.com/JamPRO-WelcomeAsia?type=.mp3
+#EXTINF:-1,Jam_Pro_Fashion
+302 http://listen.radionomy.com/JamPRO-Fashion?type=.mp3
+#EXTINF:-1,Jam_Pro_Jazz
+302 http://listen.radionomy.com/JamPRO-Jazz?type=.mp3
+#EXTINF:-1,Jam_Pro_Soleil
+302 http://listen.radionomy.com/JamPRO-Soleil?type=.mp3
+#EXTINF:-1,RBV_Radio_Belle_Vallee
+http://radio.rbv.lu:8002/stream.mp3
+#EXTINF:-1,Bitter_Sweet_Music_LU
+http://bittersweetmusic.24-7.ro:8520/lu
+#EXTINF:-1,Jam_Pro_Electronica
+302 http://listen.radionomy.com/JamPRO-Electronica?type=.mp3
+#EXTINF:-1,Radio_Lusa
+http://95.217.75.38:9286/
+#EXTINF:-1,RTL_Radio
+200 https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113?sABC=6002ns7s%230%2339845qns2n74309493on2n0734q787rq%23xbafbyr&ampcontext=fHA6LTE=&ampamsparams=playerid:konsoleskey:1610788735
+#EXTINF:-1,Helix_Radio
+401 http://51.255.235.165:5164/
+#EXTINF:-1,Radio_Latina_Lu
+200 https://ice.creacast.com/radio-latina-lu-mp3
+#EXTINF:-1,Radio_100.7
+http://213.166.52.107:8000
+#EXTINF:-1,RTL_Radio_lu
+301 http://sc-rtllive.newmedia.lu/stream.mp3
+#EXTINF:-1,Jam_Pro_Rhythm
+302 http://listen.radionomy.com/JamPRO-Rhythm?type=.mp3
+#EXTINF:-1,Jam_Pro_Hot_Rock
+302 http://listen.radionomy.com/JamPRO-HotRock?type=.mp3
+#EXTINF:-1,Jam_Pro_Zen
+302 http://listen.radionomy.com/JamPRO-Zen?type=.mp3
+#EXTINF:-1,Jam_Pro_Experience
+302 http://listen.radionomy.com/JamPRO-Experience?type=.mp3
+#EXTINF:-1,RemixColor
+http://137.74.193.0:8000/Title1=RemixColorLength1=-1Version=2
+#EXTINF:-1,Radio_Cents
+200 http://onairradio.dyndns.org:8000/live
+#EXTINF:-1,Jam_Pro_Trendy_Soft
+302 http://listen.radionomy.com/JamPRO-TrendySoft?type=.mp3
+#EXTINF:-1,Lusitana_106.1_FM
+404 https://10.stmip.net/player_mp3.php?porta=10582
+#EXTINF:-1,Radio_Classique_Bergem
+http://rcb.zapto.org:8000/mp3?type=.mp3
+#EXTINF:-1,Jam_Pro_Romantique
+302 http://listen.radionomy.com/JamPRO-Romantique?type=.mp3
+#EXTINF:-1,Rom_106_FM
+http://rs1.radiostreamer.com:8270/stream.mp3
+#EXTINF:-1,ROM_106.5_FM
+301 http://shoutcast.rtl.lu/eldochill/stream.mp3
+#EXTINF:-1,Vivacite_Luxembourg
+404 http://vivaciteluxembourg.ice.rtbf.be/vivalux-64.aac/stream.mp3
+#EXTINF:-1,Eldoradio_90s
+https://sc-eldo90s.newmedia.lu/
+#EXTINF:-1,AIR_FM_24
+http://stream.airfm24.lu:8000/airfm24.mp3?1520680245523
+#EXTINF:-1,Antena_Mais
+404 https://www.evsportugal.com/antenamais/player.php/mp3
+#EXTINF:-1,Antenne_Luxemburg
+http://streamplus52.leonex.de:11376/&type=mp3
+#EXTINF:-1,Free_Radio_Luxembourg
+200 https://listen.radioking.com/radio/66160/stream/137599
+#EXTINF:-1,Ni_Haody
+200 https://nihaody.stream.laut.fm/ni_haody?t302=2018-04-05_11-52-53&uuid=10350c4f-cfb2-42c9-82dd-4d1cbbd58714
+#EXTINF:-1,Panachee
+302 https://stream.laut.fm/panachee
+#EXTINF:-1,Radio_1007_FM
+https://100komma7-ice-edge-1105-fra-eco-cdn.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio_Classique
+https://radioclassique.ice.infomaniak.ch/radioclassique-low.mp3
+#EXTINF:-1,Radio_Diddeleng
+https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
+#EXTINF:-1,Radio_Latina
+http://broadcast.infomaniak.net:80/start-latina-high.mp3?type=.mp3
+#EXTINF:-1,Radio_Lux
+302 https://stream.laut.fm/lux
+#EXTINF:-1,Radio_Northsea
+200 http://radionorthsea.zapto.org:8008/
+#EXTINF:-1,Radio_Puls
+http://82.145.43.92:8312/stream?type=.mp3/stream.mp3
+#EXTINF:-1,RadioPuls
+http://82.145.43.92:8312/stream
+#EXTINF:-1,Reddrockradio
+302 https://stream.laut.fm/reddrock
+#EXTINF:-1,RTL_Luxembourg
+301 http://81.92.238.32/
+#EXTINF:-1,EldoRadio_80s_Listen_live
+301 https://shoutcast.rtl.lu/eldo80s
+#EXTINF:-1,FRL_-_Free_Radio_Luxembourg_Listen_live
+200 https://listen.radioking.com/radio/66160/stream/103807
+#EXTINF:-1,RTL_-_Deutschlands_Hit-Radio_Listen_live
+200 https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113
+#EXTINF:-1,RTL_Gold_Listen_live
+301 https://shoutcast.rtl.lu/rtlgold
+#EXTINF:-1,RTL_Radio_-_Die_besten_Hits_aller_Zeiten_Listen_live
+200 https://rtlberlin.streamabc.net/rtlb-rtldebestehits-mp3-128-7346216
+#EXTINF:-1,RTL_Radio_-_DSDS_Radio_Listen_live
+200 https://rtlberlin.streamabc.net/rtlb-dsds-mp3-128-4250633
+#EXTINF:-1,RTL_Radio_-_Greatest_Hits_Listen_live
+200 https://rtlberlin.streamabc.net/rtlb-rtlxmsgreath-mp3-128-5365238
+#EXTINF:-1,RTL_Radio_-_Neue_Hits_Listen_live
+200 https://rtlberlin.streamabc.net/rtlb-rtlxmsneueh-mp3-128-5778248
+#EXTINF:-1,RTL_Radio_-_Party_Listen_live
+500 https://rtlberlin.streamabc.net/rtlb-rtlparty2-mp3-128-1083450
+#EXTINF:-1,RTL_Radio_-_Rock_Hits_Listen_live
+200 https://rtlberlin.streamabc.net/rtlb-rtlxmsrockh-mp3-128-7769357
+#EXTINF:-1,Beans_Fm_Listen_live
+302 https://stream.laut.fm/beans
+#EXTINF:-1,Africa_Business_Radio_Listen_live
+https://africabusinessradio.out.airtime.pro/africabusinessradio_a
+#EXTINF:-1,Rdmix_70's_Golden_Hits_Listen_live
+502 https://maggie.torontocast.com:2020/stream/rdmix70sgoldenhits
+#EXTINF:-1,RTL_Radio_-_TOGGO_Radio_Listen_live
+200 https://superrtl.streamabc.net/srtl-toggo-mp3-128-6356726
+#EXTINF:-1,RTL_Radio_-_UKW_93.3_&_97.0_Listen_live
+200 https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218
+#EXTINF:-1,RTL_Radio_-_Weihnachtsradio_Listen_live
+500 https://rtlberlin.streamabc.net/rtlb-rtldeuevent01-mp3-128-3453739
+#EXTINF:-1,Radio_Family_90.7FM_Listen_live
+200 https://stream.pinedahost.com/radio/8050/
+#EXTINF:-1,Rádio_Paiquerê_Listen_live
+https://player-ssl.kshost.com.br:9652/live
+#EXTINF:-1,RTV_Roermond_Listen_live
+400 https://ms5ic.mx-cd.net/204-1147050/3ML_Radio
+#EXTINF:-1,Hot_Hits_UK_Listen_live
+200 https://443-1.autopo.st/54/stream.mp3
+#EXTINF:-1,Calypo_FM_Listen_live
+200 https://streaming.radio.co/s729d2502c/listen
+#EXTINF:-1,Radio_San_José_Matiguas_107.7_Listen_live
+302 https://stream.zeno.fm/33hu8323ahruv
+#EXTINF:-1,Radio_Mbox_-_Kanał_Główny_Listen_live
+200 https://panel.radiombox.pl/radio/8000/RadioMbox256
+#EXTINF:-1,DJFM_Ukraine_Listen_live
+400 https://cast.fex.net/djfm_l
+#EXTINF:-1,trickster_Real_Music_Listen_live
+302 https://stream.laut.fm/trickster?ref=radiode
+#EXTINF:-1,100%_Best_of_2020_-_SchlagerPlanet_Listen_live
+https://schlagerplanet.hoerradar.de/schlagerplanet-best16-mp3-hq
+#EXTINF:-1,RTL_Deutschlands_Hit-Radio
+301 https://shoutcast.rtl.lu/eldochill
+#EXTINF:-1,RTL_–_Weihnachtsradio
+302 https://stream.104.6rtl.com/rtl-event/mp3-128/radiovolna/
+#EXTINF:-1,Gutt_Laun
+301 https://shoutcast.rtl.lu/eldoalt
+#EXTINF:-1,EldoRadio_Top_25
+301 https://shoutcast.rtl.lu/eldotop25
+#EXTINF:-1,EldoRadio_25_Joer_Chartbreaker
+301 https://shoutcast.rtl.lu/eldo25years
+#EXTINF:-1,EldoRadio_90s
+301 https://shoutcast.rtl.lu/eldo90s
+#EXTINF:-1,laut.fm_/_ni_haody
+200 https://nihaody.stream.laut.fm/ni_haody?t302=2020-04-23_06-21-56&uuid=6ecf679b-b7ea-4011-a107-561a73a8d546
+#EXTINF:-1,EldoRadio
+301 https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8
+#EXTINF:-1,Radio_ROM_106.5_FM
+http://213.166.52.107:8000/
+#EXTINF:-1,InTheMix_Radio
+http://cty.gocaster.net:8000/kfm_web
+#EXTINF:-1,RFM_Luxembourg
+302 http://listen.radionomy.com/rfmluxembourgagain
+#EXTINF:-1,F.G.L_Free_Radio_Luxmbourg
+http://213.222.25.84:8326/stream
+#EXTINF:-1,Liquid_FM_Radio
+https://br-br1-obb.sslcast.addradio.de/br/br1/obb/mp3/128/stream.mp3
+#EXTINF:-1,Radio_Larochette
+_https://servidor14.brlogic.com:8150/live
+#EXTINF:-1,Radio_Luxembourg_208
+200 https://cdn-embed.tunein.com/resources/media/blank.mp3
+#EXTINF:-1,Radio_Rosengarten
+404 http://edge67.streamonkey.net/radiorosengarten-live
+#EXTINF:-1,ROM_101.5_FM
+http://213.135.228.157:8000/mp3/
+#EXTINF:-1,Groovetime
+400 http://icecast.kotdt.com:8000/groovetime
+#EXTINF:-1,Free_Radio_Luxembourg_(FRL)
+405 http://www.radioking.com/play/rfm-luxembourg
+#EXTINF:-1,RetroSonic_Grooves
+http://rsra.net:8000/grooveshd.mp3
+#EXTINF:-1,RetroSonic_Mix
+https://rsra.net:8000/mix.mp3
+#EXTINF:-1,Eldoradio_-_80s
+301 http://81.92.238.33:80/
+#EXTINF:-1,Radio_C
+302 https://frontend.streamonkey.net/radioc-live
+#EXTINF:-1,RetroSonic_Alternative
+http://rsra.net:8000/alternative.mp3
+#EXTINF:-1,Bulldogs-Radio
+200 http://us4.internet-radio.com:8062/stream
+#EXTINF:-1,Nordsjællands_Kristne_Radio
+http://85.218.174.184:8000/
+#EXTINF:-1,EldoRadio_-_25_Joer_Chartbreaker
+http://sc-eldo25years.eldo.lu/
+#EXTINF:-1,EldoRadio_-_Top_25
+http://sc-eldotop25.eldo.lu/
+#EXTINF:-1,Eros_Radio
+http://stream.webradio.bz:8000/erosradio
+#EXTINF:-1,FRL-Free_Radio_Luxembourg
+200 http://listen.radioking.com/radio/66160/stream/103807
+#EXTINF:-1,Lux_laut.fm
+200 http://lux.stream.laut.fm/lux?ref=vtuner
+#EXTINF:-1,Panachee_laut.fm
+200 http://panachee.stream.laut.fm/panachee?ref=vtuner
+#EXTINF:-1,Radio_100.7_FM
+302 http://stream2.100komma7.lu/100komma7/live/mp3/320/stream.mp3
+#EXTINF:-1,Radio_Dudelange_103.6_FM
+200 http://streams.radio.co/sa631ff66a/listen
+#EXTINF:-1,Radio_Latina_101.2_FM
+http://stream.latinaplayer.wort.lu:9443/stream
+#EXTINF:-1,Radio_MCJ
+http://207.180.239.211:9300
+#EXTINF:-1,Radio_Opus_Classical
+http://retrosonic.pp.ua:8020/rohd.mp3
+#EXTINF:-1,RBV_107.0_FM
+http://radio.rbv.lu:8002
+#EXTINF:-1,REDDROCKRADIO
+302 http://stream.laut.fm/reddrock
+#EXTINF:-1,RTL_Radio_-_Deutschlands_Hit-Radio_93.3_-_97.0
+302 http://stream.rtlradio.de/rtl-de-ukw/mp3-128/vtuner/
+#EXTINF:-1,RTL_Radio_-_Weihnachtsradio
+http://rtldtl.hoerradar.de/rtldtl-event01-mp3-128
+#EXTINF:-1,Radio_Luxembourg_Memories
+302 https://stream.zeno.fm/3384cgvyk2zuv
+#EXTINF:-1,Progressive_FM
+302 https://stream.zeno.fm/6vu8pug96ehvv
+#EXTINF:-1,Progressive_Melodic
+302 https://stream.zeno.fm/oay7sq2bs4luv
+#EXTINF:-1,RADIO4AMIGOS
+302 https://stream.zeno.fm/7r6rfa1nhuquv
+#EXTINF:-1,Larochete_portuguesa
+302 https://stream.zeno.fm/f86z8d5z71zuv
+#EXTINF:-1,RPRodange_Luxemburgo
+302 https://stream.zeno.fm/fz6eymkn268uv
+#EXTINF:-1,Larochete_romantic
+302 https://stream.zeno.fm/8pxzmwraf2zuv
+#EXTINF:-1,Radio_Libre_-_Luxembourg
+302 https://stream.zeno.fm/7wztreh00a0uv
+#EXTINF:-1,CRISTO_VEM_RADIO_WEB
+302 https://stream.zeno.fm/cdr919uc038uv
+#EXTINF:-1,CCMI_LUX
+302 https://stream.zeno.fm/2p8kkvqvrnhvv
+#EXTINF:-1,Larochete_Dance_Music
+302 https://stream.zeno.fm/d442wm4qq7zuv
+#EXTINF:-1,Beatz_Radio
+302 https://stream.zeno.fm/3cwz3namqd0uv
+#EXTINF:-1,Larochete__Music
+302 https://stream.zeno.fm/v498rgpb51zuv
+#EXTINF:-1,Larochete_Mundo_das_Fantasias
+302 https://stream.zeno.fm/k1mq3500kg8uv
+#EXTINF:-1,Larochete_Christmas_Radio
+302 https://stream.zeno.fm/uhdqcq2c1d0uv
+#EXTINF:-1,HTTP//.radio_jose_pedro.com
+302 https://stream.zeno.fm/fy4trmky2a0uv
+#EXTINF:-1,HIGH_FM
+302 https://stream.zeno.fm/khp9ex0pc0hvv
+#EXTINF:-1,VHS_Radio
+302 https://stream.zeno.fm/nd8vhah3q98uv
+#EXTINF:-1,Radio_UMPLux
+302 https://stream.zeno.fm/fv45b0ef7f0uv
+#EXTINF:-1,النبأ_العظيم
+302 https://stream.zeno.fm/tmq331bf0k8uv
+#EXTINF:-1,RADIOFAYL
+302 https://stream.zeno.fm/eneaaq1z9lauv
+#EXTINF:-1,Diddeleng
+302 https://stream.zeno.fm/vzktm30uvs8uv
+#EXTINF:-1,Radio_Trance_Passion_|_Luxemburg
+302 https://stream.zeno.fm/n18anfff6f8uv
+#EXTINF:-1,Nostalgia_FM
+302 https://stream.zeno.fm/y9xpgduv6whvv
+#EXTINF:-1,mourizradio
+302 https://stream.zeno.fm/smdta52w9vzuv
+#EXTINF:-1,StandAndDeliver
+302 https://stream.zeno.fm/us8dpsfqe5zuv
+#EXTINF:-1,Ridvan_-_راديو_مناجات
+302 https://stream.zeno.fm/twrgy7tf0k8uv
+#EXTINF:-1,Kirchberg_FM
+302 https://stream.zeno.fm/hg43ee0bfwzuv
+#EXTINF:-1,radio_lusa
+302 https://stream.zeno.fm/qhm6mggqbc9uv
+#EXTINF:-1,European_Council_for_Accreditation_in_Healthcare
+302 https://stream.zeno.fm/y4ez7240zf9uv
+#EXTINF:-1,Rap_station_FM
+302 https://stream.zeno.fm/ftqetq3mr0hvv
+#EXTINF:-1,XPLX_Radio
+302 https://stream.zeno.fm/henyy5pwgkhvv
+#EXTINF:-1,ECFAH_LATINOAMERICA
+302 https://stream.zeno.fm/txpw5sn1zf9uv
+#EXTINF:-1,RustPhonk
+302 https://stream.zeno.fm/k8gfsxxnh48uv
+#EXTINF:-1,Npt_ykn_doggs
+302 https://stream.zeno.fm/c7two9eqxbluv
+#EXTINF:-1,19-20_TIKTOK_FM
+302 https://stream.zeno.fm/df9pkfqpc0hvv
+#EXTINF:-1,LONDON_-__Unknow_Station
+302 https://stream.zeno.fm/hokcrlp8tmitv
+#EXTINF:-1,WebRadio_IBM
+302 https://stream.zeno.fm/mwtar7xko06uv
+#EXTINF:-1,Ice_and_Fire
+302 https://stream.zeno.fm/glhsnmgzgf4vv
+#EXTINF:-1,EldoRadio_105.0_FM,_Luxembourg
+301 http://eldoradiolive.newmedia.lu:80/
+#EXTINF:-1,Eros_Radio_Europe
+200 http://51.255.235.165:5164/stream/
+#EXTINF:-1,L’essentiel_Radio
+http://62.107.199.133:8000/
+#EXTINF:-1,Radio_Hajer
+http://s3.slotex.pl:7648/
+#EXTINF:-1,RetroSonic_Rock
+https://rsra.net:8070/rock.mp3
+#EXTINF:-1,RetroSonic_100%_Greatest_70s_80s
+https://rsra.net:8060/hits.mp3
+#EXTINF:-1,Radio_Aktiv_106,5_-_Echternach
+403 https://www.liveradio.es/http://zeus.lrb.lu:8000/stream
+#EXTINF:-1,RTL_Radio_-_Luxembourg
+403 https://www.liveradio.es/http://sc-rtllive.newmedia.lu:80/stream/1
+#EXTINF:-1,EldoRadio_80s_-_Luxembourg
+403 https://www.liveradio.es/http://81.92.238.33:80/
+#EXTINF:-1,EldoRadio_Chill_-_Luxembourg
+403 https://www.liveradio.es/http://sc-chill.eldoradio.lu:80/stream/1
+#EXTINF:-1,Radio_100,7
+302 https://stream.100komma7.lu/100komma7/live/mp3/320/stream.mp3
+#EXTINF:-1,Eldoradio_Alternative-Channel
+http://eldowebradio1.newmedia.lu/
+#EXTINF:-1,7FM_Luxembourg
+200 http://7fm.ice.infomaniak.ch/radio7fm-192.aac
+#EXTINF:-1,Crazy_Poisons_Radio_International
+200 http://server4.streamserver24.com:26607
+#EXTINF:-1,dimension_live
+200 https://stream2.svrdedicado.org/8182/stream
+#EXTINF:-1,EldoRadio_Live
+301 http://eldoradiolive.newmedia.lu:/
+#EXTINF:-1,Lessentiel_Radio
+302 https://stream.laut.fm/ni_haody
+#EXTINF:-1,opus_100,7
+302 https://stream.opus.radio/100komma7/opus/mp3/320/stream.mp3?ar-distributor=f0b0
+#EXTINF:-1,Radio_Ara
+200 http://onairradio.dyndns.org:8000/stream.nsv
+#EXTINF:-1,Radio_Jeansgeneration
+200 https://listen.radioking.com/radio/301645/stream/348328
+#EXTINF:-1,Rádio_Larochete
+200 https://lux.stream.laut.fm/lux?
+#EXTINF:-1,Radio_Luxembourg
+200 http://s8.mediastreaming.it:7050
+#EXTINF:-1,Dream_Stream
+301 http://listento.dreamstream.mobi/hits.mp3
+#EXTINF:-1,Jam_Pro_Tour_du_Monde
+302 http://listen.radionomy.com/JamPRO-TourduMonde
+#EXTINF:-1,Jam_Pro_Groove_and_Dance_Pop
+302 http://listen.radionomy.com/JamPRO-Groove-DancePop
+#EXTINF:-1,Radio_Larochete
+302 https://node-31.zeno.fm/4gcku833wwzuv?1596944685451=&amprj-tok=AAABc9FbS7kAuOyRuiC0tVAFqw&amprj-ttl=5
+#EXTINF:-1,RTL_Deutschlands_Hit-Radio_93.3_-_97.0
+301 https://shoutcast.rtl.lu/eldo/
+#EXTINF:-1,Radio_Rujnica
+200 https://r.name.ba:7115/stream.mp3
+#EXTINF:-1,EldoRadio_80's
+http://eldowebradio3.newmedia.lu/
+#EXTINF:-1,Eldoradio_Chill-Channel
+http://sc-chill.eldoradio.lu:80/
+#EXTINF:-1,ROM
+http://173.208.193.66:9998/
+#EXTINF:-1,F.R.L._Free_Radio_Luxembourg
+http://sc-eldo90s.newmedia.lu
+#EXTINF:-1,RADIO_20.21
+200 https://sonic.servsonic.com/8020/stream
+#EXTINF:-1,Top_Dance_Radio
+200 https://generationdance.lu/radio/8030/hd
+#EXTINF:-1,L'essentiel_Radio_
+302 https://stream.rtlradio.de/rtl-de-event01/aac-64/RadioDE/
+#EXTINF:-1,RTL_-_Die_besten_Hits_aller_Zeiten
+302 https://stream.rtlradio.de/rtl-de-beste-hits/aac-64/RadioDE/
+#EXTINF:-1,ASBL_Crazy_Poisons_Radio_International
+https://server4.streamserver24.com:8080/proxy/crazypoi?mp=/stream
+#EXTINF:-1,RTL_-_Deutschlands_Hit-Radio
+302 https://stream.rtlradio.de/rtl-de-national/aac-64/RadioDE/
+#EXTINF:-1,RTL_–_Deutschlands_Hit-Radio_93.3_–_97.0
+302 https://stream.rtlradio.de/rtl-de-ukw/aac-64/RadioDE/
+#EXTINF:-1,Radio_ARA_
+400 https://stream.ara.lu/stream.mp3
+#EXTINF:-1,RTBF_VivaCité_Luxembourg_–_Bouillon_–_Wallonia_–_LU
+302 https://radio.rtbf.be/viva-lux/mp3-160/mt
+#EXTINF:-1,RBV_–_Radio_Belle_Vallée_–_Belvaux_–_Luxembourg_–_LU
+http://radio.rbv.lu/
+#EXTINF:-1,Progressive_FM_–_Luxembourg_–_LU
+302 http://stream.zeno.fm/xxmfpdaa7ehvv
+#EXTINF:-1,Radio_Gutt_Laun_–_Esch-sur-Alzette_–_Luxembourg_–_LU
+http://rgl.selfip.net:8000
+#EXTINF:-1,Radio_100,7_–_1007_AM_–_Luxembourg_–_LU
+302 http://stream2.100komma7.lu/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio_LNW_–_Wiltz_–_LU-D
+http://freeuk21.listen2myradio.com:32866/
+#EXTINF:-1,RTL_Gold_–_Luxembourg_–_LU
+301 https://rtlradio-streaming.rtl.lu/radio/rtlgold/aac_256k.m3u8
+#EXTINF:-1,Eldoradio_–_Top_25_Channel_–_Luxembourg_–_LU
+http://sc-eldotop25.newmedia.lu/
+#EXTINF:-1,Positiva_LUX_WEB_–_Luxembourg_–_LU
+http://213.239.218.99:7134/
+#EXTINF:-1,Radio_C_Luxembourg_–_Kehlen_–_Luxembourg_–_LU
+302 https://frontend.streamonkey.net/radioc-live?aggregator=mytuner
+#EXTINF:-1,Radio_Diddeleng_103.6_–_103.6_FM_–_Dudelange_–_Luxembourg_–_LU
+404 https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3?ua=Infomaniak+Flash+Player+v2
+#EXTINF:-1,Antena_Mais_–_Esch-sur-Alzette_–_Luxembourg_–_LU
+http://95.217.75.38:9394/stream
+#EXTINF:-1,Radio_Rosengarten_–_LU
+302 http://frontend.streamonkey.net/radiorosengarten-live
+#EXTINF:-1,Rádio_Larochete_–_Luxembourg_–_LU
+302 https://stream.zeno.fm/4gcku833wwzuv
+#EXTINF:-1,RTL_LX_–_Luxembourg_–_LU
+301 https://rtlradio-streaming.rtl.lu/radio/rtllx/aac_256k.m3u8
+#EXTINF:-1,Progressive_Melodic_–_Esch-sur-Alzette_–_Luxembourg_–_LU
+302 http://stream.zeno.fm/hlhchsujcoyuv
+#EXTINF:-1,Radio_ARA_–_Luxembourg_–_LU
+400 https://stream.ara.lu/stream.mp3.pls
+#EXTINF:-1,RTL_Today_Radio_–_Luxembourg_–_LU
+302 https://stream.rtl.lu/live/hls/radio/rtltodayradio
+#EXTINF:-1,Eldoradio_–_Chill_–_Luxembourg_–_LU
+http://sc-chill.eldoradio.lu/listen.pls
+#EXTINF:-1,Eldoradio_–_Alternative_–_Luxembourg_–_LU
+http://sc-alternative.eldoradio.lu/listen.pls
+#EXTINF:-1,Eldoradio_–_80’s_Channel_–_Luxembourg_–_LU
+http://sc-80s.eldoradio.lu/listen.pls
+#EXTINF:-1,RTL_Radio_93.3_–_93.3_FM_–_Dudelange_–_Luxembourg_–_LU
+200 http://grundig.radiosetup.com/pls/pls32004.m3u
+#EXTINF:-1,Eldoradio_radio
+301 https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/720p.m3u8
+#EXTINF:-1,Radio_100.7_FM_radio
+302 https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio_Belle_Vallée_radio
+https://shoutcast.datateam.center/index.html
+#EXTINF:-1,RadioPuls_radio
+200 https://cmr-hosting.com/8312/stream
+#EXTINF:-1,RetroSonic_Alternative_radio
+200 https://retrosonic.online:8030/alternative.mp3
+#EXTINF:-1,RetroSonic_Grooves_radio
+200 https://retrosonic.online:8010/grooves.mp3
+#EXTINF:-1,RetroSonic_Hits_radio
+200 https://retrosonic.online:8060/hits.mp3
+#EXTINF:-1,Antena_Mais_radio
+200 https://sp0.redeaudio.com/8084/stream
+#EXTINF:-1,Rádio_Larochete_radio
+302 https://stream.zeno.fm/b584n833wwzuv
+#EXTINF:-1,RetroSonic_Rock_radio
+200 https://retrosonic.online:8070/rock.mp3
+#EXTINF:-1,FCE_Continuo_radio
+200 https://listen.radioking.com/radio/551009/stream/610262
+#EXTINF:-1,Radio_Cor_Dos_Teus_Olhos_radio
+200 https://sslradio.servsonic.com/8008/stream
+#EXTINF:-1,Ràdio_Rmg_radio
+301 https://mixlr.com/r%C3%A1dio-rmg-loc/
+#EXTINF:-1,RadioPortugalPeloMundo_radio
+404 https://streamssl.hospedandosites.com.br/sc_rmp.php/
+#EXTINF:-1,Bitter_Sweet_Music_LU_radio
+http://91.121.236.34:8520/lu
+#EXTINF:-1,ROM_106.5_FM_radio
+http://rs1.radiostreamer.com:8270/stream.nsv
+#EXTINF:-1,Radio_Ara_radio
+400 http://s1.voscast.com:11186/RadioARA.mp3
+#EXTINF:-1,Radio_Sympa_radio
+http://www.radiocampusparis.org:8000/stream_rcp
+#EXTINF:-1,Radio_MCJ_radio
+http://207.180.239.211:9300/
+#EXTINF:-1,RadioPortugalPeloMundo,_Luxembourg_radio
+200 http://s2.stmxp.net:7252/
+#EXTINF:-1,Radio_Lusitana_radio
+https://11.stmip.net:8404/stream
+#EXTINF:-1,RADIO_CLASSIQUE_BERGEM
+http://rcb.zapto.org:8000/mp3
+#EXTINF:-1,Radio_R.O.M.
+302 http://stream.rtlradio.de/rtl-de-ukw/aac-64/RadioDE/
+#EXTINF:-1,Eldoradio_Luxemburg
+/urlParser?l=http%3A%2F%2Feldoradiolive.newmedia.lu%2Flisten.pls
+#EXTINF:-1,RTL_Luxemburg
+301 http://81.92.238.32/stream/1/
+#EXTINF:-1,party-beats-radio
+http://party-beats-radio.com:8000/
+#EXTINF:-1,RemixColor_
+http://137.74.193.0:8000/stream
+#EXTINF:-1,Generation_Dance
+302 http://stream.rtlradio.de/rtl-de-beste-hits/aac-64/RadioDE/
+#EXTINF:-1,Radio_Belle_Vallée
+302 http://stream.rtlradio.de/rtl-de-national/aac-64/RadioDE/
+#EXTINF:-1,ni_haody
+302 https://stream.laut.fm/ni_haody?ref=radiode

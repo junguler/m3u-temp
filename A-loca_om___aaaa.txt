@@ -1,0 +1,46 @@
+#EXTINF:-1,Oman_radio_(الإذاعة_العامة)
+https://partne.cdn.mangomolo.com/omanrdoorg/omanrdo.stream_aac/playlist.m3u8
+#EXTINF:-1,Virgin_Radio_Oman
+200 http://uk5.internet-radio.com:8115/stream
+#EXTINF:-1,Al_Wisal_96.5_(الوصال)
+200 http://uk7.internet-radio.com:8067/stream?icy=http
+#EXTINF:-1,Hala_FM_(هلا)
+http://s8.viastreaming.net:7850/
+#EXTINF:-1,Shabiba_FM
+401 http://stream.shabiba.fm:8000/
+#EXTINF:-1,Hi_FM_Oman_-_(هاي_إف_إم_عمان)
+http://s8.viastreaming.net:7840/
+#EXTINF:-1,Merge_104.8
+200 http://uk7.internet-radio.com:8040/stream?icy=http
+#EXTINF:-1,Muscat_FM_(مسقط_اف_ام)
+http://rss-streaming.co.uk:8022/mp3
+#EXTINF:-1,T_FM_-_Let's_Talk
+521 https://cors.bitwize.com.lb/http:/stream.timesofoman.fm:8028/
+#EXTINF:-1,PSO_Radio
+https://s2.radio.co/sdef478cd2/listen
+#EXTINF:-1,Rainbow_Gospel_Radio
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC047_SC
+#EXTINF:-1,Radio_Chaska_Oman
+http://qururm.ddns.net:8000/radio.mp3
+#EXTINF:-1,Al-Shabab_Channel_(Oman_Youth)
+http://38.96.148.30:1935/live/youth/playlist.m3u8
+#EXTINF:-1,HI_HITS_-_THE_90'S
+http://5.63.145.172:7162/
+#EXTINF:-1,Radio_Al-Salam
+http://37.59.32.115:5117/
+#EXTINF:-1,BBC_Xtra
+404 http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08nw8fr.mp3
+#EXTINF:-1,90.4_FM___الإذاعة-الإنجليزية
+200 https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8?n=6c3c7a76422af229d00f
+#EXTINF:-1,Al_Wisal
+200 http://uk7.internet-radio.com:8067/?n=2c72eaa786d324386bcf
+#EXTINF:-1,Hala_FM
+200 https://listen-halafm.sharp-stream.com/halafmlow.mp3?n=e87e5de61aee019549a4
+#EXTINF:-1,Hi_FM_Oman_
+200 http://listen-hifmtemp.sharp-stream.com/hifmmid.mp3?n=394038b3b45620e4aadb
+#EXTINF:-1,Merge
+200 http://uk7.internet-radio.com:8040/?n=918ab979053f96e619af
+#EXTINF:-1,Quran_Program_Oman___إذاعة-القرآن-الكريم
+200 https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8?n=749465ee87400fc1d929
+#EXTINF:-1,Radio_Chaska_Omn
+200 http://qurum.ddns.net:8000/radio.mp3?n=03f9ac41202341513961

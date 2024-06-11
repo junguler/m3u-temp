@@ -1,0 +1,136 @@
+#EXTINF:-1,Arirang_FM
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b528000_sleng.m3u8
+#EXTINF:-1,Arirang_TV
+200 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,befm
+200 http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8
+#EXTINF:-1,Big_B_Radio_-_Kpop
+https://antares.dribbcast.com/proxy/kpop?mp=/s
+#EXTINF:-1,BOX_:_K-POP_케이팝
+301 https://play.streamafrica.net/kpopradio
+#EXTINF:-1,Buddhist_Broadcasting_System_TV
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1,Buddhist_True_Network_TV
+http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+#EXTINF:-1,CBS__표쥰_FM_98.1MHz
+200 http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1,cbs_music
+200 http://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1,CBS_Music_FM
+http://serpent0.duckdns.org:8088/cbsfm.pls
+#EXTINF:-1,CBS_Music_FM_Radio
+200 http://aac.cbs.co.kr:1935/cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1,CPBC_TV
+200 http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8
+#EXTINF:-1,EBS_FM_Radio
+http://ebsonair.flive.skcdn.com/fmradiofamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS_i_Radio
+http://new_iradio.ebs.co.kr/iradio/iradiolive_m4a/playlist.m3u8
+#EXTINF:-1,ebs_tune_in
+200 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS_TV-1
+200 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS_TV-2
+200 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS_TV-e
+200 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS_TV-i
+200 http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS_TV-Kids
+200 http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS_TV-Plus_2
+200 http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,eTBS
+200 http://58.234.158.60:1935/efmlive/myStream/playlist.m3u8
+#EXTINF:-1,FM_95.1_TBS_fm
+200 http://58.234.158.60:1935/fmlive/myStream/playlist.m3u8
+#EXTINF:-1,Fred_Film_Radio(한국어)
+https://s10.webradio-hosting.com/proxy/fredradiokr/stream
+#EXTINF:-1,GugakFM
+https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8
+#EXTINF:-1,gukak
+200 http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
+#EXTINF:-1,Gukak_TV
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,Gwangju_Foreign_Language_Network_98.7_-_English
+http://218.157.19.198:8000/
+#EXTINF:-1,Happyday_Newage_Radio_EZ
+200 http://inewage.com/listen.pls
+#EXTINF:-1,http://211.221.46.79:1935/live/mp4:BusanMBC.Live-FM-0415/playlist.m3u8
+200 http://211.221.46.79:1935/live/mp4:BusanMBC.Live-FM-0415/playlist.m3u8
+#EXTINF:-1,JTV_매직FM
+https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u8
+#EXTINF:-1,KBS_1R
+http://serpent0.duckdns.org:8088/kbs1radio.pls
+#EXTINF:-1,KBS_1Radio
+http://serpent0.duckdns.org:8088/kbs2radio.pls
+#EXTINF:-1,KBS_Classic_FM
+http://serpent0.duckdns.org:8088/kbsfm.pls
+#EXTINF:-1,KBS_Cool_FM
+http://serpent0.duckdns.org:8088/kbs2fm.pls
+#EXTINF:-1,KBS_World_Arabic_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00001/playlist.m3u8
+#EXTINF:-1,KBS_World_Chinese_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00002/playlist.m3u8
+#EXTINF:-1,KBS_World_French_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00004/playlist.m3u8
+#EXTINF:-1,KBS_World_German_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00005/playlist.m3u8
+#EXTINF:-1,KBS_World_Japanese_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00007/playlist.m3u8
+#EXTINF:-1,KBS_World_Russian_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00009/playlist.m3u8
+#EXTINF:-1,KBS_World_Spanish_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00010/playlist.m3u8
+#EXTINF:-1,KBS_World_TV
+200 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF:-1,KBS_World_Vietnamese_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00011/playlist.m3u8
+#EXTINF:-1,KNN부산_Power_FM
+http://211.220.195.200:1935/live/mp4:KnnRadio1FM.sdp/playlist.m3u8
+#EXTINF:-1,Korea_Work_TV
+200 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1,Listen.moe_(K-Pop)
+200 https://listen.moe/kpop/fallback
+#EXTINF:-1,Listen.moe_Kpop
+200 https://listen.moe/kpop/stream
+#EXTINF:-1,MBC_FM
+http://serpent0.duckdns.org:8088/mbcsfm.pls
+#EXTINF:-1,MBC_FM4U
+http://serpent0.duckdns.org:8088/mbcfm.pls
+#EXTINF:-1,MBC충북_FM4U
+200 http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8
+#EXTINF:-1,MBC충북_표준FM
+200 http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8
+#EXTINF:-1,Oldpop_Cafe
+200 http://cast.oldpopcafe.net:7080/
+#EXTINF:-1,Radio_Seoul
+https://radio1.koreatimes.com/?DIST=TuneIn\u0026TGT=TuneIn\u0026maxServers=2\u0026partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzEyNjE0MywiaXNzIjoidGlzcnYifQ.ssVJ7H8C2H_IpmydNuCcKNV1I0UH93kqOAc_nsdqsOU
+#EXTINF:-1,SBS_Love_FM
+http://serpent0.duckdns.org:8088/sbs2fm.pls
+#EXTINF:-1,SBS_Power_FM
+200 http://serpent0.duckdns.org:8088/sbsfm.pls
+#EXTINF:-1,SBS_러브_FM-SBS_라디오
+http://slive.ytn.co.kr:1935/live/fmlive_0624_1.sdp/playlist.m3u8
+#EXTINF:-1,TBC_Dream_FM
+http://221.157.125.239:1935/live/mp3:fmstream/playlist.m3u8
+#EXTINF:-1,TBN_교통방송
+200 http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
+#EXTINF:-1,TBN_울산교통방송
+200 http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8
+#EXTINF:-1,TBS_TV
+http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+#EXTINF:-1,TJB_파워_FM_(POWER_FM)
+200 http://1.245.74.5/radiolive/radio_64k/playlist.m3u8
+#EXTINF:-1,WBS_원음방송
+http://141.164.60.206:8000/wbs-smok
+#EXTINF:-1,YTN_라디오
+http://slive.ytn.co.kr:1935/live/_definst_/fmlive_0624_1.sdp/playlist.m3u8
+#EXTINF:-1,마포FM
+200 http://115.85.182.39/mapofm?type=.mp3
+#EXTINF:-1,명품
+302 http://jun28w.saycast.com/
+#EXTINF:-1,안동MBC_AM
+200 http://andong.webcasting.co.kr:1935/live/amlive/playlist.m3u8
+#EXTINF:-1,황금
+302 http://xmfhxm.saycast.com/

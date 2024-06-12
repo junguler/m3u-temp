@@ -1,0 +1,320 @@
+#EXTINF:-1,Steel_FM_95.9
+200 http://ice6.securenetsystems.net:80/STEELFM
+#EXTINF:-1,Radio_Sandels_-_Kuopio
+403 https://www.liveradio.es/http://suomiradio.pro:8080/stream/1/
+#EXTINF:-1,Loop_-_Helsinki
+404 https://www.liveradio.es/http://icelive0.80692-icelive0.cdn.qbrick.com/10561/80692_Loop.mp3
+#EXTINF:-1,Järviradio_-_Alajärvi
+405 https://jarviradio.radiotaajuus.fi:9000/jr
+#EXTINF:-1,Finest_radio_Finland
+403 https://www.liveradio.es/http://212.47.220.188:8000/stream/1
+#EXTINF:-1,Classic_-_Helsinki
+200 https://stream.radioplay.fi/classic/classic_64.aac?direct=true&amplistenerid=undefined&ampaw_0_1st.bauer_listenerid=undefined&ampaw_0_1st.playerid=BMUK_inpage_html5&ampaw_0_1st.skey=1678861613&ampaw_0_1st.bauer_logg
+#EXTINF:-1,YLE_Keski-Pohjanmaa
+200 https://yleradiolive.akamaized.net/hls/live/2027721/yleradiolive-hls-28/master.m3u8
+#EXTINF:-1,DJ_Online
+http://eu8.fastcast4u.com:5392
+#EXTINF:-1,Fun
+https://digitacdn.akamaized.net/hls/live/629243/groove/master.m3u8
+#EXTINF:-1,MOI_Web_Radio
+https://everestcast.streams.ovh:1640/stream
+#EXTINF:-1,NRK_P1_Finnmark
+200 http://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_m
+#EXTINF:-1,P1
+200 http://http-live.sr.se/p1-mp3-128
+#EXTINF:-1,P3
+200 http://http-live.sr.se/p3-mp3-64
+#EXTINF:-1,P4_Stockholm
+200 http://http-live.sr.se/p4stockholm-mp3-64
+#EXTINF:-1,Radio_Helsinki
+200 http://77.86.233.1:8004/
+#EXTINF:-1,Radio_MUSA
+404 https://n09.radiojar.com/n6yg5q0z8vzuv.m4a
+#EXTINF:-1,Rondo_Classic_Klasu_Pro
+http://stream.iradio.fi:8000/klasupro-med.mp3
+#EXTINF:-1,RQL_106_FM
+200 http://104.167.4.67:8173/
+#EXTINF:-1,Sea_FM_Rovaniemi
+200 http://s3.myradiostream.com:4976/listen.mp3
+#EXTINF:-1,Snowflake_FM
+http://cast5.magicstreams.gr:8015/
+#EXTINF:-1,YLE_Etela-Karjalan
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_19@113896/master.m3u8
+#EXTINF:-1,YLE_Lapin_Radio
+405 http://yleuni-f.akamaihd.net/i/yleliveradiohd_25@113902/master.m3u8
+#EXTINF:-1,YLE_Pohjois-Karjalan
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_11@113888/master.m3u8?set-segment-duration=quality
+#EXTINF:-1,YLE_Sami_Radio
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_33@113910/master.m3u8?set-segment-duration=quality
+#EXTINF:-1,YLE_Vega_Huvudstadsregionen
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_7@113884/master.m3u8?set-segment-duration=quality
+#EXTINF:-1,YLE_Vega_Österbotten
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_31@113908/master.m3u8
+#EXTINF:-1,YLEX
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_2@113879/master.m3u8?set-segment-duration=quality
+#EXTINF:-1,Radio_Romona
+200 http://suomiradio.pro:8080/
+#EXTINF:-1,Radio_Sun_Classics
+400 http://radio.hear.fi:8000/hear.mp3
+#EXTINF:-1,Radio_City_Helsinki
+http://stream.radiovaasa.fi:8000/radiovaasa.ogg
+#EXTINF:-1,JNC_1_Radio
+302 http://listen.radionomy.com/jnc1
+#EXTINF:-1,70s_and_80s_Metal_Wildcat
+302 http://listen.radionomy.com/70-s-80-smetal
+#EXTINF:-1,WildCat_Metal
+301 http://streaming.radionomy.com/Metal-Cat?lang=en-US
+#EXTINF:-1,Sea_FM_88.8
+302 http://listen.radionomy.com/poppy
+#EXTINF:-1,Radio_Nostalgia_fi
+200 http://212.47.220.188:8000/
+#EXTINF:-1,Radio_432Hz_FM
+301 http://streaming.radionomy.com/AxelAime432Hz
+#EXTINF:-1,Radio_NRJ_Finland
+302 https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,NRJ_Suomihitit
+200 http://stream.bauermedia.fi/nostalgia/nostalgia_64.aac
+#EXTINF:-1,YLE_Keski-Suomi
+405 http://yleuni-f.akamaihd.net/i/yleliveradiohd_12@113889/master.m3u8
+#EXTINF:-1,YLE_Radio_Vega_Österbotten
+302 https://stream-redirect.bauermedia.fi/radiopori/radiopori_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,YLE_Turun_Radio
+405 http://yleuni-f.akamaihd.net/i/yleliveradiohd_27@113904/master.m3u8
+#EXTINF:-1,YLE_Pohjanmaan_Radio
+405 http://yleuni-f.akamaihd.net/i/yleliveradiohd_28@113905/master.m3u8
+#EXTINF:-1,YLE_Satakunnan_Radio
+405 http://yleuni-f.akamaihd.net/i/yleliveradiohd_23@113900/master.m3u8
+#EXTINF:-1,YLE_Radio_Vega_Åboland
+405 http://yleuni-f.akamaihd.net/i/yleliveradiohd_32@113909/master.m3u8
+#EXTINF:-1,YLE_Etela-Savon
+405 http://yleuni-f.akamaihd.net/i/yleliveradiohd_21@113898/master.m3u8
+#EXTINF:-1,Klassinen_Joulu
+http://c2.toivon.net:8106/stream
+#EXTINF:-1,YLE_Kainuun_Radio
+405 http://yleuni-f.akamaihd.net/i/yleliveradiohd_13@113890/master.m3u8
+#EXTINF:-1,KISS_Finland
+302 https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,RQL106FM
+404 https://supla.digitacdn.net/live/_definst_/supla/loop/master.m3u8
+#EXTINF:-1,Me_Naiset_Radio
+404 https://supla.digitacdn.net/live/_definst_/supla/radioaalto/master.m3u8
+#EXTINF:-1,Happy_Holidays_by_Jouluradio
+https://server2.toivon.net/proxy/toivon_7_2?mp=/stream
+#EXTINF:-1,Kauneimmat_Joululaulut
+https://server3.toivon.net/proxy/toivon_2_3?mp=/stream
+#EXTINF:-1,Iskelmä_Aikakone
+404 https://stream.bauermedia.fi/iskelma/hki_64.aac
+#EXTINF:-1,Jouluradio_
+https://server2.toivon.net/proxy/toivon_0_2?mp=/stream
+#EXTINF:-1,Radio_Dei_–_Jyvaskyla_–_Western_Finland_–_FI
+400 http://isojako.radiodei.fi:8000/yleisohjelma
+#EXTINF:-1,Radio_Kaakko_–_Kotka_–_Southern_Finland_–_FI
+200 https://wr2.downtime.fi:8000/kaakko.mp3
+#EXTINF:-1,Yle_Radio_1_–_Tampere_–_Western_Finland_–_FI
+200 https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8
+#EXTINF:-1,Spirit_FM_–_101.4_FM_–_Helsinki_–_Southern_Finland_–_FI
+http://audio.raa.fi:8000/hifi
+#EXTINF:-1,Yle_Radio_Häme_–_Hämeenlinna_–_Southern_Finland_–_FI
+200 https://yleradiolive.akamaized.net/hls/live/2027681/in-YleHameenlinna/master.m3u8
+#EXTINF:-1,Kantriradio_–_Helsinki_–_Southern_Finland_–_FI
+404 https://supla.digitacdn.net/live/_definst_/supla/kantri/playlist.m3u8
+#EXTINF:-1,Yle_Satakunnan_Radio_–_Pori_–_Western_Finland_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_23@113900/master.m3u8
+#EXTINF:-1,Radio_MUSA_–_Helsinki_–_Southern_Finland_–_FI
+302 https://streams.radiomast.io/94ef3d8b-7fea-47ee-a609-c0d3cd8e4dde
+#EXTINF:-1,SuomiRock_–_99.5_FM_–_Helsinki_–_Southern_Finland_–_FI
+200 https://stream.radioplay.fi/suomirock/suomirock_64.aac
+#EXTINF:-1,Radio_PerusÄijät_–_Helsinki_–_Southern_Finland_–_FI
+https://199.192.19.73/proxy/?q=http://vcust586.louhi.net:8102/radioperusaijat
+#EXTINF:-1,Yle_Radio_Vega_–_Jyvaskyla_–_Western_Finland_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_7@113884/index_64_a-p.m3u8
+#EXTINF:-1,Yle_Pohjois-Karjalan_–_Helsinki_–_Southern_Finland_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_11@113888/master.m3u8
+#EXTINF:-1,Helmiradio_–_88.6_FM_–_Helsinki_–_Southern_Finland_–_FI
+https://digitacdn.akamaized.net/hls/live/629243/radiohelmi/master.m3u8
+#EXTINF:-1,Radio_Auran_Aallot_–_Turku_–_Western_Finland_–_FI
+200 https://stream.radioplay.fi/auranaallot/auranaallot_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1669659434&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPi8wgAPi8wgA
+#EXTINF:-1,Yle_Turku_Radio_Suomi_–_Kaarina_–_Western_Finland_–_FI
+200 https://yleradiolive.akamaized.net/hls/live/2027720/in-YleTurku/master.m3u8
+#EXTINF:-1,Yle_Radio_Vega_Västnyland_–_100.6_FM_–_Ekenäs_–_Southern_Finland_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_30@113907/index_128_a-p.m3u8?sd=6&set-segment-duration=quality&rebase=on
+#EXTINF:-1,Yle_Radio_Perämeri_–_Kemi_–_Lapponia_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_14@113891/index_64_a-p.m3u8
+#EXTINF:-1,Kaaosradio_–_Helsinki_–_Southern_Finland_–_FI
+400 https://kaaosradio.fi:8001/stream
+#EXTINF:-1,Yle_Radio_Keski-Pohjanmaa_–_Pohja_–_Southern_Finland_–_FI
+http://mediau.yle.fi/a_keskipohjanmaa
+#EXTINF:-1,Metro_FM_–_Helsinki_–_Southern_Finland_–_FI
+https://digitacdn.akamaized.net/hls/live/629243/hitmix/master.m3u8
+#EXTINF:-1,Yle_Radio_Suomi_Joensuu_–_Joensuu_–_Eastern_Finland_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_11@113888/index_64_a-p.m3u8
+#EXTINF:-1,JouluRauma_–_97.3_FM_–_Helsinki_–_Southern_Finland_–_FI
+400 https://stream.protonbroadcast.com:8443/joulurauma.mp3
+#EXTINF:-1,Yle_X3M_–_Kaarina_–_Western_Finland_–_FI
+200 https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8
+#EXTINF:-1,Kohina_–_Helsinki_–_Southern_Finland_–_FI
+400 http://kohina.duckdns.org:8000/stream.ogg.m3u
+#EXTINF:-1,Radio_Sputnik_–_Espoo_–_Southern_Finland_–_FI
+http://iluv2k.basso.fi:8000/stream
+#EXTINF:-1,FinnRadio.FM_–_FI
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4296648_SC?pname=TDSdk
+#EXTINF:-1,Radio_Kuopio_–_Helsinki_–_Southern_Finland_–_FI
+404 https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac
+#EXTINF:-1,Kesäseuraradion_–_Helsinki_–_Southern_Finland_–_FI
+https://d1w03bnu0ijeg2.cloudfront.net/ksr/adaptive/system.m3u8
+#EXTINF:-1,MatkaRadio_24_–_Lahti_–_Southern_Finland_–_FI
+405 https://tallukka.radiotaajuus.fi:9049/radio
+#EXTINF:-1,Roll_FM_–_Espoo_–_Southern_Finland_–_FI
+200 http://stream.rollfm.fi
+#EXTINF:-1,Radio_Soi_–_87.6_FM_–_Helsinki_–_Southern_Finland_–_FI
+404 http://ingest-ams.radiomast.io/ac7a4372-f9aa-4925-b579-e1cd96f0d0fd
+#EXTINF:-1,Leijonaradio_–_Helsinki_–_Southern_Finland_–_FI
+http://s3.radioboss.fm:8301/live
+#EXTINF:-1,Radio_Vapaa_–_Helsinki_–_Southern_Finland_–_FI
+https://199.192.19.73/proxy/?q=http://vcust586.louhi.net:8085/radiovapaahki
+#EXTINF:-1,Yle_Pohjanmaan_Radio_–_Lapua_–_Western_Finland_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_28@113905/index_128_a-p.m3u8
+#EXTINF:-1,Me_Naiset_Radio_–_Jyvaskyla_–_Western_Finland_–_FI
+https://digitacdn.akamaized.net/hls/live/629243/radioaalto/master-128000.m3u8
+#EXTINF:-1,Radio_Soho_–_Tampere_–_Western_Finland_–_FI
+400 https://sohostream.djonline.fi:8008/radio
+#EXTINF:-1,Radio_Kompassi_–_Helsinki_–_Southern_Finland_–_FI
+http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/kompassi
+#EXTINF:-1,Sea_FM_Xmas_–_FI
+400 http://digiradio.xyz:8000/xmas
+#EXTINF:-1,Yle_Kymenlaakson_Radio_–_Anjala_–_Southern_Finland_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_16@113893/index_128_a-p.m3u8
+#EXTINF:-1,Loop_–_Helsinki_–_Southern_Finland_–_FI
+https://digitacdn.akamaized.net/hls/live/629243/loop/master-128000.m3u8
+#EXTINF:-1,Yle_Radio_Suomi_Mikkeli_–_98.1_FM_–_Mikkeli_–_Eastern_Finland_–_FI
+200 https://yleradiolive.akamaized.net/hls/live/2027713/in-YleMikkeli/master.m3u8
+#EXTINF:-1,Fuengirola_MatkaRadio_–_Helsinki_–_Southern_Finland_–_FI
+404 https://streams.radio.co/sb31788003/listen
+#EXTINF:-1,Radio_Helsinki_–_Helsinki_–_Southern_Finland_–_FI
+400 http://77.86.233.1:8100/stream
+#EXTINF:-1,Finest_radio_–_Helsinki_–_Southern_Finland_–_FI
+200 http://212.47.220.188:8000/listen.pls
+#EXTINF:-1,Radio_City_Kiekk_Radio_–_Helsinki_–_Southern_Finland_–_FI
+404 https://wr2.downtime.fi/kiekko.mp3
+#EXTINF:-1,Rakkauden_Wappuradio_–_Tampere_–_Western_Finland_–_FI
+401 https://stream.wappuradio.fi/wappuradio.mp3
+#EXTINF:-1,Radio_Finlandia_–_Helsinki_–_Southern_Finland_–_FI
+200 https://streams.radio.co/s172910a74/listen
+#EXTINF:-1,Yle_Radio_Keski_–_Jyvaskyla_–_Western_Finland_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_12@113889/index_128_a-p.m3u8
+#EXTINF:-1,Kaaosradio_IDM/Experimental_–_Helsinki_–_Southern_Finland_–_FI
+400 https://kaaosradio.fi:8001/stream2
+#EXTINF:-1,Business_FM_–_Helsinki_–_Southern_Finland_–_FI
+404 http://st.downtime.fi/bfm.mp3
+#EXTINF:-1,Radio_Fox_–_Enonkoski_–_Southern_Savonia_–_FI
+502 https://carina.streamerr.co:2020/stream/RadioFox/stream
+#EXTINF:-1,SAYFM_–_FI
+http://saysite.fi:8000/sayfm
+#EXTINF:-1,Võmba_FM_–_Helsinki_–_Southern_Finland_–_FI
+200 https://c4.radioboss.fm/stream/123
+#EXTINF:-1,Radio_Scoop_–_Kauhajoki_–_Western_Finland_–_FI
+http://stream18.shoutcastsolutions.com:8813/stream.mp3
+#EXTINF:-1,Star_FM_–_Russian_Radio_in_Finland_–_Moscow_–_FI
+https://s1.vgs.ink/listen/star_fm/starfm.mp3
+#EXTINF:-1,Yle_Sámi_Radio_–_Inari_–_Lapponia_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_33@113910/index_64_a-p.m3u8
+#EXTINF:-1,Yle_Ylen_Läntinen_–_Lohja_–_Southern_Finland_–_FI
+http://mediau.yle.fi/a_ylenlantinen
+#EXTINF:-1,Yle_Radio_Suomi_Rovaniemi_–_Rovaniemi_–_Lapponia_–_FI
+200 https://yleradiolive.akamaized.net/hls/live/2027717/in-YleRovaniemi/master.m3u8
+#EXTINF:-1,IskelmäTV_–_FI
+200 https://muumi.livetv.fi/listen/iskelmatv_suomi/iskelmatv
+#EXTINF:-1,Kaaosradio_Chiptune_–_Helsinki_–_Southern_Finland_–_FI
+400 https://kaaosradio.fi:8001/chip
+#EXTINF:-1,LiMu_Radio_–_Lahti_–_Southern_Finland_–_FI
+200 https://s5.radio.co/s6a7a12c17/listen
+#EXTINF:-1,Yle_Radio_Kotka_–_Kotka_–_Southern_Finland_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_16@113893/master.m3u8
+#EXTINF:-1,Yle_Kainuun_Radio_–_Kajaani_–_Oulu_–_FI
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_13@113890/index_128_a-p.m3u8
+#EXTINF:-1,Kaaosradio_Chill_–_Helsinki_–_Southern_Finland_–_FI
+400 http://stream.kaaosradio.fi:8000/chill.m3u
+#EXTINF:-1,Radio_SuomiPop_–_Helsinki_–_Southern_Finland_–_FI
+https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master-128000.m3u8
+#EXTINF:-1,Yle_Klassinen_–_Helsinki_–_Southern_Finland_–_FI
+200 https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8
+#EXTINF:-1,Rodnoe_Radio_(Родное_Радио)
+https://r1.goradio.sbs:8010/VOLNA
+#EXTINF:-1,Radio_Nova_87.8-107.9_FM_radio
+200 https://radioplay.fi/radio-nova/
+#EXTINF:-1,Radio_Rock_94.9_FM_radio
+200 https://ms-live-radiorock.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1,Radio_Nostalgia_87.6-105.5_FM_radio
+200 https://radioplay.fi/radio-nostalgia/
+#EXTINF:-1,Kiss_fm_radio
+200 https://radioplay.fi/kiss/
+#EXTINF:-1,SuomiRock_radio
+200 https://radioplay.fi/suomi-rock/
+#EXTINF:-1,NRJ_Suomihitit_radio
+200 https://radioplay.fi/nrj/
+#EXTINF:-1,HitMix_radio
+200 https://ms-live-hitmix.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1,Radio_Classic,_Tampere_radio
+200 https://radioplay.fi/radio-classic/
+#EXTINF:-1,RQL_radio
+https://centova2.cheapshoutcast.com:2199/proxy/rqlweb?mp=/stream
+#EXTINF:-1,Radio_SuomiPop_radio
+200 https://ms-live-suomipop.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1,Helmiradio_radio
+200 https://ms-live-helmiradio.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1,Radio_Pooki_radio
+200 https://radioplay.fi/radio-pooki/
+#EXTINF:-1,Radio_City,_Helsinki_radio
+200 https://radioplay.fi/radio-city/
+#EXTINF:-1,Iskelmä_radio
+200 https://www.iskelma.fi/
+#EXTINF:-1,Groove_FM_102.8_radio
+200 https://ms-live-groove.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1,YleX_radio
+200 https://ms-live-easyhits.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1,Bassoradio_radio
+200 https://radioplay.fi/basso/
+#EXTINF:-1,ReggaeNord_radio
+https://centova2.cheapshoutcast.com:2199/proxy/reggaenord?mp=/stream
+#EXTINF:-1,Loop_radio
+200 https://ms-live-loop.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1,Radio_Musa_radio
+404 https://stream.radiojar.com/n6yg5q0z8vzuv.m4a
+#EXTINF:-1,Aito_Iskelmä_radio
+200 https://ms-live-aitoiskelma.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1,Radio_957_radio
+200 https://radioplay.fi/radio-957/
+#EXTINF:-1,Radio_Pori_radio
+200 https://radioplay.fi/radio-pori/
+#EXTINF:-1,Radio_Auran_Aallot_radio
+200 https://radioplay.fi/auran-aallot/
+#EXTINF:-1,Steel_FM_95.9_radio
+200 https://streamdb7web.securenetsystems.net/v5/STEELFM
+#EXTINF:-1,SuomiRäp_radio
+200 https://radioplay.fi/suomirap/
+#EXTINF:-1,Kantriradio_radio
+200 https://ms-live-kantriradio.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1,Radio_Moreeni_radio
+http://moreenistream1.uta.fi:8080/moreeni.mp3
+#EXTINF:-1,Yöradio_radio
+http://yoradio.fi:8080/radio.mp3
+#EXTINF:-1,Pirata_Boing!_Radio
+400 http://198.100.145.190:8000/PirataBoing.ogg
+#EXTINF:-1,Oikea_Asema_radio
+http://stream2.sbs.fi/rc-hki.mp3
+#EXTINF:-1,Hamsi_FM,_Helsinki_radio
+200 http://radyo.hamsi.fm:8050/stream.nsv
+#EXTINF:-1,Radio_Nova_Helsinki
+200 http://stream.bauermedia.fi/radionova/radionova_64.aac
+#EXTINF:-1,Alternative_-_WildCat
+http://144.217.253.136:8488/stream
+#EXTINF:-1,Iskelmä_Rex
+http://stream2.bauermedia.fi/isk-rex.mp3
+#EXTINF:-1,YLE_Radio_Suomi
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_3@113880/master.m3u8?set-segment-duration=quality
+#EXTINF:-1,Rondo_Classic
+400 http://stream.iradio.fi:8000/klasu-hi.mp3
+#EXTINF:-1,Jahrvi_Sound
+405 https://yleuni-f.akamaihd.net/i/yleliveradiohd_1@113878/master.m3u8?set-segment-duration=quality
+#EXTINF:-1,Voicen_Herättäjät
+200 http://104.167.4.67:8173/stream.nsv

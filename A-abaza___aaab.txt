@@ -1,0 +1,44 @@
+#EXTINF:-1,Radio_Prlek
+200 http://86.61.68.81:8000/stream.nsv&type=mp3
+#EXTINF:-1,Radio_Mojdeh
+200 http://ic2317.c1261.fast-serv.com:80/rm64
+#EXTINF:-1,Radio_Mojdeh_FM
+200 http://ic2317.c1261.fast-serv.com/rm64
+#EXTINF:-1,Radio_Guelma
+200 https://webradio.tda.dz/Guelma_64K.mp3
+#EXTINF:-1,Radio_Relizane
+200 https://webradio.tda.dz/Relizan_64K.mp3
+#EXTINF:-1,EUROPA_2
+200 https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1,funradio
+200 http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1,funradio_sk_80-90_roky
+200 http://stream.funradio.sk:8000/fun64.mp3
+#EXTINF:-1,Radio_Vlna
+200 http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1,Radio_Sity_107.0_FM
+200 https://radiosity.online:8000/aac
+#EXTINF:-1,Radip_Kosice
+400 http://stream.ecce.sk:8000/radiokosice-64.mp3
+#EXTINF:-1,Radio_7_FM
+400 https://play.radio7.sk/128
+#EXTINF:-1,Fun_Radio_Dance
+200 http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1,Zahoracke_Radio
+501 http://live.zahorackeradio.sk:8080/zr128.mp3
+#EXTINF:-1,Frontinus_Radio_-_104.6_FM
+http://stream.frontinus.sk:8000/frontinus64.mp3
+#EXTINF:-1,Radio_Rebeca
+400 https://icecast2.radionet.sk/rebecassl.mp3
+#EXTINF:-1,Info_Vojna
+400 http://stream1.infovojna.bz:8000/live
+#EXTINF:-1,fun_80-90
+200 http://stream.funradio.sk:8000/80-90-64.mp3
+#EXTINF:-1,Fun_Radio_CzechoSlovakia
+200 http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1,Radio_Patria
+400 http://icecast.stv.livebox.sk/patria_128.mp3
+#EXTINF:-1,Janko_Hrasko
+http://78.24.9.110:31088
+#EXTINF:-1,Jemné_melódie
+200 https://stream.bauermedia.sk/melody-hi.mp3

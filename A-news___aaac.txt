@@ -1,0 +1,1000 @@
+#EXTINF:-1,ABC_Goulburn_Murray
+200 https://mediaserviceslive.akamaized.net/hls/live/2038326/localwodonga/index.m3u8
+#EXTINF:-1,ABC_Kimberley
+200 https://mediaserviceslive.akamaized.net/hls/live/2038325/localbroome/index.m3u8
+#EXTINF:-1,ABC_Northern_Tasmania
+200 https://mediaserviceslive.akamaized.net/hls/live/2038356/locallaunceston/index.m3u8
+#EXTINF:-1,ABC_North_and_West_SA
+200 https://mediaserviceslive.akamaized.net/hls/live/2038329/localportpirie/index.m3u8
+#EXTINF:-1,ABC_Radio_Brisbane
+200 https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/index.m3u8
+#EXTINF:-1,ABC_Radio_Adelaide
+200 https://mediaserviceslive.akamaized.net/hls/live/2038298/localadelaide/index.m3u8
+#EXTINF:-1,ABC_Pilbara
+200 https://mediaserviceslive.akamaized.net/hls/live/2038334/localkarratha/master.m3u8
+#EXTINF:-1,ABC_Radio_Hobart
+200 https://mediaserviceslive.akamaized.net/hls/live/2038268/localhobart/index.m3u8
+#EXTINF:-1,ABC_Radio_Darwin
+200 https://mediaserviceslive.akamaized.net/hls/live/2038307/localdarwin/index.m3u8
+#EXTINF:-1,ABC_Radio_Canberra
+200 https://mediaserviceslive.akamaized.net/hls/live/2038303/localcanberra/index.m3u8
+#EXTINF:-1,Rádio_Best_FM
+http://stream2.bestfm.sk/64.mp3?_=1
+#EXTINF:-1,Rádio_Rebeca
+200 https://mpc2.mediacp.eu:8200/rebecaweb
+#EXTINF:-1,Radio_Hit_Iași
+http://live02.radiohit.ro:8000/hit.mp3
+#EXTINF:-1,SuperFM_Brașov
+200 https://live.superfm.ro/stream.mp3
+#EXTINF:-1,Radio_Brașov
+200 https://live.radiobrasov.ro/stream.mp3
+#EXTINF:-1,Radio_Prahova
+200 https://streamx.rph.ro:8100/relay
+#EXTINF:-1,ABC_Radio_Perth
+200 https://mediaserviceslive.akamaized.net/hls/live/2038301/localperth/master.m3u8
+#EXTINF:-1,ABC_Radio_Melbourne
+200 https://mediaserviceslive.akamaized.net/hls/live/2038300/localmelbourne/index.m3u8
+#EXTINF:-1,ABC_Southern_Queensland
+200 https://mediaserviceslive.akamaized.net/hls/live/2038328/localtoowoomba/index.m3u8
+#EXTINF:-1,ABC_South_West_WA
+200 https://mediaserviceslive.akamaized.net/hls/live/2038338/localbunbury/index.m3u8
+#EXTINF:-1,ABC_Western_Queensland
+200 https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/index.m3u8
+#EXTINF:-1,ABC_Western_Plains
+200 https://mediaserviceslive.akamaized.net/hls/live/2038336/localdubbo/index.m3u8
+#EXTINF:-1,IB3_Ràdio
+400 https://icecast.ib3radio.com/ib3radio.mp3
+#EXTINF:-1,Radio_Argosaronikos
+200 http://s3.onweb.gr:8536/
+#EXTINF:-1,Koroški_radio
+400 https://live.radio.si/Koroski
+#EXTINF:-1,Radio_94
+400 http://77.38.12.198:8000/radio94
+#EXTINF:-1,Moj_radio
+404 http://stream.linit.si:8006
+#EXTINF:-1,Bay_FM
+503 https://s14.myradiostream.com/:30342/?type=http
+#EXTINF:-1,101_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/4CBLAAC.aac
+#EXTINF:-1,Radio_Lac
+200 https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
+#EXTINF:-1,Radio_Pilatus
+https://radiopilatus.ice.infomaniak.ch/pilatus128.mp3
+#EXTINF:-1,Radio_Baltkom
+https://radio.mixnews.lv/baltkom
+#EXTINF:-1,Radio_TEV
+400 http://stream.radiotev.lv:8002/radiov
+#EXTINF:-1,RTL_102.5
+200 https://streamingv2.shoutcast.com/rtl-1025_48.aac
+#EXTINF:-1,ICR_FM
+400 https://streams.happyhits.co.uk/ICR
+#EXTINF:-1,Radio_Sun
+200 http://st.downtime.fi/sun.aac
+#EXTINF:-1,Radio_7_Ulm
+302 https://frontend01.lb.streamonkey.net/radio7-ulm?aggregator=regiocast
+#EXTINF:-1,Sabras_Radio
+200 http://radio.canstream.co.uk:8025/live.mp3
+#EXTINF:-1,Bayern_1_FRANKEN
+https://mcdn.hf.br.de/br/hf/b1franken/master.m3u8
+#EXTINF:-1,Bayern_1_MAINFRANKEN
+200 https://mcdn.hf.br.de/br/hf/b1main/master.m3u8
+#EXTINF:-1,Bayern_2_Süd
+200 https://mcdn.hf.br.de/br/hf/b2sued/master.m3u8
+#EXTINF:-1,Bayern_2_Nord
+200 https://mcdn.hf.br.de/br/hf/b2nord/master.m3u8
+#EXTINF:-1,Bayern_1_SCHWABEN
+200 https://mcdn.hf.br.de/br/hf/b1schw/master.m3u8
+#EXTINF:-1,Bayern_1_OBERBAYERN
+200 https://mcdn.hf.br.de/br/hf/b1obb/master.m3u8
+#EXTINF:-1,Bayern_1_NIEDERBAYERN_UND_OBERPFALZ
+200 https://mcdn.hf.br.de/br/hf/b1nbopf/master.m3u8
+#EXTINF:-1,Radio_Brežice_Eu
+400 https://stream.radiojar.com/a62vxp5uvueuv
+#EXTINF:-1,Radio_Mister_Deejay
+https://stream.mister-deejay.com/proxy/misterdj?mp=/mrdj
+#EXTINF:-1,West_City_Radio
+301 https://live.westcityradio.ro/mp3
+#EXTINF:-1,RTN
+200 https://rtn.ice.infomaniak.ch/rtn-high.mp3
+#EXTINF:-1,Radio_24_Schweiz
+https://icecast.radio24.ch/radio24-rc-96-aac
+#EXTINF:-1,Rádio_Orbital
+200 http://centova.radios.pt:8401/stream.mp3/1
+#EXTINF:-1,Radio_Voz
+400 https://live.radiovoz.es/mp3/stream_santiago.mp3
+#EXTINF:-1,RAC105
+https://streaming.rac105.cat/
+#EXTINF:-1,Radio_Exe
+200 https://streams.radio.co/sf2a4d9132/listen
+#EXTINF:-1,Radio_Karolina
+400 http://streaming.karolina.rs/karolina.mp3
+#EXTINF:-1,Studio_B
+200 http://radio.studiob.rs:8004/
+#EXTINF:-1,Radio_4MW
+200 https://firstnationsmedia.stream/8024/stream
+#EXTINF:-1,Radio_Llapi
+200 http://radio.1dhe1.com:8555/
+#EXTINF:-1,Cidade_FM_97.9
+https://node.stream-africa.com:8443/RadioCidadeMaputo
+#EXTINF:-1,Zumbo_FM
+400 https://paineldj6.com.br:20045/stream
+#EXTINF:-1,99FM_Moçambique
+http://streaming.99fm.co.mz:8000/stream
+#EXTINF:-1,Rádio_Acção_FM
+http://109.169.76.155:32690/
+#EXTINF:-1,Radio_Chablais
+200 http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
+#EXTINF:-1,Radio_Argovia
+https://icecast.argovia.ch/argovia-rc-96-aac
+#EXTINF:-1,Sunshine_Radio
+302 https://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3
+#EXTINF:-1,Nashe_Radio
+400 https://online.nasheradio.ua/NasheRadio
+#EXTINF:-1,Radio_Aalto
+404 https://supla.digitacdn.net/live/_definst_/supla/radioaalto/chunklist.m3u8
+#EXTINF:-1,Rádio_Nova_Era
+200 http://centova.radios.pt:9478/stream
+#EXTINF:-1,Radio_Pink
+200 http://pink.exyuserver.com/stream.mp3
+#EXTINF:-1,Radio_Jat
+400 http://streaming.radiojat.rs/radiojat.mp3
+#EXTINF:-1,Avtoradio_Ukraine
+https://cast.radiogroup.com.ua/avtoradio
+#EXTINF:-1,Radio_Lovely
+200 https://lovely.ice.infomaniak.ch/lovely-128.mp3
+#EXTINF:-1,Radio_Courtoisie
+200 https://ice.creacast.com/radio-courtoisie
+#EXTINF:-1,Kiss_FM_France
+https://kissfm.ice.infomaniak.ch/kissfm-64.aac
+#EXTINF:-1,Radio_Kivu_1
+200 http://serveur2.wanastream.com:25000/stream/1/
+#EXTINF:-1,Afrique_2_Radio
+302 https://stream.zeno.fm/631enq80mwzuv
+#EXTINF:-1,Top_Congo_FM
+https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3
+#EXTINF:-1,HighLife_Radio
+302 https://stream.zeno.fm/se1g3g3udceuv.aac
+#EXTINF:-1,Sister_Isle_radio
+200 http://199.180.72.2:9199/stream
+#EXTINF:-1,Radio_10_FM_Rwanda
+https://radio10-876fm.ice.infomaniak.ch/radio10-kigali.mp3
+#EXTINF:-1,102.3_KISS_FM_Rwanda
+200 https://kissfm-atunwadigital.streamguys1.com/kissfm
+#EXTINF:-1,Voice_of_Kigezi
+http://91.121.195.222:17762/?type=http
+#EXTINF:-1,KANAL_FM
+400 http://51.255.104.209:8000/KANALFM
+#EXTINF:-1,Radio_ABC_Suriname
+200 https://surilive.com/abc/stream/
+#EXTINF:-1,Asia_Plus_Radio
+400 http://eu.asiaplusradio.tj:8020/Asia-Plus-128.mp3
+#EXTINF:-1,NRJ_Nouvelle_Calédonie
+200 https://testradio01.ice.infomaniak.ch/testradio01-192.mp3
+#EXTINF:-1,Océane_FM_95.0
+403 https://radio.oceane.nc/oceane
+#EXTINF:-1,Radio_San_Marino
+200 https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/chunklist.m3u8
+#EXTINF:-1,Radio_Atlantique
+400 http://s7.voscast.com:10432/stream.mp3
+#EXTINF:-1,French_Radio_London
+200 http://radio.canstream.co.uk:8100/live.mp3
+#EXTINF:-1,Al_Jazeera_Arabic
+200 https://live-hls-web-aja.getaj.net/AJA-b/index.m3u8
+#EXTINF:-1,Qatar_Radio
+404 https://640b79a5c9ef3.streamlock.net/QRS/myStream/playlist.m3u8
+#EXTINF:-1,RPC_Radio
+400 https://mdstrm.com/audio/5eebd56d74f62407a5cd6b62/live.m3u8
+#EXTINF:-1,Radio_Sawa_Sudan
+301 https://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02
+#EXTINF:-1,Radio_Programas_del_Perú
+302 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
+#EXTINF:-1,Radio_Nacional_del_Perú
+https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
+#EXTINF:-1,Al_Wisal_FM
+200 https://securestreams3.autopo.st:1380/stream?icy=https
+#EXTINF:-1,Hala_FM_Oman
+200 https://listen-halafm.sharp-stream.com/halafmmid.mp3?_=1
+#EXTINF:-1,i94-FM
+200 http://www.ophanim.net:8370/stream
+#EXTINF:-1,RCM_Paul
+http://109.71.41.6:8178/stream.mp3
+#EXTINF:-1,Rádio_Comercial_Cabo_Verde
+301 http://radios.vpn.sapo.pt/CV/radio9.mp3
+#EXTINF:-1,Radio_Nova_Cabo_Verde
+301 http://radios.vpn.sapo.pt/CV/radio11.mp3
+#EXTINF:-1,Capital_Media_HD_99.3
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC084_SC.aac
+#EXTINF:-1,Accra_100.5_FM
+302 https://stream.zeno.fm/b85stutry8quv
+#EXTINF:-1,OFM_107.7
+200 http://s3.free-shoutcast.com:18056/
+#EXTINF:-1,BFM_89.9
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac
+#EXTINF:-1,Sensación_Estéreo_Suan
+302 http://stream.zeno.fm/pccn5qtxd5zuv
+#EXTINF:-1,Radio_Optima
+302 https://stream.zeno.fm/cn76zrs2dy8uv
+#EXTINF:-1,İctimai_Radio_90_FM
+200 https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:-1,Tahiti_Web_Radio
+200 https://s10.myradiostream.com/:36098/listen.mp3
+#EXTINF:-1,Speed_96.9_FM
+302 https://stream.zeno.fm/s3xrbpvyxwzuv
+#EXTINF:-1,Radio_LAC_Luanda
+400 https://radios.vpn.sapo.pt/AO/radio14.mp3
+#EXTINF:-1,Emoo_FM
+302 https://stream.zeno.fm/m9dx0394v2quv
+#EXTINF:-1,Hero_Radio_99.0_FM
+302 http://stream.zeno.fm/c0258bn5mceuv
+#EXTINF:-1,Pili_Pili_FM
+302 https://stream.zeno.fm/w5gg57a5v2quv
+#EXTINF:-1,Kwezi_FM
+https://kwezifm.ice.infomaniak.ch/kwezifm-128.mp3
+#EXTINF:-1,Radio_Lebda
+200 http://audio1.meway.tv:8082/
+#EXTINF:-1,Radio_Alomah
+https://stream.serverlibya.com/proxy/mshor?mp=/stream
+#EXTINF:-1,Radio_TV_Buntu
+302 https://stream.rcast.net/62581
+#EXTINF:-1,Rádio_Capital_FM_87.7
+200 https://player.srvsh.com.br/proxy/6894
+#EXTINF:-1,Ciudad_Stereo
+400 https://estructuraweb.com.co:9054/live
+#EXTINF:-1,Asia_Expat_Radio
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/AXRAAC.aac
+#EXTINF:-1,Radio_Cordillera
+404 https://streamingv2.shoutcast.com/radio-cordillera
+#EXTINF:-1,La_Voz_de_Bogotá
+404 https://streamingv2.shoutcast.com/la-voz-de-bogota
+#EXTINF:-1,Radio_Canal_Antilles
+http://81.248.108.29:88/broadwavehigh.mp3?src=1
+#EXTINF:-1,Radio_Spectrum
+http://92.119.237.186:88/broadwavehigh.mp3
+#EXTINF:-1,Radio_EuroStar_FM
+200 http://radioeurostar.al:9000/
+#EXTINF:-1,Radio_Dardania
+200 http://94.23.52.95:4000/stream
+#EXTINF:-1,Radio_Emigranti
+400 http://www.radioemigranti.com:8000/radioauto64
+#EXTINF:-1,Radio_Timoun
+200 https://streamingecuador.com:8004/franciscostereo
+#EXTINF:-1,Radio_Télé_Olé-Haiti
+302 https://stream.zeno.fm/7m4kq8s8bveuv
+#EXTINF:-1,Radio_Jupok
+200 http://176.9.59.144:8062/
+#EXTINF:-1,Jack_FM
+https://listen-jackmedia.sharp-stream.com/390_jack_fm_320_mp3
+#EXTINF:-1,Radio_B2
+302 https://radiob2-rolandkaiser.cast.addradio.de/radiob2/rolandkaiser/mp3/high/stream.mp3
+#EXTINF:-1,Radio_Omega_FM
+200 https://listen.radioking.com/radio/395347/stream/447148
+#EXTINF:-1,Rádio_Moçambique_EP_Nampula
+https://node.stream-africa.com:8443/Nampula
+#EXTINF:-1,Radio_Moldova
+200 https://radiolive.trm.md:8001/hls/actualitati.m3u8
+#EXTINF:-1,Star_FM_Mali
+302 https://stream.zeno.fm/q26kuv78mbruv
+#EXTINF:-1,Radio_Dambé_Marena_Diombougou
+302 https://stream.zeno.fm/x2ws1ccyfpeuv
+#EXTINF:-1,Radio_Kolombada
+302 http://stream.zenolive.com/b0yfbvynu0quv
+#EXTINF:-1,Radio_Djekafo
+http://s3.voscast.com:10374/stream
+#EXTINF:-1,Radio_Benkouma_de_Samaya
+302 https://stream.zeno.fm/3et5cz7ambruv
+#EXTINF:-1,Radju_Malta_2
+401 https://s11.myradiostream.com/:4954/listen.mp3
+#EXTINF:-1,Kampong_Thom_FM
+404 https://stream.zeno.fm/k8yqbq4wzreuv
+#EXTINF:-1,Fresh_FM_Takeo
+404 https://stream.zeno.fm/1n5d1uqvfpeuv
+#EXTINF:-1,Voice_of_Comfort_Radio
+404 https://stream.zeno.fm/npxmsyx99ueuv
+#EXTINF:-1,ABC_Cambodia_107.5_FM
+404 https://stream.zeno.fm/q0ubt7f26wquv
+#EXTINF:-1,Smile_Radio_FM_107
+404 https://stream.zeno.fm/887fswvrgpeuv
+#EXTINF:-1,Rahel_Radio
+302 http://stream.zeno.fm/ae0ucgr1h2zuv
+#EXTINF:-1,Horizon_Fm_Ouaga
+302 https://stream.zeno.fm/0945crn4bf9uv
+#EXTINF:-1,Radio_BBC_News_Haiti
+302 http://stream.zeno.fm/hpdayz31vd0uv
+#EXTINF:-1,Radio_Fenique_Inter_Haïti
+302 https://stream.zeno.fm/ym8gkr28gm5tv
+#EXTINF:-1,Radio_Tele_Zenith
+302 https://stream.zeno.fm/s3rqkr0w5neuv
+#EXTINF:-1,Radio_Sans_Fin_RSF
+302 https://stream.zeno.fm/4vt4b7wrtbruv
+#EXTINF:-1,The_Sound_Radio
+400 https://s4.citrus3.com:8352/stream
+#EXTINF:-1,Radio_Vilaverde_Limitada
+200 https://fm995.ddns.net/hls1/fm995.m3u8
+#EXTINF:-1,Océane_FM
+200 https://oceanefm.ice.infomaniak.ch/oceanefm-128.mp3
+#EXTINF:-1,1LIVE_DIGGI
+302 https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+#EXTINF:-1,WDR_5
+302 https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+#EXTINF:-1,Hit_West
+200 https://hitwest.ice.infomaniak.ch/hitwest-high.mp3
+#EXTINF:-1,Radio_Exterior_de_España
+https://crtve-rneree-main.hls.nmdn.net/crtve_rneree_main_aac/stream_abr/playlist.m3u8
+#EXTINF:-1,Panorama_FM
+200 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1,NDR_90.3
+302 https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3
+#EXTINF:-1,NDR_1_Niedersachsen_Hanover
+302 https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+#EXTINF:-1,NDR_1_Welle_Nord_Kiel
+302 https://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
+#EXTINF:-1,NDR_1_Radio_MV_Schwerin
+302 https://icecast.ndr.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3
+#EXTINF:-1,NDR_2_Niedersachsen
+302 https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+#EXTINF:-1,RTÉ_Radio_1
+400 https://rdstrm.com/rte-radio-1.mp3
+#EXTINF:-1,Réunion_la_1ère
+200 https://reunion.ice.infomaniak.ch/reunion-128.mp3
+#EXTINF:-1,Outre-mer_la_1ère
+200 https://outremer.ice.infomaniak.ch/outremer-128.mp3
+#EXTINF:-1,Guadeloupe_la_1ère
+200 https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3
+#EXTINF:-1,Nouvelle-Calédonie_la_1ère
+200 https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3
+#EXTINF:-1,Saint-Pierre_et_Miquelon_la_1ère
+200 https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3
+#EXTINF:-1,Wallis_et_Futuna_la_1ère
+200 https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3
+#EXTINF:-1,esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac
+#EXTINF:-1,Guyane_La_1ère
+200 https://guyane.ice.infomaniak.ch/guyane-128.mp3
+#EXTINF:-1,Bayern_3
+200 https://mcdn.hf.br.de/br/hf/b3/master.m3u8
+#EXTINF:-1,Bayern_plus
+200 https://mcdn.hf.br.de/br/hf/puls/master.m3u8
+#EXTINF:-1,Martinique_la_1ère
+200 https://martinique.ice.infomaniak.ch/martinique-128.mp3
+#EXTINF:-1,MDR_Sachsen_Region_Dresden
+302 http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3?ar-distributor=f0e3
+#EXTINF:-1,MDR_Sachsen-Anhalt_Region_Magdeburg
+302 http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR_Thüringen_Region_Mitte/West
+302 http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/low/stream.mp3
+#EXTINF:-1,SWR1_Baden-Württemberg
+302 https://liveradio.swr.de/sw282p3/swr1bw
+#EXTINF:-1,SWR1_Rheinland-Pfalz
+302 https://liveradio.swr.de/sw282p3/swr1rp
+#EXTINF:-1,Radio_Okapi
+200 http://rs1.radiostreamer.com:8000/
+#EXTINF:-1,Deutschlandfunk_Nova
+302 https://st03.sslstream.dlf.de/dlf/03/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,Rai_Radio_1
+403 https://icestreaming.rai.it/1.mp3
+#EXTINF:-1,Rai_GR_Parlamento
+302 https://icestreaming.rai.it/7.mp3
+#EXTINF:-1,RAI_Radio_Live
+302 https://icestreaming.rai.it/10.mp3
+#EXTINF:-1,France_Inter
+200 https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance
+#EXTINF:-1,Polynésie_La_1ère
+200 https://polynesie.ice.infomaniak.ch/polynesie-128.mp3
+#EXTINF:-1,IRIB_Radio_Bandar_Abbas
+http://altcdn.iranseda.ir:1935/channel-live/smil:r-bandarabas/chunklist.m3u8
+#EXTINF:-1,IRIB_Radio_Kish
+http://altcdn.iranseda.ir:1935/channel-live/smil:r-kish/chunklist.m3u8
+#EXTINF:-1,Nation_FM
+400 http://stream.radiojar.com/3by7s8eg65quv
+#EXTINF:-1,Bluradio
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_ADP.aac
+#EXTINF:-1,Caracol_Radio
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO_SC.aac
+#EXTINF:-1,RCN_Radio_FM
+404 http://playerservices.streamtheworld.com/api/livestream-redirect/RCN_RADIO_FM_SC.aac
+#EXTINF:-1,W_Radio_Colombia
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_SC.aac
+#EXTINF:-1,Onda_Madrid
+403 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/index.m3u8
+#EXTINF:-1,RTL_2
+405 http://streaming.radio.rtl.fr/rtl2-1-44-128
+#EXTINF:-1,France_Culture
+200 https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Paris
+200 https://stream.radiofrance.fr/fb1071/fb1071_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_RCFM
+200 https://stream.radiofrance.fr/fbfrequenzamora/fbfrequenzamora_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Provence
+200 https://stream.radiofrance.fr/fbprovence/fbprovence_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Maine
+200 https://stream.radiofrance.fr/fbmaine/fbmaine_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Isère
+200 https://stream.radiofrance.fr/fbisere/fbisere_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Nord
+200 https://stream.radiofrance.fr/fbnord/fbnord_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Normandie_(Calvados_–_Orne)
+200 https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Normandie_(Seine-Maritime_–_Eure)
+200 https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Belfort-Montbéliard
+200 https://stream.radiofrance.fr/fbbelfort/fbbelfort_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Berry
+200 https://stream.radiofrance.fr/fbberry/fbberry_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Bourgogne
+200 https://stream.radiofrance.fr/fbbourgogne/fbbourgogne_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Champagne-Ardenne
+200 https://stream.radiofrance.fr/fbchampagne/fbchampagne_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Drôme_Ardèche
+200 https://stream.radiofrance.fr/fbdromeardeche/fbdromeardeche_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Gard_Lozère
+200 https://stream.radiofrance.fr/fbgardlozere/fbgardlozere_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Creuse
+200 https://stream.radiofrance.fr/fbcreuse/fbcreuse_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_La_Rochelle
+200 https://stream.radiofrance.fr/fblarochelle/fblarochelle_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Béarn
+200 https://stream.radiofrance.fr/fbbearn/fbbearn_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Gascogne
+200 https://stream.radiofrance.fr/fbgascogne/fbgascogne_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Besançon
+200 https://stream.radiofrance.fr/fbbesancon/fbbesancon_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Limousin
+200 https://stream.radiofrance.fr/fblimousin/fblimousin_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Breizh_Izel
+200 https://stream.radiofrance.fr/fbbreizizel/fbbreizizel_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Mayenne
+200 https://stream.radiofrance.fr/fbmayenne/fbmayenne_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Gironde
+200 https://stream.radiofrance.fr/fbgironde/fbgironde_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Cotentin
+200 https://stream.radiofrance.fr/fbcotentin/fbcotentin_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Pays_Basque
+200 https://stream.radiofrance.fr/fbpaysbasque/fbpaysbasque_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Orléans
+200 https://stream.radiofrance.fr/fborleans/fborleans_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Elsass
+200 https://stream.radiofrance.fr/fbelsass/fbelsass_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Occitanie
+200 https://stream.radiofrance.fr/fbtoulouse/fbtoulouse_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Loire_Océan
+200 https://stream.radiofrance.fr/fbloireocean/fbloireocean_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Hérault
+200 https://stream.radiofrance.fr/fbherault/fbherault_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Pays_de_Savoie
+200 https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Lorraine_Nord
+200 https://stream.radiofrance.fr/fblorrainenord/fblorrainenord_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Périgord
+200 https://stream.radiofrance.fr/fbperigord/fbperigord_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Pays_d’Auvergne
+200 https://stream.radiofrance.fr/fbpaysdauvergne/fbpaysdauvergne_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Picardie
+200 https://stream.radiofrance.fr/fbpicardie/fbpicardie_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Vaucluse
+200 https://stream.radiofrance.fr/fbvaucluse/fbvaucluse_midfi.m3u8?id=radiofrance
+#EXTINF:-1,Georgia_Radio_1
+200 https://gpb-stream.cdn.xsg.ge/gpb-radio1/index.m3u8
+#EXTINF:-1,France_Bleu_Poitou
+200 https://stream.radiofrance.fr/fbpoitou/fbpoitou_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Azur
+200 https://stream.radiofrance.fr/fbazur/fbazur_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Auxerre
+200 https://stream.radiofrance.fr/fbauxerre/fbauxerre_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Armorique
+301 http://direct.francebleu.fr/live/fbarmorique-midfi.mp3?id=radiofrance
+#EXTINF:-1,France_Bleu_Roussillon
+200 https://stream.radiofrance.fr/fbroussillon/fbroussillon_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Saint-Étienne_Loire
+200 https://stream.radiofrance.fr/fbstetienne/fbstetienne_midfi.m3u8?id=radiofrance
+#EXTINF:-1,France_Bleu_Sud_Lorraine
+200 https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine_midfi.m3u8?id=radiofrance
+#EXTINF:-1,Peace_104.3_FM
+200 https://peacefm-atunwadigital.streamguys1.com/peacefm
+#EXTINF:-1,Okay_FM
+200 http://okayfm.atunwadigital.streamguys1.com/okayfm
+#EXTINF:-1,Hello_101.5_FM
+200 http://hellofm.atunwadigital.streamguys1.com/hellofm
+#EXTINF:-1,Onua_FM
+302 http://stream.zeno.fm/hmz5ma42u8quv
+#EXTINF:-1,La_FM
+404 http://playerservices.streamtheworld.com/api/livestream-redirect/LA_FM_BOG_SC.aac
+#EXTINF:-1,Azad_106_FM
+404 http://85.132.81.184:8080/106new/index.m3u8
+#EXTINF:-1,France_Bleu_Alsace
+301 http://direct.francebleu.fr/live/fbalsace-midfi.mp3?id=radiofrance
+#EXTINF:-1,France_Bleu_Touraine
+200 https://stream.radiofrance.fr/fbtouraine/fbtouraine_midfi.m3u8?id=radiofrance
+#EXTINF:-1,Sam_FM
+200 https://listen-nation.sharp-stream.com/samfmhampshire.mp3
+#EXTINF:-1,Radio_Eins
+302 https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid
+#EXTINF:-1,Radio_Azadi_FM
+400 https://stream.radiojar.com/bzbzqgcpn3quv
+#EXTINF:-1,Radio_Gibraltar
+https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream
+#EXTINF:-1,Radio_Algérie_Internationale
+200 https://webradio.tda.dz/Internationale_64K.mp3
+#EXTINF:-1,RTL_Radio_Lëtzebuerg
+301 https://shoutcast.rtl.lu/rtl
+#EXTINF:-1,Chaîne_1
+https://webradio.tda.dz/Chaine1_64K.mp3
+#EXTINF:-1,Chaîne_2
+200 https://webradio.tda.dz/Chaine2_64K.mp3
+#EXTINF:-1,Chaîne_3
+https://webradio.tda.dz/Chaine3_64K.mp3
+#EXTINF:-1,Jil_FM
+200 https://webradio.tda.dz/Jeunesse_64K.mp3
+#EXTINF:-1,Radio_Naama
+200 https://webradio.tda.dz/Naama_64K.mp3
+#EXTINF:-1,Radio_Boumerdes
+200 https://webradio.tda.dz/Boumerdes_64K.mp3
+#EXTINF:-1,Radio_Tizi_Ouzou
+200 https://webradio.tda.dz/TiziOuzou_64K.mp3
+#EXTINF:-1,Radio_Oum_Bouaghi
+200 https://webradio.tda.dz/OumBouaghi_64K.mp3
+#EXTINF:-1,Radio_El_Bahdja
+200 https://webradio.tda.dz/ElBahdja_64K.mp3
+#EXTINF:-1,Radio_Mila
+200 https://webradio.tda.dz/Mila_64K.mp3
+#EXTINF:-1,Radio_Bordj_Bou_Arreridj
+200 https://webradio.tda.dz/BordjBouArreridj_64K.mp3
+#EXTINF:-1,Radio_Tiaret
+https://webradio.tda.dz/Tiaret_64K.mp3
+#EXTINF:-1,Radio_Laghouat
+200 https://webradio.tda.dz/Laghouat_64K.mp3
+#EXTINF:-1,Radio_Tipaza
+200 https://webradio.tda.dz/Tipaza_64K.mp3
+#EXTINF:-1,Radio_Illizi
+200 https://webradio.tda.dz/Illizi_64K.mp3
+#EXTINF:-1,Radio_Tlemcen
+200 https://webradio.tda.dz/Tlemcen_64K.mp3
+#EXTINF:-1,Radio_Chlef
+200 https://webradio.tda.dz/Chlef_64K.mp3
+#EXTINF:-1,Radio_Souk_Ahras
+200 https://webradio.tda.dz/SoukAhras_64K.mp3
+#EXTINF:-1,Radio_El_Bayadh
+https://webradio.tda.dz/ElBayedh_64K.mp3
+#EXTINF:-1,Radio_Tebessa
+200 https://webradio.tda.dz/Tebessa_64K.mp3
+#EXTINF:-1,Radio_Adrar
+200 https://webradio.tda.dz/Adrar_64K.mp3
+#EXTINF:-1,Radio_Khenchla
+200 https://webradio.tda.dz/Khenchela_64K.mp3
+#EXTINF:-1,Radio_Oran
+https://webradio.tda.dz/Oran_64K.mp3
+#EXTINF:-1,Radio_El_Oued
+200 https://webradio.tda.dz/ouedSouf_64K.mp3
+#EXTINF:-1,Radio_Djelfa
+200 https://webradio.tda.dz/Djelfa_64K.mp3
+#EXTINF:-1,Radio_Batna
+200 https://webradio.tda.dz/Batna_64K.mp3
+#EXTINF:-1,Radio_Mascara
+200 https://webradio.tda.dz/Mascara_64K.mp3
+#EXTINF:-1,Bahrain_Radio_102.3
+200 http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8
+#EXTINF:-1,Bahrain_FM_93.3
+200 http://185.105.4.106:1935/live/radio-93-3/playlist.m3u8
+#EXTINF:-1,Radio_Bahrain_96.5
+200 http://185.105.4.106:1935/live/radio-96-5/playlist.m3u8
+#EXTINF:-1,Radio_Gibraltar_PLUS_AM
+https://sh.uk.audio-stream.com/proxy/matorr00?mp=/stream
+#EXTINF:-1,Radio_Gibraltar_PLUS_FM
+200 http://s2.myradiostream.com:32910/
+#EXTINF:-1,NRJ
+302 http://cdn.nrjaudio.fm/audio1/fr/30001/aac_64.mp3
+#EXTINF:-1,Mouv’
+301 http://direct.mouv.fr/live/mouv-midfi.mp3
+#EXTINF:-1,Radio_Vinci_Autoroutes_Ouest_Centre
+200 http://str0.creacast.com/radio_vinci_autoroutes_1
+#EXTINF:-1,Radio_Vinci_Autoroutes_Grand_Ouest
+200 http://str0.creacast.com/radio_vinci_autoroutes_2
+#EXTINF:-1,Radio_Vinci_Autoroutes_Sud-Ouest
+200 http://str0.creacast.com/radio_vinci_autoroutes_3
+#EXTINF:-1,Radio_Vinci_Autoroutes_Languedoc_Roussillon
+200 http://str0.creacast.com/radio_vinci_autoroutes_4
+#EXTINF:-1,Radio_Vinci_Autoroutes_Auvergne_–_Vallée_du_Rhône
+200 http://str0.creacast.com/radio_vinci_autoroutes_5
+#EXTINF:-1,Radio_Vinci_Autoroutes_Alpes_Provence
+200 http://str0.creacast.com/radio_vinci_autoroutes_7
+#EXTINF:-1,LBC_News
+401 http://media-ice.musicradio.com/LBC1152
+#EXTINF:-1,Radio_Dimensione_Suono
+200 https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8
+#EXTINF:-1,98.4_Capital_FM
+200 https://atunwadigital.streamguys1.com/capitalfm
+#EXTINF:-1,RadioRadio
+400 https://sr6.inmystream.it:18102/stream
+#EXTINF:-1,Today_FM
+200 https://stream.audioxi.com/TD
+#EXTINF:-1,FM104
+200 https://wg.cdn.tibus.net/fm104MP3128
+#EXTINF:-1,Galway_Bay_FM
+200 https://wg.cdn.tibus.net/galwaybay.mp3
+#EXTINF:-1,Highland_Radio
+200 https://live-bauerie.sharp-stream.com/HIGHLAND
+#EXTINF:-1,ATN_News_FM
+200 https://streams.radio.co/sb55071395/listen
+#EXTINF:-1,Rádio_Luanda
+400 https://paineldj5.com.br:20089/stream
+#EXTINF:-1,Radio_5_Angola
+400 https://paineldj5.com.br:20088/stream
+#EXTINF:-1,Canal_A
+400 https://paineldj5.com.br:20087/stream
+#EXTINF:-1,Radio_IFM
+200 https://live.ifm.tn/radio/8000/ifmlive
+#EXTINF:-1,Radio_Sawa_Mauritania
+301 https://mbn-channel-08.akacast.akamaistream.net/7/22/233457/v1/ibb.akacast.akamaistream.net/mbn_channel_08
+#EXTINF:-1,Virgin_Radio_Italia
+200 https://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1,hr3
+200 https://hlshr3.akamaized.net/hls/live/2016536/hr3/master.m3u8
+#EXTINF:-1,Fun_Radio
+405 http://icecast.funradio.fr/fun-1-44-128
+#EXTINF:-1,SR_1
+302 https://sr.audiostream.io/sr/1009/mp3/128/sr1.mp3
+#EXTINF:-1,SR_3_Saarlandwelle
+302 https://sr.audiostream.io/sr/1011/mp3/128/sr3.mp3
+#EXTINF:-1,KCLR_96FM
+400 http://216.119.152.213:8007/stream
+#EXTINF:-1,Radio_Rebelde_AM
+400 https://icecast.teveo.cu/zrXXWK9F
+#EXTINF:-1,Starr_FM
+200 https://starrfm-atunwadigital.streamguys1.com/starrfm
+#EXTINF:-1,Radio_Capital
+302 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8
+#EXTINF:-1,Radio_Monte_Carlo_Italia
+200 https://icy.unitedradio.it/RMC.mp3
+#EXTINF:-1,Autoroute_Info_Sud
+400 https://media.autorouteinfo.fr/direct_sud.mp3
+#EXTINF:-1,Autoroute_Info_Nord
+400 http://media.autorouteinfo.fr:8000/direct_nord.mp3
+#EXTINF:-1,Radio_Mirchi
+200 http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1,Public_Radio_of_Armenia
+http://178.160.193.131:8000/stream
+#EXTINF:-1,Kuwait_FM_103.7
+200 https://hiplayer.hibridcdn.net/t/kwmedia-kwfm.m3u8
+#EXTINF:-1,Super_Staion_FM_99.7
+200 https://hiplayer.hibridcdn.net/t/kwmedia-kwsuper.m3u8
+#EXTINF:-1,Kuwait_Radio_One_89.5
+200 https://hiplayer.hibridcdn.net/t/kwmedia-kwradio1.m3u8
+#EXTINF:-1,OFM_93.9
+200 https://hiplayer.hibridcdn.net/t/kwmedia-kwofm.m3u8
+#EXTINF:-1,Kasapa_FM
+302 https://stream.zeno.fm/3eh6htuyk8quv
+#EXTINF:-1,Radio_Nova_France
+200 http://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1,Radio_Jambo
+200 https://radiojambo-atunwadigital.streamguys1.com/radiojambo
+#EXTINF:-1,Radio_Reloj
+400 https://icecast.teveo.cu/b3jbfThq
+#EXTINF:-1,LifeGate_Radio
+302 http://onair11.xdevel.com:8024/
+#EXTINF:-1,Radio_Salam_Watandar
+200 http://s10.myradiostream.com:12238/
+#EXTINF:-1,Spogmai_Radio
+200 http://ca10.rcast.net:8026/stream.mp3
+#EXTINF:-1,À_Punt_FM
+403 https://bcovlive-a.akamaihd.net/13b49103a31b48dfa5edf508440cb6f9/eu-central-1/6057955885001/playlist-audio_dvr.m3u8
+#EXTINF:-1,Canarias_Radio
+https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3
+#EXTINF:-1,R101
+200 http://icecast.unitedradio.it/r101_mp3
+#EXTINF:-1,Radio_Radicale
+400 https://live.radioradicale.it/live.mp3
+#EXTINF:-1,Manx_Radio_FM
+200 https://listen-manxradio.sharp-stream.com/manxradiofm.aac
+#EXTINF:-1,Manx_Radio_AM
+200 https://listen-manxradio.sharp-stream.com/manxradioam.aac
+#EXTINF:-1,Radio_1_Tahiti
+400 https://live.radio1.pf:8443/radio1
+#EXTINF:-1,AutoRadio_95.1
+200 https://tv.cdn.xsg.ge/cld9-0386/avtoradio/index.m3u8
+#EXTINF:-1,Radio_Popolare
+http://live.radiopopolare.it/radiopop2
+#EXTINF:-1,big_FM_89.5
+302 https://stream.bigfm.de/deutschland/mp3-128/homepage
+#EXTINF:-1,Radio_Mainwelle
+302 https://webstream.mainwelle.de/radio-mainwelle.mp3
+#EXTINF:-1,Radio_Bamberg
+302 https://webstream.radio-bamberg.de/radio-bamberg.mp3
+#EXTINF:-1,Radio_Veseljak
+400 https://live.radio.si/Veseljak
+#EXTINF:-1,WLR_FM
+200 http://stream.audioxi.com/WLRAAC
+#EXTINF:-1,Dublin’s_98FM
+200 https://stream.audioxi.com/98
+#EXTINF:-1,Kfm_Radio
+200 http://sirius.shoutca.st:9307/stream
+#EXTINF:-1,Générations
+200 http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
+#EXTINF:-1,Contact_FM
+200 https://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
+#EXTINF:-1,Radio_FG
+302 http://radiofg.impek.com/fg.mp3
+#EXTINF:-1,Radio_Scoop_Lyon
+200 https://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-64.aac
+#EXTINF:-1,Sanef_Est
+200 https://sanef.ice.infomaniak.ch/sanef1077-est.mp3
+#EXTINF:-1,Sanef_Ouest
+200 https://sanef.ice.infomaniak.ch/sanef1077-ouest.mp3
+#EXTINF:-1,Sanef_Nord
+200 https://sanef.ice.infomaniak.ch/sanef1077-nord.mp3
+#EXTINF:-1,Uniiq_FM
+https://mediagh.us:2000/stream/uniiqfm
+#EXTINF:-1,ABS_Radio
+400 http://cassini.shoutca.st:8466/stream
+#EXTINF:-1,Radio_Brunei_Nasional_FM
+200 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+#EXTINF:-1,Pelangi_FM
+200 https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
+#EXTINF:-1,Life_Radio
+https://cors-proxy.elfsight.com/https://cast4.asurahosting.com/proxy/life/stream
+#EXTINF:-1,Rádio_Atlântico
+502 https://s05.w3bserver.com:20070/stream
+#EXTINF:-1,Radio_Net_FM
+400 http://reflector.radionet.si:8000/stream.ogg
+#EXTINF:-1,Radio_Triglav
+400 https://live.radio.si/Triglav
+#EXTINF:-1,Radio_Mauritanie
+https://radiomauritaniechaine1.ice.infomaniak.ch/radiomauritaniechaine1.aac
+#EXTINF:-1,MNB_Public_Radio
+http://103.14.38.108:8000/radio1
+#EXTINF:-1,MNB_Public_Radio_3
+http://103.14.38.108:8000/radio2
+#EXTINF:-1,Joe
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3
+#EXTINF:-1,Radju_Malta
+401 http://s38.myradiostream.com:6982/listen.mp3
+#EXTINF:-1,Onda_Vasca_Bizkaia
+301 https://live.ondavasca.com:8001/bizkaia
+#EXTINF:-1,Radio_Globo
+http://178.33.72.12/globorm64
+#EXTINF:-1,Radio_Bruno
+200 http://stream1.xdevel.com/audio4s975355-254/stream/icecast.audio
+#EXTINF:-1,Radio_Gong
+302 https://frontend.streamonkey.net/gong-live
+#EXTINF:-1,Time_107.5
+200 https://ads-direct.sharp-stream.com/1075.mp3
+#EXTINF:-1,Radio_Kerry
+200 https://edge.audioxi.com/KERRY
+#EXTINF:-1,Chérie_FM
+302 http://cdn.nrjaudio.fm/audio1/fr/30201/aac_64.mp3
+#EXTINF:-1,Shannonside_FM
+200 https://edge.audioxi.com/NORTHERNSOUND
+#EXTINF:-1,Cork’s_96FM
+200 https://wg.cdn.tibus.net/96fm
+#EXTINF:-1,Radio_Subasio
+200 http://icy.unitedradio.it/Subasio.mp3
+#EXTINF:-1,N-Joy
+302 https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio_Charivari
+302 https://rs5.stream24.net/stream?ref=charivari.de_html5_standalone
+#EXTINF:-1,Radio_Espace
+200 http://radioespace.ice.infomaniak.ch/radioespace-high.mp3
+#EXTINF:-1,Sud_Radio
+200 https://start-sud.ice.infomaniak.ch/start-sud-high.mp3
+#EXTINF:-1,Plein_Air
+400 http://stream-01.pleinair.net:8000/pleinair
+#EXTINF:-1,Radio_Cabo_Verde
+301 http://radios.vpn.sapo.pt/CV/radio7.mp3
+#EXTINF:-1,L’Essentiel_Radio
+https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
+#EXTINF:-1,Asan_Radio
+400 http://94.20.74.206:4448/stream1
+#EXTINF:-1,Observer_Radio
+http://s8.voscast.com:8176/
+#EXTINF:-1,egoFM
+302 https://streams.egofm.de/egoFM-hq
+#EXTINF:-1,Radio_8_89.4_FM
+200 https://live.radio8.de:8003/liver8?
+#EXTINF:-1,Das_Neue_Radio_Seefunk_Hochrhein
+200 https://webradio.radio-seefunk.de/live
+#EXTINF:-1,Das_Neue_Radio_Seefunk_Bodensee-Oberschwaben
+200 https://webradio.radio-seefunk.de/live64
+#EXTINF:-1,BFBS_Germany
+200 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac
+#EXTINF:-1,Radio_Antena_M
+200 http://radioservis.me:8010/antenamlive
+#EXTINF:-1,ONE_Radio_Malta
+400 https://s10.voscast.com:8203/stream
+#EXTINF:-1,Onda_Regional_de_Murcia
+https://live.redctnet.es/live/orm/orm/chunklist.m3u8
+#EXTINF:-1,Radio_Cidade_Cabo_Verde
+401 http://hts02.kshost.com.br:9288/live
+#EXTINF:-1,Radio_Pulsar
+200 http://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-64.mp3
+#EXTINF:-1,Bremen_Eins
+302 https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3
+#EXTINF:-1,Bremen_Next
+302 https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio_One_Mauritius
+https://webstream.r1.mu/proxy/r1stream128fm/stream
+#EXTINF:-1,Die_neue_Welle
+302 http://dieneuewelle.cast.addradio.de/dieneuewelle/simulcast/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Top_FM_103.1
+http://184.154.43.106:8267/live
+#EXTINF:-1,Best_FM_Mauritius
+200 https://radio.mbconline.xyz/hls/bestfm.m3u8
+#EXTINF:-1,NRJ_Maurice
+200 https://radio.mbconline.xyz/hls/musicfm.m3u8
+#EXTINF:-1,Radio_Maurice
+200 https://radio.mbconline.xyz/hls/radiomaurice.m3u8
+#EXTINF:-1,Taal_FM
+200 https://radio.mbconline.xyz/hls/tallfm.m3u8
+#EXTINF:-1,Radio_Mauritius
+200 https://radio.mbconline.xyz/hls/radiomauritus.m3u8
+#EXTINF:-1,Rodrigues_FM
+200 https://radio.mbconline.xyz/hls/rodrigusfm.m3u8
+#EXTINF:-1,Tipp_FM
+200 https://live-bauerie.sharp-stream.com/TIPPFM
+#EXTINF:-1,SPIN_1038
+200 https://stream.audioxi.com/SP
+#EXTINF:-1,Radio_Nova_100FM
+200 https://stream.audioxi.com/NOVA
+#EXTINF:-1,Radio_Fryksdalen
+400 http://webradio.radiofryksdalen.se:8000/RF_Live
+#EXTINF:-1,Västerås_Närradio
+http://46.17.184.39:8000/airtime_128
+#EXTINF:-1,Radio_Krokom
+200 http://radiokrokom.ddns.net:80/
+#EXTINF:-1,Kepez_FM
+400 http://85.132.78.122:3344/now
+#EXTINF:-1,94.3_rs2
+302 https://stream.rs2.de/rs2/mp3-128
+#EXTINF:-1,Rire_&_Chansons
+302 http://cdn.nrjaudio.fm/audio1/fr/30401/aac_64.mp3
+#EXTINF:-1,hr4
+200 https://hlshr4.akamaized.net/hls/live/2016537/hr4/master.m3u8
+#EXTINF:-1,hr1_94.4_FM
+200 https://hlshr1.akamaized.net/hls/live/2016533/hr1/master.m3u8
+#EXTINF:-1,Radio_Bénin
+200 https://listen.radioking.com/radio/47608/stream/84430
+#EXTINF:-1,Atlantic_FM_Bénin
+404 https://listen.radioking.com/radio/25120/stream/57844
+#EXTINF:-1,Radio_Parakou
+200 https://listen.radioking.com/radio/51919/stream/88927
+#EXTINF:-1,Radio_Città_Aperta
+302 https://www.radiocittaperta.it/redirected-weighted.php
+#EXTINF:-1,Aragón_Radio
+404 https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
+#EXTINF:-1,Radio_Onda_Rossa
+404 https://giffard.streampunk.cc/_stream/ondarossa.ogg
+#EXTINF:-1,ODS_Radio
+200 http://ods.ice.infomaniak.ch/ods-high.mp3
+#EXTINF:-1,Tendance_Ouest
+http://streaming.tendanceouest.com/saintlo.mp3
+#EXTINF:-1,Baden_FM
+302 https://frontend.streams.baden.fm/badenfm-onair
+#EXTINF:-1,Donau_3_FM
+https://donau3fm-live.cast.addradio.de/donau3fm/live/mp3/high?ar-distributor=ffa0
+#EXTINF:-1,BFBS_Dirt
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs22.aac
+#EXTINF:-1,BFBS_Unwind
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs24.aac
+#EXTINF:-1,BFBS_Brize_Norton
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs25.aac
+#EXTINF:-1,Radio_Astana
+200 https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
+#EXTINF:-1,The_National_Voice_1540_AM
+http://znsradiogroup.streamcomedia.com:9788/zns1540am
+#EXTINF:-1,RTNB_Radio_1
+http://41.79.226.195:8000/stream-RTNB1
+#EXTINF:-1,RTNB_Radio_2
+http://41.79.226.196:8000/stream
+#EXTINF:-1,RTL_Radio
+200 https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113
+#EXTINF:-1,Radio_Ton_Baden_Württemberg
+302 http://live.radioton.de/rt-live-bw
+#EXTINF:-1,Radio_Univox
+https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream
+#EXTINF:-1,FluxFM
+302 https://fluxmusic.api.radiosphere.io/channels/FluxFM/stream.mp3
+#EXTINF:-1,Krugoval_FM
+http://144.76.172.23:7043/
+#EXTINF:-1,East_Coast_FM
+200 http://sirius.shoutca.st:8461/
+#EXTINF:-1,South_East_Radio
+200 https://edge4.audioxi.com/SOUTHEAST
+#EXTINF:-1,Ouï_FM
+200 https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
+#EXTINF:-1,Radio_Latina
+200 https://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+#EXTINF:-1,Voltage
+200 https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3
+#EXTINF:-1,Skyrock
+200 http://icecast.skyrock.net/s/parisidf_aac_64k
+#EXTINF:-1,Wit_FM_Périgueux
+200 https://witperigueux.ice.infomaniak.ch/witperigueux.mp3
+#EXTINF:-1,Wit_FM_Arcachon
+200 https://witarcachon.ice.infomaniak.ch/witarcachon.mp3
+#EXTINF:-1,Wit_FM_Bordeaux
+200 https://witbordeaux.ice.infomaniak.ch/witbordeaux.mp3
+#EXTINF:-1,RTS_FM
+404 https://str0.creacast.com/rts-national.mp3
+#EXTINF:-1,Maritima_Radio_Étang_de_Berre
+200 https://maritima936.ice.infomaniak.ch/maritima936-128.mp3
+#EXTINF:-1,Dublin’s_Q102
+200 https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:-1,C103
+200 https://wg.cdn.tibus.net/C103
+#EXTINF:-1,Vibration
+200 https://vibration.ice.infomaniak.ch/vibration-high.mp3
+#EXTINF:-1,Alouette_FM
+200 https://alouette.ice.infomaniak.ch/alouette-high.mp3
+#EXTINF:-1,Mona_FM
+200 https://monafm.ice.infomaniak.ch/monafm-high.mp3
+#EXTINF:-1,Delta_FM_Dunkerque
+200 https://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.mp3
+#EXTINF:-1,Delta_FM_Saint-Omer
+200 https://deltafmsaintomer.ice.infomaniak.ch/deltafmsaintomer-high.mp3
+#EXTINF:-1,Delta_FM_Lille
+200 http://deltafmregion.ice.infomaniak.ch/deltafmregion-128.aac
+#EXTINF:-1,Delta_FM_Boulogne
+200 https://deltafmboulogne.ice.infomaniak.ch/deltafmboulogne-high.mp3
+#EXTINF:-1,Delta_FM_Calais
+200 http://deltafmcalais.ice.infomaniak.ch/deltafmcalais-128.aac
+#EXTINF:-1,Top_Albania_Radio
+403 https://live.top-media.al/tar
+#EXTINF:-1,D!rect_FM_Metz
+200 https://directfm.ice.infomaniak.ch/directfm-128.mp3
+#EXTINF:-1,Beur_FM
+200 https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
+#EXTINF:-1,Forum
+200 https://start-forum.ice.infomaniak.ch/start-forum-high.mp3
+#EXTINF:-1,Rádio_Macau_Portuguese
+https://live4.tdm.com.mo/live/_definst_/rch1.live/chunklist.m3u8
+#EXTINF:-1,Radio_Macau_Cantonese
+https://live4.tdm.com.mo/live/_definst_/rch2.live/chunklist.m3u8
+#EXTINF:-1,Qazaq_Radiosy
+200 https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+#EXTINF:-1,ABC_Radio_89.2
+302 http://stream.zeno.fm/aqs8z2kn944tv
+#EXTINF:-1,BFBS_Afghanistan
+200 http://edge-audio-01-cr.sharp-stream.com/ssvcbfbs9.mp3
+#EXTINF:-1,YFM_Ghana
+200 https://yfm1079accra-atunwadigital.streamguys1.com/yfm1079accra
+#EXTINF:-1,Radio_XYZ
+302 http://stream.zeno.fm/jlcgxhhwoymvv
+#EXTINF:-1,Drugačija_Radio_Stanica
+https://eu2.fastcast4u.com/proxy/mic0?mp=/stream
+#EXTINF:-1,GHRadio1
+302 https://stream.zeno.fm/dzgdmrn0c5zuv
+#EXTINF:-1,Jumor_FM
+https://radio.mixnews.lv/jumorfm_192
+#EXTINF:-1,Rádio_Moçambique_Antena_Nacional
+https://node.stream-africa.com:8443/AntenaNacional
+#EXTINF:-1,Rádio_Moçambique_EP_Sofala
+https://node.stream-africa.com:8443/Sofala
+#EXTINF:-1,Rádio_Moçambique_EP_Gaza
+https://node.stream-africa.com:8443/Gaza
+#EXTINF:-1,Wüste_Welle
+400 http://livestream.wueste-welle.de:8000/mp3
+#EXTINF:-1,105’5_Spreeradio
+302 https://stream.spreeradio.de/spree-live/mp3-128/konsole/
+#EXTINF:-1,BB_Radio
+200 https://irmedia.streamabc.net/irm-bbradiolive-mp3-128-4531502
+#EXTINF:-1,Radio_Métropole
+200 https://s4.radio.co/s5cedb108a/low
+#EXTINF:-1,BFBS_UK
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs1.aac
+#EXTINF:-1,BFBS_Radio_2
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs2.aac
+#EXTINF:-1,BFBS_Canada
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs12.aac
+#EXTINF:-1,BFBS_Cyprus
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs8.aac
+#EXTINF:-1,BFBS_Gurkha
+200 http://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs3.mp3
+#EXTINF:-1,BFBS_Northern_Ireland
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs4.aac
+#EXTINF:-1,BFBS_Falklands
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs6.aac
+#EXTINF:-1,BFBS_OPS
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs9.aac
+#EXTINF:-1,BFBS_Aldershot
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs13.aac
+#EXTINF:-1,BFBS_Blandford
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs14.aac
+#EXTINF:-1,BFBS_Catterick
+200 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs15.aac

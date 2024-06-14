@@ -1,0 +1,98 @@
+#EXTINF:-1,Radio_Karnaval
+http://online.carnivalfm.ru:8000/stream/2
+#EXTINF:-1,Bit_FM
+200 http://150.209.66.45:8000/
+#EXTINF:-1,STYL_CLASSICS
+200 http://s2.nexuscast.com:8042/
+#EXTINF:-1,R101_-_101.2_FM_Milano
+200 https://icecast.unitedradio.it/r101_mp3
+#EXTINF:-1,Dimensione_Suono_Due
+200 https://stream.dimensionesuonosoft.radio/audio/dssn.stream_aac/chunklist.m3u8
+#EXTINF:-1,Die_Antenne
+https://stream.dieantenne.it:8443/
+#EXTINF:-1,ctuSlow-The_Love_Channel
+https://maggie.torontocast.com:8044/stream
+#EXTINF:-1,ONIX_RADIO
+200 http://91.121.65.37:18784/
+#EXTINF:-1,Guntur_FM
+https://pu.klikhost.com/proxy/guntur/stream
+#EXTINF:-1,Guntur_FM_-_104.6_FM
+http://pu.klikhost.com/proxy/guntur/stream
+#EXTINF:-1,Q_Music
+200 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_32.aac
+#EXTINF:-1,Radio_8FM
+200 http://server-81.stream-server.nl/stream
+#EXTINF:-1,4SSS_-_Mix_FM_92.7_FM
+200 https://stream.rcs.revma.com/z06q4stdwhruv.m4a?1613648250
+#EXTINF:-1,Radio_ZET_-_107.5_FM
+302 https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+#EXTINF:-1,Radio_RMF_Gold
+200 http://195.150.20.5:8000/rmf_gold
+#EXTINF:-1,Akademickie_Radio_Index_96.0_FM
+200 http://212.109.136.69:8000/
+#EXTINF:-1,Baba_Misha_Radio
+200 http://radio.ukraudio.com:8000/babamisha.aac
+#EXTINF:-1,COOL_FM_(from_COOLFM.hu)
+200 https://mediagw.e-tiger.net/stream/coolfmtin
+#EXTINF:-1,Ljungbykanalen
+400 http://lyssna.ljungbykanalen.se/lkweb
+#EXTINF:-1,Kiss_98
+400 http://icecast2.play.cz:8000/kiss128aac
+#EXTINF:-1,Kiss_98_FM_Prague
+400 http://icecast2.play.cz/kiss128aac
+#EXTINF:-1,Hitradio_Vysocina
+400 https://ice5.abradio.cz/hitvysocina128.mp3
+#EXTINF:-1,Hitradio_Orion_Morava
+400 http://ice.abradio.cz:80/orionmorava64.mp3
+#EXTINF:-1,Hitradio_FM_Plus
+400 http://ice.abradio.cz:80/fmplus64.mp3
+#EXTINF:-1,Hitradio_FM-_102.8_FM
+400 http://ice.abradio.cz:80/hitradiofm64.mp3
+#EXTINF:-1,Expres_Radio
+400 http://icecast5.play.cz:80/expres64mp3
+#EXTINF:-1,Hitradio_Orion
+400 http://ice.abradio.cz:80/orion64.mp3
+#EXTINF:-1,Hitradio_Magic_Brno
+400 http://ice.abradio.cz/magicbrno64.mp3
+#EXTINF:-1,Hitradio_Orion_Valassko
+400 http://ice.abradio.cz:80/orionval64.mp3
+#EXTINF:-1,Radio_Hitradio_Orion_High
+400 http://ice.abradio.cz/orion128.mp3
+#EXTINF:-1,Radio_Hitradio_Orion_Valassko_Low
+400 http://ice.abradio.cz/orionval64.mp3
+#EXTINF:-1,Code_Hits_1
+https://radio7.pro-fhi.net/listen/xqahcorv/stream.mp3
+#EXTINF:-1,1_Radio_Haugaland
+200 http://radioip.no:8000/stream/1/
+#EXTINF:-1,Radio_1_-_Koper
+400 http://live.radio.si/Radio1
+#EXTINF:-1,KALC_Alice_105.9
+https://live.wostreaming.net/manifest/audacy-kalcfmaac-hlsc.m3u8?source=aud-webplayer
+#EXTINF:-1,Mix_94.5
+https://live.wostreaming.net/manifest/saga-wlrwfmaac-hlsc1.m3u8?source=mytunerapp
+#EXTINF:-1,Heart_Wiltshire
+401 https://media-ice.musicradio.com/HeartWiltshireMP3
+#EXTINF:-1,Radio_Oxygène
+200 https://streamingp.shoutcast.com/radio-oxygene-vercors
+#EXTINF:-1,Mpower
+http://196.214.53.82:88/broadwave.m3u?src=1
+#EXTINF:-1,Q102
+400 http://stream.it-solutions.ge:8000/mp3-starfm
+#EXTINF:-1,WBVI_Mix_96.7
+401 https://media-ice.musicradio.com/HeartNorthDevonMP3
+#EXTINF:-1,KPLD_Planet_94.1
+200 https://icast.connectmedia.hu/5201/live.mp3
+#EXTINF:-1,Радио_Витоша_97.6
+200 https://bss1.neterra.tv/vitosha/vitosha.m3u8
+#EXTINF:-1,Heart_103.1_&_102.8_–_Kent
+401 https://media-ice.musicradio.com/HeartKentMP3
+#EXTINF:-1,Sunshine_855
+200 https://icecast.easystream.co.uk:8000/sunshine855
+#EXTINF:-1,Q108
+https://live.wostreaming.net/manifest/saga-wcvqfmaac-hlsc2.m3u8?source=mytunerapp
+#EXTINF:-1,CKGB_KISS_99.3
+200 https://rogers-hls.leanstream.co/rogers/tim993.stream/48k/playlist.m3u8
+#EXTINF:-1,Heart_102.4_&_103.5_–_Sussex
+401 https://ice-sov.musicradio.com/HeartSussexMP3
+#EXTINF:-1,Motion_Radio_97.5
+https://cast1.my-control-panel.com/proxy/radioso2/stream

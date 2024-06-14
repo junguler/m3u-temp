@@ -1,0 +1,68 @@
+#EXTINF:-1,SW-Radio_Espanol
+400 http://segenswelle.de:8000/espanol
+#EXTINF:-1,Tropicalísima_(Ciudad_de_México)_-_1350_AM_-_XEQK-AM_-_IMER_-_Ciudad_de_México
+200 https://s2.mexside.net/8030/stream
+#EXTINF:-1,TUDN_Radio_(Chicago)_-_1200_AM_-_WRTO_-_Uforia_Audio_Network_-_Chicago,_Illinois
+https://prod-35-230-119-33.wostreaming.net/univision-deportesaac-imc2
+#EXTINF:-1,TUDN_Radio_(Dallas)_-_1270_AM_-_KFLC_-_Uforia_Audio_Network_-_Dallas,_Texas
+https://prod-34-82-80-86.wostreaming.net/univision-deportesaac-imc2
+#EXTINF:-1,TUDN_Radio_(Las_Vegas)_-_870_AM_-_KLSQ_-_Uforia_Audio_Network_-_Las_Vegas,_Nevada
+https://prod-34-145-12-218.wostreaming.net/univision-deportesaac-imc2
+#EXTINF:-1,TUDN_Radio_(San_Diego)_-_1420_AM_-_XEXX-AM_-_PSN_Primer_Sistema_de_Noticias_-_Tijuana,_Baja_California
+http://184.154.43.106:8078/live?type=.aac
+#EXTINF:-1,Tus_Favoritas_(Matamoros)_-_107.1_FM_-_XHVTH-FM_-_Multimedios_Radio_-_Matamoros,_TM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/XHVTHFM_SC
+#EXTINF:-1,Ultra_(Cadereyta)_-_92.3_FM_-_XHPCMQ-FM_-_Grupo_ULTRA_-_Cadereyta,_Querétaro
+https://icecastultra.duckdns.org/livecad
+#EXTINF:-1,Ultra_(Huauchinango)_-_91.7_FM_-_XHPHBP-FM_-_Grupo_ULTRA_-_Huauchinango,_Puebla
+https://icecastultra.duckdns.org/livehua
+#EXTINF:-1,Ultra_(Puebla)_-_92.5_FM_-_XHZM-FM_-_Grupo_ULTRA_-_Puebla,_Puebla
+https://icecastultra.duckdns.org/livepue
+#EXTINF:-1,Ultra_(Toluca)_-_101.3_FM_-_XHZA-FM_-_Grupo_ULTRA_-_Toluca,_Estado_de_México
+https://icecastultra.duckdns.org/livetol
+#EXTINF:-1,Ultra_(Tulancingo)_-_102.9_FM_-_XHTNO-FM_-_Grupo_ULTRA_-_Tulancingo,_Hidalgo
+https://icecastultra.duckdns.org/livetul
+#EXTINF:-1,Ultra_FM_(León)_-_98.3_FM_-_XHLG-FM_-_Promomedios_-_León,_Guanajuato
+302 https://stream.zeno.fm/pbe651t0ra0uv
+#EXTINF:-1,UNIVERSAL_Ciudad_de_México_-_1110_AM_-_XERED-AM_-_Grupo_Radio_Centro_-_Ciudad_de_México
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
+#EXTINF:-1,Universal_Sónica_(Cuautla)_-_1390_AM_-_XECTAM-AM_-_Instituto_Morelense_de_Radio_y_Televisión_(IMRyT)_-_Cuautla,_Morelos
+http://204.12.193.98:8175/stream
+#EXTINF:-1,Vida_(Acapulco)_-_89.7_FM_-_XHKJ-FM_-_Grupo_Audiorama_Comunicaciones_-_Acapulco,_Guerrero
+200 https://ss1.audiorama.com.mx:6610/
+#EXTINF:-1,Vida_(Mexicali)_-_1370_AM_-_XEHG-AM_-_Grupo_Audiorama_Comunicaciones_-_Mexicali,_Baja_California
+200 https://ss1.audiorama.com.mx:6596/stream
+#EXTINF:-1,Vida_Romántica_(Durango)_-_104.5_FM_-_XHDRD-FM_-_Radiorama_-_Durango,_Durango
+http://sts.aplradiorama.mx/xhdrd.mp3
+#EXTINF:-1,Vida_Romántica_(Piedras_Negras)_105.5_FM_-_XHRE-FM_-_Radiorama_-_Piedras_Negras,_Coahuila
+https://sts.pergom.mx/XHRE
+#EXTINF:-1,Viva_(Saltillo)_-_610_AM_-_XESORN-AM_-_Grupo_M_Radio_-_Saltillo,_Coahuila
+https://s01.digitalserver.org:7614/live.mp3
+#EXTINF:-1,Viva_FM_(Nueva_Rosita)_-_105.1_FM_-_XHYJ-FM_-_Grupo_M_-_Nueva_Rosita,_Coahuila
+https://s01.digitalserver.org:7613/live.mp3
+#EXTINF:-1,Vive_FM_(Doctor_Arroyo)_-_96.5_FM_-_XHARR-FM_-_Sistema_de_Radio_y_Televisión_de_Nuevo_León_-_Doctor_Arroyo,_Nuevo_León
+200 https://s2.mexside.net/8112/stream
+#EXTINF:-1,Vive_FM_(Galeana)_-_93.7_FM_-_XHGAL-FM_-_Sistema_de_Radio_y_Televisión_de_Nuevo_León_-_Galeana,_Nuevo_León
+200 https://s2.mexside.net/8110/stream
+#EXTINF:-1,Vive_FM_(Tehuacán)_-_106.3_FM_-_XHETE-FM_-_Cinco_Radio_-_Tehuacán,_Puebla
+302 https://stream.zeno.fm/nnrwdakzm18uv
+#EXTINF:-1,Voces_(Acapulco)_-_92.1_FM_-_XHACD-FM_-_Grupo_Audiorama_Comunicaciones_-_Acapulco,_Guerrero
+200 https://ss1.audiorama.com.mx:6612/stream
+#EXTINF:-1,Voces_Campeche_(Tenabo)_-_920_AM_-_XESTRC-AM_-_Sistema_de_Televisión_y_Radio_de_Campeche_-_Tenabo,_CM
+http://192.187.112.50:8119/?type=http\u0026nocache=158
+#EXTINF:-1,VOX_(Morelia)_-_103.3_FM_-_XHMICH-FM_-_Grupo_VOX_-_Morelia,_MI
+http://162.144.149.103:2084/
+#EXTINF:-1,Vox_Love_Station_Villahermosa_-_97.3_FM_-_XHVB-FM_-_Radio_Núcleo_-_Villahermosa,_Tabasco
+https://radionucleo.com:8012/
+#EXTINF:-1,W_Radio_Acapulco_-_96.9_FM_-_XHNS-FM_-_Grupo_Radio_Visión_-_Acapulco,_Guerrero
+200 https://radiovision.mi-radio.stream:11004/stream
+#EXTINF:-1,W_Radio_Cuernavaca_-_100.1_FM_-_XHTIX-FM_-_Cuernavaca,_Morelos
+200 https://stream9.mexiserver.com/8342/stream
+#EXTINF:-1,W_Radio_Querétaro_-_1310_AM_-_XEQRMD-AM_-_GlobalMedia_-_Querétaro,_Querétaro
+https://playradio.mx/proxy/wqueretaro?mp=/stream
+#EXTINF:-1,W_Radio_Tampico_-_100.9_FM_-_XHS-FM_-_Grupo_AS_-_Tampico,_Tamaulipas
+404 https://radio.grupoas.stream:5507/stream
+#EXTINF:-1,Z_92_(Miami)_-_92.3_FM_-_WCMQ-FM_-_Spanish_Broadcasting_System_-_Miami,_Florida
+https://liveaudio.lamusica.com/MIA_WCMQ_icy
+#EXTINF:-1,Zer_Radio_(Ciudad_de_México)_-_1320_AM_-_XEARZ-AM_-_Grupo_Radiofónico_ZER_-_Ciudad_de_México
+200 https://cast.zuperdns.net/8032/stream

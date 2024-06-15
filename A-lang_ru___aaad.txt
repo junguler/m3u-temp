@@ -1,0 +1,256 @@
+#EXTINF:-1,Радио_Родных_Дорог
+200 http://stream1.radiord.ru:8000/live96.aac?n=c2345a24234f043b24ca
+#EXTINF:-1,Радио_Романтика
+200 https://pub0202.101.ru:8443/stream/air/aac/64/101?n=daa8f78cc7612de3d3dd
+#EXTINF:-1,Радио_России_AAC
+200 http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps?n=3005dcbe585bfdcef95d
+#EXTINF:-1,Радио_России_Radio_Russia
+200 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps?n=d7dbd23cc8757b63487d
+#EXTINF:-1,Радио_России_Иркутск
+https://streams.vestiirk.ru:8443/ridio_rossii.mp3?n=4912f834fbcceac9b6db
+#EXTINF:-1,Радио_России_Калуга
+200 http://radio.gtrk-kaluga.ru/russiafm_kaluga?n=a596c7989cab5f4350d9
+#EXTINF:-1,Радио_России_Нижний_Новгород
+200 http://icecast.vgtrk.cdnvideo.ru/russiafm_nn?n=728107ce90568cd01f85
+#EXTINF:-1,Радио_России_Приморье
+400 http://mp3.vestiprim.ru:8000/Radio128?n=0fb28278c668ff1d0275
+#EXTINF:-1,Радио_России_Хабаровск
+400 http://188.93.129.110:8085/vestikhv?n=222ea021a85928c7130b
+#EXTINF:-1,Радио_Ростова
+301 http://radio.jingles.ru/radiorostova_all.m3u?n=63c097cf48aebae2f446
+#EXTINF:-1,Радио_Рояль
+200 https://c22.radioboss.fm:18186/stream?n=6edc494fe8657d55dcc2
+#EXTINF:-1,Радио_Русские_Песни
+200 http://listen.rusongs.ru/ru-mp3-128?n=f6df270e6c0d81a339dd
+#EXTINF:-1,Радио_Самара-Максимум
+400 http://85.236.172.22:8000/maximum?n=ba33a67748c07c67d84f
+#EXTINF:-1,Радио_Сахаров
+400 https://icecast.correctiv.net/sacharow?n=210e11e78f59bb54b8e1
+#EXTINF:-1,Радио_Свобода_Radio_Svoboda,_RFE/RL_Russian,_ch._4
+301 http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u?n=2eef759708691004256a
+#EXTINF:-1,Радио_Сектор_/_Sector_Geny_flac
+400 http://89.223.45.5:8000/geny-flac?n=e2bb6d20735e9dbba43d
+#EXTINF:-1,Радио_Сектор_/_Sector_NEXT
+400 http://89.223.45.5:8000/next-160?n=89fcec9bb546c149a18b
+#EXTINF:-1,Радио_Сектор_/_Sector_NEXT_flac
+400 http://89.223.45.5:8000/next-flac?n=2a9b79da9f319b74d758
+#EXTINF:-1,Радио_Сектор_/_Sector_NEXT_opus
+400 http://89.223.45.5:8000/next-56?n=bd41bfa3cd0c32431651
+#EXTINF:-1,Радио_Сектор_/_Sector_Progressive
+400 http://89.223.45.5:8000/progressive-160?n=e458f14d3f0a680dccb4
+#EXTINF:-1,Радио_Сектор_/_Sector_Progressive_flac
+400 http://89.223.45.5:8000/progressive-flac?n=d30c31147a77ca84346f
+#EXTINF:-1,Радио_Сектор_/_Sector_SPACE_flac
+400 http://89.223.45.5:8000/space-flac?n=41a4db5328a502c52a82
+#EXTINF:-1,Радио_Сиртаки_/_Radio_Sirtaki
+200 https://listen3.myradio24.com/sirtaki?n=c830f867bb4710371710
+#EXTINF:-1,Радио_Сити_Тюмень_Radio_City_Tyumen
+http://online.100i6fm.ru:8000/city_mp3?n=bbbc777facd01a8a2c72
+#EXTINF:-1,Радио_СПУТНИК_/_Radio_Sputnik
+http://online.sputnikfm.ru:8000/sputnik_mp3?n=67ca75d9ffa2c4d8c79e
+#EXTINF:-1,Радио_Талап
+400 https://okeyradio.ru/okey?n=c2ad583e2fb5c1956ce2
+#EXTINF:-1,Радио_Томский_Благовест
+200 http://176.65.38.3:8000/blagovest?n=e594ae11052353bb7047
+#EXTINF:-1,Радио_Турист
+200 https://listen7.myradio24.com/turist?n=d884c22aa893a16eb0d6
+#EXTINF:-1,РАДИО_ФРЕШ_-_Radio_FRESH
+200 http://fresh.volna.top/Fresh?n=d06d4fea60aa30724b4a
+#EXTINF:-1,Радио_Центр
+200 http://stream.radiocenter.net:9960/?n=121cb6e913898c2476ad
+#EXTINF:-1,Радио_ЧипльДук
+400 http://radio.4duk.ru/4duk128.mp3?n=6da2109bb31b6dd20ca1
+#EXTINF:-1,Радио_Шансон_-_Radio_Shanson
+http://chanson.hostingradio.ru:8041/chanson256.mp3?n=3ae8f31dd385310e1843
+#EXTINF:-1,Радио_Шоколад
+https://choco.hostingradio.ru:10010/fm?n=47cad2c72f22cb3e42da
+#EXTINF:-1,Радио_Эрмитаж
+http://hermitage.hostingradio.ru/hermitage128.mp3?n=286cf4b169509bdddb1e
+#EXTINF:-1,Радио_Югра
+200 http://ugra.cdnradio.ru/radiougra?n=0b31cb43dbce64226e8e
+#EXTINF:-1,Радио_Юность
+200 http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps?n=55c592c7d816f19b427a
+#EXTINF:-1,Радио-Витебск
+302 http://radio.vtv.by:8000/radio_vitebsk_128?n=02765fc489a68e5e8f09
+#EXTINF:-1,Радиостация_Маяк_Москва_128kbs
+200 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps?n=3dc291a2a0eb0c822f9f
+#EXTINF:-1,РадиусFM
+400 https://stream2.datacenter.by/radiusfm_main?n=a6df03e45ca8f40d471d
+#EXTINF:-1,Радіо_Прищепкін
+200 http://radio.ukraudio.com:8000/channel4?n=121a439abedb357f4a63
+#EXTINF:-1,Ретро_FM_—_Вечеринка
+https://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8?n=12cf6a2eae0e54c02f3c
+#EXTINF:-1,Ретро_FM_70e
+http://retro70.hostingradio.ru:8025/retro70-128.mp3?n=2cfb743225f2e1898d8a
+#EXTINF:-1,Ретро_FM_90e
+http://retro90.hostingradio.ru:8025/retro90-128.mp3?n=78298d6103eb30ca38ac
+#EXTINF:-1,Ретро_FM_Рига_Retro_FM
+200 https://live.retrofm.lv/retrofmlatvia?n=a9f22870f68551407b95
+#EXTINF:-1,Ретро_FM_Санкт-Петербург_128_kbps,_mp3
+200 http://emgspb.hostingradio.ru/retrofmspb128.mp3?n=dc0d83077742b360b776
+#EXTINF:-1,РЕТРО_ХИТ_-_RETRO_HIT
+200 http://retro.volna.top/Retro?n=5db9bc96103726c68edc
+#EXTINF:-1,Рок_АРСЕНАЛ_-_Rock_Arsenal
+http://online.rockarsenal.ru:8000/rockarsenal?n=7311410d68c73e1e6373
+#EXTINF:-1,Рок-Атака
+302 https://myradio24.org/rockataka?n=9c4eeab30b94d56e4d56
+#EXTINF:-1,Романтический_шансон
+200 http://chanson.hostingradio.ru:8041/chanson-romantic256.mp3?n=0ae0cb88d43a9c601e24
+#EXTINF:-1,Рояль
+200 https://c22.radioboss.fm:18186/stream?n=2c8917c45ff6f81e0921
+#EXTINF:-1,Русский_Рок_-_Russian_Rock
+200 http://rock.volna.top/RusRock?n=60d32429503b1f7656da
+#EXTINF:-1,Русское_Радио_Moscow
+https://rusradio.hostingradio.ru/rusradio96.aacp?n=ef407c61b79bf1373395
+#EXTINF:-1,Русское_Радио:_Русский_Рок
+200 https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp.m3u?n=eff1913295a108622425
+#EXTINF:-1,Рязанское_Епархиальное_Радио
+405 https://s01.radio-tochka.com:4995/radio?n=244f649dfec8089a8b15
+#EXTINF:-1,салют_FM
+https://stream.salyutfm.ru:8005/stream?x=1702122341752?n=e6c44188bb2358c7d4ac
+#EXTINF:-1,СВЕЖЕЕ_Europa_Plus
+http://hls-01-fresh.emgsound.ru/9/playlist.m3u8?n=d1e5219e521101403d09
+#EXTINF:-1,Свобода
+200 https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8?n=ccc4725f344b90b247ef
+#EXTINF:-1,Своё_Радио
+http://svoeradiofm.hostingradio.ru:8032/svoe-320.mp3?n=b7a78e4fb120c9962ed9
+#EXTINF:-1,Своё_радио_дЛуганск
+https://radio.gtrklnr.ru:8443/your.fm?n=3bcfd11b04e301bb78f4
+#EXTINF:-1,Севастополь_FM
+405 https://sevfm.ru:9006/stream?n=8208dd676444780c2f48
+#EXTINF:-1,Серебряный_дождь
+301 http://213.59.4.27:8000/silver128.mp3?n=b09ea5ca82100f3d0581
+#EXTINF:-1,Серебряный_Дождь_Ставрополь
+https://silverrainreg.hostingradio.ru/stavropol.silver128.mp3?n=0d66fe6a80df5be19dee
+#EXTINF:-1,Сказка_FM
+200 https://skazka.amgradio.ru/Skazka?n=f7a79513a8fb779dbf72
+#EXTINF:-1,Соловьев
+https://solovievfm.hostingradio.ru/solovievfm128.aacp?n=2896a022cceb367721d7
+#EXTINF:-1,Соль_Fm_Соликамск
+403 https://www.liveradio.es/http://solfm.ru:8000/online128?n=8a1f49f1e6dfc646eee2
+#EXTINF:-1,СПРАВЕДЛИВАЯ_РОССИЯ
+https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3?n=1144296cda77ccb0a11e
+#EXTINF:-1,Спутник
+https://icecast-rian.cdnvideo.ru/voicerus?n=1341e2ad9f0bf62b10ef
+#EXTINF:-1,Спутник_91.2_fm
+200 https://stream03.pcradio.ru/sputnik_ria_ru-med?n=089c40d2b7df306e7785
+#EXTINF:-1,Спутник_ФМ_-_Уфимская_Волна
+400 https://radio.mediacdn.ru/sputnik_fm.mp3?n=6cbc1524d1c6dc11ced9
+#EXTINF:-1,Станция_Кассиопея
+200 https://stream.cassiopeia-station.ru:1075/stream?n=c51b4acd6248451b5f4b
+#EXTINF:-1,Старое_радио_-_Old_Radio
+400 http://195.91.237.50:8000/ices128?n=ee421b0bfeedb623b230
+#EXTINF:-1,Старое_радио_-_Музыка
+200 http://www.staroeradio.ru/music128.m3u?n=b01281c4db8713f62ea0
+#EXTINF:-1,Телеканал_Дождь._Звук
+200 https://1527562093.rsc.cdn77.org/transcode/ses_audio_only/chunklist.m3u8?n=1959eb708ca2a3df5bef
+#EXTINF:-1,Удалое_радио
+http://l29.no-ip.org:8002/listen.pls?n=71b9d5629ed6d6d0e215
+#EXTINF:-1,ФМ_На_Дону
+400 https://radio.mediacdn.ru/fm_na_donu.mp3?n=638610e13b4efe61a771
+#EXTINF:-1,ХАЙП_FM_-_HYPE_FM
+200 http://hfm.volna.top/HypeFM?n=638002092a778825ab1b
+#EXTINF:-1,Чипльдук
+400 http://radio.4duk.ru/4duk128.mp3?n=f7773a7bec7ef644c470
+#EXTINF:-1,Шансон_без_цензуры
+200 http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3?n=c002b0d31f79fc74321f
+#EXTINF:-1,Шансон_Плюс
+200 http://radio.radioshansonplus.com:8000/radio?n=5507d5111ccf97471d50
+#EXTINF:-1,Шансон_Радио
+200 http://chanson.hostingradio.ru:8041/chanson128.mp3?n=041a16c7b851e3e3e613
+#EXTINF:-1,Экспресс_Радио_Орёл
+400 http://159.253.18.97:8000/128kbit.mp3?n=2058da48d5e378ab93c6
+#EXTINF:-1,эльдорадио_Eldo_Radio_101.4_St._Petersburg
+200 http://emgspb.hostingradio.ru/eldoradio128.mp3?n=59eed431b5c55597870b
+#EXTINF:-1,ЭХО
+400 https://i1.echofm.online:8443/stream?n=778442bc81a138a47c49
+#EXTINF:-1,Юмор_FM
+400 http://live.humorfm.by:8000/veseloeradio?n=79dccba70d4237604fd3
+#EXTINF:-1,Юнитон_-_Radio_Uniton
+400 http://online.uniton.ru:8300/RadioUniton128?n=68d5037ec53bf05829fa
+#EXTINF:-1,ЯН-ФМ_Anime
+302 http://stream.laut.fm/animklatu?n=105bbaf84ab7ea1b62c5
+#EXTINF:-1,ЯН.ФМ_Диско_90х_РФ
+302 https://stream.laut.fm/radio90s?n=59e5f8d571af5512724c
+#EXTINF:-1,ЯсенБит_128k
+400 http://radio.yasenbit.net:8000/yasenbit128k?n=8f21576604c6f73a25ba
+#EXTINF:-1,ЯсенБит_192Kbit/s
+400 http://radio.yasenbit.net:8000/yasenbit192k?n=ff9cecfc3459c21ee7b1
+#EXTINF:-1,קבלה_לעם_רוסית_-_Kabbalah_rus
+200 http://icecast.kab.tv/live1-rus-574bcfd5.mp3?n=29cfabcfc2d1700d2c97
+#EXTINF:-1,BnP_radio
+400 https://radio.bnp-radio.ru/live?n=97793ea9bb61a5fcc204
+#EXTINF:-1,Murka_FM
+200 https://murka.amgradio.ru/MurkaFM?n=6e02744f77d5b3a76d30
+#EXTINF:-1,Twilight_Radio
+400 https://twilightradio.online/stream?n=da6e83b72cc9287ef8f8
+#EXTINF:-1,xTream_Dance
+200 http://xradio.ovh:8020/radio.mp3?n=351af83fcf825f4b7225
+#EXTINF:-1,Радио_Лихие_Девяностые
+200 https://rr-90.hostingradio.ru/rr9096.aacp?n=ed92773258de2225f64e
+#EXTINF:-1,Радио_Родные_Песни
+200 https://rodpesni.amgradio.ru/rp?n=93049e99fb0728a8da7a
+#EXTINF:-1,Радио_Советская_ВОЛНА
+403 https://www.liveradio.es/http://station.waveradio.org/soviet?n=08dadb68579d6a79eed5
+#EXTINF:-1,Радио_Советская_Классика
+200 https://rr-sovclass.hostingradio.ru/sovclass96.aacp?n=b58706865c8d75c19e48
+#EXTINF:-1,Radio_Chocolate
+200 http://choco.hostingradio.ru:10010/fm?n=6be54a99b49e41113b5d
+#EXTINF:-1,50f.ru_-_Festival_radio_uzel
+302 https://myradio24.org/paradise?n=bd167ecdaf924647b0cd
+#EXTINF:-1,102.3_FM_Хомякс_Луганск
+https://radio.play-fm.ru:8001/homyak?n=83f54ed56bfdf8cf1e37
+#EXTINF:-1,MADFM
+200 https://azuracast.mad.pub/listen/madfm/live.mp3?n=4dd7c73529dc6f807649
+#EXTINF:-1,Radio_Maximum_-_Linkin_Park
+200 https://rusradio.hostingradio.ru/linkinpark96.aacp?n=7d0d0d793c44e075a718
+#EXTINF:-1,Radio_Maximum_-_RHCP
+https://rusradio.hostingradio.ru/maxrhcp96.aacp?n=8da8ae22ddfa31c0afdc
+#EXTINF:-1,Caspian_Business_Radio_BOSS
+302 https://myradio24.org/bosscomaz?n=6f6b38488c76c51806b8
+#EXTINF:-1,Радио_Сева_Radio_Seva_Novgorodsev
+400 https://seva.ru/radio/stream?n=a78f0af57e5924f9a8d3
+#EXTINF:-1,Радио_Сектор_/_Sector_SPACE
+400 http://89.223.45.5:8000/space-160?n=0e0e805782aa1cdc5180
+#EXTINF:-1,NRJ_Russia
+200 https://srv02.gpmradio.ru:8443/stream/air/aac/64/99?n=3336ca0273180ab63382
+#EXTINF:-1,Radio_Record_-_Russian_Gold
+https://radiorecord.hostingradio.ru/russiangold96.aacp?n=1364c1c33e77d511e58c
+#EXTINF:-1,Radio_Record_-_Russian_Hits
+https://radiorecord.hostingradio.ru/russianhits96.aacp?n=23f52ecc59a239252308
+#EXTINF:-1,НВДА
+200 http://misato.ru-hoster.com:8014/stream?n=1bbfd41990738b8e469a
+#EXTINF:-1,ABBA_Radio
+200 https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788?n=80de1f298d56f6d776f8
+#EXTINF:-1,Street_Beat_FM
+200 https://glassroomrec.s02.radio-tochka.com:5015/stream?n=3c5fada135f3003ab745
+#EXTINF:-1,Uralsound_FM
+400 http://62.16.40.250:8000/uralsoundfm?n=44d02ab691dde82baf59
+#EXTINF:-1,studio21
+200 https://stream.studio21.ru/studio2196.aacp?n=c4c08922bc0d01168e90
+#EXTINF:-1,secroot_radio
+https://music.secroot.xyz/best?n=437ea46bbfdb6ea4b1db
+#EXTINF:-1,secroot_universe_radio
+https://music.secroot.xyz/best?n=dc5ec5f35bd3006fccbf
+#EXTINF:-1,Radio_Klorax
+302 https://radio.garden/api/ara/content/listen/uDBTzy1S/channel.mp3?n=fbad5943601400208baa
+#EXTINF:-1,Coraxfunk_Antifa
+400 http://stream0.datenkollektiv.net/corax_256.mp3?n=c64d7aba572b960be84a
+#EXTINF:-1,HITRADIO_CORAX_95.9
+400 http://listen.radiocorax.de:8000/corax_256.mp3?n=be138f8d03ed78321a42
+#EXTINF:-1,Halle_Radio_95.9
+400 http://116.203.69.202:8000/corax_192.mp3?n=f13b48cf849773e96fc7
+#EXTINF:-1,За!Радио_Мелитополь
+302 https://myradio24.org/86040?n=d4df51ebf5c12c7b7247
+#EXTINF:-1,KEYGEN_FM
+http://stream.keygen-fm.ru:8082/listen.mp3?n=e2d1dcd2d39cae8ce4e6
+#EXTINF:-1,seva_ru
+400 https://seva.ru/radio/stream?n=c774c75866ab143cfbb5
+#EXTINF:-1,Echo_ЭХО_Online
+400 https://i1.echofm.online:8443/stream?n=19214cb991fbc47befce
+#EXTINF:-1,DFM_Дискач_90-х
+https://dfm-disc90.hostingradio.ru/disc9096.aacp?n=9f89345ba431db3efcc0
+#EXTINF:-1,Soothing_Jazz_radio
+200 http://stream.loveprod.ru:8020/soothingjazz?n=faa7093d5a01cd323b99
+#EXTINF:-1,Soothing_radio
+200 http://stream.loveprod.ru:8010/soothingradio?n=be5d06e2f2a1f108be10

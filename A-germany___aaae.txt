@@ -1,0 +1,1000 @@
+400 http://mp3.musicalradio.de/musicalradio.mp3
+#EXTINF:-1,Musicaplus_Radio
+302 http://stream.laut.fm/musicaplus
+#EXTINF:-1,Musik_Train
+http://streamplus19.leonex.de:11112/
+#EXTINF:-1,Musik-Kurier
+302 http://stream.laut.fm/musik-kurier
+#EXTINF:-1,MusikWelle_Allgäu
+200 http://stream.musikwelle-allgaeu.de:8000/stream1
+#EXTINF:-1,Musikzirkus
+302 http://stream.laut.fm/musikzirkus
+#EXTINF:-1,Musopen
+400 https://live.musopen.org:8085/streamvbr0?1651838123163
+#EXTINF:-1,myCORE
+302 http://stream.laut.fm/mycore
+#EXTINF:-1,N_Joy
+302 http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3?aggregator=airable
+#EXTINF:-1,N-JOY
+200 http://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u
+#EXTINF:-1,Narrenwut
+200 http://stream.laut.fm/mittelalter-net.m3u
+#EXTINF:-1,NB-Radiotreff_88,0
+400 http://mmv-mediathek.de:8000/live160
+#EXTINF:-1,NDR_1_Niedersachsen
+200 http://www.ndr.de/resources/metadaten/audio/aac/ndr1niedersachsen.m3u
+#EXTINF:-1,NDR_1_Niedersachsen_-_Region_Osnabrück
+200 https://www.ndr.de/resources/metadaten/audio/aac/ndr1niedersachsen_os.m3u
+#EXTINF:-1,NDR_1_Niedersachsen_(LG)
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_lg.m3u
+#EXTINF:-1,NDR_1_Niedersachsen_(OL)
+200 https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr1niedersachsen_ol.m3u
+#EXTINF:-1,NDR_1_Niedersachsen_(OS)
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_os.m3u
+#EXTINF:-1,NDR_1_OS_(AAC+)
+200 http://www.ndr.de/resources/metadaten/audio/aac/ndr1niedersachsen_os.m3u
+#EXTINF:-1,NDR_1_Radio_MV
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv.m3u
+#EXTINF:-1,NDR_1_Radio_MV_(HGW)
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv_hgw.m3u
+#EXTINF:-1,NDR_1_Radio_MV_(Regio_Rostock)
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv_hro.m3u
+#EXTINF:-1,NDR_1_Welle_Nord
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_ki.m3u
+#EXTINF:-1,NDR_1_Welle_Nord_|_Lübeck
+302 http://icecast.ndr.de/ndr/ndr1wellenord/luebeck/mp3/128/stream.mp3
+#EXTINF:-1,NDR_1_Welle_Nord_Norderstedt
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_nor.m3u
+#EXTINF:-1,NDR_2
+200 https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u
+#EXTINF:-1,NDR_2_-_Hamburg_|_48_kBit/s_AAC
+302 http://icecast.ndr.de/ndr/ndr2/hamburg/aac/low
+#EXTINF:-1,NDR_2_-_Mecklenburg-Vorpommern_|_48_kBit/s_AAC
+302 http://icecast.ndr.de/ndr/ndr2/mecklenburgvorpommern/aac/low
+#EXTINF:-1,NDR_2_-_Niedersachsen
+200 https://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u
+#EXTINF:-1,NDR_2_-_Niedersachsen_|_aac
+302 http://icecast.ndr.de/ndr/ndr2/niedersachsen/aac/low
+#EXTINF:-1,NDR_2_-_Schleswig-Holstein_|_48_kBit/s_AAC
+302 http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/aac/low
+#EXTINF:-1,NDR_2_(Hamburg)
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u
+#EXTINF:-1,NDR_2_(Mecklenburg-Vorpommern)
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_mv.m3u
+#EXTINF:-1,NDR_2_AAC_48_kHz
+200 http://www.ndr.de/resources/metadaten/audio/aac/ndr2_sh.m3u
+#EXTINF:-1,NDR_2_Die_Höchste_Eisenbahn
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop17.m3u
+#EXTINF:-1,NDR_2_Oldenburg
+200 https://www.ndr.de/resources/metadaten/audio/aac/ndr1niedersachsen_ol.m3u
+#EXTINF:-1,NDR_2_Rock
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop21.m3u
+#EXTINF:-1,NDR_2_Soundcheck_Neue_Musik
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop18.m3u
+#EXTINF:-1,NDR_2_Soundcheck_Party
+404 http://icecast.ndr.de/ndr/loop/22/mp3/128/stream.mp3
+#EXTINF:-1,NDR_90,3
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u
+#EXTINF:-1,NDR_BLUE
+200 http://www.ndr.de/resources/metadaten/audio/aac/ndrblue.m3u
+#EXTINF:-1,NDR_Info_(Hamburg)
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u
+#EXTINF:-1,NDR_Info_(Hamburg)_(_MP3_HTTPS-deeplink)
+302 https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+#EXTINF:-1,NDR_Info_(Hamburg)_(HTTPS_AAC)
+200 https://www.ndr.de/resources/metadaten/audio/aac/ndrinfo_hh.m3u
+#EXTINF:-1,NDR_Info_(Mecklenburg_Vorpommern)_AAC
+302 http://icecast.ndr.de/ndr/ndrinfo/mecklenburgvorpommern/aac/low
+#EXTINF:-1,NDR_Info_(Mecklenburg-Vorpommern)
+200 https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_mv.m3u
+#EXTINF:-1,NDR_Info_(Niedersachsen)
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u
+#EXTINF:-1,NDR_Info_(Schleswig-Holstein)
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u
+#EXTINF:-1,NDR_Info_Hamburg
+200 https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u
+#EXTINF:-1,NDR_Info_Play_Jazz
+404 http://icecast.ndr.de/ndr/loop/31/mp3/128/stream.mp3
+#EXTINF:-1,NDR_Info_Schleswig-Holstein
+200 https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndrinfo_sh.m3u
+#EXTINF:-1,NDR_Info_Schleswig-Holstein_aac
+200 http://www.ndr.de/resources/metadaten/audio/aac/ndrinfo_sh.m3u
+#EXTINF:-1,NDR_N-Joy_AAC_48kHz
+200 http://www.ndr.de/resources/metadaten/audio/aac/n-joy.m3u
+#EXTINF:-1,NDR_N-JOY_Club
+200 https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndrloop5.m3u
+#EXTINF:-1,NDR_N-JOY_Morningshow
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop27.m3u
+#EXTINF:-1,NDR_N-JOY_Pop
+200 https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndrloop29.m3u
+#EXTINF:-1,NDR_N-JOY_Soundfiles_Hip-Hop
+200 https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndrloop6.m3u
+#EXTINF:-1,NDR_N-JOY_Weltweit
+200 https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndrloop28.m3u
+#EXTINF:-1,NDR_Niedersachsen.TV
+405 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1,NDR_Plus
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndrplus.m3u
+#EXTINF:-1,NDR_Schlager_(aac)
+200 https://www.ndr.de/resources/metadaten/audio/aac/ndrschlager.m3u
+#EXTINF:-1,NDR2
+200 http://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u
+#EXTINF:-1,NE-WS_89.4
+https://news894-ais-edge-3007-fra-eco-cdn.cast.addradio.de/news894/live/mp3/high
+#EXTINF:-1,Neckeralb_Classik_Rock
+302 https://neckaralblive.ip-streaming.net/classicrockaacp?aw_0_1st.kuid=\u0026aw_0_1st.ksg=[]\u0026
+#EXTINF:-1,Neckeralb_Modern_Rock
+302 https://frontend.streamonkey.net/neckaralblive-modernrock?aggregator=radioplayerde\u0026=\u0026\u0026___cb=149397405724742
+#EXTINF:-1,Nectarine_Demoscene_Radio
+400 http://nectarine.from-de.com/necta192
+#EXTINF:-1,Nederpop
+302 http://stream.laut.fm/nederpop
+#EXTINF:-1,NEOFOLK
+302 https://stream.laut.fm/neofolk
+#EXTINF:-1,NEON.FM
+302 http://stream.laut.fm/neon
+#EXTINF:-1,Nerckeralb_Live
+302 https://frontend.streamonkey.net/neckaralblive-prime?aggregator=radioplayerde\u0026=\u0026\u0026___cb=241864193676160
+#EXTINF:-1,Nerds_and_Geeks:_THE_STATION
+http://136.243.156.30:2808/listen.pls?sid=2
+#EXTINF:-1,Netlabel.org_(Germany)
+200 https://netlabelorg.stream.laut.fm/netlabel_org
+#EXTINF:-1,nice_-_MIX_mit_EnricoOstendorf
+400 https://rrr.sz.xlcdn.com/?account=nice-broadcast-media-gmbh\u0026file=nice-DJ-CHANNEL-128-mp3\u0026type=live\u0026service=icecast\u0026protocol=http\u0026port=8000\u0026output=m3u
+#EXTINF:-1,Nickelodeon
+405 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1,Nightline_Radio
+200 http://www.nightline-radio.de:8000/
+#EXTINF:-1,noa4_Hamburg_HD.TV
+301 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1,noa4_Norderstedt_HD.TV
+301 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1,Nonstop_Music!
+302 http://stream.laut.fm/nonstop_music
+#EXTINF:-1,NORA_80er
+302 http://streams.norawebstreams.de/nora-80er/mp3-128/homepage/
+#EXTINF:-1,NORA_80er_Stream
+302 http://streams.norawebstreams.de/nora-80er/mp3-192/streams.norawebstreams.de/
+#EXTINF:-1,NORA_Oldie_Stream
+302 http://streams.norawebstreams.de/nora-oldies/mp3-192/streams.norawebstreams.de/
+#EXTINF:-1,NORA_Oldies
+302 http://streams.norawebstreams.de/nora-oldies/mp3-128/homepage/
+#EXTINF:-1,NORA_Webstream
+302 http://streams.norawebstreams.de/nora-live/mp3-128/homepage/
+#EXTINF:-1,Nordpolradio
+302 https://stream.laut.fm/nordpolradio
+#EXTINF:-1,Nostalgie_-_Discofever
+301 http://nrj.de/nostalgiediscofever
+#EXTINF:-1,Nostalgie_-_Livestream_Germany
+301 http://nrj.de/nostalgielivestream
+#EXTINF:-1,Nostalgie_-_Route66
+301 http://nrj.de/nostalgieroute66
+#EXTINF:-1,Notenkiste_-_deutsche_Texte
+302 http://stream.laut.fm/notenkiste
+#EXTINF:-1,Novum_FM
+400 http://fm-broadcast.com:8000/novumfm.mp3
+#EXTINF:-1,NOXX
+302 http://noxx-simulcast.cast.addradio.de/noxx/simulcast/mp3/high
+#EXTINF:-1,NRJ_Berlin
+404 http://cdn.nrjaudio.fm/adwz1/de/33001/aac_64.mp3
+#EXTINF:-1,NRJ_Deep_House
+404 https://scdn.nrjaudio.fm/de/56249/mp3_128.mp3?origine=wlan\u0026cdn_path=adswizz_lbs11\u0026adws_out_a3\u0026access_token=0c670720638f451d8a6016226edf9690
+#EXTINF:-1,NRJ_Sachsen
+301 http://nrj.de/sachsen
+#EXTINF:-1,NUMMER_1_OLDIES_-_laut.fm
+302 http://stream.laut.fm/nummer_1_oldies
+#EXTINF:-1,oeins
+400 http://radio.oeins.de:8000/oeins
+#EXTINF:-1,OEM_Radio
+200 http://148.251.92.113:8454/stream
+#EXTINF:-1,Offener_Kanal_Kiel_-_KielFM
+400 http://radio.oksh.de:8000/kielfm.mp3
+#EXTINF:-1,Offener_Kanal_OK_Westküste
+400 http://radio.oksh.de:8000/westkuestefm.mp3.m3u
+#EXTINF:-1,offener_Kanal_Saarland
+200 https://laut.fm/offenerkanalsaarland
+#EXTINF:-1,offener_Kanal_Saarland_1
+302 http://stream.laut.fm/offenerkanalsaarland
+#EXTINF:-1,Ohrenweide
+302 http://stream.laut.fm/ohrenweide
+#EXTINF:-1,Ohrfunk.de
+200 https://icecast.multhielemedia.de/radio/8000/ohrfunk
+#EXTINF:-1,Okerwelle_(104.6)
+200 https://live.okerwelle.de/playlists/live.m3u
+#EXTINF:-1,Oktoberfest
+302 http://stream.laut.fm/oktoberfest
+#EXTINF:-1,oldenburg_eins_lokalsender_(64_kbps)
+400 http://oeins.de:8000/oeins56
+#EXTINF:-1,OLDIE_ANTENNE
+200 https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer
+#EXTINF:-1,Oldie_Welle_Niederbayern
+200 http://rs4.stream24.net/oldie-welle.mp3
+#EXTINF:-1,oldie-welle-Ingolstadt
+200 https://funkhaus-ingolstadt.stream24.net/oldie-welle-ingolstadt.mp3
+#EXTINF:-1,Oldiefans_-_Das_Original
+https://server7.streamserver24.com:8080/proxy/stekonig?mp=/stream
+#EXTINF:-1,OLDSCHOOL_HIPHOP
+302 http://stream.laut.fm/oldschool-hiphop
+#EXTINF:-1,Onda_Latina
+302 http://stream.laut.fm/ondalatina
+#EXTINF:-1,Onedrop
+302 https://stream.laut.fm/onedrop
+#EXTINF:-1,Online_Radio_der_Evangeliums_Posaune
+200 https://trappist.shoutca.st/tunein/posaune.pls
+#EXTINF:-1,ORIENTAL_by_rautemusik_(rm.fm)
+302 https://oriental-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Osradio_104,8
+400 https://live.radio-aktiv.de:8443/os-radio.mp3
+#EXTINF:-1,Ostrock_und_Ostpop
+200 https://topradio-de-hz-fal-stream07-cluster01.radiohost.de/brf-ostrock-pop_mp3-128
+#EXTINF:-1,Ostseewelle
+302 https://addrad.io/4454pjf
+#EXTINF:-1,Ostseewelle_80er_Hits
+302 http://streamosw.ir-media-tec.com/80er/mp3-128/web/
+#EXTINF:-1,Ostseewelle_90er_Hits
+302 http://streamosw.ir-media-tec.com/90er/mp3-128/web/
+#EXTINF:-1,Ostseewelle_Brand_New_Hits
+302 http://streamosw.ir-media-tec.com/neu/mp3-128/web/
+#EXTINF:-1,Ostseewelle_Chillout
+302 http://streamosw.ir-media-tec.com/chillout/mp3-128/web/
+#EXTINF:-1,Ostseewelle_Dance_und_Black_Hits
+302 http://streamosw.ir-media-tec.com/danceblack/mp3-128/web/
+#EXTINF:-1,Ostseewelle_Deutsche_Hits
+302 http://streamosw.ir-media-tec.com/deutsch/mp3-128/web/
+#EXTINF:-1,Ostseewelle_HIT-RADIO_-_2000er_Hits
+302 http://streamosw.ir-media-tec.com/2000er/mp3-128
+#EXTINF:-1,Ostseewelle_HIT-RADIO_-_2010er_Hits
+302 http://streamosw.ir-media-tec.com/2010er/mp3-128
+#EXTINF:-1,Ostseewelle_HIT-RADIO_-_Oldie_Hits
+302 http://streamosw.ir-media-tec.com/oldies/mp3-128
+#EXTINF:-1,ostseewelle_live_radio
+http://ostseewelle-ais-edge-400b-dus-dtag-cdn.cast.addradio.de/
+#EXTINF:-1,Ostseewelle_Live_Radio
+302 http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3
+#EXTINF:-1,Ostseewelle_Rock_Hits
+302 http://streamosw.ir-media-tec.com/rock/mp3-128/web/
+#EXTINF:-1,Ostseewelle_Schlagerhits
+302 http://streamosw.ir-media-tec.com/schlager/mp3-128/web/
+#EXTINF:-1,osu!station
+400 https://radio.yas-online.net/listen/osustation
+#EXTINF:-1,Ottilien_live
+400 http://www.erzabteilive.de:8000/stream.mp3
+#EXTINF:-1,PANORAMA80
+200 http://stream.laut.fm/panorama80.m3u
+#EXTINF:-1,Panradio-Panflute
+http://stream.power-radio.de:8060/high
+#EXTINF:-1,panradio.de
+http://85.25.217.22:8060/stream
+#EXTINF:-1,papas_skakiste007
+302 http://stream.laut.fm/papas_skakiste007?ref=radiode
+#EXTINF:-1,Parlamentsfernsehen_1.TV
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:-1,Parlamentsfernsehen_2.TV
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#EXTINF:-1,Party_Radio
+302 http://stream.laut.fm/party
+#EXTINF:-1,PARTYHITS_by_rautemusik_(rm.fm)
+302 https://partyhits-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Pascals_Radio
+302 http://stream.laut.fm/pascal
+#EXTINF:-1,Path_through_the_Forest
+302 http://stream.laut.fm/path_through_the_forest
+#EXTINF:-1,PELI_ONE
+502 http://server5528.streamplus.de/
+#EXTINF:-1,Perfect_New_Country
+400 http://stream.radiojar.com/yk729qbkzeruv
+#EXTINF:-1,Perfect_Oldies
+400 http://stream.radiojar.com/bdnkd1mqehruv
+#EXTINF:-1,Perfect_Rock
+400 http://stream.radiojar.com/guxrfs477qruv
+#EXTINF:-1,Perfect_Roots_Reggae
+400 http://stream.radiojar.com/ezs0qr9m4qruv
+#EXTINF:-1,Perfect_Schlageroldies
+400 http://stream.radiojar.com/rk8e9x2vetzuv
+#EXTINF:-1,Perfect_Smooth_Jazz
+400 http://stream.radiojar.com/d3bcstqn9mruv
+#EXTINF:-1,PfarrRadio_Schlern
+200 http://live.verbumradio.com:8074/stream.mp3
+#EXTINF:-1,PHILSROCKSTATION
+200 http://stream.laut.fm/philsrockstation.m3u
+#EXTINF:-1,Phoenix_Club
+302 http://stream.laut.fm/phoenix-club
+#EXTINF:-1,PIANO_COVERHITS_by_Epic_Piano
+200 https://stream.epic-piano.com/piano-coverhits?ref=radiobrowser
+#EXTINF:-1,PiRadio
+400 http://ice.rosebud-media.de:8000/88vier-low
+#EXTINF:-1,Pirate_Radio
+https://pirategong-live.cast.addradio.de/pirategong/live/mp3/high
+#EXTINF:-1,planet_radio
+200 http://streams.planetradio.de/planetradio/mp3/livestream.m3u
+#EXTINF:-1,planet_radio_(black_beats)
+200 http://streams.planetradio.de/plrchannels/mp3/hqblackbeats.m3u
+#EXTINF:-1,planet_radio_(nightwax)
+200 http://streams.planetradio.de/plrchannels/mp3/hqnightwax.m3u
+#EXTINF:-1,planet_radio_oldschool
+200 http://streams.planetradio.de/plrchannels/mp3/hqoldschool.m3u
+#EXTINF:-1,plant80s
+200 https://laut.fm/planet80s
+#EXTINF:-1,Plattenkiste_-_von_Oldies_aus_den_50er'n_bis_zu_Hits_von_morgen
+302 https://stream.laut.fm/plattenkiste
+#EXTINF:-1,Playgroud_Radio
+200 http://playground.stream.laut.fm/playground
+#EXTINF:-1,Playground_Radio
+200 http://playground.stream.laut.fm/playground?t302=2019-08-15_17-45-19\u0026uuid=74a24b34-418f-487d-872b-1377b197775b
+#EXTINF:-1,Pleasuredome
+302 http://stream.laut.fm/pleasuredome
+#EXTINF:-1,PLEKTRUM
+200 https://laut.fm/plektrum
+#EXTINF:-1,pn_eins_dance
+400 http://stream.pn-eins.de/pneins-dance-192.mp3
+#EXTINF:-1,Pool_Position_Radio
+https://ppr.mahobi.de/pool-position-radio.mp3
+#EXTINF:-1,POP_LOUNGE_CAFE
+302 http://stream.laut.fm/poploungecafe
+#EXTINF:-1,popadelica
+302 http://stream.laut.fm/popadelica
+#EXTINF:-1,Popjazzradio
+http://88.198.70.10:8001/
+#EXTINF:-1,Popradio_Ostfriesland
+200 http://62.113.206.180:8010/stream1
+#EXTINF:-1,PopStop
+400 http://84.19.168.244:31883/popstop192
+#EXTINF:-1,Powerplant_Rock_Classics
+302 http://stream.laut.fm/powerplant-rockclassics
+#EXTINF:-1,Powerradio4u
+200 http://stream.powerradio4u.de:8000/p4u.mp3
+#EXTINF:-1,PowerRadio94
+302 http://stream.laut.fm/powerradio94
+#EXTINF:-1,Predigtkonverenz_SW-Radio_vom_30.05-02-06-2018
+400 http://segenswelle.de:8000/zuspielung
+#EXTINF:-1,PRIDE1
+http://stream.pride1.de:8000/stream.mp3
+#EXTINF:-1,Prog_Rock_Station_-_laut.fm
+200 http://stream.laut.fm/prog-rock-station.m3u
+#EXTINF:-1,ProgAlley
+302 http://stream.laut.fm/progalley
+#EXTINF:-1,PROGMAN
+302 http://stream.laut.fm/progman
+#EXTINF:-1,ProgressiveMusic
+302 http://stream.laut.fm/progressivemusic
+#EXTINF:-1,Proo_Radio
+200 http://server3254.streamplus.de:15064/
+#EXTINF:-1,psy
+200 http://streamer.psyradio.org:8020/
+#EXTINF:-1,Psy_Chill_Zone
+http://air.chillout.zone:8020/radio
+#EXTINF:-1,psyradio_*_fm_-_alternative
+200 http://streamer.psyradio.org:8040/listen.mp3
+#EXTINF:-1,psyradio_*_fm_-_chillout
+200 http://streamer.psyradio.org:8020/listen.mp3
+#EXTINF:-1,psyradio_*_fm_-_progressive
+200 http://streamer.psyradio.org:8010/listen.mp3
+#EXTINF:-1,psyradio_*_fm_-_psytrance
+200 http://streamer.psyradio.org:8030/listen.mp3
+#EXTINF:-1,PsyStation_-_Minimal
+404 http://hestia2.cdnstream.com/1686_128
+#EXTINF:-1,PsyStation-SuomiSoundi
+404 http://hestia2.cdnstream.com/1451_128
+#EXTINF:-1,PsyStation-Twilight_Sounds
+404 http://hestia2.cdnstream.com/1623_128
+#EXTINF:-1,PTO_-_Piratenteam_Ostfriesland
+200 https://c01.lexycast.de:4200/listen1
+#EXTINF:-1,Puls_Radio
+200 https://streams.br.de/puls_1.m3u
+#EXTINF:-1,Punk4all
+200 http://stream.laut.fm/punk4all.m3u
+#EXTINF:-1,PUNKRATZ
+200 http://stream.laut.fm/punkratz.m3u
+#EXTINF:-1,Punkrockers_Radio
+400 http://stream.punkrockers-radio.de:8000/mp3
+#EXTINF:-1,punkrockers-radio
+301 http://www.punkrockers-radio.de/playlists/punkrockers.pls
+#EXTINF:-1,Pure_FM
+400 http://radionetz.de:8000/purefm-bln.mp3
+#EXTINF:-1,pure-fm_Frankfurt_Oder
+400 http://radionetz.de:8000/purefm-ff.mp3
+#EXTINF:-1,pure-fm_Hamburg
+400 http://radionetz.de:8000/purefm-hh.mp3
+#EXTINF:-1,pure-fm_München
+400 http://radionetz.de:8000/purefm-by.mp3
+#EXTINF:-1,Putzfimmel_HQ
+302 http://streams.barbaradio.de/putzfimmel/mp3-192/homepage/
+#EXTINF:-1,Queens_of_Techno
+302 https://stream.sunshine-live.de/technoqueens/mp3-128
+#EXTINF:-1,Queer_Live_-_schwul_lesbisch_anders
+302 http://stream.laut.fm/queerlive
+#EXTINF:-1,R.SA
+302 http://streams.rsa-sachsen.de/rsa-live/mp3-192/rsamediaplayer
+#EXTINF:-1,R.SA_-_Disco
+200 https://streams.rsa-sachsen.de/disco/mp3-192/streams.rsa-sachsen.de/play.m3u
+#EXTINF:-1,R.SA_60ew_Oldies
+302 https://streams.rsa-sachsen.de/60er/mp3-192/homepage/?mode=preroll
+#EXTINF:-1,R.SA_Beatles_Radio
+302 http://streams.rsa-sachsen.de/rsa-beatles/mp3-192/mediaplayerrsa
+#EXTINF:-1,R.SA_Das_Schnarchnasenradio
+200 http://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/streams.rsa-sachsen.de/play.m3u
+#EXTINF:-1,R.SA_Hinhörkanal
+302 http://streams.rsa-sachsen.de/rsa-hinhoer/mp3-128/streams.rsa-sachsen.de/
+#EXTINF:-1,R.SA_Live
+302 http://streams.rsa-sachsen.de/rsa-live/mp3-128/streams.rsa-sachsen.de/
+#EXTINF:-1,R.SA_Maxis_Maximal
+302 http://streams.rsa-sachsen.de/maxis/mp3-128/streams.rsa-sachsen.de/
+#EXTINF:-1,R.SA_Oldie-Club
+302 http://streams.rsa-sachsen.de/rsa-oldies/mp3-192/mediaplayerrsa
+#EXTINF:-1,R.SA_Ostrock
+302 http://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/
+#EXTINF:-1,R.SA_Partywelle
+404 http://streams.rsa-sachsen.de/rsa-partywelle/mp3-192/mediaplayerrsa/
+#EXTINF:-1,R.SA_Rockzirkus
+200 http://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-192/streams.rsa-sachsen.de/play.m3u
+#EXTINF:-1,R.SA_Snow_Fun
+404 http://streams.rsa-sachsen.de/100/mp3-192/streams.rsa-sachsen.de/
+#EXTINF:-1,R.SA_Weihnachtsradio
+302 http://streams.rsa-sachsen.de/rsa-event01/mp3-192/streams.rsa-sachsen.de/
+#EXTINF:-1,R.SH_-_Oldies
+http://rsh.hoerradar.de/rsh-oldies-mp3-hq
+#EXTINF:-1,R.SH_80er
+200 http://streams.rsh.de/rsh-80er/mp3-192/streams.rsh.de/play.m3u
+#EXTINF:-1,R.SH_90er
+302 http://streams.rsh.de/90er/mp3-192/homepage/
+#EXTINF:-1,R.SH_auf_Sylt
+302 http://streams.rsh.de/rsh-sylt/mp3-192/homepage/
+#EXTINF:-1,R.SH_Dance
+302 http://streams.rsh.de/dance/mp3-192/homepage/
+#EXTINF:-1,R.SH_Deutsch
+302 http://streams.rsh.de/deutsch/mp3-192/homepage/
+#EXTINF:-1,R.SH_Fresh
+302 http://streams.rsh.de/fresh/mp3-192/homepage/
+#EXTINF:-1,R.SH_Live
+200 http://streams.rsh.de/rsh-live/mp3-128/streams.rsh.de/play.m3u
+#EXTINF:-1,R.SH_Mittmann_Mix
+302 http://streams.rsh.de/rsh-mittmannmix/mp3-192/homepage/
+#EXTINF:-1,R.SH_Relax
+302 http://streams.rsh.de/relax/mp3-192/homepage/
+#EXTINF:-1,R.SH_Top_40
+302 http://streams.rsh.de/rsh-nordparade/mp3-128/mediaplayer
+#EXTINF:-1,Radio__T.S.O.P.
+200 https://login.streamplus.de/app.php/streamserver/public/11856.m3u
+#EXTINF:-1,Radio_1_Music_Only
+http://radio.netstream.ch/radio1web1_192k_mp3
+#EXTINF:-1,Radio_101_Madonna
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/128
+#EXTINF:-1,Radio_106.4_TOP_FM
+302 http://mp3.topfm.c.nmdn.net/ps-topfm/livestream.mp3
+#EXTINF:-1,Radio_112
+200 http://s37.derstream.net/radio-112.mp3
+#EXTINF:-1,RADIO_21
+https://stream.radio21.de/radio21.mp3
+#EXTINF:-1,Radio_21_-_Holzminden
+https://stream.radio21.de/radio21_holzminden.mp3
+#EXTINF:-1,RADIO_21_Braunschweig
+302 https://streams.radio21.de/braunschweig/mp3-192/web
+#EXTINF:-1,Radio_21_Bremen
+200 https://radio21.streamabc.net/radio21-bremen-mp3-192-7011720
+#EXTINF:-1,Radio_21_Cuxhaven
+302 https://streams.radio21.de/cuxhaven/mp3-192/web
+#EXTINF:-1,RADIO_21_Nordrhein-Westfalen
+302 https://streams.radio21.de/nrw/mp3-192/web
+#EXTINF:-1,Radio_2DAY
+200 http://radio2day.ip-streaming.net/radio2day
+#EXTINF:-1,Radio_2DAY_"mobile"
+200 http://radio2day.ip-streaming.net/radio2dayaacp
+#EXTINF:-1,Radio_30_Plus
+200 http://stream.laut.fm/radio30plus.m3u
+#EXTINF:-1,Radio_31_Alternative
+200 http://alternative-radio.stream.laut.fm/alternative-radio?t302=2018-03-11_09-41-59\u0026uuid=053d192c-eee0-4d8c-9495-c9224bfa4eb3
+#EXTINF:-1,Radio_31_Charts
+200 http://charts.stream.laut.fm/charts
+#EXTINF:-1,Radio_31_Houseworld
+200 http://houseworld.stream.laut.fm/houseworld?t302=2018-03-11_09-40-13\u0026uuid=25adb42b-3e7e-4091-952a-4b0f9365ccb8
+#EXTINF:-1,RADIO_7
+404 https://edge04.streamonkey.net/radio7-dab
+#EXTINF:-1,Radio_8_-_Ansbach_DE
+200 https://live.radio8.de:8003/liver8
+#EXTINF:-1,Radio_8_Ansbach
+200 http://stream.radio8.de:8000/live
+#EXTINF:-1,Radio_80000_Munich,_Germany
+200 http://radio80k.out.airtime.pro:8000/radio80k_a
+#EXTINF:-1,RAdio_90.1_MG
+301 http://stream.radio901.de/444z6fq
+#EXTINF:-1,Radio_90.vier
+http://90vier.ip-streaming.net/radio90vier
+#EXTINF:-1,Radio_91.2
+401 http://lokalradiostream.de:8004/
+#EXTINF:-1,Radio_91.2_Dortmund
+301 http://www.surfmusik.de/m3u/radio-91-2,9528.m3u
+#EXTINF:-1,radio_98eins
+400 http://mmv-mediathek.de:8000/radio98eins.m3u
+#EXTINF:-1,radio_aktiv_Hameln
+400 https://live.radio-aktiv.de/r-aktiv.mp3
+#EXTINF:-1,RADIO_ALEX_FM_DE/NL
+302 http://stream.laut.fm/radioalexfm
+#EXTINF:-1,Radio_Allelon
+404 http://allelon.stream.vip/allelon/mp3-128/Homepage/
+#EXTINF:-1,Radio_Alpenfunk
+http://81.169.174.242:7000/
+#EXTINF:-1,Radio_Altstastwelle
+200 https://icecast.multhielemedia.de/radio/8040/rheinradio.mp3
+#EXTINF:-1,Radio_Amazing
+200 http://radio-amazing.stream.laut.fm/radio-amazing
+#EXTINF:-1,radio_aporee
+400 http://radio.aporee.org:8000/aporee
+#EXTINF:-1,Radio_Archipel_FM
+200 http://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3
+#EXTINF:-1,Radio_Attl
+200 https://radio-attl.stream.laut.fm/radio-attl
+#EXTINF:-1,radio_b2
+302 https://radiob2-national.cast.addradio.de/radiob2/national/mp3/high/stream.mp3?ar-distributor=f0b7\u0026token=c3RhcnRUaW1lPTIwMTkwMjA2MTE0ODAxJmVuZFRpbWU9MjAxOTAyMDYxMzQ4MDEmaXB2ND0xODEuMjI2LjE1OS43MS8yNCZkaWdlc3Q9N2U1MmQxYTAwY2EzMGMwZDBhNzczZTg2OTVlZTBhZGU
+#EXTINF:-1,Radio_B2_-_Deutschland
+302 http://mp3ad.radiob2.c.nmdn.net/ps-radiob2national/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Helene_Fischer
+302 http://mp3ad.radiob2helenefischer.c.nmdn.net/radiob2helenefischer/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Kultschlager
+302 http://mp3ad.radiob2kultschlager.c.nmdn.net/radiob2kultschlager/livestream.mp3
+#EXTINF:-1,radio_B2_-_MAXX_FM
+302 http://mp3ad.radiob2maxxfm.c.nmdn.net/radiob2maxxfm/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Ostschlager
+302 http://mp3ad.radiob2ostschlager.c.nmdn.net/radiob2ostschlager/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Roland_Kaiser
+302 http://mp3ad.radiob2rolandkaiser.c.nmdn.net/radiob2rolandkaiser/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Schlagermixx
+302 http://mp3ad.radiob2schlagermixx.c.nmdn.net/radiob2schlagermixx/livestream.mp3
+#EXTINF:-1,radio_B2_-_STAR*SAT_RADIO
+302 http://mp3ad.radiob2starsat.c.nmdn.net/ps-radiob2starsat/livestream.mp3
+#EXTINF:-1,Radio_B2_-_Volksmusik
+302 http://mp3ad.radiob2volksmusik.c.nmdn.net/radiob2volksmusik/livestream.mp3
+#EXTINF:-1,Radio_B2_Berlin
+302 http://mp3ad.radiob2.c.nmdn.net/ps-radiob2regional/livestream.mp3
+#EXTINF:-1,Radio_Back_in_Itime
+302 https://stream.laut.fm/back_in_time?ref=radiode
+#EXTINF:-1,Radio_Bagwahn
+302 http://stream.laut.fm/radio_bagwahn
+#EXTINF:-1,Radio_Bautzen
+302 http://stream.laut.fm/radiobautzen
+#EXTINF:-1,Radio_Bavaria_International
+200 http://streamplus18.leonex.de:18576/
+#EXTINF:-1,Radio_Beatbox
+200 http://92.204.50.53:40310/
+#EXTINF:-1,Radio_Berlin_88,8
+301 http://www.radioberlin.de/live.m3u
+#EXTINF:-1,Radio_Best_Buddy
+http://server34695.streamplus.de:11908/
+#EXTINF:-1,Radio_Best_of_80s
+302 http://stream.laut.fm/best_of_80s
+#EXTINF:-1,Radio_Bielefeld
+302 http://mp3.radiobielefeld.c.nmdn.net/radiobielefeld/livestream.mp3
+#EXTINF:-1,Radio_Bielefeld_80er
+302 https://addrad.io/4455rqg
+#EXTINF:-1,Radio_Biggetal
+200 http://stream.laut.fm/biggetal.asx
+#EXTINF:-1,Radio_Blau
+302 http://stream.radioblau.de/
+#EXTINF:-1,Radio_Bob
+https://bob.hoerradar.de/radiobob-national-mp3-hq
+#EXTINF:-1,Radio_BOB
+302 http://streams.radiobob.de/bob-acdc/mp3-128/streams.radiobob.de/%20###%20AC/DC%20Collection
+#EXTINF:-1,Radio_BOB_2000er
+http://bob.hoerradar.de/radiobob-2000rock-mp3-hq?sABC=6114q90r%230%23r9rq928381098n8n085qqq3qq635o3op%23zrqvncynlre\u0026=\u0026amsparams=playerid:mediaplayerskey:1628756238
+#EXTINF:-1,Radio_Bob_Classic_Rock
+http://bob.hoerradar.de/radiobob-classicrock-mp3-mq?sABC=5n437pp3%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23zrqvncynlre\u0026amsparams=playerid:mediaplayerskey:1514372291
+#EXTINF:-1,Radio_BOB_College_Rock
+302 http://streams.radiobob.de/collegerock/mp3-192/streams.radiobob.de/
+#EXTINF:-1,Radio_BOB_Collegerock
+302 http://streams.radiobob.de/collegerock/mp3-192/mediaplayer/
+#EXTINF:-1,Radio_BOB_Metal_(64kbps_AAC)
+302 http://streams.radiobob.de/bob-metal/aac-64/mediaplayer
+#EXTINF:-1,Radio_BOB_Progressive_Rock
+302 https://streams.radiobob.de/progrock/mp3-192/
+#EXTINF:-1,Radio_BOB!
+http://bob.hoerradar.de/radiobob-live-mp3-hq?sABC=59p66q9n%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23zrqvncynlreobo\u0026amsparams=playerid:mediaplayerbobskey:1506176410
+#EXTINF:-1,RADIO_BOB!_-_BOBs_Alternative_Rock
+302 https://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_-_BOBs_Deutsch_Rock
+302 https://streams.radiobob.de/bob-deutsch/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_-_BOBs_Mittelalter-Rock
+302 https://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_-_Rockparty
+302 https://streams.radiobob.de/rockparty/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_-_Symphonic_Metal
+302 https://streams.radiobob.de/symphmetal/mp3-192/streams.radiobob.de/
+#EXTINF:-1,Radio_BOB!_(AAC)
+http://bob.hoerradar.de/aac-radiobob?sABC=59183433%230%2364o326nns035oo1qn8r18n08382pp5sq%23yvfgrayvir\u0026amsparams=playerid:listenliveskey:1494758451
+#EXTINF:-1,RADIO_BOB!_BOB's_metalcore
+302 http://streams.radiobob.de/metalcore/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_80er_Rock
+200 http://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/play.m3u
+#EXTINF:-1,RADIO_BOB!_BOBs_90er_Rock
+302 http://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_AC/DC_Collection
+http://bob.hoerradar.de/radiobob-acdc-mp3-hq?sABC=59p6r9r8%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23fgernzf.enqvbobo.qr\u0026amsparams=playerid:streams.radiobob.deskey:1506208232
+#EXTINF:-1,RADIO_BOB!_BOBs_Alternative_Rock
+302 http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Best_of_Rock
+302 http://streams.radiobob.de/bob-bestofrock/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Blues
+404 http://streams.radiobob.de/bob-blues/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Christmas_Rock
+302 http://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Death_Metal
+302 http://streams.radiobob.de/deathmetal/mp3-128/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Deutsch_Rock
+http://bob.hoerradar.de/radiobob-deutschrock-mp3-hq?sABC=5n045no9%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23fgernzf.enqvbobo.qr\u0026amsparams=playerid:streams.radiobob.deskey:1510234809
+#EXTINF:-1,RADIO_BOB!_BOBs_Dunkler_Parabelritter
+404 http://streams.radiobob.de/ritter/mp3-192/streams.radiobob.de/play.m3u
+#EXTINF:-1,RADIO_BOB!_BOBs_Eisenworkout
+404 http://streams.radiobob.de/bob-ironworkout/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Festivalsommer
+302 http://streams.radiobob.de/bob-festival/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Gothic_Rock
+302 http://streams.radiobob.de/gothic/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Grunge
+302 http://streams.radiobob.de/bob-grunge/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Harte_Saite
+200 http://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/play.m3u
+#EXTINF:-1,RADIO_BOB!_BOBs_Kuschelrock
+302 http://streams.radiobob.de/bob-kuschelrock/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Live
+404 http://streams.radiobob.de/bob-livemusic/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Live-Stream_Hessen
+302 http://streams.radiobob.de/bob-live/mp3-192/mediaplayer
+#EXTINF:-1,RADIO_BOB!_BOBs_Livestream
+https://bob.hoerradar.de/radiobob-live-mp3-hq?sABC=600osq76%230%237n9139o95764s39144r488n47o2026r4%23fgernzf.enqvbobo.qr\u0026=\u0026amsparams=playerid:streams.radiobob.deskey:1611398518
+#EXTINF:-1,RADIO_BOB!_BOBs_Metal
+302 http://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Mittelalter_Rock
+302 http://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Punk
+302 http://streams.radiobob.de/bob-punk/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Queen
+302 http://streams.radiobob.de/bob-queen/mp3-192/homepage/
+#EXTINF:-1,RADIO_BOB!_BOBs_Rock_Hits
+302 http://streams.radiobob.de/bob-rockhits/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Singer_&&_Songwriter
+302 http://streams.radiobob.de/bob-singersong/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_BOBs_Southern_Rock
+302 http://streams.radiobob.de/southernrock/mp3-192/mediaplayer
+#EXTINF:-1,RADIO_BOB!_BOBs_Wacken_Nonstop
+302 http://streams.radiobob.de/bob-wacken/aac-64/radiosure/
+#EXTINF:-1,RADIO_BOB!_BOBs_Wacken_Nonstop_(192kbit)
+302 http://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/
+#EXTINF:-1,Radio_Bob!_chillout-unplugged
+302 http://streams.radiobob.de/bob-chillout/aac-64/
+#EXTINF:-1,Radio_BOB!_Classic_Rock
+302 http://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer
+#EXTINF:-1,RADIO_BOB!_Classic_Rock
+302 http://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/
+#EXTINF:-1,RADIO_BOB!_Gothic_Rock
+https://bob.hoerradar.de/radiobob-gothic-mp3-hq?sABC=5q4orq22%230%231195op53n2784opn86qno239469n8ro7%23ubzrcntr\u0026amsparams=playerid:homepageskey:1565256994
+#EXTINF:-1,Radio_Bob!_Livestream_Hessen
+200 http://streams.radiobob.de/bob-live/mp3-192/streams.radiobob.de/play.m3u
+#EXTINF:-1,RADIO_BOB!_Livestream_NRW
+302 https://streams.radiobob.de/live-nrw-mitte/mp3-192/streams.radiobob.de/
+#EXTINF:-1,Radio_Bob!_M._Sammet
+302 http://streams.radiobob.de/sammet/mp3-192/mediaplayer/
+#EXTINF:-1,Radio_BOB!_Mittelalter-Rock
+302 http://streams.radiobob.de/mittelalter/mp3-192/mediaplayer
+#EXTINF:-1,Radio_Bob!_Rock_'n_Pop
+http://bob.hoerradar.de/radiobob-shlive-mp3-hq
+#EXTINF:-1,Radio_BOB!_Rockabilly
+http://bob.hoerradar.de/radiobob-rockabilly-mp3-hq?sABC=59s629rq%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23zrqvncynlre\u0026amsparams=playerid:mediaplayerskey:1509304813
+#EXTINF:-1,Radio_Bob!_Rockt_NRW
+302 http://streams.radiobob.de/live-nrw-mitte/mp3-192/mediaplayer
+#EXTINF:-1,Radio_BOB!_Rockt_Schleswig-Holstein
+http://bob.hoerradar.de/radiobob-shlive-aac-mq?sABC=5rs096ns#0#4p79s5361sq5snpqr6455196s8s8919o#fgernzf.enqvbobo.qr
+#EXTINF:-1,RADIO_BOB!_rockt_Schleswig-Holstein
+302 http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer
+#EXTINF:-1,Radio_BOB!_SH_Livestream
+302 http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer/
+#EXTINF:-1,RADIO_BOB!_Unplugged
+http://bob.hoerradar.de/radiobob-chillout-mp3-hq?sABC=61s7rp75%230%2348qrn082p9447n3483o68po3qp43195r%23zrqvncynlre\u0026amsparams=playerid:mediaplayerskey:1643637877
+#EXTINF:-1,Radio_BOB!_Wacken_Nonstop
+302 http://streams.radiobob.de/bob-wacken/mp3-192/radiode/
+#EXTINF:-1,Radio_Bochum
+http://radiobochum.cast.addradio.de/radiobochum/simulcast/high/stream.mp3
+#EXTINF:-1,Radio_Bochum_-_Lounge
+302 http://rnrw.cast.addradio.de/rnrw-0140/deinlounge/high/stream.mp3
+#EXTINF:-1,Radio_Bochum_-_Oldies
+302 http://rnrw.cast.addradio.de/rnrw-0140/deinoldieradio/mp3/high/stream.mp3
+#EXTINF:-1,Radio_Bochum_-_Rock
+302 http://rnrw.cast.addradio.de/rnrw-0140/deinrock/high/stream.mp3
+#EXTINF:-1,Radio_Bochum_-_Top_40
+302 http://rnrw.cast.addradio.de/rnrw-0140/deintop40/high/stream.mp3
+#EXTINF:-1,Radio_Bollerwagen
+302 http://player.ffn.de/radiobollerwagen.m3u
+#EXTINF:-1,Radio_Bonn_/_Rhein-Sieg
+302 https://rbrs-live.cast.addradio.de/rbrs/live/mp3/high
+#EXTINF:-1,Radio_Bonn/Rhein-Sieg
+302 http://stream.lokalradio.nrw/rbrs
+#EXTINF:-1,Radio_Breidenbach
+https://saurus.streampanel.cloud:5650/stream
+#EXTINF:-1,Radio_Bremen_TV
+404 https://rbhlslive.akamaized.net/hls/live/2020435-b/rbfs/master-360p-1028.m3u8
+#EXTINF:-1,Radio_Brocken
+200 http://stream.radiobrocken.de/live/mp3-256/direktlinkHP/play.pls
+#EXTINF:-1,Radio_Brocken_-_Kulthits
+200 http://stream.radiobrocken.de/kulthits/mp3-256/direktlinkHP/play.pls
+#EXTINF:-1,Radio_Brooklin_-_Classic_Rock
+200 http://streaming03.hstbr.net:8096/live
+#EXTINF:-1,Radio_BUH
+200 https://streaming.radio.co/saed08c46d/listen
+#EXTINF:-1,Radio_Cafè_Zimmermann
+302 https://stream.radio-cafezimmermann.de/klassik/mp3-192/
+#EXTINF:-1,Radio_Cafe_Zimmermann
+200 https://server35460.streamplus.de/stream.mp3
+#EXTINF:-1,Radio_Caprice_-_Acoustic_Guitar
+http://79.120.39.202:9073/
+#EXTINF:-1,Radio_Caprice_-_Sounds_Of_Nature
+http://79.111.14.76:9083/
+#EXTINF:-1,Radio_Charivari_Würzburg_Webradio
+301 https://meinchari.de/livestreammp3
+#EXTINF:-1,Radio_Chemnitz
+301 https://hermes.bcs-systems.de/radio-chemnitz_simulcast_192k_mp3
+#EXTINF:-1,Radio_Christianismos
+https://hennes.christianismos.de:8124/radio/8000/radio.mp3
+#EXTINF:-1,Radio_Corax
+400 http://streaming.fueralle.org:8000/corax.mp3
+#EXTINF:-1,Radio_Corax_(256k)
+400 http://streaming.fueralle.org/corax_128.mp3?_=1
+#EXTINF:-1,Radio_Daarle
+302 http://stream.laut.fm/radio-daarle
+#EXTINF:-1,Radio_Dark_Pulse
+200 https://radiodarkpulse.stream.laut.fm/radiodarkpulse
+#EXTINF:-1,Radio_Dark_Universe
+200 http://stream.laut.fm/radio-dark-universe.m3u
+#EXTINF:-1,Radio_Darmstadt_-_RadaR
+301 http://www.radiodarmstadt.de/fileadmin/templates/stream.m3u
+#EXTINF:-1,Radio_Diefflen
+200 https://stream.laut.fm/radiodiefflen.m3u
+#EXTINF:-1,Radio_Diefflen_80er
+302 http://stream.laut.fm/radiodiefflen80
+#EXTINF:-1,Radio_Dorsten
+302 http://stream.laut.fm/radio-dorsten
+#EXTINF:-1,Radio_Dragon_Flame
+200 http://87.118.78.50:11100/
+#EXTINF:-1,Radio_Dresden
+301 https://hermes.bcs-systems.de/radio-dresden_simulcast_192k_mp3
+#EXTINF:-1,Radio_Dresden_80er_Kulthitz
+301 http://streaming.radiodresden.de/radio-dresden_80er_192k_mp3
+#EXTINF:-1,Radio_Dresden_90er
+301 http://streams.bcs-systems.de/slp/90er/dresden/mp3/web/playlist.m3u
+#EXTINF:-1,Radio_Dreyeckland
+400 http://www.rdl.de:8000/rdl.m3u
+#EXTINF:-1,Radio_Duisburg
+http://radioduisburg.cast.addradio.de/radioduisburg/simulcast/high/stream.mp3
+#EXTINF:-1,Radio_Dumba
+302 http://stream.laut.fm/radio-dumba
+#EXTINF:-1,Radio_Dunkle_Welle
+200 https://hope.streampanel.net:2199/tunein/rjmvggsr.pls
+#EXTINF:-1,radio_eins_|_rbb_|_neuer_Stream_|_niedrige_Qualität
+302 http://www.radioeins.de/livemp3_s
+#EXTINF:-1,Radio_EINS_Coburg
+302 http://rs3.stream24.net/radio-eins.mp3
+#EXTINF:-1,Radio_Eins_Konstanz
+200 http://laut.fm/eins
+#EXTINF:-1,Radio_Emden
+200 https://laut.fm/emden
+#EXTINF:-1,Radio_Emergency
+200 https://www.radioemergency.de/radioemergency.mp3
+#EXTINF:-1,Radio_Emscher_Lippe
+http://radioemscherlippe.cast.addradio.de/radioemscherlippe/simulcast/high/stream.mp3?ar-purpose=web\u0026ar-distributor=f0d1
+#EXTINF:-1,Radio_Emscher_Lippe_-_Dein_80er_Radio
+302 http://rnrw.cast.addradio.de/rnrw-0166/dein80er/high/stream.mp3
+#EXTINF:-1,Radio_Emscher_Lippe_-_Dein_90er_Radio
+302 http://rnrw.cast.addradio.de/rnrw-0166/dein90er/high/stream.mp3
+#EXTINF:-1,Radio_Emscher_Lippe_-_Dein_Deutschpop_Radio
+302 http://rnrw.cast.addradio.de/rnrw-0166/deindeutschpop/high/stream.mp3
+#EXTINF:-1,Radio_Emscher_Lippe_-_Dein_Lounge_Radio
+302 http://rnrw.cast.addradio.de/rnrw-0166/deinlounge/high/stream.mp3
+#EXTINF:-1,Radio_Emscher_Lippe_-_Dein_Love_Radio
+302 http://rnrw.cast.addradio.de/rnrw-0166/deinlove/high/stream.mp3
+#EXTINF:-1,Radio_Emscher_Lippe_-_Dein_Rock_Radio
+302 http://rnrw.cast.addradio.de/rnrw-0166/deinrock/high/stream.mp3
+#EXTINF:-1,Radio_Emscher_Lippe_-_Dein_Schlager_Radio
+302 http://rnrw.cast.addradio.de/rnrw-0166/deinschlager/high/stream.mp3
+#EXTINF:-1,Radio_Emscher_Lippe_-_Dein_Top40_Radio
+302 http://rnrw.cast.addradio.de/rnrw-0166/deintop40/high/stream.mp3
+#EXTINF:-1,Radio_Emscher_Lippe_-_Dein_Urban_Radio
+302 http://rnrw.cast.addradio.de/rnrw-0166/deinurban/high/stream.mp3
+#EXTINF:-1,Radio_Endstation
+200 https://funkturm.radio-endstation.de/public/radio-endstation/playlist.pls
+#EXTINF:-1,Radio_ENERGY_NRW
+301 http://nrj.de/nrw
+#EXTINF:-1,Radio_Ennepe-Ruhr
+302 http://radioen.cast.addradio.de/radioen/simulcast/high/stream.mp3
+#EXTINF:-1,Radio_Erft
+https://radioerft-ais-edge-400a-dus-dtag-cdn.cast.addradio.de/radioerft/live/mp3/high
+#EXTINF:-1,Radio_Erzgebirge_-_80er_Kulthits
+301 http://streams.bcs-systems.de/slp/80er/erzgebirge/mp3/radioplayer/web?listenerid=ae2db4a8782ab843b168ffb670e8e377\u0026awparams=companionAds%3Atrue
+#EXTINF:-1,Radio_Erzgebirge_2_[AAC_64]
+301 http://streams.bcs-systems.de/slp/zwei/erzgebirge/aac/web
+#EXTINF:-1,Radio_Erzgebirge_Livestream_[AAC_64]
+301 http://streams.bcs-systems.de/slp/live/erzgebirge/aac/web
+#EXTINF:-1,Radio_Essen
+http://radioessen.cast.addradio.de/radioessen/simulcast/high/stream.mp3?ar-purpose=web\u0026ar-distributor=f0b7
+#EXTINF:-1,Radio_Euroherz_(HQ)
+302 http://webstream.euroherz.de/radio-euroherz.mp3
+#EXTINF:-1,Radio_Euroherz_(LQ)
+302 http://webstream.euroherz.de/radio-euroherz.aac
+#EXTINF:-1,Radio_Euskirchen
+302 http://mp3.radioeuskirchen.c.nmdn.net/ps-radioeuskirchen/livestream.mp3
+#EXTINF:-1,Radio_F
+301 http://webstream.radiof.de/radiof
+#EXTINF:-1,Radio_F_-_Coppa_Italiana
+301 http://webstream.radiof.de/italohits
+#EXTINF:-1,Radio_F_-_Made_in_Germany
+301 http://webstream.radiof.de/madeingermany
+#EXTINF:-1,Radio_F_new
+302 https://frontend.streamonkey.net/fhn-radiof945/stream/mp3?aggregator=webseite.mp3
+#EXTINF:-1,Radio_F.R.E.I._-_Freier_Rundfunk_Erfurt_International
+400 http://streaming.fueralle.org:8000/Radio-F.R.E.I
+#EXTINF:-1,Radio_FFN
+302 http://player.ffn.de/ffn.aac
+#EXTINF:-1,Radio_FFN_-_80er
+302 https://stream.ffn.de/peppermintfm/mp3-192/?ref=radio-browser
+#EXTINF:-1,Radio_FFN_-_90er
+302 http://stream.ffn.de/neunziger/mp3-192/
+#EXTINF:-1,Radio_FFN_-_Bollerwagen
+302 https://stream.ffn.de/radiobollerwagen/mp3-192?ref=radio-browser
+#EXTINF:-1,Radio_FFN_-_Gold
+302 https://stream.ffn.de/ffn-gold/mp3-192?ref=radio-browser
+#EXTINF:-1,Radio_FFN_-_Hits*
+302 https://stream.ffn.de/ffn-hits/mp3-192?ref=radio-browser
+#EXTINF:-1,Radio_FFN_-_Peppermint
+302 https://stream.ffn.de/peppermintfm/mp3-192/
+#EXTINF:-1,Radio_FFN_Tannenbaum
+302 http://player.ffn.de/ffntannenbaum.m3u
+#EXTINF:-1,Radio_Fips_89.0_FM
+400 https://streams.radiofips.de/fipsmp3
+#EXTINF:-1,Radio_Firat_FM_87.3
+200 https://anadolu.liderhost.com.tr:10912/live
+#EXTINF:-1,Radio_Flensburg
+200 https://radio-flensburg.de/rfl.m3u
+#EXTINF:-1,radio_flora
+400 https://radioflora.de:8443/stream/live192.mp3
+#EXTINF:-1,Radio_Frankfurt
+https://radiofrankfurt-live.cast.addradio.de/radiofrankfurt/live/mp3/high
+#EXTINF:-1,Radio_Fränkisch_Spoken
+200 https://laut.fm/fraenkisch-spoken
+#EXTINF:-1,Radio_Fratz
+400 https://stream.radio-fratz.de/stream_high.mp3
+#EXTINF:-1,Radio_free_FM
+400 http://stream.freefm.de:7000/Studio
+#EXTINF:-1,Radio_Freedance
+302 http://stream.laut.fm/freedance
+#EXTINF:-1,Radio_Freies_Bayern
+http://streamplus51.leonex.de:34992/
+#EXTINF:-1,Radio_fresh80s
+200 http://213.239.219.50/live.mp3
+#EXTINF:-1,Radio_Galaxy_Amberg-Weiden
+http://radiogalaxyweiden-ais-edge-4008-fra-dtag-cdn.cast.addradio.de/radiogalaxyweiden/live/mp3/high
+#EXTINF:-1,Radio_Galaxy_Aschaffenburg
+404 http://mp3ad.galaxyaschaffenburg.c.nmdn.net/ps-galaxyaschaffenburg/livestream.mp3
+#EXTINF:-1,Radio_Galaxy_Ingolstadt
+200 https://funkhaus-ingolstadt.stream24.net/galaxy-ingolstadt.mp3
+#EXTINF:-1,Radio_Galaxy_Oberfranken
+302 http://webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3
+#EXTINF:-1,Radio_Galaxy_Rosenheim
+200 http://s17.myradiostream.com:13366/stream.mp3
+#EXTINF:-1,Radio_GeilFM
+302 http://stream.laut.fm/geilfm
+#EXTINF:-1,RADIO_GERETSRIED
+400 http://player.stadtradio-geretsried.de:8000/batschfm
+#EXTINF:-1,Radio_Germanija
+http://144.76.84.153:21826/stream.mp3
+#EXTINF:-1,Radio_Ginseng
+400 https://stream1.datenkollektiv.net/ginseng.mp3?_=1
+#EXTINF:-1,Radio_Gold
+302 https://radiogold-live.cast.addradio.de/radiogold/live/mp3/high/stream.mp3
+#EXTINF:-1,Radio_Golos_Berlina_97.2_FM
+https://str5.pcradio.ru/russkij_berlin-med
+#EXTINF:-1,Radio_Gong_106.9
+301 https://gong.info/gonglive
+#EXTINF:-1,Radio_Gong_96.3_München_-_Akustic_Covers
+200 https://www.radiogong.de/app/covers.m3u
+#EXTINF:-1,Radio_Gong_96.3_München_-_Kids
+200 https://www.radiogong.de/app/kids.m3u
+#EXTINF:-1,Radio_Gong_96.3_München_-_Kulthits
+302 http://mp3.radiogong963.c.nmdn.net/ps-radiogongchannel4/livestream.mp3
+#EXTINF:-1,Radio_Gong_96.3_München_-_Live
+200 https://www.radiogong.de/app/live.m3u
+#EXTINF:-1,Radio_Gong_96.3_München_-_Party_Gong
+302 http://mp3.radiogong963.c.nmdn.net/ps-radiogongchannel5/livestream.mp3
+#EXTINF:-1,Radio_Gong_96.3_München_-_Wiesn_Hits
+302 http://mp3.radiogong963.c.nmdn.net/ps-radiogongevent/livestream.mp3
+#EXTINF:-1,Radio_Gong_97.1
+301 http://webstream.gong971.de/gong971
+#EXTINF:-1,Radio_Gong_Würzburg
+301 https://gong.info/gonglivemp3
+#EXTINF:-1,Radio_Greek
+200 http://radiogreek.out.airtime.pro:8000/radiogreek_a
+#EXTINF:-1,Radio_Gütersloh
+302 https://radioguetersloh-live.cast.addradio.de/radioguetersloh/live/mp3/high
+#EXTINF:-1,Radio_Hagen
+https://radiohagen-ais-edge-3001-fra-eco-cdn.cast.addradio.de/radiohagen/simulcast/high/stream.mp3
+#EXTINF:-1,Radio_Hallelujah_Weilburg
+200 http://stream.laut.fm/radio-hallelujah-weilburg.m3u
+#EXTINF:-1,Radio_Hamburg
+302 https://frontend.streamonkey.net/rhh-1036?aggregator=linkradiohamburgde
+#EXTINF:-1,Radio_Hannover_100.0
+302 http://radio-hannover.divicon-stream.net/rhann_livestrea_zqu6-mp3-128
+#EXTINF:-1,Radio_Hashtag+
+http://radiohashtag.cast.addradio.de/radiohashtag/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio_HBR
+200 http://stream2.radiohbr.de:8080/stream.aac
+#EXTINF:-1,radio_hbw
+301 http://www.radio-hbw.de/livestream/radio_hbw.m3u
+#EXTINF:-1,Radio_Heimatmelodie
+400 http://play.radio-heimatmelodie.de/
+#EXTINF:-1,Radio_Heimatmelodie_(24kb)
+400 http://212.77.178.166:8080/
+#EXTINF:-1,Radio_Heimatmelodie_(64kb)
+400 http://212.77.178.166:8010/
+#EXTINF:-1,Radio_Herford
+301 https://www.radioherford.de/worx/mobile/stream.m3u
+#EXTINF:-1,Radio_Herne
+http://radioherne.cast.addradio.de/radioherne/simulcast/high/stream.mp3?ar-purpose=web\u0026ar-distributor=f0d1
+#EXTINF:-1,Radio_Hochstift
+302 http://stream.radiohochstift.de/444z9bg
+#EXTINF:-1,Radio_Horeb_(127_kbps)
+200 http://rs16.stream24.org:8000/horeb.mp3
+#EXTINF:-1,Radio_Horeb_(32_kbps)
+200 http://dreamsiteradiocp.com:8114/stream
+#EXTINF:-1,Radio_Horeb_128k
+200 http://rs16.stream24.org/horeb.mp3
+#EXTINF:-1,Radio_Horeb_48k
+200 http://rs16.stream24.org:8100/horeb.aac
+#EXTINF:-1,Radio_Hörspieltalk.de
+302 http://stream.laut.fm/hoerspieltalk
+#EXTINF:-1,Radio_Ilmwelle
+400 http://stream.ilmwelle.de/radio-ilmwelle-192.mp3
+#EXTINF:-1,Radio_Im_Internet
+302 http://stream.laut.fm/radio-im-internet
+#EXTINF:-1,Radio_Infinity
+302 http://stream.laut.fm/infinity
+#EXTINF:-1,Radio_ISW
+http://edge.audio.3qsdn.com/9CLbQJKjt4BmhGw
+#EXTINF:-1,Radio_ISW_plus
+307 http://radioisw.icecaststream.de/stream/radioiswplus
+#EXTINF:-1,Radio_Jade
+200 http://www.radio-jade.de/stream/radiojade.m3u
+#EXTINF:-1,Radio_Jazznrhythm
+200 https://stream.laut.fm/jazznrhythm.m3u
+#EXTINF:-1,Radio_Joystick_|_JOY
+200 http://stream.laut.fm/joy.m3u
+#EXTINF:-1,Radio_Joystick_|_laut.fm/joy
+302 http://stream.laut.fm/joy
+#EXTINF:-1,Radio_K.W.
+http://radiokw.cast.addradio.de/radiokw/simulcast/high/stream.mp3
+#EXTINF:-1,Radio_Kiepenkerl
+404 http://radiokiepenkerlnord.radiovonhier.de/high/stream.mp3
+#EXTINF:-1,Radio_Köln
+200 http://www.vtuner.com/vtunerweb/mms/m3u7508.m3u
+#EXTINF:-1,Radio_Köln_-_Dein_Karnevalsradio_High
+200 http://radiokoeln--di--nacs-ais-lgc--07--cdn.cast.addradio.de/radiokoeln/100prozentjeck/mp3/high?_art=dj0yJmlwPTE3OC4yMDMuMTYyLjIzOCZpZD1pY3NjeGwtanllN2R3cGliJnQ9MTY1MTg2ODkyOSZzPTc4NjZmMjljIzgyODhkMGQ1OTM2Y2M2MDQ5NTBjNmY2NjdiY2E1M2Nk
+#EXTINF:-1,Radio_Köln_[MP3-128kbit]
+302 http://mp3.radiokoeln.c.nmdn.net/radiokoeln/livestream.mp3
+#EXTINF:-1,Radio_KW
+https://radiokw.cast.addradio.de/radiokw/simulcast/high/stream.mp3
+#EXTINF:-1,Radio_Lamberti_106,0
+http://5.44.104.85:8000/stream.mp3
+#EXTINF:-1,Radio_Landau
+200 https://laut.fm/radiolandau?autoplay=1
+#EXTINF:-1,Radio_Landau_2
+200 https://laut.fm/radiolandau2?autoplay=1
+#EXTINF:-1,Radio_Landeskrone
+302 http://stream.laut.fm/radio-landeskrone
+#EXTINF:-1,Radio_Latehome
+400 http://www.latehome.de:5000/listen.pls
+#EXTINF:-1,Radio_Lausitz
+301 https://hermes.bcs-systems.de/radio-lausitz_simulcast_192k_mp3
+#EXTINF:-1,Radio_Lausitz_-_2
+301 https://hermes.bcs-systems.de/radio-lausitz_2_192k_mp3
+#EXTINF:-1,Radio_Lausitz_-_80er_Kulthits
+301 https://hermes.bcs-systems.de/radio-lausitz_80er_192k_mp3
+#EXTINF:-1,Radio_Lausitz_-_90er_XXL
+301 https://hermes.bcs-systems.de/radio-lausitz_90er_192k_mp3
+#EXTINF:-1,Radio_Lausitz_-_Weihnachtsradio
+301 http://streams.bcs-systems.de/slp/xmas/lausitz/mp3/radio.de/playlist.m3u
+#EXTINF:-1,Radio_Legende
+200 https://einfach-webradio.de:10443/radio/8050/radio.mp3
+#EXTINF:-1,Radio_Leipzig

@@ -1,0 +1,1000 @@
+302 https://streams.paradiso.de/Berlin/aac-64/radiode/
+#EXTINF:-1,Bremen_Vier_
+302 https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3?aggregator=radio-de
+#EXTINF:-1,Bremen_Eins_
+302 https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3?aggregator=radio-de
+#EXTINF:-1,NDR_2_
+302 https://icecast.ndr.de/ndr/ndr2/niedersachsen/aac/low?aggregator=radio-de
+#EXTINF:-1,radioeins_vom_rbb_
+302 https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid?aggregator=radio-de
+#EXTINF:-1,Inforadio_vom_rbb_
+302 https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid?aggregator=radio-de
+#EXTINF:-1,Fritz_vom_rbb_
+302 https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid?aggregator=radio-de
+#EXTINF:-1,Antenne_Brandenburg_vom_rbb_
+302 https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid?aggregator=radio-de
+#EXTINF:-1,rbb_88.8_
+302 https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid?aggregator=radio-de
+#EXTINF:-1,MDR_THÜRINGEN_Erfurt_
+302 https://mdr-284300-0.sslcast.mdr.de/mdr/284300/0/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:-1,MDR_SACHSEN_Dresden_
+302 https://mdr-284280-0.sslcast.mdr.de/mdr/284280/0/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:-1,MDR_Sachsen-Anhalt_Magdeburg_
+302 https://mdr-284290-0.sslcast.mdr.de/mdr/284290/0/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:-1,LandesWelle_Thüringen_
+302 https://stream.landeswelle.de/lwt/aac-48/rde
+#EXTINF:-1,JAM_FM_Berlin_
+302 https://stream.jam.fm/jamfm-live/aac-64/radioDE/
+#EXTINF:-1,BR24live_
+302 https://dispatcher.rndfnk.com/br/br24live/live/aac/low?aggregator=radio-de
+#EXTINF:-1,BR24_
+302 https://dispatcher.rndfnk.com/br/br24/live/aac/low?aggregator=radio-de
+#EXTINF:-1,BR-KLASSIK_
+302 https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high?aggregator=radio-de
+#EXTINF:-1,BAYERN_3_
+302 https://dispatcher.rndfnk.com/br/br3/live/aac/low?aggregator=radio-de
+#EXTINF:-1,Bayern_2_Nord_
+404 https://dispatcher.rndfnk.com/br/br2/nord/aac/low?aggregator=radio-de
+#EXTINF:-1,BAYERN_1_-_Oberbayern_
+302 https://dispatcher.rndfnk.com/br/br1/obb/aac/low?aggregator=radio-de
+#EXTINF:-1,Radio_Regenbogen_
+302 https://stream.regenbogen.de/mannheim/aac-128/radiode
+#EXTINF:-1,Radio_7_
+302 https://frontend01.lb.streamonkey.net/radio7-ulm?aggregator=radiode
+#EXTINF:-1,sunshine_live_
+302 https://stream.sunshine-live.de/live/mp3-128/radiode/
+#EXTINF:-1,Rockland_Sachsen-Anhalt_
+200 https://saw-stream28.radiohost.de/rockland_mp3-192?
+#EXTINF:-1,radio_TOP_40_
+302 https://stream.radiotop40.de/live/mp3-192/radiode/
+#EXTINF:-1,radio_SAW_80er_
+302 https://stream.saw-musikwelt.de/saw-80er/aac-48/radiode/stream.mp3
+#EXTINF:-1,RADIO_PSR_
+302 https://streams.radiopsr.de/psr-live/mp3-128/radiode/
+#EXTINF:-1,Radio_Galaxy_Ansbach_
+200 https://live.galaxy-mittelfranken.de/galaxy-mittelfranken.mp3?ref=radio.de
+#EXTINF:-1,R.SH_
+302 https://streams.rsh.de/rsh-live/aac-64/radiode/
+#EXTINF:-1,R.SA_-_Live_
+302 https://streams.rsa-sachsen.de/rsa-live/aac-64/radiode/
+#EXTINF:-1,RPR1._
+302 https://stream.rpr1.de/webradio/aac-128/radiode
+#EXTINF:-1,HIT_RADIO_FFH_
+302 https://streams.ffh.de/radioffh/aac/hqlivestream.aac?amsparams=playerid:RTFFHRadioDE
+#EXTINF:-1,ENERGY_Sachsen_
+302 https://scdn.nrjaudio.fm/adwz1/de/33013/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,delta_radio_
+302 https://streams.deltaradio.de/delta-live/mp3-128/radiode/
+#EXTINF:-1,80s80s_MV_
+302 https://streams.80s80s.de/80s80sMV/mp3-192/radiode/
+#EXTINF:-1,Jazz_
+302 https://stream.laut.fm/radiojazz?ref=radiode
+#EXTINF:-1,80er_
+302 https://stream.laut.fm/80er?ref=radiode
+#EXTINF:-1,YOU_FM_
+302 https://dispatcher.rndfnk.com/hr/youfm/live/mp3/high?aggregator=radio-de
+#EXTINF:-1,Wacken_Radio_
+302 https://wackenradio-high.rautemusik.fm/?ref=radiode
+#EXTINF:-1,Radio_TOP_FM_-_Region_WEST_
+302 https://addrad.io/44599qw
+#EXTINF:-1,TechnoBase.FM_
+302 https://aach.stream.tb-group.fm/tb-high.aac
+#EXTINF:-1,Russian!_Radio_
+404 https://s35.derstream.net/stream
+#EXTINF:-1,HITRADIO_RT1_
+https://rt1-live.cast.addradio.de/rt1/live/mp3/high/stream.mp3?aw_0_1st.playerid=radioplayer.de
+#EXTINF:-1,Radio_RheinWelle_
+https://server7.streamserver24.com:8080/proxy/rheinwelle2?mp=/stream/
+#EXTINF:-1,Radio_Primavera_
+302 https://live.stream.primavera24.de/primavera24-radioprimavera?aggregator=radiode
+#EXTINF:-1,Radio_Oberland_
+https://radiooberland--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/radiooberland/live/mp3/high?ar-distributor=f0a0
+#EXTINF:-1,Radio_Kiepenkerl_-_Region_Nord_
+302 https://addrad.io/4459m58
+#EXTINF:-1,Radio_Galaxy_Oberfranken_
+https://rs21.stream24.net/galaxy-oberfranken.mp3
+#EXTINF:-1,Radio_free_FM_
+400 https://stream.freefm.de/Studio
+#EXTINF:-1,Radio_Flora_
+400 https://radioflora.de/stream/live48.mp3
+#EXTINF:-1,Radio_Fantasy_
+302 https://frontend.streamonkey.net/fantasy-934/stream/mp3?aggregator=Radio_de
+#EXTINF:-1,Radio_EINS_Coburg_
+302 https://rs3.stream24.net/radio-eins.mp3
+#EXTINF:-1,Radio_CORAX_
+400 https://streaming.fueralle.org/corax_192.mp3
+#EXTINF:-1,Radio_Bonn_/_Rhein-Sieg_
+302 https://stream.lokalradio.nrw/444z73f
+#EXTINF:-1,Radio_Brocken_
+302 https://stream.radiobrocken.de/live/mp3-256/radiode
+#EXTINF:-1,Radio_Bamberg_
+302 https://rs1.stream24.net/radio-bamberg.mp3
+#EXTINF:-1,Radio_Arabella_105.2_
+302 https://live.stream.radioarabella.de/radioarabella-muenchen?aggregator=radiode
+#EXTINF:-1,RADIO_21_-_Hannover_
+302 https://streams.radio21.de/hannover/mp3-128/radiode/
+#EXTINF:-1,Radio_MK_-_Region_Nord_
+302 https://stream.lokalradio.nrw/445428p
+#EXTINF:-1,MINIMALRADIO__
+200 https://minimalradio.de:7000/stream/1/
+#EXTINF:-1,MDR_SPUTNIK_Rock_
+302 https://mdr-284331-1.sslcast.mdr.de/mdr/284331/1/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:-1,MDR_SPUTNIK_Club_
+302 https://mdr-284331-2.sslcast.mdr.de/mdr/284331/2/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:-1,MDR_SPUTNIK_
+302 https://mdr-284330-0.sslcast.mdr.de/mdr/284330/0/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:-1,MDR_KLASSIK_
+302 https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:-1,MDR_Aktuell_
+302 https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:-1,Klassik_Radio_Live_
+307 https://live.streams.klassikradio.de/klassikradio-deutschland?aggregator=radiode
+#EXTINF:-1,MDR_JUMP_
+302 https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:-1,hr-iNFO_
+302 https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high?aggregator=radio-de
+#EXTINF:-1,hr4_
+302 https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high?aggregator=radio-de
+#EXTINF:-1,hr3_
+302 https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high?aggregator=radio-de
+#EXTINF:-1,hr2-kultur_
+302 https://dispatcher.rndfnk.com/hr/hr2/live/mp3/medium?aggregator=radio-de
+#EXTINF:-1,hr1_
+302 https://dispatcher.rndfnk.com/hr/hr1/live/mp3/high?aggregator=radio-de
+#EXTINF:-1,Hit_Radio_N1_
+302 https://frontend.streamonkey.net/fhn-hitradion1?aggregator=radiode
+#EXTINF:-1,GrooveFM_
+302 https://stream.laut.fm/groovefm
+#EXTINF:-1,gong_fm_
+404 https://addrad.io/44556qx
+#EXTINF:-1,Gong_97.1_
+302 https://frontend.streamonkey.net/fhn-gong971?aggregator=radiode
+#EXTINF:-1,Deutschlandfunk_Kultur_
+302 https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=radio-de
+#EXTINF:-1,die_neue_welle_
+302 https://dieneuewelle.cast.addradio.de/dieneuewelle/simulcast/high/stream.mp3
+#EXTINF:-1,Deutschlandfunk_
+302 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=radio-de
+#EXTINF:-1,98.6_charivari_
+302 https://frontend.streamonkey.net/fhn-986charivari?aggregator=radiode
+#EXTINF:-1,bigFM_Saarland_
+302 https://stream.bigfm.de/saarland/aac-128/radiode
+#EXTINF:-1,bigFM_
+302 https://stream.bigfm.de/deutschland/aac-128/radiode
+#EXTINF:-1,Antenne_AC_
+301 https://stream.antenneac.de/444z58p
+#EXTINF:-1,max_neo_106.5_
+400 https://stream.afkmax.de/afkmax-lq.mp3
+#EXTINF:-1,89.0_RTL_
+302 https://stream.89.0rtl.de/live/aac-64/radiode
+#EXTINF:-1,1LIVE_diggi_
+302 https://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3?aggregator=radio-de
+#EXTINF:-1,1LIVE_
+302 https://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3?aggregator=radio-de
+#EXTINF:-1,MyHitMusic_–_Jeff_Classic_Rock_–_Hanover_–_Lower_Saxony_–_DE
+404 http://radio2.myhitmusic.de/Jeff-Classicrock.mp3
+#EXTINF:-1,rbb_Inforadio_–_DE-BE
+302 https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/low?aggregator=mytuner-mobi
+#EXTINF:-1,RPR1._2010er_–_Ludwigshafen_am_Rhein_–_Rhineland-Palatinate_–_DE
+302 https://stream.rpr1.de/2010er/mp3-128/mytuner
+#EXTINF:-1,1A_Neuheiten_–_Magdeburg_–_Saxony-Anhalt_–_DE
+200 http://88.99.181.107:80/saw-neuheiten_48
+#EXTINF:-1,Radio_Schlauti’s_–_DE
+https://listen.schlauti.media:8020/maindesktopaac
+#EXTINF:-1,Gemeinde_Gottes_Gifhorn_–_Gifhorn_–_Lower_Saxony_–_DE
+301 http://www.gemeinde-gottes-gifhorn.de/IR/GGGF.asx
+#EXTINF:-1,Radio_Trausnitz_–_Landshut_–_Bavaria_–_DE
+302 http://mp3ad.radiotrausnitz.c.nmdn.net/radiotrausnitz/livestream.mp3
+#EXTINF:-1,Sunshine_–_Future_Bass_–_DE-HH
+200 https://sunsl.streamabc.net/sunsl-sunslcheqhs4qtygg6-mp3-192-1498751
+#EXTINF:-1,Peli_One_–_DE-HB
+502 https://server5528.streamplus.de
+#EXTINF:-1,ON_Chillout_–_DE-BE
+400 https://0n-chillout.radionetz.de/0n-chillout.aac
+#EXTINF:-1,HITRADIO_RT1_Nordschwaben_–_Dillingen_an_der_Donau_–_Bavaria_–_DE
+http://rt1.radio/w945h
+#EXTINF:-1,BB_RADIO_Feten_Hits_–_Potsdam_–_DE-BB
+https://ir-media.hoerradar.de/bbradio-feten-mp3-mq
+#EXTINF:-1,N-JOY_Radio_–_Schiffdorf_–_Lower_Saxony_–_DE
+302 http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,RADIO_21_Uelzen_–_Uelzen_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/uelzen/mp3-192/mytuner/
+#EXTINF:-1,RADIO_21_Celle_–_93.5_FM_–_Celle_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/celle/mp3-192/mytuner/
+#EXTINF:-1,ROCK_ANTENNE_Live_Rock_–_Ismaning_–_Bavaria_–_DE
+http://stream.rockantenne.de/live-rock/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Fox_Club_Arena_–_Frankfurt_am_Main_–_Hesse_–_DE
+http://foxclubarena.sonixfm.com/infusions/sw_streamstatus1_panel/player.php?id=1&player=winamp
+#EXTINF:-1,BR_Klassik_–_Bamberg_–_Bavaria_–_DE
+404 https://d111.rndfnk.com/ard/br/brklassik/live/mp3/192/stream.mp3?aggregator=tunein&sid=1y815nljJQ08M42Uxxk4b9Q3svP&token=v7Z_gTaTx3vVsVusDTYVhGn8m3dYJb7j7ceUFfhKs1U&tvf=sFkcusW_pBZkMTExLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk_–_Heilbronn_–_DE-BW
+302 http://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,HITRADIO_RTL_80er_bis_heute_–_Leipzig_–_Saxony_–_DE
+302 https://web.radio.hitradio-rtl.de/hrrtl-bis-heute?aggregator=mytuner
+#EXTINF:-1,CityRadio_Sankt_Wendel_–_92.6_FM_–_Sankt_Wendel_–_DE-SL
+302 https://stream.radiogroup.de/cityradio-stwendel/mp3-192/?ref=my-tuner
+#EXTINF:-1,RADIO_21_Braunschweig_–_104.1_FM_–_Braunschweig_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/braunschweig/mp3-192/mytuner/
+#EXTINF:-1,RADIO_21_Oldenburg_–_Oldenburg_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/oldenburg/mp3-192/mytuner/
+#EXTINF:-1,Radio_Dresden_–_103.5_FM_–_Dresden_–_Saxony_–_DE
+301 http://streaming.radiodresden.de/radio-dresden_simulcast_192k_mp3
+#EXTINF:-1,Klassik_Radio_Die_Till_Brönner_Show_–_Augsburg_–_Bavaria_–_DE
+302 https://stream.klassikradio.de/tillbroenner/aac-64/mytuner
+#EXTINF:-1,ON_Gold_–_DE-BE
+400 https://0n-gold.radionetz.de/0n-gold.mp3
+#EXTINF:-1,Adventist_Tamil_Radio_–_DE-BE
+401 http://195.154.217.103:8004/
+#EXTINF:-1,DW_Africa_–_DE
+302 https://dw.audiostream.io/dw/1026/mp3/64/dw-fm05
+#EXTINF:-1,WDR_2_Südwestfalen_–_Arnsberg_–_North_Rhine-Westphalia_–_DE
+302 http://wdr-wdr2-suedwestfalen.icecast.wdr.de/wdr/wdr2/suedwestfalen/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,Electronicssounds_Bass_–_Cologne_–_North_Rhine-Westphalia_–_DE
+https://bass.electronicssounds.com?ref=mytunerradiocom
+#EXTINF:-1,WDR_2_Ostwestfalen-Lippe_–_96.0_FM_–_Lübbecke_–_North_Rhine-Westphalia_–_DE
+302 http://wdr-wdr2-ostwestfalenlippe.icecast.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,Radio_Vest_–_Recklinghausen_–_North_Rhine-Westphalia_–_DE
+302 http://stream.lokalradio.nrw/444zd65
+#EXTINF:-1,SR_3_Saarlandwelle_–_Saarbrücken_–_DE-SL
+302 http://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,R.SH_Top_40_–_Kiel_–_DE-SH
+https://rsh.hoerradar.de/rsh-nordparade-mp3-hq
+#EXTINF:-1,Radio_91.2_–_Lounge_Radio_–_Dortmund_–_North_Rhine-Westphalia_–_DE
+302 https://rnrw.cast.addradio.de/rnrw-014d/deinlounge/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7&sid=014d
+#EXTINF:-1,ANTENNE_BAYERN_Black_Music_–_Ismaning_–_Bavaria_–_DE
+302 http://stream.antenne.de/black-beatz/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Sunshine_–_Mix_Mission_–_DE-HH
+200 https://sunsl.streamabc.net/sunsl-mixmission-mp3-192-2059291
+#EXTINF:-1,ffn_Bollerwagen_–_101.5_FM_–_Lingen_–_Lower_Saxony_–_DE
+200 https://ffn-de-hz-fal-stream10-cluster01.radiohost.de/radiobollerwagen_mp3-192
+#EXTINF:-1,Jam_FM_K-pop_–_DE-BE
+200 https://rtlberlin.streamabc.net/rtlb-jamfmkpop-mp3-128-8582229
+#EXTINF:-1,bigFM_HipHop_–_Stuttgart_–_DE-BW
+302 https://stream.bigfm.de/hiphop/mp3-128/mytuner
+#EXTINF:-1,Radio_MK_–_92.5_FM_–_Hemer_–_North_Rhine-Westphalia_–_DE
+302 http://stream.lokalradio.nrw/44542gw
+#EXTINF:-1,DMlive_–_Schongau_–_Bavaria_–_DE
+200 https://stream.laut.fm/dmlive.m3u
+#EXTINF:-1,CityRadio_Saarlouis_–_Saarlouis_–_DE-SL
+302 https://stream.radiogroup.de/cityradio-saarlouis/mp3-192/?ref=my-tuner
+#EXTINF:-1,Jam_FM_Charts_–_DE-BE
+https://sec-jamfm.hoerradar.de/jamfm-charts-mp3-128
+#EXTINF:-1,HITRADIO_RTL_90er_–_Leipzig_–_Saxony_–_DE
+302 https://web.radio.hitradio-rtl.de/hrrtl-90er?aggregator=mytuner
+#EXTINF:-1,ON_Grand_Prix_–_DE-BE
+400 https://0n-grandprix.radionetz.de/0n-grandprix.aac
+#EXTINF:-1,MusikNation_–_DE-HB
+200 http://stream.laut.fm/musiknation.m3u
+#EXTINF:-1,METAL_ONLY_–_Deizisau_–_DE-BW
+http://server8.blitz-stream.de:9480/
+#EXTINF:-1,KTLS_Radio_Germany_–_DE
+302 http://stream.zeno.fm/8xzkepv9e2zuv
+#EXTINF:-1,Radio_MKW_Alles_Schlager_–_Frankfurt_am_Main_–_Hesse_–_DE
+302 http://stream.laut.fm/allesschlager
+#EXTINF:-1,Radio_Saalewelle_–_Weißenfels_–_Saxony-Anhalt_–_DE
+302 https://www.radioking.com/play/saalewelle/457207
+#EXTINF:-1,R.SH_Relax_–_Kiel_–_DE-SH
+https://rsh.hoerradar.de/rsh-relax-mp3-hq
+#EXTINF:-1,Radio_Ton_–_Region_Main-Tauber/Hohenlohe_–_Wurzburg_–_Bavaria_–_DE
+302 https://live.radioton.de/rt-live-mobile-sha
+#EXTINF:-1,SCHLAGERINO_Kultschlager_–_Bremerhaven_–_DE-HB
+200 https://stream.laut.fm/schlagerino-kultschlager.m3u
+#EXTINF:-1,70er-Revival_–_Essen_–_North_Rhine-Westphalia_–_DE
+302 http://stream.laut.fm/70er-revival
+#EXTINF:-1,Radio_Oberland_–_Oberammergau_–_Bavaria_–_DE
+302 http://mp3.radiooberland.c.nmdn.net/ps-radiooberland/livestream.mp3
+#EXTINF:-1,DanceCharts_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://dancecharts.superstreams.de?ref=ss_mytunerradiocom
+#EXTINF:-1,antenne_1_Neckarburg_Rock_&_Pop_–_Blumberg_–_DE-BW
+200 https://stream.antenne1.de/a1nbg/livestream2.mp3?a=1&&aw_0_1st.playerid=antenne1-neckarburg_web&aw_0_req.userConsentV2=CPPJfEEPPJfEVAFADBDEBzCsAP_AAE_AAAYgITNf_X__bX9j-_59f_t0eY1P9_r3v-QzjhfNt-8F2L_W_L0X52E7NF36pq4KuR4Eu3LBIQNlHMHUTUmwaokVrzHsakWMpyNKJ7LE
+#EXTINF:-1,NDR_Kultur_–_Bad_Sülze_–_DE-MV
+302 http://icecast.ndr.de/ndr/ndrkultur/live/aac/low?aggregator=mytuner-mobi
+#EXTINF:-1,NDR_Info_–_Marlow_–_DE-MV
+302 http://icecast.ndr.de/ndr/ndrinfo/hamburg/aac/low?aggregator=mytuner-mobi
+#EXTINF:-1,Radio_Regenbogen_–_Konfetti_Party_–_Mannheim_–_DE-BW
+302 https://stream.regenbogen.de/konfettiparty/mp3-128/mytuner
+#EXTINF:-1,bigFM_Deep_&_Tech_House_–_Stuttgart_–_DE-BW
+302 https://stream.bigfm.de/deeptechhouse/mp3-128/mytuner
+#EXTINF:-1,Bayern_1_Oberbayern_–_Berchtesgaden_–_Bavaria_–_DE
+302 https://dispatcher.rndfnk.com/br/br1/obb/mp3/low
+#EXTINF:-1,80XL_–_Aachen_–_North_Rhine-Westphalia_–_DE
+302 https://stream.laut.fm/80xl
+#EXTINF:-1,Radio_Schwabmuenchen_–_DE-BE
+http://stream.radio-schwabmuenchen.de/radio.mp3
+#EXTINF:-1,Radio_Sauerland_–_Finnentrop_–_North_Rhine-Westphalia_–_DE
+302 http://stream.lokalradio.nrw/444zd2n
+#EXTINF:-1,Radio_Lippe_Welle_Hamm_–_Oldie_–_Hamm_–_North_Rhine-Westphalia_–_DE
+http://rnrw-ais-edge-3005.fra-eco.cdn.addradio.net/rnrw-016f/deinoldieradio/mp3/high/stream.mp3
+#EXTINF:-1,ANTENNE_BAYERN_Happy_Hits_–_Ismaning_–_Bavaria_–_DE
+302 http://stream.antenne.de/happy-hits/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,RPR1._Köln_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://stream.rpr1.de/koeln/mp3-128/mytuner
+#EXTINF:-1,Radio_OKJ_–_Jena_–_Free_State_of_Thuringia_–_DE
+400 http://tbradio.de:80/okj
+#EXTINF:-1,Dein_Deutsch_Pop_Radio_–_DE-BE
+http://rnrw-ais-edge-3001.fra-eco.cdn.addradio.net/rnrw-01C1/deindeutschpop/high/stream.mp3
+#EXTINF:-1,Deutschrap_Classic_yb_rautemusik_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://deutschrap-classic-high.rautemusik.fm/?ref=mytuner
+#EXTINF:-1,YOU_FM_–_Eschwege_–_Hesse_–_DE
+302 http://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3
+#EXTINF:-1,REGENBOGEN_2_–_ROLLING_STONES_–_Mannheim_–_DE-BW
+302 https://stream.regenbogen2.de/rollingstones/mp3-128/mytuner
+#EXTINF:-1,Hitradio_Buxtehude_Christmas_–_Stuttgart_–_DE-BW
+302 https://stream.laut.fm/hitradio-christmas
+#EXTINF:-1,RT1_In_The_Mix_–_Augsburg_–_Bavaria_–_DE
+302 http://rt1.radio/fexmp
+#EXTINF:-1,radio_SAW_–_Schlager_–_Magdeburg_–_Saxony-Anhalt_–_DE
+302 https://stream.saw-musikwelt.de/saw-schlager/mp3-192?ref=my-tuner
+#EXTINF:-1,InTheMixRadio_–_Borken_–_North_Rhine-Westphalia_–_DE
+https://sdstream.de:9300/inthemixradio
+#EXTINF:-1,Delta_Radio_–_DE-HH
+302 https://streams.deltaradio.de/delta-live/mp3-128/radiosure/
+#EXTINF:-1,Rockland_Radio_–_Bitburg_–_107.9_FM_–_Bitburg_–_Rhineland-Palatinate_–_DE
+302 https://streams.rockland.de/bitburg/mp3-192/mytuner/
+#EXTINF:-1,Christmas_Chor_by_rautemusik_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://christmas-chor-high.rautemusik.fm/?ref=mytuner
+#EXTINF:-1,RPR1._Hard_Rock_–_Ludwigshafen_am_Rhein_–_Rhineland-Palatinate_–_DE
+404 https://stream.rpr1.de/hardrock/mp3-128/mytuner
+#EXTINF:-1,Creative_Radio_Germany_–_Limburg_an_der_Lahn_–_Hesse_–_DE
+200 http://systemweb-server3.de:12100
+#EXTINF:-1,Dein_Schlager_Radio_–_DE-BE
+https://rnrw-ais-edge-3105-fra-eco-cdn.cast.addradio.de/rnrw/deinschlager/high/stream.mp3?ar-distributor=ffa0&sid=01c1&kombi=Westfunk&_art=dj0yJmlwPTk0LjYwLjE0MS4wJmlkPWljc2N4bC16dmdhaXR5a2ImdD0xNjA0Njg2MDAzJnM9Nzg2NmYyOWMjMTdjZjFlZWU5MzBjMGZmNzBkYmEyYzJm
+#EXTINF:-1,Friesenradio_–_DE
+200 https://stream.laut.fm/friesenradio.pls
+#EXTINF:-1,ENERGY_Hits_Remix_–_DE-BE
+302 https://scdn.nrjaudio.fm/adwz1/de/56247/aac_64.mp3?origine=mytuner
+#EXTINF:-1,HITRADIO_RTL_Weihnachtsradio_–_Chemnitz_–_Saxony_–_DE
+302 https://web.radio.hitradio-rtl.de/hrrtl-xmas?aggregator=mytuner
+#EXTINF:-1,ROCK_ANTENNE_Melodic_Rock_–_DE
+302 http://stream.rockantenne.de/melodic-rock/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,REGENBOGEN_2_–_GUNS_N’ROSES_–_Mannheim_–_DE-BW
+302 https://stream.regenbogen2.de/gunsnroses/mp3-128/mytuner
+#EXTINF:-1,Elite_radio_–_Leipzig_–_Saxony_–_DE
+http://elitestreaming.de:10600/listen.pls
+#EXTINF:-1,Radio_TOP_FM_–_Region_West_–_Fürstenfeldbruck_–_Bavaria_–_DE
+302 https://addrad.io/44599rv
+#EXTINF:-1,HIT_MUSIC_FM_–_DE
+http://109.169.76.155:25274/
+#EXTINF:-1,Radio_Brocken_Lovesongs_–_Halle_–_Saxony-Anhalt_–_DE
+302 https://stream.radiobrocken.de/love/mp3-128/myTuner
+#EXTINF:-1,ANTENNE_NRW_Karneval_–_Dusseldorf_–_North_Rhine-Westphalia_–_DE
+302 http://stream.antenne.de/antenne-nrw-karneval/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,ANTENNE_BAYERN_Greatest_Hits!_–_DE
+302 http://stream.antenne.de/greatest-hits/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,80s80s_Jackson_–_DE-HH
+https://80s80s.hoerradar.de/80s80s-micjac-mp3-hq
+#EXTINF:-1,ROCK_ANTENNE_Rock’n’Roll_–_Ismaning_–_Bavaria_–_DE
+302 http://stream.rockantenne.de/rockandroll/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Radio_Feierwerk_–_Munich_–_Bavaria_–_DE
+http://46.4.151.179:8000/live.ogg
+#EXTINF:-1,Rockabilly_Beats_–_DE
+200 http://fra-pioneer08.dedicateware.com:1840/stream
+#EXTINF:-1,RadioClubbers_Clubbers_–_DE
+301 https://s3.slotex.pl/shoutcast/7300/stream?sid=1
+#EXTINF:-1,vorleser.net-Radio_–_Klassiker_–_Leipzig_–_Saxony_–_DE
+302 https://radio.vorleser.net/klassiker/mp3-192/mytuner/
+#EXTINF:-1,Absolut_HOT_–_Garching_bei_München_–_Bavaria_–_DE
+302 https://absolut-hot.live-sm.absolutradio.de/absolut-hot?aggregator=myTuner
+#EXTINF:-1,NONPOP_–_DE-BE
+302 https://stream.laut.fm/nonpop
+#EXTINF:-1,Sauerland_FM_–_Hemer_–_North_Rhine-Westphalia_–_DE
+404 http://sauerland-fm.stream.laut.fm:8080/sauerland-fm
+#EXTINF:-1,12punks.FM_–_Punk_Rock_Radio_–_Aachen_–_North_Rhine-Westphalia_–_DE
+302 https://12punks-high.rautemusik.fm/
+#EXTINF:-1,Planet_Radio_Black_Beats_–_Frankfurt_am_Main_–_Hesse_–_DE
+https://mp3.planetradio.de/plrchannels/hqblackbeats.aac
+#EXTINF:-1,FoxBox_Radio_–_DE-HB
+http://streamplus53.leonex.de:11036/
+#EXTINF:-1,Antenne_Thüringen_–_Gera_–_Free_State_of_Thuringia_–_DE
+302 https://stream.antennethueringen.de/live/mp3-192/web/
+#EXTINF:-1,Northlight-Music_–_Flensburg_–_DE-SH
+http://radio.northlight-music.de:8000/
+#EXTINF:-1,KULTRADIO_–_Bayreuth_–_Bavaria_–_DE
+https://cdn.kultradio.fm/content/m3u/kultradio.m3u
+#EXTINF:-1,Planet_of_Dreams_–_DE-BE
+http://s5.stream-webradiotechnik.de:9400/listen1
+#EXTINF:-1,CityRadio_Homburg_–_Homburg_–_DE-SL
+302 https://stream.radiogroup.de/cityradio-homburg/mp3-192/?ref=my-tuner
+#EXTINF:-1,RadioMonster.FM_–_Hanover_–_Lower_Saxony_–_DE
+302 https://evergreens.radiomonster.fm/32.aac
+#EXTINF:-1,WDR_4_–_100.0_FM_–_Münster_–_Hesse_–_DE
+302 http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,Radio_Brocken_90er_–_Halle_–_Saxony-Anhalt_–_DE
+302 https://stream.radiobrocken.de/90er/mp3-128/myTuner
+#EXTINF:-1,Radio_Alpenwelle_–_Bad_Tölz_–_Bavaria_–_DE
+400 https://live.alpenwelle.de/alpenwelle128.mp3
+#EXTINF:-1,Arabella_70er_–_Munich_–_Bavaria_–_DE
+302 https://live.stream.radioarabella.de/radioarabella-70er/stream/mp3?aggregator=mytuner
+#EXTINF:-1,Radio_ffn_–_Holzminden_–_Lower_Saxony_–_DE
+200 http://player.ffn.de/tunein_ffn.pls
+#EXTINF:-1,ENERGY_Deutschrap_–_DE-BE
+302 https://scdn.nrjaudio.fm/adwz1/de/56369/aac_64.mp3?origine=mytuner
+#EXTINF:-1,Gong_97.1_–_Heavy_Gong_–_97.1_FM_–_Nuremberg_–_Bavaria_–_DE
+404 https://addrad.io/44552q7
+#EXTINF:-1,mundARTradio_–_Essen_–_North_Rhine-Westphalia_–_DE
+200 https://stream.laut.fm/mundartradio.m3u
+#EXTINF:-1,Radio_MK_Weihnachts_–_Altena_–_North_Rhine-Westphalia_–_DE
+302 https://rnrw.cast.addradio.de/rnrw-0192/deinevent/high/stream.mp3
+#EXTINF:-1,Hitradio_Buxtehude_Fresh_–_Stuttgart_–_DE-BW
+200 https://hitradio-fresh.stream.laut.fm/hitradio-fresh
+#EXTINF:-1,Bayern_1_Schwaben_–_Kaufbeuren_–_Bavaria_–_DE
+302 https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/low
+#EXTINF:-1,Radio_Alpenstar_–_DE-BE
+200 https://server7517.streamplus.de/
+#EXTINF:-1,WDR_2_Bergisches_Land_–_Remscheid_–_North_Rhine-Westphalia_–_DE
+302 http://wdr-wdr2-bergischesland.icecast.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,Radio_Fantasy_Black_–_Augsburg_–_Bavaria_–_DE
+302 https://frontend.streamonkey.net/fantasy-black/stream/mp3?aggregator=Mytuner
+#EXTINF:-1,nkmr_Radio_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://stream.laut.fm/nkmr
+#EXTINF:-1,Klassik_Radio_Healing_Spirit_–_Augsburg_–_Bavaria_–_DE
+302 https://stream.klassikradio.de/healing/mp3-192/mytuner
+#EXTINF:-1,99live_..::_Attention:_Music_Inside!_::.._–_Duisburg_–_North_Rhine-Westphalia_–_DE
+http://85.214.221.202:9000/
+#EXTINF:-1,Study_by_rautemusik_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://study-high.rautemusik.fm/?ref=mytuner
+#EXTINF:-1,ANTENNE_BAYERN_Fresh_–_Ismaning_–_Bavaria_–_DE
+302 http://stream.antenne.de/fresh/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Radio_Nürburgring_powered_by_RPR1._–_DE
+302 https://stream.rpr1.de/nbr/mp3-128/mytuner
+#EXTINF:-1,RADIO_21_Buxtehude_–_Buxtehude_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/buxtehude/mp3-192/mytuner/
+#EXTINF:-1,ROCK_ANTENNE_Lagerfeuer_Rock_–_DE
+302 http://stream.rockantenne.de/lagerfeuer-rock/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Radio_Schlagerparadies_–_Frisch_gepresst_–_Kleinblittersdorf_–_DE-SL
+400 https://radioplayer-frischgepresst.schlagerparadies.de/frischgepresst
+#EXTINF:-1,Hitradio_4_Ever_–_DE
+302 https://stream.laut.fm/hitradio4ever
+#EXTINF:-1,RPR1._Liedergut_–_Ludwigshafen_am_Rhein_–_Rhineland-Palatinate_–_DE
+302 https://stream.rpr1.de/liedergut/mp3-128/mytuner
+#EXTINF:-1,Antenne_Niedersachsen_90er_–_Hanover_–_Lower_Saxony_–_DE
+302 http://stream.antenne.com/antenne-nds-90er/mp3-192/appmind_radiofm/
+#EXTINF:-1,Antenne_MV_–_Waren_–_DE-MV
+https://antennemv.hoerradar.de/antennemv-live-mp3-hq
+#EXTINF:-1,Top_20_Radio_TV_–_DE-BE
+200 http://server8.blitz-stream.de:9100/top20radio
+#EXTINF:-1,FSK_–_Freies_Sender_Kombinat_–_93.0_FM_–_DE-HH
+http://www.nadir.org:8000/fsk.ogg
+#EXTINF:-1,NOXX_–_Oberhausen_–_North_Rhine-Westphalia_–_DE
+302 https://stream.lokalradio.nrw/4459jmq
+#EXTINF:-1,RauteMusik_–_THE_CHRISTMAS_CHANNEL_–_Aachen_–_North_Rhine-Westphalia_–_DE
+302 https://christmas-aacp.rautemusik.fm/stream.mp3?ref=rm5beta
+#EXTINF:-1,charivari_Dance_–_Regensburg_–_Bavaria_–_DE
+404 http://addrad.io/4459bjv
+#EXTINF:-1,Evil-Radio_Oldie_–_DE-HB
+302 http://stream.laut.fm/er-oldie
+#EXTINF:-1,KitchenRadio_–_Ulm_–_DE-BW
+200 https://stream.kitchenradio.eu:8000/MQ
+#EXTINF:-1,LIMIT_FM_–_DE
+302 https://stream.laut.fm/limit-fm
+#EXTINF:-1,myX-MAS_–_Augsburg_–_Bavaria_–_DE
+https://stream2.radiodienst.de/proxy/toneart/myxmas
+#EXTINF:-1,RADIO_BOB!_Mittelalter_Rock_–_Kiel_–_DE-SH
+https://bob.hoerradar.de/radiobob-mittelalter-mp3-hq
+#EXTINF:-1,RPR1._80er_Rock_–_Ludwigshafen_am_Rhein_–_Rhineland-Palatinate_–_DE
+302 https://stream.rpr1.de/70errock/mp3-128/mytuner
+#EXTINF:-1,NDR_90,3_–_903_AM_–_DE-HH
+302 http://icecast.ndr.de/ndr/ndr903/hamburg/aac/low?aggregator=mytuner-mobi
+#EXTINF:-1,Youyi_Radio_–_Koblenz_–_Rhineland-Palatinate_–_DE
+302 https://addrad.io/445fzzk
+#EXTINF:-1,Radio_91.2_–_Rock_Radio_–_Dortmund_–_North_Rhine-Westphalia_–_DE
+302 https://rnrw.cast.addradio.de/rnrw-014d/deinrock/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7&sid=014d
+#EXTINF:-1,radioeins_/_Frankfurt_O._–_Frankfurt_(Oder)_–_DE-BB
+302 https://dispatcher.rndfnk.com/rbb/radioeins/frankfurt/mp3/mid?aggregator=mytuner-mobi
+#EXTINF:-1,ANTENNE_BAYERN_Weihnachts_Hits_–_Ismaning_–_Bavaria_–_DE
+302 http://stream.antenne.de/weihnachts-hits/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Munich’s_Hardest_Hits_–_Munich_–_Bavaria_–_DE
+200 http://munichhh.streamabc.net/munichhh-mhhlive-aacplus-64-1296605
+#EXTINF:-1,Ichtys_Radio_–_DE-BE
+302 http://server33109.streamplus.de:10870/stream/1
+#EXTINF:-1,MashupFM_Charts_–_DE
+302 https://stream.laut.fm/mashupfmcharts
+#EXTINF:-1,ANTENNE_BAYERN_Hits_für_Kids_–_Ismaning_–_Bavaria_–_DE
+302 http://stream.antenne.de/hits-fuer-kids/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Radio_Fırat_Fm_Pop_–_87.3_FM_–_Nachrodt-Wiblingwerde_–_North_Rhine-Westphalia_–_DE
+200 https://yayin.firatfm.net:8016
+#EXTINF:-1,Schlager_Radio_–_DE-BE
+302 https://addrad.io/4454r74
+#EXTINF:-1,Ballermann_Radio_–_Wetter_(Ruhr)_–_North_Rhine-Westphalia_–_DE
+200 http://livestream.ballermann-radio.de/ballermann-radio.mp3
+#EXTINF:-1,Studio-Aktiv_–_DE
+200 https://stream.studio-aktiv.com:10500/Studio-Aktiv-MP3-320
+#EXTINF:-1,Radio_MKW_Citybeat_–_Frankfurt_am_Main_–_Hesse_–_DE
+302 http://stream.laut.fm/citybeat
+#EXTINF:-1,Bremen_Vier_Kohltourchannel_–_DE-HB
+http://webchannel.radiobremen.de:8000/spezial
+#EXTINF:-1,Trance_by_rautemusik_–_Cologne_–_North_Rhine-Westphalia_–_DE
+200 https://rautemusik-de-hz-fal-stream11.radiohost.de/trance?ref=rm5beta&listenerid=8f86f87c014437cb9307009de77b7954&awparams=companionAds:true&aw_0_req.userConsentV2=CPlD48APlD48AAFADBENCxCsAP_AAE_AAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF3
+#EXTINF:-1,Best_of_Rock_–_Hard_Rock.FM_–_DE-BE
+200 https://radio21.streamabc.net/radio21-hardrock-mp3-256-1630702?sABC=5r21q54s%230%2311npqo33o08rr48qpp0792748165959p%23orfgbsebpx.sz&sabcsid=210636cbed51&amsparams=playerid:bestofrock.fmskey:1579275599
+#EXTINF:-1,Radio_Regenbogen_–_Workout_–_Mannheim_–_DE-BW
+302 https://stream.regenbogen.de/workout/mp3-128/mytuner
+#EXTINF:-1,Sunshine_–_Ibiza_–_DE-HH
+200 https://sunsl.streamabc.net/sunsl-ibiza-mp3-192-7872628
+#EXTINF:-1,Radio_Kiepenkerl_–_Weihnachts_–_Coesfeld_–_North_Rhine-Westphalia_–_DE
+https://rnrw-ais-edge-3104-fra-eco-cdn.cast.addradio.de/rnrw/deinevent/high/stream.mp3?ar-distributor=ffa0&sid=0149&kombi=WWR&_art=dj0yJmlwPTk0LjYwLjE0MS4wJmlkPWljc2N4bC1wamw3aHR5a2ImdD0xNjA0Njg1OTI2JnM9Nzg2NmYyOWMjZmNkNDMxZmVkYmMwMWUxZDM0Y2MyNGY1YmIxYTI5
+#EXTINF:-1,charivari_Made_in_Germany_–_Regensburg_–_Bavaria_–_DE
+404 http://addrad.io/4459bpz
+#EXTINF:-1,The_Relax_Station_–_DE-BE
+302 http://stream.zeno.fm/yqanqtsk2v8uv
+#EXTINF:-1,Workout_by_rautemusik_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://workout-high.rautemusik.fm/?ref=mytuner
+#EXTINF:-1,Radio_Eins_–_Coburg_–_Bavaria_–_DE
+301 https://www.stream24.de/tune-in/r7353.pls
+#EXTINF:-1,Radio_Hyrule_–_DE-HH
+400 http://listen.radiohyrule.com:8000/listen.aac
+#EXTINF:-1,Happy_by_rautemusik_–_DE
+302 https://happy-high.rautemusik.fm/?ref=mytuner
+#EXTINF:-1,webRadio_volXmusik.de_–_DE-BE
+302 https://stream.laut.fm/volxmusik
+#EXTINF:-1,HITRADIO_RTL_Sachsen_–_Bautzen_–_Saxony_–_DE
+302 https://web.radio.hitradio-rtl.de/hrrtl-sachsen?aggregator=mytuner
+#EXTINF:-1,Landesradio_Thuringen_–_87.5_FM_–_Großbreitenbach_–_Free_State_of_Thuringia_–_DE
+200 https://lrtfresh.radiostream321.com/
+#EXTINF:-1,Radio_Top_40_Club_Sound_–_Weimar_–_Free_State_of_Thuringia_–_DE
+https://antenne-th.divicon-stream.net/antth_top40electro_JlSz-mp3-192
+#EXTINF:-1,bigFM_Hamburg_–_DE-HH
+404 http://stream.bigfm.de/hamburg/128-mp3/internetradiohoeren
+#EXTINF:-1,RADIO_21_Wolfsburg_–_95.1_FM_–_Wolfsburg_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/wolfsburg/mp3-192/mytuner/
+#EXTINF:-1,REYFM_#summerjam_–_Bönen_–_North_Rhine-Westphalia_–_DE
+404 https://listen.reyfm.de/summerjam_192kbps.mp3
+#EXTINF:-1,rs2_Eat_–_DE-BE
+302 https://stream.rs2.de/rs2-eat/mp3-128/website
+#EXTINF:-1,BreakZ.FM_–_HipHop_meets_House_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://breakz-high.rautemusik.fm/?ref=mytuner
+#EXTINF:-1,Epic-Lounge_–_Soft_House_Lounge_–_Cologne_–_North_Rhine-Westphalia_–_DE
+200 https://stream.epic-lounge.com/soft-house-lounge
+#EXTINF:-1,Epic_Piano_–_PIANO_COVERHITS_–_Cologne_–_North_Rhine-Westphalia_–_DE
+200 https://stream.epic-piano.com/piano-coverhits?ref=mytuner
+#EXTINF:-1,Radio_Saalewelle_Schlager_–_DE
+302 https://www.radioking.com/play/saalewelle-schlager
+#EXTINF:-1,Radio_Bochum_–_Rock_–_Bochum_–_North_Rhine-Westphalia_–_DE
+302 https://rnrw.cast.addradio.de/rnrw-0140/deinrock/high/stream.mp3
+#EXTINF:-1,rs2_Party_Hits_–_DE-BE
+404 https://topradio-de-hz-fal-stream03-cluster01.radiohost.de/rs2-party-mallorca_mp3-128
+#EXTINF:-1,AFN_360_Kaiserslautern_–_105.1_FM_–_Kaiserslautern_–_Rhineland-Palatinate_–_DE
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_KTN_SC
+#EXTINF:-1,ERF_Plus_–_Wetzlar_–_Hesse_–_DE
+302 https://addrad.io/44599gk
+#EXTINF:-1,Drod_–_Halle_–_Saxony-Anhalt_–_DE
+302 https://stream.laut.fm/drod
+#EXTINF:-1,Radio_Lippe_Welle_Hamm_–_Schlager_–_Hamm_–_North_Rhine-Westphalia_–_DE
+http://rnrw-ais-edge-3007.fra-eco.cdn.addradio.net/rnrw-016f/deinschlager/high/stream.mp3
+#EXTINF:-1,MegaCharts_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://megacharts.superstreams.de?ref=ss_mytunerradiocom
+#EXTINF:-1,NDR_1_Radio_MV_–_Greifswald_–_DE-MV
+302 http://icecast.ndr.de/ndr/ndr1radiomv/schwerin/aac/low?aggregator=mytuner-mobi
+#EXTINF:-1,RPR1._Trier_–_102.1_FM_–_Dockweiler_–_Rhineland-Palatinate_–_DE
+302 https://stream.rpr1.de/trier/mp3-128/mytuner
+#EXTINF:-1,Radio_All-Time-Best_–_DE-BE
+200 https://stream.laut.fm/all-time-best.m3u
+#EXTINF:-1,Gong_97.1_–_Billy_Billmaier_Show_–_97.1_FM_–_Nuremberg_–_Bavaria_–_DE
+302 https://frontend.streamonkey.net/fhn-gong971billybillmaier?aggregator=mytuner-radio
+#EXTINF:-1,move_IT_Radio_–_Lippstadt_–_North_Rhine-Westphalia_–_DE
+301 http://stream1.itclive.de
+#EXTINF:-1,RnBRadio_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://rnb.superstreams.de?ref=ss_mytunerradiocom
+#EXTINF:-1,RTL_Radio_–_DE-BE
+200 https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113?sABC=5spr5nqn%230%2393o4s4ropso63687n26s6r3ro249695r%23xbafbyr&context=fHA6LTE=&amsparams=playerid:konsoleskey:1607359194
+#EXTINF:-1,Hitradio_SKW_–_Königs_Wusterhausen_–_DE-BB
+http://edge.audio.3qsdn.com/senderkw-aac
+#EXTINF:-1,Rave_Satellite_–_Leipzig_–_Saxony_–_DE
+302 http://stream.laut.fm/rave_satellite
+#EXTINF:-1,Klassik_Radio_SCHILLER_Berlin_–_Augsburg_–_Bavaria_–_DE
+302 https://stream.klassikradio.de/schiller-berlin/aac-64/mytuner
+#EXTINF:-1,Sunshine_–_Tech_House_–_DE-HH
+200 https://sunsl.streamabc.net/sunsl-techhouse-mp3-192-9113798
+#EXTINF:-1,SecondRadio_–_Leipzig_–_Saxony_–_DE
+200 http://secondstream.de:7070/stream
+#EXTINF:-1,Radio_Ton_–_Nachrichten_–_Baden-Baden_–_DE-BW
+302 https://live.radioton.de/rt-nachrichten
+#EXTINF:-1,Radio_7_–_Ravensburg_–_DE-BW
+302 https://frontend01.lb.streamonkey.net/radio7-dab?aggregator=mytuner
+#EXTINF:-1,RadioMonster.FM_Schlager_–_Munich_–_Bavaria_–_DE
+302 https://schlager.radiomonster.fm/32.aac
+#EXTINF:-1,1A_2000er_–_Magdeburg_–_Saxony-Anhalt_–_DE
+200 http://88.99.46.90:80/saw-2000er_48
+#EXTINF:-1,hr4_–_Frankfurt_am_Main_–_Hesse_–_DE
+302 http://dispatcher.rndfnk.com/hr/hr4/live/mp3/128/stream.mp3
+#EXTINF:-1,Karneval_by_rautemusik_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://karneval-high.rautemusik.fm/?ref=mytuner
+#EXTINF:-1,NORA_Weihnachten_–_Kiel_–_DE-SH
+https://radiohost.norawebstreams.de/nora-main/mp3-192/
+#EXTINF:-1,DASDING_–_Stuttgart_–_DE-BW
+302 https://liveradio.swr.de/myt11m3/dasding/
+#EXTINF:-1,Sunshine_live_–_Techno_–_Mannheim_–_DE-BW
+302 https://stream.sunshine-live.de/techno/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1614705845&cb=332442782&&aw_0_1st.playerid=sunshine-live_web&aw_0_req.userConsentV2=CPCcI7wPCcI8BAFADBDEBPCsAP_AAH_AAAYgHKNd_X_fb39j-_59_9t0eY1f9_7_v20zjheds-8Nyd_X_L8X52M
+#EXTINF:-1,MDR_Aktuell_–_Jessen_–_Saxony-Anhalt_–_DE
+302 http://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/aac/high/stream.aac?aggregator=mytuner-mobi
+#EXTINF:-1,REYFM_#hitsonly_–_Bönen_–_North_Rhine-Westphalia_–_DE
+302 https://listen.reyfm.de/hitsonly_192kbps.mp3
+#EXTINF:-1,Schwany_Souvenir_2_–_Alterhofen_–_Bavaria_–_DE
+https://schw6.streampanel.cloud/13-souvenir2
+#EXTINF:-1,Radio_8_–_Ansbach_–_Bavaria_–_DE
+200 https://live.radio8.de/liver8
+#EXTINF:-1,Radio_Erzgebirge_Freitagnacht_–_Annaberg-Buchholz_–_Saxony_–_DE
+301 https://hermes.bcs-systems.de/radio-erzgebirge_freitagnacht_192k_mp3
+#EXTINF:-1,Antenne_Pirmasens_–_Pirmasens_–_Rhineland-Palatinate_–_DE
+302 https://stream.radiogroup.de/antenne-pirmasens/mp3-192/?ref=my-tuner
+#EXTINF:-1,RauteMusik_PartyHits_–_Aachen_–_North_Rhine-Westphalia_–_DE
+200 https://partyhits-high.rautemusik.fm/listen.pls
+#EXTINF:-1,Absolut_Bella_–_Garching_bei_München_–_Bavaria_–_DE
+302 https://absolut-bella.live-sm.absolutradio.de/absolut-bella?aggregator=myTuner
+#EXTINF:-1,HausRadio_–_Rottweil_–_DE-BW
+302 https://stream.laut.fm/hausradio
+#EXTINF:-1,pure_fm_Berlin_–_DE-BE
+400 http://s4.radionetz.de:80/purefm-bln.mp3
+#EXTINF:-1,BFlash-Lo-Fi_–_DE-BE
+http://bardia.cloud:8000
+#EXTINF:-1,lulu.fm_–_Gay_Music_Station_–_Frankfurt_am_Main_–_Hesse_–_DE
+302 http://get.lulu.fm/lulufm.mp3
+#EXTINF:-1,Radio_21_Osnabruck_–_Osnabrück_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/osnabrueck/mp3-192/mytuner/
+#EXTINF:-1,1000_Techno_–_Konstanz_–_DE-BW
+302 https://stream.laut.fm/1000techno
+#EXTINF:-1,Schlager_Radio_–_Mecklenburg-Vorpommern_–_106.5_FM_–_Rostock_–_DE-MV
+302 https://addrad.io/4454rvb
+#EXTINF:-1,Arberwaldradio_–_Bodenmais_–_Bavaria_–_DE
+301 https://login.streamplus.de/player.php?spt=15121.m3u
+#EXTINF:-1,Radio_PSR_Rock_–_DE-BE
+https://psr.hoerradar.de/psr-rock-mp3-hq
+#EXTINF:-1,Zound1_MIX_–_Leipzig_–_Saxony_–_DE
+302 https://frontend.streamonkey.net/zound1-mix
+#EXTINF:-1,Radio_Base_Revolution_–_DE
+https://rbrhost.de/radio/8010/radio.mp3
+#EXTINF:-1,Studio_Nahe_–_Bretzenheim_–_Rhineland-Palatinate_–_DE
+http://stream.studio-nahe.de:8000/studionahe
+#EXTINF:-1,Radio_Euskirchen_–_106.9_FM_–_Euskirchen_–_North_Rhine-Westphalia_–_DE
+302 http://stream.lokalradio.nrw/444z7f5
+#EXTINF:-1,Antenne_Niederrhein_–_Kleve_–_North_Rhine-Westphalia_–_DE
+301 http://stream.antenneniederrhein.de/444z5qw
+#EXTINF:-1,HITRADIO_OHR_–_Beatbox_Urban_Radio_–_Offenburg_–_DE-BW
+302 https://frontend.streamonkey.net/fho-hitradioohrbeatbox/stream/mp3?aggregator=mytuner-radio
+#EXTINF:-1,Suigen_–_DE-BE
+302 https://stream.laut.fm/suigen
+#EXTINF:-1,Sunshine_–_Psytrance_–_DE-HH
+200 https://sunsl.streamabc.net/sunsl-christmas-mp3-192-7547837
+#EXTINF:-1,Andrew_Haug_Radio_–_Munich_–_Bavaria_–_DE
+https://streamer.radio.co/s6a349b3a2/listen
+#EXTINF:-1,SWR3_Rock_–_DE-HH
+200 https://d131.rndfnk.com/ard/swr/swr3/live/aac/96/stream.aac
+#EXTINF:-1,MemoryRadio_2_–_Oberschleißheim_–_Bavaria_–_DE
+302 https://www.memoryradio.de/radio2/listen.pls
+#EXTINF:-1,ENERGY_Romantic_–_DE-BE
+302 https://scdn.nrjaudio.fm/adwz1/de/33055/mp3_128.mp3?origine=mytuner
+#EXTINF:-1,NITRO_FM_–_Leverkusen_–_North_Rhine-Westphalia_–_DE
+302 http://stream.laut.fm/nitrofm
+#EXTINF:-1,BoomFM_–_DE-BE
+https://fluxfm.hoerradar.de/flux-boomfm-mp3-mq
+#EXTINF:-1,M1.FM_90er_–_DE-BE
+https://tuner.m1.fm/90er.mp3
+#EXTINF:-1,Antenne_Niedersachsen_–_Hannover_–_Hanover_–_Lower_Saxony_–_DE
+404 https://addrad.io/4454zdn
+#EXTINF:-1,ROCK_ANTENNE_Xmas_Rock_–_Ismaning_–_Bavaria_–_DE
+302 http://stream.rockantenne.de/xmas-rock/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Hitradio_Bayern_–_Augsburg_–_Bavaria_–_DE
+302 http://rt1.radio/8ewk0
+#EXTINF:-1,Radio_21_Nienburg_–_Nienburg_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/nienburg/mp3-192/mytuner/
+#EXTINF:-1,Galattica_FM_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://stream.laut.fm/galatticafm
+#EXTINF:-1,Radio_Momento_de_Dios_–_Augsburg_–_Bavaria_–_DE
+200 https://sonic.cloudstreaming.eu/9988/stream
+#EXTINF:-1,Star_Power_Radio_–_Braunschweig_–_Lower_Saxony_–_DE
+http://89.22.110.233:8000/
+#EXTINF:-1,Schlager_Radio_–_Bayern_–_Munich_–_Bavaria_–_DE
+302 https://addrad.io/4454r99
+#EXTINF:-1,DELUXE_80s_EXTREME_–_Landshut_–_Bavaria_–_DE
+https://deluxe.hoerradar.de/deluxe-80s-mp3-hq
+#EXTINF:-1,MDR_Kultur_–_Dresden_–_Saxony_–_DE
+302 https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,STAR_FM_From_Hell_–_DE-BE
+http://85.25.43.55:80/hell.mp3
+#EXTINF:-1,ffn_nur_90er_–_Hanover_–_Lower_Saxony_–_DE
+200 https://ffn-de-hz-fal-stream04-cluster01.radiohost.de/neunziger_mp3-192
+#EXTINF:-1,80s_–_Der_80er_Channel_–_DE-BE
+http://fluxfm.hoerradar.de/flux-80er-aac-mq
+#EXTINF:-1,ffn_rockt!_–_Hanover_–_Lower_Saxony_–_DE
+302 https://stream.ffn.de/ffn-rockt/mp3-192
+#EXTINF:-1,3chords_–_Dusseldorf_–_North_Rhine-Westphalia_–_DE
+405 https://samcloud.spacial.com/api/listen?sid=124701&rid=262023&f=mp3,any&br=128000,any&m=m3u
+#EXTINF:-1,Clubbers_Paradise_–_Heidelberg_–_DE-BW
+200 http://138.201.234.215:10898/stream
+#EXTINF:-1,Donau_3_FM_90er_–_Ulm_–_DE-BW
+500 https://donau3fm.streamabc.net/d3fm-d3fmaamievsp2txrl4-mp3-192-1164407
+#EXTINF:-1,Radio_Kiepenkerl_–_Lounge_–_Coesfeld_–_North_Rhine-Westphalia_–_DE
+http://rnrw-ais-edge-3003.fra-eco.cdn.addradio.net/rnrw-0149/deinlounge/high/stream.mp3
+#EXTINF:-1,Radio_Paloma_–_DE-BE
+302 https://stream.silvacast.com/RPLive/mp3-128/mytuner-radio_com/
+#EXTINF:-1,WDR_2_Ruhrgebiet_–_87.8_FM_–_Schwerte_–_North_Rhine-Westphalia_–_DE
+302 http://wdr-wdr2-ruhrgebiet.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,Radio_Kiepenkerl_–_Oldie_–_Coesfeld_–_North_Rhine-Westphalia_–_DE
+http://rnrw-ais-edge-3005.fra-eco.cdn.addradio.net/rnrw-0149/deinoldieradio/mp3/high/stream.mp3
+#EXTINF:-1,WDR_Cosmo_–_Specials_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 http://wdr-cosmo-special.icecast.wdr.de/wdr/cosmo/special/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,NDR_1_Welle_Nord_Flensburg_–_Flensburg_–_DE-SH
+302 http://icecast.ndr.de/ndr/ndr1wellenord/flensburg/aac/low?aggregator=mytuner-mobi
+#EXTINF:-1,Top100_Germany_–_Munich_–_Bavaria_–_DE
+200 https://listen.radionomy.com/top100-germany.m3u
+#EXTINF:-1,RT1_Clubbing_–_Augsburg_–_Bavaria_–_DE
+302 http://rt1.radio/i1mru
+#EXTINF:-1,ICE_RADIO_Waldkraiburg_–_Waldkraiburg_–_Bavaria_–_DE
+http://streamplus53.leonex.de:10730/
+#EXTINF:-1,HITRADIO_RTL_Schlager_–_Plauen_–_Saxony_–_DE
+302 https://web.radio.hitradio-rtl.de/hrrtl-schlager?aggregator=mytuner
+#EXTINF:-1,MDR_THÜRINGEN_Gera_–_Gera_–_Free_State_of_Thuringia_–_DE
+302 https://mdr-284300-1.sslcast.mdr.de/mdr/284300/1/aac/high/stream.aac?aggregator=mytuner-mobi
+#EXTINF:-1,Schlager_Radio_–_Ost-Schlager_–_DE-BE
+302 https://addrad.io/4454rdk
+#EXTINF:-1,NDR_2_Soundcheck_Party_–_DE-BE
+404 http://icecast.ndr.de/ndr/loop/22/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,Rockland_Radio_–_Mannheim_–_DE-BW
+200 https://radio21.streamabc.net/radio21-mainz-mp3-192-5314942?sABC=623471on%230%23qn9s0755o0405455s6nq20pq45866o1p%23jro&amsparams=playerid:webskey:1647604154
+#EXTINF:-1,RSA_Oberallgäu_–_Sonthofen_–_Bavaria_–_DE
+https://rsaradio--di--nacs-ais-lgc--02--cdn.cast.addradio.de/rsaradio/live/mp3/high?ar-distributor=f0b7&aw_0_req.gdpr=true&_art=dj0yJmlwPTg1LjEzOC4xMjguMjM3JmlkPWljc2N4bC1ka3BkaDVnbmImdD0xNjUyOTcwODY5JnM9Nzg2NmYyOWMjMjdhYTUyMWE1NzJjNGUxNThhZDBjMzBkZWE1MmM
+#EXTINF:-1,ENERGY_Hits_80_–_DE-BE
+302 https://scdn.nrjaudio.fm/adwz1/de/56853/aac_64.mp3?origine=mytuner
+#EXTINF:-1,I_Love_2000+_Throwsbacks_–_DE
+302 https://streams.ilovemusic.de/iloveradio37.mp3
+#EXTINF:-1,Epic_Lounge_–_Massage_Lounge_–_Cologne_–_North_Rhine-Westphalia_–_DE
+200 https://stream.epic-lounge.com/massage-lounge
+#EXTINF:-1,baden.fm_party_mix_–_Freiburg_–_DE-BW
+https://frontend.streams.baden.fm/badenfm-partymix?aggregator=mytuner
+#EXTINF:-1,Großstadtradio_–_DE-BE
+200 https://grossstadtradio.streamabc.net/51-gsrberlininternet-mp3-192-5049689?sABC=62q7s8r0%230%236p5570orq049n36prp37q0484051501o%23fgernz.tebfffgnqgenqvb.qr&1658321119737=&aw_0_1st.playerid=stream.grossstadtradio.de&amsparams=playerid:stream.grossstadtradi
+#EXTINF:-1,ON_Party_–_DE-BE
+400 https://0n-party.radionetz.de/0n-party.aac
+#EXTINF:-1,MDR_JUMP_–_Halle_–_Saxony-Anhalt_–_DE
+302 http://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/aac/high/stream.aac?aggregator=mytuner-mobi
+#EXTINF:-1,Schlager_Radio_–_Volksmusik_–_DE-BE
+302 https://addrad.io/4454scw
+#EXTINF:-1,Radio_Reeperbahn_–_DE-HH
+200 http://www.radio-reeperbahn.de/player/radio-reeperbahn.m3u
+#EXTINF:-1,Dein_80er_Radio_–_DE-BE
+http://rnrw-ais-edge-3007.fra-eco.cdn.addradio.net/rnrw-01C1/dein80er/high/stream.mp3
+#EXTINF:-1,Radio_Daynight_–_DE
+302 http://www.radio-daynight.de/listen.pls
+#EXTINF:-1,Radio_Gong_96.3_–_Gong_Rock_–_96.3_FM_–_Munich_–_Bavaria_–_DE
+302 https://addrad.io/445fzmz
+#EXTINF:-1,Bayern_1_Franken_–_Neumarkt_in_der_Oberpfalz_–_Bavaria_–_DE
+302 https://dispatcher.rndfnk.com/br/br1/franken/mp3/low
+#EXTINF:-1,HITRADIO_RTL_Top_40_–_Dresden_–_Saxony_–_DE
+302 https://web.radio.hitradio-rtl.de/hrrtl-top40?aggregator=mytuner
+#EXTINF:-1,RPR1._–_Bad_Dürkheim_–_Rhineland-Palatinate_–_DE
+302 https://stream.rpr1.de/webradio/mp3-128/mytuner
+#EXTINF:-1,RADIO_21_Helmstedt_–_Helmstedt_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/helmstedt/mp3-192/mytuner/https://streams.radio21.de/helmstedt/mp3-128/mytuner/
+#EXTINF:-1,Maxi_45_–_Kleinblittersdorf_–_DE-SL
+400 http://stream.maxi45.de:31883/maxi45.aac
+#EXTINF:-1,Schlager_Radio_–_Kult-Schlager_–_DE-BE
+302 https://addrad.io/4454qzn
+#EXTINF:-1,RADIO_21_Hildesheim_–_105.8_FM_–_Hildesheim_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/hildesheim/mp3-192/mytuner/
+#EXTINF:-1,REGENBOGEN_2_–_DEUTSCHROCK_–_Mannheim_–_DE-BW
+302 https://stream.regenbogen2.de/deutschrock/mp3-128/mytuner
+#EXTINF:-1,GANORIUM_Radio_–_Wiesbaden_–_Hesse_–_DE
+302 https://stream.ganorium.com
+#EXTINF:-1,RADIO_21_Lüneburg_–_91.9_FM_–_Leer_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/lueneburg/mp3-192/mytuner/
+#EXTINF:-1,NDR_2_Soundcheck_Neue_Musik_am_Montag_–_DE-HH
+404 http://icecast.ndr.de/ndr/loop/15/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,Alles_Radio_–_DE-HH
+302 https://stream.laut.fm/alles-radio
+#EXTINF:-1,Radio_7_Schlager_–_Ulm_–_DE-BW
+https://stream.radio7.de/radio7-schlager-192-mp3
+#EXTINF:-1,Jam_FM_90er_–_DE-BE
+200 https://rtlberlin.streamabc.net/rtlb-jamfm90er-mp3-128-5109909
+#EXTINF:-1,MDR_SACHSEN_ANHALT_Halle_–_Halle_–_North_Rhine-Westphalia_–_DE
+302 https://mdr-284290-2.sslcast.mdr.de/mdr/284290/2/aac/high/stream.aac?aggregator=mytuner-mobi
+#EXTINF:-1,Neckaralb_Live_–_Reutlingen_–_DE-BW
+302 https://neckaralblive.ip-streaming.net/neckaralbliveaacp
+#EXTINF:-1,Apostrophe_–_DE-BE
+200 https://apostrophe.stream.laut.fm/apostrophe?ref=web-app&start_time=1652782226927&t302=2022-05-17_12-10-29&uuid=1bc98cfc-086c-481d-bb59-9a3ff26873b9
+#EXTINF:-1,Space_Travel_Radio_–_DE-BE
+401 http://spacetravelradio.de:1701/stream/3/
+#EXTINF:-1,Thorsradio_–_DE
+302 http://stream.laut.fm/thorsradio
+#EXTINF:-1,Radio_Salü_–_Merzig_–_DE-SL
+400 http://internetradio.salue.de:8000/salue.aac
+#EXTINF:-1,I_Love_Hip_Hop_History_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://streams.ilovemusic.de/iloveradio27.mp3
+#EXTINF:-1,90s90s_Techno_–_DE-HH
+https://90s90s.hoerradar.de/90s90s-techno-mp3-hq
+#EXTINF:-1,Schlager_Radio_–_Berlin_/_Brandenburg_–_DE-BE
+302 https://addrad.io/4454rm2
+#EXTINF:-1,Museum_radio_AM_1476_–_1476_AM_–_DE-BE
+https://museum.streamserver24.com:8080/stream
+#EXTINF:-1,baden.fm_kult_80er_–_Freiburg_–_DE-BW
+302 https://frontend.streams.baden.fm/badenfm-kult80er?aggregator=mytuner
+#EXTINF:-1,RPR1._NDW_–_Ludwigshafen_am_Rhein_–_Rhineland-Palatinate_–_DE
+302 https://stream.rpr1.de/ndw/mp3-128/mytuner
+#EXTINF:-1,DWG_Lyra_–_DE
+200 https://server34599.streamplus.de/stream.mp3
+#EXTINF:-1,NDR_2_–_DE-HH
+302 http://icecast.ndr.de/ndr/ndr2/hamburg/aac/low?aggregator=mytuner-mobi
+#EXTINF:-1,ANTENNE_VORARLBERG_PLUS_Weihnachten_–_DE
+302 https://web.radio.antennevorarlberg.at/av-plusweihnachten?aggregator=mytuner
+#EXTINF:-1,89.0_RTL_In_The_Mix_–_89.0_FM_–_Halle_–_Saxony-Anhalt_–_DE
+302 https://stream.89.0rtl.de/mix/mp3-128/myTuner
+#EXTINF:-1,ANTENNE_BAYERN_Oktoberfest_Hits_–_Ismaning_–_Bavaria_–_DE
+302 http://stream.antenne.de/oktoberfest-hits/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Radio_Gong_96.3_–_Partygong_–_Munich_–_Bavaria_–_DE
+302 https://addrad.io/44558d3
+#EXTINF:-1,80s80s_Summer_–_DE
+https://80s80s.hoerradar.de/80s80s-mweb-mp3-hq?sABC=62p6n92q%231%23%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1657186559&cb=593555608&aw_0_1st.playerid=80s80s_web&aw_0_1st.kuid=&aw_0_1st.ksg=[]&aw_0_req.userConsentV2=CPbvVQAPbvVQAAFADBDECWCsAP_AAEPAAAYgIq
+#EXTINF:-1,WDR_2_Aachen_und_Region_–_Aachen_–_North_Rhine-Westphalia_–_DE
+302 http://wdr-wdr2-aachenundregion.icecast.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,Radio_FSN:_Black_Metal_–_Mantel_–_Bavaria_–_DE
+404 http://stream.radio-fsn.de:8000/blackmetal
+#EXTINF:-1,Rattlesnake_Radio_–_Munich_–_Bavaria_–_DE
+200 https://server3755.streamplus.de
+#EXTINF:-1,CUX_Radio_–_DE-BE
+404 https://www.cux-radio.de/listen.pls
+#EXTINF:-1,LandesWelle_Thüringen_–_Erfurt_–_Free_State_of_Thuringia_–_DE
+302 https://stream.landeswelle.de/lwt/mp3-192/mtu/
+#EXTINF:-1,ENERGY_Hits_90_–_DE-BE
+302 https://scdn.nrjaudio.fm/adwz1/de/56246/aac_64.mp3?origine=mytuner
+#EXTINF:-1,FRC_All_Music_Network_Radio_German_Channel_–_Cologne_–_North_Rhine-Westphalia_–_DE
+https://daniel.torontocast.com:1315/stream
+#EXTINF:-1,DIE_NEUE_107.7_–_PURE_–_Stuttgart_–_DE-BW
+302 http://addrad.io/44599dh
+#EXTINF:-1,REGENBOGEN_2_–_BEATLES_–_Mannheim_–_DE-BW
+302 https://stream.regenbogen2.de/beatles/mp3-128/mytuner
+#EXTINF:-1,Maretimo_Latin_Radio_–_Augsburg_–_Bavaria_–_DE
+200 https://s35.derstream.net/maretimo-latin.aac
+#EXTINF:-1,Hitradio_RTL_Oldies_–_Munich_–_Bavaria_–_DE
+301 https://streams.bcs-systems.de/hrrtl/oldies/sachsen/mp3/radioplayer/web
+#EXTINF:-1,LandesWelle_GrillWelle_–_Erfurt_–_Free_State_of_Thuringia_–_DE
+302 http://stream.landeswelle.de/lwgr/mp3-128/web/
+#EXTINF:-1,Radio-BeatBox_–_DE
+http://46.163.64.164:40300/listen.pls
+#EXTINF:-1,Rockland_Radio_–_Bad_Kreuznach_–_Bad_Kreuznach_–_Rhineland-Palatinate_–_DE
+302 https://streams.rockland.de/badkreuz/mp3-192/mytuner/
+#EXTINF:-1,Radio_Shun.es_–_DE-BE
+404 http://s2.radio.co:80/s1712be1c4/listen
+#EXTINF:-1,Barba_Radio_Empfehlung:_1/DEUTSCH_–_Berlin_Schöneberg_–_DE-BE
+https://1deutsch.hoerradar.de/1deutsch-main-mp3-hq
+#EXTINF:-1,baden.fm_rock_hammer_–_Freiburg_–_DE-BW
+302 https://frontend.streams.baden.fm/badenfm-rockhammer?aggregator=mytuner
+#EXTINF:-1,Radio_Plattenkeller_–_Bodenheim_–_Rhineland-Palatinate_–_DE
+302 https://stream.laut.fm/plattenkeller
+#EXTINF:-1,AFN_360_–_98.7_FM_–_Wiesbaden_–_Hesse_–_DE
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SPG_SC
+#EXTINF:-1,ON_70s_–_DE-BE
+400 https://0n-70s.radionetz.de/0n-70s.aac
+#EXTINF:-1,PsyStation_–_Dark_Roots_Psytrance_–_DE
+302 https://play.adtonos.com/psystation-dark-roots-psy-trance
+#EXTINF:-1,BB_RADIO_Superstars_–_Potsdam_–_DE-BB
+200 https://irmedia.streamabc.net/irm-bbrsuperstars-mp3-128-4078977
+#EXTINF:-1,Radio_7_Rock_–_Ulm_–_DE-BW
+302 https://frontend01.lb.streamonkey.net/radio7-rock?aggregator=mytuner
+#EXTINF:-1,WDR_3_–_97.5_FM_–_Arnsberg_–_North_Rhine-Westphalia_–_DE
+302 http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,RADIO_BOB!_Queen_–_Kiel_–_DE-SH
+302 http://streams.radiobob.de/bob-queen/aac-64/mediaplayer
+#EXTINF:-1,Radio_Ton_–_Region_Ostwürttemberg_–_Ulm_–_DE-BW
+302 https://live.radioton.de/rt-live-owb
+#EXTINF:-1,LaFamilia-Radio_–_DE
+https://media1.lafamilia-radio.de:8000/radio192.mp3
+#EXTINF:-1,Arabella_Disc_Night_–_Munich_–_Bavaria_–_DE
+302 https://live.stream.radioarabella.de/radioarabella-disconight/stream/mp3?aggregator=mytuner
+#EXTINF:-1,05ER.FM_–_Mainz_–_Rhineland-Palatinate_–_DE
+404 http://audio.05er.tv/05er_128.mp3
+#EXTINF:-1,1Live_Chillout_–_DE-BE
+302 http://wdr-1live-chillout.icecast.wdr.de/wdr/1live/chillout/mp3/128/stream.mp3?aggregator=mytuner-mobi
+#EXTINF:-1,Antenne_Niedersachsen_–_Greatest_Hits_–_Hanover_–_Lower_Saxony_–_DE
+302 http://stream.antenne.com/greatesthits/mp3-192/appmind_radiofm/
+#EXTINF:-1,Telstar_Rock_–_Gelnhausen_–_Hesse_–_DE
+302 http://stream.laut.fm/telstarrock
+#EXTINF:-1,POS_AUDIO_–_Classic_Hits_–_Rethwisch_–_DE-SH
+http://s9.pop-stream.de:9724/
+#EXTINF:-1,Hamburger_Lokalradio_–_96.0_FM_–_DE-HH
+http://server4.streamserver24.com/proxy/hamburge?mp=/stream
+#EXTINF:-1,Mandala_FM_–_DE-HH
+302 http://stream.laut.fm/mandala-fm
+#EXTINF:-1,Radio_Ilmwelle_Live_–_Pfaffenhofen_an_der_Ilm_–_Bavaria_–_DE
+400 http://stream.ilmwelle.de/radio-ilmwelle-128.mp3
+#EXTINF:-1,RMI_Beach_Club_–_Hambach_–_Rhineland-Palatinate_–_DE
+302 http://stream.zeno.fm/gf2zehdfpkhvv
+#EXTINF:-1,WDR_Funkhaus_Europa_–_Cologne_–_North_Rhine-Westphalia_–_DE
+https://wdr-cosmo-live.cast.addradio.de/wdr/cosmo/live/mp3/128/stream.mp3
+#EXTINF:-1,Balkan_Radio_(Augsburg)_–_Augsburg_–_Bavaria_–_DE
+http://152.89.106.143:8000/.mp3
+#EXTINF:-1,Radio_Rotter_See_–_Troisdorf_–_North_Rhine-Westphalia_–_DE
+200 https://radio-rotter-see.stream.laut.fm/radio-rotter-see
+#EXTINF:-1,Epic_Piano_–_CHILLOUT_PIANO_–_Cologne_–_North_Rhine-Westphalia_–_DE
+200 https://stream.epic-piano.com/chillout-piano?ref=mytuner
+#EXTINF:-1,Furrrioso!_Die_Show_–_Augsburg_–_Bavaria_–_DE
+302 https://stream.klassikradio.de/furioso/aac-64/mytuner
+#EXTINF:-1,TOGGO_Radio_–_DE
+302 https://radio.toggo.de/live/mp3-192/toggoweb/
+#EXTINF:-1,Evil-Radio_–_DE-HB
+302 http://stream.laut.fm/evil-radio
+#EXTINF:-1,BB_RADIO_Rock_–_Potsdam_–_DE-BB
+https://ir-media.hoerradar.de/bbradio-rock-mp3-mq
+#EXTINF:-1,Bayernwelle_–_Chiemgau_–_Freilassing_–_Bavaria_–_DE
+302 https://addrad.io/4457xdd
+#EXTINF:-1,HITRADIO_OHR_–_90er_–_90_FM_–_Offenburg_–_DE-BW
+302 https://frontend.streamonkey.net/fho-hitradioohr90er/stream/mp3?aggregator=mytuner-radio
+#EXTINF:-1,Neckar_Gaming_Radio_–_DE
+302 https://stream.laut.fm/neckar-gaming
+#EXTINF:-1,ANTENNE_BAYERN_2000er_Hits_–_DE
+302 http://stream.antenne.de/2000er-hits/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Best_of_Rock_–_Alternative_Rock.FM_–_DE-BE
+200 https://radio21.streamabc.net/radio21-alternativerock-mp3-256-9941142?sABC=5r21q4r8%230%2311npqo33o08rr48qpp0792748165959p%23orfgbsebpx.sz&sabcsid=210636cbed51&amsparams=playerid:bestofrock.fmskey:1579275496
+#EXTINF:-1,Das_LiveRadio!_–_DE-BE
+http://server1.cityedv.at:8107/
+#EXTINF:-1,ROCK_ANTENNE_Coversongs_–_Ismaning_–_Bavaria_–_DE
+302 http://stream.rockantenne.de/coversongs/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Best_of_Rock_–_Surf_Rock.FM_–_DE-BE
+500 https://radio21.streamabc.net/radio21-surfrock-mp3-256-3739446?sABC=5r21q940%230%2311npqo33o08rr48qpp0792748165959p%23orfgbsebpx.sz&sabcsid=210636cbed51&amsparams=playerid:bestofrock.fmskey:1579276608
+#EXTINF:-1,ANTENNE_NRW_in_the_mix_–_Dusseldorf_–_North_Rhine-Westphalia_–_DE
+302 http://stream.antenne.de/antenne-nrw-in-the-mix/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Radio_Kiepenkerl_–_Dein_90er_Radio_–_Coesfeld_–_North_Rhine-Westphalia_–_DE
+http://rnrw-ais-edge-3003.fra-eco.cdn.addradio.net/rnrw-0149/dein90er/high/stream.mp3
+#EXTINF:-1,Radio_Galaxy_Ansbach_–_Ansbach_–_Bavaria_–_DE
+http://www.galaxyansbach.de:8000/live
+#EXTINF:-1,Jump_Sun_Radio_–_DE
+https://stream04.stream-webradiotechnik.de:9902
+#EXTINF:-1,RADIO_21_Gottingen_–_Göttingen_–_Lower_Saxony_–_DE
+302 https://streams.radio21.de/goettingen/mp3-192/mytuner/
+#EXTINF:-1,Antenne_MV_Rock_–_Rostock_–_DE-MV
+https://antennemv.hoerradar.de/antennemv-rock-mp3-hq
+#EXTINF:-1,Antenne_MV_One_Hit_Wonder_–_Rostock_–_DE-MV
+https://antennemv.hoerradar.de/antennemv-onehitw-mp3-hq
+#EXTINF:-1,Radio_Lübeck_–_Lübeck_–_DE-SH
+200 https://s35.derstream.net/radioluebeck-192.mp3
+#EXTINF:-1,ANTENNE_PASSAU_RAP_–_Passau_–_Bavaria_–_DE
+302 https://stream.laut.fm/antenne-passau-rap
+#EXTINF:-1,NDR_1_Welle_Nord_–_Lübeck_–_Lübeck_–_DE-SH
+302 http://icecast.ndr.de/ndr/ndr1wellenord/luebeck/aac/low?aggregator=mytuner-mobi
+#EXTINF:-1,Radio_Balkan_Music_–_DE
+301 https://www.radiobalkanmusic.com/rbm/radio.php/stream
+#EXTINF:-1,Radio_RSG_–_Hilden_–_North_Rhine-Westphalia_–_DE
+302 http://stream.lokalradio.nrw/444zd9n
+#EXTINF:-1,Spreeradio_Black_–_DE-BE
+302 https://stream.spreeradio.de/spree-black/mp3-128/konsole/?context=fHA6LTE=
+#EXTINF:-1,Chill_In_The_Mix_–_Augsburg_–_Bavaria_–_DE
+https://stream2.radiodienst.de/proxy/toneart/chillinthemix
+#EXTINF:-1,Lounge_Plus_–_DE-BE
+302 https://addrad.io/4455g3g
+#EXTINF:-1,HardStyle_Radio_–_Cologne_–_North_Rhine-Westphalia_–_DE
+302 https://hardstyle.superstreams.de?ref=ss_mytunerradiocom
+#EXTINF:-1,BeatAM_–_Amberg_–_Bavaria_–_DE
+200 https://beatam.stream.laut.fm/beatam
+#EXTINF:-1,ANTENNE_BAYERN_Bayern_Sound_–_Ismaning_–_Bavaria_–_DE
+302 http://stream.antenne.de/bayern-sound/stream/mp3?aw_0_1st.playerid=MyTuner
+#EXTINF:-1,Klassik_Radio_Smooth_Jazz_–_Augsburg_–_Bavaria_–_DE
+302 https://stream.klassikradio.de/smooth/aac-64/mytuner
+#EXTINF:-1,1A_Weihnachten_–_Hof_–_Bavaria_–_DE
+400 https://1a-weihnachten.radionetz.de/1a-weihnachten.aac
+#EXTINF:-1,Radio_Bocholt_–_DE
+501 http://pop.webradioscout24.de/pop.mp3
+#EXTINF:-1,Radio_SAW_–_Neuheiten_–_Magdeburg_–_Saxony-Anhalt_–_DE
+200 http://88.99.46.92:80/saw-neuheiten_48
+#EXTINF:-1,Electronicssounds_HardCore_–_Cologne_–_North_Rhine-Westphalia_–_DE
+https://hardcore.electronicssounds.com?ref=mytunerradiocom
+#EXTINF:-1,NDR_1_Niedersachsen_–_Hanover_–_Lower_Saxony_–_DE
+302 http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/aac/low?aggregator=mytuner-mobi
+#EXTINF:-1,Radio_Gong_Würzburg_–_Oldschool_Gong_–_106.9_FM_–_Wurzburg_–_Bavaria_–_DE
+302 https://frontend.streamonkey.net/gong-oldschool?aggregator=internetradio-horen
+#EXTINF:-1,Radio_Ennepe_Ruhr_–_Herdecke_–_North_Rhine-Westphalia_–_DE
+302 http://stream.lokalradio.nrw/444zc65
+#EXTINF:-1,Radio_Galaxy_Ingolstadt_–_Ingolstadt_–_Bavaria_–_DE
+http://www.4broadcast.de/galaxy/galaxyhigh.m3u
+#EXTINF:-1,Radio_Gong_96.3_FM_–_96.3_FM_–_Denkendorf_–_DE-BW
+302 https://addrad.io/44559g3
+#EXTINF:-1,Radio_Schlagergarage_–_Altlußheim_–_DE-BW
+200 https://listen.radionomy.com/radio-schlagergarage.m3u
+#EXTINF:-1,Absolut_musicXL_–_Garching_bei_München_–_Bavaria_–_DE
+302 https://absolut-musicxl.live-sm.absolutradio.de/absolut-musicxl?aggregator=myTuner
+#EXTINF:-1,Hit_Sound_Radio_–_DE
+302 https://stream.laut.fm/hitsoundradio
+#EXTINF:-1,Radio_Ton_–_Region_Heilbronn/Ludwigsburg_–_Heilbronn_–_DE-BW
+302 https://live.radioton.de/rt-live-hn
+#EXTINF:-1,HITRADIO_OHR_–_Oberkirch_–_DE-BW
+302 https://frontend.streamonkey.net/fho-hitradioohrlive/stream/mp3?aggregator=mytuner-radiocom
+#EXTINF:-1,Radio_Zwickau_90er_XXL_–_Zwickau_–_Saxony_–_DE
+301 https://streams.bcs-systems.de/slp/90er/zwickau/mp3/radioplayer/web
+#EXTINF:-1,Radio_PN_Eins_–_Pfaffenhofen_an_der_Ilm_–_Bavaria_–_DE

@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in *.txt ; do for j in $(cat $i) ; do wget -S --spider -q -t 1 -T 1 --max-redirect 0 $j 2>&1 | grep "HTTP/" | awk '{print $2}' | (cat ; echo $j ;) | paste -s -d " " >> A-$i ; echo -e "$i - $j" ; done ; done
+          for i in $(cat countries.txt) ; do curl -s https://radiomatik.com/stations/$i | ./htmlq table -a href a | awk -F '/' '{print $5}' > A-$i.txt ; done
 
       - name: git stuff
         run: |

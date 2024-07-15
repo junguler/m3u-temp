@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in \?page={6..40}\&per-page=40 ; do for j in $(cat countries.txt) ; do curl -s https://fmcube.net/strana/$j$i | ./htmlq -a href a | grep '/radio/' | awk -F '/' '{print $3}' >> A-$j.txt ; echo "$j - $i" ; done ; done
+          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://fmcube.net/radio/$j > mep1 ; cat mep1 | ./htmlq h1 -t | awk NF | awk '{$1=$1; print}' | awk '{print "#EXTINF:-1,"$0}' >> A$i ; cat mep1 | grep 'data-quality=' | head -n 1 | awk -F "'" '{print $2}' | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |

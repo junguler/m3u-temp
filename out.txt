@@ -1,22 +1,0 @@
-Script started on 2024-08-11 18:38:31+03:30 [COMMAND="git pull" TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="125" LINES="10"]
-remote: Enumerating objects: 21, done.[K
-remote: Counting objects:   4% (1/21)[Kremote: Counting objects:   9% (2/21)[Kremote: Counting objects:  14% (3/21)[Kremote: Counting objects:  19% (4/21)[Kremote: Counting objects:  23% (5/21)[Kremote: Counting objects:  28% (6/21)[Kremote: Counting objects:  33% (7/21)[Kremote: Counting objects:  38% (8/21)[Kremote: Counting objects:  42% (9/21)[Kremote: Counting objects:  47% (10/21)[Kremote: Counting objects:  52% (11/21)[Kremote: Counting objects:  57% (12/21)[Kremote: Counting objects:  61% (13/21)[Kremote: Counting objects:  66% (14/21)[Kremote: Counting objects:  71% (15/21)[Kremote: Counting objects:  76% (16/21)[Kremote: Counting objects:  80% (17/21)[Kremote: Counting objects:  85% (18/21)[Kremote: Counting objects:  90% (19/21)[Kremote: Counting objects:  95% (20/21)[Kremote: Counting objects: 100% (21/21)[Kremote: Counting objects: 100% (21/21), done.[K
-remote: Compressing objects:  20% (1/5)[Kremote: Compressing objects:  40% (2/5)[Kremote: Compressing objects:  60% (3/5)[Kremote: Compressing objects:  80% (4/5)[Kremote: Compressing objects: 100% (5/5)[Kremote: Compressing objects: 100% (5/5), done.[K
-Unpacking objects:   9% (1/11)Unpacking objects:  18% (2/11)Unpacking objects:  27% (3/11)Unpacking objects:  36% (4/11)Unpacking objects:  45% (5/11)Unpacking objects:  54% (6/11)Unpacking objects:  63% (7/11)Unpacking objects:  72% (8/11)Unpacking objects:  81% (9/11)Unpacking objects:  90% (10/11)remote: Total 11 (delta 6), reused 11 (delta 6), pack-reused 0[K
-Unpacking objects: 100% (11/11)Unpacking objects: 100% (11/11), 53.62 KiB | 119.00 KiB/s, done.
-From https://github.com/junguler/m3u-temp
-   16fcfd026..a670f0a52  main       -> origin/main
-Updating 16fcfd026..a670f0a52
-Fast-forward
- A-hip-hop-music.txt    | 400 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-jazz-music.txt       |  84 [32m++++++++++++++++++++[m
- A-music.txt            | 400 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-news.txt             | 400 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-rock-music.txt       | 400 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-sports-talk-news.txt | 370 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-sports.txt           | 400 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-talk.txt             | 400 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-top-40-pop-music.txt | 400 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- 9 files changed, 3254 insertions(+)
-
-Script done on 2024-08-11 18:38:36+03:30 [COMMAND_EXIT_CODE="0"]

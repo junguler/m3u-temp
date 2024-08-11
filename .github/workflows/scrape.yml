@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in /{82..201} ; do for j in $(cat genres.txt) ; do curl -s https://oiradio.co/genre/$j$i | ./htmlq -a href .col-sm-8 a | awk -F '/' '{print $4}' >> A-$j.txt ; echo "$j - $i" ; done ; done
+          for i in /{202..501} ; do for j in $(cat genres.txt) ; do curl -s https://oiradio.co/genre/$j$i | ./htmlq -a href .col-sm-8 a | awk -F '/' '{print $4}' >> A-$j.txt ; echo "$j - $i" ; done ; done
 
       - name: git stuff
         run: |

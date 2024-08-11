@@ -1,45 +1,0 @@
-Script started on 2024-08-11 18:13:12+03:30 [COMMAND="git pull" TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="125" LINES="10"]
-remote: Enumerating objects: 19, done.[K
-remote: Counting objects:   5% (1/19)[Kremote: Counting objects:  10% (2/19)[Kremote: Counting objects:  15% (3/19)[Kremote: Counting objects:  21% (4/19)[Kremote: Counting objects:  26% (5/19)[Kremote: Counting objects:  31% (6/19)[Kremote: Counting objects:  36% (7/19)[Kremote: Counting objects:  42% (8/19)[Kremote: Counting objects:  47% (9/19)[Kremote: Counting objects:  52% (10/19)[Kremote: Counting objects:  57% (11/19)[Kremote: Counting objects:  63% (12/19)[Kremote: Counting objects:  68% (13/19)[Kremote: Counting objects:  73% (14/19)[Kremote: Counting objects:  78% (15/19)[Kremote: Counting objects:  84% (16/19)[Kremote: Counting objects:  89% (17/19)[Kremote: Counting objects:  94% (18/19)[Kremote: Counting objects: 100% (19/19)[Kremote: Counting objects: 100% (19/19), done.[K
-remote: Compressing objects:   5% (1/18)[Kremote: Compressing objects:  11% (2/18)[Kremote: Compressing objects:  16% (3/18)[Kremote: Compressing objects:  22% (4/18)[Kremote: Compressing objects:  27% (5/18)[Kremote: Compressing objects:  33% (6/18)[Kremote: Compressing objects:  38% (7/18)[Kremote: Compressing objects:  44% (8/18)[Kremote: Compressing objects:  50% (9/18)[Kremote: Compressing objects:  55% (10/18)[Kremote: Compressing objects:  61% (11/18)[Kremote: Compressing objects:  66% (12/18)[Kremote: Compressing objects:  72% (13/18)[Kremote: Compressing objects:  77% (14/18)[Kremote: Compressing objects:  83% (15/18)[Kremote: Compressing objects:  88% (16/18)[Kremote: Compressing objects:  94% (17/18)[Kremote: Compressing objects: 100% (18/18)[Kremote: Compressing objects: 100% (18/18), done.[K
-Unpacking objects:   5% (1/18)Unpacking objects:  11% (2/18)Unpacking objects:  16% (3/18)Unpacking objects:  22% (4/18)Unpacking objects:  27% (5/18)Unpacking objects:  33% (6/18)Unpacking objects:  38% (7/18)Unpacking objects:  44% (8/18)remote: Total 18 (delta 0), reused 18 (delta 0), pack-reused 0[K
-Unpacking objects:  50% (9/18)Unpacking objects:  55% (10/18)Unpacking objects:  61% (11/18)Unpacking objects:  66% (12/18)Unpacking objects:  72% (13/18)Unpacking objects:  77% (14/18)Unpacking objects:  83% (15/18)Unpacking objects:  88% (16/18)Unpacking objects:  94% (17/18)Unpacking objects: 100% (18/18)Unpacking objects: 100% (18/18), 18.03 KiB | 485.00 KiB/s, done.
-From https://github.com/junguler/m3u-temp
-   b707ca42f..42ed06341  main       -> origin/main
-Updating b707ca42f..42ed06341
-Fast-forward
- A-dance.txt                         | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-dj.txt                            |  30 [32m+++++++++++++++++++++++++[m
- A-hip-hop-music.txt                 | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-jazz-music.txt                    | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-music.txt                         | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-news.txt                          | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-r-b-music.txt                     | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-reggaeton.txt                     | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-regional-mexican-banda-cumbia.txt | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-rock-music.txt                    | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-sports-talk-news.txt              | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-sports.txt                        | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-talk.txt                          | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-top-40-pop-music.txt              | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-trance.txt                        | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-us-news.txt                       | 100 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- 16 files changed, 1530 insertions(+)
- create mode 100644 A-dance.txt
- create mode 100644 A-dj.txt
- create mode 100644 A-hip-hop-music.txt
- create mode 100644 A-jazz-music.txt
- create mode 100644 A-music.txt
- create mode 100644 A-news.txt
- create mode 100644 A-r-b-music.txt
- create mode 100644 A-reggaeton.txt
- create mode 100644 A-regional-mexican-banda-cumbia.txt
- create mode 100644 A-rock-music.txt
- create mode 100644 A-sports-talk-news.txt
- create mode 100644 A-sports.txt
- create mode 100644 A-talk.txt
- create mode 100644 A-top-40-pop-music.txt
- create mode 100644 A-trance.txt
- create mode 100644 A-us-news.txt
-
-Script done on 2024-08-11 18:13:16+03:30 [COMMAND_EXIT_CODE="0"]

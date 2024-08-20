@@ -542,52 +542,84 @@
 
                             <div class="list-item row" style="cursor: unset;">
             <div class="col-sm-8">
-              <a href="https://oiradio.co/rte-radio-1-s174829">
+              <a href="https://oiradio.co/dublin-s-q-102-fm-s174872">
               <div class="row">
                 <div class="col-3 p-0 text-center">
                   <div class="list-item-logo-container">
-                    <img src="assets/images/stations/f/f485d9d4eb96ed375b85fbb655afb7a4.png" 
+                    <img src="assets/images/stations/c/c4f9805a51a489e43ef9c5ae6d62398a.png" 
                       onerror="this.src='assets/images/stations/i/i0.png'"
                       class="list-item-logo"
-                      alt="RTÉ Radio 1" />
+                      alt="Dublin's Q 102 FM" />
                   </div>
                 </div>
                 <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">RTÉ Radio 1</h5>
+                  <h5 class="text-primary font-weight-bold">Dublin's Q 102 FM</h5>
+                  <h6 class="text-success">FEEL GOOD MUSIC</h6>
+                  <h6 class="text-success">102.2 FM</h6>
+                </div>
+              </div>
+              </a>
+            </div>
+            <div class="col-sm-4">
+              <a href="https://oiradio.co/genre/music">
+                <h6 class="badge badge-success">music</h6>
+              </a>
+              <a href="https://oiradio.co/genre/adult-hits">
+                <h6 class="badge badge-success">Adult Hits</h6>
+              </a>
+              <a href="https://oiradio.co/ireland">
+                <h6 class="badge badge-primary">Dublin, Ireland</h6>
+              </a>
+            </div>
+          </div>
+                            <div class="list-item row" style="cursor: unset;">
+            <div class="col-sm-8">
+              <a href="https://oiradio.co/highland-radio-s174855">
+              <div class="row">
+                <div class="col-3 p-0 text-center">
+                  <div class="list-item-logo-container">
+                    <img src="assets/images/stations/a/af94ac7192be06cc7f903877c3a54c2a.png" 
+                      onerror="this.src='assets/images/stations/i/i0.png'"
+                      class="list-item-logo"
+                      alt="Highland Radio" />
+                  </div>
+                </div>
+                <div class="col-9">
+                  <h5 class="text-primary font-weight-bold">Highland Radio</h5>
+                  <h6 class="text-success">Ireland's No 1 Local Radio Station</h6>
+                  <h6 class="text-success">94.7 FM</h6>
+                </div>
+              </div>
+              </a>
+            </div>
+            <div class="col-sm-4">
+              <a href="https://oiradio.co/genre/music">
+                <h6 class="badge badge-success">music</h6>
+              </a>
+              <a href="https://oiradio.co/genre/adult-hits">
+                <h6 class="badge badge-success">Adult Hits</h6>
+              </a>
+              <a href="https://oiradio.co/ireland">
+                <h6 class="badge badge-primary">Ballybofey, Ireland</h6>
+              </a>
+            </div>
+          </div>
+                            <div class="list-item row" style="cursor: unset;">
+            <div class="col-sm-8">
+              <a href="https://oiradio.co/rte-gold-s91205">
+              <div class="row">
+                <div class="col-3 p-0 text-center">
+                  <div class="list-item-logo-container">
+                    <img src="assets/images/stations/2/26c8265e97a1809660f60f1bccc0acba.png" 
+                      onerror="this.src='assets/images/stations/i/i0.png'"
+                      class="list-item-logo"
+                      alt="RTÉ Gold" />
+                  </div>
+                </div>
+                <div class="col-9">
+                  <h5 class="text-primary font-weight-bold">RTÉ Gold</h5>
                   <h6 class="text-success"></h6>
-                  <h6 class="text-success">89.9 FM</h6>
-                </div>
-              </div>
-              </a>
-            </div>
-            <div class="col-sm-4">
-              <a href="https://oiradio.co/genre/talk">
-                <h6 class="badge badge-success">talk</h6>
-              </a>
-              <a href="https://oiradio.co/genre/us-news">
-                <h6 class="badge badge-success">US News</h6>
-              </a>
-              <a href="https://oiradio.co/ireland">
-                <h6 class="badge badge-primary">Athlone, Ireland</h6>
-              </a>
-            </div>
-          </div>
-                            <div class="list-item row" style="cursor: unset;">
-            <div class="col-sm-8">
-              <a href="https://oiradio.co/sunshine-106-8-s68514">
-              <div class="row">
-                <div class="col-3 p-0 text-center">
-                  <div class="list-item-logo-container">
-                    <img src="assets/images/stations/2/2b6eb094c9ad21da28d2b76892c692f0.png" 
-                      onerror="this.src='assets/images/stations/i/i0.png'"
-                      class="list-item-logo"
-                      alt="Sunshine 106.8" />
-                  </div>
-                </div>
-                <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">Sunshine 106.8</h5>
-                  <h6 class="text-success">Dublin's New Place to Relax</h6>
-                  <h6 class="text-success">106.8 FM</h6>
+                  <h6 class="text-success"> DAB</h6>
                 </div>
               </div>
               </a>
@@ -596,104 +628,8 @@
               <a href="https://oiradio.co/genre/music">
                 <h6 class="badge badge-success">music</h6>
               </a>
-              <a href="https://oiradio.co/genre/easy-listening">
-                <h6 class="badge badge-success">Easy Listening</h6>
-              </a>
-              <a href="https://oiradio.co/ireland">
-                <h6 class="badge badge-primary">Dublin, Ireland</h6>
-              </a>
-            </div>
-          </div>
-                            <div class="list-item row" style="cursor: unset;">
-            <div class="col-sm-8">
-              <a href="https://oiradio.co/spin-1038-s84320">
-              <div class="row">
-                <div class="col-3 p-0 text-center">
-                  <div class="list-item-logo-container">
-                    <img src="assets/images/stations/a/a851005b0a5b5bb9f3fe6738dcaf9e5a.png" 
-                      onerror="this.src='assets/images/stations/i/i0.png'"
-                      class="list-item-logo"
-                      alt="SPIN 1038" />
-                  </div>
-                </div>
-                <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">SPIN 1038</h5>
-                  <h6 class="text-success">#1 for Music & Entertainment</h6>
-                  <h6 class="text-success">103.8 FM</h6>
-                </div>
-              </div>
-              </a>
-            </div>
-            <div class="col-sm-4">
-              <a href="https://oiradio.co/genre/music">
-                <h6 class="badge badge-success">music</h6>
-              </a>
-              <a href="https://oiradio.co/genre/top-40-pop-music">
-                <h6 class="badge badge-success">Top 40 & Pop Music</h6>
-              </a>
-              <a href="https://oiradio.co/ireland">
-                <h6 class="badge badge-primary">Dublin, Ireland</h6>
-              </a>
-            </div>
-          </div>
-                            <div class="list-item row" style="cursor: unset;">
-            <div class="col-sm-8">
-              <a href="https://oiradio.co/irish-pub-radio-s213203">
-              <div class="row">
-                <div class="col-3 p-0 text-center">
-                  <div class="list-item-logo-container">
-                    <img src="assets/images/stations/2/26cb67945212fe4a0b413282b5b99820.jpg" 
-                      onerror="this.src='assets/images/stations/i/i0.png'"
-                      class="list-item-logo"
-                      alt="Irish Pub Radio" />
-                  </div>
-                </div>
-                <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">Irish Pub Radio</h5>
-                  <h6 class="text-success">Playing all your Irish Favourites</h6>
-                  <h6 class="text-success"> Stream</h6>
-                </div>
-              </div>
-              </a>
-            </div>
-            <div class="col-sm-4">
-              <a href="https://oiradio.co/genre/music">
-                <h6 class="badge badge-success">music</h6>
-              </a>
-              <a href="https://oiradio.co/genre/irish-music">
-                <h6 class="badge badge-success">Irish Music</h6>
-              </a>
-              <a href="https://oiradio.co/ireland">
-                <h6 class="badge badge-primary">Ireland</h6>
-              </a>
-            </div>
-          </div>
-                            <div class="list-item row" style="cursor: unset;">
-            <div class="col-sm-8">
-              <a href="https://oiradio.co/deep-house-radio-dhr-s262535">
-              <div class="row">
-                <div class="col-3 p-0 text-center">
-                  <div class="list-item-logo-container">
-                    <img src="assets/images/stations/7/7b1e2d77f088bd3066cd502fddfba4ce.png" 
-                      onerror="this.src='assets/images/stations/i/i0.png'"
-                      class="list-item-logo"
-                      alt="Deep House Radio (DHR)" />
-                  </div>
-                </div>
-                <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">Deep House Radio (DHR)</h5>
-                  <h6 class="text-success">We Go Deep !</h6>
-                  <h6 class="text-success"> Stream</h6>
-                </div>
-              </div>
-              </a>
-            </div>
-            <div class="col-sm-4">
-              <a href="https://oiradio.co/genre/music">
-                <h6 class="badge badge-success">music</h6>
-              </a>
-              <a href="https://oiradio.co/genre/house">
-                <h6 class="badge badge-success">House</h6>
+              <a href="https://oiradio.co/genre/classic-hits">
+                <h6 class="badge badge-success">Classic Hits</h6>
               </a>
               <a href="https://oiradio.co/ireland">
                 <h6 class="badge badge-primary">Ireland</h6>
@@ -734,20 +670,20 @@
           </div>
                             <div class="list-item row" style="cursor: unset;">
             <div class="col-sm-8">
-              <a href="https://oiradio.co/rte-gold-s91205">
+              <a href="https://oiradio.co/deep-house-radio-dhr-s262535">
               <div class="row">
                 <div class="col-3 p-0 text-center">
                   <div class="list-item-logo-container">
-                    <img src="assets/images/stations/2/26c8265e97a1809660f60f1bccc0acba.png" 
+                    <img src="assets/images/stations/7/7b1e2d77f088bd3066cd502fddfba4ce.png" 
                       onerror="this.src='assets/images/stations/i/i0.png'"
                       class="list-item-logo"
-                      alt="RTÉ Gold" />
+                      alt="Deep House Radio (DHR)" />
                   </div>
                 </div>
                 <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">RTÉ Gold</h5>
-                  <h6 class="text-success"></h6>
-                  <h6 class="text-success"> DAB</h6>
+                  <h5 class="text-primary font-weight-bold">Deep House Radio (DHR)</h5>
+                  <h6 class="text-success">We Go Deep !</h6>
+                  <h6 class="text-success"> Stream</h6>
                 </div>
               </div>
               </a>
@@ -756,8 +692,8 @@
               <a href="https://oiradio.co/genre/music">
                 <h6 class="badge badge-success">music</h6>
               </a>
-              <a href="https://oiradio.co/genre/classic-hits">
-                <h6 class="badge badge-success">Classic Hits</h6>
+              <a href="https://oiradio.co/genre/house">
+                <h6 class="badge badge-success">House</h6>
               </a>
               <a href="https://oiradio.co/ireland">
                 <h6 class="badge badge-primary">Ireland</h6>
@@ -798,52 +734,52 @@
           </div>
                             <div class="list-item row" style="cursor: unset;">
             <div class="col-sm-8">
-              <a href="https://oiradio.co/classic-hits-4fm-s72692">
+              <a href="https://oiradio.co/rte-radio-1-s174829">
               <div class="row">
                 <div class="col-3 p-0 text-center">
                   <div class="list-item-logo-container">
-                    <img src="assets/images/stations/e/efd1e09beb0cf58595155a7fea006f76.png" 
+                    <img src="assets/images/stations/f/f485d9d4eb96ed375b85fbb655afb7a4.png" 
                       onerror="this.src='assets/images/stations/i/i0.png'"
                       class="list-item-logo"
-                      alt="Classic Hits 4FM" />
+                      alt="RTÉ Radio 1" />
                   </div>
                 </div>
                 <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">Classic Hits 4FM</h5>
-                  <h6 class="text-success">No. 1 for Classic Hits</h6>
-                  <h6 class="text-success">94.9 FM</h6>
+                  <h5 class="text-primary font-weight-bold">RTÉ Radio 1</h5>
+                  <h6 class="text-success"></h6>
+                  <h6 class="text-success">89.9 FM</h6>
                 </div>
               </div>
               </a>
             </div>
             <div class="col-sm-4">
-              <a href="https://oiradio.co/genre/music">
-                <h6 class="badge badge-success">music</h6>
+              <a href="https://oiradio.co/genre/talk">
+                <h6 class="badge badge-success">talk</h6>
               </a>
-              <a href="https://oiradio.co/genre/classic-hits">
-                <h6 class="badge badge-success">Classic Hits</h6>
+              <a href="https://oiradio.co/genre/us-news">
+                <h6 class="badge badge-success">US News</h6>
               </a>
               <a href="https://oiradio.co/ireland">
-                <h6 class="badge badge-primary">Dublin, Ireland</h6>
+                <h6 class="badge badge-primary">Athlone, Ireland</h6>
               </a>
             </div>
           </div>
                             <div class="list-item row" style="cursor: unset;">
             <div class="col-sm-8">
-              <a href="https://oiradio.co/today-fm-s174857">
+              <a href="https://oiradio.co/cork-s-red-fm-s79651">
               <div class="row">
                 <div class="col-3 p-0 text-center">
                   <div class="list-item-logo-container">
-                    <img src="assets/images/stations/1/126465cda7e99f7a5e04c8f539632ed1.jpg" 
+                    <img src="assets/images/stations/4/44ea9a08be1a009e9c28c28c884b9ba2.png" 
                       onerror="this.src='assets/images/stations/i/i0.png'"
                       class="list-item-logo"
-                      alt="Today FM" />
+                      alt="Cork's Red FM" />
                   </div>
                 </div>
                 <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">Today FM</h5>
-                  <h6 class="text-success">Oh It's On</h6>
-                  <h6 class="text-success">101.8 FM</h6>
+                  <h5 class="text-primary font-weight-bold">Cork's Red FM</h5>
+                  <h6 class="text-success">Cork's # 1 For Hit Music</h6>
+                  <h6 class="text-success">104.5 FM</h6>
                 </div>
               </div>
               </a>
@@ -852,11 +788,43 @@
               <a href="https://oiradio.co/genre/music">
                 <h6 class="badge badge-success">music</h6>
               </a>
-              <a href="https://oiradio.co/genre/adult-hits">
-                <h6 class="badge badge-success">Adult Hits</h6>
+              <a href="https://oiradio.co/genre/top-40-pop-music">
+                <h6 class="badge badge-success">Top 40 & Pop Music</h6>
               </a>
               <a href="https://oiradio.co/ireland">
-                <h6 class="badge badge-primary">Dublin, Ireland</h6>
+                <h6 class="badge badge-primary">Goulacullin, Ireland</h6>
+              </a>
+            </div>
+          </div>
+                            <div class="list-item row" style="cursor: unset;">
+            <div class="col-sm-8">
+              <a href="https://oiradio.co/loveradio-ie-s9680">
+              <div class="row">
+                <div class="col-3 p-0 text-center">
+                  <div class="list-item-logo-container">
+                    <img src="assets/images/stations/6/62e60c8e8476bf84e00929e0e31ac4b6.png" 
+                      onerror="this.src='assets/images/stations/i/i0.png'"
+                      class="list-item-logo"
+                      alt="LoveRadio.ie" />
+                  </div>
+                </div>
+                <div class="col-9">
+                  <h5 class="text-primary font-weight-bold">LoveRadio.ie</h5>
+                  <h6 class="text-success">Non Stop Easy Listening</h6>
+                  <h6 class="text-success"> Stream</h6>
+                </div>
+              </div>
+              </a>
+            </div>
+            <div class="col-sm-4">
+              <a href="https://oiradio.co/genre/">
+                <h6 class="badge badge-success"></h6>
+              </a>
+              <a href="https://oiradio.co/genre/love-songs">
+                <h6 class="badge badge-success">Love Songs</h6>
+              </a>
+              <a href="https://oiradio.co/ireland">
+                <h6 class="badge badge-primary">Ireland</h6>
               </a>
             </div>
           </div>
@@ -894,20 +862,20 @@
           </div>
                             <div class="list-item row" style="cursor: unset;">
             <div class="col-sm-8">
-              <a href="https://oiradio.co/highland-radio-s174855">
+              <a href="https://oiradio.co/all-80s-s222490">
               <div class="row">
                 <div class="col-3 p-0 text-center">
                   <div class="list-item-logo-container">
-                    <img src="assets/images/stations/a/af94ac7192be06cc7f903877c3a54c2a.png" 
+                    <img src="assets/images/stations/2/2b24d34e21ced1019645a8a18dac681f.png" 
                       onerror="this.src='assets/images/stations/i/i0.png'"
                       class="list-item-logo"
-                      alt="Highland Radio" />
+                      alt="All 80s" />
                   </div>
                 </div>
                 <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">Highland Radio</h5>
-                  <h6 class="text-success">Ireland's No 1 Local Radio Station</h6>
-                  <h6 class="text-success">94.7 FM</h6>
+                  <h5 class="text-primary font-weight-bold">All 80s</h5>
+                  <h6 class="text-success">All 80's music all the time</h6>
+                  <h6 class="text-success"> DAB</h6>
                 </div>
               </div>
               </a>
@@ -916,11 +884,11 @@
               <a href="https://oiradio.co/genre/music">
                 <h6 class="badge badge-success">music</h6>
               </a>
-              <a href="https://oiradio.co/genre/adult-hits">
-                <h6 class="badge badge-success">Adult Hits</h6>
+              <a href="https://oiradio.co/genre/80-s">
+                <h6 class="badge badge-success">80's</h6>
               </a>
               <a href="https://oiradio.co/ireland">
-                <h6 class="badge badge-primary">Ballybofey, Ireland</h6>
+                <h6 class="badge badge-primary">Ireland</h6>
               </a>
             </div>
           </div>
@@ -958,20 +926,20 @@
           </div>
                             <div class="list-item row" style="cursor: unset;">
             <div class="col-sm-8">
-              <a href="https://oiradio.co/radio-nova-100-s159125">
+              <a href="https://oiradio.co/today-fm-s174857">
               <div class="row">
                 <div class="col-3 p-0 text-center">
                   <div class="list-item-logo-container">
-                    <img src="assets/images/stations/b/be878321d90cf307682b2945e8757cd0.png" 
+                    <img src="assets/images/stations/1/126465cda7e99f7a5e04c8f539632ed1.jpg" 
                       onerror="this.src='assets/images/stations/i/i0.png'"
                       class="list-item-logo"
-                      alt="Radio Nova 100" />
+                      alt="Today FM" />
                   </div>
                 </div>
                 <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">Radio Nova 100</h5>
-                  <h6 class="text-success">Seriously Addictive Music</h6>
-                  <h6 class="text-success">100.3 FM</h6>
+                  <h5 class="text-primary font-weight-bold">Today FM</h5>
+                  <h6 class="text-success">Oh It's On</h6>
+                  <h6 class="text-success">101.8 FM</h6>
                 </div>
               </div>
               </a>
@@ -980,8 +948,8 @@
               <a href="https://oiradio.co/genre/music">
                 <h6 class="badge badge-success">music</h6>
               </a>
-              <a href="https://oiradio.co/genre/alternative-rock">
-                <h6 class="badge badge-success">Alternative Rock</h6>
+              <a href="https://oiradio.co/genre/adult-hits">
+                <h6 class="badge badge-success">Adult Hits</h6>
               </a>
               <a href="https://oiradio.co/ireland">
                 <h6 class="badge badge-primary">Dublin, Ireland</h6>
@@ -1022,20 +990,20 @@
           </div>
                             <div class="list-item row" style="cursor: unset;">
             <div class="col-sm-8">
-              <a href="https://oiradio.co/all-80s-s222490">
+              <a href="https://oiradio.co/sunshine-106-8-s68514">
               <div class="row">
                 <div class="col-3 p-0 text-center">
                   <div class="list-item-logo-container">
-                    <img src="assets/images/stations/2/2b24d34e21ced1019645a8a18dac681f.png" 
+                    <img src="assets/images/stations/2/2b6eb094c9ad21da28d2b76892c692f0.png" 
                       onerror="this.src='assets/images/stations/i/i0.png'"
                       class="list-item-logo"
-                      alt="All 80s" />
+                      alt="Sunshine 106.8" />
                   </div>
                 </div>
                 <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">All 80s</h5>
-                  <h6 class="text-success">All 80's music all the time</h6>
-                  <h6 class="text-success"> DAB</h6>
+                  <h5 class="text-primary font-weight-bold">Sunshine 106.8</h5>
+                  <h6 class="text-success">Dublin's New Place to Relax</h6>
+                  <h6 class="text-success">106.8 FM</h6>
                 </div>
               </div>
               </a>
@@ -1044,11 +1012,107 @@
               <a href="https://oiradio.co/genre/music">
                 <h6 class="badge badge-success">music</h6>
               </a>
-              <a href="https://oiradio.co/genre/80-s">
-                <h6 class="badge badge-success">80's</h6>
+              <a href="https://oiradio.co/genre/easy-listening">
+                <h6 class="badge badge-success">Easy Listening</h6>
+              </a>
+              <a href="https://oiradio.co/ireland">
+                <h6 class="badge badge-primary">Dublin, Ireland</h6>
+              </a>
+            </div>
+          </div>
+                            <div class="list-item row" style="cursor: unset;">
+            <div class="col-sm-8">
+              <a href="https://oiradio.co/radio-nova-100-s159125">
+              <div class="row">
+                <div class="col-3 p-0 text-center">
+                  <div class="list-item-logo-container">
+                    <img src="assets/images/stations/b/be878321d90cf307682b2945e8757cd0.png" 
+                      onerror="this.src='assets/images/stations/i/i0.png'"
+                      class="list-item-logo"
+                      alt="Radio Nova 100" />
+                  </div>
+                </div>
+                <div class="col-9">
+                  <h5 class="text-primary font-weight-bold">Radio Nova 100</h5>
+                  <h6 class="text-success">Seriously Addictive Music</h6>
+                  <h6 class="text-success">100.3 FM</h6>
+                </div>
+              </div>
+              </a>
+            </div>
+            <div class="col-sm-4">
+              <a href="https://oiradio.co/genre/music">
+                <h6 class="badge badge-success">music</h6>
+              </a>
+              <a href="https://oiradio.co/genre/alternative-rock">
+                <h6 class="badge badge-success">Alternative Rock</h6>
+              </a>
+              <a href="https://oiradio.co/ireland">
+                <h6 class="badge badge-primary">Dublin, Ireland</h6>
+              </a>
+            </div>
+          </div>
+                            <div class="list-item row" style="cursor: unset;">
+            <div class="col-sm-8">
+              <a href="https://oiradio.co/irish-pub-radio-s213203">
+              <div class="row">
+                <div class="col-3 p-0 text-center">
+                  <div class="list-item-logo-container">
+                    <img src="assets/images/stations/2/26cb67945212fe4a0b413282b5b99820.jpg" 
+                      onerror="this.src='assets/images/stations/i/i0.png'"
+                      class="list-item-logo"
+                      alt="Irish Pub Radio" />
+                  </div>
+                </div>
+                <div class="col-9">
+                  <h5 class="text-primary font-weight-bold">Irish Pub Radio</h5>
+                  <h6 class="text-success">Playing all your Irish Favourites</h6>
+                  <h6 class="text-success"> Stream</h6>
+                </div>
+              </div>
+              </a>
+            </div>
+            <div class="col-sm-4">
+              <a href="https://oiradio.co/genre/music">
+                <h6 class="badge badge-success">music</h6>
+              </a>
+              <a href="https://oiradio.co/genre/irish-music">
+                <h6 class="badge badge-success">Irish Music</h6>
               </a>
               <a href="https://oiradio.co/ireland">
                 <h6 class="badge badge-primary">Ireland</h6>
+              </a>
+            </div>
+          </div>
+                            <div class="list-item row" style="cursor: unset;">
+            <div class="col-sm-8">
+              <a href="https://oiradio.co/spin-1038-s84320">
+              <div class="row">
+                <div class="col-3 p-0 text-center">
+                  <div class="list-item-logo-container">
+                    <img src="assets/images/stations/a/a851005b0a5b5bb9f3fe6738dcaf9e5a.png" 
+                      onerror="this.src='assets/images/stations/i/i0.png'"
+                      class="list-item-logo"
+                      alt="SPIN 1038" />
+                  </div>
+                </div>
+                <div class="col-9">
+                  <h5 class="text-primary font-weight-bold">SPIN 1038</h5>
+                  <h6 class="text-success">#1 for Music & Entertainment</h6>
+                  <h6 class="text-success">103.8 FM</h6>
+                </div>
+              </div>
+              </a>
+            </div>
+            <div class="col-sm-4">
+              <a href="https://oiradio.co/genre/music">
+                <h6 class="badge badge-success">music</h6>
+              </a>
+              <a href="https://oiradio.co/genre/top-40-pop-music">
+                <h6 class="badge badge-success">Top 40 & Pop Music</h6>
+              </a>
+              <a href="https://oiradio.co/ireland">
+                <h6 class="badge badge-primary">Dublin, Ireland</h6>
               </a>
             </div>
           </div>
@@ -1086,52 +1150,20 @@
           </div>
                             <div class="list-item row" style="cursor: unset;">
             <div class="col-sm-8">
-              <a href="https://oiradio.co/loveradio-ie-s9680">
+              <a href="https://oiradio.co/classic-hits-4fm-s72692">
               <div class="row">
                 <div class="col-3 p-0 text-center">
                   <div class="list-item-logo-container">
-                    <img src="assets/images/stations/6/62e60c8e8476bf84e00929e0e31ac4b6.png" 
+                    <img src="assets/images/stations/e/efd1e09beb0cf58595155a7fea006f76.png" 
                       onerror="this.src='assets/images/stations/i/i0.png'"
                       class="list-item-logo"
-                      alt="LoveRadio.ie" />
+                      alt="Classic Hits 4FM" />
                   </div>
                 </div>
                 <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">LoveRadio.ie</h5>
-                  <h6 class="text-success">Non Stop Easy Listening</h6>
-                  <h6 class="text-success"> Stream</h6>
-                </div>
-              </div>
-              </a>
-            </div>
-            <div class="col-sm-4">
-              <a href="https://oiradio.co/genre/">
-                <h6 class="badge badge-success"></h6>
-              </a>
-              <a href="https://oiradio.co/genre/love-songs">
-                <h6 class="badge badge-success">Love Songs</h6>
-              </a>
-              <a href="https://oiradio.co/ireland">
-                <h6 class="badge badge-primary">Ireland</h6>
-              </a>
-            </div>
-          </div>
-                            <div class="list-item row" style="cursor: unset;">
-            <div class="col-sm-8">
-              <a href="https://oiradio.co/cork-s-red-fm-s79651">
-              <div class="row">
-                <div class="col-3 p-0 text-center">
-                  <div class="list-item-logo-container">
-                    <img src="assets/images/stations/4/44ea9a08be1a009e9c28c28c884b9ba2.png" 
-                      onerror="this.src='assets/images/stations/i/i0.png'"
-                      class="list-item-logo"
-                      alt="Cork's Red FM" />
-                  </div>
-                </div>
-                <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">Cork's Red FM</h5>
-                  <h6 class="text-success">Cork's # 1 For Hit Music</h6>
-                  <h6 class="text-success">104.5 FM</h6>
+                  <h5 class="text-primary font-weight-bold">Classic Hits 4FM</h5>
+                  <h6 class="text-success">No. 1 for Classic Hits</h6>
+                  <h6 class="text-success">94.9 FM</h6>
                 </div>
               </div>
               </a>
@@ -1140,40 +1172,8 @@
               <a href="https://oiradio.co/genre/music">
                 <h6 class="badge badge-success">music</h6>
               </a>
-              <a href="https://oiradio.co/genre/top-40-pop-music">
-                <h6 class="badge badge-success">Top 40 & Pop Music</h6>
-              </a>
-              <a href="https://oiradio.co/ireland">
-                <h6 class="badge badge-primary">Goulacullin, Ireland</h6>
-              </a>
-            </div>
-          </div>
-                            <div class="list-item row" style="cursor: unset;">
-            <div class="col-sm-8">
-              <a href="https://oiradio.co/dublin-s-q-102-fm-s174872">
-              <div class="row">
-                <div class="col-3 p-0 text-center">
-                  <div class="list-item-logo-container">
-                    <img src="assets/images/stations/c/c4f9805a51a489e43ef9c5ae6d62398a.png" 
-                      onerror="this.src='assets/images/stations/i/i0.png'"
-                      class="list-item-logo"
-                      alt="Dublin's Q 102 FM" />
-                  </div>
-                </div>
-                <div class="col-9">
-                  <h5 class="text-primary font-weight-bold">Dublin's Q 102 FM</h5>
-                  <h6 class="text-success">FEEL GOOD MUSIC</h6>
-                  <h6 class="text-success">102.2 FM</h6>
-                </div>
-              </div>
-              </a>
-            </div>
-            <div class="col-sm-4">
-              <a href="https://oiradio.co/genre/music">
-                <h6 class="badge badge-success">music</h6>
-              </a>
-              <a href="https://oiradio.co/genre/adult-hits">
-                <h6 class="badge badge-success">Adult Hits</h6>
+              <a href="https://oiradio.co/genre/classic-hits">
+                <h6 class="badge badge-success">Classic Hits</h6>
               </a>
               <a href="https://oiradio.co/ireland">
                 <h6 class="badge badge-primary">Dublin, Ireland</h6>

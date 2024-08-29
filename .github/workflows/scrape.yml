@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in *.txt ; do for j in $(cat $i) ; do curl -s https://live365.com/station/$j > mep1 ; cat mep1 | htmlq -t h1 | head -n 1 | awk '{print "#EXTINF:-1,"$0}' | uniq >> AA-$i ; cat mep1 | grep -Po '"streamUrl": *\K"[^"]*"' | sed 's/"//g' | sed 's/\;//g' | sed '/^$/d' | xargs curl -s -I | grep "location" | awk '{print $2}' >> AA-$i ; echo -e "$i - $j" ; done ; done
+          for i in *.txt ; do for j in $(cat $i) ; do curl -s https://live365.com/station/$j > mep1 ; cat mep1 | ./htmlq -t h1 | head -n 1 | awk '{print "#EXTINF:-1,"$0}' | uniq >> AA-$i ; cat mep1 | grep -Po '"streamUrl": *\K"[^"]*"' | sed 's/"//g' | sed 's/\;//g' | sed '/^$/d' | xargs curl -s -I | grep "location" | awk '{print $2}' >> AA-$i ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |

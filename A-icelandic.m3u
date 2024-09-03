@@ -1,0 +1,48 @@
+#EXTINF:-1,Retro_895
+400 http://radio.is:443/retromobile
+#EXTINF:-1,Krúttin
+301 http://radio.kruttin.com/stream/turteldufur/
+#EXTINF:-1,Cork's_96fm
+200 http://wg.cdn.tibus.net/96fm
+#EXTINF:-1,Hringbraut
+400 http://www.radio.is:443/hrb
+#EXTINF:-1,RÚV_Rás_1
+400 http://netradio.ruv.is:80/ras1.mp3
+#EXTINF:-1,Sudurland_FM_96.3
+200 http://178.19.58.119:1818/
+#EXTINF:-1,Lindin
+http://82.221.112.178:1935/live/lindin.stream/playlist.m3u8
+#EXTINF:-1,C103_North
+200 http://wg.cdn.tibus.net/C103
+#EXTINF:-1,K100
+400 http://radio.is:443/kaninnmobile
+#EXTINF:-1,FM_Xtra
+400 http://www.radio.is:443/fmxtra
+#EXTINF:-1,Bylgjan_98.9
+200 http://icecast.365net.is:8000/orbbylgjan.aac
+#EXTINF:-1,Ice_FM
+http://37.59.28.208:8188/
+#EXTINF:-1,KissFM_104,5
+400 http://www.radio.is:443/kiss
+#EXTINF:-1,DJ_Danni_-_Hands_Up
+http://server.skagarasin.com:8300/
+#EXTINF:-1,X-id_97.7_FM
+200 http://icecast.365net.is:8000/orbXid.aac
+#EXTINF:-1,FlashBack
+400 http://www.radio.is:443/flashback
+#EXTINF:-1,Jólarásin_/_Christmas_Radio
+http://s35.myradiostream.com:6396/
+#EXTINF:-1,Gull_Bylgjan
+200 http://icecast.365net.is:8000/orbGullBylgjan.aac
+#EXTINF:-1,RÚV_Rás_2
+400 http://netradio.ruv.is:80/ras2.mp3
+#EXTINF:-1,FM957
+200 http://icecast.365net.is:8000/orbFm957.aac
+#EXTINF:-1,Létt_Bylgjan
+200 http://icecast.365net.is:8000/orbLettBylgjan.aac
+#EXTINF:-1,Útvarp_Akureyri_FM_98,7
+404 http://listen.shoutcast.com/UtvarpAkureyriFM98-7
+#EXTINF:-1,Utvarp_Saga
+http://stream.radio.is:443/saga
+#EXTINF:-1,FRED_FILM_RADIO_CH26_Icelandic
+http://91.121.139.194:8110/stream

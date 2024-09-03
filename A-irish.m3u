@@ -1,0 +1,44 @@
+#EXTINF:-1,RTÉ_2fm
+200 http://icecast1.rte.ie/2fm
+#EXTINF:-1,Louth_Meath_FM
+301 http://webradio.radiomonitor.com/stream/LMFM
+#EXTINF:-1,Raidió_na_Life_106.4FM
+200 http://beryl.streamguys.com:5010/live
+#EXTINF:-1,News_Talk
+200 http://stream.audioxi.com/NT
+#EXTINF:-1,Raidió_Rí-Rá
+http://185.80.220.12:8166/stream
+#EXTINF:-1,Today_FM
+200 http://stream.audioxi.com/TD
+#EXTINF:-1,Midwest_Radio_FM
+302 http://tx.sharp-stream.com/icecast.php?i=midwestfmie.mp3
+#EXTINF:-1,Dublin's_Q_102_FM
+200 https://gbradio.cdn.tibus.net/q102MP3128
+#EXTINF:-1,Radio_Kerry
+http://19373.live.streamtheworld.com:3690/RADIO_KERRYAAC_SC?DIST=tradio&TGT=tradio&maxServers=2&ua=rtrtradio&ttag=rtrtradio
+#EXTINF:-1,East_Coast_FM
+200 http://sirius.shoutca.st:8673/
+#EXTINF:-1,RTÉ_Radio_1
+200 http://icecast2.rte.ie/radio1
+#EXTINF:-1,BFBS_Radio_Northern_Ireland
+200 http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs4.mp3?i=ssvcbfbs4.mp3.m3u
+#EXTINF:-1,Highland_Radio
+302 http://pri.gocaster.net/highlandradio
+#EXTINF:-1,RTÉ_Raidió_na_Gaeltachta
+200 http://icecast2.rte.ie/rnag
+#EXTINF:-1,RG_Lurgan
+http://rglurgan.out.airtime.pro:8000/rglurgan_a?_ga=1.30236223.1430667232.1487067523
+#EXTINF:-1,Raidió_Fáilte
+400 http://icecast.commedia.org.uk:8000/raidiofailte.mp3
+#EXTINF:-1,All_Irish_Radio
+http://66.70.187.44:9123/stream
+#EXTINF:-1,KAN_TARBUT_-_כאן_תרבות
+301 http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3?providername=tunein
+#EXTINF:-1,NearFM
+200 http://proxima.shoutca.st:8114/
+#EXTINF:-1,Community_Radio_Youghal
+http://178.32.62.172:8221/stream
+#EXTINF:-1,liveIreland
+200 http://192.111.140.11:8058/
+#EXTINF:-1,Power_FM
+200 http://war.powerfm.org:8000/powerfm.mp3

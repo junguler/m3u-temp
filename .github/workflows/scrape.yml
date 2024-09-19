@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in $(cat genres_uniq.txt) ; do for j in {1056..1655} ; do curl -s https://www.rcast.net/dir/$i/page$j | ./htmlq -a href .text-danger a | uniq >> A-$(echo $i | tr -dc '[:print:]' | tr -d '\\/:*?"<>|').txt ; echo -e "$i - $j" ; done ; done
+          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://www.rcast.net$j > mep1 ; cat mep1 | ./htmlq h1 -t | sed 's|Listen to ||g' | awk '{print "#EXTINF:-1,"$0}' >> A$i ; cat mep1 | grep 'URL: "' | head -n 1 | awk -F '"' '{print $2}' | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |

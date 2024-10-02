@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,Icecast_Stream_2
+400 https://icecast1.myradio.click/cast2_64k.aacp
+#EXTINF:-1,Icecast_KGSP_90.5FM
+302 https://stream.rcast.net/257358
+#EXTINF:-1,ICECAST_Radio_ANDIKA
+200 https://r5.siar.us:1057/andikafm
+#EXTINF:-1,KCIS_Icecast_Flash_Player_Backup
+200 https://crista-kcis.streamguys1.com/kcisaacp
+#EXTINF:-1,MyRadioStream_over_IceCast_2.4
+302 https://stream.rcast.net/249456
+#EXTINF:-1,KWPZ_Icecast_Flash_Player_Stream_Encoder_Backup
+200 https://crista-kwpz.streamguys1.com/kwpzaacp
+#EXTINF:-1,KAZU_Icecastle_HD2_High
+302 https://stream.rcast.net/241792
+#EXTINF:-1,Icecast
+302 https://stream.rcast.net/239856
+#EXTINF:-1,3MDR_Icecast_Stream
+400 https://icecast1.myradio.click/cast1_64k.aacp
+#EXTINF:-1,KAZU_Icecastle_128k
+302 https://stream.rcast.net/239258
+#EXTINF:-1,ISLA_106_Akamai_iPhone_Icecast
+https://stream.isla106.com/isla106
+#EXTINF:-1,voscast-icecast2
+302 https://stream.rcast.net/236798
+#EXTINF:-1,Unspecified_name
+302 https://stream.rcast.net/215460
+#EXTINF:-1,IceCast2_Server
+302 https://stream.rcast.net/211763
+#EXTINF:-1,Shurato's_Anime_OST_Radio_Icecast
+302 https://stream.rcast.net/211364
+#EXTINF:-1,Snakeice's_House_of_Beats_(64kbps-IceCast)
+302 https://stream.rcast.net/210726
+#EXTINF:-1,Snakeice's_House_of_Beats_(128kbps-IceCast)
+302 https://stream.rcast.net/207723
+#EXTINF:-1,Cheap_Shoutcast_Icecast_v2_Demo
+302 https://stream.rcast.net/207393
+#EXTINF:-1,Snakeice's_House_of_Beats_(IceCast-_320kbps)
+302 https://stream.rcast.net/207313
+#EXTINF:-1,Snakeice's_House_of_Beats_(160kbps-IceCast)
+302 https://stream.rcast.net/205684
+#EXTINF:-1,Radio_Icecast
+302 https://stream.rcast.net/205499
+#EXTINF:-1,Infozorzaicecast_Radio
+302 https://stream.rcast.net/204850
+#EXTINF:-1,Stomp_Radio_96k_Icecast
+302 https://stream.rcast.net/15285

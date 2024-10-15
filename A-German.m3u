@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,BAVARIAN_RADIO
+http://162.252.171.80:8026/stream
+#EXTINF:-1,Goldstadt-Radio
+200 http://5.9.16.111:8610/stream
+#EXTINF:-1,Radio_Olbersdorf_24
+https://31.31.73.75:16592/
+#EXTINF:-1,Radio_Lueneburg
+200 https://luneburgerradio.spcast.eu:8130/
+#EXTINF:-1,Online-Radio_mit_LexyCast_Streaming-Software_|_www.lexycast.de
+200 https://c02.lexycast.de:1120/
+#EXTINF:-1,SuperGutesRadio
+200 http://37.59.82.10:12005/stream1
+#EXTINF:-1,Library_2
+404 http://listen.shoutcast.com/library2
+#EXTINF:-1,oidosSordos
+500 http://listen.shoutcast.com/oidossordos
+#EXTINF:-1,Starship_Overflow
+404 http://listen.shoutcast.com/starshipoverflow
+#EXTINF:-1,Endless_Dreams_Radio
+404 http://listen.shoutcast.com/endlessdreamsradio
+#EXTINF:-1,Radio_U1_Tirol
+http://streamplus42.leonex.de:24332/stream

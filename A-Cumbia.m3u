@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Cumbia_Sonidera_Radio
+200 https://jm8n.net:8078/stream
+#EXTINF:-1,Tropical_100_Vallencumbia
+200 http://tropical100.net:8046/
+#EXTINF:-1,Oye_sonidero_radio
+200 http://192.99.4.210:3844/stream
+#EXTINF:-1,LA_EMBAJADA_DE_LA_CUMBIA
+302 http://listen.radionomy.com:80/LAEMBAJADADELACUMBIA
+#EXTINF:-1,Radiulo-Sonidero
+404 http://listen.shoutcast.com/radiulo-sonidero
+#EXTINF:-1,Radiulo-RegionalMx
+404 http://listen.shoutcast.com/radiulo-regionalmx
+#EXTINF:-1,Radiulo-Norteno
+404 http://listen.shoutcast.com/radiulo-norteno
+#EXTINF:-1,Radiulo-Corridos
+404 http://listen.shoutcast.com/radiulo-corridos
+#EXTINF:-1,Radio_La_Brillante
+404 http://listen.shoutcast.com/radiolabrillante

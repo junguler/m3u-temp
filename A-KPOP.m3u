@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,Generacion_Kpop_Radio
+https://51.81.49.98:8242/stream
+#EXTINF:-1,Conexion_Kpop
+200 http://147.135.130.215:8148/stream
+#EXTINF:-1,West_Loves_East_Radio_Network
+200 https://cheetah.streemlion.com:3650/
+#EXTINF:-1,Velocity_Radio_-_Kpop_Classics
+200 http://cdn.velocityradio.us:7080/stream/1008/
+#EXTINF:-1,Starz_K-Pop
+200 http://62.210.204.2:8000/stream/18/
+#EXTINF:-1,OnlyHit_K-Pop
+301 http://stream.onlyhit.us:80/kpop_64
+#EXTINF:-1,CALMRADIO.COM_-_K_Pop
+200 http://23.82.11.89:22028/stream
+#EXTINF:-1,KPOP_Seattle
+200 https://sonic.radiostream.ca:9300/stream
+#EXTINF:-1,sone.tv_999_Radio
+200 http://65.21.61.215:8000/snsd999
+#EXTINF:-1,sone.tv_Girls_Generation_Radio
+200 http://65.21.61.215:8000/soneradio
+#EXTINF:-1,sone.tv_Taeyeon_Radio
+200 http://65.21.61.215:8000/taeyeonradio
+#EXTINF:-1,2GG
+200 http://65.21.61.215:8000/twogg
+#EXTINF:-1,C-afe_Pop
+302 http://listen.radionomy.com:80/c-afe-pop
+#EXTINF:-1,.113FM_Korean_Pop
+403 http://54.39.107.103:80/1789_128

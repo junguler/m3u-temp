@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,RajaRadio
+200 http://159.203.111.241:8026/stream
+#EXTINF:-1,OldGold_Radio
+200 http://159.203.111.241:8002/stream
+#EXTINF:-1,Tubetamilfm
+http://s2.voscast.com:12084
+#EXTINF:-1,TamilComedy_Radio
+200 http://159.203.111.241:8035/stream
+#EXTINF:-1,MaduraMalli_FM
+200 http://159.203.111.241:8030/stream
+#EXTINF:-1,Pollachi_FM
+200 http://104.200.16.182:8000/stream
+#EXTINF:-1,TamilKuyil-FM
+200 http://159.203.111.241:8095/stream
+#EXTINF:-1,Vallamaiyin_Alaikal_-_Tamil_Christian_Radio
+https://74.208.24.178:80/vallamai
+#EXTINF:-1,-::ThenralWorldRadio::-
+200 http://167.114.174.197:9116/stream
+#EXTINF:-1,Boom_Tamil
+200 https://s20.reliastream.com:8050/stream
+#EXTINF:-1,Endrendrum_Ilayaraja
+200 https://server.geetradio.com:8100/radio.mp3
+#EXTINF:-1,90s_Hits_Radio_VanavilFM
+200 https://s7.yesstreaming.net:8062/stream
+#EXTINF:-1,Geet_Radio_-_Tamil_24/7_Music_Station
+200 https://server.geetradio.com:8030/radio.mp3
+#EXTINF:-1,Inbathamil
+http://51.161.117.116:4626/stream
+#EXTINF:-1,TamilRagam
+200 http://65.109.81.84:8453/stream
+#EXTINF:-1,ETR.FM
+200 http://138.201.198.218:8054/stream
+#EXTINF:-1,Ar_Rahman_Radio
+200 https://s7.yesstreaming.net:8038/stream
+#EXTINF:-1,Radio_Maestro
+200 https://s7.yesstreaming.net:8092/stream
+#EXTINF:-1,Vanavil_Hits_Radio
+200 https://s7.yesstreaming.net:8094/stream
+#EXTINF:-1,Golden_Vanavil
+200 https://s7.yesstreaming.net:8060/stream
+#EXTINF:-1,Ever_Green_Vanavil
+200 https://s7.yesstreaming.net:8036/stream
+#EXTINF:-1,ClubHouse_TSR.LIVE_Tamil_80s
+https://94.130.16.37:8026/stream
+#EXTINF:-1,Chellam_FM
+200 http://94.23.30.114:8075/stream
+#EXTINF:-1,Ezhisai_FM
+404 http://listen.shoutcast.com/ezhisaifm
+#EXTINF:-1,UMACHI_FM
+404 http://listen.shoutcast.com/umachifm
+#EXTINF:-1,MUKIL_FM_RADIO
+404 http://listen.shoutcast.com/mukilfmradio

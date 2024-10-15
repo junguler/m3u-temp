@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,AFFIRM_SOUTHERN_GOSPEL_RADIO
+302 http://listen.shoutcast.com:80/AffirmSouthernGospelRadio
+#EXTINF:-1,Maritime_Gospel_radio
+200 http://108.62.0.141:7232/stream
+#EXTINF:-1,VSC_RADIO_LIVE
+200 http://195.154.174.198:8120/stream
+#EXTINF:-1,wsgo
+302 http://listen.radionomy.com:80/wsgo

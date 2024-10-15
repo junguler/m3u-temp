@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,OK_PLUS_Radio
+200 https://stream.okplus.rs:8000/radio.mp3
+#EXTINF:-1,Constellations_Radio
+200 https://usa19.fastcast4u.com:6640/
+#EXTINF:-1,24-7_Serene
+200 http://31.132.6.142:4352/stream
+#EXTINF:-1,Montreal's_Soft_Rock
+200 http://159.203.7.159:8018/stream
+#EXTINF:-1,RADIO_DIMENSIONE_MIX
+200 https://cast1.torontocast.com:1830/
+#EXTINF:-1,Euroradio.fm_Soft_Rock
+200 http://217.182.176.137:8000/euroradio3
+#EXTINF:-1,Greca_Entexno
+200 http://54.36.166.4:8182/stream
+#EXTINF:-1,100.1_The_Eagle
+200 http://69.162.75.218:8602/stream
+#EXTINF:-1,PC_Music_Radio
+200 http://161.97.144.188:14104
+#EXTINF:-1,LolliRadio_Soft
+200 https://stream.lolliradio.net:443/lolli_soft.aac
+#EXTINF:-1,DJDB_Rocks!
+200 http://65.108.120.179:7145/stream
+#EXTINF:-1,FLORIDA_SOFT_ROCK
+302 http://listen.radionomy.com:80/florida-soft-rock
+#EXTINF:-1,Retro_HIT_Radio
+404 http://listen.shoutcast.com/retro-hit-radio
+#EXTINF:-1,Nh?c_H?_Quang_Hi?u
+404 http://listen.shoutcast.com/nhachoquanghieu
+#EXTINF:-1,Candi's
+404 http://listen.shoutcast.com/candi-s

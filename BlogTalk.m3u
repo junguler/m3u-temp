@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Payphone_Radio_Network
+http://104.167.4.67:8136/stream
+#EXTINF:-1,Showertime,From_WSBJ.com
+http://151.80.44.127:8060/stream
+#EXTINF:-1,Talk_Central_Radio
+http://195.154.174.198:8037/stream
+#EXTINF:-1,All_Things_Elon
+http://listen.radionomy.com:80/all-things-elon

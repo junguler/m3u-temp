@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in \?page={56..255} ; do for j in $(cat languages.txt) ; do curl -s https://online-radio.eu/language/$j$i | ./htmlq -a href a | grep "/radio/" | cut -c31- >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          for i in AA-*.txt ; do for j in $(cat $i) ; do curl -s https://online-radio.eu/export/winamp/$j | grep "Title\|File" | sed 's/File1\=//g' | sed 's/Title1\=/#EXTINF:-1,/g' | sed 's/\;//g' >> A$i ; echo -e "$j - $i" ; done ; done
 
       - name: git stuff
         run: |

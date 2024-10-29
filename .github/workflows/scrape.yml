@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in page/{88..167}/ ; do for j in $(cat genres.txt) ; do curl -s https://www.allonlineradio.com/tag/$j/$i | ./htmlq -r .trending-ads .tab-content -a href a | grep -v "tag" | awk -F '/' '{print $4}' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          for i in page/{168..200}/ ; do for j in $(cat genres.txt) ; do curl -s https://www.allonlineradio.com/tag/$j/$i | ./htmlq -r .trending-ads .tab-content -a href a | grep -v "tag" | awk -F '/' '{print $4}' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: git stuff
         run: |

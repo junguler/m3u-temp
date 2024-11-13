@@ -1,0 +1,133 @@
+Script started on 2024-11-13 19:05:29+03:30 [COMMAND="git pull" TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="141" LINES="13"]
+remote: Enumerating objects: 63, done.[K
+remote: Counting objects:   1% (1/63)[Kremote: Counting objects:   3% (2/63)[Kremote: Counting objects:   4% (3/63)[Kremote: Counting objects:   6% (4/63)[Kremote: Counting objects:   7% (5/63)[Kremote: Counting objects:   9% (6/63)[Kremote: Counting objects:  11% (7/63)[Kremote: Counting objects:  12% (8/63)[Kremote: Counting objects:  14% (9/63)[Kremote: Counting objects:  15% (10/63)[Kremote: Counting objects:  17% (11/63)[Kremote: Counting objects:  19% (12/63)[Kremote: Counting objects:  20% (13/63)[Kremote: Counting objects:  22% (14/63)[Kremote: Counting objects:  23% (15/63)[Kremote: Counting objects:  25% (16/63)[Kremote: Counting objects:  26% (17/63)[Kremote: Counting objects:  28% (18/63)[Kremote: Counting objects:  30% (19/63)[Kremote: Counting objects:  31% (20/63)[Kremote: Counting objects:  33% (21/63)[Kremote: Counting objects:  34% (22/63)[Kremote: Counting objects:  36% (23/63)[Kremote: Counting objects:  38% (24/63)[Kremote: Counting objects:  39% (25/63)[Kremote: Counting objects:  41% (26/63)[Kremote: Counting objects:  42% (27/63)[Kremote: Counting objects:  44% (28/63)[Kremote: Counting objects:  46% (29/63)[Kremote: Counting objects:  47% (30/63)[Kremote: Counting objects:  49% (31/63)[Kremote: Counting objects:  50% (32/63)[Kremote: Counting objects:  52% (33/63)[Kremote: Counting objects:  53% (34/63)[Kremote: Counting objects:  55% (35/63)[Kremote: Counting objects:  57% (36/63)[Kremote: Counting objects:  58% (37/63)[Kremote: Counting objects:  60% (38/63)[Kremote: Counting objects:  61% (39/63)[Kremote: Counting objects:  63% (40/63)[Kremote: Counting objects:  65% (41/63)[Kremote: Counting objects:  66% (42/63)[Kremote: Counting objects:  68% (43/63)[Kremote: Counting objects:  69% (44/63)[Kremote: Counting objects:  71% (45/63)[Kremote: Counting objects:  73% (46/63)[Kremote: Counting objects:  74% (47/63)[Kremote: Counting objects:  76% (48/63)[Kremote: Counting objects:  77% (49/63)[Kremote: Counting objects:  79% (50/63)[Kremote: Counting objects:  80% (51/63)[Kremote: Counting objects:  82% (52/63)[Kremote: Counting objects:  84% (53/63)[Kremote: Counting objects:  85% (54/63)[Kremote: Counting objects:  87% (55/63)[Kremote: Counting objects:  88% (56/63)[Kremote: Counting objects:  90% (57/63)[Kremote: Counting objects:  92% (58/63)[Kremote: Counting objects:  93% (59/63)[Kremote: Counting objects:  95% (60/63)[Kremote: Counting objects:  96% (61/63)[Kremote: Counting objects:  98% (62/63)[Kremote: Counting objects: 100% (63/63)[Kremote: Counting objects: 100% (63/63), done.[K
+remote: Compressing objects:   1% (1/62)[Kremote: Compressing objects:   3% (2/62)[Kremote: Compressing objects:   4% (3/62)[Kremote: Compressing objects:   6% (4/62)[Kremote: Compressing objects:   8% (5/62)[Kremote: Compressing objects:   9% (6/62)[Kremote: Compressing objects:  11% (7/62)[Kremote: Compressing objects:  12% (8/62)[Kremote: Compressing objects:  14% (9/62)[Kremote: Compressing objects:  16% (10/62)[Kremote: Compressing objects:  17% (11/62)[Kremote: Compressing objects:  19% (12/62)[Kremote: Compressing objects:  20% (13/62)[Kremote: Compressing objects:  22% (14/62)[Kremote: Compressing objects:  24% (15/62)[Kremote: Compressing objects:  25% (16/62)[Kremote: Compressing objects:  27% (17/62)[Kremote: Compressing objects:  29% (18/62)[Kremote: Compressing objects:  30% (19/62)[Kremote: Compressing objects:  32% (20/62)[Kremote: Compressing objects:  33% (21/62)[Kremote: Compressing objects:  35% (22/62)[Kremote: Compressing objects:  37% (23/62)[Kremote: Compressing objects:  38% (24/62)[Kremote: Compressing objects:  40% (25/62)[Kremote: Compressing objects:  41% (26/62)[Kremote: Compressing objects:  43% (27/62)[Kremote: Compressing objects:  45% (28/62)[Kremote: Compressing objects:  46% (29/62)[Kremote: Compressing objects:  48% (30/62)[Kremote: Compressing objects:  50% (31/62)[Kremote: Compressing objects:  51% (32/62)[Kremote: Compressing objects:  53% (33/62)[Kremote: Compressing objects:  54% (34/62)[Kremote: Compressing objects:  56% (35/62)[Kremote: Compressing objects:  58% (36/62)[Kremote: Compressing objects:  59% (37/62)[Kremote: Compressing objects:  61% (38/62)[Kremote: Compressing objects:  62% (39/62)[Kremote: Compressing objects:  64% (40/62)[Kremote: Compressing objects:  66% (41/62)[Kremote: Compressing objects:  67% (42/62)[Kremote: Compressing objects:  69% (43/62)[Kremote: Compressing objects:  70% (44/62)[Kremote: Compressing objects:  72% (45/62)[Kremote: Compressing objects:  74% (46/62)[Kremote: Compressing objects:  75% (47/62)[Kremote: Compressing objects:  77% (48/62)[Kremote: Compressing objects:  79% (49/62)[Kremote: Compressing objects:  80% (50/62)[Kremote: Compressing objects:  82% (51/62)[Kremote: Compressing objects:  83% (52/62)[Kremote: Compressing objects:  85% (53/62)[Kremote: Compressing objects:  87% (54/62)[Kremote: Compressing objects:  88% (55/62)[Kremote: Compressing objects:  90% (56/62)[Kremote: Compressing objects:  91% (57/62)[Kremote: Compressing objects:  93% (58/62)[Kremote: Compressing objects:  95% (59/62)[Kremote: Compressing objects:  96% (60/62)[Kremote: Compressing objects:  98% (61/62)[Kremote: Compressing objects: 100% (62/62)[Kremote: Compressing objects: 100% (62/62), done.[K
+Unpacking objects:   1% (1/62)Unpacking objects:   3% (2/62)Unpacking objects:   4% (3/62)Unpacking objects:   6% (4/62)Unpacking objects:   8% (5/62)Unpacking objects:   9% (6/62)Unpacking objects:  11% (7/62)Unpacking objects:  12% (8/62)Unpacking objects:  14% (9/62)Unpacking objects:  16% (10/62)Unpacking objects:  17% (11/62)Unpacking objects:  19% (12/62)Unpacking objects:  20% (13/62)Unpacking objects:  22% (14/62)Unpacking objects:  24% (15/62)Unpacking objects:  25% (16/62)Unpacking objects:  27% (17/62)Unpacking objects:  29% (18/62)Unpacking objects:  30% (19/62)Unpacking objects:  32% (20/62)Unpacking objects:  33% (21/62)remote: Total 62 (delta 0), reused 62 (delta 0), pack-reused 0 (from 0)[K
+Unpacking objects:  35% (22/62)Unpacking objects:  37% (23/62)Unpacking objects:  38% (24/62)Unpacking objects:  40% (25/62)Unpacking objects:  41% (26/62)Unpacking objects:  43% (27/62)Unpacking objects:  45% (28/62)Unpacking objects:  46% (29/62)Unpacking objects:  48% (30/62)Unpacking objects:  50% (31/62)Unpacking objects:  51% (32/62)Unpacking objects:  53% (33/62)Unpacking objects:  54% (34/62)Unpacking objects:  56% (35/62)Unpacking objects:  58% (36/62)Unpacking objects:  59% (37/62)Unpacking objects:  61% (38/62)Unpacking objects:  62% (39/62)Unpacking objects:  64% (40/62)Unpacking objects:  66% (41/62)Unpacking objects:  67% (42/62)Unpacking objects:  69% (43/62)Unpacking objects:  70% (44/62)Unpacking objects:  72% (45/62)Unpacking objects:  74% (46/62)Unpacking objects:  75% (47/62)Unpacking objects:  77% (48/62)Unpacking objects:  79% (49/62)Unpacking objects:  80% (50/62)Unpacking objects:  82% (51/62)Unpacking objects:  83% (52/62)Unpacking objects:  85% (53/62)Unpacking objects:  87% (54/62)Unpacking objects:  88% (55/62)Unpacking objects:  90% (56/62)Unpacking objects:  91% (57/62)Unpacking objects:  93% (58/62)Unpacking objects:  95% (59/62)Unpacking objects:  96% (60/62)Unpacking objects:  98% (61/62)Unpacking objects: 100% (62/62)Unpacking objects: 100% (62/62), 47.17 KiB | 513.00 KiB/s, done.
+From https://github.com/junguler/m3u-temp
+   20a7cf9d6..f543dceb2  main       -> origin/main
+Updating 20a7cf9d6..f543dceb2
+Fast-forward
+ A-alabama.txt                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-antioquia.txt              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-aragon.txt                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-arizona.txt                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-attica.txt                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-auvergne-rhone-alpes.txt   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-baden-wurttemberg.txt      | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-bahia.txt                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-bavaria.txt                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-berlin.txt                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-bogota-dc.txt              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-brandenburg.txt            |  95 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-buenos-aires-fd.txt        | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-california.txt             | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-catalonia.txt              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-ceara.txt                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-colorado.txt               | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-england.txt                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-flanders.txt               | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-florida-us.txt             | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-georgia.txt                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-goias.txt                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-harjumaa.txt               |  97 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-ile-de-france.txt          | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-illinois.txt               | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-indiana.txt                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-lazio.txt                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-lima.txt                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-lombardy.txt               | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-lower-saxony.txt           | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-madrid.txt                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-mexico-city.txt            | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-michigan.txt               | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-minas-gerais.txt           | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-minnesota.txt              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-missouri.txt               | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-new-york.txt               | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-north-carolina.txt         | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-north-holland.txt          | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-north-rhine-westphalia.txt | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-ohio.txt                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-ontario.txt                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-paraiba.txt                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-parana.txt                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-pennsylvania.txt           | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-pernambuco.txt             | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-quebec.txt                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-rheinland-pfalz.txt        | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-rio-de-janeiro.txt         | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-rio-grande-do-sul.txt      | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-santa-catarina-br.txt      | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-santiago-metropolitan.txt  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-sao-paulo.txt              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-sofia-capital.txt          | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-south-moravian.txt         |  70 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-tennessee.txt              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-texas.txt                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-virginia.txt               | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-washington-dc.txt          | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-wisconsin.txt              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 60 files changed, 5962 insertions(+)
+ create mode 100644 A-alabama.txt
+ create mode 100644 A-antioquia.txt
+ create mode 100644 A-aragon.txt
+ create mode 100644 A-arizona.txt
+ create mode 100644 A-attica.txt
+ create mode 100644 A-auvergne-rhone-alpes.txt
+ create mode 100644 A-baden-wurttemberg.txt
+ create mode 100644 A-bahia.txt
+ create mode 100644 A-bavaria.txt
+ create mode 100644 A-berlin.txt
+ create mode 100644 A-bogota-dc.txt
+ create mode 100644 A-brandenburg.txt
+ create mode 100644 A-buenos-aires-fd.txt
+ create mode 100644 A-california.txt
+ create mode 100644 A-catalonia.txt
+ create mode 100644 A-ceara.txt
+ create mode 100644 A-colorado.txt
+ create mode 100644 A-england.txt
+ create mode 100644 A-flanders.txt
+ create mode 100644 A-florida-us.txt
+ create mode 100644 A-georgia.txt
+ create mode 100644 A-goias.txt
+ create mode 100644 A-harjumaa.txt
+ create mode 100644 A-ile-de-france.txt
+ create mode 100644 A-illinois.txt
+ create mode 100644 A-indiana.txt
+ create mode 100644 A-lazio.txt
+ create mode 100644 A-lima.txt
+ create mode 100644 A-lombardy.txt
+ create mode 100644 A-lower-saxony.txt
+ create mode 100644 A-madrid.txt
+ create mode 100644 A-mexico-city.txt
+ create mode 100644 A-michigan.txt
+ create mode 100644 A-minas-gerais.txt
+ create mode 100644 A-minnesota.txt
+ create mode 100644 A-missouri.txt
+ create mode 100644 A-new-york.txt
+ create mode 100644 A-north-carolina.txt
+ create mode 100644 A-north-holland.txt
+ create mode 100644 A-north-rhine-westphalia.txt
+ create mode 100644 A-ohio.txt
+ create mode 100644 A-ontario.txt
+ create mode 100644 A-paraiba.txt
+ create mode 100644 A-parana.txt
+ create mode 100644 A-pennsylvania.txt
+ create mode 100644 A-pernambuco.txt
+ create mode 100644 A-quebec.txt
+ create mode 100644 A-rheinland-pfalz.txt
+ create mode 100644 A-rio-de-janeiro.txt
+ create mode 100644 A-rio-grande-do-sul.txt
+ create mode 100644 A-santa-catarina-br.txt
+ create mode 100644 A-santiago-metropolitan.txt
+ create mode 100644 A-sao-paulo.txt
+ create mode 100644 A-sofia-capital.txt
+ create mode 100644 A-south-moravian.txt
+ create mode 100644 A-tennessee.txt
+ create mode 100644 A-texas.txt
+ create mode 100644 A-virginia.txt
+ create mode 100644 A-washington-dc.txt
+ create mode 100644 A-wisconsin.txt
+
+Script done on 2024-11-13 19:05:35+03:30 [COMMAND_EXIT_CODE="0"]

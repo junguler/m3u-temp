@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in \?page={196..295} ; do for j in $(cat countries.txt) ; do curl -s https://kuasark.com/en/countries/$j/$i | ./htmlq -a href .list-view a | grep stations | awk -F '/' '{print $4}' >> A-$j.txt ; echo "$j - $i" ; done ; done
+          for i in \?page={296..395} ; do for j in $(cat countries.txt) ; do curl -s https://kuasark.com/en/countries/$j/$i | ./htmlq -a href .list-view a | grep stations | awk -F '/' '{print $4}' >> A-$j.txt ; echo "$j - $i" ; done ; done
 
       - name: git stuff
         run: |

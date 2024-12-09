@@ -1,87 +1,0 @@
-Script started on 2024-12-09 21:49:34+03:30 [COMMAND="git pull" TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="141" LINES="13"]
-remote: Enumerating objects: 151, done.[K
-remote: Counting objects:   0% (1/151)[Kremote: Counting objects:   1% (2/151)[Kremote: Counting objects:   2% (4/151)[Kremote: Counting objects:   3% (5/151)[Kremote: Counting objects:   4% (7/151)[Kremote: Counting objects:   5% (8/151)[Kremote: Counting objects:   6% (10/151)[Kremote: Counting objects:   7% (11/151)[Kremote: Counting objects:   8% (13/151)[Kremote: Counting objects:   9% (14/151)[Kremote: Counting objects:  10% (16/151)[Kremote: Counting objects:  11% (17/151)[Kremote: Counting objects:  12% (19/151)[Kremote: Counting objects:  13% (20/151)[Kremote: Counting objects:  14% (22/151)[Kremote: Counting objects:  15% (23/151)[Kremote: Counting objects:  16% (25/151)[Kremote: Counting objects:  17% (26/151)[Kremote: Counting objects:  18% (28/151)[Kremote: Counting objects:  19% (29/151)[Kremote: Counting objects:  20% (31/151)[Kremote: Counting objects:  21% (32/151)[Kremote: Counting objects:  22% (34/151)[Kremote: Counting objects:  23% (35/151)[Kremote: Counting objects:  24% (37/151)[Kremote: Counting objects:  25% (38/151)[Kremote: Counting objects:  26% (40/151)[Kremote: Counting objects:  27% (41/151)[Kremote: Counting objects:  28% (43/151)[Kremote: Counting objects:  29% (44/151)[Kremote: Counting objects:  30% (46/151)[Kremote: Counting objects:  31% (47/151)[Kremote: Counting objects:  32% (49/151)[Kremote: Counting objects:  33% (50/151)[Kremote: Counting objects:  34% (52/151)[Kremote: Counting objects:  35% (53/151)[Kremote: Counting objects:  36% (55/151)[Kremote: Counting objects:  37% (56/151)[Kremote: Counting objects:  38% (58/151)[Kremote: Counting objects:  39% (59/151)[Kremote: Counting objects:  40% (61/151)[Kremote: Counting objects:  41% (62/151)[Kremote: Counting objects:  42% (64/151)[Kremote: Counting objects:  43% (65/151)[Kremote: Counting objects:  44% (67/151)[Kremote: Counting objects:  45% (68/151)[Kremote: Counting objects:  46% (70/151)[Kremote: Counting objects:  47% (71/151)[Kremote: Counting objects:  48% (73/151)[Kremote: Counting objects:  49% (74/151)[Kremote: Counting objects:  50% (76/151)[Kremote: Counting objects:  51% (78/151)[Kremote: Counting objects:  52% (79/151)[Kremote: Counting objects:  53% (81/151)[Kremote: Counting objects:  54% (82/151)[Kremote: Counting objects:  55% (84/151)[Kremote: Counting objects:  56% (85/151)[Kremote: Counting objects:  57% (87/151)[Kremote: Counting objects:  58% (88/151)[Kremote: Counting objects:  59% (90/151)[Kremote: Counting objects:  60% (91/151)[Kremote: Counting objects:  61% (93/151)[Kremote: Counting objects:  62% (94/151)[Kremote: Counting objects:  63% (96/151)[Kremote: Counting objects:  64% (97/151)[Kremote: Counting objects:  65% (99/151)[Kremote: Counting objects:  66% (100/151)[Kremote: Counting objects:  67% (102/151)[Kremote: Counting objects:  68% (103/151)[Kremote: Counting objects:  69% (105/151)[Kremote: Counting objects:  70% (106/151)[Kremote: Counting objects:  71% (108/151)[Kremote: Counting objects:  72% (109/151)[Kremote: Counting objects:  73% (111/151)[Kremote: Counting objects:  74% (112/151)[Kremote: Counting objects:  75% (114/151)[Kremote: Counting objects:  76% (115/151)[Kremote: Counting objects:  77% (117/151)[Kremote: Counting objects:  78% (118/151)[Kremote: Counting objects:  79% (120/151)[Kremote: Counting objects:  80% (121/151)[Kremote: Counting objects:  81% (123/151)[Kremote: Counting objects:  82% (124/151)[Kremote: Counting objects:  83% (126/151)[Kremote: Counting objects:  84% (127/151)[Kremote: Counting objects:  85% (129/151)[Kremote: Counting objects:  86% (130/151)[Kremote: Counting objects:  87% (132/151)[Kremote: Counting objects:  88% (133/151)[Kremote: Counting objects:  89% (135/151)[Kremote: Counting objects:  90% (136/151)[Kremote: Counting objects:  91% (138/151)[Kremote: Counting objects:  92% (139/151)[Kremote: Counting objects:  93% (141/151)[Kremote: Counting objects:  94% (142/151)[Kremote: Counting objects:  95% (144/151)[Kremote: Counting objects:  96% (145/151)[Kremote: Counting objects:  97% (147/151)[Kremote: Counting objects:  98% (148/151)[Kremote: Counting objects:  99% (150/151)[Kremote: Counting objects: 100% (151/151)[Kremote: Counting objects: 100% (151/151), done.[K
-remote: Compressing objects: 100% (1/1)[Kremote: Compressing objects: 100% (1/1), done.[K
-remote: Total 76 (delta 75), reused 76 (delta 75), pack-reused 0 (from 0)[K
-Unpacking objects:   1% (1/76)Unpacking objects:   2% (2/76)Unpacking objects:   3% (3/76)Unpacking objects:   5% (4/76)Unpacking objects:   6% (5/76)Unpacking objects:   7% (6/76)Unpacking objects:   9% (7/76)Unpacking objects:  10% (8/76)Unpacking objects:  11% (9/76)Unpacking objects:  13% (10/76)Unpacking objects:  14% (11/76)Unpacking objects:  15% (12/76)Unpacking objects:  17% (13/76)Unpacking objects:  18% (14/76)Unpacking objects:  19% (15/76)Unpacking objects:  21% (16/76)Unpacking objects:  22% (17/76)Unpacking objects:  23% (18/76)Unpacking objects:  25% (19/76)Unpacking objects:  26% (20/76)Unpacking objects:  27% (21/76)Unpacking objects:  28% (22/76)Unpacking objects:  30% (23/76)Unpacking objects:  31% (24/76)Unpacking objects:  32% (25/76)Unpacking objects:  34% (26/76)Unpacking objects:  35% (27/76)Unpacking objects:  36% (28/76)Unpacking objects:  38% (29/76)Unpacking objects:  39% (30/76)Unpacking objects:  40% (31/76)Unpacking objects:  42% (32/76)Unpacking objects:  43% (33/76)Unpacking objects:  44% (34/76)Unpacking objects:  46% (35/76)Unpacking objects:  47% (36/76)Unpacking objects:  48% (37/76)Unpacking objects:  50% (38/76)Unpacking objects:  51% (39/76)Unpacking objects:  52% (40/76)Unpacking objects:  53% (41/76)Unpacking objects:  55% (42/76)Unpacking objects:  56% (43/76)Unpacking objects:  57% (44/76)Unpacking objects:  59% (45/76)Unpacking objects:  60% (46/76)Unpacking objects:  61% (47/76)Unpacking objects:  63% (48/76)Unpacking objects:  64% (49/76)Unpacking objects:  65% (50/76)Unpacking objects:  67% (51/76)Unpacking objects:  68% (52/76)Unpacking objects:  69% (53/76)Unpacking objects:  71% (54/76)Unpacking objects:  72% (55/76)Unpacking objects:  73% (56/76)Unpacking objects:  75% (57/76)Unpacking objects:  76% (58/76)Unpacking objects:  77% (59/76)Unpacking objects:  78% (60/76)Unpacking objects:  80% (61/76)Unpacking objects:  81% (62/76)Unpacking objects:  82% (63/76)Unpacking objects:  84% (64/76)Unpacking objects:  85% (65/76)Unpacking objects:  86% (66/76)Unpacking objects:  88% (67/76)Unpacking objects:  89% (68/76)Unpacking objects:  90% (69/76)Unpacking objects:  92% (70/76)Unpacking objects:  93% (71/76)Unpacking objects:  94% (72/76)Unpacking objects:  96% (73/76)Unpacking objects:  97% (74/76)Unpacking objects:  98% (75/76)Unpacking objects: 100% (76/76)Unpacking objects: 100% (76/76), 16.80 KiB | 123.00 KiB/s, done.
-From https://github.com/junguler/m3u-temp
-   9049c193a..843ad636e  main       -> origin/main
-Updating 9049c193a..843ad636e
-Fast-forward
- A-00s.txt                | 20 [32m++++++++++++++++++++[m
- A-50s.txt                | 20 [32m++++++++++++++++++++[m
- A-60s.txt                | 20 [32m++++++++++++++++++++[m
- A-70s.txt                | 20 [32m++++++++++++++++++++[m
- A-80s.txt                | 20 [32m++++++++++++++++++++[m
- A-90s.txt                | 20 [32m++++++++++++++++++++[m
- A-adult-contemporary.txt | 20 [32m++++++++++++++++++++[m
- A-alternative-rock.txt   | 20 [32m++++++++++++++++++++[m
- A-alternative.txt        | 20 [32m++++++++++++++++++++[m
- A-bachata.txt            | 20 [32m++++++++++++++++++++[m
- A-balada.txt             | 20 [32m++++++++++++++++++++[m
- A-blues.txt              | 20 [32m++++++++++++++++++++[m
- A-brazilian.txt          | 20 [32m++++++++++++++++++++[m
- A-chill-out.txt          | 20 [32m++++++++++++++++++++[m
- A-christian.txt          | 20 [32m++++++++++++++++++++[m
- A-classic-rock.txt       | 20 [32m++++++++++++++++++++[m
- A-classic.txt            | 20 [32m++++++++++++++++++++[m
- A-club.txt               | 18 [32m++++++++++++++++++[m
- A-community.txt          | 20 [32m++++++++++++++++++++[m
- A-country.txt            | 20 [32m++++++++++++++++++++[m
- A-culture.txt            | 20 [32m++++++++++++++++++++[m
- A-cumbia.txt             | 20 [32m++++++++++++++++++++[m
- A-dance.txt              | 20 [32m++++++++++++++++++++[m
- A-deep-house.txt         | 20 [32m++++++++++++++++++++[m
- A-disco.txt              | 20 [32m++++++++++++++++++++[m
- A-easy-listening.txt     | 20 [32m++++++++++++++++++++[m
- A-eclectic.txt           | 20 [32m++++++++++++++++++++[m
- A-education.txt          | 20 [32m++++++++++++++++++++[m
- A-electronic.txt         | 20 [32m++++++++++++++++++++[m
- A-emergency.txt          | 20 [32m++++++++++++++++++++[m
- A-entertainment.txt      | 20 [32m++++++++++++++++++++[m
- A-folk.txt               | 20 [32m++++++++++++++++++++[m
- A-funk.txt               | 20 [32m++++++++++++++++++++[m
- A-gospel.txt             | 20 [32m++++++++++++++++++++[m
- A-greek.txt              | 20 [32m++++++++++++++++++++[m
- A-grupera.txt            | 20 [32m++++++++++++++++++++[m
- A-hard-rock.txt          | 20 [32m++++++++++++++++++++[m
- A-hip-hop.txt            | 20 [32m++++++++++++++++++++[m
- A-hits.txt               | 20 [32m++++++++++++++++++++[m
- A-house.txt              | 20 [32m++++++++++++++++++++[m
- A-indie.txt              | 20 [32m++++++++++++++++++++[m
- A-italian.txt            | 20 [32m++++++++++++++++++++[m
- A-jazz.txt               | 20 [32m++++++++++++++++++++[m
- A-latin.txt              | 20 [32m++++++++++++++++++++[m
- A-lounge.txt             | 20 [32m++++++++++++++++++++[m
- A-merengue.txt           | 20 [32m++++++++++++++++++++[m
- A-metal.txt              | 20 [32m++++++++++++++++++++[m
- A-mexican.txt            | 20 [32m++++++++++++++++++++[m
- A-news.txt               | 20 [32m++++++++++++++++++++[m
- A-oldies.txt             | 20 [32m++++++++++++++++++++[m
- A-police.txt             | 20 [32m++++++++++++++++++++[m
- A-pop.txt                | 20 [32m++++++++++++++++++++[m
- A-punk.txt               | 20 [32m++++++++++++++++++++[m
- A-r-n-b.txt              | 20 [32m++++++++++++++++++++[m
- A-ranchera.txt           | 20 [32m++++++++++++++++++++[m
- A-rap.txt                | 20 [32m++++++++++++++++++++[m
- A-reggae.txt             | 20 [32m++++++++++++++++++++[m
- A-reggaeton.txt          | 20 [32m++++++++++++++++++++[m
- A-retro.txt              | 20 [32m++++++++++++++++++++[m
- A-rock.txt               | 20 [32m++++++++++++++++++++[m
- A-romantic.txt           | 20 [32m++++++++++++++++++++[m
- A-salsa.txt              | 20 [32m++++++++++++++++++++[m
- A-sertaneja.txt          | 20 [32m++++++++++++++++++++[m
- A-soul.txt               | 20 [32m++++++++++++++++++++[m
- A-spanish.txt            | 20 [32m++++++++++++++++++++[m
- A-sports.txt             | 20 [32m++++++++++++++++++++[m
- A-talk.txt               | 20 [32m++++++++++++++++++++[m
- A-techno.txt             | 20 [32m++++++++++++++++++++[m
- A-top40.txt              | 20 [32m++++++++++++++++++++[m
- A-trance.txt             | 20 [32m++++++++++++++++++++[m
- A-turkish.txt            | 20 [32m++++++++++++++++++++[m
- A-urban.txt              | 12 [32m++++++++++++[m
- A-vallenato.txt          | 20 [32m++++++++++++++++++++[m
- A-variety.txt            | 20 [32m++++++++++++++++++++[m
- 74 files changed, 1470 insertions(+)
-
-Script done on 2024-12-09 21:49:39+03:30 [COMMAND_EXIT_CODE="0"]

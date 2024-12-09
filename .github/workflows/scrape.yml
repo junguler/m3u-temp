@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://kuasark.com/en/stations/$j/ | grep -A1 'data-path=' | awk -F '"' '{print $2}' | tac | awk 'NR==1 {$0="#EXTINF:-1," $0} 1' | sed 's/\\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
+          for i in "" \?page={2..5} ; do for j in $(cat genres.txt) ; do curl -s https://radiomixer.net/en/genre/$j$i | ./htmlq .col-md -a href a | uniq | grep -v 'page=' | awk -F '/' '{print $5"/"$6}' | grep -E '.+/[^/]+' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: git stuff
         run: |

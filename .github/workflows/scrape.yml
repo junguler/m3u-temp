@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in "" \?page=21 ; do for j in $(cat genres.txt) ; do curl -s https://radiomixer.net/en/genre/$j$i | htmlq .col-md -a href a | uniq | grep -v 'page=' | awk -F '/' '{print $5"/"$6}' | grep -E '.+/[^/]+' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          for j in $(cat genres.txt) ; do curl -s https://radiomixer.net/en/genre/$j?page=21 | htmlq .col-md -a href a | uniq | grep -v 'page=' | awk -F '/' '{print $5"/"$6}' | grep -E '.+/[^/]+' >> A-$j.txt ; echo -e $j ; done
 
       - name: git stuff
         run: |

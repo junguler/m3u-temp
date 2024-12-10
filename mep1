@@ -1,0 +1,642 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+        <title>myNoise Zen Radio - Belgium, Brussels listen live online with RadioMixer</title>
+        <link rel="preconnect" href="https://aixcdn.com">
+    <link rel="preconnect" href="https://adservice.google.com">
+    <link rel="preconnect" href="https://tpc.googlesyndication.com">
+
+
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://www.google-analytics.com">
+
+
+        <style>@charset "UTF-8";:root{--primary-color:#d11eb3;--body-bg:#fff;--body-color:#222;--theme-color:#1c174d;--muted-text-color:#666;--panel-border-color:#e6e6e6}@media (prefers-color-scheme:dark){:root{--primary-color:#dd3dc2;--body-bg:#181818;--body-color:#fff;--theme-color:#181818;--muted-text-color:hsla(0,0%,100%,.7);--panel-border-color:hsla(0,0%,100%,.1)}}*{box-sizing:border-box}html{touch-action:manipulation}body{-webkit-font-smoothing:antialiased;background-color:var(--body-bg);color:var(--body-color);font-family:Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;font-size:16px;line-height:1.25;margin:0;overflow-y:scroll;text-rendering:optimizeLegibility}a{color:var(--primary-color);text-decoration:none}.noscroll{overflow:hidden}.text-muted{color:var(--muted-text-color)}.responsive-figure{position:relative}.responsive-figure .responsive-sizer{padding-bottom:56%}.responsive-figure iframe,.responsive-figure img{bottom:0;height:100%;left:0;position:absolute;right:0;top:0;width:100%}.container{margin:0 auto;max-width:1000px}@media (max-width:692px){.container{max-width:100vw;overflow:hidden}}.row:after{clear:both;content:" ";display:table}.row .col-md,.row .col-sm,.row .col-xs{float:left}.row .col-md,.row .col-sm{width:100%}.row .col-xs{width:50%}@media (min-width:1000px){.row .col-sm{width:33.33%}.row .col-md{width:66.66%}}@media (min-width:692px) and (max-width:999px){.row .col-sm{width:50%}.row .col-md{width:100%}}@media (min-width:692px){.row .col-md,.row .col-sm{padding:0 16px}}main{padding:8px 16px}.navbar{background-color:var(--theme-color);border-bottom:1px solid var(--panel-border-color);height:64px;left:0;position:sticky;right:0;top:-1px;z-index:2147483647}.navbar .container{align-items:center;display:flex;flex-direction:row;height:100%;position:relative}@media (max-width:1430px){.navbar .container{padding-left:48px}}@media (min-width:1430px){.navbar .container{justify-content:center}}.navbar .hamburger{background:none;border:none;cursor:pointer;height:32px;left:16px;outline:0;padding:0;position:absolute;top:13px;width:32px}@media (min-width:1430px){.navbar .hamburger{display:none}}.navbar .hamburger span{background-color:#fff;border-radius:2px;display:block;height:3px;position:relative;transition:background-color .2s ease;width:32px}.navbar .hamburger span:after,.navbar .hamburger span:before{background-color:#fff;border-radius:2px;content:"";height:3px;left:0;position:absolute;right:0;transform-origin:center;transition:transform .25s ease;width:32px}.navbar .hamburger span:after{transform:translateY(-10px)}.navbar .hamburger span:before{transform:translateY(10px)}.footer{align-items:center;background-color:var(--theme-color);display:flex;justify-content:center;min-height:64px;z-index:1000}.footer .b_footermenu a{color:#aaa;display:inline-block;font-size:14px;margin:8px 16px}.footer .b_footermenu a:hover{text-decoration:underline}.footer .b_footermenu select{display:inline-block;margin:0 8px;padding:8px}@media (max-width:1000px){.footer .b_footermenu a,.footer .b_footermenu select{display:block;margin-bottom:24px;margin-top:24px}}.footer .logo,.navbar .logo{color:var(--primary-color);display:inline-block;font-size:24px;line-height:64px;margin:0 16px;padding-right:32px}.footer .logo strong,.navbar .logo strong{color:#fff}@media (max-width:325px){.footer .logo,.navbar .logo{font-size:21px}}.sidebar{background-color:var(--body-bg);border-right:1px solid var(--panel-border-color);bottom:0;display:flex;flex-direction:column;left:0;position:fixed;top:64px;transition:transform .45s cubic-bezier(.23,1,.32,1) 0ms;width:230px}@media (max-width:1550px){.sidebar{width:210px}}@media (max-width:1430px){.sidebar{transform:translateX(-100%);z-index:2147483647}}.sidebar .content{padding:8px 24px}.sidebar .content.scrollable{flex-grow:1;overflow-y:auto}.sidebar hr{background-color:var(--panel-border-color);border:none;height:1px}.sidebar .menuitem{color:var(--body-color);display:block;font-size:20px;font-weight:700;margin:20px 0}.sidebar .menuitem:hover{color:#d11eb3}.sidebar .menuitem:hover svg path{fill:#d11eb3}.sidebar .menuitem.dropdown a{color:var(--body-color)}.sidebar .menuitem.dropdown a:hover{color:#d11eb3}.sidebar .menuitem.dropdown .dropdown-btn:after{content:"‹";display:inline-block;margin-left:4px;transform:rotate(-90deg)}.sidebar .menuitem.dropdown .dropdown-content{display:none}.sidebar .menuitem.dropdown .dropdown-content .menuitem{font-size:16px;margin-left:16px}.sidebar .menuitem.dropdown.opened .dropdown-content{display:block}.sidebar .menuitem.dropdown.opened .dropdown-btn:after{transform:rotate(90deg)}.sidebar .menuitem svg{height:18px;margin-left:8px;vertical-align:middle;width:18px}.sidebar .menuitem svg path{fill:var(--body-color)}.sidebar select{display:block;padding:8px;width:100%}.sidebar label{display:block;margin:16px 0}.sidebar label select{margin-top:4px}.overlay{background-color:rgba(11,14,36,.5);height:100%;opacity:0;position:fixed;top:0;transform:translateX(-100%);transition:opacity .4s cubic-bezier(.23,1,.32,1) 0ms;width:100%;z-index:2}.sidebar-visible{overflow-y:hidden}.sidebar-visible .sidebar{transform:translateX(0)}.sidebar-visible .overlay{opacity:1;transform:translateX(0)}.sidebar-visible .hamburger span{background-color:transparent}.sidebar-visible .hamburger span:after{top:0;transform:rotate(45deg)}.sidebar-visible .hamburger span:before{bottom:0;transform:rotate(-45deg)}.sidebar-visible .navbar{position:fixed}.h1{font-size:24px}.h1 span{color:var(--muted-text-color);display:block;font-size:18px;font-weight:400;margin-bottom:4px}.h2{font-size:20px}.h3{font-size:16px;font-weight:700;margin-bottom:8px;margin-top:32px;text-transform:uppercase}.b_link,.h3{display:block}.b_link{margin-top:-8px}.b_station,.s{align-items:center;border-bottom:1px solid var(--panel-border-color);display:flex;justify-content:space-between;max-width:600px;min-height:96px;padding:8px 0;position:relative}.b_station:last-of-type,.s:last-of-type{border-bottom:none}.b_station .img,.s .img{display:block;flex-shrink:0;height:80px;position:relative;width:80px}.b_station .img img,.s .img img{height:80px;-o-object-fit:contain;object-fit:contain;width:80px}.b_station div,.s div{flex-grow:1;padding:4px 16px}.b_station div h3,.s div h3{font-size:1em;margin:0}.b_station div h3 a,.s div h3 a{color:var(--body-color)}.b_station div h3 a:hover,.s div h3 a:hover{color:#d11eb3}.b_station div p,.s div p{color:var(--muted-text-color);font-size:.9em;margin:4px 0 0;max-height:36px;overflow:hidden}.b_station .btn-play,.s .btn-play{flex-shrink:0}.b_station .btn-play:hover:not(:disabled),.s .btn-play:hover:not(:disabled){box-shadow:0 0 3px hsla(0,0%,39%,.7)}.b_genres{line-height:2;margin:16px 0}.b_genres .b_title{display:inline-block;margin-right:4px}.b_genres a{color:var(--muted-text-color);margin-right:24px;position:relative;white-space:nowrap}.b_genres a:after{background-color:#757575;border-radius:50%;content:"";display:block;height:4px;position:absolute;right:-16px;top:7px;width:4px}.b_genres a:last-of-type{margin-right:0}.b_genres a:last-of-type:after{content:none}.b_genres a[href]:hover{text-decoration:underline}.b_genres .genre-search{display:block;margin-bottom:8px;padding:8px;width:100%}.b_genres .list-collapsed{max-height:0;overflow:hidden;transition:all .3s}.b_genres .list-collapsed.uncollapsed{max-height:100vh}#jx-loader{background-color:#d11eb3;bottom:-2px;height:2px;position:absolute;transform:translateX(-100%);width:100%}#jx-loader.loading{transform:translateX(-60%);transition:transform .5s ease}#jx-loader.done{transform:translateX(0);transition:transform .2s ease}.pagination{margin:24px 0;padding:0;text-align:center}.pagination .page-item{display:inline-block;padding:8px}.pagination .page-item:nth-child(2){margin-left:40px}.pagination a{color:#d11eb3;font-weight:700}.b_track{border-bottom:1px solid var(--panel-border-color);line-height:1.8;margin:8px 0;padding-bottom:8px;padding-left:70px;position:relative}.b_track:last-of-type{border-bottom:none}.b_track span,.b_track time{background-color:var(--panel-border-color);border-radius:3px;display:inline-block;font-size:14px;left:0;line-height:1em;padding:5px 0;position:absolute;text-align:center;top:2px;width:60px}.b_track.now span{background-color:#d11eb3;color:#fff;font-weight:700}.b_track a{color:var(--body-color);text-decoration:underline}.b_last-tracks{margin-top:16px}.b_last-tracks a,.b_last-tracks div{border-bottom:1px solid var(--panel-border-color);color:var(--body-color);display:block;line-height:1.6;margin:8px 0;overflow:hidden;padding-bottom:8px;padding-left:24px;position:relative;text-overflow:ellipsis;white-space:nowrap}.b_last-tracks a b,.b_last-tracks div b{font-size:15px}.b_last-tracks a:last-child,.b_last-tracks div:last-child{border-bottom:none}.b_last-tracks aa:hover,.b_last-tracks diva:hover{text-decoration:underline}.b_last-tracks a span,.b_last-tracks div span{color:var(--muted-text-color);display:block;font-size:14px}.b_last-tracks a:before,.b_last-tracks div:before{background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 55"><path d="M52.7.2a1 1 0 00-.8-.2l-31 4a1 1 0 00-.9 1V40.6a10.4 10.4 0 00-8-3.6c-5.5 0-10 4-10 9s4.5 9 10 9 10-4 10-9v-.7-29.2l29-3.7v18.2a10.4 10.4 0 00-8-3.6c-5.5 0-10 4-10 9s4.5 9 10 9 10-4 10-8.9V1a1 1 0 00-.3-.8zM12 53c-4.4 0-8-3.1-8-7s3.6-7 8-7 8 3.1 8 7-3.6 7-8 7zm31-10c-4.4 0-8-3.1-8-7s3.6-7 8-7 8 3.1 8 7-3.6 7-8 7zM22 14.1V5.9L51 2v8.2l-29 3.8z"/></svg>');background-repeat:no-repeat;content:" ";display:block;height:1em;left:0;position:absolute;top:4px;width:1em}@media (prefers-color-scheme:dark){.b_last-tracks a:before,.b_last-tracks div:before{background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 55" fill="%23FFF"><path d="M52.7.2a1 1 0 00-.8-.2l-31 4a1 1 0 00-.9 1V40.6a10.4 10.4 0 00-8-3.6c-5.5 0-10 4-10 9s4.5 9 10 9 10-4 10-9v-.7-29.2l29-3.7v18.2a10.4 10.4 0 00-8-3.6c-5.5 0-10 4-10 9s4.5 9 10 9 10-4 10-8.9V1a1 1 0 00-.3-.8zM12 53c-4.4 0-8-3.1-8-7s3.6-7 8-7 8 3.1 8 7-3.6 7-8 7zm31-10c-4.4 0-8-3.1-8-7s3.6-7 8-7 8 3.1 8 7-3.6 7-8 7zM22 14.1V5.9L51 2v8.2l-29 3.8z"/></svg>')}}.b_contacts,.b_content{line-height:1.625}.b_contacts a{color:var(--body-color);text-decoration:underline}.b_genre .h3{margin-top:32px}.b_countries{margin:16px 0}.b_countries a{color:var(--body-color);display:block;font-size:18px;line-height:40px;margin:8px 0;overflow:hidden;padding-left:67px;position:relative;text-overflow:ellipsis;white-space:nowrap}.b_countries a:hover{text-decoration:underline}.b_countries a img{border:1px solid #ddd;display:block;height:40px;left:0;position:absolute;top:0;width:53px}.b_countries.col-mode:after{clear:both;content:"";display:block}.b_countries.col-mode a{float:left;width:50%}.b_artist{color:var(--body-color);display:block;height:40px;line-height:40px;margin:16px 0;overflow:hidden;padding-left:72px;position:relative;text-overflow:ellipsis;white-space:nowrap}.b_artista:hover{text-decoration:underline}.b_artist .dummy,.b_artist img{border-radius:2px;height:40px;left:0;position:absolute;top:0;width:60px}.b_artist .dummy{background-color:#ddd}@media (prefers-color-scheme:dark){.b_artist .dummy{background-color:#1f1f20}}.b_share{height:47px;margin-top:16px}.b_share a{background-color:#d11eb3;color:#fff;font-size:12px;font-weight:700;padding:12px}.b_share .fb{background-color:#3b5998}.b_share .viber{background-color:#7b519d}.b_share .telegram{background-color:#037bb7}.b_share .whatsapp{background-color:#20881b}@media (max-width:692px){.b_share .embed{display:none}}.breadcrumbs{line-height:1.6;list-style:none;margin:16px 0;padding:0}.breadcrumbs li{display:inline-block;margin-right:16px;position:relative}.breadcrumbs li a:hover{text-decoration:underline}.breadcrumbs li:last-child{margin-right:0}.breadcrumbs li:after{content:">";font-size:12px;position:absolute;right:-13px;top:4px}.breadcrumbs li:last-child:after{content:""}.app-link{display:block;margin:16px 0;text-align:center}#review-added-message,#review-form-container{display:none}.rating{direction:rtl;display:inline-block;font-size:26px;text-align:left;unicode-bidi:bidi-override}.rating span{display:inline-block;position:relative;width:1em}.rating.editable span{cursor:pointer}.rating span.active:before,.rating span.active~span:before,.rating.editable span:hover:before,.rating.editable span:hover~span:before{color:gold;content:"★";left:0;position:absolute}.alert{border-radius:.25rem;padding:1rem}.alert.alert-success{background-color:#d1e7dd;border-color:#badbcc;color:#0f5132}.alert.alert-warning{background-color:#fff3cd;border-color:#ffecb5;color:#664d03}.review{margin:32px 0}.review .rating{font-size:20px}.review .meta{color:var(--muted-text-color);font-size:14px}.review .text{line-height:1.625;margin-top:8px}.embed-code{display:none;margin-bottom:16px}.embed-code textarea{display:block;height:70px;margin-bottom:8px;padding:8px;width:100%}.b_offline{align-items:center;background-color:#1c174d;color:#fff;display:flex;flex-direction:column;height:100vh;justify-content:center;left:0;padding:32px;position:fixed;top:0;width:100vw}.b_offline h1{margin-bottom:64px;text-align:center}.b_offline .btn{background-color:#d11eb3;border-radius:4px;color:#fff!important;font-weight:700;padding:24px}.track-video img{-o-object-fit:cover;object-fit:cover}.track-video .btn-play-video{background-color:transparent;border:none;cursor:pointer;height:100%;left:0;padding:0;position:absolute;top:0;transition:opacity .25s cubic-bezier(0,0,.2,1);width:100%;z-index:2}.track-video .btn-play-video svg{display:block;height:48px;left:50%;margin-left:-34px;margin-top:-24px;position:absolute;top:50%;width:68px}.track-video .btn-play-video svg path:first-child{fill:#212121;fill-opacity:.8;transition:fill .1s cubic-bezier(.4,0,1,1),fill-opacity .1s cubic-bezier(.4,0,1,1)}.track-video .btn-play-video:hover svg path:first-child{fill:red;fill-opacity:1}.tools{display:flex;flex-direction:row;margin:16px 0}.tools .btn{margin:0 4px}.tools .btn:first-child{margin-left:0}.tools .btn:last-child{margin-right:0}.tools .btn-station-save .filled,.tools .btn-station-save.saved .bordered{display:none}.tools .btn-station-save.saved .filled{fill:red;display:block}.popup-share .popup{width:320px}.popup-share .share-buttons{display:flex;flex-direction:row;justify-content:space-between;margin:24px 0}.popup-share .share-buttons a{border-radius:2px;display:block;height:38px;overflow:hidden;width:38px}.popup-share .share-buttons a img{height:38px;width:38px}.popup-share .share-buttons a:hover{opacity:.8}.b_favorites{min-height:480px}.b_favorites .loader{text-align:center}.menuitem.menuitem-favorites{display:none}.b_continents{line-height:1.8;text-align:center}.b_continents a{color:var(--body-color);display:inline-block;font-size:26px;margin-right:24px;position:relative}.b_continents a:after{background-color:var(--body-color);border-radius:50%;content:"";height:4px;position:absolute;right:-16px;top:49%;width:4px}.b_continents a:last-child:after{content:none}.b_continents a:hover{color:#d11eb3}.b_my{display:flex;flex-direction:row;height:80px}.b_my .item{flex-basis:50%;font-size:20px;font-weight:700;line-height:80px;overflow:hidden;padding-left:100px;padding-right:16px;position:relative;text-overflow:ellipsis;white-space:nowrap}.b_my .item img{height:80px;left:0;-o-object-fit:contain;object-fit:contain;position:absolute;top:0;width:80px}@media (max-width:600px){.b_my{flex-direction:column;height:168px}}.b_stations-row{display:flex;flex-direction:row;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;padding:8px 0 16px}.b_stations-row a{border:1px solid var(--panel-border-color);display:block;margin-right:16px;padding:8px;transition:border-color .15s ease}.b_stations-row a img{display:block;height:80px;-o-object-fit:contain;object-fit:contain;width:80px}.b_stations-row a:hover{border-color:var(--primary-color)}.b_stations-row a:last-of-type{margin-right:0}#app-popup{--bg:hsla(0,0%,100%,.6);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);background-color:var(--bg);border-top:1px solid var(--panel-border-color);bottom:0;box-shadow:0 0 5px hsla(0,0%,39%,.3);padding:0 16px 24px;position:fixed;transform:translateY(100%);transition:transform .2s ease;width:100%}@media (prefers-color-scheme:dark){#app-popup{--bg:hsla(0,0%,9%,.8)}}#app-popup.visible{transform:translateY(0)}#app-popup p{font-size:18px;line-height:1.6;text-align:center}#app-popup div{align-items:center;display:flex;height:36px;justify-content:center}#app-popup div a{display:inline-block;margin-right:24px}#app-popup div a img{display:block;height:36px;width:120px}.btn-play{-webkit-appearance:none;-moz-appearance:none;appearance:none;background:linear-gradient(180deg,#f7f7f7,#ddd);border:1px solid #949494;border-radius:2px;cursor:pointer;height:48px;outline:none;position:relative;width:48px}.btn-play:not(.playing):after{border-color:transparent transparent transparent #1c174d;border-radius:3px;border-style:solid;border-width:12px 0 12px 16px;margin-left:-7px}.btn-play.playing:after,.btn-play:not(.playing):after{box-sizing:border-box;content:" ";height:24px;left:50%;margin-top:-12px;position:absolute;top:50%;width:24px}.btn-play.playing:after{border:double #1c174d;border-width:0 0 0 18px;margin-left:-9px}.btn-play:disabled{cursor:not-allowed;opacity:.4}.player{color:#fff;display:none;position:absolute;right:0;top:8px}.player .btn-play{background:none;border:none;z-index:2}.player .btn-play:after{border-left-color:var(--primary-color)}.player .status{max-height:16px;max-width:78px;position:absolute;right:100%;text-align:right;top:15px}.player .status .status-text{font-size:14px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.player .status .status-indicator{content:" ";height:16px;margin-right:8px;position:absolute;right:100%;width:16px}.player .status.status-loading .status-indicator{animation:loader-rotation 1s linear infinite;border:3px solid #d11eb3;border-left-color:transparent;border-radius:50%}@keyframes loader-rotation{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.player .status.status-playing .status-indicator{height:14px;overflow:hidden}.player .status.status-playing .status-indicator div,.player .status.status-playing .status-indicator:after,.player .status.status-playing .status-indicator:before{animation:playing 1s linear infinite;border-left:3px solid #d11eb3;bottom:0;content:"";display:block;height:100%;left:0;position:absolute;width:3px}.player .status.status-playing .status-indicator:before{animation-delay:.3s;left:4px}.player .status.status-playing .status-indicator:after{animation-delay:.6s;left:8px}@keyframes playing{0%{transform:translateY(0)}50%{transform:translateY(8px)}to{transform:translateY(0)}}.player .status.status-error .status-indicator:after{color:red;content:"!";font-weight:700}@media (max-width:325px){.player .status{margin-right:-8px}}.btn-search-close{background:none;border:none;color:#fff;cursor:pointer;display:none;font-size:24px;height:32px;padding:4px;position:absolute;right:14px;top:14px;width:32px}.search-visible .btn-search-close{display:block}.search-visible .player{display:none;visibility:hidden}.b_sf{background-color:rgba(28,23,77,.9);bottom:0;display:none;left:0;position:fixed;right:0;top:64px;z-index:4}@media (prefers-color-scheme:dark){.b_sf{background-color:rgba(3,3,3,.9)}}.b_sf .container{display:flex;flex-direction:column;max-height:100%;max-width:660px;padding:16px}.b_sf .b_station h3 a{color:#fff}.b_sf .b_station .lead,.b_sf .b_station p{color:#ccc}.search-visible .b_sf{display:block}#b_sf-input{font-size:16px;padding:8px;width:100%}#b_sf-loading{color:#d11eb3;display:none;font-weight:700;left:0;position:absolute;text-align:center;text-shadow:1px 1px 10px #000;top:80px;width:100%;z-index:5}#b_sf-results{margin-top:8px;overflow-y:auto}#b_sf-results a{color:#fff}#b_sf-results p{color:#c5c1c1}#b_sf-results .btn-play{display:none}.b_sf-empty{color:#ccc}.b_sf-item{border-bottom:1px solid #dbdae8;padding:16px 0}.b_sf-item a{color:#fff}.b_sf-item .b_sf-type{color:#999;display:inline-block;font-size:13px;margin-left:8px}@media (max-width:460px){.ai-placement.top-sticky{height:130px}}@media (min-width:461px){.ai-placement.top{min-height:280px}}.adx{margin:32px 0;min-height:160px}.adx.adx-in-feed{border-bottom:1px solid #e6e6e6;margin:20px 0;min-height:130px}.form,.form-control{margin-bottom:1rem}.form-control input,.form-control textarea{-webkit-appearance:none;-moz-appearance:none;appearance:none;background-clip:padding-box;background-color:#fff;border:1px solid #ced4da;border-radius:5px;color:#212529;display:block;font-size:1rem;line-height:1.5;padding:.375rem .75rem;width:100%}.form-control label{display:inline-block;margin-bottom:.5rem}.form-control .rating-control{font-size:26px;position:relative}.form-control .rating-control input{bottom:0;height:0;left:0;opacity:0;position:absolute;width:0}.form-control .error{color:red;display:block;font-size:14px;margin-top:8px}.btn{--color:var(--theme-color);background-color:transparent;border:1px solid var(--color);color:var(--color);cursor:pointer;font-size:1em;outline:none;padding:8px 12px}@media (prefers-color-scheme:dark){.btn{--color:var(--primary-color)}}.btn span{white-space:nowrap}.btn svg{height:1em;vertical-align:text-top}.btn svg path{fill:var(--color)}.btn:hover{border-color:#d11eb3;color:#d11eb3}.btn:hover svg path{fill:#d11eb3}.btn:active{border-color:#a4188d;color:#a4188d}.btn:active svg path{fill:#a4188d}.btn:first-child{margin-left:0}.btn:last-child{margin-right:0}.btn.btn-block{display:block;width:100%}.popup-wrapper{align-items:center;background-color:rgba(11,14,36,.5);bottom:0;display:none;justify-content:center;left:0;overflow-y:auto;position:fixed;right:0;top:64px;z-index:10}.popup-wrapper.popup-visible{display:flex}.popup-wrapper .popup{background-color:#fff;box-shadow:0 0 5px rgba(11,14,36,.5);padding:16px;position:relative}.popup-wrapper .popup-title{font-size:20px;margin:0 0 16px}.popup-wrapper .popup-bottombar{margin-top:16px;text-align:right}.popup-wrapper .btn-popup-close-x{border:0;position:absolute;right:8px;top:8px}
+</style>
+        <link rel="icon" href="https://radiomixer.net/icons/icon.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="https://radiomixer.net/icons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://radiomixer.net/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://radiomixer.net/icons/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://radiomixer.net/icons/ms-icon-144x144.png">
+<meta name="theme-color" content="#1c174d">
+        <meta name="description" content="Listen live myNoise Zen Radio from Belgium, Brussels for free online in high quality on the site. Reviews and playlist of the station myNoise Zen Radio">
+    
+    
+            <link rel="canonical" href="https://radiomixer.net/en/bel/mynoisezen">
+    
+    
+    <link rel="alternate" hreflang="x-default" href="https://radiomixer.net/bel/mynoisezen">
+            <link rel="alternate" hreflang="id" href="https://radiomixer.net/id/bel/mynoisezen">
+            <link rel="alternate" hreflang="de" href="https://radiomixer.net/de/bel/mynoisezen">
+            <link rel="alternate" hreflang="en" href="https://radiomixer.net/en/bel/mynoisezen">
+            <link rel="alternate" hreflang="es" href="https://radiomixer.net/es/bel/mynoisezen">
+            <link rel="alternate" hreflang="fr" href="https://radiomixer.net/fr/bel/mynoisezen">
+            <link rel="alternate" hreflang="it" href="https://radiomixer.net/it/bel/mynoisezen">
+            <link rel="alternate" hreflang="pl" href="https://radiomixer.net/pl/bel/mynoisezen">
+            <link rel="alternate" hreflang="pt" href="https://radiomixer.net/pt/bel/mynoisezen">
+            <link rel="alternate" hreflang="tr" href="https://radiomixer.net/tr/bel/mynoisezen">
+            <link rel="alternate" hreflang="cs" href="https://radiomixer.net/cs/bel/mynoisezen">
+            <link rel="alternate" hreflang="ru" href="https://radiomixer.net/ru/bel/mynoisezen">
+            <link rel="alternate" hreflang="uk" href="https://radiomixer.net/uk/bel/mynoisezen">
+    
+    
+                                <meta property="og:url" content="https://radiomixer.net/en/bel/mynoisezen">
+                                        <meta property="og:site_name" content="RadioMixer">
+                                        <meta property="og:type" content="website">
+                                        <meta property="og:title" content="myNoise Zen Radio - Belgium, Brussels listen live online with RadioMixer">
+                                        <meta property="og:description" content="Listen live myNoise Zen Radio from Belgium, Brussels for free online in high quality on the site. Reviews and playlist of the station myNoise Zen Radio">
+                                        <meta property="og:image" content="https://radiomixer.net/images/2022/10/07/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png">
+                                        <meta property="og:image:secure_url" content="https://radiomixer.net/images/2022/10/07/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png">
+                                        <meta property="og:image:type" content="image/png">
+                                        <meta property="og:image:width" content="160">
+                                        <meta property="og:image:height" content="85">
+                                                                                                                    <meta property="article:tag" content="relax">
+                            <meta property="article:tag" content="meditation">
+                            <meta property="article:tag" content="zen">
+                        
+                        <meta name="twitter:url" content="https://radiomixer.net/en/bel/mynoisezen">
+                                <meta name="twitter:title" content="myNoise Zen Radio - Belgium, Brussels listen live online with RadioMixer">
+                                <meta name="twitter:description" content="Listen live myNoise Zen Radio from Belgium, Brussels for free online in high quality on the site. Reviews and playlist of the station myNoise Zen Radio">
+                                <meta name="twitter:image" content="https://radiomixer.net/images/2022/10/07/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png">
+                                <meta name="twitter:card" content="summary_large_image">
+                                <meta name="twitter:site" content="@radiomixernet">
+            
+            <link rel="alternate" type="application/json+oembed" href="https://radiomixer.net/en/oembed?url=https%3A%2F%2Fradiomixer.net%2Fen%2Fbel%2Fmynoisezen">
+    
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "RadioMixer",
+  "url": "https://radiomixer.net",
+  "sameAs": [
+    "https://www.instagram.com/radiomixernet/",
+    "https://twitter.com/radiomixernet"
+  ],
+  "image": "https://radiomixer.net/icons/android-chrome-512x512.png"
+}
+</script>
+                        <script>
+    document.cookie = 'locale=en;expires=Monday, 10-Dec-2029 02:50:49 UTC;Max-Age=157680000;path=/;secure;samesite=lax';
+</script>
+        
+            </head>
+    <body>
+        
+    <div class="ai-placement top-sticky" data-id="872"></div>
+    
+<nav class="navbar">
+
+    <div class="container">
+
+        <button class="hamburger" type="button" id="sidebar-btn" aria-label="Menu">
+            <span></span>
+        </button>
+
+        <a href="https://radiomixer.net/en" class="logo jx" title="Listen to the radio online">
+    Radio<strong>Mixer</strong>
+</a>
+        <div class="player" id="player">
+            <div class="status" id="player-status" title="Now playing">
+                <div class="status-indicator"><div></div></div>
+                <div class="status-text" id="player-status-text"></div>
+            </div>
+            <button class="btn-play" type="button" id="player-btn-play" title="Listen/Stop Radio"></button>
+        </div>
+
+        <button class="btn-search-close" type="button" title="Close">
+            X
+        </button>
+
+    </div>
+
+    <div id="jx-loader"></div>
+</nav>
+
+
+    <div class="overlay" id="sidebar-overlay"></div>
+
+<nav class="sidebar">
+
+    <div class="content scrollable">
+
+        <a href="https://radiomixer.net/en/favorites" class="menuitem jx menuitem-favorites">
+            Favorites
+            <svg viewBox="0 0 24 24">
+                <g>
+                    <path d="M12 21.638h-.014C9.403 21.59 1.95 14.856 1.95 8.478c0-3.064 2.525-5.754 5.403-5.754 2.29 0 3.83 1.58 4.646 2.73.814-1.148 2.354-2.73 4.645-2.73 2.88 0 5.404 2.69 5.404 5.755 0 6.376-7.454 13.11-10.037 13.157H12z"></path>
+                </g>
+            </svg>
+        </a>
+
+        <a href="#" class="menuitem btn-search" onclick="return false;">
+            Search
+        </a>
+
+        <div class="menuitem dropdown">
+            <a href="#" onclick="return false;" class="dropdown-btn">
+                Countries
+            </a>
+            <div class="dropdown-content">
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/aus">Australia</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/aut">Austria</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/bel">Belgium</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/bih">Bosnia and Herzegovina</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/bra">Brazil</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/bgr">Bulgaria</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/can">Canada</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/chn">China</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/col">Colombia</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/hrv">Croatia</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/cyp">Cyprus</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/cze">Czech Republic</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/cod">DR Congo</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/dom">Dominican Republic</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/egy">Egypt</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/slv">El Salvador</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/est">Estonia</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/fin">Finland</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/fra">France</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/deu">Germany</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/grc">Greece</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/hnd">Honduras</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/hun">Hungary</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/ind">India</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/idn">Indonesia</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/irl">Ireland</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/isr">Israel</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/ita">Italy</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/jpn">Japan</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/lva">Latvia</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/ltu">Lithuania</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/mys">Malaysia</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/mex">Mexico</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/mda">Moldova</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/nld">Netherlands</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/nzl">New Zealand</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/nor">Norway</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/per">Peru</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/pol">Poland</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/prt">Portugal</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/rou">Romania</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/svk">Slovakia</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/zaf">South Africa</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/kor">South Korea</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/esp">Spain</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/swe">Sweden</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/che">Switzerland</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/tha">Thailand</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/tur">Turkey</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/usa">USA</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/ukr">Ukraine</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/are">United Arab Emirates</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/gbr">United Kingdom</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/vnm">Vietnam</a>
+                                    <a class="menuitem dropdown-item jx" href="https://radiomixer.net/en/rus">russia</a>
+                            </div>
+        </div>
+
+        <a href="https://radiomixer.net/en/genres" title="All genres and styles" class="menuitem jx">
+            Genres
+        </a>
+
+        <a href="https://radiomixer.net/en/artists" class="menuitem jx">
+            Artists
+        </a>
+
+        <a href="https://radiomixer.net/en/tracks" class="menuitem jx">
+            Music
+        </a>
+
+        <a href="https://radiomixer.net/en/widgets" class="menuitem">
+            Widgets
+        </a>
+
+        <a href="https://radiomixer.net/en/contacts" class="menuitem jx">
+            Contacts
+        </a>
+
+        <hr>
+
+        <label>
+            Choose a language
+            <select class="lang-switcher">
+            <option value="id" >Bahasa Indonesia</option>
+            <option value="de" >Deutsch</option>
+            <option value="en"  selected >English</option>
+            <option value="es" >Español</option>
+            <option value="fr" >Français</option>
+            <option value="it" >Italiano</option>
+            <option value="pl" >Polski</option>
+            <option value="pt" >Português</option>
+            <option value="tr" >Türkçe</option>
+            <option value="cs" >Čeština</option>
+            <option value="ru" >Русский</option>
+            <option value="uk" >Українська</option>
+    </select>
+        </label>
+
+    </div>
+
+
+
+
+
+
+
+
+</nav>
+
+    <main class="container">
+        
+    
+    <div class="row">
+
+        <div class="col-md">
+            <article>
+
+        <script type="application/ld+json">
+            {"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Belgium","item":"https:\/\/radiomixer.net\/en\/bel"},{"@type":"ListItem","position":2,"name":"Bruxelles-Capitale","item":"https:\/\/radiomixer.net\/en\/bel\/region\/bruxelles-capitale"},{"@type":"ListItem","position":3,"name":"Brussels","item":"https:\/\/radiomixer.net\/en\/bel\/city\/brussels"},{"@type":"ListItem","position":4,"name":"myNoise Zen Radio","item":"https:\/\/radiomixer.net\/en\/bel\/mynoisezen"}]}
+        </script>
+
+        <script type="application/ld+json">
+            {"@context":"http:\/\/schema.org","@type":"RadioStation","mainEntityOfPage":"https:\/\/radiomixer.net\/en\/bel\/mynoisezen","url":"https:\/\/radiomixer.net\/en\/bel\/mynoisezen","name":"myNoise Zen Radio","description":null,"potentialAction":{"@type":"Action","name":"ListenAction"},"image":{"@type":"ImageObject","url":"\/images\/2022\/10\/07\/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png","contentUrl":"\/images\/2022\/10\/07\/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png","width":160,"height":85,"name":"myNoise Zen Radio","caption":"myNoise Zen Radio","description":"myNoise Zen Radio"},"logo":{"@type":"ImageObject","url":"\/images\/2022\/10\/07\/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png","contentUrl":"\/images\/2022\/10\/07\/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png","width":160,"height":85,"name":"myNoise Zen Radio","caption":"myNoise Zen Radio","description":"myNoise Zen Radio"},"email":"stephane@mynoise.net","address":{"@type":"PostalAddress","name":"Belgium, Bruxelles-Capitale, Brussels"}}
+        </script>
+
+        <ul class="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList" role="navigation">
+
+    
+            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+            <a itemprop="item" class="jx" href="https://radiomixer.net/en/bel">
+                <span itemprop="name">Belgium</span>
+            </a>
+            <meta itemprop="position" content="1">
+        </li>
+    
+            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+            <a itemprop="item" class="jx" href="https://radiomixer.net/en/bel/region/bruxelles-capitale">
+                <span itemprop="name">Bruxelles-Capitale</span>
+            </a>
+            <meta itemprop="position" content="2">
+        </li>
+    
+            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+            <a itemprop="item" class="jx" href="https://radiomixer.net/en/bel/city/brussels">
+                <span itemprop="name">Brussels</span>
+            </a>
+            <meta itemprop="position" content="3">
+        </li>
+    
+    <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+        <span itemprop="name">myNoise Zen Radio</span>
+        <meta itemprop="position" content="4">
+    </li>
+
+</ul>
+
+        <h1 class="h1">myNoise Zen Radio listen live</h1>
+
+        <div>
+            <div class="s">
+
+                    <a class="img jx"
+               href="https://radiomixer.net/en/bel/mynoisezen"
+               title="myNoise Zen Radio">
+                <picture>
+                    <source srcset="/crops/11bd7f/80x80/1/0/2022/10/07/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png.webp 1x, /crops/198d4b/160x160/1/0/2022/10/07/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png.webp 2x, /crops/17de8f/240x240/1/0/2022/10/07/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png.webp 3x" type="image/webp">
+                    <source srcset="/crops/80a225/80x80/1/0/2022/10/07/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png 1x, /crops/401e0b/160x160/1/0/2022/10/07/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png 2x, /crops/0911ae/240x240/1/0/2022/10/07/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png 3x" type="image/jpeg">
+                    <img src="/crops/80a225/80x80/1/0/2022/10/07/WJttSm0iqvZvZ8unwHy4lk8sW7zQsj1x.png"
+                         alt="myNoise Zen Radio"
+                         loading="lazy" width="80" height="80">
+                </picture>
+            </a>
+        
+        <div>
+
+            <h3>
+                <a href="https://radiomixer.net/en/bel/mynoisezen" class="jx">myNoise Zen Radio</a>
+            </h3>
+
+            
+        </div>
+
+        <button class="btn-play"
+                data-id="46822"
+                data-title="myNoise Zen Radio"
+                data-type="1"
+                title="Listen myNoise Zen Radio"
+                type="button"
+                
+        ></button>
+
+    </div>
+
+        </div>
+
+        
+
+        <div class="tools">
+    <button class="btn btn-station-save" data-id="46822">
+        <svg viewBox="0 0 24 24">
+            <g>
+                <path class="bordered" d="M12 21.638h-.014C9.403 21.59 1.95 14.856 1.95 8.478c0-3.064 2.525-5.754 5.403-5.754 2.29 0 3.83 1.58 4.646 2.73.814-1.148 2.354-2.73 4.645-2.73 2.88 0 5.404 2.69 5.404 5.755 0 6.376-7.454 13.11-10.037 13.157H12zM7.354 4.225c-2.08 0-3.903 1.988-3.903 4.255 0 5.74 7.034 11.596 8.55 11.658 1.518-.062 8.55-5.917 8.55-11.658 0-2.267-1.823-4.255-3.903-4.255-2.528 0-3.94 2.936-3.952 2.965-.23.562-1.156.562-1.387 0-.014-.03-1.425-2.965-3.954-2.965z"></path>
+                <path class="filled" d="M12 21.638h-.014C9.403 21.59 1.95 14.856 1.95 8.478c0-3.064 2.525-5.754 5.403-5.754 2.29 0 3.83 1.58 4.646 2.73.814-1.148 2.354-2.73 4.645-2.73 2.88 0 5.404 2.69 5.404 5.755 0 6.376-7.454 13.11-10.037 13.157H12z"></path>
+            </g>
+        </svg>
+        <span>Save</span>
+    </button>
+    <button class="btn btn-popup" data-popup="share-popup">
+        <svg viewBox="0 0 24 24"><g><path d="M17.53 7.47l-5-5c-.293-.293-.768-.293-1.06 0l-5 5c-.294.293-.294.768 0 1.06s.767.294 1.06 0l3.72-3.72V15c0 .414.336.75.75.75s.75-.336.75-.75V4.81l3.72 3.72c.146.147.338.22.53.22s.384-.072.53-.22c.293-.293.293-.767 0-1.06z"></path><path d="M19.708 21.944H4.292C3.028 21.944 2 20.916 2 19.652V14c0-.414.336-.75.75-.75s.75.336.75.75v5.652c0 .437.355.792.792.792h15.416c.437 0 .792-.355.792-.792V14c0-.414.336-.75.75-.75s.75.336.75.75v5.652c0 1.264-1.028 2.292-2.292 2.292z"></path></g></svg>
+        <span>Share</span>
+    </button>
+    <button class="btn btn-embed" title="Embed online radio to your site">
+        <svg viewBox="0 0 24 24"><path d="m23.804 11.5-6.496-7.25a.752.752 0 0 0-1.06-.06.752.752 0 0 0-.058 1.06L22.238 12l-6.047 6.75a.751.751 0 0 0 .56 1.25c.204 0 .41-.084.558-.25l6.496-7.25a.75.75 0 0 0 0-1zm-23.606 0 6.496-7.25a.752.752 0 0 1 1.06-.06.752.752 0 0 1 .058 1.06L1.764 12l6.047 6.75a.752.752 0 0 1-.057 1.06.752.752 0 0 1-1.06-.06L.197 12.5a.75.75 0 0 1 0-1zm9.872 12a.748.748 0 0 1-.74-.882l3.863-21.5a.749.749 0 1 1 1.476.264l-3.864 21.5a.75.75 0 0 1-.737.618z"/></svg>
+        <span>Embed</span>
+    </button>
+</div>
+
+<div class="embed-code">
+    <textarea readonly>&lt;iframe src=&quot;https://radiomixer.net/en/bel/mynoisezen/embed&quot; width=&quot;600&quot; height=&quot;96&quot; frameborder=&quot;0&quot; style=&quot;max-width: 100%&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;</textarea>
+    <button class="btn embed-code-copy">Copy</button>
+</div>
+
+
+<div class="popup-wrapper popup-share" id="share-popup">
+    <div class="popup">
+        <button class="btn btn-popup-close btn-popup-close-x">X</button>
+        <h2 class="popup-title">Share</h2>
+
+        <div class="form-control">
+            <input type="text" value="&lt;iframe src=&quot;https://radiomixer.net/en/bel/mynoisezen/embed&quot; width=&quot;600&quot; height=&quot;96&quot; frameborder=&quot;0&quot; style=&quot;max-width: 100%&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;" readonly class="code">
+        </div>
+
+        <div class="share-buttons">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fradiomixer.net%2Fen%2Fbel%2Fmynoisezen" target="_blank" rel="nofollow noopener" title="Facebook">
+                <img src="/img/icons/facebook.svg" loading="lazy" alt="Facebook">
+            </a>
+            <a href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fradiomixer.net%2Fen%2Fbel%2Fmynoisezen" target="_blank" rel="nofollow noopener" title="Twitter">
+                <img src="/img/icons/twitter.svg" loading="lazy" alt="Twitter">
+            </a>
+            <a href="https://api.whatsapp.com/send?text=https%3A%2F%2Fradiomixer.net%2Fen%2Fbel%2Fmynoisezen" target="_blank" rel="nofollow noopener" title="WhatsApp">
+                <img src="/img/icons/whatsapp.svg" loading="lazy" alt="WhatsApp">
+            </a>
+            <a href="viber://forward?text=https%3A%2F%2Fradiomixer.net%2Fen%2Fbel%2Fmynoisezen" target="_blank" rel="nofollow noopener" title="Viber">
+                <img src="/img/icons/viber.svg" loading="lazy" alt="Viber">
+            </a>
+            <a href="https://t.me/share/url?url=https%3A%2F%2Fradiomixer.net%2Fen%2Fbel%2Fmynoisezen" target="_blank" rel="nofollow noopener" title="Telegram">
+                <img src="/img/icons/telegram.svg" loading="lazy" alt="Telegram">
+            </a>
+            <a href="https://www.tumblr.com/widgets/share/tool?posttype=link&amp;content=https%3A%2F%2Fradiomixer.net%2Fen%2Fbel%2Fmynoisezen&amp;title=myNoise+Zen+Radio&amp;caption=myNoise+Zen+Radio&amp;url=https%3A%2F%2Fradiomixer.net%2Fen%2Fbel%2Fmynoisezen&amp;_format=html" target="_blank" rel="nofollow noopener" title="Tumblr">
+                <img src="/img/icons/tumblr.svg" loading="lazy" alt="Tumblr">
+            </a>
+        </div>
+        <button class="btn btn-block btn-copy-link" title="https://radiomixer.net/en/bel/mynoisezen">Copy link</button>
+
+
+
+    </div>
+</div>
+
+
+        
+        <div class="b_content">Relaxation &amp; Meditation • This generative radio station alternates nature noises and calming tones. Combinations are randomly generated so that the stream never repeats. Ideal to add a sonic dimension to your meditation session, or to calm down. This radio is broadcasted with a very high dynamic range.</div>
+
+        
+        <h2>Сontacts</h2>
+    <div class="b_contacts">
+
+                    <b>Email:</b> <a href="mailto:stephane@mynoise.net" target="_blank"
+                             rel="nofollow noopener">stephane@mynoise.net</a><br>
+        
+        
+        
+        
+                    <b>Website:</b>
+                            <a href="https://mynoise.net/radios.php" target="_blank" rel="nofollow noopener">
+                    mynoise.net/radios.php
+                </a>
+                        <br>
+        
+        
+        
+                    <b>Facebook:</b>
+                            <a href="https://www.facebook.com/mynoise.net/" target="_blank" rel="nofollow noopener">
+                                            @mynoise.net
+                                    </a>
+                        <br>
+        
+        
+        
+                    <b>Twitter:</b>
+                                    <a href="https://twitter.com/audiosampling" target="_blank" rel="nofollow noopener">
+                                                    @audiosampling
+                                            </a>
+                                <br>
+        
+        
+        
+        
+    </div>
+
+
+        <p class="text-muted">
+    Add our <b><a href="https://radiomixer.net/en/widgets#s=https%3A%2F%2Fradiomixer.net%2Fen%2Fbel%2Fmynoisezen" target="_blank">button</a></b> to your site - support us!
+
+</p>
+
+                    <div class="b_genres">
+                <span class="b_title">Genres:</span>
+                                    <a href="https://radiomixer.net/en/genre/relax" class="jx">relax</a>
+                                    <a href="https://radiomixer.net/en/genre/meditation" class="jx">meditation</a>
+                                    <a href="https://radiomixer.net/en/genre/zen" class="jx">zen</a>
+                            </div>
+
+
+        
+    </article>
+
+    <div class="adx">
+            <div class="adx-wrapper">
+
+
+
+
+
+
+
+
+
+                <div class="ai-placement" data-id="863"></div>
+            </div>
+        </div>
+    
+<button class="btn btn-add-review">
+    <svg viewBox="0 0 24 24" aria-hidden="true" class="r-4qtqp9 r-yyyyoo r-1xvli5t r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-1hdv0qi"><path d="m14.046 2.242-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828a.85.85 0 0 0 .12.403.744.744 0 0 0 1.034.229c.264-.168 6.473-4.14 8.088-5.506 1.902-1.61 3.04-3.97 3.043-6.312v-.017c-.006-4.367-3.43-7.787-7.8-7.788zm3.787 12.972c-1.134.96-4.862 3.405-6.772 4.643V16.67a.75.75 0 0 0-.75-.75h-.396c-3.66 0-6.318-2.476-6.318-5.886 0-3.534 2.768-6.302 6.3-6.302l4.147.01h.002c3.532 0 6.3 2.766 6.302 6.296-.003 1.91-.942 3.844-2.514 5.176z"/></svg>
+    <span>Leave your review</span>
+</button>
+
+<br><br>
+
+<div id="review-form-container">
+    <form method="post" class="form" id="review-form">
+
+    <input type="hidden" name="id" value="46822">
+    <input type="hidden" name="type" value="1">
+
+    <div class="form-control">
+        <label for="rating">Rating*</label>
+        <div class="rating-control">
+            <div class="rating editable">
+            <span >☆</span>
+            <span >☆</span>
+            <span >☆</span>
+            <span >☆</span>
+            <span >☆</span>
+    </div>            <input type="number" name="rating" id="rating" min="1" max="5" required autofocus="false">
+        </div>
+    </div>
+
+    <div class="form-control">
+        <label for="name">Your name*</label>
+        <input type="text" name="name" id="name" maxlength="50" required>
+    </div>
+
+    <div class="form-control">
+        <label for="review">Review*</label>
+        <textarea rows="3" name="review" id="review" maxlength="250" required></textarea>
+    </div>
+
+    <div class="form-control">
+        <div data-sitekey="52441852-7b08-4a01-855a-c6d8b41519d2" class="h-captcha"></div>
+    </div>
+
+    <button class="btn">Submit</button>
+
+</form>
+</div>
+
+<div id="review-added-message" class="alert alert-success">Thank you. Your review has been sent and will be published after verification.</div>
+
+
+        </div>
+
+        <div class="col-sm">
+
+            <div class="ai-placement" data-id="426"></div>
+    
+            
+
+            <h2 class="h3">Radio in your smartphone</h2>
+
+    <a href="https://play.google.com/store/apps/details?id=com.nechehin.radiomixer" rel="noopener nofollow" target="_blank" class="app-link">
+        <img src="https://radiomixer.net/img/play-market.png" loading="lazy" width="290px" height="87px" alt="Radio in your smartphone">
+    </a>
+
+        </div>
+
+    </div>
+
+    </main>
+
+    <div class="b_sf">
+    <div class="container">
+        <input type="text" placeholder="Search" id="b_sf-input">
+        <div id="b_sf-loading">Loading...</div>
+        <div id="b_sf-results"></div>
+    </div>
+</div>
+
+
+    <footer class="footer">
+
+    <a href="https://radiomixer.net/en" class="logo jx" title="Listen to the radio online">
+    Radio<strong>Mixer</strong>
+</a>
+    <div class="b_footermenu">
+        <a href="https://radiomixer.net/en/terms" class="jx">Terms of Use</a>
+        <a href="https://radiomixer.net/en/privacy-policy" class="jx">Privacy policy</a>
+        <a href="https://radiomixer.net/en/contacts" class="jx">Contacts</a>
+        <a href="https://radiomixer.net/en/directory">Directory</a>
+
+        <select class="lang-switcher">
+            <option value="id" >Bahasa Indonesia</option>
+            <option value="de" >Deutsch</option>
+            <option value="en"  selected >English</option>
+            <option value="es" >Español</option>
+            <option value="fr" >Français</option>
+            <option value="it" >Italiano</option>
+            <option value="pl" >Polski</option>
+            <option value="pt" >Português</option>
+            <option value="tr" >Türkçe</option>
+            <option value="cs" >Čeština</option>
+            <option value="ru" >Русский</option>
+            <option value="uk" >Українська</option>
+    </select>
+
+    </div>
+
+</footer>
+
+
+
+
+
+            <div class="ai-placement" data-id="865"></div>
+    
+
+        
+
+
+
+
+
+    <script>window._LANG = 'en'</script>
+
+            <script>
+            // function initAi() {
+            //     (function(a,i){
+            //         var s=a.createElement('script');
+            //         s.src=i+'?'+Math.ceil(Date.now()/10000000);
+            //         a.getElementsByTagName('head')[0].appendChild(s);
+            //     })(document,'https://aixcdn.com/client.js');
+            //     document.removeEventListener('scroll', initAi);
+            // }
+            // if (window.innerWidth < 760) {
+            //     document.addEventListener('scroll', initAi, {passive: true, once: true});
+            // } else {
+            //     initAi();
+            // }
+            (function(a,i){
+                var s=a.createElement('script');
+                s.src=i+'?'+Math.ceil(Date.now()/10000000);
+                a.getElementsByTagName('head')[0].appendChild(s);
+            })(document,'https://aixcdn.com/client.js');
+        </script>
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6916433148568508"
+                crossorigin="anonymous"></script>
+            
+    
+        
+                    <script>
+                window._getstat = { config: {}, page: {"language":"en","article_categories":"station"} };
+                window._getstat.config.articleSelector = 'article';
+            </script>
+            <script async defer src="https://s.getstat.net/cdn/client.js" id="getstat" data-id="76" data-domain="radiomixer.net"></script>
+        
+    
+    <script async defer src="https://www.googletagmanager.com/gtag/js?id=G-QZTLZKRR5Y"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-QZTLZKRR5Y');
+        </script>
+    
+        <script src="/web/js/app.js?id=3b19bd08f9688ff3bddbe9d0ca59e78a" async></script>
+    </body>
+</html>

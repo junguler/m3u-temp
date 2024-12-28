@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,95.5_Smooth_Jazz
+200 http://144.217.158.59:5176/stream.nsv
+#EXTINF:-1,SmoothJazz.NYC
+200 http://airspectrum.cdnstream1.com:8078/1614_192
+#EXTINF:-1,JAZZ_STUDIO_633
+404 https://streaming.radio.co/s3925bee2f/listen
+#EXTINF:-1,Jazz_Con_Class_Internet
+302 https://streaming.live365.com/a73229
+#EXTINF:-1,JazzRadio_(MRG.fm)
+200 https://str3.openstream.co/1837
+#EXTINF:-1,Bombshells
+404 https://streamingv2.shoutcast.com/Bombshells
+#EXTINF:-1,Best_Jazz
+https://ip111.ip-54-39-218.net/radio/8060/radio.mp3
+#EXTINF:-1,The_Jazz_Station
+302 https://streaming.live365.com/a74112
+#EXTINF:-1,Jazz-Radio.net
+200 https://c4.auracast.net:8060/radio.mp3
+#EXTINF:-1,Radio_Sitges
+200 https://s2.radio.co/s8e5dffe5e/listen
+#EXTINF:-1,RJM_Radio_JAZZY
+200 https://listen.radioking.com/radio/127546/stream/167344
+#EXTINF:-1,Jazz_FM
+302 https://web.static.btv.bg/radio/jazzfm-radio-proxy/index.php
+#EXTINF:-1,RTVS_R_Devin
+400 https://icecast.stv.livebox.sk/devin_128.mp3

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Mortalfm
+200 https://server6.emitironline.com:8044/
+#EXTINF:-1,WNBI-LP
+200 http://wnbi.org:8000/
+#EXTINF:-1,Giant_FM
+200 https://streamdb6web.securenetsystems.net/cirruscontent/WROI
+#EXTINF:-1,MFM_Station
+400 http://radio.mfm.ua:8080/online128
+#EXTINF:-1,Heart_FM
+301 http://gtrk22.ru:8000/HFMhigh
+#EXTINF:-1,Radio_Go_Light
+200 http://misato.ru-hoster.com:8026/stream
+#EXTINF:-1,MFM
+400 http://radio.gubernia.com:8000/radio1
+#EXTINF:-1,Russian_Mix
+200 https://hls-01-radiorecord.hostingradio.ru/record-rus/playlist.m3u8
+#EXTINF:-1,XChannel_94.3_FM
+http://202.78.200.228:8000/stream
+#EXTINF:-1,Є!Радіо
+400 http://45.129.97.52:8000/eradio
+#EXTINF:-1,Weradio
+302 https://stream.zeno.fm/c1789prqga0uv
+#EXTINF:-1,Décibel_Tubes
+http://37.187.146.140:8522/stream
+#EXTINF:-1,Radio_Energy
+http://178.32.62.172:8911/mp3
+#EXTINF:-1,La_Once
+http://163.182.175.106:7094/stream.nsv
+#EXTINF:-1,Artı_FM
+200 http://95.173.188.155:9322/stream/1/?icy=http
+#EXTINF:-1,Кинозал.ТВ
+302 https://myradio24.org/kinozaltv

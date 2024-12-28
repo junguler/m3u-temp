@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,GAIA_Prime
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC105.mp3
+#EXTINF:-1,Celtic
+200 https://jenny.torontocast.com:2000/stream/HighlanderRadio/Stream-HD
+#EXTINF:-1,WICCA_Radio_International
+https://eu8.fastcast4u.com/proxy/wiccarad?mp=/1
+#EXTINF:-1,The_Sound_88.9
+https://ic2.sslstream.com/wsnd-fm?rnd=3379
+#EXTINF:-1,Scotlander
+https://server.scotlander.es/listen/scotlander_radio/radio.mp3
+#EXTINF:-1,Celtic_Music
+400 http://twostream.celticmusicradio.net:8000/celticmusic.mp3
+#EXTINF:-1,Shetland_Internet_Radio_Station
+http://s23.myradiostream.com:17040/listen.mp3
+#EXTINF:-1,MKB_Independent
+200 https://servidor40-3.brlogic.com:7218/live
+#EXTINF:-1,Dunoon_Community
+404 https://eapps-cs.herokuapp.com/http://stream2.hippynet.co.uk:8001/dunoon.mp3
+#EXTINF:-1,Radio_Celtic_Sounds
+200 https://celtic-sounds.stream.laut.fm/celtic-sounds
+#EXTINF:-1,Macslons-Irish-Pub
+http://87.98.217.63:24112/stream
+#EXTINF:-1,Marktkalendarium
+200 https://marktkalendarium.stream.laut.fm/marktkalendarium
+#EXTINF:-1,Celtic-Rock
+200 https://celtic-rock.stream.laut.fm/celtic-rock
+#EXTINF:-1,Holos
+404 https://n0d.radiojar.com/6w9xskwu3a0uv
+#EXTINF:-1,Forest_Green
+200 https://stream.streamaudio.de:8000/forest-green
+#EXTINF:-1,Klee
+https://canada1.reliastream.com/proxy/kleerad4/
+#EXTINF:-1,CKUA_Radio_Network
+200 https://ais-sa1.streamon.fm/7000_48k.aac/playlist.m3u8
+#EXTINF:-1,Radio_1802
+https://16963.live.streamtheworld.com:443/SAM02AAC44.mp3?
+#EXTINF:-1,Valley_Heritage
+https://201.netromedia.com/valleyheritage/valleyheritage/playlist.m3u8
+#EXTINF:-1,nRP
+http://nrp.mywire.org:8000/stream.nsv
+#EXTINF:-1,Rádio_Infante
+302 https://stream.zeno.fm/u6e8nue7krruv
+#EXTINF:-1,New_Contemporary_Music
+200 https://streaming.radio.co/sbbdfc8d3d/listen
+#EXTINF:-1,Taliesin
+https://taliesin.out.airtime.pro/taliesin_a
+#EXTINF:-1,Darkoid
+http://darkoid.com:8080/DarkoidStreamC1.mp3
+#EXTINF:-1,CeltCast
+200 https://caster04.streampakket.com/proxy/8982/CeltCast/type=mp3
+#EXTINF:-1,Live_Ireland
+200 http://192.111.140.11:8058/

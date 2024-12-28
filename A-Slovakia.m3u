@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1,Rádio_Vlna
+200 https://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1,Europa_2
+200 https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1,Fun
+200 https://stream.funradio.sk:18443/fun128.mp3
+#EXTINF:-1,RTVS_Rádio_Slovensko
+400 https://icecast.stv.livebox.sk/slovensko_128.mp3
+#EXTINF:-1,Radio_Expres
+302 HTTP/1.1 https://stream.expres.sk/128.mp3
+#EXTINF:-1,Info_Vojna
+400 http://ply.infovojna.bz:8000/live
+#EXTINF:-1,Jemné_Melódie
+200 http://stream.bauermedia.sk/melody-hi.mp3
+#EXTINF:-1,Radio_ROCK
+200 https://stream.bauermedia.sk/rock-hi.mp3
+#EXTINF:-1,Slobodny_Vysielac
+200 https://vysielanie.online/radio/8010/aac
+#EXTINF:-1,897_DANCE
+200 http://c34.radioboss.fm:8106/stream
+#EXTINF:-1,Best_FM
+http://stream.bestfm.sk/128.mp3
+#EXTINF:-1,80s_90s_Party_Mix
+302 https://stream.zeno.fm/b4wkbpdn6s8uv
+#EXTINF:-1,Rádio_Viva
+200 http://stream.sepia.sk:8000/viva128.mp3
+#EXTINF:-1,Radio_Kosice
+400 http://stream.ecce.sk:8000/radiokosice-128.mp3
+#EXTINF:-1,Rádio_Regina_Západ
+400 https://icecast.stv.livebox.sk/regina-ba_128.mp3
+#EXTINF:-1,Trnavské_rádio
+http://stream.trnavskeradio.sk/trnavske
+#EXTINF:-1,RTVS_Radio_FM
+400 https://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:-1,Classic_Rock
+302 https://stream.zeno.fm/gvz5q869n98uv
+#EXTINF:-1,RTVS_Litera
+400 https://icecast.stv.livebox.sk/litera_128.mp3
+#EXTINF:-1,80s_90s_Dance
+302 https://stream.zeno.fm/9vqrmoduiistv
+#EXTINF:-1,Radio_WOW
+400 https://radioserver.online:9816/radiowow.mp3
+#EXTINF:-1,Radio_Sity
+200 https://radiosity.online:8000/aac
+#EXTINF:-1,Janko_Hrasko
+http://78.24.9.110:31088/
+#EXTINF:-1,Rádio_iRock
+400 https://radioserver.online:9927/irockHQ.mp3
+#EXTINF:-1,HITRADIO_SLOVAKIA
+302 https://stream.laut.fm/hitradioslovakia
+#EXTINF:-1,Radio_KIKS
+https://stream.radiokiks.sk/kiks_hq.mp3
+#EXTINF:-1,RTVS_R_Pyramída
+400 https://icecast.stv.livebox.sk/klasika_128.mp3
+#EXTINF:-1,Rádio_BETA
+400 http://109.71.67.102:8000/beta_live_low.mp3
+#EXTINF:-1,Radio_THE_END
+https://solid1.streamupsolutions.com/proxy/lesgqyll/BAradio
+#EXTINF:-1,RTVS_R_Patria
+400 https://icecast.stv.livebox.sk/patria_128.mp3
+#EXTINF:-1,RTVS_R_Devin
+400 https://icecast.stv.livebox.sk/devin_128.mp3
+#EXTINF:-1,Rusyn.fm
+400 http://stream.rusyn.fm/rusyny.mp3
+#EXTINF:-1,Radio_Kiss
+400 http://80.94.49.49:8000/kiss24.aac
+#EXTINF:-1,Rádio_Rebeca
+200 https://mpc2.mediacp.eu:8200/rebecaweb
+#EXTINF:-1,Radio_Lumen
+400 http://audio.lumen.sk:8000/live128.mp3
+#EXTINF:-1,RadioBela
+400 http://65.109.81.84:8855/live
+#EXTINF:-1,Radio_Zabava
+302 https://stream.zeno.fm/h07g40cx1nhvv
+#EXTINF:-1,Fresh
+http://164.68.122.137:8002/stream/1
+#EXTINF:-1,RTVS_R_Junior
+400 https://icecast.stv.livebox.sk/junior_128.mp3
+#EXTINF:-1,Retro_Dance
+https://retrodanceradio.com:1045/stream
+#EXTINF:-1,Rádio_Plus
+404 http://stream.sepia.sk:8000/plus128.mp3
+#EXTINF:-1,FRESH_rádio
+400 https://icecast2.radionet.sk/freshradio.sk
+#EXTINF:-1,Rádio_Šírava
+400 https://radioserver.online:9936/radiosirava.mp3
+#EXTINF:-1,Záhorácke_rádio
+501 http://live.zahorackeradio.sk:8000/zr128.mp3
+#EXTINF:-1,Rádio_Dychovka
+200 https://epanel.mediacp.eu:7661/stream
+#EXTINF:-1,Frontinus
+http://stream.frontinus.sk:8000/frontinus64.mp3
+#EXTINF:-1,Mária_Rádió
+https://dreamsiteradiocp5.com/proxy/rmslo?mp=/stream
+#EXTINF:-1,Rádio_Aetter
+400 https://stream.aetter.sk/aetter
+#EXTINF:-1,897_ALTERNATIVE
+https://c2.radioboss.fm:8712/stream
+#EXTINF:-1,Rádio_Logos
+200 https://radio.wanderingsheep.net/radio/8120/live.mp3
+#EXTINF:-1,SKY_Rádio
+400 http://stream.skyradio.sk:8000/sky128
+#EXTINF:-1,Dobré_rádio
+https://stream.dobreradio.sk:9813/dobreradio.mp3
+#EXTINF:-1,Radio_Tatras_International
+200 http://s32.myradiostream.com:10486/
+#EXTINF:-1,RádioLOKÁL
+200 https://mpc1.mediacp.eu/stream/radiolokal/stream.mp3
+#EXTINF:-1,Radio_7
+400 https://play.radio7.sk/128
+#EXTINF:-1,Rádio_Paráda
+200 https://extra.mediacp.eu/stream/RadioParada,o.z.
+#EXTINF:-1,Rádio_X_-_Folklore_X
+400 http://158.193.82.41:8000/ludovky.mp3
+#EXTINF:-1,Rádio_Topoľčany
+200 http://80.242.44.249:8000/
+#EXTINF:-1,Demomusic
+400 https://stream.radia.sk:9001/demomusic-387
+#EXTINF:-1,BB_FM_rádio
+400 http://stream.bbfm.sk/bbfm128.mp3
+#EXTINF:-1,New_Model
+404 http://stream.sepia.sk:8000/newmodel128.mp3
+#EXTINF:-1,Ah,_yes.radio_steishn
+https://c30.radioboss.fm:18255/stream
+#EXTINF:-1,Radio_Piestany
+400 http://live.radiopiestany.sk:8000/live.mp3
+#EXTINF:-1,RTVS_R_Slovakia_Int
+400 https://icecast.stv.livebox.sk/rsi_128.mp3
+#EXTINF:-1,FRED_FILM_RADIO
+https://s10.webradio-hosting.com/proxy/fredradiosk/stream/
+#EXTINF:-1,Rádio_Liptov
+http://shout.alconet.sk/radioliptov
+#EXTINF:-1,Radio_Biblia_SK
+400 http://radiobiblia.online:8000/stream.ogg

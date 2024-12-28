@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,FantasyFoxRadio
+http://85.10.201.162:8154/stream.nsv
+#EXTINF:-1,Antenne_MIX24
+200 https://antenne-mix24.stream.laut.fm/antenne-mix24
+#EXTINF:-1,Radio_JFM
+200 https://radiojfm.stream.laut.fm/radiojfm
+#EXTINF:-1,Sound_-X-_Generation
+http://sound-x.de:8250/83661113022522stream.nsv
+#EXTINF:-1,Hitkanal.FM
+400 http://stream.hitkanal.fm:8000/hitkanal-fm
+#EXTINF:-1,Radiowelle_Ehrenfeld
+200 https://radiowelle-ehrenfeld.stream.laut.fm/radiowelle-ehrenfeld
+#EXTINF:-1,NWR1
+200 https://nwr1.stream.laut.fm/nwr1
+#EXTINF:-1,Top100.FM_|_Mainstream
+http://185.194.141.103:8050/ISDN1
+#EXTINF:-1,Musikbox-Radio
+https://s5.stream-webradiotechnik.de:9102/stream1
+#EXTINF:-1,Radio_Ehrenfeld_Reloaded
+200 https://s2.genx-stream.de:8602/

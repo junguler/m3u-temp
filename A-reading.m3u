@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Sun_Sounds_of_Arizona
+200 https://kjzz.streamguys1.com/sunsounds_aac_256
+#EXTINF:-1,Audio_Book
+200 https://audiobookradio.out.airtime.pro/audiobookradio_a
+#EXTINF:-1,MDS_Station_-_Модель_для_сборки
+400 http://stream.mds-station.com:8000/01-mds
+#EXTINF:-1,vorleser.net-Radio_-_Märchenzeit
+302 https://radio.vorleser.net/maerchenzeit/mp3-192/onlineradiobox/
+#EXTINF:-1,vorleser.net-Radio_-_Spannung
+302 https://radio.vorleser.net/spannung/mp3-192/onlineradiobox/
+#EXTINF:-1,vorleser.net-Radio_-_Klassiker
+302 https://radio.vorleser.net/klassiker/mp3-192/onlineradiobox/

@@ -1,0 +1,287 @@
+#EXTM3U
+#EXTINF:-1,Newstalk_ZB
+404 https://ais-nzme.streamguys1.com/nz_002_aac
+#EXTINF:-1,Magic_FM
+404 https://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8
+#EXTINF:-1,Coast_FM
+404 https://ais-nzme.streamguys1.com/nz_011_aac
+#EXTINF:-1,SLEEP_RADIO
+https://centova.radioservers.biz/proxy/sleeprad/stream
+#EXTINF:-1,The_Edge
+301 https://tunein-icecast.mediaworks.nz/edge_128kbps
+#EXTINF:-1,RNZ_-_National
+200 https://stream-ice.radionz.co.nz/national.mp3
+#EXTINF:-1,The_Sound
+404 https://livestream.mediaworks.nz/radio_origin/sound_128kbps/chunklist.m3u8
+#EXTINF:-1,The_Breeze_FM
+301 https://tunein-icecast.mediaworks.nz/breeze_wellington_128kbps
+#EXTINF:-1,More_FM
+404 https://livestream.mediaworks.nz/radio_origin/more_128kbps/playlist.m3u8
+#EXTINF:-1,Mai_FM
+301 https://tunein-icecast.mediaworks.nz/maifm_128kbps
+#EXTINF:-1,Radio_Sport
+404 https://ais-nzme.streamguys1.com/nz_060_aac
+#EXTINF:-1,The_Rock
+301 https://tunein-icecast.mediaworks.nz/rock_128kbps
+#EXTINF:-1,Radio_Hauraki
+404 https://ais-nzme.streamguys1.com/nz_009_aac
+#EXTINF:-1,Magic_Talk
+301 https://tunein-icecast.mediaworks.nz/radiolive_128kbps
+#EXTINF:-1,Radio_ZM
+404 https://ais-nzme.streamguys1.com/nz_008_aac
+#EXTINF:-1,Bitter_Sweet_Music_NZ
+http://91.121.236.34:8520/nz
+#EXTINF:-1,The_Hits
+200 https://ais-nzme.streamguys1.com/nz_005/playlist.m3u8
+#EXTINF:-1,George_FM
+301 https://tunein-icecast.mediaworks.nz/george_128kbps
+#EXTINF:-1,Flava
+404 https://ais-nzme.streamguys1.com/nz_010_aac
+#EXTINF:-1,Radio_Dunedin
+404 https://livestream.mediaworks.nz/radio_origin/Radio_Dunedin/playlist.m3u8
+#EXTINF:-1,Niu_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM.mp3
+#EXTINF:-1,Retro_Hit
+200 https://riphel02.radioca.st/stream
+#EXTINF:-1,Dave_FM
+200 http://s13.myradiostream.com:4618/listen.mp3
+#EXTINF:-1,Life_FM
+200 https://rhema-radio.streamguys1.com/rhema-lifefm.mp3
+#EXTINF:-1,Star_FM
+200 https://rhema-radio.streamguys1.com/rhema-star.mp3
+#EXTINF:-1,The_Heat
+400 http://apple2.irirangi.net:8000/The_Heat.aac
+#EXTINF:-1,The_Cheese
+http://thecheese.ddns.net:8000/stream.mp3
+#EXTINF:-1,Just_Jazz
+https://thebuzz.radioca.st/stream
+#EXTINF:-1,Groove_FM
+http://live.outcastdigital.com:8000/groove
+#EXTINF:-1,ROVA_-_Acoustic_Chill
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_ACOUSTICCHILL_S01.aac
+#EXTINF:-1,The_Generator_FM
+200 http://s1.myradiostream.com:14268/
+#EXTINF:-1,Spellbound
+404 https://s3.radio.co/s3620d3fd0/listen
+#EXTINF:-1,Radio_531pi
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC
+#EXTINF:-1,Rhema
+200 https://rhema-radio.streamguys1.com/rhema.mp3
+#EXTINF:-1,Tiri_2
+404 https://streamer.radio.co/s81fc850fd/listen
+#EXTINF:-1,Humm_FM
+301 https://tunein-icecast.mediaworks.nz/humm_128kbps
+#EXTINF:-1,Radio_X
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC
+#EXTINF:-1,ZFM_Non-Stop
+200 http://nebula.shoutca.st:8545/stream.nsv
+#EXTINF:-1,Mix_FM
+400 https://stream.mixfm.nz/
+#EXTINF:-1,Most_FM
+400 http://gordon.mostfm.com:8000/high
+#EXTINF:-1,Turanga_FM
+200 https://ais-nzme.streamguys1.com/nz_136/playlist.m3u8
+#EXTINF:-1,RAG-FM_107.7_Raglan_New_Zealand
+https://ssl.shoutcaststreaming.us:8138/
+#EXTINF:-1,Radio_Control
+400 https://michae14-gecko.radioca.st/stream
+#EXTINF:-1,Coast_Access
+200 https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8
+#EXTINF:-1,The_P.U.B.E.
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/ULTIMATE_FAN_RADIO_S01AAC.aac
+#EXTINF:-1,SANZLive
+200 https://s3.radio.co/s47a56becc/listen
+#EXTINF:-1,Heads_FM
+http://144.217.195.24:8760/
+#EXTINF:-1,RDU_FM
+200 https://rdu985fm-gecko.radioca.st/stream
+#EXTINF:-1,Tzgospel_swahili
+302 https://stream.zeno.fm/74aab55mffhvv
+#EXTINF:-1,Switch_FM_Gisborne
+200 http://s8.myradiostream.com:56886/listen.m4a
+#EXTINF:-1,95b_FM
+https://ssl.geckohost.nz/proxy/caitlinssl?mp=/stream
+#EXTINF:-1,New_Zealand_Net
+https://www.nznetradio.net.nz:8443/stream3
+#EXTINF:-1,Moana
+400 http://apple.irirangi.net:8000/C_Moana.aac
+#EXTINF:-1,Horror_Punk
+http://procyon.shoutca.st:8428/stream
+#EXTINF:-1,AndHow.FM
+https://us4.internet-radio.com/proxy/andhowfm?mp=/stream
+#EXTINF:-1,The_Flea_FM
+http://49.50.246.42:8020/
+#EXTINF:-1,Radio_Tarana
+200 https://peridot.streamguys1.com:7150/Tarana.aac
+#EXTINF:-1,Base_FM
+https://stream.basefm.co.nz:8443/Base256AAC
+#EXTINF:-1,Radio_Ngāti_Porou
+400 http://apple.irirangi.net:8000/K_Ngati_Porou.aac
+#EXTINF:-1,Sunshine_FM
+http://radio.tehiku.live:8010/stream/1
+#EXTINF:-1,Te_Arawa
+400 http://apple.irirangi.net:8000/E_Pumanawa.aac
+#EXTINF:-1,East_FM
+https://listen.eastfm.nz/stream.aac
+#EXTINF:-1,Hokonui
+404 https://ais-nzme.streamguys1.com/nz_013_aac
+#EXTINF:-1,Bollybop
+404 https://stream.radio.co/s2562b6e3a/listen
+#EXTINF:-1,Coromandel's_C95_FM
+302 https://s47.myradiostream.com/8864/listen.mp3/
+#EXTINF:-1,Kaos_FM_NZ
+401 http://74.91.125.187:8068/stream
+#EXTINF:-1,Radio_One
+http://stream.r1.co.nz:8090/stream.mp3
+#EXTINF:-1,Radio_Active
+200 https://radio123-gecko.radioca.st/radioactivefm
+#EXTINF:-1,Tai_FM
+http://radio.tehiku.live:8020/stream/1
+#EXTINF:-1,Sun_FM
+400 http://apple2.irirangi.net:8000/Taiohi.aac
+#EXTINF:-1,Nui_FM
+401 https://nuifmjac-gecko.radioca.st/index
+#EXTINF:-1,Gaia_FM
+https://s2.stationplaylist.com:9000/gaiafm.aac
+#EXTINF:-1,Bayrock
+200 https://radio.e-cast.co.nz/bayrock/stream.m3u8
+#EXTINF:-1,Nga_Iwi_FM
+400 http://apple.irirangi.net:8000/D_Nga_Iwi.aac
+#EXTINF:-1,The_ONE_-_Jesus
+http://s7.myradiostream.com:59714/stream
+#EXTINF:-1,Radio_Apna_990_AM
+200 https://ais-nzme.streamguys1.com/nz_145/playlist.m3u8
+#EXTINF:-1,MFM
+400 http://apple.irirangi.net:8000/R_Maniapoto.aac
+#EXTINF:-1,Vinyl_Radio_NZ
+302 https://s40.myradiostream.com/17794/listen.aac
+#EXTINF:-1,Radio_Waatea
+400 http://apple.irirangi.net:8000/I_Waatea.aac
+#EXTINF:-1,Static_FM
+http://commsweb.aut.ac.nz:8000/live
+#EXTINF:-1,Tuwharetoa_FM
+400 http://apple.irirangi.net:8000/H_Tuwharetoa.aac
+#EXTINF:-1,Ngāti_Hine_FM
+400 http://apple.irirangi.net:8000/N_Ngati_Hene.aac
+#EXTINF:-1,Power_Hit_FM_87.8
+https://pstnet1.shoutcastnet.com:16104/stream
+#EXTINF:-1,One_Double-X
+200 https://radio.e-cast.co.nz/1xxone/stream.m3u8
+#EXTINF:-1,Plains_FM
+200 https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8
+#EXTINF:-1,Radio_Kahungunu
+400 https://stream.iwi.radio/Kahungunu.aac
+#EXTINF:-1,Tahu_FM
+400 http://apple.irirangi.net:8000/P_Tahu.aac
+#EXTINF:-1,Radio_Southland
+200 https://live.accessmedia.nz/Southland.stream_aac/playlist.m3u8
+#EXTINF:-1,Tamil_Panpalai_ANZ
+200 https://tamilpanpalai.radioca.st/stream
+#EXTINF:-1,Fresh_FM
+200 https://live.accessmedia.nz/Fresh.stream_aac/playlist.m3u8
+#EXTINF:-1,Te_Upoko_o_te_Ika
+400 http://apple.irirangi.net:8000/A_Te_Upoko_O_Te_Ika.aac
+#EXTINF:-1,AWA_FM
+400 http://apple.irirangi.net:8000/O_Awa.aac
+#EXTINF:-1,Q97
+200 https://radio.e-cast.co.nz/q97/stream.m3u8
+#EXTINF:-1,World_FM
+http://www.worldfm.co.nz:8882/worldfm.aac
+#EXTINF:-1,TumekeFM
+400 http://apple.irirangi.net:8000/S_Sun.aac
+#EXTINF:-1,Radio_Tautoko
+https://s5.voscast.com:9751/TautokoFM.aac
+#EXTINF:-1,KFM
+https://s5.voscast.com:10451/stream
+#EXTINF:-1,Radio_Robotic
+302 https://stream.zeno.fm/rhscse2a41zuv
+#EXTINF:-1,100.3_FM_South_Canterbury
+200 http://uk4-vn.mixstream.net:8066/
+#EXTINF:-1,FLEET_FM
+200 https://audio.fleetfm.co.nz/shows/jimmy_210115.mp3
+#EXTINF:-1,Amazing_Truth
+404 https://s4.radio.co/s814755f63/listen
+#EXTINF:-1,NOW!
+200 https://broadcast.airwaven.com/radio/8000/radio.mp3
+#EXTINF:-1,Kia_Ora
+400 http://apple.irirangi.net:8000/T_Kia_Ora.aac
+#EXTINF:-1,Atiawa_Toa_FM
+400 http://apple.irirangi.net:8000/Q_Atiawa_Toa.aac
+#EXTINF:-1,Big_River
+http://bigriver.broadcast.co.nz/bigriverfm.mp3
+#EXTINF:-1,Pulzar_FM
+https://s2.reliastream.com/proxy/pulzarfm?mp=/pulzarfm?ver=744055
+#EXTINF:-1,Wellington_Access
+200 https://live.accessmedia.nz/Wellington.stream_aac/playlist.m3u8
+#EXTINF:-1,Radio_Tainui
+400 http://apple.irirangi.net:8000/F_Tainui.aac
+#EXTINF:-1,Planet_FM
+https://cp12.shoutcheap.com:18220/strem
+#EXTINF:-1,Gold_FM
+200 https://ais-nzme.streamguys1.com/nz_015/playlist.m3u8
+#EXTINF:-1,Waiheke_Wireless_Meditate
+http://66.70.249.70:5654/stream
+#EXTINF:-1,Hutt
+302 https://stream.zeno.fm/argf5n7rbrruv
+#EXTINF:-1,Mushroom_FM
+https://cast1.asurahosting.com/proxy/jonatha1/live
+#EXTINF:-1,Jeewan_Dhaara
+200 https://stream.radio.co/s82f023bab/listen
+#EXTINF:-1,Pirate_Radio_NZ
+400 https://s1.voscast.com:11697/stream
+#EXTINF:-1,Manawatu_People's
+200 https://live.accessmedia.nz/MPR.stream_aac/playlist.m3u8
+#EXTINF:-1,Radiowave_NZ
+400 https://stream.radiowavenz.com/stream
+#EXTINF:-1,Brian_FM_Whanganui
+200 https://ais-sa1.streamon.fm/7100_128k.aac/playlist.m3u8
+#EXTINF:-1,New_Zealand_Chinese
+200 https://s26.myradiostream.com/:20274/listen.mp3
+#EXTINF:-1,SKI_FM
+200 https://s2.radio.co/s6436891bc/listen
+#EXTINF:-1,Raukawa_FM
+400 http://apple.irirangi.net:8000/W_Raukava.aac
+#EXTINF:-1,Riffraff_Live
+404 https://s5.radio.co/s9724ee086/listen
+#EXTINF:-1,The_Wireless_90.4FM
+http://144.217.203.184:8045/stream.nsv
+#EXTINF:-1,The_Scoop_Taranaki
+404 https://s4.radio.co/se3177a896/listen
+#EXTINF:-1,Radio_Hydra
+200 https://streaming.radio.co/sed9109681/listen
+#EXTINF:-1,Radio_Tama-Ohi
+http://173.236.19.90:8174/stream.nsv
+#EXTINF:-1,Radio_A_Nelson
+200 https://listen.radioking.com/radio/106324/stream/145267
+#EXTINF:-1,GuruBox
+200 https://s3.castbox.fm/c5/8e/12/a67a624f318f861068543fbafc.mp3
+#EXTINF:-1,Jazz_Cafe
+200 https://radio.wanderingsheep.net:8000/jazzcafe
+#EXTINF:-1,TC
+https://kris-gecko.radioca.st/stream
+#EXTINF:-1,MuzzaPower
+503 https://s34.myradiostream.com/:13480/listen.mp3
+#EXTINF:-1,Radio_Kidnappers
+200 https://live.accessmedia.nz/Kidnappers.stream_aac/playlist.m3u8
+#EXTINF:-1,Classic_Gold_Radio_Redwood
+200 http://123.255.61.226:8020/
+#EXTINF:-1,8k.nz
+200 https://radio8k.out.airtime.pro/radio8k_b
+#EXTINF:-1,Maxx
+502 https://s47.radiolize.com/radio/8160/radio.mp3
+#EXTINF:-1,Gold_AM
+200 https://ais-nzme.streamguys1.com/nz_016/playlist.m3u8
+#EXTINF:-1,Radio_Rock_FM
+400 http://www.radiorockfm.co.nz:8000/listenlive
+#EXTINF:-1,Radio_Te_Aroha_-_88FM
+200 https://c2.radioboss.fm:18440/stream
+#EXTINF:-1,Radio_Schmadio_The_Casual
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/THE_CASUAL_S01.mp3
+#EXTINF:-1,Radical_FM_-_New_Zealand
+https://stream.kueradio.com.au/radio/8060/RadicalNZ.aac
+#EXTINF:-1,The_Blend_Hawke's_Bay
+502 https://s38.radiolize.com/radio/8190/radio.mp3?1618892831
+#EXTINF:-1,Love_FM_交通音乐广播
+400 http://radio.936.nz:8000/fm994
+#EXTINF:-1,936新闻台
+400 http://radio.936.nz:8000/am936

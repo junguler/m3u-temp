@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Surf_Shack
+404 https://streamer.radio.co/s74e0a4911/listen
+#EXTINF:-1,KPOA
+https://live.wostreaming.net/direct/pacificradio-kpoafmaac-ibc1
+#EXTINF:-1,Kapa
+https://live.wostreaming.net/manifest/pacificradio-kapafmaac-hlsc1.m3u8/
+#EXTINF:-1,KWXX
+https://live.wostreaming.net/manifest/newwest-kwxxfmaac-hlsc1.m3u8/?source=v7player
+#EXTINF:-1,Aloha_Joe's_Hawaiian
+200 http://64.78.234.165:8000/ALOHAJOE
+#EXTINF:-1,Kulcha_Shok_Muzik
+http://199.180.75.2:9317/
+#EXTINF:-1,HI95_Kauai
+https://live.wostreaming.net/direct/pacificradio-ksrffmaac-ibc1
+#EXTINF:-1,Hawaiian_Rainbow
+http://canopus.dribbcast.com:8008/stream
+#EXTINF:-1,Q_103.7_FM
+302 http://streamdb7web.securenetsystems.net/v5/KNUQ
+#EXTINF:-1,Hawaiian_105_KINE
+502 https://ais-sa1.streamon.fm/7694_128k.aac
+#EXTINF:-1,FM100
+502 https://ais-sa1.streamon.fm/7693_128k.aac
+#EXTINF:-1,HI93
+https://live.wostreaming.net/manifest/pacificradio-kqmqfmaac-hlsc1.m3u8?source=v7player
+#EXTINF:-1,Yimago_2_:_Hawaiian_Music
+301 https://yimago.torontocast.stream/hawaiian

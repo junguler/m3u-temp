@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1,Radio_Italia
+400 https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8
+#EXTINF:-1,RTL_102.5
+200 https://streamingv2.shoutcast.com/rtl-1025
+#EXTINF:-1,Radio_Monte_Carlo_2
+https://edge.singsingmusic.net/MC2.mp3
+#EXTINF:-1,RAI_Radio_1
+403 https://icestreaming.rai.it/1.mp3
+#EXTINF:-1,Radio_Deejay
+405 https://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
+#EXTINF:-1,Radio_Monte_Carlo
+200 https://icecast.unitedradio.it/RMC.mp3
+#EXTINF:-1,Kiss_Kiss_Italia
+502 https://kisskiss.fluidstream.eu/KKItalia.aac?FLID=8&type=.aac
+#EXTINF:-1,Radio_60_70_80
+400 https://ice.studiopiu.net/607080.aac
+#EXTINF:-1,m2o_Radio_
+405 https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
+#EXTINF:-1,RDS
+200 https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
+#EXTINF:-1,Venice_Classic
+200 https://uk2.streamingpulse.com/ssl/vcr1
+#EXTINF:-1,Virgin
+200 https://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1,Radio_105
+200 https://icecast.unitedradio.it/Radio105.mp3
+#EXTINF:-1,RAI_Radio_2
+302 https://icestreaming.rai.it/2.mp3
+#EXTINF:-1,Radio_24
+200 http://shoutcast2.radio24.it:8000/stream.nsv
+#EXTINF:-1,LolliRadio_Italia
+200 https://stream.lolliradio.net/lolli_italia.mp3?FLID=8&aw_0_req.gdpr=true&type=.mp3
+#EXTINF:-1,Milano_Lounge
+https://centova.wlservices.org/proxy/pufepstm?mp=/stream
+#EXTINF:-1,Trance-Energy
+400 https://radio.trance-energy.org:8443/trance
+#EXTINF:-1,Radio_80
+200 https://sphera.fluidstream.eu/radio80.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+#EXTINF:-1,R101
+200 https://icecast.unitedradio.it/r101_mp3
+#EXTINF:-1,RAI_Radio_3
+302 https://icestreaming.rai.it/3.mp3
+#EXTINF:-1,Radio_Antenna_Petrignano
+200 https://italiavera.radioca.st/stream
+#EXTINF:-1,Radio_Italia_Anni_60
+502 https://ice10.fluidstream.net/anni60tn.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+#EXTINF:-1,Italia_Dance_Music
+200 https://sr2.inmystream.it:18032/stream
+#EXTINF:-1,Radio_Nostalgia_Liguria
+200 https://rn1.fluidstream.eu/nostalgia_li.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+#EXTINF:-1,Radio_Antenna_1_Roma
+502 https://a1-it.newradio.it/stream?
+#EXTINF:-1,RAI_Radio_Classica
+302 https://icestreaming.rai.it/5.mp3
+#EXTINF:-1,Radio_Kiss_Kiss
+200 https://kisskiss.fluidstream.eu/KissKiss.aac?FLID=8&type=.aac
+#EXTINF:-1,Radio_Nuova_San_Giorgio
+https://eu1.fastcast4u.com/proxy/eenter07?mp=/
+#EXTINF:-1,RAI_Radio_Tutta_Italiana
+302 https://icestreaming.rai.it/4.mp3
+#EXTINF:-1,Radio_Freccia
+200 https://streamingv2.shoutcast.com/radiofreccia
+#EXTINF:-1,Radio_Capital
+405 https://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8
+#EXTINF:-1,Radio_Subasio
+200 https://icy.unitedradio.it/Subasio.mp3
+#EXTINF:-1,ITALIANISSIMA_RADIO
+200 http://stream.wifi4all.it:8000/italianissima
+#EXTINF:-1,Radio_Dancefloor_90s
+200 http://streaming.radiodancefloor.it:443/stream.nsv
+#EXTINF:-1,Radio_Balla_Balla
+200 https://ice15.fluidstream.net/ballaballa.aac?FLID=8&type=.aac
+#EXTINF:-1,RAI_Isoradio
+403 https://icestreaming.rai.it/6.mp3
+#EXTINF:-1,LatteMiele
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/LATTEMIELE.mp3?
+#EXTINF:-1,Radio_Cuore_Italia
+http://46.105.114.57:8001/stream2
+#EXTINF:-1,7va_Digital
+http://freeuk29.listen2myradio.com:22294/stream
+#EXTINF:-1,RAI_Radio_Kids
+302 https://icestreaming.rai.it/11.mp3
+#EXTINF:-1,Radio_Mela
+https://www.shoutcastitalia.com/proxy/radiomela?mp=/stream
+#EXTINF:-1,Discoradio
+200 https://stream.discoradio.radio/audio/disco.stream_aac/playlist.m3u8
+#EXTINF:-1,Otto_FM_Italy
+400 http://streaming.bitonlive.net:12000/ottofmita.mp3
+#EXTINF:-1,Nature_Radio_Sleep
+http://larry.torontocast.com:1540/stream/1/
+#EXTINF:-1,Metal_Maximum_Radio_(MMR)
+https://s11.ssl-stream.com/ssl/metalmaximum?mp=/stream
+#EXTINF:-1,Ritmo_80
+502 https://rh.fluidstream.eu/ritmo80.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+#EXTINF:-1,Dimensione_Suono_Soft
+200 https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac/playlist.m3u8
+#EXTINF:-1,Radio_Napoli
+502 https://kk.fluidstream.eu/RadioNapoli.aac?FLID=8&type=.aac
+#EXTINF:-1,Radio_Birikina
+502 https://ice01.fluidstream.net/birikina?FLID=8&type=.aac
+#EXTINF:-1,Radio_Cron
+302 https://stream.laut.fm/cron
+#EXTINF:-1,Radiolina
+http://livestreaming.radiolina.it:8000/stream.nsv
+#EXTINF:-1,DIMENSIONE_JAZZ
+502 https://maggie.torontocast.com:2020/stream/radiodimensionejazz
+#EXTINF:-1,Bitter_Sweet_Music_IT
+http://bittersweetmusic.24-7.ro:8520/it
+#EXTINF:-1,Radio_Norba
+https://onair20.xdevel.com/proxy/sc_rno?mp=/mp3/
+#EXTINF:-1,Radio_Ibiza
+502 https://kisskiss.fluidstream.eu/ibiza.aac?FLID=8&type=.aac
+#EXTINF:-1,Radio_Shake_Hit
+200 http://stream12.top-ix.org/fantasticap2
+#EXTINF:-1,Radio_Margherita
+https://onair20.xdevel.com/proxy/sc_margherita?mp=/stream
+#EXTINF:-1,One_Dance
+502 https://ice04.fluidstream.net/rn1_2.aac?FLID=8&type=.aac
+#EXTINF:-1,Radio_Sportiva
+200 https://sportiva.inmystream.it/stream/sportiva
+#EXTINF:-1,Kids
+200 https://ns3156088.ip-51-89-96.eu:2000/stream/KidsRadio
+#EXTINF:-1,Radio_UAO
+http://nr11.newradio.it:9023/
+#EXTINF:-1,Radio_Romantica_93.9
+200 http://5.196.75.187:8004/
+#EXTINF:-1,RTR_99
+502 https://rtr99.fluidstream.eu/rtr99.aac
+#EXTINF:-1,Italian_Dance_Network
+200 http://italiandancenetwork.com:8000/stream.mp3?type=.mp3
+#EXTINF:-1,Gamma
+http://46.105.114.57:8007/stream2
+#EXTINF:-1,Radio_Play_Emotions
+https://www.shoutcastitalia.com/proxy/playemotions?mp=/stream
+#EXTINF:-1,Forever_80
+302 https://stream.laut.fm/forever80
+#EXTINF:-1,Radio_Tirol
+200 https://str0.creacast.com/radiotirol_a
+#EXTINF:-1,Radio_Dimensione_Relax
+http://jenny.torontocast.com:8012/stream
+#EXTINF:-1,Cafe_Roma_Lounge
+https://mpc.mediacp.eu/stream/caferomalounge
+#EXTINF:-1,Radio_Bruno
+200 https://stream7.xdevel.com/audio4s975355-396/stream/icecast.audio
+#EXTINF:-1,Radio_Master
+200 http://198.27.127.246:7394/stream.nsv
+#EXTINF:-1,RAI_Radio_Live
+302 https://icestreaming.rai.it/10.mp3
+#EXTINF:-1,Radio_Sorrriso
+502 https://ice01.fluidstream.net/sorriso?FLID=7&type=.aac
+#EXTINF:-1,Radio_Giulia_La_Radio_Italiana
+502 https://rh.fluidstream.eu/giulia.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+#EXTINF:-1,Radio_Radio_Live
+400 https://sr6.inmystream.it:18102/stream
+#EXTINF:-1,Funky_Corner
+200 https://ais-sa2.cdnstream1.com/2447_192.mp3
+#EXTINF:-1,DeeGay_Pop&Dance
+200 https://stream.deegay.fm/deegay1.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+#EXTINF:-1,Radio_2000
+400 http://159.69.217.78:8000/?radio=radio2000.mp3
+#EXTINF:-1,Radio_Piterpan
+502 https://wma01.fluidstream.net/piterpan?FLID=8&type=.aac
+#EXTINF:-1,Radio_Versilia_RFM-inBlu
+200 http://nr7.newradio.it:9365/
+#EXTINF:-1,Radio_Studio_Piu
+400 https://ice.studiopiu.net/rete.aac
+#EXTINF:-1,RAI_Radio_Techete
+302 https://icestreaming.rai.it/9.mp3
+#EXTINF:-1,Vintage_MegaMix
+http://www.vintagemegamix.it:8000/airtime_128
+#EXTINF:-1,Radio_Studio_54
+http://s29.myradiostream.com:4720/
+#EXTINF:-1,Radio_Campania_-_musica_tutta_Napoli
+200 https://live.radiocampania.eu/radio/8000/radio.mp3
+#EXTINF:-1,Radio_Maria
+200 http://dreamsiteradiocp.com:8092/stream.nsv
+#EXTINF:-1,Radio_Popolare
+502 https://livex.radiopopolare.it/radiopop2
+#EXTINF:-1,Milano_XR
+https://milanoxr.v6.rocks:8443/live
+#EXTINF:-1,Tango_Pasión
+200 https://nr1.newradio.it:19180/stream
+#EXTINF:-1,Radio_Mambo
+200 https://mambo.newradio.it/stream
+#EXTINF:-1,Radio_Number_One
+502 https://rn1.fluidstream.eu/rn1.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+#EXTINF:-1,Rete_Sport
+https://retesport.newradio.it/1
+#EXTINF:-1,Radio_Studio_Emme
+200 https://ice09.fluidstream.net/fluid0901.aac?FLID=8&type=.aac
+#EXTINF:-1,Dimensione_Suono_Roma
+200 https://stream.dimensionesuonoroma.radio/audio/dsr.stream_aac64/playlist.m3u8
+#EXTINF:-1,35x80_-_Back_to_the_80s
+https://antares.dribbcast.com/proxy/35x80?mp=/stream
+#EXTINF:-1,Italy_Classical
+200 https://giosa.radioca.st/
+#EXTINF:-1,Radio_Viva_FM
+200 https://stream2.vivafm.it:9002/stream.mp3
+#EXTINF:-1,Radio_Party_Groove
+200 https://stream15.top-ix.org/partygroove
+#EXTINF:-1,Radio_70_80_90
+200 https://rblive.it:8020/radio.mp3
+#EXTINF:-1,Radio_Marilu
+502 https://wma01.fluidstream.net/marilu?FLID=8&type=.aac
+#EXTINF:-1,Radio_Classica
+404 https://f027b3b473cf4361.msvdn.net/icecastRelay/S18953915/icecast
+#EXTINF:-1,Radio_Bella_&_Monella
+502 https://wma01.fluidstream.net/bella?FLID=8&type=.aac
+#EXTINF:-1,Radio_Venezia_-_La_Radio_che_Balla
+200 http://audio.streamshow.it:8012/stream
+#EXTINF:-1,Ram_Power_
+400 https://icstream.rds.radio/ram
+#EXTINF:-1,Radio_Marte
+200 https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio
+#EXTINF:-1,RTC_Targato_Napoli
+404 https://ice04.fluidstream.net/fluid0408.mp3?FLID=8&type=.mp3
+#EXTINF:-1,Radio_Radicale
+400 https://livemp3.radioradicale.it/live.mp3
+#EXTINF:-1,Radio_otto_nove_classics
+400 https://nr8.newradio.it:19681/stream?
+#EXTINF:-1,Radio_Italianissima
+302 http://onair15.xdevel.com:9100/
+#EXTINF:-1,Radio_PoPizz
+200 http://nr11.newradio.it:8116/
+#EXTINF:-1,Gargano_FM
+200 https://stream1.xdevel.com/audio0s975759-322/stream/icecast.audio
+#EXTINF:-1,Napoli_Ieri_e_Oggi
+200 https://nr11.newradio.it:19118/stream
+#EXTINF:-1,Musica_degli_Anni_80
+404 https://streamingv2.shoutcast.com/Musica-degli-anni--80
+#EXTINF:-1,Radio_Roma_Capitale
+http://nr8.newradio.it:9596/stream
+#EXTINF:-1,United_Music_Italia_80
+200 https://icy.unitedradio.it/um016.mp3
+#EXTINF:-1,Dj_Play
+http://91.121.38.216:8026/
+#EXTINF:-1,Radio_Mitology_70-80
+http://onair15.xdevel.com:9120/
+#EXTINF:-1,M100
+http://94.23.65.199/m100-64
+#EXTINF:-1,Radio_Made_in_Italy
+200 http://nr9.newradio.it:9244/
+#EXTINF:-1,RadioAnimati
+400 https://stream.radioanimati.it/ramobile
+#EXTINF:-1,Vynil_FM
+400 http://streaming.bitonlive.net:12000/vinylfm.mp3
+#EXTINF:-1,Radio_Globo
+http://178.33.72.12/globorm64
+#EXTINF:-1,Radio_Jukebox
+200 http://stream15.top-ix.org/radiojukebox-low
+#EXTINF:-1,Radio_Company
+502 https://sphera.fluidstream.eu/company.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+#EXTINF:-1,RADIO_SANREMO
+http://199.195.194.92:8055/stream.nsv
+#EXTINF:-1,Radio_WoW
+502 https://sphera.fluidstream.eu/fluid_wow.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+#EXTINF:-1,K-Rock
+200 https://ice20.fluidstream.net/ric.mp3?FLID=8&aw_0_req.gdpr=true&type=.mp3
+#EXTINF:-1,Radio_Delfino
+https://nr8.newradio.it/proxy/emaamo00?mp=/stream
+#EXTINF:-1,Radio_Sabbia
+200 http://sr2.inmystream.info:8104/stream
+#EXTINF:-1,FM_Classic
+302 http://onair7.xdevel.com:8730/stream.mp3
+#EXTINF:-1,Radio_Toscana
+404 https://stream5.xdevel.com/audio4s976317-1148/stream/icecast.audio
+#EXTINF:-1,Antenna_Web
+200 http://hydra.shoutca.st:8545/stream
+#EXTINF:-1,Radio_Canale_Italia
+200 https://rci.canaleitalia.tv:8007/
+#EXTINF:-1,Radio_FM_Music
+200 http://nr9.newradio.it:9362/stream
+#EXTINF:-1,Sudtirol_1
+200 http://str2.creacast.com/sudtirol1a
+#EXTINF:-1,Radio_Sunshine
+200 http://195.201.227.227:18011/
+#EXTINF:-1,Radio_Cuneo_Nord
+http://eu7.fastcast4u.com:6174/
+#EXTINF:-1,ART_OF_MUSIC
+200 https://artofmusic.radioca.st/stream1
+#EXTINF:-1,RadioPlayTime
+http://rosetta.shoutca.st:8913/
+#EXTINF:-1,LifeGate
+302 https://router.xdevel.com/audio0s975809-345/stream/icecast.audio
+#EXTINF:-1,Music_Jazz
+https://ice03.fluidstream.net/mjr.aac?FLID=8&type=.aac
+#EXTINF:-1,Radio_Carina
+200 http://audio.streamshow.it:8006/
+#EXTINF:-1,Radio_Show
+http://sh1.inmystream.info:8064/
+#EXTINF:-1,Roma
+302 https://s44.myradiostream.com/4026/listen.mp3
+#EXTINF:-1,Radio_Italia_1
+200 http://stream15.top-ix.org/radioitaliauno
+#EXTINF:-1,Radio_Padova
+200 https://sphera.fluidstream.eu/rpd.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+#EXTINF:-1,Radio_Amore
+302 http://onair15.xdevel.com:8016/stream.mp3

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Quran_in_Vietnamese
+200 https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3?type=.mp3/stream.mp3
+#EXTINF:-1,VOH
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:-1,_VOV_5
+https://static.vovworld.vn/Uploaded/kimlan/2016_07_23/lan_het.mp3
+#EXTINF:-1,VOV_1
+http://118.70.205.22:1935/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+#EXTINF:-1,VOV_2
+https://streaming1.vov.vn:8443/audio/vovvn1_vov2.stream_aac/playlist.m3u8
+#EXTINF:-1,Scientific_Sound_Asia
+https://sandra.epichosts.co.uk:8172/live.mp3
+#EXTINF:-1,VOV_4
+http://118.69.211.87:1935/vovtaybac/vovtaybac.stream_aac/chunklist_w540815888.m3u8

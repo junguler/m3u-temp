@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1,Relax_FM
+302 https://stream.relaxfm.ee/relax
+#EXTINF:-1,Retro_FM
+302 https://stream.skymedia.ee/live/RETRO
+#EXTINF:-1,Sky_Plus
+302 https://stream.skymedia.ee/live/SKYPLUS
+#EXTINF:-1,Rock_FM
+302 https://stream.skymedia.ee/live/rck
+#EXTINF:-1,NRJ
+302 https://stream.skymedia.ee/live/NRJ
+#EXTINF:-1,Vikerraadio
+400 https://icecast.err.ee/vikerraadio.mp3
+#EXTINF:-1,MusicVision_Estonia
+302 https://stream.zeno.fm/s3a8q2uwvchvv
+#EXTINF:-1,Raadio_4_-_ER4
+400 https://icecast.err.ee/raadio4madal.mp3
+#EXTINF:-1,Raadio_Elmar
+302 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac
+#EXTINF:-1,Russkoe
+302 https://stream.skymedia.ee/live/RR
+#EXTINF:-1,Radio_MyHits
+302 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac
+#EXTINF:-1,D-FM
+302 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dfm.aac
+#EXTINF:-1,SKY_Радио
+302 https://stream.skymedia.ee/live/SKY
+#EXTINF:-1,Народное_Радио
+302 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.mp3
+#EXTINF:-1,ERR_Raadio_2
+400 https://icecast.err.ee/raadio2.mp3
+#EXTINF:-1,Радио_Волна
+400 https://ice.leviracloud.eu/volna96-aac?t1599154397289
+#EXTINF:-1,Star_FM
+400 https://ice.leviracloud.eu/star96-aac
+#EXTINF:-1,Raadio_Kuku
+302 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac
+#EXTINF:-1,Power_Hit
+400 https://ice.leviracloud.eu/phr96-aac
+#EXTINF:-1,Raadio_Tallinn
+400 https://icecast.err.ee/raadiotallinn.mp3
+#EXTINF:-1,Klassika_Raadio
+400 http://icecast.err.ee/klassikaraadio.mp3
+#EXTINF:-1,Hits_Radio_Online
+https://livessl.rcast.net/stream/66833/
+#EXTINF:-1,Sooviraadio
+200 https://play.sooviraadio.net/stream.mp3
+#EXTINF:-1,Tzgospel_swahili
+302 https://stream.zeno.fm/xqfdaf7dgfhvv
+#EXTINF:-1,Spin_FM
+http://87.110.219.34:8000/spinmp3
+#EXTINF:-1,Ring_FM
+400 http://sc2.treraadio.ee:8002/tre
+#EXTINF:-1,Nömme_Raadio
+http://149.210.138.12:8000/nommeraadio
+#EXTINF:-1,Doubleclap
+200 https://s3.radio.co/scfd7273b2/listen
+#EXTINF:-1,Tartu_Family
+http://worker.pereraadio.ee:8000/
+#EXTINF:-1,HitMix_Estonia
+400 https://stream.hitmix.ee:8443/HIT_320
+#EXTINF:-1,Marta_FM
+http://icecast.mmm.elion.ee:8080/MartaFM
+#EXTINF:-1,Xl_Radio_-_Xltrax_Estonia
+http://xltrax.com:8300/
+#EXTINF:-1,Artekon_Raadio
+404 https://myradio24.org/5566
+#EXTINF:-1,HappyU
+405 https://radio.streemlion.com:2525/stream
+#EXTINF:-1,Raadio_Kadi
+https://kadi.babahhcdn.com/kadi
+#EXTINF:-1,Chat_Raadio
+https://puma.streemlion.com:1830/stream
+#EXTINF:-1,Raadio_7
+https://raadio7.babahhcdn.com/raadio7
+#EXTINF:-1,Paldiski_Raadio
+http://46.22.208.116:8000/stream.nsv
+#EXTINF:-1,TRE_Raadio_Põhja-Eesti
+400 http://sc2.treraadio.ee/pohja-tre
+#EXTINF:-1,Pereraadio_Tartu
+400 http://bee.pereraadio.ee:8000/
+#EXTINF:-1,Tagatuba_FM
+200 https://eu1-sonic.serverse.com/8008/stream
+#EXTINF:-1,Raadio_Duo
+302 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac
+#EXTINF:-1,Postimees_Raadio
+302 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/postimeesraadio.mp3
+#EXTINF:-1,Rahvaraadio
+http://rahvaraadio.ee:8000/rahvaraadio
+#EXTINF:-1,R2_Pop
+400 http://icecast.err.ee:80/r2popkorge.mp3

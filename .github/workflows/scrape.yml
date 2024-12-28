@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://pcradio.ru/radio/$j > mep1 ; cat mep1 | ./htmlq -t h1 | awk NF | sed 's/^[ \t]*//' | awk 'NR==1 {$0="#EXTINF:-1," $0} 1' >> A$i ; cat mep1 | grep "class='station_id'" | awk -F "'" '{print $8}' | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
+          for i in *.m3u ; do for j in $(cat $i) ; do wget -S --spider -q -t 1 -T 1 --max-redirect 0 $j 2>&1 | grep "HTTP/" | awk '{print $2}' | (cat ; echo $j ;) | paste -s -d " " >> A-$i ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |

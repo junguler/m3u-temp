@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in *.m3u ; do for j in $(cat $i) ; do wget -S --spider -q -t 1 -T 1 --max-redirect 0 $j 2>&1 | grep "HTTP/" | awk '{print $2}' | (cat ; echo $j ;) | paste -s -d " " >> A-$i ; echo -e "$i - $j" ; done ; done
+          for file in *.m3u; do [ -f "$file" ] && { output_file="${file%.*}_updated.m3u"; while IFS= read -r line; do [[ $line =~ ^http ]] && { redirected_url=$(curl --socks5 127.0.0.1:10808 -S -I "$line" 2>>curl_errors.log | grep -i "location:" | awk '{print $2}' | grep "^http"); [ -n "$redirected_url" ] && echo "$redirected_url" || echo "$line"; } || echo "$line"; done < "$file" > "$output_file"; echo "Processed $file -> $output_file"; }; done
 
       - name: git stuff
         run: |

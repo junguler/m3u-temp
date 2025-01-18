@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for file in *.m3u; do [ -f "$file" ] && { output_file="${file%.*}_updated.m3u"; while IFS= read -r line; do [[ $line =~ ^http ]] && { redirected_url=$(curl --socks5 127.0.0.1:10808 -S -I "$line" 2>>curl_errors.log | grep -i "location:" | awk '{print $2}' | grep "^http"); [ -n "$redirected_url" ] && echo "$redirected_url" || echo "$line"; } || echo "$line"; done < "$file" > "$output_file"; echo "Processed $file -> $output_file"; }; done
+          for file in *.m3u; do [ -f "$file" ] && { output_file="${file%.*}_updated.m3u"; while IFS= read -r line; do [[ $line =~ ^http ]] && { redirected_url=$(curl -S -I "$line" 2>>curl_errors.log | grep -i "location:" | awk '{print $2}' | grep "^http"); [ -n "$redirected_url" ] && echo "$redirected_url" || echo "$line"; } || echo "$line"; done < "$file" > "$output_file"; echo "Processed $file -> $output_file"; }; done
 
       - name: git stuff
         run: |

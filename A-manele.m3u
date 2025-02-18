@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Radio_Fun
+200 http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1,Radio_FX_Net
+200 http://asculta.radiofxnet.ro:8458/
+#EXTINF:-1,Radio_Lux
+200 https://sonic1-rbx.cloud-center.ro/8008/stream
+#EXTINF:-1,Radio_Manele_nextFM
+200 http://b.fmradiomanele.ro:8044/

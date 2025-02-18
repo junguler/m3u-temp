@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Mayotte_1ere
+200 https://mayotte.ice.infomaniak.ch/mayotte-128.mp3
+#EXTINF:-1,Chiconi_FM
+200 https://radio.mayotte-streaming.com/8004/stream
+#EXTINF:-1,Radio_Koudjouni
+200 https://radio.mayotte-streaming.com/8002/stream
+#EXTINF:-1,Mayotte_One_La_Radio
+200 https://live.myradio.yt/mayotteone
+#EXTINF:-1,Radio_Machaka
+http://machaka.viens.la:8009/
+#EXTINF:-1,RF_Mayotte_976
+200 https://radio.mayotte-streaming.com/8000/stream
+#EXTINF:-1,Radio_Nour_Webradio
+200 https://nour-webradio.ice.infomaniak.ch/nour-webradio.mayotte-32.aac
+#EXTINF:-1,Radio_Parole_Acoua
+http://51.254.221.183:8006/
+#EXTINF:-1,Radio_Mirereni_Ville_RMV
+200 http://51.210.148.30:8000/
+#EXTINF:-1,R-OI_Radio
+200 https://radio.mayotte-streaming.com/8010/stream
+#EXTINF:-1,Radio_Dziani_FM
+200 https://listen.radioking.com/radio/3331/stream/10187
+#EXTINF:-1,Rea_FM
+200 https://streaming.radio.co/s59aedb575/listen
+#EXTINF:-1,RADIO_MAWOUA
+200 https://mawoua.ice.infomaniak.ch/mawoua-32.aac
+#EXTINF:-1,Radio_97SIX
+http://manager5.streamradio.fr:1420/listen.mp3
+#EXTINF:-1,Radio_Carrefour
+http://78.129.229.113:16782/stream
+#EXTINF:-1,Mayotte_FM
+401 http://manager6.streamradio.fr:2330/
+#EXTINF:-1,Koungou_Radio
+http://188.165.215.158:9148/stream.mp3

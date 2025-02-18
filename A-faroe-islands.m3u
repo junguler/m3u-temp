@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Kringvarp_Foroya
+400 http://netvarp.kringvarp.fo:443/uvhm
+#EXTINF:-1,VoxPop_Radio
+400 https://stream-secure.midlar.fo/voxpop-128
+#EXTINF:-1,Kiss_FM_Faroe_Islands
+http://162.13.152.247/mid2
+#EXTINF:-1,FM1
+400 https://stream-secure.midlar.fo/fm1-128
+#EXTINF:-1,FM_98.7
+301 http://high.lindin.fo/
+#EXTINF:-1,Lindin_Radio
+301 http://low.lindin.fo
+#EXTINF:-1,Radio.fo
+200 https://streaming.radio.co/s4d14b9fcc/listen
+#EXTINF:-1,Nordic_Spirit
+302 https://stream.zeno.fm/m06mp73e9e9uv
+#EXTINF:-1,Radio_Paikan
+405 https://stream-173.zeno.fm/u8ge1sfuhxhvv
+#EXTINF:-1,NextWeb_Radio
+405 https://stream-173.zeno.fm/0prsab4dwa0uv
+#EXTINF:-1,Nord_Radio
+405 https://stream-150.zeno.fm/7hpqwuyv35itv
+#EXTINF:-1,Løgtingið
+200 https://sonicpanel.oficialserver.com:7214/

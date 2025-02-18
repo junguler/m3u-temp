@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1,Eldoradio_Chill
+301 http://shoutcast.rtl.lu/eldochill
+#EXTINF:-1,Eldoradio_80s
+404 https://stream.eldo.lu/data/live/radio/eldo80s/media-ud9ygbc1t_b256000_213503.ts
+#EXTINF:-1,Radio_100_Komma
+http://streamserver.100komma7.lu:8000/
+#EXTINF:-1,Radio_Dudelange
+400 http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
+#EXTINF:-1,Eldoradio_Alternative
+200 https://stream.eldo.lu/data/live/radio/eldoalt/chunklist_b256000.m3u8
+#EXTINF:-1,Radio_Aktiv
+400 http://stream.radioaktiv.org:8233/HiFi
+#EXTINF:-1,Radio_Gutt_Laun
+200 https://streams.radio.co/sa631ff66a/listen
+#EXTINF:-1,Rom_106_FM
+http://rs1.radiostreamer.com:8270/stream.nsv
+#EXTINF:-1,Radio_Puls
+200 https://cmr-hosting.com/8312/stream
+#EXTINF:-1,Radio_Latina
+200 https://ice.creacast.com/radio-latina-lu-mp3
+#EXTINF:-1,Radio_Northsea
+http://radionorthsea.zapto.org:8008/
+#EXTINF:-1,Radio_ARA
+401 http://rs1.radiostreamer.com:8030/stream.mp3
+#EXTINF:-1,Radio_Diddeleng
+400 https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
+#EXTINF:-1,RTL_Radio
+200 https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113?sABC=6002ns7s%230%2339845qns2n74309493on2n0734q787rq%23xbafbyr&ampcontext=fHA6LTE=&ampamsparams=playerid:konsoleskey:1610788735
+#EXTINF:-1,Radio_LRB
+400 https://lrb.lu:8001/lrb.live
+#EXTINF:-1,Radio_Classique_Bergem
+http://rcb.zapto.org:8000/mp3?type=.mp3
+#EXTINF:-1,Radio_Sympa
+http://www.radiocampusparis.org:8000/stream_rcp
+#EXTINF:-1,Dream_Stream
+301 http://listento.dreamstream.mobi/hits.mp3
+#EXTINF:-1,Jam_Pro
+302 http://listen.radionomy.com/JamPRO-WelcomeAsia?type=.mp3
+#EXTINF:-1,Eldoradio
+301 http://sc-eldolive.newmedia.lu/
+#EXTINF:-1,JokeFM
+200 https://rs33.stream24.net/joke-fm.mp3
+#EXTINF:-1,RTL_Radio_lu
+200 https://stream.rtl.lu/data/live/tele/rtlradiowebtv/playlist.m3u8
+#EXTINF:-1,Vivacite_Luxembourg
+302 https://radio.rtbf.be/viva-lux/mp3-160/rv
+#EXTINF:-1,Helix_Radio
+http://eu8.fastcast4u.com/proxy/justca02?mp=/1
+#EXTINF:-1,Jam_Pro_Rhythm
+200 https://streamingp.shoutcast.com/JamendoLounge
+#EXTINF:-1,Jam_Pro_Piano_Bar
+302 http://listen.radionomy.com/JamPRO-PianoBar?type=.mp3
+#EXTINF:-1,Jam_Pro_Ambiance_Lounge
+302 http://listen.radionomy.com/JamPRO-AmbianceLounge?type=.mp3
+#EXTINF:-1,Jam_Pro_Jazz
+302 http://listen.radionomy.com/JamPRO-Jazz?type=.mp3
+#EXTINF:-1,Radio_100.7
+302 https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1,L_essentiel_Radio
+200 http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
+#EXTINF:-1,Radio_Tugalux
+http://195.154.176.199:9328/
+#EXTINF:-1,Crazy_Poisons_Radio
+200 http://server4.streamserver24.com:26607/
+#EXTINF:-1,Radio_Lusa
+http://95.217.75.38:9286/
+#EXTINF:-1,Radio_Mess
+http://212.83.172.22/radio/25747/stream/58471
+#EXTINF:-1,Radio_Petange_on_Air
+400 http://stream.petangeonair.lu:9000/live
+#EXTINF:-1,FRL_Free_Radio_Luxembourg
+200 https://listen.radioking.com/radio/66160/stream/103807
+#EXTINF:-1,AIR_FM_24
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio008/chunklist.m3u8
+#EXTINF:-1,RBV_Radio_Belle_Vallee
+https://shoutcast.datateam.center/index.html
+#EXTINF:-1,Ni_Haody
+200 http://nihaody.stream.laut.fm/ni_haody?t302=2018-04-05_11-52-53&ampuuid=10350c4f-cfb2-42c9-82dd-4d1cbbd58714
+#EXTINF:-1,Eldoradio_90s
+301 http://shoutcast.rtl.lu/eldo90s
+#EXTINF:-1,RemixColor
+http://137.74.193.0:8000/Title1=RemixColorLength1=-1Version=2
+#EXTINF:-1,CLUB_74
+200 https://club74.stream.laut.fm/club_74
+#EXTINF:-1,Lusitana_106.1_FM
+https://11.stmip.net:8404/stream
+#EXTINF:-1,Rádio_Larochete
+200 https://servidor14.brlogic.com:8150/live
+#EXTINF:-1,Radio_Cents
+200 http://onairradio.dyndns.org:8000/live
+#EXTINF:-1,Generation_Dance
+200 https://generationdance.lu/radio/8030/hd
+#EXTINF:-1,RetroSonic_Grooves
+https://retrosonic.online:8010/grooves.mp3
+#EXTINF:-1,Bitter_Sweet_Music_LU
+http://bittersweetmusic.24-7.ro:8520/lu
+#EXTINF:-1,RetroSonic_Alternative
+https://retrosonic.online:8030/alternative.mp3
+#EXTINF:-1,RetroSonic_Mix
+https://retrosonic.online:8000/mix.mp3
+#EXTINF:-1,RetroSonic_Rock
+https://retrosonic.online:8070/rock.mp3
+#EXTINF:-1,RetroSonic_100%_Pure_80s
+https://retrosonic.online:8060/hits.mp3
+#EXTINF:-1,Radio_Cor_Dos_Teus_Olhos
+200 https://sslradio.servsonic.com/8008/stream
+#EXTINF:-1,Panachee
+200 https://panachee.stream.laut.fm/panachee

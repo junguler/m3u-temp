@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1,100_XR_Radio
+https://xr.dockl.com/stream
+#EXTINF:-1,BCC_Rock_Radio
+200 https://radio12.pro-fhi.net/radio/9134/stream.mp3
+#EXTINF:-1,Black_FM_Kiev
+http://78.129.190.50:12897/
+#EXTINF:-1,Core_Mix
+200 http://core-mix.stream.laut.fm/core-mix
+#EXTINF:-1,Depressive_Metal_Rock
+http://66.199.160.197:8222
+#EXTINF:-1,EKR_Extra
+http://ekrrockradio1.scs.ms:8100/
+#EXTINF:-1,Fatal_Station
+302 http://listen.radionomy.com/fatalstation?type=.mp3
+#EXTINF:-1,Hard_Rock_Heaven
+200 http://hydra.cdnstream.com/1521_128
+#EXTINF:-1,Hard_Rock_Heaven_Radio
+200 http://hydra.cdnstream.com:80/1521_128?type=.mp3
+#EXTINF:-1,Hard_Rock_Radio_Hungary
+http://stream.hardrockradio.hu:8002/
+#EXTINF:-1,Heat_Radio
+http://ams01.egihosting.com:9108/
+#EXTINF:-1,Ianos_Radio
+400 http://radio.streamings.gr:8033/stream
+#EXTINF:-1,IRS_Network
+http://148.163.79.102:9952
+#EXTINF:-1,Kis_Rock
+302 https://node-26.zeno.fm/2nbxgbynb18uv
+#EXTINF:-1,KNAC_Pure_Rock
+http://s5.voscast.com:7346/
+#EXTINF:-1,Kras_Metal_FM
+http://109.195.67.198:8000/krasmetalfm?type=.mp3
+#EXTINF:-1,Metal_Express_Radio
+200 http://s39.myradiostream.com:11590/
+#EXTINF:-1,Metal_Nation_Radio
+http://198.100.145.185:8900/
+#EXTINF:-1,Metal_Station
+200 http://metalstation.stream.laut.fm/metalstation
+#EXTINF:-1,Metalogie.live
+302 https://stream.zeno.fm/3zqcvh4etuhvv
+#EXTINF:-1,Netrock101_Fm
+404 https://streamingv2.shoutcast.com/NETROCK101THEANIMAL
+#EXTINF:-1,Power_Prog_Radio
+http://streamplus7.leonex.de:28174
+#EXTINF:-1,Pure_Steele_Radio
+http://69.10.36.226:8248
+#EXTINF:-1,Radio_Bagwahn
+200 https://radiobagwahn.stream.laut.fm/radio_bagwahn
+#EXTINF:-1,Radio_Eska_ROCK_W_Ciezkim_Stanie
+http://s3.deb1.scdn.smcloud.net/t018-1.mp3?type=.mp3
+#EXTINF:-1,Radio_ILR_FM
+http://178.32.139.167:8286
+#EXTINF:-1,Radio_Metal
+http://stream.radiometal.com:8010/
+#EXTINF:-1,Radio_Metal_Generation
+http://streaming20.brlogic.com:8100/live?type=.mp3
+#EXTINF:-1,Radio_SERT
+http://www.radiosert.com:8000/
+#EXTINF:-1,Radio-M_Bechhofen
+200 https://radio-m.stream.laut.fm/radio-m
+#EXTINF:-1,ROCK_100.9
+http://icecast-rock1009.rncm.ca/rock1009.mp3
+#EXTINF:-1,Rock_Antenne
+http://mp3channels.webradio.rockantenne.de/heavy-metal
+#EXTINF:-1,Rock_Me_69
+http://66.85.88.18:5169/stream
+#EXTINF:-1,Rock_Radio
+http://pub7.rockradio.com/rr_classicrock?type=.mp3
+#EXTINF:-1,ROCKSTATION
+200 http://rs11.stream24.org:8130/
+#EXTINF:-1,TeamRock_Radio
+404 http://icy-e-05-gos.sharp-stream.com/teamrock.aac?type=.mp3
+#EXTINF:-1,Warclub_Radio
+301 http://streaming.radionomy.com/Quisqueya?type=.mp3
+#EXTINF:-1,Wave_FM_88
+http://prdonline.prd.go.th:8200/
+#EXTINF:-1,ZanZana_Web_Radio
+301 http://streaming.radionomy.com/ZanZanAMetaLWebRadiO?type=.mp3

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,D2_Relax
+https://cast1.torontocast.com:1515/stream
+#EXTINF:-1,Easy_95.1_WMNI
+https://prod-54-198-104-23.amperwave.net/nabco-wmniamaac-hlsc4.m3u8
+#EXTINF:-1,Easy_95.5_FM
+400 https://mediaserv68.live-streams.nl:18007/stream
+#EXTINF:-1,FM_93_Cast_For_You
+200 http://202.129.207.66:8090/studio90.mp3?hash=1643269207216
+#EXTINF:-1,Love_Radio_93_FM
+200 https://plus.onair.network:8090/8060.mp3
+#EXTINF:-1,NRG_Smooth
+200 https://sh.onweb.gr/9106/stream
+#EXTINF:-1,ON_Relax
+400 https://0n-relax.radionetz.de/0n-relax.mp3
+#EXTINF:-1,ON_Soft_Pop
+400 https://0n-softpop.radionetz.de/0n-softpop.mp3
+#EXTINF:-1,Radio_Independencia_106.9
+200 http://serv3.veemesoft.com.ar:26569/
+#EXTINF:-1,Radio_SCOOP_Love
+200 https://scoopinlove.ice.infomaniak.ch/radioscoop-inlove-64.aac
+#EXTINF:-1,Romantic_Radio
+302 https://stream.rcast.net/65472/
+#EXTINF:-1,Sunlite
+403 https://27783.live.streamtheworld.com/SUNLITE_MP3.mp3
+#EXTINF:-1,Yimago_Lite_Rock
+https://strw1.openstream.co/874

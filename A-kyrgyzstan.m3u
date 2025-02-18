@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1,Kyrgyzstan_Obondory
+400 https://cdn.radioplayer.kg:8443/obondoru64
+#EXTINF:-1,Tumar_FM
+200 https://radio.tumar.fm:8005/stream
+#EXTINF:-1,Palmera_Blanca_Radio_IDM_Stream
+400 https://daystream.palmerablanca.com/daystream-128.mp3
+#EXTINF:-1,Palmera_Blanca_Radio_Tango_Stream
+https://tango.palmerablanca.com/stream.mp3
+#EXTINF:-1,Radio_KFC
+200 https://landmark.barstoolsports.net/kfc-radio/kfcr_nov14th_final.370331336ca1.mp3
+#EXTINF:-1,Radio_Hardees
+http://ne.fm/mp3/Hardees
+#EXTINF:-1,NE_FM_Dance
+http://ne.fm/mp3/NE.FM
+#EXTINF:-1,Autoradio_Kazakhstan
+http://178.88.167.62:8080/AVTORADIO_192
+#EXTINF:-1,Dala_FM
+http://s2.voscast.com:12334/
+#EXTINF:-1,Retro_FM_Kazakhstan
+200 http://retroserver.streamr.ru:8043/retro128
+#EXTINF:-1,Radio_NS_Chanson
+http://89.219.35.26:8000/radions-rock
+#EXTINF:-1,Radio_NS_KZ
+http://89.219.35.26:8000/radions
+#EXTINF:-1,Star_FM_Kazakhstan
+http://ne.fm/mp3/zhulduzfm
+#EXTINF:-1,Radio_NS_Jazz
+http://89.219.35.26:8000/radions-jazz
+#EXTINF:-1,Atom_FM
+http://106.streamsin.space:8000/atom
+#EXTINF:-1,MinKyal_FM
+http://212.112.96.232:8081
+#EXTINF:-1,Almaz_Naryn
+http://stream1.obs.kg:8000/almaz
+#EXTINF:-1,Hit_FM_105.6
+400 https://online.hitfm.ua/HitFM
+#EXTINF:-1,ELFM
+http://81.88.192.51:8000/ELFM
+#EXTINF:-1,Genealogical_Radio
+http://81.88.192.51:8000/Sanjyra
+#EXTINF:-1,Maral_FM
+http://212.42.115.186:8000/stream.mp3
+#EXTINF:-1,Romance_107.8_FM
+http://81.88.192.51:8000/Romantica
+#EXTINF:-1,Manas_FM
+400 http://live.mediamanas.kg:8000/online
+#EXTINF:-1,Radio_Indreni
+http://live.itechnepal.com:8732/stream
+#EXTINF:-1,Sputnik
+200 https://icecast-rian.cdnvideo.ru/voicekgz
+#EXTINF:-1,Fever_(iradio.one)
+400 http://a.streamsin.space:8000/fever
+#EXTINF:-1,80’s_Channel_(iradio.one)
+400 http://a.streamsin.space:8000/80s
+#EXTINF:-1,Кыргыз_Радиосу
+http://81.88.192.51:8000/KyrgyzRadiosu
+#EXTINF:-1,Dream_Town
+400 http://a.streamsin.space:8000/dream_town
+#EXTINF:-1,Radio_Retro_(ex_FM88.5)
+400 http://a.streamsin.space:8000/retro_exfm885
+#EXTINF:-1,Emotions
+400 http://a.streamsin.space:8000/emotions
+#EXTINF:-1,NasaatFM
+http://ec5.yesstreaming.net:1550/stream

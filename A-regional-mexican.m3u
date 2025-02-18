@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Estrella_Mexicana_Radio
+http://144.217.67.108:7100/stream
+#EXTINF:-1,Jose_97.5
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC.aac
+#EXTINF:-1,Ke_Buena_97.5_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KBNA975_FMAAC.aac
+#EXTINF:-1,La_Buena_101.9
+200 https://16603.live.streamtheworld.com/KLBNFM.mp3
+#EXTINF:-1,La_Jefa_98.5
+200 https://lmn.streamguys1.com/kgbtfm/playlist.m3u8
+#EXTINF:-1,La_Ley_107.9_FM
+https://liveaudio.lamusica.com/CHI_WLEY_icy?aw_0_1st.playerid=liveonlineradio.net
+#EXTINF:-1,La_Raza_97.9
+200 https://liveaudio.lamusica.com/SF_KRZZ_icy?aw_0_1st.playerid=liveonlineradio.net
+#EXTINF:-1,La_Suavecita_107.1
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KSESFMAAC.aac
+#EXTINF:-1,Lamaspikuda
+https://sp2.servidorrprivado.com/8332/stream
+#EXTINF:-1,Que_Buena_102.9
+https://prod-3-84-99-107.wostreaming.net/univision-kltnfmaac-ibc1?
+#EXTINF:-1,Radio_Lobo
+403 https://23043.live.streamtheworld.com/KIWIFM_SC
+#EXTINF:-1,Zona_MX_99.1
+http://54.185.54.54/univision-kllefmaac-ibc2

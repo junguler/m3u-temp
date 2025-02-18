@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1,Radio_MAO
+404 http://listen1.myradio24.com:9000/8426?type=.mp3
+#EXTINF:-1,Radio_Aurora
+400 https://am.radioaurora.am/al.mp3
+#EXTINF:-1,Radio_Armenia
+200 http://direct.radioarmenie.com:9029/stream
+#EXTINF:-1,Radio_Van
+https://stream.radiovan.fm:8000/96_stereo
+#EXTINF:-1,Arm_Radio
+http://31.7.166.59:8000/stream
+#EXTINF:-1,ARRadio
+http://199.195.194.92:8029/
+#EXTINF:-1,Hay_FM
+400 http://14678.cloudrad.io:9440/live
+#EXTINF:-1,Hit_FM_107.4
+200 https://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1,Tropicana_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANAAAC.aac
+#EXTINF:-1,Lav_Radio
+https://eu.stream4cast.com/proxy/lavradio/stream
+#EXTINF:-1,La_UFM_Estereo
+200 http://c11.radioboss.fm:8054/stream
+#EXTINF:-1,La_Voz_del_Cafe
+200 https://server2.ejeserver.com:8224/stream?1591859730546
+#EXTINF:-1,Radio_YAN
+400 http://83.169.36.75:8000/stream
+#EXTINF:-1,Armenian_Pulse_radio
+http://50.7.96.210:8134
+#EXTINF:-1,Radio_Yeraz
+https://streaming05.liveboxstream.uk/proxy/radioye3/stream
+#EXTINF:-1,Radio_AYK
+http://64.150.176.42:8117/listen.mp3
+#EXTINF:-1,Lav_Radio_Mix
+https://eu.stream4cast.com/proxy/lavradiomix/stream
+#EXTINF:-1,IMPULS_Radio
+400 http://212.34.233.78:8000/live
+#EXTINF:-1,Vem_Radio
+http://37.157.217.141:8000/live
+#EXTINF:-1,Azatutyun_AM
+400 https://n08.radiojar.com/k8z93x3nn3quv
+#EXTINF:-1,Radio_Azalia
+http://radioazalia.out.airtime.pro:8000/radioazalia_b
+#EXTINF:-1,Radio_Jan_90.7
+http://s7.voscast.com:10258/
+#EXTINF:-1,R_Rossii
+200 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
+#EXTINF:-1,Radio_Mayak_Armenia
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
+#EXTINF:-1,Online_Radio_Armenia
+http://onlineradio.out.airtime.pro:8000/onlineradio_a
+#EXTINF:-1,LavRadio_FM_106.9
+http://s7.voscast.com:10196/
+#EXTINF:-1,Radio_Marshall
+200 http://eu.stream4cast.com:8030/stream
+#EXTINF:-1,Radio_Menq
+http://109.68.120.226:8000/menq96
+#EXTINF:-1,Horovel_AM
+http://212.34.233.78:8005/music
+#EXTINF:-1,Classic_IMusic_AM
+200 https://radio.imusic.am/classic.mp3
+#EXTINF:-1,Jammin_IMusic_AM
+200 https://radio.imusic.am/jammin.mp3
+#EXTINF:-1,Fusion_IMusic_AM
+200 https://radio.imusic.am/fusion.mp3
+#EXTINF:-1,Ethno_IMusic_AM
+200 https://radio.imusic.am/ethno.mp3
+#EXTINF:-1,Love_Radio_Yerevan
+404 http://listen.shoutcast.com/loveradioyerevan
+#EXTINF:-1,Radio_Fama_Armenia
+https://eu.stream4cast.com/proxy/rmirzakh/stream
+#EXTINF:-1,Sputnik_Armenia
+200 https://icecast-rian.cdnvideo.ru/voicearm1
+#EXTINF:-1,Activist_Radio
+200 http://216.55.165.146:8000/PRNaudio.mp3?hash=1579164785294
+#EXTINF:-1,XFM_Radio
+https://eu.stream4cast.com/proxy/xfmradio/stream
+#EXTINF:-1,Radio_Energy_Armenia
+https://eu.stream4cast.com/proxy/energyfm/stream
+#EXTINF:-1,MFM_Music_Radio
+https://eu.stream4cast.com/proxy/mfmradio/stream
+#EXTINF:-1,Arménian_Power
+302 https://node-29.zeno.fm/fw6pqvkxe48uv
+#EXTINF:-1,Farsee_FM
+302 https://node-09.zeno.fm/qk3q9p6wxd0uv
+#EXTINF:-1,Xtextile_FM
+404 https://node-08.zeno.fm/x7xgqpstzv8uv
+#EXTINF:-1,Printax_FM
+404 https://node-18.zeno.fm/qrhsag9spv8uv
+#EXTINF:-1,Radio_Ciudad_Armenia
+302 https://node-10.zeno.fm/r73t7we3ry8uv
+#EXTINF:-1,FM_Accion_100.5
+302 https://node-11.zeno.fm/aap21ncwsa0uv
+#EXTINF:-1,Radio_Surenavan
+302 https://node-17.zeno.fm/uww17gzn8x8uv
+#EXTINF:-1,Yerevan_FM
+https://eu1.stream4cast.com/proxy/arradioi/stream
+#EXTINF:-1,Radio_Jazz_FM
+400 https://am.radioaurora.am/jz
+#EXTINF:-1,Nor_Radyo_Armenia
+https://www.norradyo.com:8000/live
+#EXTINF:-1,Yerevan_Nights
+400 http://icecast.yerevannights.com/YerevanNights
+#EXTINF:-1,FM_105.5
+400 http://14842.cloudrad.io:9536/live?ver=96840
+#EXTINF:-1,Kiss_FM_Armenia
+400 https://am.radioaurora.am/kiss.aac

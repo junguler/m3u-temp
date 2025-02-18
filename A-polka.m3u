@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Die_Kirmesmusikanten
+200 https://kermisklanten.stream.laut.fm/kermisklanten
+#EXTINF:-1,Hitstream_FM
+200 https://stream.streamhits.nl/listen.pls
+#EXTINF:-1,Lomp_Radio
+400 https://streams.lomp.nl:9009/lomp
+#EXTINF:-1,Paraguay_Kape
+302 http://node-21.zeno.fm/x1bcd137y5quv
+#EXTINF:-1,Radio_Calypso_AM_675
+400 https://mcp-1.streampanel.nl:8024/stream
+#EXTINF:-1,Radio_Hermax
+200 http://radiohermax.nl:8200/
+#EXTINF:-1,Radio_Vrij_Zwolle
+404 https://ex52.voordeligstreamen.nl/8042/stream
+#EXTINF:-1,Rtd_Team
+401 http://caster05.streampakket.com:8980/stream

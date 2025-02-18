@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Antena_8_Panama
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8_SC
+#EXTINF:-1,Antenne_Niedersachsen_Charts
+302 http://stream.antenne.com/charts/mp3-128/liveonlineradio?type=.mp3
+#EXTINF:-1,INSTEL_Music
+http://209.126.107.182:8018/.aac
+#EXTINF:-1,La_X
+http://99.198.110.162:7020/
+#EXTINF:-1,LAFM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/LAU_LAFMAAC.aac
+#EXTINF:-1,Open_FM_–_Freszzz:_Wiosna_2021
+200 https://stream.open.fm/39?type=.aac&ampuser=800048636554&ampplayer_group=WWW
+#EXTINF:-1,Radio_Time_For_Friends
+http://radio-tff.funk-team.de:8000/listen1
+#EXTINF:-1,Radyo_A
+400 http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
+#EXTINF:-1,Star_Arti_FM
+200 https://ritim.80.yayin.com.tr/stream?/stream.mp3
+#EXTINF:-1,Yıldız_Radyo
+http://sunucu2.radyolarburada.com:2006/

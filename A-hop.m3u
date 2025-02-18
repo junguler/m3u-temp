@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Defjay_Radio
+301 http://tuner.defjay.com:80/
+#EXTINF:-1,Hot_108
+200 http://hot108jamz.hot108.com:4040
+#EXTINF:-1,Kedah_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KEDAH_FMAAC.aac
+#EXTINF:-1,Polar_Bear_Radio
+302 https://stream-058.zeno.fm/wy8eevgdhfhvv
+#EXTINF:-1,Power_Hitz
+200 http://powerhitz.powerhitz.com:5000
+#EXTINF:-1,Seasons_Radio
+http://65.18.193.61:8000

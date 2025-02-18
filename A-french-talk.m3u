@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,France_Bleu_Nord
+404 http://chai5she.cdn.dvmr.fr/fbnord-midfi.mp3
+#EXTINF:-1,France_Bleu_Normandie
+404 http://chai5she.cdn.dvmr.fr/fbbassenormandie-midfi.mp3
+#EXTINF:-1,France_Bleu_Picardie
+404 http://chai5she.cdn.dvmr.fr/fbpicardie-midfi.mp3?ID=76zqey582k
+#EXTINF:-1,France_Bleu_Roussillon
+404 http://chai5she.cdn.dvmr.fr/fbroussillon-midfi.mp3
+#EXTINF:-1,France_Bleu_Vaucluse
+404 http://chai5she.cdn.dvmr.fr/fbvaucluse-lofi.mp3?ID=76zqey582k
+#EXTINF:-1,GC_La_Radio
+http://flux.mrg-agence.com:8000/gclaradio
+#EXTINF:-1,Mouv’_Rap_FR
+200 https://stream.radiofrance.fr/mouvrapfr/mouvrapfr_hifi.m3u8
+#EXTINF:-1,Radio_InfoCite
+http://curiosity.shoutca.st:8752/live?1591006012263

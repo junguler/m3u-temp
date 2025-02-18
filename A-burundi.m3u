@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,Izere_FM
+400 http://5.189.189.39:8000/stream
+#EXTINF:-1,Isanganiro_FM
+400 http://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3
+#EXTINF:-1,Radio_Culture_Burundi
+http://bagenzitv.com:8003/radioculture
+#EXTINF:-1,RTNB_Radio_Burundi
+400 http://41.79.226.195:8000/stream-RTNB1
+#EXTINF:-1,Indundi_Radio
+200 https://indundiculture.com/?wp_radio_play=http://162.213.249.117:8003/radioculture
+#EXTINF:-1,Radio_RFM_88.9_Bujumbura
+404 https://stream.zeno.fm/z15nbes547zuv
+#EXTINF:-1,Radio_RTBB
+302 https://node-04.zeno.fm/ydfsa1rtxd0uv
+#EXTINF:-1,Wana_Radio_FM
+302 https://node-18.zeno.fm/k6mf8a7uxd0uv.aac
+#EXTINF:-1,Regional_Vibez_Media
+302 https://node-19.zeno.fm/4vrnq5wc8f0uv
+#EXTINF:-1,Radio_Fo-Fe
+http://cast.thiff.com:8012/stream
+#EXTINF:-1,Radio_Peace_FM_96.3
+302 https://node-16.zeno.fm/s0244utefg8uv?1628935571905=&amprj-tok=AAABe0QqRFwAvIy2VeFfTSDASQ&amprj-ttl=5
+#EXTINF:-1,Radio_Intwali_FM
+302 https://node-03.zeno.fm/f4btyyc18vzuv?rj-ttl=5&amprj-tok=AAABe0QuES4AKyROZXW5O47JKg
+#EXTINF:-1,Iteka_FM
+302 https://node-16.zeno.fm/nsmhaykzqf9uv
+#EXTINF:-1,Radio_Patriot_FM
+302 https://stream-42.zeno.fm/7bezn4ppxxhvv
+#EXTINF:-1,Radio_Black_FM_94.9
+302 https://stream-44.zeno.fm/6ezvc5a44bhvv
+#EXTINF:-1,Platform_Show_FM
+302 https://stream-50.zeno.fm/5kbgeapsua0uv
+#EXTINF:-1,ISANGI_FM
+302 https://stream-55.zeno.fm/24xqbzqn0c9uv
+#EXTINF:-1,Radio_UMUCO_FM
+http://80.84.57.76:4505/ufm.mp3
+#EXTINF:-1,Radio_Shima_FM
+400 http://5.189.189.39:8000/shimafm.mp3
+#EXTINF:-1,Hit_Radio_Burundi
+302 https://hr-burundi.ice.infomaniak.ch/hr-burundi-64.aac

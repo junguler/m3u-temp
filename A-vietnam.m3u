@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,VINA_Vietnam_Radio
+http://vpr.serverroom.us:7492/
+#EXTINF:-1,Saigon_Television
+200 https://saigontivi.com/
+#EXTINF:-1,VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+#EXTINF:-1,VOV1_Radio
+200 http://113.164.229.226:7001/stream
+#EXTINF:-1,VOH_Radio
+https://strm.voh.com.vn/radio/channel2/chunklist_w290535666.m3u8
+#EXTINF:-1,VOH_AM
+200 https://strm.voh.com.vn/radio/channel2/chunklist_w2147462479.m3u8
+#EXTINF:-1,TRT_Radio_Vietnam
+https://live.trt.com.vn/Radio-online/chunklist.m3u8
+#EXTINF:-1,Radio_Voice_of_Vietnam
+https://stream.vovmedia.vn/vov5
+#EXTINF:-1,Quran_in_Vietnamese
+301 http://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3
+#EXTINF:-1,Dieu_AM_Radio
+302 http://listen.radionomy.com/thientong
+#EXTINF:-1,VOV3
+https://stream.vov.vn/c8f41c8f2dc9b0470fd79b4f808b89fc1718172474/vov3-audio/playlist.m3u8
+#EXTINF:-1,XONE_FM
+404 https://node-04.zeno.fm/7m5cd9fad3quv.aac?rj-ttl=5&amprj-tok=AAABbtXubY8Ar1KDA50u7Cooyw
+#EXTINF:-1,TTD_Studio_Radio
+404 https://node-24.zeno.fm/9hx0p0wpcwzuv.aac?rj-ttl=5&amprj-tok=AAABcVPHdqMALhbCBjbLwZ31Aw
+#EXTINF:-1,Scientific_Sound_Asia_Radio
+200 http://carol.epichosts.co.uk:8270/live.mp3
+#EXTINF:-1,HANOI90
+400 http://14.162.146.90:8000/HANOI90
+#EXTINF:-1,HANOI96
+400 http://222.252.21.96:8000/HANOI96
+#EXTINF:-1,Cai_Luong_Viet_Nam
+405 https://stream-159.zeno.fm/0trm6wrnga0uv

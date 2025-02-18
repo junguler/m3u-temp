@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,CIEL_FM_103.7
+http://38.127.70.219:8409/0.7675823159515858?type=.mp3
+#EXTINF:-1,Dionysos_892_FM
+200 http://s6.onweb.gr:8054
+#EXTINF:-1,Indie_Pop_Rocks
+200 https://ice.somafm.com/indiepop?type=.mp3
+#EXTINF:-1,Radio_Ngoma
+200 http://african1paris.ice.infomaniak.ch/african1paris-64.mp3
+#EXTINF:-1,Radio_Oxygene_FM
+400 http://radiooxygenefm.ice.infomaniak.ch/radiooxygenefm-64.mp3
+#EXTINF:-1,Radio_SNN_Recife
+https://stm3.onecast.com.br:9582/stream?1731164534250
+#EXTINF:-1,Radio_Suid_Afrika
+200 https://s3.radio.co/s170af14fc/listen
+#EXTINF:-1,Radio_Sunnhordland
+http://82.134.81.78:82/broadwavelow.mp3
+#EXTINF:-1,Sputnik_Armenia
+200 https://icecast-rian.cdnvideo.ru/voicearm1
+#EXTINF:-1,UDPS_RADIO
+302 https://stream.zeno.fm/5fm8q327e8zuv

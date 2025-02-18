@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1,NE_FM_Rock
+http://ps.ne.fm/ROCK_256k
+#EXTINF:-1,TMK_Tatar_Radio
+http://stream7.radiostyle.ru:8007/radio-tmk?type=.mp3
+#EXTINF:-1,Radio_Tex
+http://www.texfm.ro:8000/rnbhiphop
+#EXTINF:-1,Tengri_FM
+403 https://www.liveradio.es/91.201.214.229:8000/tengrifm
+#EXTINF:-1,Radio_KN
+400 http://radiokn.ddns.net:7000/efir
+#EXTINF:-1,Radio_Aksai
+http://51.158.21.33:8000/radiohay
+#EXTINF:-1,Orda_FM
+http://ps.ne.fm/ORDA_FM
+#EXTINF:-1,Radio_102_KZ
+404 http://fm.kiwi.kz/radio102
+#EXTINF:-1,Da_Music_Radio
+http://damusic.info:8000/damusic?type=.mp3
+#EXTINF:-1,Da_Music_Trance
+http://91.239.65.100:8001/trance?type=.mp3
+#EXTINF:-1,Da_Music_Techno
+http://91.239.65.100:8002/techno?type=.mp3
+#EXTINF:-1,Avtoradio_Kazakhstan
+http://95.56.234.40:8080/AVTORADIO_256
+#EXTINF:-1,Radio_NS
+http://89.106.235.181/radions
+#EXTINF:-1,Energy_FM_102.2
+400 http://89.219.34.117:8008/NEWENERGY
+#EXTINF:-1,Radio_Tekc
+http://live26.kiwi.kz:8000/tekc?type=.mp3
+#EXTINF:-1,Radio_Alau
+http://109.248.236.142:8000/
+#EXTINF:-1,Aktobe_Radio_101.4
+http://85.29.144.124:8000/stream.mp3
+#EXTINF:-1,Radio_Astana_101.4
+https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
+#EXTINF:-1,Kaz_Radio
+200 https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+#EXTINF:-1,Classic_FM_Kz
+200 https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
+#EXTINF:-1,Shalkar_FM
+http://onradio.kaztrk.kz:8000/shalkar
+#EXTINF:-1,Love_Radio_KZ
+200 https://stream2.n340.com/12_love_28_reg_23737
+#EXTINF:-1,Radio_Nostalgie_Taldykorgan
+http://live.radionostalgie.kz:8777/live?type=.mp3
+#EXTINF:-1,Retro_FM_70s
+http://retro70.hostingradio.ru:8025/retro70-128.mp3?type=.mp3
+#EXTINF:-1,Retro_FM_80s
+http://retro80.hostingradio.ru:8026/retro80-128.mp3?type=.mp3
+#EXTINF:-1,Retro_FM_90s
+http://retro90.hostingradio.ru:8027/retro90-128.mp3?type=.mp3
+#EXTINF:-1,Radio_Ice
+http://onair.radioice.ru:8000/mp3_128
+#EXTINF:-1,NE_FM_HIT
+http://ps.ne.fm/HIT
+#EXTINF:-1,Radio_Sana_103.3
+200 https://listen4.myradio24.com/radiosana
+#EXTINF:-1,Radio_Rauan_104_FM
+http://aska.ru-hoster.com:8025/stream
+#EXTINF:-1,Palmera_Blanca_Radio_Main_Stream
+400 https://daystream.palmerablanca.com/daystream-128.mp3
+#EXTINF:-1,Palmera_Blanca_Radio_Indie_Stream
+https://indie.palmerablanca.com/stream.mp3
+#EXTINF:-1,Palmera_Blanca_Radio_Ambient_Stream
+https://ambient.palmerablanca.com/stream.mp3
+#EXTINF:-1,Palmera_Blanca_Radio_Latino_Stream
+https://latino.palmerablanca.com/stream.mp3
+#EXTINF:-1,NE_FM_LOUNGE
+200 https://webradio0002.ice.infomaniak.ch/webradio0007-128.mp3
+#EXTINF:-1,NE_FM_Urban
+http://ne.fm/mp3/URBAN
+#EXTINF:-1,Radio_NS_Russian_Heath
+http://ne.fm/mp3/radions-russian
+#EXTINF:-1,Umax_FM
+http://ne.fm/mp3/kazradio
+#EXTINF:-1,Radio_NS_Lounge
+http://ne.fm/mp3/radions-lounge
+#EXTINF:-1,Alau
+http://ne.fm/mp3/alau
+#EXTINF:-1,TEKS_Radio
+http://ne.fm/mp3/teks
+#EXTINF:-1,BulBul
+302 http://stream.laut.fm/radiobulbul
+#EXTINF:-1,Radio_Teos
+https://stream.teos.fm/mp3_hq
+#EXTINF:-1,Radio_1945
+http://78.46.66.184:1945/256
+#EXTINF:-1,Radio_Klab_FM
+http://s3.radioboss.fm:8015/stream
+#EXTINF:-1,Radio_Green
+200 https://liveonlineradio.net/file/
+#EXTINF:-1,GFM
+https://radio.geometryfm.ru/hls/geometryfm/hls320.m3u8
+#EXTINF:-1,Palmera_Blanca_–_Lounge
+302 http://listen.radionomy.com/jamendolounge
+#EXTINF:-1,Radio_NS_Русский_хит
+http://89.219.35.26:8000/radions-jazz
+#EXTINF:-1,Radio_City_Almaty
+400 https://kvs01.businessfm.kz/city
+#EXTINF:-1,Synthwave_Club
+302 http://stream.zeno.fm/hutw7c7q9c0uv
+#EXTINF:-1,Radio_ART_FM
+200 http://s0.radioheart.ru:8000/radioart
+#EXTINF:-1,Моя_Мелодия
+https://lux-radio.com:8025/stream
+#EXTINF:-1,Russian_Dance_Radio
+https://lux-radio.com:8015/stream
+#EXTINF:-1,Aloha_FM
+404 https://listen6.myradio24.com/alohafm
+#EXTINF:-1,Радио_Тандем
+404 https://a1.radioheart.ru:9001/RH20072
+#EXTINF:-1,Radio_Azamat
+200 https://listen4.myradio24.com/8162
+#EXTINF:-1,Aspan_FM_98.9
+400 http://77.240.38.228:8000/aspanfm
+#EXTINF:-1,Отдых_ФМ
+400 https://stream.restfm.ru/
+#EXTINF:-1,Жаңа_Rock
+400 https://live.zhanafm.kz:8443/zhanarock
+#EXTINF:-1,Жаңа_FM
+400 https://live.zhanafm.kz:8443/zhanafm_onair
+#EXTINF:-1,Жаңа_Lounge
+400 https://live.zhanafm.kz:8443/zhanalounge
+#EXTINF:-1,Жаңа_MIX
+400 https://live.zhanafm.kz:8443/zhanamix
+#EXTINF:-1,Жаңа_EDM
+400 https://live.zhanafm.kz:8443/zhanaedm
+#EXTINF:-1,Pioner_FM
+400 https://live.zhanafm.kz:8443/pionerfm

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Antena_1_FM
+302 https://www.antena1.com.br/stream/stream/1
+#EXTINF:-1,Besame_Medellin
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BOGOTAAAC.aac
+#EXTINF:-1,Cupido_New_York
+200 https://noasrv.caster.fm:10030/stream
+#EXTINF:-1,Geração_Por_Amor
+200 https://servidor.geracaoradios.com/listen/poramor/stream
+#EXTINF:-1,Hit_FM_Romantika
+http://icecast.radiohitfm.cdnvideo.ru/st14.mp3
+#EXTINF:-1,La_Romantica_88.9
+302 https://node-24.zeno.fm/k9gbc9uf27zuv?rj-ttl=5&amprj-tok=AAABdAAEd-0AOFpoQWfVt10IrA
+#EXTINF:-1,La_Vallenata
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/VALLENATA_PRISAAAC.aac
+#EXTINF:-1,Love_2_Love_Radio
+301 http://streaming.radionomy.com/love-2-love-radio?type=.mp3
+#EXTINF:-1,Love_97.2FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac
+#EXTINF:-1,Love_Radio_97.5
+200 http://loveradio.live24.gr/loveradio-1000?type=.mp3
+#EXTINF:-1,Radio_Clasic_100%_Romanesc
+http://37.251.146.169:8204/stream
+#EXTINF:-1,Radio_Love
+302 https://stream.zeno.fm/zvd2x4bz7upvv
+#EXTINF:-1,Radio_Musica_para_Mimos
+302 http://listen.radionomy.com/los-mimos?type=.mp3
+#EXTINF:-1,Romance_91.3_FM
+http://laradiohd.com:8173
+#EXTINF:-1,Slow_Radio
+302 http://stream2.slowradio.com
+#EXTINF:-1,Tropicalisima_FM_Baladas
+200 http://tropicalisima.net:8016/

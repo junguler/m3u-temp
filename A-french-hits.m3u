@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,36_FM
+http://91.121.165.41:9172/stream
+#EXTINF:-1,Alpes_1_–_Musette
+200 https://alpes1-musette.ice.infomaniak.ch/alpes1-musette.aac
+#EXTINF:-1,Chateau_FM
+200 https://manager.conceptradio.fr:1755/stream
+#EXTINF:-1,Cool_Direct
+200 https://listen.radioking.com/radio/136/stream/62722
+#EXTINF:-1,Delta+_Côte_d’Opale
+200 https://deltacotedopale.ice.infomaniak.ch/deltacotedopale-128.aac
+#EXTINF:-1,Europe_5
+404 https://stream4.vestaradio.com/europe5
+#EXTINF:-1,Evidence_Online
+200 http://radio3.pro-fhi.net/radio/9023/stream.mp3
+#EXTINF:-1,French_22.3_Hz_Candid_Radio
+302 https://stream.zeno.fm/tjknhurruj6vv
+#EXTINF:-1,Gold_Star_FM_Radio
+200 https://streamingp.shoutcast.com/JamendoLounge
+#EXTINF:-1,Helia_–_Hits_2023
+301 https://audio.lucaslempereur.fr/hits2023
+#EXTINF:-1,Helia_–_Le_Top
+301 https://audio.lucaslempereur.fr/le-top
+#EXTINF:-1,Les_Orres
+400 https://imagine.net-radio.fr/les-orres-48.aac
+#EXTINF:-1,Los_80_De_Ramster
+302 https://stream.zeno.fm/io4vafcdysgvv
+#EXTINF:-1,M_Radio5
+302 https://stream.zeno.fm/exuywg9kuqruv
+#EXTINF:-1,M_Story
+302 https://stream.zeno.fm/ifp2nmjjwojuv
+#EXTINF:-1,M40_2010’S
+https://s1.mcast.digital/listen/m40-2010s/m40-2010-128.mp3
+#EXTINF:-1,M40_Original
+https://s1.mcast.digital/listen/m40-original/m40-original-128.mp3
+#EXTINF:-1,mRadio
+302 https://stream.zeno.fm/drf1g3q9fc9uv
+#EXTINF:-1,Nostalgie_Mandelieu_Life
+https://radio-online.fr:4025/stream
+#EXTINF:-1,One_Best_Radio
+404 https://listen.radioking.com/radio/35696/stream/71957
+#EXTINF:-1,Radio_Compas509
+302 https://stream.zeno.fm/8n6cecf5bzzuv
+#EXTINF:-1,Radio_Ethan
+302 https://stream.zeno.fm/6spyqs34aukvv
+#EXTINF:-1,Radio_Level_Plus
+302 https://stream.zeno.fm/cag9zyky9byvv
+#EXTINF:-1,Radio_Lycée_L’Olivier
+302 https://stream.zeno.fm/5rwj8kio0q9vv
+#EXTINF:-1,RaktaFM
+302 https://stream.zeno.fm/tlgsm7n8vscvv
+#EXTINF:-1,RedRoom
+302 https://stream.zeno.fm/vbzzpldvbljtv
+#EXTINF:-1,ResluvFM
+302 https://stream.zeno.fm/henlce6l9fovv
+#EXTINF:-1,Technolovers.fm_–_FRENCHCORE
+302 https://stream.technolovers.fm/frenchcore?ref=liveonlineradionet
+#EXTINF:-1,The_French_Touch
+302 https://stream.zeno.fm/myz63y8kbm0uv
+#EXTINF:-1,Unicorn_Radio
+https://ecp.webradiomanager.fr:5503/stream
+#EXTINF:-1,Vibe_Radio_FR
+https://manager8.streamradio.fr:2970/stream

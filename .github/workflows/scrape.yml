@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in "" \&n={100..200..100} ; do for j in $(cat genres.txt) ; do curl -s https://fmstream.org/index.php?style=$j$i | ./htmlq 'div.stnblock>div' | grep ',this)' | awk -F '[()]' '{print $2}' | awk -F ',' '{print $1}' >> A-$j.txt ; echo -e "$i - $j" ; done ; done
+          for i in "" ; do for j in $(cat genres.txt) ; do curl -s https://nossl.fmstream.org/index.php?style=$j$i | ./htmlq 'div.stnblock>div' | grep ',this)' | awk -F '[()]' '{print $2}' | awk -F ',' '{print $1}' >> A-$j.txt ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |

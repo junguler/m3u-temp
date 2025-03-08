@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in "" "&n={100..200..100}" ; do for j in $(cat genres.txt) ; do curl -s -A "Mozilla/5.0 (compatible; Bingbot/2.0; +http://www.bing.com/bingbot.htm)" https://fmstream.org/index.php?style=$j"&o=top$i" | ./htmlq 'div.stnblock>div' | grep ',this)' | awk -F '[()]' '{print $2}' | awk -F ',' '{print $1}' >> A-$j.txt ; echo -e "$i - $j" ; done ; done
+          for i in $(cat list.txt | grep "radiomap.eu") ; do curl -s $i | ./htmlq -a href a | grep "\../" | awk 'length>10' | grep -v "about" | sed -e 's/\.htm//g' -e 's|\.\.||g' > A-$(echo $i | awk -F '/' '{print $4"-"$5}').txt ; echo $i ; done
 
       - name: git stuff
         run: |

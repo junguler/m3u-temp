@@ -1,0 +1,43 @@
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,Tropicana
+https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANAAAC.aac?dist=onlineradiobox
+#EXTINF:-1,La Mega 97.9
+https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerld=onlineradiobox
+#EXTINF:-1,El Sol
+https://rcnmundo.com/elsol?
+#EXTINF:-1,Radio Jamaica 94 FM
+https://stream.zeno.fm/omonrcmoy1vuv
+#EXTINF:-1,Mello FM
+https://stream.zeno.fm/vopem6jw8apuv
+#EXTINF:-1,Rock en Español
+https://stream.zeno.fm/0vgy8qv3feruv
+#EXTINF:-1,Mt Zion Radio KE
+https://stream.zeno.fm/2dw31b0rrfhvv
+#EXTINF:-1,FAME 95 FM
+https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
+#EXTINF:-1,Pinguino Stereo
+https://radiolatina.info/9750/stream
+#EXTINF:-1,Hitz 92 FM
+https://stream.zeno.fm/mbng1nnyxrquv
+#EXTINF:-1,Radio Galaxia
+https://alba-ec-galaxia-galaxia.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1,Urbano 106 FM
+https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
+#EXTINF:-1,LatinUrbanHipHop
+https://stream.zeno.fm/f0pf8u4rbwzuv
+#EXTINF:-1,Radio Mega Mix
+https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio
+#EXTINF:-1,Fyah 105
+https://listen.radioking.com/radio/459389/stream/514595
+#EXTINF:-1,Totally 80s Radio
+https://ukstream.radiohost.co.uk/listen/totally_80s_radio/radio.mp3
+#EXTINF:-1,Venture FM Radio
+http://68.168.101.146:8714/.mp3
+#EXTINF:-1,Radio Cumbia Mix
+https://mdstrm.com/audio/6598b6ab95a235085823b24f/icecast.audio?property=onlineradiobox.com
+#EXTINF:-1,EMISORA JOSÉ ANTONIO GALÁN
+https://radiolatina.info/9906/
+#EXTINF:-1,Reggae141
+https://hestia2.cdnstream.com/1301_128
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

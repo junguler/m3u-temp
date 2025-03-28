@@ -1,0 +1,43 @@
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,UFM100.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac?dist=onlineradiobox
+#EXTINF:-1,WZRC 1480 AM
+http://mobilewzrc.serverroom.us:6910/
+#EXTINF:-1,Chinese Music World
+https://radio.chinesemusicworld.com/chinesemusic.ogg?_=1
+#EXTINF:-1,Big B Radio - KPOP
+https://antares.dribbcast.com/proxy/kpop?mp=/s
+#EXTINF:-1,Kpop Replay
+https://cast6.asurahosting.com/proxy/kpopreplay/stream
+#EXTINF:-1,Mandarin Station 98.3 FM
+https://stream01-ssl.arenastreaming.com:8043/stream
+#EXTINF:-1,World Hits Kpop (Korean Pop)
+https://stream.zeno.fm/7qk8gcygk5zuv
+#EXTINF:-1,2AC Australian Chinese Radio - Cantonese
+http://s1.voscast.com:10442/stream
+#EXTINF:-1,KVTO 1400AM
+https://us2.maindigitalstream.com/ssl/KVTO
+#EXTINF:-1,星島中文電台 Sing Tao Chinese Radio
+http://nap.casthost.net:8765/?icy=http
+#EXTINF:-1,Green Village Radio FM 99.5 -  澳門
+https://fm995.ddns.net/hls1/fm995.m3u8
+#EXTINF:-1,MRBI - KAZN 1300 AM
+http://mobilewzrc.serverroom.us:6914/
+#EXTINF:-1,World Hits Kpop (Korean Pop)
+https://stream.zeno.fm/k12saxcgk5zuv
+#EXTINF:-1,Fly Radio FM 89.5
+https://stream.rcs.revma.com/e0tdah74hv8uv
+#EXTINF:-1,D100 Radio
+https://uk.d100.net:8001/Channel1-128MP3
+#EXTINF:-1,Strato FM
+http://streaming.stratofm.com:8300/
+#EXTINF:-1,BRG - Asia Hits
+https://billboardradio.rastream.com/gfm-asiahitz.web
+#EXTINF:-1,Boss Online Radio
+https://stream.radiojar.com/ehzvurp9tv8uv
+#EXTINF:-1,BRG - China Hits
+https://billboardradio.rastream.com/gfm-asiahitzchina?
+#EXTINF:-1,Musicas de Asia Internet Radio
+http://rosetta.shoutca.st:8405/stream
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

@@ -1,0 +1,43 @@
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,Rádio Gaúcha
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1,Bossa Nova Brazil
+https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil
+#EXTINF:-1,Radio CBN
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Nova Brasil FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Rádio Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1,Rádio Cidade
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Rádio Sertanejo Universitário
+https://player.transmissaodigital.com/proxy/6752stream.nsv
+#EXTINF:-1,Super Rádio Tupi
+https://8923.brasilstream.com.br/stream
+#EXTINF:-1,Rádio Só FlashBack
+https://servidor40-5.brlogic.com:8122/live
+#EXTINF:-1,Rádio Bossa Jazz Brasil
+https://centova5.transmissaodigital.com:20104/live
+#EXTINF:-1,Rádio Massa FM
+https://stm01.virtualcast.com.br:8000/massasaopaulo
+#EXTINF:-1,Nativa FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.m3u8?dist=onlineradiobox
+#EXTINF:-1,Radio Dumont FM
+https://rrdns-dumont.webnow.com.br/dumont.aac
+#EXTINF:-1,Transcontinental FM
+https://ice.fabricahost.com.br/transcontinentalsp48
+#EXTINF:-1,102.3 FM
+https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/playlist.m3u8
+#EXTINF:-1,Rádio Globo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Clube FM
+https://8157.brasilstream.com.br/stream
+#EXTINF:-1,Rádio Raízes do Brasil
+http://srv1.braudio.com.br:7014/stream.nsv
+#EXTINF:-1,Paradiso Rio FM
+https://8110.brasilstream.com.br/stream
+#EXTINF:-1,Rádio Metropolitana Sertanejo
+https://ice.fabricahost.com.br/metrospsertanejo
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

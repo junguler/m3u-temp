@@ -1,0 +1,43 @@
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,NPR Radio
+https://npr-ice.streamguys1.com/live.mp3
+#EXTINF:-1,Vibra
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRAAAC.aac?dist=onlineradiobox
+#EXTINF:-1,RRI Pro 1
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+#EXTINF:-1,Union Radio
+https://acp4.lorini.net/proxy/ur2080?mp=/stream
+#EXTINF:-1,FM de los Recuerdos
+https://sonando-us.digitalproserver.com/fmdelosrecuerdos.aac
+#EXTINF:-1,Radio Focus
+http://live.focusfm.ro:8000/focusfmlow.ogg
+#EXTINF:-1,Radio Silesia
+http://s1.slotex.pl:7926/stream/1/
+#EXTINF:-1,ZJB Radio
+https://stream.radiojar.com/mmbg3hfk2v8uv.m4a
+#EXTINF:-1,Radio Beograd 202
+https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8
+#EXTINF:-1,France Culture
+https://icecast.radiofrance.fr/franceculture-midfi.mp3
+#EXTINF:-1,Offradio
+https://s3.yesstreaming.net:17033/stream
+#EXTINF:-1,Lagelu FM 96.7
+https://edge.mixlr.com/channel/wupzh
+#EXTINF:-1,NPO Radio 5
+https://icecast.omroep.nl/radio5-bb-mp3
+#EXTINF:-1,Teatrul Național Radiofonic
+http://stream2.srr.ro:8078/eteatru.mp3
+#EXTINF:-1,Darik Radio
+https://darikradio.by.host.bg:8000/S2-128
+#EXTINF:-1,Radio El Buen Sembrador
+https://ecuamedios.net/8048/stream
+#EXTINF:-1,WZRC 1480 AM
+http://mobilewzrc.serverroom.us:6910/
+#EXTINF:-1,Ant1 Radio
+https://r1.cloudskep.com/radio2/ant1fm/icecast.audio
+#EXTINF:-1,Radio România Cultural
+http://stream2.srr.ro:8012/stream.nsv
+#EXTINF:-1,RNZ - National
+https://radionz.streamguys1.com/national/national/playlist.m3u8
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

@@ -1,0 +1,43 @@
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,Tropicana
+https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANAAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Radio Policia Bogotá
+http://95.111.251.90:8185/
+#EXTINF:-1,Fiesta Latina 106.1 Fm
+https://stream.zeno.fm/e2kzfpr34d0uv
+#EXTINF:-1,Colombia Crossover
+https://radio35.virtualtronics.com/proxy/colombiacrossover?mp=/stream
+#EXTINF:-1,Salsa Baul Caracas Radio.¡SALSISIMA!
+https://centova.hostingelectrica.net/proxy/baulmania/stream
+#EXTINF:-1,El Sol
+https://rcnmundo.com/elsol?
+#EXTINF:-1,La Sonora FM
+https://sonic.paulatina.co/7068/stream
+#EXTINF:-1,Tropical 100 Salsa
+https://stream.zeno.fm/cjgfujr8yhbvv
+#EXTINF:-1,Tropicalida
+https://alba-ec-tropicalida-tropicalida.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1,Radio Pura Musica
+https://radiopuramusica1.out.airtime.pro/radiopuramusica1_a
+#EXTINF:-1,Fuego 90
+https://radio5.domint.net:8110/stream
+#EXTINF:-1,Latina Stereo
+https://stream.latinastereo.com/proxy/latina/stream/1
+#EXTINF:-1,Sabrosita
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Sureña Estereo
+https://streaming.radiosenlinea.com.ar:10844/stream
+#EXTINF:-1,Pinguino Stereo
+https://radiolatina.info/9750/stream
+#EXTINF:-1,Tolima Stereo
+https://colombiawebs.com.co/proxy/radiolum/stream
+#EXTINF:-1,Radio Salsa
+http://radio.domiplay.net:2002/
+#EXTINF:-1,Radiomar
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MARAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Radio Panamericana
+https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio?property=onlineradiobox.com
+#EXTINF:-1,Paisa Estereo
+https://radiolatina.info:10902/
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

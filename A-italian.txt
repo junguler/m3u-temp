@@ -1,0 +1,43 @@
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,Radio Italia
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8
+#EXTINF:-1,Radio Carabineros
+https://streaming.prositel.cl/8374/stream
+#EXTINF:-1,Italo-Disco
+https://stream.laut.fm/italo-disco
+#EXTINF:-1,Radio Italo4you
+http://s0.radiohost.pl:8018/stream
+#EXTINF:-1,LolliRadio Italia
+https://stream.lolliradio.net/lolli_italia.mp3?FLID=8&ampaw_0_req.gdpr=true&amptype=.mp3
+#EXTINF:-1,RMI-Italo Disco Classic
+https://cast1.torontocast.com:1160/stream
+#EXTINF:-1,RMI - Italo Disco New Generation
+https://cast1.torontocast.com:1310/stream
+#EXTINF:-1,Radio TOP80
+https://top80.pl:8000/listen.mp3
+#EXTINF:-1,Virgin Radio Music Star Roger Waters Pink Floyd
+https://icy.unitedradio.it/VirginRogerWaters.mp3
+#EXTINF:-1,Radio Balla Balla
+https://ice15.fluidstream.net/ballaballa.aac?FLID=8&amptype=.aac
+#EXTINF:-1,Всемирное Одесское радио
+https://myradio24.org/odesradio
+#EXTINF:-1,MEGATRON MIX FM
+https://maximacenterdata.com/8084/stream
+#EXTINF:-1,ITALIANISSIMA RADIO
+http://stream.wifi4all.it:8000/italianissima
+#EXTINF:-1,Dance 80
+https://www.shoutcastitalia.com/proxy/dance80?mp=/stream
+#EXTINF:-1,Radio Nuova San Giorgio
+https://eu1.fastcast4u.com/proxy/eenter07?mp=/
+#EXTINF:-1,ITALIAN RADIO only (romantic) Italian Music
+https://italianradio.streamingmedia.it/play
+#EXTINF:-1,Rewind 1039
+http://198.178.121.76:8188/stream.mp3
+#EXTINF:-1,RAI Radio Tutta Italiana
+https://icestreaming.rai.it/4.mp3
+#EXTINF:-1,ITALOPOWER!
+https://stream.deevaradio.net:10443/italopower
+#EXTINF:-1,RM80
+http://91.232.4.33:9011/stream
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

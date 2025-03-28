@@ -1,0 +1,43 @@
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,Prambors FM
+https://rust.mrngroup.co:8040/stream
+#EXTINF:-1,La Otra FM
+https://laotrafm.makrodigital.com:9580/stream
+#EXTINF:-1,Mix FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Radio Tiempo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BARRANQUILLAAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Alpha FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=onlineradiobox
+#EXTINF:-1,The Beat 92.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKBEFMAAC.m3u8?dist=onlineradiobox
+#EXTINF:-1,W Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO.mp3?dist=onlineradiobox
+#EXTINF:-1,Yammat FM
+https://stream.yammat.fm/radio/8000/yammat.mp3
+#EXTINF:-1,Radio 357
+https://stream.rcs.revma.com/ye5kghkgcm0uv
+#EXTINF:-1,96.9 CKOI
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOIFMAAC.m3u8?dist=onlineradiobox
+#EXTINF:-1,Slow Radio
+https://stream.zeno.fm/dpk2zq5np2zuv
+#EXTINF:-1,La Mega
+https://rcnmundo.com/lamega?
+#EXTINF:-1,1.FM - Love Classics
+http://strm112.1.fm/loveclassics_mobile_mp3
+#EXTINF:-1,BBC Radio 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_two.m3u8
+#EXTINF:-1,Relax Instrumental
+https://stream.relaxfm.ee/instrumental
+#EXTINF:-1,Trax FM
+https://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:-1,FeMale Radio
+https://s1.cloudmu.id/listen/female_radio/stream
+#EXTINF:-1,98.1 CHFI
+https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8
+#EXTINF:-1,Midnight Cafe Radio
+https://vh11367x.out.airtime.pro/vh11367x_a
+#EXTINF:-1,Relax FM
+https://stream.relaxfm.ee/relax
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

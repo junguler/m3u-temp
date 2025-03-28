@@ -1,0 +1,43 @@
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,Chante France
+https://chantefrance.radiohls.infomaniak.com/chantefrance/manifest.m3u8
+#EXTINF:-1,Radio Bonheur
+https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
+#EXTINF:-1,Nostalgie Chansons Françaises
+https://scdn.nrjaudio.fm/adwz1/fr/30611/mp3_128.mp3?origine=radiobox&ampaw_0_1st.station=Nostalgie-Chansons-Francaises
+#EXTINF:-1,Одесса Мама
+http://online.odessa.fm:8000/stream
+#EXTINF:-1,Crooner Radio Frank Sinatra
+https://direct.croonerradio.fr/croonerradio-franksinatra-midfi.mp3
+#EXTINF:-1,Douce France
+https://doucefrance.ice.infomaniak.ch/doucefrance-192.mp3
+#EXTINF:-1,Nostalgie FM
+http://www.nostalgie.fm/
+#EXTINF:-1,Nostalgie Chansons Francaises
+https://stream.rcs.revma.com/23yuem43ehuvv
+#EXTINF:-1,Радио для взрослых
+https://myradio24.org/alex542888
+#EXTINF:-1,100 Pour Cent France
+https://streamingv2.shoutcast.com/100-Pour-Cent-France
+#EXTINF:-1,Nostalgie Generation 80
+https://scdn.nrjaudio.fm/adwz1/fr/55524/mp3_128.mp3?origine=radiobox&ampaw_0_1st.station=Nostalgie-Generation-80
+#EXTINF:-1,Radio Обозреватель - Лирика Шансона
+https://radio-stream-1.obozrevatel.com/shansonlyrics128.mp3
+#EXTINF:-1,Cherie Love Songs
+https://scdn.nrjaudio.fm/adwz1/fr/30207/mp3_128.mp3?origine=radiobox&ampaw_0_1st.station=CHERIE-LOVE-SONGS
+#EXTINF:-1,Nostalgie Best Of 80
+https://scdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3?origine=radiobox&ampaw_0_1st.station=Nostalgie-Best-of-80
+#EXTINF:-1,Nostalgie Saturday Night
+https://scdn.nrjaudio.fm/adwz1/fr/30773/mp3_128.mp3?origine=radiobox&ampaw_0_1st.station=Nostalgie-Saturday-Night
+#EXTINF:-1,Impact FM
+https://impactfm.ice.infomaniak.ch/impactfm-64.aac
+#EXTINF:-1,Radyo ilef
+http://radyo.cc.ankara.edu.tr:8089/
+#EXTINF:-1,Nostalgie Dance Party 90
+https://scdn.nrjaudio.fm/adwz1/fr/55205/mp3_128.mp3?origine=radiobox&ampaw_0_1st.station=Nostalgie-Dance-Party-90
+#EXTINF:-1,Nostalgie Legendes
+https://scdn.nrjaudio.fm/adwz1/fr/55196/mp3_128.mp3?origine=radiobox&ampaw_0_1st.station=Nostalgie-Legendes
+#EXTINF:-1,Radio Обозреватель - Шансон
+https://radio-stream-1.obozrevatel.com/shansonkievfm128.mp3
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

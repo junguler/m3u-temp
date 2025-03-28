@@ -1,0 +1,43 @@
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,BBC Radio 1
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8
+#EXTINF:-1,Trance-Energy Radio
+https://radio.trance-energy.org:8443/trance
+#EXTINF:-1,Radio Paradise
+https://stream.radioparadise.com/mp3-192
+#EXTINF:-1,Rock Rewind
+https://stream.zenolive.com/u18tuaphwzzuv.aac
+#EXTINF:-1,The World Wont Listen
+https://the-world-wont-listen.stream.laut.fm/the-world-wont-listen?
+#EXTINF:-1,TMM 1
+https://msmn3.co/proxy/x1mp33/stream
+#EXTINF:-1,Radio SKOVORODA
+http://stream.radioskovoroda.com:8000/radioskovoroda
+#EXTINF:-1,Laurel Canyon Radio
+http://s10.voscast.com:7858/
+#EXTINF:-1,Kis Rock
+https://stream.zeno.fm/2nbxgbynb18uv
+#EXTINF:-1,Radio Autentica Bogotá
+https://radiolatina.info/8132/stream
+#EXTINF:-1,FM 102.1
+https://wlum.streamon.fm/WLUM-48k.aac?
+#EXTINF:-1,QCIndie - Regina&amp#39s Alternative
+https://stream.qcindie.com/live
+#EXTINF:-1,Smart Radio
+https://web.smartradio.ro:8443/smartautototal
+#EXTINF:-1,MTV Rocks
+https://stream.zeno.fm/mqy5rybacxhvv
+#EXTINF:-1,WXPN 88.5 FM
+https://wxpnhi.xpn.org/xpnhi-nopreroll
+#EXTINF:-1,American Roots Radio
+https://cast1.torontocast.com:2305/stream
+#EXTINF:-1,Rock Nation
+https://stream.zeno.fm/a5xadbvfd2zuv
+#EXTINF:-1,KEXP 90.3 FM
+https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+#EXTINF:-1,Pinguin Radio
+https://streams.pinguinradio.com/PinguinRadio192.mp3
+#EXTINF:-1,SynthPop Radio
+https://synthpop.stream.laut.fm/synthpop
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

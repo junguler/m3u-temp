@@ -41,3 +41,10 @@ http://stm3.srvif.com:8366/stream
 http://66.55.144.67:8104/
 #EXTINF:-1,.977 Today&amp#39s Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,Regies Radio
+https://stream.zeno.fm/nqh454edma0uv
+#EXTINF:-1,yanasalam
+https://listen.radioking.com/radio/213058/stream/256153
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

@@ -41,3 +41,16 @@ https://icecast.stv.livebox.sk/klasika_128.mp3
 https://stream.vagalume.fm/hls/1477592024431906/aac.m3u8
 #EXTINF:-1,.977 Today&amp#39s Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,Sounds Of Brass
+https://stream4.hippynet.co.uk/stream/soundsofbrass
+#EXTINF:-1,ViVa La Radio! ® Sinfonica
+http://91.226.88.219:7990/stream.nsv
+#EXTINF:-1,Harmony Radio
+https://stream.zeno.fm/fnnhapurv34vv
+#EXTINF:-1,ABC - Classical
+https://stream.zeno.fm/xx6ci93aeiztv
+#EXTINF:-1,Radio Clasic Symphony
+https://radioclasic.ro:8566/stream
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

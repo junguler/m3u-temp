@@ -41,3 +41,10 @@ https://radio.vousstream.com/8042/stream
 https://stations.radio-host.com/proxy/theimprovcafe/stream
 #EXTINF:-1,.977 Today&amp#39s Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,Radio Swing
+https://listen.radioking.com/radio/94333/stream/132844
+#EXTINF:-1,Steady Eddie &ampamp The Duchess
+https://listen.radioking.com/radio/141142/stream/181246
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

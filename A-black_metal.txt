@@ -41,3 +41,40 @@ http://192.99.14.191:8051/stream
 https://stream.laut.fm/ritus
 #EXTINF:-1,.977 Today&amp#39s Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,Nachtfalter
+https://nachtfalter.stream.laut.fm/nachtfalter
+#EXTINF:-1,Rock &amp#39n&amp#39 Metal
+https://rocknmetalde.stream.laut.fm/rocknmetal_de
+#EXTINF:-1,Metalhead
+https://stream.laut.fm/metalhead
+#EXTINF:-1,Metaltime
+https://stream.laut.fm/metaltime
+#EXTINF:-1,End Zeit FM
+https://endzeitfm.stream.laut.fm/endzeitfm
+#EXTINF:-1,Radio-Lux
+https://radio-lux.stream.laut.fm/radio-lux
+#EXTINF:-1,Radio Metalkultur
+https://stream.laut.fm/radio-metalkultur
+#EXTINF:-1,Sprengies World FM
+https://stream.laut.fm/sprengiesworldfm
+#EXTINF:-1,Blackmetal.live
+https://stream.blackmetal.live:8443/stream.ogg
+#EXTINF:-1,Audimaxx
+https://audimaxx.stream.laut.fm/audimaxx
+#EXTINF:-1,Radio Peste Negra
+https://stream.zeno.fm/2h0q89msw38uv
+#EXTINF:-1,Ad_Infinitum
+https://stream.laut.fm/ad_infinitum
+#EXTINF:-1,European Fun Radio
+https://european-fun-radio.stream.laut.fm/european-fun-radio
+#EXTINF:-1,Neue Burg Radio
+https://stream.laut.fm/neue-burg-radio
+#EXTINF:-1,OMNIPOTENT RADIO
+https://ec2.yesstreaming.net:2500/stream
+#EXTINF:-1,Bergwerk Echo
+https://stream.laut.fm/bergwerk-echo
+#EXTINF:-1,Planet Network Indie Radio
+https://listen.radioking.com/radio/486038/stream/542711
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

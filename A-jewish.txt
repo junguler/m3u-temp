@@ -41,3 +41,12 @@ https://icecast.live/ivr
 https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
 #EXTINF:-1,.977 Today&amp#39s Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,רדיו המוזיקה היהודית
+https://listen.radioking.com/radio/468242/stream/524405
+#EXTINF:-1,Shaarey Zedek Synagogue
+http://s6.voscast.com:9464/
+#EXTINF:-1,Radio keazvmizrchit (רדיו קצב מזרחית)
+https://liveradio.co.il:9089/stream.nsv
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox

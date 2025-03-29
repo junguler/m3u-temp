@@ -256,3 +256,20 @@ https://radiko.jp/#!/live/TOKAIRADIO
 https://radiko.jp/#!/live/BSS
 #EXTINF:-1,.977 Today&amp#39s Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox
+<button class="b-play" id="b_top_play" role="button" title="Listen to radio"></button>
+#EXTINF:-1,FM-N1
+http://fmn1.jp/stream/stream.swf
+#EXTINF:-1,Nippon Cultural Broadcasting
+https://radiko.jp/#!/live/QRR
+#EXTINF:-1,FM Fukuoka
+https://radiko.jp/#!/live/FMFUKUOKA
+#EXTINF:-1,FM Osaka
+http://radiko.jp/player/player.html#FMO
+#EXTINF:-1,TBC Radio
+https://radiko.jp/#!/live/TBC
+#EXTINF:-1,FM Niigata
+https://radiko.jp/#!/live/FMNIIGATA
+#EXTINF:-1,FM Port
+http://radiko.jp/player/player.html#FMPORT
+#EXTINF:-1,99.9 The Fan
+https://ais-sa8.cdnstream1.com/2750_64.aac

@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for j in {1..20} ; do for i in *.txt ; do curl -s http://dir.xiph.org/genres/$(echo $i | awk -F '+_' '{print $2}' | sed 's|.txt||g')$(cat $i | tail -n 1) | grep ">Next<" | awk -F '"' '{print $4}' | awk 'length>4' >> $i ; done ; done
+          for j in {21..40} ; do for i in *.txt ; do curl -s http://dir.xiph.org/genres/$(echo $i | awk -F '+_' '{print $2}' | sed 's|.txt||g')$(cat $i | tail -n 1) | grep ">Next<" | awk -F '"' '{print $4}' | awk 'length>4' >> $i ; done ; done
 
       - name: git stuff
         run: |

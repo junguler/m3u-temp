@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+<title>Xiph Directory (BETA) &mdash; Genre Zouk</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="/static/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/static/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/favicons/safari-pinned-tab.svg" color="#29495c">
+<link rel="shortcut icon" href="/static/favicons/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Xiph Directory">
+<meta name="application-name" content="Xiph Directory">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-config" content="/static/favicons/browserconfig.xml">
+<meta name="theme-color" content="#29495c">
+
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="/">
+        <img src="/static/img/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+        Icecast Directory
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            
+            <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="/genres">Genres</a></li>
+            <li class="nav-item"><a class="nav-link" href="/codecs">Codecs</a></li>
+            <li class="nav-item"><a class="nav-link" href="/search">Search</a></li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0" action="/search">
+            <input class="form-control mr-sm-2" type="search" name="q" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+</nav>
+
+
+        <main role="main" class="container">
+            <h1>
+                <a href="/">
+                    <img src="/static/img/logo_jumbo.svg" style="width: 100% \9; max-width: 512px;" class="d-inline-block" alt="">
+                    <span class="sr-only">Icecast Directory</span>
+                </a>
+            </h1>
+            <hr class="my-4">
+
+            <h2>Genre “Zouk” Streams</h2>
+
+            
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">Dakar Musique</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: Diogal SAKHO - Boka Touma [58A]</h6>
+            <p class="card-text">La capitale de la musique senegalaise</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            87 Listeners &mdash;
+            
+            <a href="/genres/Senegal" class="badge badge-secondary">Senegal</a>
+            
+            <a href="/genres/African" class="badge badge-secondary">African</a>
+            
+            <a href="/genres/Mbalax" class="badge badge-secondary">Mbalax</a>
+            
+            <a href="/genres/International" class="badge badge-secondary">International</a>
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            <a href="/genres/Reggae" class="badge badge-secondary">Reggae</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://listen.senemultimedia.net:8090/stream" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">Radio Keur Massar</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: Thione Seck - Borom Keur</h6>
+            <p class="card-text">La radio du département de Keur Massar au Sénégal</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            14 Listeners &mdash;
+            
+            <a href="/genres/Senegal" class="badge badge-secondary">Senegal</a>
+            
+            <a href="/genres/Mbalakh" class="badge badge-secondary">Mbalakh</a>
+            
+            <a href="/genres/African" class="badge badge-secondary">African</a>
+            
+            <a href="/genres/International" class="badge badge-secondary">International</a>
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            <a href="/genres/Reggae" class="badge badge-secondary">Reggae</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://listen.senemultimedia.net:8140/stream" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">H24 Senegal</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: SUPER CAYOR - SEMINAIRE</h6>
+            <p class="card-text">Un point de vue alternatif</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            11 Listeners &mdash;
+            
+            <a href="/genres/African" class="badge badge-secondary">African</a>
+            
+            <a href="/genres/Senegal" class="badge badge-secondary">Senegal</a>
+            
+            <a href="/genres/Mbalakh" class="badge badge-secondary">Mbalakh</a>
+            
+            <a href="/genres/International" class="badge badge-secondary">International</a>
+            
+            <a href="/genres/Reggae" class="badge badge-secondary">Reggae</a>
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://listen.senemultimedia.net:8070/stream" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">SocaFm</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: 4B - 7 - - 120 -&#43;^( Sparrow ~ Both of Them&#43;&#43;&#43;&#43;</h6>
+            <p class="card-text">SocaFm uk  music 24/7</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            9 Listeners &mdash;
+            
+            <a href="/genres/Soca" class="badge badge-secondary">Soca</a>
+            
+            <a href="/genres/Calypso" class="badge badge-secondary">Calypso</a>
+            
+            <a href="/genres/Reggae" class="badge badge-secondary">Reggae</a>
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            <a href="/genres/Caribbean" class="badge badge-secondary">Caribbean</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://cupcake.citrus3.com:8112/stream" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">www.telezoukla.com</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: On%20Dot%20Kout%20Chenn%20%2d%20Sexy%20Girls</h6>
+            <p class="card-text">Zouk&#39; La Toujou Pli Bèl</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            8 Listeners &mdash;
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            <a href="/genres/Kompa" class="badge badge-secondary">Kompa</a>
+            
+            <a href="/genres/Tubes" class="badge badge-secondary">Tubes</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://ecmanager4.pro-fhi.net:2600/stream" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">TROPIC 84</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: LANDRY%20%2d%20PA%20DOUT</h6>
+            <p class="card-text">TROPIC 84, première webradio antillaise dans le Vaucluse à Entraigues sur la sorgue, une banlieue d’Avignon. Ecoute en direct pour une évasion musicale à travers les îles, la Caraïbe, les Antilles, l&#39;Afrique, l&#39;Océan Indien, l&#39;Océan Pacifique et l&#39;Amérique Latine.</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            7 Listeners &mdash;
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            <a href="/genres/Kompa" class="badge badge-secondary">Kompa</a>
+            
+            <a href="/genres/Salsa" class="badge badge-secondary">Salsa</a>
+            
+            <a href="/genres/Regga%C3%A9" class="badge badge-secondary">Reggaé</a>
+            
+            <a href="/genres/Ragga" class="badge badge-secondary">Ragga</a>
+            
+            <a href="/genres/S%C3%A9ga" class="badge badge-secondary">Séga</a>
+            
+            <a href="/genres/Maloya" class="badge badge-secondary">Maloya</a>
+            
+            <a href="/genres/Music" class="badge badge-secondary">Music</a>
+            
+            <a href="/genres/traditionnelle" class="badge badge-secondary">traditionnelle</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://ecmanager4.pro-fhi.net:2740/stream" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">ANTILLES MEDIA ZOUK</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: CHRISTIAN%20LEON%20%2d%20DOUCI</h6>
+            <p class="card-text">Les Années 80 &amp;amp; 90</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            7 Listeners &mdash;
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://antillesmedia.pro-fhi.net:1040/stream" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">Radio Dakar City</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: </h6>
+            <p class="card-text">Votre Radio de proximité au Senegal</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            5 Listeners &mdash;
+            
+            <a href="/genres/Senegal" class="badge badge-secondary">Senegal</a>
+            
+            <a href="/genres/Mbalakh" class="badge badge-secondary">Mbalakh</a>
+            
+            <a href="/genres/African" class="badge badge-secondary">African</a>
+            
+            <a href="/genres/International" class="badge badge-secondary">International</a>
+            
+            <a href="/genres/Reggae" class="badge badge-secondary">Reggae</a>
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://listen.senemultimedia.net:8000/stream" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">M40 Zouk</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: METEORZ&#39; - HELLO! DISC-JOCKEY</h6>
+            <p class="card-text"></p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            2 Listeners &mdash;
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            &mdash;
+            
+            <a href="/codecs/AAC" class="badge badge-primary">AAC</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="https://live.m40radio.fr/listen/m40-zouk/m40-zouk-128.mp3" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">TROPIK FM ST BARTH</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: </h6>
+            <p class="card-text">TROPIK FM ST BARTH</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            1 Listeners &mdash;
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            <a href="/genres/Soca" class="badge badge-secondary">Soca</a>
+            
+            <a href="/genres/Reggae" class="badge badge-secondary">Reggae</a>
+            
+            <a href="/genres/Latino" class="badge badge-secondary">Latino</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://stream.vestaradio.com:8190/liveTROPIKFM" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">RadioFranceCaraibes</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: 40 % - 40 %</h6>
+            <p class="card-text">Musique de la caraibe</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            1 Listeners &mdash;
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://stream3.vestaradio.com:8091/RadioFranceCaraibes" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">w-hits</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: Kim%20%5f%5f%5f%20Maman%20%2d%20Kim%20%5f%5f%5f%20Maman%20%3f%20%2d%20Zouk%20%2d</h6>
+            <p class="card-text"></p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            1 Listeners &mdash;
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            <a href="/genres/RnB" class="badge badge-secondary">RnB</a>
+            
+            <a href="/genres/reggae" class="badge badge-secondary">reggae</a>
+            
+            <a href="/genres/dance" class="badge badge-secondary">dance</a>
+            
+            <a href="/genres/hall" class="badge badge-secondary">hall</a>
+            
+            <a href="/genres/Kompa" class="badge badge-secondary">Kompa</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://ecmanager4.pro-fhi.net:2490/stream" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <h5 class="card-title">alfamusique</h5>
+            <h6 class="card-subtitle mb-2 text-muted">On Air: PSQUARE - Personality (DJ BasT Bootleg) DROPE</h6>
+            <p class="card-text">alfamusique</p>
+        </div>
+        <div class="card-footer d-block text-muted">
+            0 Listeners &mdash;
+            
+            <a href="/genres/Zouk" class="badge badge-secondary">Zouk</a>
+            
+            &mdash;
+            
+            <a href="/codecs/MP3" class="badge badge-primary">MP3</a>
+            
+            <div class="d-inline-block float-right">
+                <a href="http://stream3.vestaradio.com:8091/alfamusique" class="btn btn-sm btn-primary">Play</a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+             <nav aria-label="Pagination">
+                <ul class="pagination mt-2">
+                    
+                    <li class="page-item disabled">
+                        <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+                    </li>
+                    
+                    
+                    <li class="page-item disabled">
+                        <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Next</a>
+                    </li>
+                    
+                </ul>
+            </nav>
+        </main>
+    </body>
+</html>

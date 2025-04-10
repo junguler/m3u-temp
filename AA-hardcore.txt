@@ -88,3 +88,11 @@ https://frenchcoreradio.online/listen/tek/;
 http://dinetmedia.ru:8000/live
 #EXTINF:-1,DINETRADIO
 http://dinetmedia.ru:8000/lives
+#EXTINF:-1,THE RAVE ZONE 24h (DE) (VORBIS 256 kbps)
+http://stream.radio-zone.ru:8000/rz_ogg_256
+#EXTINF:-1,THE RAVE ZONE 24h (VIE) (VORBIS 256 kbps)
+http://stream-vie.radio-zone.ru:8000/rz_vie_ogg_256
+#EXTINF:-1,THE RAVE ZONE 24h (DE) (MP3 192 kbps)
+http://stream.radio-zone.ru:8000/rz_de_mid_mp3_192
+#EXTINF:-1,THE RAVE ZONE 24h (DE) (MP3 64 kbps)
+http://stream.radio-zone.ru:8000/rz_de_low_mp3_64

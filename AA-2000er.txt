@@ -58,3 +58,9 @@ http://frontend.streamonkey.net/landeswelle-sued/stream/mp3?aggregator=icecastdi
 
 #EXTINF:-1,LandesWelle Thüringen Region Süd
 
+#EXTINF:-1,Antenne Vorarlberg 2000er Hits
+http://frontend.streamonkey.net/landeswelle-nord/stream/aacp?aggregator=icecastdirectory
+#EXTINF:-1,LandesWelle Thüringen Region Nord
+http://frontend.streamonkey.net/antthue-west/stream/aacp?aggregator=icecastdirectory
+#EXTINF:-1,ANTENNE THÜRINGEN WEST
+

@@ -110,3 +110,9 @@ http://radio.hearme.fm:8820/stream
 http://radio.hearme.fm:8720/stream
 #EXTINF:-1,Dave Koz Radio Show
 http://radio.hearme.fm:9640/stream
+#EXTINF:-1,DJ ARCH RADIO
+http://radio.deejarch.com:7502/stream
+#EXTINF:-1,90s R{STREAM_NAME}B
+http://radio.hearme.fm:9730/stream
+#EXTINF:-1,Jazz Hop
+http://radio.hearme.fm:9650/stream

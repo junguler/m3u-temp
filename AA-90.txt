@@ -58,3 +58,13 @@ http://ais-edge66-ams02.cdnstream.com:80/1radio_classicrock_64?fromyp=true
 http://cast1.torontocast.com:4920/stream
 #EXTINF:-1,1Radio.mk - At Work
 http://ais-edge65-lon01.cdnstream.com:80/1radio_atwork_128?fromyp=true
+#EXTINF:-1,CrazyRadio.cz
+http://live.topradio.cz:8000/crazy64
+#EXTINF:-1,1Radio.mk - At Work
+http://ais-edge66-ams02.cdnstream.com:80/1radio_atwork_128?fromyp=true
+#EXTINF:-1,CsRadio.cz
+http://live.topradio.cz:8000/csradio32
+#EXTINF:-1,CrazyRadio.cz
+http://live.topradio.cz:8000/crazy32
+#EXTINF:-1,Online Radio
+http://maxximixx-server.com:8138/stream

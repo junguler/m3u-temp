@@ -70,3 +70,11 @@ http://stream.freshrock.net:8000/128.aac
 http://radio.hearme.fm:9200/stream
 #EXTINF:-1,Crucial Velocity Radio
 http://ais-edge94-nyc04.cdnstream.com:80/1369_64?fromyp=true
+#EXTINF:-1,Crucial Velocity Radio
+http://ais-edge94-nyc04.cdnstream.com:80/1369_64?fromyp=true
+#EXTINF:-1,Classic Metal
+http://radio.hearme.fm:8530/stream
+#EXTINF:-1,Prog Metal
+http://radio.hearme.fm:9240/stream
+#EXTINF:-1,Crucial Velocity Radio
+http://das-edge35-sa25-dal03.cdnstream.com:80/1369_64?fromyp=true

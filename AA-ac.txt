@@ -60,3 +60,19 @@ http://hydra.shoutca.st:8064/stream2
 http://c30.radioboss.fm:8758/autodj
 #EXTINF:-1,Easy Radio Bulgaria
 
+#EXTINF:-1,Antenne Vorarlberg
+http://web.radio.antennevorarlberg.at/av-live/stream/aacp?aggregator=icecastdirectory
+#EXTINF:-1,Antenne Vorarlberg
+http://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3?aggregator=icecastdirectory
+#EXTINF:-1,Antenne Vorarlberg Love Songs
+http://web.radio.antennevorarlberg.at/av-live/stream/mp3?aggregator=icecastdirectory
+#EXTINF:-1,Antenne Vorarlberg
+http://web.radio.antennevorarlberg.at/av-lovesongs/stream/aacp?aggregator=icecastdirectory
+#EXTINF:-1,Antenne Vorarlberg Love Songs
+http://web.radio.antennevorarlberg.at/av-nonstop/stream/mp3?aggregator=icecastdirectory
+#EXTINF:-1,Antenne Vorarlberg Nonstop
+http://web.radio.antennevorarlberg.at/av-nonstop/stream/aacp?aggregator=icecastdirectory
+#EXTINF:-1,Antenne Vorarlberg Love Songs
+
+#EXTINF:-1,Antenne Vorarlberg Nonstop
+

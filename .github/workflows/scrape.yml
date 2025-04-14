@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in *_+_*.txt ; do for j in $(cat $i) ; do curl -s http://dir.xiph.org/genres/$(echo $i | awk -F '+_' '{print $2}' | sed 's|.txt||g')$j > mep1 ; paste -d '\n' <(cat mep1 | ./htmlq .shadow-sm h5 -t | awk NF | awk '{print "#EXTINF:-1,"$0}') <(cat mep1 | ./htmlq .d-inline-block -a href a | awk NF) >> AA-$(echo $i | awk -F '+_' '{print $2}' | sed 's|.txt||g' | tr '[:upper:]' '[:lower:]').txt ; done ; done
+          for i in $(cat genres.txt) ; do curl -s https://laut.fm/fm-api/stations/genre/$i?offset=0&limit=10000 | jq -r '.items[].name' >> A-$i.txt ; echo -e $i ; done
 
       - name: git stuff
         run: |

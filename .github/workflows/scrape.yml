@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in \&page={326..405} ; do for j in $(cat genres.txt) ; do curl -s https://keepone.net/genre/$j$i | ./htmlq -a href a | grep "/radio/" | uniq | cut -c8- >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          for i in \&page={406..565} ; do for j in $(cat genres.txt) ; do curl -s https://keepone.net/genre/$j$i | ./htmlq -a href a | grep "/radio/" | uniq | cut -c8- >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: git stuff
         run: |

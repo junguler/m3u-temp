@@ -11,6 +11,7 @@ jobs:
       - name: run commands
         run: |
           for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://keepone.net/radio/$j > mep1 ; cat mep1 | ./htmlq -t h1 | awk '{print "#EXTINF:-1,"$0}' >> A$i ; cat mep1 | grep "<source title" | awk -F '"' '{print $6}' | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
+          rm mep1
 
       - name: git stuff
         run: |

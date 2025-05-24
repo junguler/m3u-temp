@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in {71..140} ; do for j in $(cat genres.txt) ; do curl -s https://vtuner.com/setupapp/guide/asp/BrowseStations/BrowsePremiumStations.asp\?sCategory\=$j\&sBrowseType\=Format\&sViewBy\=\&sSortby\=\&sWhatList\=\&sNiceLang\=\&iCurrPage\=$i | ./htmlq -a href a | uniq | grep "dynampls.asp" | awk -F '=' '{print $2"="$3}' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          for i in {141..280} ; do for j in $(cat genres.txt) ; do curl -s https://vtuner.com/setupapp/guide/asp/BrowseStations/BrowsePremiumStations.asp\?sCategory\=$j\&sBrowseType\=Format\&sViewBy\=\&sSortby\=\&sWhatList\=\&sNiceLang\=\&iCurrPage\=$i | ./htmlq -a href a | uniq | grep "dynampls.asp" | awk -F '=' '{print $2"="$3}' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: git stuff
         run: |

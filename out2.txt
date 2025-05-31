@@ -1,45 +1,0 @@
-Script started on 2025-05-31 23:08:50+03:30 [COMMAND="git pull" TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="142" LINES="13"]
-remote: Enumerating objects: 4, done.[K
-remote: Counting objects:  25% (1/4)[Kremote: Counting objects:  50% (2/4)[Kremote: Counting objects:  75% (3/4)[Kremote: Counting objects: 100% (4/4)[Kremote: Counting objects: 100% (4/4), done.[K
-remote: Compressing objects: 100% (1/1)[Kremote: Compressing objects: 100% (1/1), done.[K
-remote: Total 3 (delta 1), reused 3 (delta 1), pack-reused 0 (from 0)[K
-Unpacking objects:  33% (1/3)Unpacking objects:  66% (2/3)Unpacking objects: 100% (3/3)Unpacking objects: 100% (3/3), 364 bytes | 26.00 KiB/s, done.
-From https://github.com/junguler/m3u-temp
-   05163ead7..da9514e8b  main       -> origin/main
-Updating 05163ead7..da9514e8b
-Fast-forward
- A-loca-loca-ar.txt | 0
- A-loca-loca-au.txt | 0
- A-loca-loca-br.txt | 0
- A-loca-loca-ca.txt | 0
- A-loca-loca-cl.txt | 0
- A-loca-loca-co.txt | 0
- A-loca-loca-de.txt | 0
- A-loca-loca-es.txt | 0
- A-loca-loca-fr.txt | 0
- A-loca-loca-gb.txt | 0
- A-loca-loca-gr.txt | 0
- A-loca-loca-it.txt | 0
- A-loca-loca-mx.txt | 0
- A-loca-loca-nl.txt | 0
- A-loca-loca-tr.txt | 0
- A-loca-loca-us.txt | 0
- 16 files changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 A-loca-loca-ar.txt
- create mode 100644 A-loca-loca-au.txt
- create mode 100644 A-loca-loca-br.txt
- create mode 100644 A-loca-loca-ca.txt
- create mode 100644 A-loca-loca-cl.txt
- create mode 100644 A-loca-loca-co.txt
- create mode 100644 A-loca-loca-de.txt
- create mode 100644 A-loca-loca-es.txt
- create mode 100644 A-loca-loca-fr.txt
- create mode 100644 A-loca-loca-gb.txt
- create mode 100644 A-loca-loca-gr.txt
- create mode 100644 A-loca-loca-it.txt
- create mode 100644 A-loca-loca-mx.txt
- create mode 100644 A-loca-loca-nl.txt
- create mode 100644 A-loca-loca-tr.txt
- create mode 100644 A-loca-loca-us.txt
-
-Script done on 2025-05-31 23:08:52+03:30 [COMMAND_EXIT_CODE="0"]

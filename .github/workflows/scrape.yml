@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in \?skip={372..720..12} ; do for j in $(cat genres.txt) ; do curl -s https://openradio.app/api/list/global-genre/$j$i | jq -r '.items[] | {slug, id} | join("-")' | awk NF >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          for i in \?skip={732..1200..12} ; do for j in $(cat genres.txt) ; do curl -s https://openradio.app/api/list/global-genre/$j$i | jq -r '.items[] | {slug, id} | join("-")' | awk NF >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: git stuff
         run: |

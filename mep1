@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="theme-color" content="#333333">
+
+	<link rel="icon" type="image/png" href="/static/icons/v2/favicon-32x32.png">
+	<link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/static/icons/v2/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/static/icons/v2/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/static/icons/v2/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/static/icons/v2/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/static/icons/v2/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/static/icons/v2/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/static/icons/v2/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/static/icons/v2/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/static/icons/v2/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="512x512" href="/static/icons/v2/android-icon-512x512.png">
+	<link rel="icon" type="image/png" sizes="256x256" href="/static/icons/v2/android-icon-256x256.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/static/icons/v2/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/static/icons/v2/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/static/icons/v2/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/static/icons/v2/favicon-16x16.png">
+	<meta name="msapplication-TileImage" content="/static/icons/v2/ms-icon-144x144.png">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="theme-color" content="#3D5AFE">
+
+	<title>WXMC Radio Zindagi | Parsippany, New Jersey, United States</title><link rel="alternate" hreflang="af" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=af" data-svelte="svelte-raufas"><link rel="alternate" hreflang="am" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=am" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ar" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ar" data-svelte="svelte-raufas"><link rel="alternate" hreflang="az" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=az" data-svelte="svelte-raufas"><link rel="alternate" hreflang="be" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=be" data-svelte="svelte-raufas"><link rel="alternate" hreflang="bg" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=bg" data-svelte="svelte-raufas"><link rel="alternate" hreflang="bn" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=bn" data-svelte="svelte-raufas"><link rel="alternate" hreflang="bs" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=bs" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ca" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ca" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ceb" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ceb" data-svelte="svelte-raufas"><link rel="alternate" hreflang="co" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=co" data-svelte="svelte-raufas"><link rel="alternate" hreflang="cs" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=cs" data-svelte="svelte-raufas"><link rel="alternate" hreflang="cy" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=cy" data-svelte="svelte-raufas"><link rel="alternate" hreflang="da" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=da" data-svelte="svelte-raufas"><link rel="alternate" hreflang="de" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=de" data-svelte="svelte-raufas"><link rel="alternate" hreflang="el" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=el" data-svelte="svelte-raufas"><link rel="alternate" hreflang="en" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=en" data-svelte="svelte-raufas"><link rel="alternate" hreflang="eo" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=eo" data-svelte="svelte-raufas"><link rel="alternate" hreflang="es" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=es" data-svelte="svelte-raufas"><link rel="alternate" hreflang="et" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=et" data-svelte="svelte-raufas"><link rel="alternate" hreflang="eu" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=eu" data-svelte="svelte-raufas"><link rel="alternate" hreflang="fa" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=fa" data-svelte="svelte-raufas"><link rel="alternate" hreflang="fi" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=fi" data-svelte="svelte-raufas"><link rel="alternate" hreflang="fr" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=fr" data-svelte="svelte-raufas"><link rel="alternate" hreflang="fy" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=fy" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ga" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ga" data-svelte="svelte-raufas"><link rel="alternate" hreflang="gd" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=gd" data-svelte="svelte-raufas"><link rel="alternate" hreflang="gl" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=gl" data-svelte="svelte-raufas"><link rel="alternate" hreflang="gu" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=gu" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ha" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ha" data-svelte="svelte-raufas"><link rel="alternate" hreflang="haw" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=haw" data-svelte="svelte-raufas"><link rel="alternate" hreflang="he" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=he" data-svelte="svelte-raufas"><link rel="alternate" hreflang="hi" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=hi" data-svelte="svelte-raufas"><link rel="alternate" hreflang="hmn" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=hmn" data-svelte="svelte-raufas"><link rel="alternate" hreflang="hr" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=hr" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ht" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ht" data-svelte="svelte-raufas"><link rel="alternate" hreflang="hu" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=hu" data-svelte="svelte-raufas"><link rel="alternate" hreflang="hy" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=hy" data-svelte="svelte-raufas"><link rel="alternate" hreflang="id" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=id" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ig" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ig" data-svelte="svelte-raufas"><link rel="alternate" hreflang="is" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=is" data-svelte="svelte-raufas"><link rel="alternate" hreflang="it" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=it" data-svelte="svelte-raufas"><link rel="alternate" hreflang="iw" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=iw" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ja" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ja" data-svelte="svelte-raufas"><link rel="alternate" hreflang="jw" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=jw" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ka" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ka" data-svelte="svelte-raufas"><link rel="alternate" hreflang="kk" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=kk" data-svelte="svelte-raufas"><link rel="alternate" hreflang="km" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=km" data-svelte="svelte-raufas"><link rel="alternate" hreflang="kn" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=kn" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ko" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ko" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ku" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ku" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ky" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ky" data-svelte="svelte-raufas"><link rel="alternate" hreflang="la" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=la" data-svelte="svelte-raufas"><link rel="alternate" hreflang="lb" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=lb" data-svelte="svelte-raufas"><link rel="alternate" hreflang="lo" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=lo" data-svelte="svelte-raufas"><link rel="alternate" hreflang="lt" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=lt" data-svelte="svelte-raufas"><link rel="alternate" hreflang="lv" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=lv" data-svelte="svelte-raufas"><link rel="alternate" hreflang="mg" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=mg" data-svelte="svelte-raufas"><link rel="alternate" hreflang="mi" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=mi" data-svelte="svelte-raufas"><link rel="alternate" hreflang="mk" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=mk" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ml" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ml" data-svelte="svelte-raufas"><link rel="alternate" hreflang="mn" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=mn" data-svelte="svelte-raufas"><link rel="alternate" hreflang="mr" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=mr" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ms" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ms" data-svelte="svelte-raufas"><link rel="alternate" hreflang="mt" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=mt" data-svelte="svelte-raufas"><link rel="alternate" hreflang="my" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=my" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ne" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ne" data-svelte="svelte-raufas"><link rel="alternate" hreflang="nl" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=nl" data-svelte="svelte-raufas"><link rel="alternate" hreflang="no" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=no" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ny" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ny" data-svelte="svelte-raufas"><link rel="alternate" hreflang="or" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=or" data-svelte="svelte-raufas"><link rel="alternate" hreflang="pa" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=pa" data-svelte="svelte-raufas"><link rel="alternate" hreflang="pl" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=pl" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ps" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ps" data-svelte="svelte-raufas"><link rel="alternate" hreflang="pt" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=pt" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ro" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ro" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ru" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ru" data-svelte="svelte-raufas"><link rel="alternate" hreflang="rw" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=rw" data-svelte="svelte-raufas"><link rel="alternate" hreflang="sd" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=sd" data-svelte="svelte-raufas"><link rel="alternate" hreflang="si" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=si" data-svelte="svelte-raufas"><link rel="alternate" hreflang="sk" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=sk" data-svelte="svelte-raufas"><link rel="alternate" hreflang="sl" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=sl" data-svelte="svelte-raufas"><link rel="alternate" hreflang="sm" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=sm" data-svelte="svelte-raufas"><link rel="alternate" hreflang="sn" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=sn" data-svelte="svelte-raufas"><link rel="alternate" hreflang="so" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=so" data-svelte="svelte-raufas"><link rel="alternate" hreflang="sq" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=sq" data-svelte="svelte-raufas"><link rel="alternate" hreflang="sr" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=sr" data-svelte="svelte-raufas"><link rel="alternate" hreflang="st" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=st" data-svelte="svelte-raufas"><link rel="alternate" hreflang="su" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=su" data-svelte="svelte-raufas"><link rel="alternate" hreflang="sv" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=sv" data-svelte="svelte-raufas"><link rel="alternate" hreflang="sw" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=sw" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ta" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ta" data-svelte="svelte-raufas"><link rel="alternate" hreflang="te" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=te" data-svelte="svelte-raufas"><link rel="alternate" hreflang="tg" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=tg" data-svelte="svelte-raufas"><link rel="alternate" hreflang="th" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=th" data-svelte="svelte-raufas"><link rel="alternate" hreflang="tk" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=tk" data-svelte="svelte-raufas"><link rel="alternate" hreflang="tl" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=tl" data-svelte="svelte-raufas"><link rel="alternate" hreflang="tr" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=tr" data-svelte="svelte-raufas"><link rel="alternate" hreflang="tt" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=tt" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ug" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ug" data-svelte="svelte-raufas"><link rel="alternate" hreflang="uk" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=uk" data-svelte="svelte-raufas"><link rel="alternate" hreflang="ur" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=ur" data-svelte="svelte-raufas"><link rel="alternate" hreflang="uz" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=uz" data-svelte="svelte-raufas"><link rel="alternate" hreflang="vi" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=vi" data-svelte="svelte-raufas"><link rel="alternate" hreflang="xh" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=xh" data-svelte="svelte-raufas"><link rel="alternate" hreflang="yi" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=yi" data-svelte="svelte-raufas"><link rel="alternate" hreflang="yo" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=yo" data-svelte="svelte-raufas"><link rel="alternate" hreflang="zh" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=zh" data-svelte="svelte-raufas"><link rel="alternate" hreflang="zh-cn" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=zh-cn" data-svelte="svelte-raufas"><link rel="alternate" hreflang="zh-tw" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=zh-tw" data-svelte="svelte-raufas"><link rel="alternate" hreflang="zu" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj?lang=zu" data-svelte="svelte-raufas">
+    <link rel="alternate" hreflang="x-default" href="https://openradio.app/station/wxmc-radio-zindagi-5g7to6gj" data-svelte="svelte-raufas"><meta property="og:title" content="WXMC Radio Zindagi | Parsippany, New Jersey, United States" data-svelte="svelte-19ogf7j"><meta name="description" content="WXMC Radio Zindagi. We put &#39;des&#39; in Pardes in Parsippany, NJ" data-svelte="svelte-19ogf7j"><meta property="og:description" content="WXMC Radio Zindagi. We put &#39;des&#39; in Pardes in Parsippany, NJ" data-svelte="svelte-19ogf7j"><meta property="og:image" content="/img/200/sl6kp8be.jpg" data-svelte="svelte-19ogf7j"><meta property="og:site_name" content="Openradio.app" data-svelte="svelte-19ogf7j">
+	<link rel="stylesheet" href="/_app/immutable/assets/pages/__layout.svelte-822fb870.css">
+	<link rel="stylesheet" href="/_app/immutable/assets/Rip-72c760a6.css">
+	<link rel="stylesheet" href="/_app/immutable/assets/CircularProgress-08fca7fa.css">
+	<link rel="stylesheet" href="/_app/immutable/assets/Image-7bbf8417.css">
+	<link rel="stylesheet" href="/_app/immutable/assets/pages/station/_station_/index.svelte-0c96eb5a.css">
+	<link rel="stylesheet" href="/_app/immutable/assets/Page-d3875e4d.css">
+	<link rel="modulepreload" href="/_app/immutable/start-282c2861.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/index-5db5f925.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/index-af12275a.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/preload-helper-60cab3ee.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/singletons-d1fb5791.js">
+	<link rel="modulepreload" href="/_app/immutable/pages/__layout.svelte-464dbfd8.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/stores-e96c909e.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/Rip-3ef3e46d.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/navigation-3f1ea447.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/index-aeccb072.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/Close-c2320cd8.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/CircularProgress-85fc68db.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/actions-ab4877e5.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/Alert-47a49d17.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/global-f9441cf1.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/Image-8aae9abb.js">
+	<link rel="modulepreload" href="/_app/immutable/pages/station/_station_/index.svelte-28b38bd0.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/load-d463ed76.js">
+	<link rel="modulepreload" href="/_app/immutable/chunks/Page-b8d848b0.js">
+			<script>
+		if ('serviceWorker' in navigator) {
+			addEventListener('load', () => {
+				navigator.serviceWorker.register('/service-worker.js');
+			});
+		}
+	</script>
+</head>
+
+<body>
+	<div id="sapper">
+
+
+
+
+<div class="dashboard svelte-15z4gmx"><div class="top svelte-1aa7vld"><div class="menu hide-narrow ripple-light svelte-1aa7vld"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" fill="currentColor"></path></svg>
+    <div class="ripple svelte-po4fcb"></div></div>
+  <div class="menu hide-wide ripple-light svelte-1aa7vld"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" fill="currentColor"></path></svg>
+    <div class="ripple svelte-po4fcb"></div></div>
+
+  <a href="/" class="na logo svelte-1aa7vld">openradio<span class="light svelte-1aa7vld">.app</span></a>
+
+  <form class="search-form hide-narrow svelte-1aa7vld" action="/search"><div class="search-icon svelte-1aa7vld"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" fill="currentColor"></path></svg></div>
+    <input class="search search-wide svelte-1aa7vld" name="q" autocomplete="off" type="search" spellcheck="false" placeholder="Search..."></form>
+
+  <div class="open-narrow-search hide-wide ripple-light svelte-1aa7vld"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" fill="currentColor"></path></svg>
+    <div class="ripple svelte-po4fcb"></div></div>
+
+  
+  
+  
+  </div>
+  <div class="bottom svelte-15z4gmx">
+
+<div class="drawer elev1 svelte-13f04cg desktop-open"><div class="top hide-wide svelte-13f04cg"><div class="menu ripple-dark svelte-13f04cg"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" fill="currentColor"></path></svg>
+      <div class="ripple svelte-po4fcb"></div></div>
+    <div class="logo svelte-13f04cg">openradio<span class="light svelte-13f04cg">.app</span></div></div>
+
+  <div class="content svelte-13f04cg"><a class="na by svelte-13f04cg" href="/"><span class="icon svelte-13f04cg"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z" fill="currentColor"></path></svg></span>
+      Home
+      <div class="ripple svelte-po4fcb"></div></a>
+
+    <a class="na by svelte-13f04cg" href="/login"><span class="icon svelte-13f04cg"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M19,3H5C3.89,3 3,3.89 3,5V9H5V5H19V19H5V15H3V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3M10.08,15.58L11.5,17L16.5,12L11.5,7L10.08,8.41L12.67,11H3V13H12.67L10.08,15.58Z" fill="currentColor"></path></svg></span>
+        Login
+        <div class="ripple svelte-po4fcb"></div></a>
+
+    <a class="na by svelte-13f04cg" href="/recents"><span class="icon svelte-13f04cg"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M12,20A8,8 0 0,1 4,12A8,8 0 0,1 12,4A8,8 0 0,1 20,12A8,8 0 0,1 12,20M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M16.24,7.76C15.07,6.58 13.53,6 12,6V12L7.76,16.24C10.1,18.58 13.9,18.58 16.24,16.24C18.59,13.9 18.59,10.1 16.24,7.76Z" fill="currentColor"></path></svg></span>
+      Recents
+      <div class="ripple svelte-po4fcb"></div></a>
+
+    <span class="sep svelte-13f04cg"></span>
+
+    <a class="na by svelte-13f04cg" href="/music"><span class="icon svelte-13f04cg"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M13 11V7.5L15.2 5.29C16 4.5 16.15 3.24 15.59 2.26C15.14 1.47 14.32 1 13.45 1C13.24 1 13 1.03 12.81 1.09C11.73 1.38 11 2.38 11 3.5V6.74L7.86 9.91C6.2 11.6 5.7 14.13 6.61 16.34C7.38 18.24 9.06 19.55 11 19.89V20.5C11 20.76 10.77 21 10.5 21H9V23H10.5C11.85 23 13 21.89 13 20.5V20C15.03 20 17.16 18.08 17.16 15.25C17.16 12.95 15.24 11 13 11M13 3.5C13 3.27 13.11 3.09 13.32 3.03C13.54 2.97 13.77 3.06 13.88 3.26C14 3.46 13.96 3.71 13.8 3.87L13 4.73V3.5M11 11.5C10.03 12.14 9.3 13.24 9.04 14.26L11 14.78V17.83C9.87 17.53 8.9 16.71 8.43 15.57C7.84 14.11 8.16 12.45 9.26 11.33L11 9.5V11.5M13 18V12.94C14.17 12.94 15.18 14.04 15.18 15.25C15.18 17 13.91 18 13 18Z" fill="currentColor"></path></svg></span>
+      Music
+      <div class="ripple svelte-po4fcb"></div></a>
+
+    
+
+    <a class="na by svelte-13f04cg" href="/news"><span class="icon svelte-13f04cg"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M20 6V18H4V6H20M22 4H2V18C2 18 2 20 4 20H20C20 20 22 20 22 18V4M10 13H6V8H10V13M18 13H11V11H18V13M18 10H11V8H18V10Z" fill="currentColor"></path></svg></span>
+      News
+      <div class="ripple svelte-po4fcb"></div></a>
+
+    <a class="na by svelte-13f04cg" href="/sports"><span class="icon svelte-13f04cg"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M2.34,14.63C2.94,14.41 3.56,14.3 4.22,14.3C5.56,14.3 6.73,14.72 7.73,15.56L4.59,18.7C3.53,17.5 2.78,16.13 2.34,14.63M15.56,9.8C17.53,11.27 19.66,11.63 21.94,10.88C21.97,11.09 22,11.47 22,12C22,13.03 21.75,14.18 21.28,15.45C20.81,16.71 20.23,17.73 19.55,18.5L13.22,12.19L15.56,9.8M8.77,16.64C9.83,18.17 10.05,19.84 9.42,21.66C8,21.25 6.73,20.61 5.67,19.73L8.77,16.64M12.19,13.22L18.5,19.55C16.33,21.45 13.78,22.25 10.88,21.94C11.09,21.28 11.2,20.56 11.2,19.78C11.2,19.16 11.06,18.43 10.78,17.6C10.5,16.77 10.17,16.09 9.8,15.56L12.19,13.22M8.81,14.5C7.88,13.67 6.8,13.15 5.58,12.91C4.36,12.68 3.19,12.75 2.06,13.13C2.03,12.91 2,12.53 2,12C2,10.97 2.25,9.82 2.72,8.55C3.19,7.29 3.77,6.27 4.45,5.5L11.11,12.19L8.81,14.5M15.56,7.73C14.22,6.08 13.91,4.28 14.63,2.34C15.25,2.5 15.96,2.8 16.76,3.26C17.55,3.71 18.2,4.16 18.7,4.59L15.56,7.73M21.66,9.38C21.06,9.59 20.44,9.7 19.78,9.7C18.69,9.7 17.64,9.38 16.64,8.72L19.73,5.67C20.61,6.77 21.25,8 21.66,9.38M12.19,11.11L5.5,4.45C7.67,2.55 10.22,1.75 13.13,2.06C12.91,2.72 12.8,3.44 12.8,4.22C12.8,4.94 12.96,5.75 13.29,6.66C13.62,7.56 14,8.28 14.5,8.81L12.19,11.11Z" fill="currentColor"></path></svg></span>
+      Sports
+      <div class="ripple svelte-po4fcb"></div></a>
+
+    <span class="sep svelte-13f04cg"></span>
+
+    <a class="na by svelte-13f04cg" href="/by-location"><span class="icon svelte-13f04cg"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M14,11.5A2.5,2.5 0 0,0 16.5,9A2.5,2.5 0 0,0 14,6.5A2.5,2.5 0 0,0 11.5,9A2.5,2.5 0 0,0 14,11.5M14,2C17.86,2 21,5.13 21,9C21,14.25 14,22 14,22C14,22 7,14.25 7,9A7,7 0 0,1 14,2M5,9C5,13.5 10.08,19.66 11,20.81L10,22C10,22 3,14.25 3,9C3,5.83 5.11,3.15 8,2.29C6.16,3.94 5,6.33 5,9Z" fill="currentColor"></path></svg></span>
+      By Location
+      <div class="ripple svelte-po4fcb"></div></a>
+
+    <a class="na by svelte-13f04cg" href="/by-language"><span class="icon svelte-13f04cg"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M12.87,15.07L10.33,12.56L10.36,12.53C12.1,10.59 13.34,8.36 14.07,6H17V4H10V2H8V4H1V6H12.17C11.5,7.92 10.44,9.75 9,11.35C8.07,10.32 7.3,9.19 6.69,8H4.69C5.42,9.63 6.42,11.17 7.67,12.56L2.58,17.58L4,19L9,14L12.11,17.11L12.87,15.07M18.5,10H16.5L12,22H14L15.12,19H19.87L21,22H23L18.5,10M15.88,17L17.5,12.67L19.12,17H15.88Z" fill="currentColor"></path></svg></span>
+      By Language
+      <div class="ripple svelte-po4fcb"></div></a>
+
+
+    
+      <span class="sep svelte-13f04cg"></span>
+  
+      <a class="na by svelte-13f04cg" rel="external nofollow noopener" target="_system" href="https://patreon.com/openradioapp"><span class="icon svelte-13f04cg"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M14.73,3C18.45,3 21.47,6.03 21.47,9.76C21.47,13.47 18.45,16.5 14.73,16.5C11,16.5 7.97,13.47 7.97,9.76C7.97,6.03 11,3 14.73,3M2.7,21V3H6V21H2.7Z" fill="currentColor"></path></svg></span>
+        Support us</a>
+
+    <div class="space svelte-13f04cg"></div>
+
+    </div></div>
+    <main class="scrollview svelte-15z4gmx">
+
+<div class="page svelte-1ib2rt5">
+
+  <div class="station svelte-1scfk2m"><div class="ad top-sponsored-header svelte-1scfk2m"><ins class="adsbygoogle" style="display: block; width: 100%; height: 100%" data-ad-client="ca-pub-3953189150459080" data-ad-slot="8621983639"></ins></div>
+      
+    <div class="head svelte-1scfk2m"><div class="txt svelte-1scfk2m"><h1 class="svelte-1scfk2m">WXMC Radio Zindagi</h1>
+        <p class="subtitle svelte-1scfk2m">We put &#39;des&#39; in Pardes in Parsippany, NJ</p></div>
+      <div class="img svelte-1scfk2m"><div class="img svelte-1sbop0m" style="background-image: url(/img/200/sl6kp8be.jpg)"></div></div></div>
+    <div class="playline svelte-1scfk2m"><div class="play ripple-light svelte-1scfk2m"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M8,5.14V19.14L19,12.14L8,5.14Z" fill="currentColor"></path></svg>
+        <div class="ripple svelte-po4fcb"></div></div></div>
+
+    
+ 
+    <div class="data svelte-1scfk2m"><div class="data-label svelte-1scfk2m">Slogan</div>
+        <div class="data-value svelte-1scfk2m">We put &#39;des&#39; in Pardes in Parsippany, NJ</div></div>
+
+    
+
+    <div class="data svelte-1scfk2m"><div class="data-label svelte-1scfk2m">Website</div>
+        <div class="data-value svelte-1scfk2m"><a class="na svelte-1scfk2m" rel="noopener" target="_blank" href="http://www.radiochai.com/">radiochai.com</a></div></div>
+
+    <div class="data svelte-1scfk2m"><div class="data-label svelte-1scfk2m">Location</div>
+      <div class="data-value svelte-1scfk2m"><a class="na svelte-1scfk2m" href="/by-location/north-america/united-states">United States</a></div></div>
+
+    <div class="data svelte-1scfk2m"><div class="data-label svelte-1scfk2m">Language</div>
+      <div class="data-value svelte-1scfk2m"><a class="na svelte-1scfk2m" href="/by-language/en">English</a></div></div>
+
+    <div class="data svelte-1scfk2m"><div class="data-label svelte-1scfk2m">Twitter</div>
+        <div class="data-value svelte-1scfk2m"><a class="na svelte-1scfk2m" rel="noopener nofollow" target="_blank" href="https://twitter.com/Radio_Chai">@Radio_Chai</a></div></div>
+
+    
+
+    
+
+    
+
+    <div class="data svelte-1scfk2m"><div class="data-label svelte-1scfk2m">Frequencies</div>
+        <div class="data-value svelte-1scfk2m">AM 1310
+            <a class="na svelte-1scfk2m" href="/by-location/north-america/united-states/new-jersey">New Jersey</a>,
+            <a class="na svelte-1scfk2m" href="/by-location/north-america/united-states/new-jersey/parsippany">Parsippany</a>
+          </div></div>
+
+    
+
+    <div class="edit svelte-1scfk2m"><div class="edit-title svelte-1scfk2m">Have more info on this station?</div>
+      <a class="na edit-btn ripple-light svelte-1scfk2m" href="/edit/station/5g7to6gj"><span class="edit-icon svelte-1scfk2m"><svg width="1em" height="1em" viewBox="0 0 24 24"><path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12H20A8,8 0 0,1 12,20A8,8 0 0,1 4,12A8,8 0 0,1 12,4V2M18.78,3C18.61,3 18.43,3.07 18.3,3.2L17.08,4.41L19.58,6.91L20.8,5.7C21.06,5.44 21.06,5 20.8,4.75L19.25,3.2C19.12,3.07 18.95,3 18.78,3M16.37,5.12L9,12.5V15H11.5L18.87,7.62L16.37,5.12Z" fill="currentColor"></path></svg></span>
+        Add info
+        <div class="ripple svelte-po4fcb"></div></a></div></div>
+  </div></main></div>
+  </div>
+
+
+		<script type="module" data-sveltekit-hydrate="1g8dw8e">
+		import { start } from "/_app/immutable/start-282c2861.js";
+		start({
+			target: document.querySelector('[data-sveltekit-hydrate="1g8dw8e"]').parentNode,
+			paths: {"base":"","assets":""},
+			session: (function(a,b,c,d,e,f,g,h,i,j,k,l,m,n){return {admin:b,account:b,lang:c,locale:{byLocation:"by Location",byLanguage:"by Language",Continents:"Continents",Countries:"Countries",Regions:"Regions",Cities:"Cities",Genres:"Genres",Talk:d,Music:"Music",News:e,Sports:f,Stations:"Stations",SupportUs:"Support us","Search...":"Search...",Search:"Search",Home:"Home",ByGenre:"By Genre",ByLocation:"By Location",ByLanguage:"By Language",Recents:"Recents",Website:"Website",Slogan:g,Location:"Location",Description:"Description",Language:"Language",Address:h,Email:"Email",Twitter:"Twitter",Facebook:"Facebook",Instagram:"Instagram",Youtube:"Youtube",Frequencies:"Frequencies",Programming:"Programming",Populars:"Populars",InTheWorld:"In the World",NoRecentsYet:"There's no recently used stations yet",NoSearchResults:"There's no results for this search",PopularsCountry:"Populars in {country}",PlayerNoSources:"There are no sources for this station",PlayerRetry:"There was an error loading the stream",Retry:"Retry","week.0":"Monday","week.1":"Tuesday","week.2":"Wednesday","week.3":"Thursday","week.4":"Friday","week.5":"Saturday","week.6":"Sunday",LiveInternetRadio:"{op} | Live internet radio, music, news and sports",LiveInternetRadioDesc:"Listen to music, news and sports free over the internet, free online radios from all over the world","StationTitle.WithCity":"{station.name} | {city}, {region}, {country}","StationTitle.WithRegion":"{station.name} | {region}, {country}","StationTitle.WithCountry":"{station.name} | {country}","StationDesc.WithDesc":"{station.name}. {description}","StationDesc.WithSlogan":"{station.name}. {station.slogan}","StationDesc.Standalone":"{station.name}. Listen live over the internet",MusicTitle:"Music | {op}",NewsTitle:"News | {op}",SportsTitle:"Sports | {op}",MusicDesc:"Free music radios from all over the world",NewsDesc:"Free news radios from all over the world",SportsDesc:"Free sports radios from all over the world",ByLocationTitle:"Por location | {op}",ByLocationDesc:"Search radio stations by location from all over the world",ContinentTitle:"{continent} | {op}",CountryTitle:"{country} | {op}",RegionTitle:"{region}, {country}",CityTitle:"{city}, {region}, {country}",ContinentDesc:"Radios from {continent} free over the internet. Live music, news and sports",CountryDesc:"Radios from {country} free over the internet. Live music, news and sports",RegionDesc:"Radios from {region}, {country} free over the internet. Live music, news and sports",CityDesc:"Radios from {city}, {region}, {country} free over the internet. Live music, news and sports",ByLanguageTitle:"By Language | {op}",ByLanguageDesc:"Search radio stations by language from all over the world",RecentsTitle:"Recents | {op}",RecentsDesc:"Recently used radio stations",AddStation:"Add station",UploadStation:"Upload station",SearchTitle:"{q}",SearchDesc:"{q} | Live radio stations",GenreTitle:"{genre} | {op}",GenreDesc:"{genre}. Free live radio stations",LangTitle:"{lang} | op",LangDesc:"Live radio stations in {lang}",HaveMoreInfo:"Have more info on this station?",AddInfo:"Add info",Send:"Send",GeneralInfo:"General info",ContactInfo:"Contact info","ContactInfo.Email":"E-mail","ContactInfo.Phone":"Phone","ContactInfo.Address":h,"ContactInfo.Website":"Website (full URL)","GeneralInfo.Name":"Name","GeneralInfo.Slogan":g,"GeneralInfo.Description":"Description (larger is better ;)",SocialNetworks:"Social networks",Continent:"Continent",Country:i,Region:"Region",City:"City",Frequency:"Frequency",Format:"Format",Remove:"Remove",Add:"Add",Image:"Image",Edit:"Edit",Upload:"Upload","Uploading...":"Uploading...",Apply:"Apply",Ups:"Oops!",E404:"This page doesn't exists anymore",E500:"We couldn't fetch the page, check your internet connection",BackToHome:"Go back to home",CVEmptyChange:"Updates must not be empty",CVIsRequired:"is required",CVShouldBeString:"should be a string",CVImageNotFound:"Cannot found image specified",CVMalformedFrecuencies:"Frecuencies are malformed",CVMalformedStreams:"Streams are malformed",CVStationNotFound:"Station not found",CVMalformedGenres:"Genres are malformed",CVLanguageNotFound:"Language not found",ChangeSuccess:"We will check the changes to approve them, Thank you!",StationPendingWarn:"This station is pending of approbal",StationRejectedWarn:"This station has been rejected",StationRemovedWarn:"This station has been removed",StationSent:"Station sent, we will approbe it shortly, thank you!",EditStation:"Edit station {station.name}",ListTitle:"List | {op}",ListDescription:"List of radio stations free at {op}",Login:"Login",Logout:"Logout",Register:"Register",MyAccount:"My Account",Password:"Password",RecoverPassword:"Recover your password",ConfirmPassword:"Confirm password",DontHaveAccount:"Doesn't have an account?",DoHaveAccount:"Already have an account?",WillNotShareInfo:"We will not share this info",SetPassword:"Update your password",CommonActions:"Common actions",MyData:"My data",MyStations:"My stations",MyStationsEmpty:"You didn't upload any stations yet",EmailRequired:"The email is required",PasswordRequired:"The password is required",EmailNotExists:"There's no account with this email",PasswordNotMatch:"Password doesn't match",PasswordNotSet:"You have to valiate your account to login (check your email inbox)",InvalidMail:"Please provide a valid email",PasswordsNotMatch:"Passwords does not match",PasswordTooShort:"Passwords must have at least 8 characters",UserExists:"The email is already registered",RecoverSent:"We sent you an email with the link for recover your password",PasswordUpdated:"Password updated",VerifyYourAccountWarning:"Please verify your account, we sent you an email with a verification link",countries:{dz:"Algeria",ao:"Angola",cv:"Cape Verde",td:"Chad",km:"Comoros",ci:"Ivory Coast",eg:"Egypt",gm:"The Gambia",gh:"Ghana",ke:"Kenya",ly:"Libya",mg:"Madagascar",ml:"Mali",mr:"Mauritania",mu:"Mauritius",ma:"Morocco",mz:"Mozambique",na:"Namibia",ng:"Nigeria",re:"Réunion",rw:"Rwanda",sn:"Senegal",za:"South Africa",sd:"Sudan",tz:"Tanzania",tn:"Tunisia",ug:"Uganda",zm:"Zambia",zw:"Zimbabwe",af:"Afghanistan",am:"Armenia",az:"Azerbaijan",bh:"Bahrain",bd:"Bangladesh",kh:"Cambodia",cn:"China",cy:"Cyprus",ge:"Georgia",hk:"Hong Kong",in:"India",id:"Indonesia",ir:"Iran",iq:"Iraq",il:"Israel",jp:"Japan",jo:"Jordan",kz:"Kazakhstan",kw:"Kuwait",lb:"Lebanon",mo:"Macao",my:"Malaysia",mn:"Mongolia",np:"Nepal",om:"Oman",pk:"Pakistan",ps:"Palestine",ph:"Philippines",qa:"Qatar",ru:"Russia",sa:"Saudi Arabia",sg:"Singapore",kr:"Republic of Korea",lk:"Sri Lanka",sy:"Syria",tw:"Taiwan",th:"Thailand",tr:"Turkey",ae:"United Arab Emirates",vn:"Vietnam",ye:"Yemen",al:"Albania",ad:"Andorra",at:"Austria",by:"Belarus",be:"Belgium",ba:"Bosnia and Herzegovina",bg:"Bulgaria",hr:"Croatia",cz:"Czech Republic",dk:"Denmark",ee:"Estonia",fi:"Finland",fr:"France",de:"Germany",gr:"Greece",hu:"Hungary",is:"Iceland",ie:"Ireland",it:"Italy",lv:"Latvia",lt:"Lithuania",lu:"Luxembourg",mt:"Malta",md:"Republic of Moldova",me:"Montenegro",nl:"Netherlands",mk:"Macedonia",no:"Norway",pl:"Poland",pt:"Portugal",ro:"Romania",rs:"Serbia",sk:"Slovak Republic",si:"Slovenia",es:"Spain",se:"Sweden",ch:"Switzerland",ua:"Ukraine",gb:"United Kingdom",ai:"Anguilla",ag:"Antigua and Barbuda",bs:"Bahamas",bz:"Belize",ca:"Canada",cr:"Costa Rica",cu:"Cuba",dm:"Dominica",do:"Dominican Republic",sv:"El Salvador",gt:"Guatemala",ht:"Haiti",hn:"Honduras",jm:"Jamaica",mx:"Mexico",ni:"Nicaragua",pa:"Panama",pr:"Puerto Rico",lc:"Saint Lucia",tt:"Trinidad and Tobago",us:"United States",as:"American Samoa",au:"Australia",nz:"New Zealand",ar:"Argentina",aw:"Aruba",bo:"Bolivia",br:"Brazil",cl:"Chile",co:"Colombia",cw:"Curaçao",ec:"Ecuador",gf:"French Guiana",gy:"Guyana",py:"Paraguay",pe:"Peru",sx:"Sint Maarten",sr:"Suriname",uy:"Uruguay",ve:"Venezuela"},continents:{ca:"Central America",af:"Africa",as:"Asia",eu:"Europe",na:"North America",oc:"Oceania",sa:"South America"},languages:{af:"Afrikaans",sq:"Albanian",am:"Amharic",ar:"Arabic",hy:"Armenian",az:"Azerbaijani",eu:"Basque",be:"Belarusian",bn:"Bengali",bs:"Bosnian",bg:"Bulgarian",ca:"Catalan",ceb:"Cebuano",ny:"Chichewa","zh-CN":j,"zh-TW":"Chinese (Traditional)",co:"Corsican",hr:"Croatian",cs:"Czech",da:"Danish",nl:"Dutch",en:"English",eo:"Esperanto",et:"Estonian",tl:"Filipino",fi:"Finnish",fr:"French",fy:"Frisian",gl:"Galician",ka:"Georgian",de:"German",el:"Greek",gu:"Gujarati",ht:"Haitian Creole",ha:"Hausa",haw:"Hawaiian",iw:k,hi:l,hmn:"Hmong",hu:"Hungarian",is:"Icelandic",ig:"Igbo",id:"Indonesian",ga:"Irish",it:"Italian",ja:"Japanese",jw:"Javanese",kn:"Kannada",kk:"Kazakh",km:"Khmer",rw:"Kinyarwanda",ko:"Korean",ku:"Kurdish (Kurmanji)",ky:"Kyrgyz",lo:"Lao",la:"Latin",lv:"Latvian",lt:"Lithuanian",lb:"Luxembourgish",mk:"Macedonian",mg:"Malagasy",ms:"Malay",ml:m,mt:"Maltese",mi:"Maori",mr:"Marathi",mn:"Mongolian",my:"Myanmar (Burmese)",ne:"Nepali",no:"Norwegian",or:"Odia (Oriya)",ps:"Pashto",fa:"Persian",pl:"Polish",pt:"Portuguese",pa:"Punjabi",ro:"Romanian",ru:"Russian",sm:"Samoan",gd:"Scots Gaelic",sr:"Serbian",st:"Sesotho",sn:"Shona",sd:"Sindhi",si:"Sinhala",sk:"Slovak",sl:"Slovenian",so:"Somali",es:"Spanish",su:"Sundanese",sw:"Swahili",sv:"Swedish",tg:"Tajik",ta:n,tt:"Tatar",te:"Telugu",th:"Thai",tr:"Turkish",tk:"Turkmen",uk:"Ukrainian",ur:"Urdu",ug:"Uyghur",uz:"Uzbek",vi:"Vietnamese",cy:"Welsh",xh:"Xhosa",yi:"Yiddish",yo:"Yoruba",zu:"Zulu",he:k,zh:j},genres:{"60s":"60s","70s":"70s","80s":"80s","90s":"90s","aaa-adult-album-alternative":"AAA - Adult Album Alternative","adult-contemporary":"Adult Contemporary","alternative-rock":"Alternative Rock","arabic-music":"Arabic Music",blues:"Blues",bollywood:"Bollywood","bossa-nova":"Bossa Nova","brazilian-music":"Brazilian Music",business:"Business",caribbean:"Caribbean",catholic:"Catholic","children-s-music":"Children’s Music",chillout:"Chillout","christian-contemporary":"Christian Contemporary",christmas:"Christmas","classic-country":"Classic Country","classic-hits":"Classic Hits","classic-rock":"Classic Rock",classical:"Classical",college:"College",comedy:"Comedy",community:"Community",country:i,culture:"Culture",dance:"Dance",disco:"Disco","easy-listening":"Easy Listening",eclectic:"Eclectic","edm-electronic-dance-music":"EDM - Electronic Dance Music",educational:"Educational",electronic:"Electronic",ethnic:"Ethnic","euro-hits":"Euro Hits",folk:"Folk",gospel:"Gospel",hindi:l,"hip-hop":"Hip Hop","hot-ac":"Hot AC",house:"House",indie:"Indie",international:"International",islam:"Islam","j-pop":"J-pop",jazz:"Jazz","k-pop":"K-pop",latino:"Latino",local:"Local",lounge:"Lounge",malayalam:m,manele:"Manele",merengue:"Merengue",metal:"Metal","mexican-music":"Mexican Music","modern-rock":"Modern Rock",news:e,"news-podcast":"News Podcast",oldies:"Oldies","pop-music":"Pop Music",public:"Public","r-b":"R&B",reggae:"Reggae",reggaeton:"Reggaeton",regional:"Regional",religious:"Religious",rock:"Rock",romantic:"Romantic",salsa:"Salsa",scanner:"Scanner",schlager:"Schlager","smooth-jazz":"Smooth Jazz",soul:"Soul",soundtracks:"Soundtracks",spirituality:"Spirituality",sports:f,talk:d,tamil:n,techno:"Techno","top-40":"Top 40",traffic:"Traffic",trance:"Trance","world-music":"World Music"}},local:a,isAndroid:a,isElectron:a,isWeb:true,isPWA:a,langCodes:["af","am","ar","az","be","bg","bn","bs","ca","ceb","co","cs","cy","da","de","el",c,"eo","es","et","eu","fa","fi","fr","fy","ga","gd","gl","gu","ha","haw","he","hi","hmn","hr","ht","hu","hy","id","ig","is","it","iw","ja","jw","ka","kk","km","kn","ko","ku","ky","la","lb","lo","lt","lv","mg","mi","mk","ml","mn","mr","ms","mt","my","ne","nl","no","ny","or","pa","pl","ps","pt","ro","ru","rw","sd","si","sk","sl","sm","sn","so","sq","sr","st","su","sv","sw","ta","te","tg","th","tk","tl","tr","tt","ug","uk","ur","uz","vi","xh","yi","yo","zh","zh-cn","zh-tw","zu"]}}(false,null,"en","Talk","News","Sports","Slogan","Address","Country","Chinese (Simplified)","Hebrew","Hindi","Malayalam","Tamil")),
+			route: true,
+			spa: false,
+			trailing_slash: "never",
+			hydrate: {
+				status: 200,
+				error: null,
+				nodes: [0, 26],
+				params: {station:"wxmc-radio-zindagi-5g7to6gj"},
+				routeId: "station/[station]"
+			}
+		});
+	</script><script type="application/json" sveltekit:data-type="data" sveltekit:data-url="https://internal.openradio.app/api/station/5g7to6gj">{"status":200,"statusText":"OK","headers":{"access-control-allow-credentials":"true","connection":"close","content-length":"1656","content-type":"application/json; charset=utf-8","date":"Sun, 01 Jun 2025 03:54:42 GMT","vary":"Origin","x-powered-by":"Express"},"body":"{\"station\":{\"id\":\"5g7to6gj\",\"name\":\"WXMC Radio Zindagi\",\"slug\":\"wxmc-radio-zindagi\",\"order\":18500,\"countryCode\":\"us\",\"langCode\":\"en\",\"img\":\"sl6kp8be\",\"genres\":[\"5euja6h3\"],\"frecuencies\":[{\"label\":\"1310 AM\",\"cityId\":\"79vu5t64\",\"regionId\":\"ef66pscc\",\"countryCode\":\"us\",\"type\":\"am\",\"frequency\":1310}],\"votes\":{\"up\":0,\"down\":0},\"streams\":[{\"url\":\"http://104.194.9.142:8175/;stream.mp3\",\"type\":\"mp3\"},{\"url\":\"http://c11icyelb.prod.playlists.ihrhls.com/6167_icy\",\"type\":\"mp3\"}],\"address\":\"1628 Oaktree Road Studio Suite # 9 Edison, NJ 08820\",\"description\":null,\"mail\":null,\"programming\":null,\"slogan\":\"We put 'des' in Pardes in Parsippany, NJ\",\"tel\":\"646-907-8022\",\"twitter\":\"https://twitter.com/Radio_Chai\",\"web\":\"http://www.radiochai.com/\",\"continentCode\":\"na\",\"cityId\":\"79vu5t64\",\"regionId\":\"ef66pscc\",\"whatsapp\":null,\"createdAt\":\"2020-09-13T21:05:12.401Z\",\"updatedAt\":\"2020-09-13T21:05:12.401Z\",\"state\":\"active\"},\"country\":{\"_id\":\"5f42c34118b0fed1a840b0da\",\"id\":\"at2b6j8d\",\"code\":\"us\",\"continentCode\":\"na\",\"langCode\":\"en\",\"url\":\"https://mytuner-radio.com/radio/country/united-states-stations\",\"name\":\"United States\",\"slug\":\"united-states\"},\"frequencies\":[{\"label\":\"1310 AM\",\"cityId\":\"79vu5t64\",\"regionId\":\"ef66pscc\",\"countryCode\":\"us\",\"type\":\"am\",\"frequency\":1310,\"region\":{\"id\":\"ef66pscc\",\"name\":\"New Jersey\",\"slug\":\"new-jersey\",\"countryCode\":\"us\"},\"city\":{\"id\":\"79vu5t64\",\"name\":\"Parsippany\",\"slug\":\"parsippany\",\"countryCode\":\"us\",\"regionId\":\"ef66pscc\"}}],\"genres\":[{\"id\":\"5euja6h3\",\"name\":\"World Music\",\"slug\":\"world-music\"}],\"language\":{\"id\":\"c4st9g6o\",\"code\":\"en\"},\"continent\":{\"id\":\"qe3f3fk9\",\"code\":\"na\",\"name\":\"North America\",\"slug\":\"north-america\"}}"}</script></div>
+	<script>
+		if (location.hostname === "openradio.app") {
+			(function () {
+				var s = document.createElement("script");
+				s.async = true;
+				s.src = "https://www.googletagmanager.com/gtag/js?id=G-8MVQ0DWMZ4"
+				document.head.appendChild(s);
+				window.dataLayer = window.dataLayer || [];
+				function gtag() { dataLayer.push(arguments); }
+				gtag('js', new Date());
+				gtag('config', 'UA-152513630-1');
+			})()
+		}
+
+		if(location.hostname === "openstream.fm") {
+			var s = document.createElement("script");
+			s.async = true;
+			s.src = "https://platform.foremedia.net/code/47108/analytics";
+			document.head.appendChild(s);
+		}
+	</script>
+</body>
+</html>

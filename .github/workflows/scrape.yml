@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in {2..5} ; do for j in $(cat genres.txt) ; do curl -s http://www.hit-tuner.net/en/worldwide/genre/index.php\?seite\=$i\&suchwort\=$j\&auswahl\=\&db\= | ./htmlq -a href a | grep "worldwide/radio" | cut -c23- >> A-$j.txt ; echo -e "$j - $i" ; done ; done
+          curl -o streams.json https://de1.api.radio-browser.info/json/stations
 
       - name: git stuff
         run: |

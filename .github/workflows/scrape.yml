@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in $(cat radio.txt) ; do curl -s https://appradiofm.com/radio/$i > mep1 ; ( echo '#EXTINF:-1,' ; cat mep1 | ./htmlq h1 -t ; cat mep1 | ./htmlq '.details tr:nth-child(1) td:nth-child(2)' -t | sed 's| |_|g; s/,/.||./g; 1s/^/|./;$s/$/.|/'; cat mep1 | ./htmlq '.details tr:nth-child(2) td:nth-child(2)' -t | sed 's| |_|g; s/,/-||-/g; 1s/^/|-/;$s/$/-|/'; cat mep1 | ./htmlq '.details tr:nth-child(3) td:nth-child(2)' -t | sed 's| |_|g; s/,/+||+/g; 1s/^/|+/;$s/$/+|/' ) | tr -d '\n'; printf '\n' ; cat mep1 | grep -Po '"stream_link": *\K"[^"]*"' | tail -n 1 | sed 's|"||g' | sed 's/\;//g' | sed '/^$/d' ; echo $i ; done
+          for i in $(cat radio.txt) ; do curl -s https://appradiofm.com/radio/$i > mep1 ; ( echo '#EXTINF:-1,' ; cat mep1 | ./htmlq h1 -t ; cat mep1 | ./htmlq '.details tr:nth-child(1) td:nth-child(2)' -t | sed 's| |_|g; s/,/.||./g; 1s/^/|./;$s/$/.|/'; cat mep1 | ./htmlq '.details tr:nth-child(2) td:nth-child(2)' -t | sed 's| |_|g; s/,/-||-/g; 1s/^/|-/;$s/$/-|/'; cat mep1 | ./htmlq '.details tr:nth-child(3) td:nth-child(2)' -t | sed 's| |_|g; s/,/+||+/g; 1s/^/|+/;$s/$/+|/' ) | tr -d '\n'; printf '\n' >> output.txt ; cat mep1 | grep -Po '"stream_link": *\K"[^"]*"' | tail -n 1 | sed 's|"||g' | sed 's/\;//g' | sed '/^$/d' >> output.txt ; echo $i ; done
 
       - name: git stuff
         run: |

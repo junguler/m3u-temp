@@ -5,7 +5,7 @@ const fs = require('fs/promises');
 const path = require('path');
 
 const concurrencyLimit = 10;
-const linkTimeout = 3000; // 3 seconds timeout for each link
+const linkTimeout = 5000; // 5 seconds timeout for each link
 const maxRedirects = 3; // Maximum number of redirections to follow
 
 /**

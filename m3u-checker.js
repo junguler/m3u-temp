@@ -6,6 +6,7 @@ const path = require('path');
 
 const concurrencyLimit = 10;
 const linkTimeout = 3000; // 3 seconds timeout for each link
+const maxRedirects = 3; // Maximum number of redirections to follow
 
 /**
  * Parses M3U content and extracts stream links with their associated titles.
@@ -40,24 +41,52 @@ function parseM3UContent(m3uContent) {
 }
 
 /**
- * Checks a single stream link for its availability.
+ * Checks a single stream link for its availability, following redirects.
  * @param {{title: string, url: string, originalIndex: number, originalTitleLineIndex: number}} item - The stream item.
  * @param {string} fileName - The name of the file being processed (for logging).
- * @returns {Promise<{url: string, status: number|string}>} The URL and its status.
+ * @param {number} redirectCount - Current redirection count.
+ * @returns {Promise<{url: string, status: number|string, finalUrl?: string}>} The URL, its status, and the final URL after redirects.
  */
-async function checkSingleLink(item, fileName) {
+async function checkSingleLink(item, fileName, redirectCount = 0) {
   const controller = new AbortController();
   const timeoutId = setTimeout(() => controller.abort(), linkTimeout);
 
   try {
-    // Using the native global fetch in Node.js v18+
     const response = await fetch(item.url, {
       method: 'HEAD',
       signal: controller.signal,
+      redirect: 'manual', // Manually handle redirects
     });
     clearTimeout(timeoutId);
-    console.log(`  [${fileName}] - Status ${response.status}: ${item.url}`);
-    return { url: item.url, status: response.status };
+
+    // Handle redirects
+    if (
+      response.status >= 300 &&
+      response.status < 400 &&
+      response.headers.has('location') &&
+      redirectCount < maxRedirects
+    ) {
+      const redirectUrl = response.headers.get('location');
+      const absoluteRedirectUrl = new URL(redirectUrl, item.url).href; // Resolve relative redirects
+      console.log(
+        `  [${fileName}] - Redirect (${response.status}): ${item.url} -> ${absoluteRedirectUrl} (Attempt ${redirectCount + 1}/${maxRedirects})`,
+      );
+      // Recursively call checkSingleLink with the new URL
+      return await checkSingleLink(
+        { ...item, url: absoluteRedirectUrl },
+        fileName,
+        redirectCount + 1,
+      );
+    }
+
+    // If it's a successful non-redirecting link or after max redirects
+    if (response.status === 200) {
+      console.log(`  [${fileName}] - Status ${response.status}: ${item.url}`);
+      return { url: item.url, status: response.status, finalUrl: item.url };
+    } else {
+      console.log(`  [${fileName}] - Status ${response.status}: ${item.url}`);
+      return { url: item.url, status: response.status };
+    }
   } catch (error) {
     clearTimeout(timeoutId);
     if (error.name === 'AbortError') {
@@ -83,12 +112,13 @@ async function processLinks(linksToProcess, fileName) {
   for (let i = 0; i < linksToProcess.length; i++) {
     const item = linksToProcess[i];
     const promise = checkSingleLink(item, fileName).then((result) => {
-      if (result && (result.status === 200 || (result.status >= 300 && result.status < 400))) {
-        // Store only the original line content for valid links
-        // The titleLine is the #EXTINF line, urlLine is the http link itself
+      // We only care about successful 200 status AFTER all redirects
+      if (result && result.status === 200) {
+        // Store the final valid URL if a redirection occurred, otherwise the original
+        const urlToStore = result.finalUrl || item.url;
         tempValidLinks.set(item.originalIndex, {
           titleLine: item.title,
-          urlLine: item.url,
+          urlLine: urlToStore, // Use the final validated URL
         });
       }
       linksProcessedCount++;
@@ -111,7 +141,7 @@ async function processLinks(linksToProcess, fileName) {
 /**
  * Generates the content for the checked M3U playlist.
  * @param {string} originalM3uContent - The original M3U content.
- * @param {Map<number, {titleLine: string, urlLine: string}>} tempValidLinks - Map of valid links by their original line index.
+ * @param {Map<number, {titleLine: string, urlLine: string}>} tempValidLinks - Map of valid links by their original line index, with potentially updated URLs.
  * @returns {string} The content of the cleaned M3U playlist.
  */
 function generateOutputM3U(originalM3uContent, tempValidLinks) {
@@ -140,6 +170,7 @@ function generateOutputM3U(originalM3uContent, tempValidLinks) {
             validLinksContent.push(titleLine);
             finalOutputLines.add(titleLine);
           }
+          // Here, we use the potentially updated `urlLine` from `tempValidLinks`
           if (!finalOutputLines.has(urlLine)) {
             validLinksContent.push(urlLine);
             finalOutputLines.add(urlLine);
@@ -150,6 +181,7 @@ function generateOutputM3U(originalM3uContent, tempValidLinks) {
     } else if (line.startsWith('http')) {
       // Handle standalone HTTP links without an #EXTINF line immediately above
       if (tempValidLinks.has(i)) {
+        // Here, we use the potentially updated `urlLine` from `tempValidLinks`
         const { urlLine } = tempValidLinks.get(i);
         if (!finalOutputLines.has(urlLine)) {
           validLinksContent.push(urlLine);
@@ -214,7 +246,6 @@ async function main(inputDir, outputDir) {
         `  Check complete for "${fileName}". Found ${validStreamCount} valid streams out of ${linksToProcess.length}.`,
       );
 
-      // No longer adding '_checked' suffix, as files go to a separate output directory
       const outputFileName = fileName;
       const outputPath = path.join(outputDir, outputFileName);
       const outputM3uContent = generateOutputM3U(

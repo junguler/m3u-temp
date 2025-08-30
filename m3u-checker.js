@@ -26,7 +26,7 @@ function parseM3UContent(m3uContent) {
     if (line.startsWith('#EXTINF')) {
       currentTitle = line;
       currentTitleLineIndex = i;
-    } else if (line.startsWith('http')) {
+    } else if (line.startsWith('http://') || line.startsWith('https://')) { // Explicitly check for http/https
       linksToProcess.push({
         title: currentTitle,
         url: line,
@@ -36,6 +36,8 @@ function parseM3UContent(m3uContent) {
       currentTitle = '';
       currentTitleLineIndex = -1;
     }
+    // Any other lines (like #EXTGRP, comments, etc.) are ignored by this parser,
+    // which is the correct behavior for identifying stream links.
   }
   return linksToProcess;
 }
@@ -164,7 +166,8 @@ function generateOutputM3U(originalM3uContent, tempValidLinks) {
       if (nextLineIndex < originalLines.length) {
         const nextLine = originalLines[nextLineIndex].trim();
         // Check if the current #EXTINF has a corresponding valid URL on the next line
-        if (nextLine.startsWith('http') && tempValidLinks.has(nextLineIndex)) {
+        // The key in tempValidLinks is the index of the URL line itself.
+        if ((nextLine.startsWith('http://') || nextLine.startsWith('https://')) && tempValidLinks.has(nextLineIndex)) {
           const { titleLine, urlLine } = tempValidLinks.get(nextLineIndex);
           if (!finalOutputLines.has(titleLine)) {
             validLinksContent.push(titleLine);
@@ -178,7 +181,7 @@ function generateOutputM3U(originalM3uContent, tempValidLinks) {
           i = nextLineIndex; // Skip the URL line as it's already processed with its #EXTINF
         }
       }
-    } else if (line.startsWith('http')) {
+    } else if (line.startsWith('http://') || line.startsWith('https://')) {
       // Handle standalone HTTP links without an #EXTINF line immediately above
       if (tempValidLinks.has(i)) {
         // Here, we use the potentially updated `urlLine` from `tempValidLinks`

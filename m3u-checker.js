@@ -1,22 +1,8 @@
 // m3u-checker.js
+// made with Gemini 2.5 Flash via https://t3.chat/ free tier - thanks
+
 const fs = require('fs/promises');
 const path = require('path');
-
-// No need for fileURLToPath in CommonJS if not needing __filename/__dirname from ESM
-// If you need __filename or __dirname (which are globally available in CommonJS modules),
-// you can directly use them. In this script, we're explicitly setting them for consistency
-// with how they'd be derived in ESM, but it's not strictly necessary.
-
-// __filename and __dirname are global in CommonJS.
-// We explicitly define them here to mirror the ESM approach, but it's redundant
-// as they are already available in CJS modules.
-// const __filename = process.argv[1]; // Or simply use the global __filename
-// const __dirname = path.dirname(__filename); // Or simply use the global __dirname
-
-// For the purpose of this script, we don't strictly *need* __filename/__dirname
-// because we're not resolving paths relative to the script itself for things
-// like `fs.readFile(__filename, ...)` in a dynamic way.
-// The `path.join` calls handle relative paths correctly based on `process.cwd()`.
 
 const concurrencyLimit = 10;
 const linkTimeout = 3000; // 3 seconds timeout for each link
@@ -65,7 +51,10 @@ async function checkSingleLink(item, fileName) {
 
   try {
     // Using the native global fetch in Node.js v18+
-    const response = await fetch(item.url, { method: 'HEAD', signal: controller.signal });
+    const response = await fetch(item.url, {
+      method: 'HEAD',
+      signal: controller.signal,
+    });
     clearTimeout(timeoutId);
     console.log(`  [${fileName}] - Status ${response.status}: ${item.url}`);
     return { url: item.url, status: response.status };
@@ -95,6 +84,8 @@ async function processLinks(linksToProcess, fileName) {
     const item = linksToProcess[i];
     const promise = checkSingleLink(item, fileName).then((result) => {
       if (result && (result.status === 200 || (result.status >= 300 && result.status < 400))) {
+        // Store only the original line content for valid links
+        // The titleLine is the #EXTINF line, urlLine is the http link itself
         tempValidLinks.set(item.originalIndex, {
           titleLine: item.title,
           urlLine: item.url,
@@ -126,22 +117,23 @@ async function processLinks(linksToProcess, fileName) {
 function generateOutputM3U(originalM3uContent, tempValidLinks) {
   const originalLines = originalM3uContent.split('\n');
   const validLinksContent = [];
-  const finalOutputLines = new Set();
+  const finalOutputLines = new Set(); // Use a Set to avoid duplicate lines in output
 
   validLinksContent.push('#EXTM3U');
-  finalOutputLines.add('#EXTM3U');
+  finalOutputLines.add('#EXTM3U'); // Add it to the set to prevent re-adding if found later
 
   for (let i = 0; i < originalLines.length; i++) {
     const line = originalLines[i].trim();
 
     if (line.startsWith('#EXTM3U')) {
-      continue;
+      continue; // Skip the original #EXTM3U as we added it at the beginning
     }
 
     if (line.startsWith('#EXTINF')) {
       const nextLineIndex = i + 1;
       if (nextLineIndex < originalLines.length) {
         const nextLine = originalLines[nextLineIndex].trim();
+        // Check if the current #EXTINF has a corresponding valid URL on the next line
         if (nextLine.startsWith('http') && tempValidLinks.has(nextLineIndex)) {
           const { titleLine, urlLine } = tempValidLinks.get(nextLineIndex);
           if (!finalOutputLines.has(titleLine)) {
@@ -152,10 +144,11 @@ function generateOutputM3U(originalM3uContent, tempValidLinks) {
             validLinksContent.push(urlLine);
             finalOutputLines.add(urlLine);
           }
-          i = nextLineIndex;
+          i = nextLineIndex; // Skip the URL line as it's already processed with its #EXTINF
         }
       }
     } else if (line.startsWith('http')) {
+      // Handle standalone HTTP links without an #EXTINF line immediately above
       if (tempValidLinks.has(i)) {
         const { urlLine } = tempValidLinks.get(i);
         if (!finalOutputLines.has(urlLine)) {
@@ -164,6 +157,7 @@ function generateOutputM3U(originalM3uContent, tempValidLinks) {
         }
       }
     } else {
+      // Preserve other lines that are not #EXTINF or http links, e.g., comments, empty lines
       if (line.trim() !== '' && !finalOutputLines.has(line)) {
         validLinksContent.push(line);
         finalOutputLines.add(line);
@@ -185,11 +179,11 @@ async function main(inputDir, outputDir) {
 
     const files = await fs.readdir(inputDir);
     const m3uFiles = files.filter(
-      (file) => file.endsWith('.m3u') || file.endsWith('.m3u8')
+      (file) => file.endsWith('.m3u') || file.endsWith('.m3u8'),
     );
 
     if (m3uFiles.length === 0) {
-      console.log(`No .m3u or .m3u8 files found in ${inputDir}`);
+      console.log(`No .m3u or .m3u8 files found in "${inputDir}"`);
       return;
     }
 
@@ -208,7 +202,7 @@ async function main(inputDir, outputDir) {
         await fs.writeFile(
           path.join(outputDir, fileName),
           originalM3uContent,
-          'utf8'
+          'utf8',
         );
         continue;
       }
@@ -217,17 +211,15 @@ async function main(inputDir, outputDir) {
 
       const validStreamCount = tempValidLinks.size;
       console.log(
-        `  Check complete for "${fileName}". Found ${validStreamCount} valid streams out of ${linksToProcess.length}.`
+        `  Check complete for "${fileName}". Found ${validStreamCount} valid streams out of ${linksToProcess.length}.`,
       );
 
-      const outputFileName = fileName.replace(
-        /(\.m3u8?)$/,
-        '_checked$1'
-      );
+      // No longer adding '_checked' suffix, as files go to a separate output directory
+      const outputFileName = fileName;
       const outputPath = path.join(outputDir, outputFileName);
       const outputM3uContent = generateOutputM3U(
         originalM3uContent,
-        tempValidLinks
+        tempValidLinks,
       );
 
       await fs.writeFile(outputPath, outputM3uContent, 'utf8');
@@ -243,7 +235,7 @@ async function main(inputDir, outputDir) {
 // Get input and output directories from command-line arguments
 const args = process.argv.slice(2);
 const inputDirectory = args[0] || 'm3u-files';
-const outputDirectory = args[1] || 'm3u-checked';
+const outputDirectory = args[1] || 'm3u-checked'; // Default output directory
 
 console.log(`Starting M3U Link Checker...`);
 console.log(`Input Directory: ${inputDirectory}`);

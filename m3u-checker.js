@@ -1,5 +1,9 @@
 // m3u-checker.js
 // made with Gemini 2.5 Flash via https://t3.chat/ free tier - thanks
+// usage example:
+// node ./m3u-checker.js -> this expects m3u files in "m3u-files" folder and puts output files in "m3u-checked"
+// or
+// node ./m3u-checker.js input_folder/ output_folder/
 
 const fs = require('fs/promises');
 const path = require('path');

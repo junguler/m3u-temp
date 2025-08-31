@@ -1,95 +1,177 @@
 #EXTM3U
-#EXTINF:-1,[laut.fm] purepure
-http://stream.laut.fm/purepure.pls?n=5498abb47447fcdbdea6
-#EXTINF:-1,超！A&G+
-http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8??n=0bf3075dd12406dd6c83
-#EXTINF:-1,Anime Para Ti
-https://stream.zeno.fm/qpn8mkt8c4duv?n=2e98ead773cdb6c4afdf
+#EXTINF:-1,Vocaloid Radio
+http://curiosity.shoutca.st:8019/stream
 #EXTINF:-1,AnimeNfo Radio
-https://stream.zenolive.com/xwa8ckz7mzzuv?n=c461f350129fec40b2f1
-#EXTINF:-1,Anison.FM
-http://pool.anison.fm:9000/AniSonFM320?n=30fb6984cbf0e4120d3c
-#EXTINF:-1,Anison动漫音乐台
-http://pool.anison.fm:9000/AniSonFM320??n=5288dc4cf3733242f388
-#EXTINF:-1,Asian World Radio Latina
-http://stream.zeno.fm/37hmxgfgzs8uv?n=5a36a7d52d5b068856d3
-#EXTINF:-1,Cyber Anime Radio
-http://cyberanimeradio.ru:9000/?n=3d75455241b00cc57d17
-#EXTINF:-1,Doujinstyle Radio
-https://streams.radio.co/s5ff57669c/listen.m3u?n=41c3713ad66ff675fd7c
-#EXTINF:-1,Eden Radio
-https://www.edenofthewest.com/public/eden-radio/playlist.pls?n=2383ad880105dc4b90e4
-#EXTINF:-1,幻想乡电台Gensokyo Radio
-https://stream.gensokyoradio.net/1?n=b6b135964830a0e3560f
-#EXTINF:-1,Greek Otaku Radio
-http://usa2.fastcast4u.com:3684/?n=149893dc516163198acc
-#EXTINF:-1,Kawaii Music
-https://kawaii-music.stream.laut.fm/kawaii-music?n=6c5ae9f4c3614790047f
-#EXTINF:-1,LISTEN.moe Jpop Opus
-https://listen.moe/opus?n=2410401dc7316e331908
-#EXTINF:-1,Nihon no Oto
-http://stream1.nihon-no-oto.com/nihonogg?n=35c177d2a1945ef1c66a
-#EXTINF:-1,Otaku | NTS
-https://stream-mixtape-geo.ntslive.net/mixtape36?n=826b1ee3bd53cb72544a
-#EXTINF:-1,Otaku MusicRadio
-http://kathy.torontocast.com:2880/listen.pls?sid=1?n=452785de8aead8c1e081
-#EXTINF:-1,Otaku no Radio
-http://radio.otakunopodcast.com:8000/otakunoradio?n=c32ffd58fb2c8ad9c9d2
-#EXTINF:-1,PianetaB WebRadio
-https://listen.pianetabwebradio.it:8000/radio.mp3?n=006076ba90591f38f93f
-#EXTINF:-1,Radio Anime Nexus
-https://cast.animenexusla.com/radio/8000/animenexus?n=60448518d4ac3c4c9d55
-#EXTINF:-1,Radio Anime24
-http://91.232.4.33:7028/?n=179ea3040544a443c52a
-#EXTINF:-1,Radio AnimKLATU
-https://stream.laut.fm/animklatu?n=87103ded8b8be27e954b
-#EXTINF:-1,Rádio Animu [192 kbps]
-https://cast.animu.com.br:9089/stream?n=2954c231b15494609e76
-#EXTINF:-1,Rádio Animu [320 kbps]
-https://cast.animu.com.br:9079/stream?n=209bfaebfd0b50481532
-#EXTINF:-1,Rádio Animu [64 kbps]
-https://cast.animu.com.br:9069/stream?n=e4cca4c822dba420e2ad
-#EXTINF:-1,Radio Art - Inspire
-http://air.radioart.com/fDisney.mp3?n=4d9d4080fe3dc6847a0a
-#EXTINF:-1,Radio Cron
-https://cron.stream.laut.fm/cron?n=12350f6ed1ccdf511bdb
-#EXTINF:-1,Radio Doki
-https://kuronegai.radioca.st/stream?n=32bb7bd8ff4a47d7cd1c
-#EXTINF:-1,Radio Gambaru
-https://stream.zeno.fm/b3tz3g94vv8uv?n=1c88b8e72ef238e1dae3
-#EXTINF:-1,Radio J-Hero
-http://stm1.radiojhero.com:8008/?n=517e35bca8d185c78765
-#EXTINF:-1,Radio María Colombia
-http://cloudrad.io/radiomariacolombia/listen.pls?n=033dd5530fe5a840d6b8
-#EXTINF:-1,Radio Nami
-http://5.9.2.139:8000/any-anime.ru?n=08db3a083abd55e07aff
-#EXTINF:-1,Radio Otakus Dream
-https://laradiossl.online:8004/stream?n=fa6cd2de00f03ae44577
-#EXTINF:-1,Silens Clamor
-https://www.silensclamor.com/live?n=252d6984e00b4d66b203
-#EXTINF:-1,stereoanime
-https://radio.stereoanime.net/listen/stereoanime/128?n=c72f32d1769c491d5605
-#EXTINF:-1,UIS AM HJR33, 670 kHz AM, Bucaramanga Universidad Industrial de Santander
-http://emisoras.uis.edu.co:8000/mp3am?n=ab654331b7aaa6351fd9
-#EXTINF:-1,Vocaloid Radio 320kbps
-https://vocaloid.radioca.st/stream?n=cd67bea7658ff348f24c
-#EXTINF:-1,Vocaloid Radio VRX 192kbps
-https://vrx.piro.moe/stream-192.m3u?n=fe856e7b6decfbba8cde
-#EXTINF:-1,Vocaloid Radio VRX 256kbps
-https://vrx.piro.moe/stream-256.m3u?n=ff53dd5491e378880ed7
-#EXTINF:-1,Yamato
-https://yamato.cl/play?n=cec8e75b7cc50103e43f
+http://158.69.9.92:443/
+#EXTINF:-1,Manganime Radio
+https://manganime.ma/istream.mp3
+#EXTINF:-1,Radio-Animes radio
+https://listen.radioking.com/radio/238528/stream/282475
+#EXTINF:-1,Superloustic radio
+https://www.superloustic.com/listen
+#EXTINF:-1,Kpop Replay radio
+https://kpopreplay.radioca.st//stream
+#EXTINF:-1,Cinemusic Radio
+https://listen.radioking.com/radio/422/stream/62785
+#EXTINF:-1,chiru.no radio
+https://chiru.no/stream.flac
+#EXTINF:-1,Stereoanime.net radio
+https://radio.stereoanime.net/listen/stereoanime/128
+#EXTINF:-1,Animu FM radio
+https://cast.animu.com.br:9079/stream
+#EXTINF:-1,Retro PC GAME Music Radio
+http://gyusyabu.ddo.jp:8000/
+#EXTINF:-1,Radio Zero radio
+https://stream.zeno.fm/etuhm2ry72quv
+#EXTINF:-1,Radio Anime 24 radio
+http://91.232.4.33:7028/stream/
+#EXTINF:-1,Anime Radio
+http://stream.animeradio.de/animeradio.mp3
+#EXTINF:-1,Radio Asia World radio
+http://sirius.shoutca.st:8019/
+#EXTINF:-1,RadioAnimati radio
+https://stream.radioanimati.it/ramobile
+#EXTINF:-1,Radio Free Otaku radio
+https://streaming.radio.co/s8267e5edc/listen
+#EXTINF:-1,Anime FM radio
+https://animefm.stream.laut.fm/animefm
+#EXTINF:-1,Japanisu Radio - Japanese Music & Asian Music
+https://stream.radioani.me/radio/8000/radio.mp3
+#EXTINF:-1,Otaku Music Radio
+https://kathy.torontocast.com:2880/1.mp3
+#EXTINF:-1,Radio Anime Nexus radio
+https://cast.animenexusla.com/radio/8000/animenexus
+#EXTINF:-1,Rádio J-Hero radio
+https://stm1.radiojhero.com:18008/
+#EXTINF:-1,Anime Plus Radio
+https://stream.zeno.fm/rfun7q8bt8quv
+#EXTINF:-1,RadioDoki radio
+http://janus.shoutca.st:8972/stream
+#EXTINF:-1,Ronin Radio
+https://s3.radio.co/sff133d65b/listen
+#EXTINF:-1,Animecol Radio
+https://stream.zeno.fm/eg9unacxc6quv
 #EXTINF:-1,Yggdrasil Radio
-https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls?n=886479fce631edf17997
-#EXTINF:-1,Yumi Co. Radio
-http://yumicoradio.net:8000/stream?n=0e80050697cce5b8d5ed
-#EXTINF:-1,ЯН-ФМ Anime
-http://stream.laut.fm/animklatu?n=69ce18f7827c04e339f4
-#EXTINF:-1,全职高手OST
-https://stream.zeno.fm/31rfqm42vc9uv?n=6cd46363ae1b228ddd0b
-#EXTINF:-1,BnP radio
-https://radio.bnp-radio.ru/live?n=fb187bbcd8f9e69d2eaa
-#EXTINF:-1,Radio AmchiKONKANI
-http://178.32.107.151:3711/stream?n=650a3823822adc2c8070
-#EXTINF:-1,Patchwork Archive - VTuber Songs and Covers
-https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u?n=0b350812a1c2fe488d0c
+http://yggdrasilradio.net:8000/stream.nsv
+#EXTINF:-1,Radio Elfen Tchat radio
+http://elfen-tchat.fr:8000/elfen
+#EXTINF:-1,Kawaii Music radio
+https://kawaii-music.stream.laut.fm/kawaii-music
+#EXTINF:-1,I love Anime/Manga  radio
+https://iloveanimemanga.stream.laut.fm/iloveanimemanga
+#EXTINF:-1,EIN HERZ FÜR MANGA UND ANIME radio
+https://stream.laut.fm/animefm
+#EXTINF:-1,Radio Wakai radio
+http://s1.slotex.pl:7076/stream/1/
+#EXTINF:-1,Final Fantasy Radio
+http://finalfantasystation.com:8000/stream
+#EXTINF:-1,Música y Noticias Anime Online — Radio Jkanime
+https://stream.zeno.fm/4n10t55g4uhvv
+#EXTINF:-1,Tokyo Radio 80.6
+http://94.23.6.53:8302/stream.nsv
+#EXTINF:-1,Geheimwelt radio
+https://geheimwelt.stream.laut.fm/geheimwelt
+#EXTINF:-1,Rádio Akiba radio
+https://ssl.srvstm.com:9526/stream.nsv
+#EXTINF:-1,Radio Anime radio
+https://stream.zeno.fm/ssdqe8h5ag0uv
+#EXTINF:-1,Rádio AnimeNight radio
+https://stm2.voxhd.com.br:10422/stream.nsv
+#EXTINF:-1,Otaku no Radio
+http://radio.otakunopodcast.com:8000/otakunoradio
+#EXTINF:-1,Blue Heron Radio
+http://cp3.digistream.info:8170/stream.nsv
+#EXTINF:-1,Anime Radio - best anime music
+https://saurus.streampanel.cloud:5150/stream
+#EXTINF:-1,Anime Radio UK
+http://149.255.59.164:8049/stream
+#EXTINF:-1,Akari Radio
+https://stream.zeno.fm/0pefzvqukfeuv
+#EXTINF:-1,JapaneseMusicID radio
+http://live.japanesemusicid.com:8000/japanesemusic
+#EXTINF:-1,Hentai Radio
+https://hentairadio.stream.laut.fm/hentai_radio
+#EXTINF:-1,Anime Para Ti Radio
+https://stream.zeno.fm/acnhrkt8c4duv
+#EXTINF:-1,Geek Radio Music
+https://stream.zeno.fm/h4hpqkxsxxquv
+#EXTINF:-1,Isekai Anime Radio
+https://cast.isekaianimeradio.net/radio/8000/radio.aac
+#EXTINF:-1,Radio Anime AX radio
+https://stream.zeno.fm/c963db7eec9uv
+#EXTINF:-1,Gamer Sound radio
+http://149.56.147.197:8716/stream
+#EXTINF:-1,Radio Go latino radio
+https://antonyokumura.radioca.st/stream
+#EXTINF:-1,Animexi Universe radio
+http://192.187.112.50:8026/stream?type=.mp3
+#EXTINF:-1,Radio Prestige radio
+https://s3.slotex.pl/shoutcast/7524/stream
+#EXTINF:-1,Rádio AMC radio
+https://player.voxtreaming.com.br/proxy/6728
+#EXTINF:-1,PurePure Radio
+https://purepure.stream.laut.fm/purepure
+#EXTINF:-1,Kibo.FM radio
+http://listen.kibo.fm:8000/kibofm
+#EXTINF:-1,Fananpy Radio
+https://stream.zeno.fm/8p9ypyq537zuv
+#EXTINF:-1,PianetaB WebRadio radio
+https://listen.pianetabwebradio.it:8000/radio.mp3
+#EXTINF:-1,Radio Vallée radio
+https://radiola.me/radio/8090/stream
+#EXTINF:-1,Radio 3d6 GDL radio
+https://stream.zeno.fm/xug9mpg0k2zuv
+#EXTINF:-1,Kohina Radio
+https://kohina.duckdns.org/icecast/stream.ogg
+#EXTINF:-1,Anime Extremo radio
+http://66.70.249.70:5327/stream
+#EXTINF:-1,Radio Isekai radio
+https://usa18.fastcast4u.com/proxy/radioisekai?mp=/1
+#EXTINF:-1,WTF Nation Radio
+https://wtfnationradio.com:8006/aac
+#EXTINF:-1,91.8 The Fan radio
+http://198.27.80.154:8080/
+#EXTINF:-1,Rádio Ásia POP radio
+https://cast-radioasiapop.com.br:8000/stream.mp3
+#EXTINF:-1,Fluffy Land RPG radio
+https://fluffylandrpg.stream.laut.fm/fluffylandrpg
+#EXTINF:-1,Tsumugi Radio
+https://azuracast.mahoro-net.org/listen/tsumugi/radio.mp3
+#EXTINF:-1,Radio-AniNeko radio
+https://usadori-radio.shinzashi.de:8270/radio.mp3
+#EXTINF:-1,Saint Seiya Radio
+https://ecmanager3.pro-fhi.net/saintseiyaradio
+#EXTINF:-1,MAnime.de-Webradio radio
+https://anima.stream.laut.fm/anima
+#EXTINF:-1,Okufm radio
+https://stream.zeno.fm/nrpe1a0n3p8uv
+#EXTINF:-1,Kodama Station radio
+https://cast.kodamastation.com/radio/8000/radio.mp3
+#EXTINF:-1,Radio Cuchitril radio
+https://freeuk24.listen2myradio.com/live.mp3?typeportmount=s1_29019_stream_539775802
+#EXTINF:-1,Anime web radio
+http://s6.mediastreaming.it:8090/
+#EXTINF:-1,GF Radio
+http://www2.gfcom.info:8000/
+#EXTINF:-1,Gordoville Radio
+http://gordovilleradio.ddns.net:8000/live
+#EXTINF:-1,Nichijou Shuffle radio
+https://stream.zeno.fm/tncreqmcwnhvv
+#EXTINF:-1,Radio Dragons radio
+https://radiolive.anisrv.de/radio/8040/radio.mp3
+#EXTINF:-1,Rádio Animon radio
+https://www.radioakame.ga/listen/animon/radio.mp3
+#EXTINF:-1,SunsetRavens radio
+https://usadori-radio.shinzashi.de:8060/radio.mp3
+#EXTINF:-1,Expresión Vocaloid radio
+https://expvocaloidserver.nsupdate.info/expresion-vocaloid
+#EXTINF:-1,Radio Jetix radio
+https://radiolive.anisrv.de/radio/8020/radiojetix192.aac
+#EXTINF:-1,RR TalkTalk radio
+https://talktalk.florencejaymunar.com/listen/main/radio.aac
+#EXTINF:-1,Lazus anime radio
+https://stream.zeno.fm/e0u986nbbxhvv
+#EXTINF:-1,Anime Tracks radio
+https://centova.listenon.in/proxy/animetracks/stream
+#EXTINF:-1,Anie TV 2 radio
+https://stream.zeno.fm/uxwdvuttgubvv

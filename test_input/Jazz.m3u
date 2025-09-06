@@ -1,541 +1,709 @@
 #EXTM3U
-#EXTINF:-1,Blue 100.7
-http://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7.mp3
-#EXTINF:-1,WNYC - The Jonathan Channel
-https://tjc.wnyc.org/js-stream-web
-#EXTINF:-1,Classic FM
-http://media-ice.musicradio.com/ClassicFM
-#EXTINF:-1,Radio Swiss Jazz
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-#EXTINF:-1,Blackie 89.1
-http://mdstrm.com/audio/605cead108b29b07d305a579/icecast.audio
-#EXTINF:-1,Zoomer Radio - CFZM
-http://3.90.156.234/mzmedia-cfzmammp3-ibc2?session-id=596c03669dff07c0056f3e4c097b2db2
-#EXTINF:-1,Smooth 91.5
-http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC48.aac
-#EXTINF:-1,KTSU The Choice - KTSU
-http://ice6.securenetsystems.net/KTSUFM
-#EXTINF:-1,Babel FM
-http://radios.iwstreaming.uy:8030/stream
-#EXTINF:-1,CJNU Nostalgia Radio - CJNU-FM
-http://noasrv.caster.fm:10188/stream
-#EXTINF:-1,Light FM Lebanon
-http://21223.live.streamtheworld.com:80/LIGHTFMAAC_SC
-#EXTINF:-1,Радио Монте-Карло Санкт-Петербург
-http://icecast227.ptspb.ru:8104/monte
-#EXTINF:-1,Beautiful Instrumentals
-http://s3.voscast.com:10038/
-#EXTINF:-1,Heart FM
-http://iceant.antfarm.co.za:8000/HeartFM.mp3
-#EXTINF:-1,M90 Vintage
-http://23.111.184.195:8020/mileniumrosario.mp3
-#EXTINF:-1,TSF Jazz
-http://185.74.70.35/tsfjazz-high.mp3
-#EXTINF:-1,KCSM FM - KCSM
-http://ice5.securenetsystems.net/KCSM
-#EXTINF:-1,Best Smooth Jazz (BSJ.FM)
-http://64.95.243.43:8002/stream
-#EXTINF:-1,The Jazz Groove
-http://aac-64.streamthejazzgroove.com/?referer=simpleradio
-#EXTINF:-1,Radio UCASAL
-http://radios.solumedia.com:6352/stream
-#EXTINF:-1,Radio Q
-http://streamer.radio.co/s8f0814ce2/listen
-#EXTINF:-1,Magyar Rádió Zrt. - Bartók Rádió
-http://stream001.radio.hu:8080/mr3.mp3
-#EXTINF:-1,Jazz 88.3 - WBGO
-http://wbgo.streamguys.net/wbgo_AAC-LC_256
-#EXTINF:-1,103.7 The Oasis - KOAZ
-http://ice42.securenetsystems.net/KOAZAM
-#EXTINF:-1,KePadre Radio
-http://vsstreaming.com:8012/stream
-#EXTINF:-1,Rádio Cultura FM
-http://cast61.sitehosting.com.br:8578/live/
-#EXTINF:-1,Fine Music Radio
-https://edge.iono.fm/xice/fmr_live_medium.mp3?p=embed
+#EXTINF:-1,RadioActive1 WBOB
+https://das-edge17-live365-dal02.cdnstream.com/a53075
+#EXTINF:-1,Swing City Radio
+https://das-edge14-live365-dal02.cdnstream.com/a03438
+#EXTINF:-1,EzzJazz
+https://das-edge14-live365-dal02.cdnstream.com/a98306
+#EXTINF:-1,THE JAZZ STATION
+https://das-edge14-live365-dal02.cdnstream.com/a74112
+#EXTINF:-1,The STREAM Smooth Jazz
+https://das-edge14-live365-dal02.cdnstream.com/a29192
+#EXTINF:-1,Classic Smooth Jazz
+https://das-edge17-live365-dal02.cdnstream.com/a67583
+#EXTINF:-1,SWZZLSTK76
+https://das-edge17-live365-dal02.cdnstream.com/a58905
+#EXTINF:-1,Radio stratford
+https://das-edge12-live365-dal02.cdnstream.com/a78846
+#EXTINF:-1,Smooth Jazz Network
+https://das-edge14-live365-dal02.cdnstream.com/a77334
+#EXTINF:-1,Radio Non Stop
+https://das-edge12-live365-dal02.cdnstream.com/a50468
+#EXTINF:-1,WFAH 102.1 FM
+https://das-edge17-live365-dal02.cdnstream.com/a82829
+#EXTINF:-1,The Wave Tampa Bay
+https://das-edge12-live365-dal02.cdnstream.com/a03391
+#EXTINF:-1,PMP_RADIO [a dj's world]
+https://das-edge12-live365-dal02.cdnstream.com/a77729
+#EXTINF:-1,KZAP
+https://das-edge17-live365-dal02.cdnstream.com/a86223
+#EXTINF:-1,Evening Melancholy
+https://das-edge14-live365-dal02.cdnstream.com/a98142
+#EXTINF:-1,KLEK 102.5 F.M.
+https://das-edge14-live365-dal02.cdnstream.com/a57052
+#EXTINF:-1,Jazz Con Class Radio
+https://das-edge14-live365-dal02.cdnstream.com/a73229
+#EXTINF:-1,A Bowl of Soul A Mixed Stew of Soul Music Radio Network
+https://das-edge14-live365-dal02.cdnstream.com/a91220
+#EXTINF:-1,mojazzradio
+https://das-edge14-live365-dal02.cdnstream.com/a09595
+#EXTINF:-1,XTreme Vibes Radio
+https://das-edge15-live365-dal02.cdnstream.com/a49435
+#EXTINF:-1,GFUZ
+https://das-edge12-live365-dal02.cdnstream.com/a90471
+#EXTINF:-1,Easy Hits Florida / Classic Hits Global 
+https://das-edge14-live365-dal02.cdnstream.com/a05930
+#EXTINF:-1,FaceDown Radio
+https://das-edge12-live365-dal02.cdnstream.com/a02714
+#EXTINF:-1,Contemporary Smooth Jazz
+https://das-edge12-live365-dal02.cdnstream.com/a89878
+#EXTINF:-1,Smooth Jazz Planet
+https://das-edge14-live365-dal02.cdnstream.com/a91658
+#EXTINF:-1,Manilli Music
+https://das-edge14-live365-dal02.cdnstream.com/a62679
+#EXTINF:-1,Masejazz
+https://das-edge17-live365-dal02.cdnstream.com/a30192
+#EXTINF:-1,Smooth Jazz Florida Plus
+https://das-edge12-live365-dal02.cdnstream.com/a36500
+#EXTINF:-1,Smooth Jazz Worldwide
+https://das-edge12-live365-dal02.cdnstream.com/a29757
+#EXTINF:-1,Radio La Lupita
+https://das-edge10-live365-dal03.cdnstream.com/a50113
+#EXTINF:-1,KHIH-DB Colorado Smooth Jazz
+https://das-edge16-live365-dal02.cdnstream.com/a15595
+#EXTINF:-1,radio.chris
+https://das-edge10-live365-dal03.cdnstream.com/a21567
+#EXTINF:-1,Smooth Jazz NYC
+https://das-edge09-live365-dal03.cdnstream.com/a19280
+#EXTINF:-1,Love Radio 93.9 Miami Beach
+https://das-edge14-live365-dal02.cdnstream.com/a19628
+#EXTINF:-1,Sacramento Smooth Jazz
+https://das-edge09-live365-dal03.cdnstream.com/a47379
+#EXTINF:-1,G2 Radio Network Pasadena
+https://das-edge09-live365-dal03.cdnstream.com/a26095
+#EXTINF:-1,Sonic Narcotics Radio
+https://das-edge14-live365-dal02.cdnstream.com/a67988
 #EXTINF:-1,Smooth Jazz Tampa Bay
-http://ais-edge25-fra01.cdnstream.com/1radio_smoothjazz_128
-#EXTINF:-1,Pure Jazz Radio
-http://71.125.12.37:8000/
-#EXTINF:-1,WQEZ-DB QEZ Radio
-http://192.111.140.11:8352/stream/
-#EXTINF:-1,WSJF Smooth Jazz Florida
-http://144.217.158.59:5120/stream
-#EXTINF:-1,Rádio Bossa Jazz Brasil
-http://centova5.transmissaodigital.com:8412/stream/
-#EXTINF:-1,The UK 1940s Radio Station
-http://91.121.134.23:8100/stream/
-#EXTINF:-1,Legends Radio - WLML-FM
-http://ice3.securenetsystems.net/WLML
-#EXTINF:-1,Kool 97 FM
-https://securestreams6.autopo.st:2328/stream.mp3
-#EXTINF:-1,Radio Paradise - RP Main Mix
-https://stream.radioparadise.com/aac-320
-#EXTINF:-1,Radio USP FM 93.7
-http://flow.emm.usp.br:8007/radiousp-64.mp3
-#EXTINF:-1,CROOZE
-http://streams.crooze.fm:8000/stream128
-#EXTINF:-1,FIP
-http://direct.fipradio.fr/live/fip-midfi.mp3
-#EXTINF:-1,The Source - WVST-FM
-http://cast5.servcast.net:9186/stream
-#EXTINF:-1,Alpha FM Brasília
-https://ice.fabricahost.com.br/alphafm899bsb
-#EXTINF:-1,Smooth Global Living - SmoothJazz Global
-http://smoothjazz.cdnstream1.com/2585_128.mp3
-#EXTINF:-1,The Penthouse Radio
-http://s2.nexuscast.com:8052/stream
-#EXTINF:-1,Wile 97.7FM - WILE-FM
-https://ice24.securenetsystems.net/WILE
-#EXTINF:-1,The Rajun' Cajun - KLEB
-http://sc03.warpradio.com:8634/
-#EXTINF:-1,WTCC FM 90.7 - WTCC
-http://netcaster.wtccfm.org:8080/broadwave.mp3
-#EXTINF:-1,The Time Machine Radio Network - WFOS
-http://stationwfos.whro.org:80/128
-#EXTINF:-1,Ábaco Libros y Café Radio - ALR Jazz Radio
-http://radio30.virtualtronics.com:8638/stream
-#EXTINF:-1,WEAK FM 106.7
-http://weak.dyndns.org:88/broadwave.mp3
-#EXTINF:-1,Smoothjazz.com.pl
-http://stream14.shoutcastsolutions.com:8057/256stream
-#EXTINF:-1,RelaxingJazz.com
-http://stream-02-eu.relaxingjazz.com:80/3
-#EXTINF:-1,1940's Radio Station
-http://199.189.111.28:8012/
-#EXTINF:-1,Radio Concorde
-http://usa18.fastcast4u.com:5772/stream
-#EXTINF:-1,1.FM - Blues Radio
-http://strm112.1.fm/blues_mobile_mp3
-#EXTINF:-1,Ici Musique Montreal - CBFX-FM
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QMTL0_MTL
-#EXTINF:-1,Smooth Global Living - Smooth Lounge
-http://smoothjazz.cdnstream1.com/2586_128.mp3
-#EXTINF:-1,Chérie FM - Zen
-http://cdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3?origine=streema
-#EXTINF:-1,KJAZZ 88.1 FM - KKJZ
-http://playerservices.streamtheworld.com/api/livestream-redirect/KKJZFM.mp3
-#EXTINF:-1,Jazz.FM91 - CJRT-FM
-https://jazzfm91.streamb.live/SB00009
-#EXTINF:-1,Qfm 94.3
-http://51.255.235.165:5092/stream
-#EXTINF:-1,3MBS
-http://playerservices.streamtheworld.com/api/livestream-redirect/3MBS.mp3
-#EXTINF:-1,88.5 XPN - WXPN
-http://wxpnhi.streamguys.com/xpnhi
-#EXTINF:-1,90.9 FM WDCB Public Radio - WDCB
-http://wdcb-ice.streamguys.org:80/wdcb128
-#EXTINF:-1,WWOZ 90.7 FM - WWOZ
-https://wwoz-sc.streamguys1.com/wwoz-hi.mp3
-#EXTINF:-1,92ZEW
-http://216.119.152.213:8054/92zew
-#EXTINF:-1,Jazz Wyoming - KUWL
-http://wyoming-public-ice.streamguys1.com/JZZ128MP3
-#EXTINF:-1,Ibiza Sonica Radio
-http://stream3.ibizasonica.com:8136/
-#EXTINF:-1,Allegro 91.3 - WIPR-FM
-http://192.254.105.36:8080/broadwavehigh.mp3?src=1
-#EXTINF:-1,RAC 97.7 FM
-http://34.228.78.107:8000/
-#EXTINF:-1,RAI Radio 3
-https://icestreaming.rai.it/3.mp3
-#EXTINF:-1,Radio Roquette Pinto 94.1
-http://radio01.logicahost.com.br:8300/stream
-#EXTINF:-1,FM Libertad
-http://streaming2.locucionar.com:8350/stream
-#EXTINF:-1,Jazz de Ville - Chill
-http://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
-#EXTINF:-1,GotRadio - Big Band Land
-http://gr02.cdnstream.com:8430/
-#EXTINF:-1,Aloha JOE
-http://64.78.234.165:8000/ALOHAJOE
-#EXTINF:-1,WSGE 91.7 - WSGE
-https://ice24.securenetsystems.net/WSGE
-#EXTINF:-1,AM 1370 KDTH - KDTH
-http://us9.maindigitalstream.com:7367/stream/
-#EXTINF:-1,90.3 WBRH - WBRH
-https://wbrh.streamguys1.com/wbrh-aac
-#EXTINF:-1,Jazz24 - KNKX-HD2
-http://3.90.240.207/ppm-jazz24aac-ibc1?session-id=5355503f4ee7b387a92a38b5fb265c36
-#EXTINF:-1,88.9 FM WDNA - WDNA
-https://us9.streamingpulse.com/ssl/WDNA
-#EXTINF:-1,KXLU 88.9 FM - KXLU
-http://www.ednixon.com:8120/stream
-#EXTINF:-1,Ici Musique Colombrie-Britannique - CBUX-FM
-http://rcavliveaudio-tunein.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/playlist.m3u8
-#EXTINF:-1,Éter Fm
-http://nvradios.com:9366/radio.mp3/
-#EXTINF:-1,Slam 100.5
-http://streams.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6
-#EXTINF:-1,Classic FM 97.3
-http://classicfmlagos.atunwadigital.streamguys1.com/classicfmlagos
-#EXTINF:-1,FM Laser 98.5
-http://stream.nulix.ar:8000/laser.mp3
-#EXTINF:-1,CBC Music - CBE-FM
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor
-#EXTINF:-1,1.FM - Adore Jazz Radio
-https://strm112.1.fm/ajazz_mobile_mp3
-#EXTINF:-1,Rádio Guaíba
-http://cast4.audiostream.com.br:8007/app
-#EXTINF:-1,NewYorkInternetRadio.com - SmoothJazz.NYC
-http://144.217.158.59:5334/stream
-#EXTINF:-1,KUHS Radio Denver
-http://73.229.13.216:8000/
-#EXTINF:-1,Jazz de Ville - Jazz
-http://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream
-#EXTINF:-1,Misty Radio
-https://ais-sa2.cdnstream1.com/2307_128.mp3
-#EXTINF:-1,Giants of Jazz Radio
-http://streaming.radio.co/s297e618a7/listen
-#EXTINF:-1,Clubsteppin - W236CF
-http://178.32.146.187:2052/
-#EXTINF:-1,Europa Radio Jazz
-http://onair.europaradiojazz.org/radio/8000/sd
-#EXTINF:-1,WJZD Radio
-https://s4.radio.co/s0dc1ef80a/listen
-#EXTINF:-1,Relax FM - Jazz
-https://pub0101.101.ru/stream/trust/mp3/128/264
-#EXTINF:-1,FM Meridiano 107.1
-http://23.111.184.195:8050/fmmeridiano.mp3
-#EXTINF:-1,Restauracion 107.9 - WYKQ-LP
-http://s36.myradiostream.com:13748/
-#EXTINF:-1,Crooner Radio - Frank Sinatra
-https://direct.croonerradio.fr/croonerradio-franksinatra-midfi.mp3
-#EXTINF:-1,Exquisite Soul Radio
-http://quincy.torontocast.com:1120/stream
-#EXTINF:-1,Jazz Cafe FM
-http://radio.netyco.com:8056/stream/
-#EXTINF:-1,Biltmore Radio
-https://ice64.securenetsystems.net:80/BILTMORE
-#EXTINF:-1,103.7 The Oasis - K279BP
-http://ice42.securenetsystems.net/KOAZAM
-#EXTINF:-1,Sublime - 500
-http://22613.live.streamtheworld.com:80/SUBLIME500_SC
-#EXTINF:-1,Madolo Music Radio
-http://stream.zeno.fm/kqczga31dxhvv
-#EXTINF:-1,WFMU - WFMU
-http://stream0.wfmu.org/freeform-128k
-#EXTINF:-1,CBC Music - CBL-FM
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor
-#EXTINF:-1,כאן 88
-https://kanliveicy.media.kan.org.il/icy/749623_mp3
-#EXTINF:-1,CBC Music - CBU-FM
-http://sc1.yul.llnw.net:80/stream/cbcmp3_cbc_r2_vcr
-#EXTINF:-1,CBC Music - CBI-FM
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_hfx
-#EXTINF:-1,CBC Music - CBN-FM
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_hfx
-#EXTINF:-1,CBC Music - CBX-FM
-http://sc1.yul.llnw.net:80/stream/cbcmp3_cbc_r2_edm
-#EXTINF:-1,Latvijas Radio - LR3 Klasika
-http://lr3mp0.latvijasradio.lv:8006/
-#EXTINF:-1,Radio Marginal 98.1
-http://centova.radios.pt:8499/stream
-#EXTINF:-1,Radio Romania Muzical
-http://89.238.227.6:8022/
-#EXTINF:-1,RNE - Radio Clásica
-http://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high
-#EXTINF:-1,Radio New Zealand Concert
-http://radionz-ice.streamguys.com/concert.mp3
-#EXTINF:-1,Cool Blue Taupo
-http://falcon.shoutca.st:8166/autodj
-#EXTINF:-1,Radio Universidad - XHUGP
-http://streamingv2.shoutcast.com/radio-udg-guadalajara-1043
-#EXTINF:-1,Fajn Radio Agara
-http://ice.abradio.cz/fajn128.mp3
-#EXTINF:-1,JazzRadio
-https://streaming.radio.co/s774887f7b/listen
-#EXTINF:-1,Radio Free Georgia - WRFG
-http://s2.radio.co/s2133c4bad/listen
-#EXTINF:-1,Tec Sounds Radio - XHTEC
-https://stream.rcast.net/68217
-#EXTINF:-1,RSI - Rete Due
-http://stream.srg-ssr.ch/m/retedue/mp3_128
-#EXTINF:-1,HOT 103 JAMZ! - KPRS
-http://17803.live.streamtheworld.com:80/KPRSFMAAC_SC
-#EXTINF:-1,CBC Music - CBW-FM
-http://sc4.jfk.llnw.net:80/stream/cbcmp3_cbc_r2_wpg
-#EXTINF:-1,IMER - Horizonte 107.9 FM - XHIMR
-http://s2.mexside.net:8014/stream/
-#EXTINF:-1,SWR2
-http://liveradio.swr.de/sw890cl/swr2/play.aac
-#EXTINF:-1,Rádio Executiva FM
-https://live.ojc.com.br/c2f4/myStream.m3u8
-#EXTINF:-1,KGOU - KGOU
-https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
-#EXTINF:-1,CBC Music - CBH-FM
-http://sc3.yul.llnw.net:80/stream/cbcmp3_cbc_r2_hfx
-#EXTINF:-1,Classic 107 - CFEQ
-http://goldenwest.leanstream.co/CKCLFM-MP3
-#EXTINF:-1,Rádio Alto Minho
-http://ec2.yesstreaming.net:3700/stream
-#EXTINF:-1,Radio Campus Bordeaux
-http://live.radiocampus.fr:8000/campus-bordeaux
-#EXTINF:-1,URBE 96.3 FM
-http://15.204.212.117:8720/stream/
-#EXTINF:-1,TRT - Radyo 3
-https://nmicenotrt.mediatriple.net/trt_3.aac
-#EXTINF:-1,WJAB 90.9 FM - WJAB
-http://wjab.streamguys.net/live
-#EXTINF:-1,Radio Aria Longwy
-http://stream.votreradiosurlenet.eu:9410/
-#EXTINF:-1,Klassika Raadio
-http://icecast.err.ee/klassikaraadio.mp3
-#EXTINF:-1,Express FM
-http://stream.expressfm.com/expressfm.mp3
-#EXTINF:-1,CBC Music - CBM-FM
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor
-#EXTINF:-1,Jazz 91.9 - WCLK
-http://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFM.flv
-#EXTINF:-1,Hard Rock FM Jakarta
-https://stream.radiojar.com/7csmg90fuqruv
-#EXTINF:-1,WABE Classics - WABE-HD2
-http://playerservices.streamtheworld.com/api/livestream-redirect/WABE_HD2_CLASSICAL.mp3
-#EXTINF:-1,RTL A Rádio Rock
-https://ice.fabricahost.com.br/rtl917
-#EXTINF:-1,Radio Primordial
-http://sonicpanel.mediostream.cl:8106/stream
-#EXTINF:-1,Radio Infinita
-https://streams.radio.co/see730c7ab/listen
-#EXTINF:-1,ICRT
-http://live.leanstream.co/ICRTFM-MP3
-#EXTINF:-1,Jazz Radio
-http://185.74.70.35/jazzradio-high.mp3
-#EXTINF:-1,Kansas Public Radio - KANU
-http://streaming.kansaspublicradio.org:8000/kpr1
-#EXTINF:-1,La Voz de Melo
-http://stream.zeno.fm/fzc86k96yy8uv
-#EXTINF:-1,Jazz Radio
-http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
-#EXTINF:-1,WFSK Jazzy 88 - WFSK
-http://backbonenetworks.streamguys.com/fiskradio.mp3
-#EXTINF:-1,The Public's Radio - WPVD
-http://amber.streamguys1.com:5590/android-aac
-#EXTINF:-1,FM 101.7 - CJSO-FM
-http://stream.statsradio.com:8032/stream
-#EXTINF:-1,Raíces FM
-http://stream5.domint.net:8120/stream
-#EXTINF:-1,Radio ZET Chilli
-http://n-6-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx?audio=5
-#EXTINF:-1,Universitaria 104.5 FM
-https://mp3.fm.uc.edu.ve:8443/fmuc.mp3
-#EXTINF:-1,Radio FM Concert
-http://cp9.serverse.com:7090/stream/
-#EXTINF:-1,95 Cinco Jazz
-http://radio29.luxwer.net:8571/radio-live/
-#EXTINF:-1,Radio GNF
-http://lyssna.fnf.nu:8080/gnf102.mp3
-#EXTINF:-1,GFM 
-https://ice.fabricahost.com.br/radiogfm
-#EXTINF:-1,Radio Voz do Marao
-http://radios.justweb.pt:8016/stream
-#EXTINF:-1,CKMS - CKMS-FM
-http://kwvoip.ca:8000/radiowaterloo
-#EXTINF:-1,서울 CBS FM
-http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
-#EXTINF:-1,WDR 3
-https://wdrhf.akamaized.net/hls/live/2027994/wdr3/master.m3u8
-#EXTINF:-1,FM Welcome
-http://streaming2.locucionar.com:8677/stream
-#EXTINF:-1,CBC Music - CBK-FM
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_edm
-#EXTINF:-1,Superfly FM
-https://stream01.superfly.fm/live
-#EXTINF:-1,WARA 1320 AM - WARL
-http://s6.reliastream.com:8092/stream
-#EXTINF:-1,PBS-FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAAC.aac
-#EXTINF:-1,104.3 Capital FM2 - DWFT
-http://122.53.138.32:8000/dwbr.mp3
-#EXTINF:-1,5MBS Adelaide
-http://stream01.sigile.net/5mbs-128-mp3
-#EXTINF:-1,CRo 3 - Vltava - Czech Radio 3 Vltava
-https://icecast5.play.cz/cro3-128.mp3
-#EXTINF:-1,CHMR-FM
-http://mp3srv.munsu.mun.ca:8000/
-#EXTINF:-1,Yle Radio 1
-https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8
-#EXTINF:-1,KXRJ
-http://kxrjradiostream.atu.edu:88/broadwave.mp3?src=1&amprate=1&ampref=
-#EXTINF:-1,ZeroRadio.co.uk
-http://uk7.internet-radio.com:8188/live
-#EXTINF:-1,WNCU 90.7 FM - WNCU
-https://wncu.streamguys1.com/live
-#EXTINF:-1,WVIA - WVIA-FM
-https://18853.live.streamtheworld.com:443/WVIAFM_SC
-#EXTINF:-1,Volks Musik Radio
-http://stream.laut.fm/volksmusikradio
-#EXTINF:-1,Jazz Loft
-http://jazzloft.stream.laut.fm/jazzloft?pl=m3u&ampt302=2023-04-14_16-42-52&ampuuid=6d115af8-6cec-4b7c-a94c-b674d6a4f439
-#EXTINF:-1,Northside Radio 99.3
-https://21333.live.streamtheworld.com:443/2NSBAAC_SC
-#EXTINF:-1,ICN Radio
-http://198.20.181.78:8000/
-#EXTINF:-1,Liquid Soul Radio
-http://freeuk23.listen2myradio.com:11802/
-#EXTINF:-1,Concertzender - Oude Musiek
-http://streams.greenhost.nl:8080/oudemuziek
-#EXTINF:-1,Радио Обозреватель  - Эйсид Джаз
-http://radio-stream-0.obozrevatel.com:8000/newjazz128.mp3
-#EXTINF:-1,ICI Musique Québec - CBVX-FM
-http://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/playlist.m3u8
-#EXTINF:-1,Mountain Chill 95.5 - KRKQ
-http://46.249.63.123:80/GrayHead/
-#EXTINF:-1,Радио Обозреватель - Блюз
-https://radio-stream-0.obozrevatel.com/blues128.mp3
-#EXTINF:-1,Radio Bellyup4Blues
-http://65.19.173.151:3400/
-#EXTINF:-1,Radio Nightingale
-http://streams.radioriel.org:8010/autodj
-#EXTINF:-1,202.FM - Classic Jazz
-http://listen.livestreamingservice.com/181-classicaljazz_128k.mp3
-#EXTINF:-1,JAZZRADIOdc.com
-http://s2.stationplaylist.com:7016/listen.aac
-#EXTINF:-1,El Cafe del Mundo
-http://cloudstream2034.conectarhosting.com:8032/stream
-#EXTINF:-1,Radio El Sol
-http://s1.raudiostream.com:8002/stream/
-#EXTINF:-1,Mr PoBoy's Jambalaya Jam New Orleans Radio
-http://listen.radionomy.com/00000
-#EXTINF:-1,Concertzender - Jazz
-http://streams.greenhost.nl:8080/jazz
-#EXTINF:-1,RadioPoint
-http://5.9.17.142:8072/stream/
-#EXTINF:-1,Classic KABL Radio
-http://s2.stationplaylist.com:7104/listen.aac
-#EXTINF:-1,Jazz WWNO - WWNO-HD3
-http://tektite.streamguys1.com:5140/wwnojazz-mp3
-#EXTINF:-1,WVFS Tallahassee - WVFS
-http://voice.wvfs.fsu.edu:8000/stream
-#EXTINF:-1,98.7WFMT - WFMT
-http://wfmt.streamguys1.com:80/main-mp3
-#EXTINF:-1,JazzWorks - WESA-HD2
-https://ais-sa3.cdnstream1.com/2558_128.mp3
-#EXTINF:-1,90.5 WSNC - WSNC
-http://peace.streamguys1.com:6400/live
-#EXTINF:-1,The Raider 88.1 - KTXT-FM
-http://ice7.securenetsystems.net/KTXTFM
-#EXTINF:-1,CMU Public Radio - WCMU-FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/WCMUFM.flv
-#EXTINF:-1,NSPR - KFPR
-http://18823.live.streamtheworld.com:80/KCHOFM_64_SC
-#EXTINF:-1,WUSF - WUSF
-https://wusf.streamguys1.com/wusf-web
-#EXTINF:-1,Rim Country Radio - KRIM-LP
-http://ice9.securenetsystems.net/KRIM
-#EXTINF:-1,Jazzy 88.9 - WCSU-FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCSUFM.mp3
-#EXTINF:-1,The 1920's Radio Network - WHRO-HD3
-http://thewhrovoice.mediaplayer.whro.org/128
-#EXTINF:-1,WUCF - WUCF-FM
-http://peridot.streamguys.com:7830/WUCF
-#EXTINF:-1,88.3 WLIW-FM - WLIW-FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/WLIWFM.mp3
-#EXTINF:-1,Detroit Public Radio - WDET-FM
-https://wdet.streamguys1.com/live-aac256
-#EXTINF:-1,KCBX - KCBX
-https://kcbx-ice.streamguys1.com/kcbx-hi
-#EXTINF:-1,Smooth 88.1 WHOV- WHOV-FM
-https://stream.revma.ihrhls.com/zc5599/hls.m3u8
-#EXTINF:-1,Smooth Magic 107.1 - KMGK
-https://ice23.securenetsystems.net/KMGK
-#EXTINF:-1,Radio Newport - WXHQ-LP
-http://199.244.85.125:8000/wxhq1/
-#EXTINF:-1,WMBR
-http://wmbr.org:8000/hi
-#EXTINF:-1,The Diamond WICR - WICR-FM
-http://54.84.80.233/univofindy-wicrhd1aac-ibc4?session-id=63c4d2574d8dc510509bb1710fabdd05
-#EXTINF:-1,KLCC - KLCC
-http://tektite.streamguys1.com:5020/klcc.mp3
-#EXTINF:-1,The Quake - WQKE
-http://18373.live.streamtheworld.com:80/WQKEFM_SC
-#EXTINF:-1,WKKC-FN/HD1 - WKKC
-http://ico-1.streamhoster.com/lv_wkkcfm1--broadcast1
-#EXTINF:-1,KCCK Jazz 2 - KCCK-HD2
-http://stream.kcck.org/kcckjazz2
-#EXTINF:-1,Uptown 1010 - WMIN
-https://ice5.securenetsystems.net/WMIN
-#EXTINF:-1,Jazz 91 - K214CS
-http://wm-ondemand.abacast.com/kcsm/gatewaykcsm.mp3
-#EXTINF:-1,WBAA
-http://purdue.streamguys1.com:80/wbaa-news
-#EXTINF:-1,WPCA 93.1 FM - WPCA-LP
-http://147.135.84.27:80/wpca-fm
-#EXTINF:-1,KCXL 102.9 FM & 1140 AM - KCXL
-http://crystalout.surfernetwork.com:8001/KCXL_MP3
-#EXTINF:-1,WWUH Radio - WWUH
-http://stream3477.egihosting.com:8000/
-#EXTINF:-1,Frontier Radio - WMSE
-http://wmse.streamguys1.com/wmselivemp3
-#EXTINF:-1,WVIK - WVIK
-https://wvik.streamguys1.com/live.mp3
-#EXTINF:-1,Jazz 90.1 - WGMC
-http://greece-media.monroe.edu/wgmc.mp3
-#EXTINF:-1,89.9 WWNO - WWNO
-http://tektite.streamguys1.com:5140/wwnolive-mp3
-#EXTINF:-1,88.5 KURE - KURE
-http://kure-network.stuorg.iastate.edu:8000/KUREBroadcast
-#EXTINF:-1,WMCE-FM
-http://ice24.securenetsystems.net/WMCEFM
-#EXTINF:-1,WRCJ-FM
-http://pnj-01.stream101.com:9035/live
-#EXTINF:-1,90.3 WCPN ideastream - WCPN
-http://audio1.ideastream.org/wcpn128.mp3
-#EXTINF:-1,Love 98-5.FM - WGXI
-https://ice24.securenetsystems.net/WGXI
-#EXTINF:-1,Texas Tech Public Radio - KTTZ-FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD1.mp3
-#EXTINF:-1,WSBB Radio - WSBB
-http://quarrel.str3am.com:7290/live-aac
-#EXTINF:-1,KBRD AM 680 - KBRD
-http://205.134.192.90:680/
-#EXTINF:-1,WVTF Public Radio - WVTU
-http://wvtf-ice.streamguys1.com/wvtfmusic-mp3-128
-#EXTINF:-1,WHPK - WHPK-FM
-http://205.208.30.113:8000/stream
-#EXTINF:-1,88.7 The Sound
-http://streaming.siue.edu:8000/wsie.mp3
-#EXTINF:-1,KVMR
-http://live.kvmr.org:8000/aac32
-#EXTINF:-1,Life 103.1 FM - WLHC
-http://26293.live.streamtheworld.com:80/WLHCFMAAC_SC
-#EXTINF:-1,Jazz 88.3 - KSDS
-http://ksds-ice.streamguys1.com/ksds.mp3
-#EXTINF:-1,Radio Active - WRLR-LP
-http://usa5.fastcast4u.com:16372/stream
-#EXTINF:-1,Radio IQ - WVTF
-http://wvtf-ice.streamguys1.com/radioiq-mp3-128
-#EXTINF:-1,WGUC 90.9 Jazz - WGUC-HD2
-http://cpr.streamguys1.com:80/noads-jazz
-#EXTINF:-1,JAZZ 88 FM - KBEM-FM
-http://kbem-live.streamguys1.com/kbem_aac
-#EXTINF:-1,NCPR - WSLZ
-http://ncpr-ice.streamguys1.com:80/ncpr-256k.aac
-#EXTINF:-1,WLRN Radio - WLRN-FM
-http://34.229.50.21/wlrnpublicmedia-wlrnfmmp3-imc1?session-id=37410b1a9c7bc369eabdaa9de6f1acf1
-#EXTINF:-1,1480 AM WABF - WABF
-https://ice41.securenetsystems.net/WABF
-#EXTINF:-1,Ici Musique Toronto - CJBC-FM
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OTOR0_TOR
-#EXTINF:-1,Opus 1510 AM - XEQI
-https://s5.mexside.net:8090/stream
-#EXTINF:-1,Lounge FM 96
-http://37.1.145.21:9003/
-#EXTINF:-1,SQCS Chetumal FM - XHCHE
-http://sp2.servidorrprivado.com:3981/stream/
-#EXTINF:-1,Ici Musique Estrie - CBFX-FM-2
-http://sc3.dfw.llnw.net:80/stream/cbcmp3_M-7QSHE0_SHE
-#EXTINF:-1,FM 107.1 MemoRieS - DZLL
-http://199.195.194.140:8124/
-#EXTINF:-1,Coral Coast Radio 94.7FM
-http://165.228.147.198:88/broadwave.mp3?src=1&amprate=1
-#EXTINF:-1,Ici Musique - CBAX-FM-2
-http://sc1.yul.llnw.net:80/stream/cbcmp3_M-7EMCT0_MCT
-#EXTINF:-1,Radio Chapingo - XEUACH
-http://listen.mixlr.com/fc4739c822487274d4134e14dc1d7bf6
-#EXTINF:-1,KLCBS
-http://streaming.klcbsofficial.com/listen/klcbs/klcbs
-#EXTINF:-1,Ici Musique Edmonton - CBCX-FM-1
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM
-#EXTINF:-1,Complice FM
-http://dattavolt.com:8422/stream
+https://das-edge14-live365-dal02.cdnstream.com/a28787
+#EXTINF:-1,Smooth Jazz Zone
+https://das-edge14-live365-dal02.cdnstream.com/a34193
+#EXTINF:-1,Spectrum of Music
+https://das-edge10-live365-dal03.cdnstream.com/a12852
+#EXTINF:-1,Smooth Jazz & More WJTI Milwaukee FM 102.5 
+https://das-edge10-live365-dal03.cdnstream.com/a34543
+#EXTINF:-1,DS Fly Waves Radio
+https://das-edge16-live365-dal02.cdnstream.com/a22189
+#EXTINF:-1, . Jazzy 107.5
+https://das-edge10-live365-dal03.cdnstream.com/a25436
+#EXTINF:-1,Magenta Radio
+https://das-edge16-live365-dal02.cdnstream.com/a37755
+#EXTINF:-1,Smooth Jazz CD 101.9 Christmas
+https://das-edge09-live365-dal03.cdnstream.com/a36687
+#EXTINF:-1,Smooth Jazz Palm Beach 
+https://das-edge16-live365-dal02.cdnstream.com/a44690
+#EXTINF:-1,Smooth Jazz Mix New York
+https://das-edge09-live365-dal03.cdnstream.com/a49349
+#EXTINF:-1,Smooth Jazz Station
+https://das-edge14-live365-dal02.cdnstream.com/a56314
+#EXTINF:-1,Adventures In Black Sunshine
+https://das-edge09-live365-dal03.cdnstream.com/a64490
+#EXTINF:-1,Contemporary Jazz Classics
+https://das-edge14-live365-dal02.cdnstream.com/a65965
+#EXTINF:-1,Smooth Jazz Tampa
+https://das-edge09-live365-dal03.cdnstream.com/a71930
+#EXTINF:-1,iCu Radio
+https://das-edge16-live365-dal02.cdnstream.com/a24399
+#EXTINF:-1,My Daddy's Music: Jazz from the 50s &60s
+https://das-edge14-live365-dal02.cdnstream.com/a26248
+#EXTINF:-1,Smooth Jazz Florida
+https://das-edge16-live365-dal02.cdnstream.com/a57422
+#EXTINF:-1,AceRadio.Net - The Vocal Jazz Channel
+https://das-edge14-live365-dal02.cdnstream.com/a97717
+#EXTINF:-1,Smooth Jazz Relax
+https://das-edge14-live365-dal02.cdnstream.com/a64428
+#EXTINF:-1,Smooth Jazz FM
+https://das-edge12-live365-dal02.cdnstream.com/a56381
+#EXTINF:-1,WSLQ I-RADIO
+https://das-edge12-live365-dal02.cdnstream.com/a50261
+#EXTINF:-1,K-TOR3: Radio Swing Worldwide
+https://das-edge17-live365-dal02.cdnstream.com/a97874
+#EXTINF:-1,Majic 97 KJMG-DB "The Soul of the City"
+https://das-edge15-live365-dal02.cdnstream.com/a87685
+#EXTINF:-1,WMBM Radio
+https://das-edge17-live365-dal02.cdnstream.com/a79054
+#EXTINF:-1,South Florida Smooth Jazz
+https://das-edge15-live365-dal02.cdnstream.com/a67253
+#EXTINF:-1,RadioDaddio's Magical Mystical Jukebox
+https://das-edge17-live365-dal02.cdnstream.com/a17618
+#EXTINF:-1,Groovinjazz.com
+https://das-edge11-live365-dal03.cdnstream.com/a79602
+#EXTINF:-1,IEMMA Broadcast Network
+https://das-edge11-live365-dal03.cdnstream.com/a82425
+#EXTINF:-1,JAMU
+https://das-edge17-live365-dal02.cdnstream.com/a04468
+#EXTINF:-1,Give Me A Chance Radio
+https://das-edge11-live365-dal03.cdnstream.com/a49649
+#EXTINF:-1,WWOC Radio
+https://das-edge11-live365-dal03.cdnstream.com/a43248
+#EXTINF:-1,Sounds Of Insanity Radio
+https://das-edge15-live365-dal02.cdnstream.com/a88208
+#EXTINF:-1,Nocturnal Radio
+https://das-edge15-live365-dal02.cdnstream.com/a70216
+#EXTINF:-1,KEEP
+https://das-edge11-live365-dal03.cdnstream.com/a85804
+#EXTINF:-1,Smooth Jazz Groove
+https://das-edge15-live365-dal02.cdnstream.com/a84811
+#EXTINF:-1,PrayzMyx96.net
+https://das-edge15-live365-dal02.cdnstream.com/a94986
+#EXTINF:-1,Mountain Town Radio
+https://das-edge11-live365-dal03.cdnstream.com/a74617
+#EXTINF:-1,KRZM Radio
+https://das-edge17-live365-dal02.cdnstream.com/a46954
+#EXTINF:-1,The CoolStream
+https://das-edge17-live365-dal02.cdnstream.com/a27558
+#EXTINF:-1,Smooth Jazz Wave Sarasota
+https://das-edge11-live365-dal03.cdnstream.com/a27964
+#EXTINF:-1,Eclypse Radio
+https://das-edge15-live365-dal02.cdnstream.com/a22180
+#EXTINF:-1,Century  Style Radio
+https://das-edge11-live365-dal03.cdnstream.com/a81004
+#EXTINF:-1,High On Tunes Radio
+https://das-edge12-live365-dal02.cdnstream.com/a41473
+#EXTINF:-1,SMOOTH JAZZ 24/7
+https://das-edge17-live365-dal02.cdnstream.com/a67340
+#EXTINF:-1,WFMC Jams
+https://das-edge12-live365-dal02.cdnstream.com/a14828
+#EXTINF:-1,smoothjazzclubmix.com
+https://das-edge12-live365-dal02.cdnstream.com/a69598
+#EXTINF:-1,Chayz Lounge Radio
+https://das-edge12-live365-dal02.cdnstream.com/a38413
+#EXTINF:-1,Hipper Forever Radio
+https://das-edge17-live365-dal02.cdnstream.com/a78735
+#EXTINF:-1,The Den
+https://das-edge17-live365-dal02.cdnstream.com/a48976
+#EXTINF:-1,Smooth Groove Radio The Vibe
+https://das-edge11-live365-dal03.cdnstream.com/a53442
+#EXTINF:-1,Edtalk Radio
+https://das-edge10-live365-dal03.cdnstream.com/a03609
+#EXTINF:-1,PURPLE Radio
+https://das-edge16-live365-dal02.cdnstream.com/a43569
+#EXTINF:-1,Gospel on SoulfulMusicVibes HOH
+https://das-edge09-live365-dal03.cdnstream.com/a43522
+#EXTINF:-1,rádio BIZARRO
+https://das-edge16-live365-dal02.cdnstream.com/a07135
+#EXTINF:-1,RA Radio
+https://das-edge14-live365-dal02.cdnstream.com/a59158
+#EXTINF:-1,The Wave - We’re Daytona Beach's Jazz Station
+https://das-edge10-live365-dal03.cdnstream.com/a60961
+#EXTINF:-1,The Sounds of Brazil
+https://das-edge14-live365-dal02.cdnstream.com/a29263
+#EXTINF:-1,Mark Gaillard
+https://das-edge16-live365-dal02.cdnstream.com/a43113
+#EXTINF:-1,Cool Jazz USA
+https://das-edge14-live365-dal02.cdnstream.com/a02472
+#EXTINF:-1,JACKSONVILLE WNIC 92.7 THE BEAT JAMZ® 
+https://das-edge16-live365-dal02.cdnstream.com/a09549
+#EXTINF:-1,Hit Q
+https://das-edge10-live365-dal03.cdnstream.com/a43169
+#EXTINF:-1,Safiri Radio
+https://das-edge16-live365-dal02.cdnstream.com/a23201
+#EXTINF:-1,Neo Jazz Radio
+https://das-edge14-live365-dal02.cdnstream.com/a51631
+#EXTINF:-1,24.7 The Sail
+https://das-edge14-live365-dal02.cdnstream.com/a25504
+#EXTINF:-1,KPSA 97.9 JAMZ
+https://das-edge14-live365-dal02.cdnstream.com/a96656
+#EXTINF:-1,KBRG-DB:Los Angeles, Inland Empire, Oakland,Nashville, Las Vegas, Atlanta, New York,Houston, Moscow
+https://das-edge16-live365-dal02.cdnstream.com/a28997
+#EXTINF:-1,Cladrite Radio
+https://das-edge10-live365-dal03.cdnstream.com/a43564
+#EXTINF:-1,The Smooth Jazz Oasis
+https://das-edge09-live365-dal03.cdnstream.com/a86880
+#EXTINF:-1,Station Of The Stars - Tony Harris Radio
+https://das-edge16-live365-dal02.cdnstream.com/a32790
+#EXTINF:-1,Gospel Soul 103
+https://das-edge10-live365-dal03.cdnstream.com/a24513
+#EXTINF:-1,Vyberinth Radio
+https://das-edge10-live365-dal03.cdnstream.com/a12834
+#EXTINF:-1,First Choice Non-Medical Emergency Transportation Radio
+https://das-edge14-live365-dal02.cdnstream.com/a22006
+#EXTINF:-1,Studio1G
+https://das-edge10-live365-dal03.cdnstream.com/a91218
+#EXTINF:-1,Afterset
+https://das-edge14-live365-dal02.cdnstream.com/a83199
+#EXTINF:-1,PC Music Radio
+https://das-edge10-live365-dal03.cdnstream.com/a90500
+#EXTINF:-1,A Little Taste Of Heaven
+https://das-edge09-live365-dal03.cdnstream.com/a79939
+#EXTINF:-1, Spirit & Soul Radio
+https://das-edge14-live365-dal02.cdnstream.com/a14227
+#EXTINF:-1,RADIO EARTH
+https://das-edge14-live365-dal02.cdnstream.com/a40352
+#EXTINF:-1,QSKY Radio
+https://das-edge16-live365-dal02.cdnstream.com/a25372
+#EXTINF:-1,GAJ ONLINE RADIO
+https://das-edge10-live365-dal03.cdnstream.com/a16391
+#EXTINF:-1,KRAZY Queue
+https://das-edge09-live365-dal03.cdnstream.com/a35765
+#EXTINF:-1,Rat Patrol Radio - Wartime Tunes!
+https://das-edge09-live365-dal03.cdnstream.com/a43144
+#EXTINF:-1,Reminisce
+https://das-edge10-live365-dal03.cdnstream.com/a42875
+#EXTINF:-1,Movies Broadway Singers and Beyond
+https://das-edge14-live365-dal02.cdnstream.com/a41788
+#EXTINF:-1,Radio Bay Roberts
+https://das-edge14-live365-dal02.cdnstream.com/a32400
+#EXTINF:-1,WQMIX World Wide Radio
+https://das-edge12-live365-dal02.cdnstream.com/a61038
+#EXTINF:-1,WMJROnline JazzFlight with Misty Jazzman
+https://das-edge12-live365-dal02.cdnstream.com/a08734
+#EXTINF:-1,URM Soul Power Radio
+https://das-edge12-live365-dal02.cdnstream.com/a08942
+#EXTINF:-1,B 1212 SMOOTH JAZZ
+https://das-edge13-live365-dal02.cdnstream.com/a67744
+#EXTINF:-1,Smooth Jazz Grooves Detroit
+https://das-edge12-live365-dal02.cdnstream.com/a54999
+#EXTINF:-1,W.E.F.A.M. MuZiQ Network
+https://das-edge13-live365-dal02.cdnstream.com/a95766
+#EXTINF:-1,108 Praise Radio - Live Streaming Radio
+https://das-edge12-live365-dal02.cdnstream.com/a70780
+#EXTINF:-1,WSJP-DB
+https://das-edge13-live365-dal02.cdnstream.com/a40516
+#EXTINF:-1,WCJS Radio
+https://das-edge12-live365-dal02.cdnstream.com/a11515
+#EXTINF:-1,Pure Austin Music Radio
+https://das-edge11-live365-dal03.cdnstream.com/a00509
+#EXTINF:-1,JavaJazz®     
+https://das-edge15-live365-dal02.cdnstream.com/a37088
+#EXTINF:-1,Smooth Jazz Smooth Wave
+https://das-edge11-live365-dal03.cdnstream.com/a94028
+#EXTINF:-1,The Reewind Radio Network WRRF 97.5 FM Urban Radio.
+https://das-edge13-live365-dal02.cdnstream.com/a79615
+#EXTINF:-1,VEGE Radio
+https://das-edge11-live365-dal03.cdnstream.com/a57453
+#EXTINF:-1,SOAS Radio
+https://das-edge12-live365-dal02.cdnstream.com/a20100
+#EXTINF:-1,Smooth Jazz California
+https://das-edge15-live365-dal02.cdnstream.com/a05653
+#EXTINF:-1,Radio Chicago internationale
+https://das-edge12-live365-dal02.cdnstream.com/a76526
+#EXTINF:-1,WeCare Radio
+https://das-edge13-live365-dal02.cdnstream.com/a53605
+#EXTINF:-1,WITHOUT WARNING RADIO
+https://das-edge13-live365-dal02.cdnstream.com/a63506
+#EXTINF:-1,Metromedia Radio®
+https://das-edge13-live365-dal02.cdnstream.com/a60835
+#EXTINF:-1,I Love Smooth Jazz
+https://das-edge11-live365-dal03.cdnstream.com/a61661
+#EXTINF:-1,MusicalTapestry Radio
+https://das-edge15-live365-dal02.cdnstream.com/a06852
+#EXTINF:-1,Smooth Jazz Smooth Wave Orlando
+https://das-edge11-live365-dal03.cdnstream.com/a15018
+#EXTINF:-1,Euphonic FM
+https://das-edge12-live365-dal02.cdnstream.com/a64617
+#EXTINF:-1, BLACKAPELLA PRAISE RADIO
+https://das-edge13-live365-dal02.cdnstream.com/a03656
+#EXTINF:-1,Blues After Hours
+https://das-edge13-live365-dal02.cdnstream.com/a56288
+#EXTINF:-1,Papaspiros Restaurant Greek
+https://das-edge12-live365-dal02.cdnstream.com/a48810
+#EXTINF:-1,Sober Studios: A PATH Production
+https://das-edge12-live365-dal02.cdnstream.com/a23097
+#EXTINF:-1,Smooth Jazz Florida Classics
+https://das-edge12-live365-dal02.cdnstream.com/a23167
+#EXTINF:-1,Bill Street Jazz and Music
+https://das-edge15-live365-dal02.cdnstream.com/a87418
+#EXTINF:-1,WDAN 99 SMOOTH FM
+https://das-edge17-live365-dal02.cdnstream.com/a97880
+#EXTINF:-1,Moody Mood Music
+https://das-edge15-live365-dal02.cdnstream.com/a76693
+#EXTINF:-1,Right Now Praizz Radio
+https://das-edge14-live365-dal02.cdnstream.com/a16896
+#EXTINF:-1,Barely Brothers Records Radio
+https://das-edge17-live365-dal02.cdnstream.com/a58492
+#EXTINF:-1,Love 94 
+https://das-edge17-live365-dal02.cdnstream.com/a48104
+#EXTINF:-1,Indiana Music Radio
+https://das-edge14-live365-dal02.cdnstream.com/a01580
+#EXTINF:-1,GLOBAL HITZ RADIO
+https://das-edge09-live365-dal03.cdnstream.com/a30821
+#EXTINF:-1,CurtJazz Radio
+https://das-edge09-live365-dal03.cdnstream.com/a09856
+#EXTINF:-1,Night Train Christmas
+https://das-edge09-live365-dal03.cdnstream.com/a20673
+#EXTINF:-1,AceRadio.Net - The Smooth Jazz Channel
+https://das-edge09-live365-dal03.cdnstream.com/a84369
+#EXTINF:-1,eargasm
+https://das-edge09-live365-dal03.cdnstream.com/a56858
+#EXTINF:-1,Groove101
+https://das-edge17-live365-dal02.cdnstream.com/a24805
+#EXTINF:-1,Sauk Prairie Radio
+https://das-edge14-live365-dal02.cdnstream.com/a69842
+#EXTINF:-1,Swingin' 105
+https://das-edge17-live365-dal02.cdnstream.com/a22025
+#EXTINF:-1,Groove Suite 
+https://das-edge17-live365-dal02.cdnstream.com/a87932
+#EXTINF:-1,                       92.6 Hot Radio UnderGround Sound
+https://das-edge15-live365-dal02.cdnstream.com/a38531
+#EXTINF:-1,Jazz Mix on SoulfulMusicVibes HOH
+https://das-edge09-live365-dal03.cdnstream.com/a37809
+#EXTINF:-1,Detroit Hot Radio
+https://das-edge14-live365-dal02.cdnstream.com/a60271
+#EXTINF:-1,Contemporary Jazz Global
+https://das-edge09-live365-dal03.cdnstream.com/a83406
+#EXTINF:-1,Regina Records Radio
+https://das-edge15-live365-dal02.cdnstream.com/a19657
+#EXTINF:-1,WSJZ 
+https://das-edge14-live365-dal02.cdnstream.com/a35248
+#EXTINF:-1,WVGT Smooth 97.1
+https://das-edge14-live365-dal02.cdnstream.com/a67431
+#EXTINF:-1,Easy Jazz FM
+https://das-edge15-live365-dal02.cdnstream.com/a17629
+#EXTINF:-1,SchaefRadio.com
+https://das-edge17-live365-dal02.cdnstream.com/a22077
+#EXTINF:-1,Vinyl Draught Radio
+https://das-edge14-live365-dal02.cdnstream.com/a81331
+#EXTINF:-1,Trombone Jazz Radio
+https://das-edge14-live365-dal02.cdnstream.com/a63077
+#EXTINF:-1,DEEP THOUGHT MEDIA 
+https://das-edge15-live365-dal02.cdnstream.com/a26720
+#EXTINF:-1,SomethingAnything Radio
+https://das-edge17-live365-dal02.cdnstream.com/a06527
+#EXTINF:-1,Coltrane Consciousness Radio 
+https://das-edge12-live365-dal02.cdnstream.com/a57377
+#EXTINF:-1,Hindsight Media Radio 103.5 FM
+https://das-edge12-live365-dal02.cdnstream.com/a04749
+#EXTINF:-1,ITI Music Live 365
+https://das-edge13-live365-dal02.cdnstream.com/a97531
+#EXTINF:-1,JAZZ FUSION RADIO
+https://das-edge13-live365-dal02.cdnstream.com/a45483
+#EXTINF:-1,The Quiet Vinyl  TM
+https://das-edge11-live365-dal03.cdnstream.com/a87329
+#EXTINF:-1,Power Jam  U.S.A.  Kansas City - Request (816) 765-3702
+https://das-edge11-live365-dal03.cdnstream.com/a21469
+#EXTINF:-1,The Mondaynitemike Radio Show
+https://das-edge11-live365-dal03.cdnstream.com/a79246
+#EXTINF:-1,Uncompromising Classic Soul Music
+https://das-edge11-live365-dal03.cdnstream.com/a33361
+#EXTINF:-1,RESLER RADIO
+https://das-edge13-live365-dal02.cdnstream.com/a69161
+#EXTINF:-1,PUSH Radio
+https://das-edge13-live365-dal02.cdnstream.com/a13848
+#EXTINF:-1,Smooth Jazz DC
+https://das-edge12-live365-dal02.cdnstream.com/a31989
+#EXTINF:-1,The Jazz Century
+https://das-edge12-live365-dal02.cdnstream.com/a16998
+#EXTINF:-1,Claymars Radio
+https://das-edge11-live365-dal03.cdnstream.com/a75069
+#EXTINF:-1,The Jazz Cruze
+https://das-edge13-live365-dal02.cdnstream.com/a49608
+#EXTINF:-1,Smooth Jazz 97 3 The Bay
+https://das-edge15-live365-dal02.cdnstream.com/a05249
+#EXTINF:-1,WQJZ Quiet Jazz
+https://das-edge12-live365-dal02.cdnstream.com/a20262
+#EXTINF:-1,The Inner Sanctum
+https://das-edge13-live365-dal02.cdnstream.com/a80891
+#EXTINF:-1,Radio M and M
+https://das-edge12-live365-dal02.cdnstream.com/a56979
+#EXTINF:-1,Broken Road Radio
+https://das-edge12-live365-dal02.cdnstream.com/a68019
+#EXTINF:-1,Smooth Jazz Miami
+https://das-edge15-live365-dal02.cdnstream.com/a46804
+#EXTINF:-1,SLA SWING
+https://das-edge15-live365-dal02.cdnstream.com/a63826
+#EXTINF:-1,The Cove
+https://das-edge11-live365-dal03.cdnstream.com/a78718
+#EXTINF:-1,Christ Really Exist Radio
+https://das-edge15-live365-dal02.cdnstream.com/a58297
+#EXTINF:-1,Art Stevens Radio
+https://das-edge12-live365-dal02.cdnstream.com/a80201
+#EXTINF:-1,WQCW-DB Internet Radio
+https://das-edge15-live365-dal02.cdnstream.com/a70218
+#EXTINF:-1,Jaundoo Radio
+https://das-edge15-live365-dal02.cdnstream.com/a40639
+#EXTINF:-1,Springfield Community Broadcasters / QNA
+https://das-edge12-live365-dal02.cdnstream.com/a38152
+#EXTINF:-1, 97five.net
+https://das-edge13-live365-dal02.cdnstream.com/a19385
+#EXTINF:-1,FREEKRADIO
+https://das-edge12-live365-dal02.cdnstream.com/a44752
+#EXTINF:-1,Mind To Music Radio
+https://das-edge15-live365-dal02.cdnstream.com/a19849
+#EXTINF:-1,Kstarrs Internet Radio Services
+https://das-edge11-live365-dal03.cdnstream.com/a00702
+#EXTINF:-1,Urban Zone Radio™
+https://das-edge15-live365-dal02.cdnstream.com/a38522
+#EXTINF:-1,Horn Driven Radio
+https://das-edge15-live365-dal02.cdnstream.com/a62479
+#EXTINF:-1,MediaAttic Radio
+https://das-edge09-live365-dal03.cdnstream.com/a08347
+#EXTINF:-1,NWOL Gospel Radio Station
+https://das-edge16-live365-dal02.cdnstream.com/a08791
+#EXTINF:-1,SOS - Sound Of The Strand - Beach and Shag
+https://das-edge09-live365-dal03.cdnstream.com/a20149
+#EXTINF:-1,3 Guys Talking Smack & Listening to Music 
+https://das-edge10-live365-dal03.cdnstream.com/a22830
+#EXTINF:-1,Smooth Jazz Wave
+https://das-edge09-live365-dal03.cdnstream.com/a64254
+#EXTINF:-1,Big Bands, Tríos, y Más
+https://das-edge10-live365-dal03.cdnstream.com/a49414
+#EXTINF:-1,Spotlight on Lancaster 
+https://das-edge09-live365-dal03.cdnstream.com/a61451
+#EXTINF:-1,CoverTunez Radio
+https://das-edge10-live365-dal03.cdnstream.com/a98617
+#EXTINF:-1,Family Entertainment Radio
+https://das-edge10-live365-dal03.cdnstream.com/a33365
+#EXTINF:-1,WSRN-DB jazzoasismaine
+https://das-edge11-live365-dal03.cdnstream.com/a36470
+#EXTINF:-1,Smooth Jazz Box
+https://das-edge09-live365-dal03.cdnstream.com/a54993
+#EXTINF:-1,Power To Make A Difference Radio Show With David Nathan
+https://das-edge16-live365-dal02.cdnstream.com/a78783
+#EXTINF:-1,ILLADELPHIA RADIO
+https://das-edge09-live365-dal03.cdnstream.com/a92856
+#EXTINF:-1,ISSA RADIO
+https://das-edge10-live365-dal03.cdnstream.com/a49672
+#EXTINF:-1,Smooth Jazz WNUA Chicago 
+https://das-edge11-live365-dal03.cdnstream.com/a63182
+#EXTINF:-1,Jazz Variations
+https://das-edge11-live365-dal03.cdnstream.com/a40674
+#EXTINF:-1,Buffalo WDAP Radio
+https://das-edge10-live365-dal03.cdnstream.com/a42580
+#EXTINF:-1,Smooth Jazz Online
+https://das-edge10-live365-dal03.cdnstream.com/a70314
+#EXTINF:-1,JPRG Radio
+https://das-edge11-live365-dal03.cdnstream.com/a52167
+#EXTINF:-1,Smooth Jazz Classics
+https://das-edge09-live365-dal03.cdnstream.com/a06842
+#EXTINF:-1,Route 664 Radio
+https://das-edge10-live365-dal03.cdnstream.com/a93922
+#EXTINF:-1,CT Jamz
+https://das-edge11-live365-dal03.cdnstream.com/a15934
+#EXTINF:-1,Love Of Life Radio
+https://das-edge10-live365-dal03.cdnstream.com/a11567
+#EXTINF:-1,Dr Afrika Live365
+https://das-edge09-live365-dal03.cdnstream.com/a09568
+#EXTINF:-1,WZQR.FM Big Band
+https://das-edge09-live365-dal03.cdnstream.com/a21353
+#EXTINF:-1,New Day Radio
+https://das-edge16-live365-dal02.cdnstream.com/a59165
+#EXTINF:-1,Teerex Radio Teerex
+https://das-edge10-live365-dal03.cdnstream.com/a74387
+#EXTINF:-1,Breezy912.com
+https://das-edge11-live365-dal03.cdnstream.com/a46526
+#EXTINF:-1,101 SMOOTH JAZZ
+https://das-edge09-live365-dal03.cdnstream.com/a55660
+#EXTINF:-1,Philly Live Radio
+https://das-edge11-live365-dal03.cdnstream.com/a32282
+#EXTINF:-1,WNOV 860AM 106.5FM
+https://das-edge10-live365-dal03.cdnstream.com/a61497
+#EXTINF:-1,Rinolicious Radio
+https://das-edge17-live365-dal02.cdnstream.com/a91223
+#EXTINF:-1,VisionBroadcast
+https://das-edge11-live365-dal03.cdnstream.com/a26009
+#EXTINF:-1,UHyped Radio
+https://das-edge17-live365-dal02.cdnstream.com/a47370
+#EXTINF:-1,Jazzmix95
+https://das-edge17-live365-dal02.cdnstream.com/a81027
+#EXTINF:-1,Directions In Music
+https://das-edge17-live365-dal02.cdnstream.com/a83864
+#EXTINF:-1,Metropics Radio
+https://das-edge17-live365-dal02.cdnstream.com/a56368
+#EXTINF:-1,The Wave - Daytona Beach's Smooth Jazz Classics
+https://das-edge11-live365-dal03.cdnstream.com/a22202
+#EXTINF:-1,NANCY PRESENTS
+https://das-edge17-live365-dal02.cdnstream.com/a28022
+#EXTINF:-1,KBAT Variety Internet Radio
+https://das-edge17-live365-dal02.cdnstream.com/a29006
+#EXTINF:-1,Pure Radio
+https://das-edge12-live365-dal02.cdnstream.com/a60549
+#EXTINF:-1,Racketeer Radio KFQX
+https://das-edge12-live365-dal02.cdnstream.com/a33242
+#EXTINF:-1,Beyond Me Radio
+https://das-edge11-live365-dal03.cdnstream.com/a34331
+#EXTINF:-1,Smooth Global Radio
+https://das-edge11-live365-dal03.cdnstream.com/a48529
+#EXTINF:-1,Island Hits Radio
+https://das-edge17-live365-dal02.cdnstream.com/a86176
+#EXTINF:-1,WSTB Saints Radio
+https://das-edge15-live365-dal02.cdnstream.com/a41889
+#EXTINF:-1,GCFX Global Radio
+https://das-edge12-live365-dal02.cdnstream.com/a70810
+#EXTINF:-1,Serious Love Songs
+https://das-edge15-live365-dal02.cdnstream.com/a46284
+#EXTINF:-1,Small Town Global Radio
+https://das-edge17-live365-dal02.cdnstream.com/a32814
+#EXTINF:-1,FCB Cool
+https://das-edge15-live365-dal02.cdnstream.com/a18010
+#EXTINF:-1,We Believe Radio
+https://das-edge12-live365-dal02.cdnstream.com/a93934
+#EXTINF:-1,WELA/ we love atlanta,classic R&B/classic soul/smooth jazz 
+https://das-edge11-live365-dal03.cdnstream.com/a56332
+#EXTINF:-1,Black Swan Radio
+https://das-edge12-live365-dal02.cdnstream.com/a83365
+#EXTINF:-1,BRJP Radio
+https://das-edge11-live365-dal03.cdnstream.com/a08361
+#EXTINF:-1,Celtic Salmon
+https://das-edge11-live365-dal03.cdnstream.com/a55531
+#EXTINF:-1,WMEL Radio "Where The Good Music Lives"
+https://das-edge15-live365-dal02.cdnstream.com/a39879
+#EXTINF:-1,Chestnut Radio
+https://das-edge12-live365-dal02.cdnstream.com/a88316
+#EXTINF:-1,Mr. Stacy Radio
+https://das-edge17-live365-dal02.cdnstream.com/a82768
+#EXTINF:-1,Smooth Jazz USA
+https://das-edge17-live365-dal02.cdnstream.com/a65964
+#EXTINF:-1,WEJR...WE Jam "the old skool r&b" Right
+https://das-edge17-live365-dal02.cdnstream.com/a80874
+#EXTINF:-1,Houndstooth
+https://das-edge11-live365-dal03.cdnstream.com/a28149
+#EXTINF:-1,Smooth Jazz CD 101.9 New York
+https://das-edge12-live365-dal02.cdnstream.com/a43749
+#EXTINF:-1,Gentle Praise from Family Life
+https://das-edge10-live365-dal03.cdnstream.com/a59845
+#EXTINF:-1,Mack Avenue Radio
+https://das-edge09-live365-dal03.cdnstream.com/a17004
+#EXTINF:-1,KTRY-DB Radio Gospel & Jazz
+https://das-edge09-live365-dal03.cdnstream.com/a03023
+#EXTINF:-1,VRP Internet Radio
+https://das-edge09-live365-dal03.cdnstream.com/a83623
+#EXTINF:-1,The Hiess Experience 
+https://das-edge14-live365-dal02.cdnstream.com/a96207
+#EXTINF:-1,URBAN INFLUENCER RADIO
+https://das-edge10-live365-dal03.cdnstream.com/a95320
+#EXTINF:-1,Soul Radio Coast2coast
+https://das-edge09-live365-dal03.cdnstream.com/a28690
+#EXTINF:-1,SLP Radio
+https://das-edge10-live365-dal03.cdnstream.com/a91691
+#EXTINF:-1,On A Positive Note
+https://das-edge16-live365-dal02.cdnstream.com/a36202
+#EXTINF:-1,Radio Soul 100FM
+https://das-edge16-live365-dal02.cdnstream.com/a42985
+#EXTINF:-1,KRYZ-LPFM 98.5
+https://das-edge10-live365-dal03.cdnstream.com/a26246
+#EXTINF:-1,K-Jazz KKJZ 88.1 HD2
+https://das-edge16-live365-dal02.cdnstream.com/a45189
+#EXTINF:-1,SuperNova Radio
+https://das-edge10-live365-dal03.cdnstream.com/a31205
+#EXTINF:-1,The Jukebox Graduate
+https://das-edge14-live365-dal02.cdnstream.com/a45215
+#EXTINF:-1,KHAS Radio
+https://das-edge10-live365-dal03.cdnstream.com/a93264
+#EXTINF:-1,The Frequency
+https://das-edge10-live365-dal03.cdnstream.com/a61439
+#EXTINF:-1,WSOL-LEXSOUL
+https://das-edge16-live365-dal02.cdnstream.com/a50982
+#EXTINF:-1,LEO'S CASINO RADIO
+https://das-edge10-live365-dal03.cdnstream.com/a45657
+#EXTINF:-1,The Jazz Funk Soul Movement
+https://das-edge10-live365-dal03.cdnstream.com/a45909
+#EXTINF:-1,WMHB 89.7 FM
+https://das-edge09-live365-dal03.cdnstream.com/a46702
+#EXTINF:-1,Jazz Expressions Radio
+https://das-edge09-live365-dal03.cdnstream.com/a47071
+#EXTINF:-1,The Jazz Garden
+https://das-edge16-live365-dal02.cdnstream.com/a50070
+#EXTINF:-1,M3 Radio
+https://das-edge09-live365-dal03.cdnstream.com/a50800
+#EXTINF:-1,TCBM iRadio
+https://das-edge16-live365-dal02.cdnstream.com/a66793
+#EXTINF:-1,The Classic Pop Songbook
+https://das-edge09-live365-dal03.cdnstream.com/a51720
+#EXTINF:-1,New Jack Flava ®
+https://das-edge09-live365-dal03.cdnstream.com/a53324
+#EXTINF:-1,First Formula Radio
+https://das-edge09-live365-dal03.cdnstream.com/a27979
+#EXTINF:-1,The WAV
+https://das-edge10-live365-dal03.cdnstream.com/a57686
+#EXTINF:-1,FJS (Funky, Jazzy & Smooth) with KD
+https://das-edge10-live365-dal03.cdnstream.com/a62320
+#EXTINF:-1,101 SMOOTH JAZZ MELLOW MIX
+https://das-edge14-live365-dal02.cdnstream.com/a62400
+#EXTINF:-1,K-Groove Radio
+https://das-edge16-live365-dal02.cdnstream.com/a37342
+#EXTINF:-1,BushrodMusic
+https://das-edge09-live365-dal03.cdnstream.com/a64515
+#EXTINF:-1,Deep Nuggets Radio
+https://das-edge17-live365-dal02.cdnstream.com/a73363
+#EXTINF:-1,Pulse 880 Radio
+https://das-edge17-live365-dal02.cdnstream.com/a47194
+#EXTINF:-1,Nostalgic Radio
+https://das-edge17-live365-dal02.cdnstream.com/a67299
+#EXTINF:-1,Tell the World Radio
+https://das-edge11-live365-dal03.cdnstream.com/a67901
+#EXTINF:-1,Smooth Jazz Florida Christmas 
+https://das-edge12-live365-dal02.cdnstream.com/a69399
+#EXTINF:-1,Romance- All Day, All Night, All Right
+https://das-edge12-live365-dal02.cdnstream.com/a72661
+#EXTINF:-1,Jazz On The Bay Tampa
+https://das-edge17-live365-dal02.cdnstream.com/a59232
+#EXTINF:-1,Tonsoffun
+https://das-edge15-live365-dal02.cdnstream.com/a26773
+#EXTINF:-1,Radio Cherry Hill
+https://das-edge11-live365-dal03.cdnstream.com/a84169
+#EXTINF:-1,AccessRadio247
+https://das-edge11-live365-dal03.cdnstream.com/a88998
+#EXTINF:-1,Radio4u
+https://das-edge11-live365-dal03.cdnstream.com/a89886
+#EXTINF:-1,LoveSmoothJazz.com
+https://das-edge17-live365-dal02.cdnstream.com/a89335
+#EXTINF:-1,Smooth Jazz On The Rocks Radio
+https://das-edge15-live365-dal02.cdnstream.com/a92135
+#EXTINF:-1,24.7 CTR1: Cool Tunes Radio
+https://das-edge11-live365-dal03.cdnstream.com/a93911
+#EXTINF:-1,Aloha KIHL 103.7 FM
+https://das-edge12-live365-dal02.cdnstream.com/a95022
+#EXTINF:-1,The Mixx Radio Station
+https://das-edge12-live365-dal02.cdnstream.com/a98419
+#EXTINF:-1,WSON  FM  Sonshine 100
+https://das-edge17-live365-dal02.cdnstream.com/a08114
+#EXTINF:-1,WWVL 93.1 Smooth Jazz
+https://das-edge12-live365-dal02.cdnstream.com/a76245
+#EXTINF:-1,TyeDyeBlues 
+https://das-edge11-live365-dal03.cdnstream.com/a82860
+#EXTINF:-1,Peaks Island Radio
+https://das-edge12-live365-dal02.cdnstream.com/a55024
+#EXTINF:-1,88.1 The Grizz - KBTL
+https://das-edge17-live365-dal02.cdnstream.com/a50927
+#EXTINF:-1,WIWS PopSounds
+https://das-edge12-live365-dal02.cdnstream.com/a77996
+#EXTINF:-1,WDCE 90.1 FM
+https://das-edge11-live365-dal03.cdnstream.com/a39711
+#EXTINF:-1,OBS Radio 103.9 FM
+https://das-edge12-live365-dal02.cdnstream.com/a74038
+#EXTINF:-1,The Source:Smooth Jazz Radio - KJAC.DB
+https://das-edge11-live365-dal03.cdnstream.com/a53019
+#EXTINF:-1,Melanin Magic Radio
+https://das-edge15-live365-dal02.cdnstream.com/a01245
+#EXTINF:-1,Coast Jazz Radio
+https://das-edge17-live365-dal02.cdnstream.com/a75876
+#EXTINF:-1,Starlight Lounge Radio - Las Vegas 
+https://das-edge11-live365-dal03.cdnstream.com/a51615
+#EXTINF:-1,Manzanita Radio
+https://das-edge17-live365-dal02.cdnstream.com/a78865
+#EXTINF:-1,Saxonburgradio.com
+https://das-edge12-live365-dal02.cdnstream.com/a89224
+#EXTINF:-1,Kickynit Satellite Radio
+https://das-edge17-live365-dal02.cdnstream.com/a64542
+#EXTINF:-1,WSAN Radio San Antonio
+https://das-edge11-live365-dal03.cdnstream.com/a40077
+#EXTINF:-1,Star pro radio
+https://das-edge17-live365-dal02.cdnstream.com/a24894
+#EXTINF:-1,Flaming 89
+https://das-edge13-live365-dal02.cdnstream.com/a92005
+#EXTINF:-1,Jazz Club Radio
+https://das-edge15-live365-dal02.cdnstream.com/a78086
+#EXTINF:-1,KFNB Radio
+https://das-edge15-live365-dal02.cdnstream.com/a81231
+#EXTINF:-1,BMB Soul Radio 365
+https://das-edge14-live365-dal02.cdnstream.com/a65425
+#EXTINF:-1,Jazz from Gallery 41
+https://das-edge12-live365-dal02.cdnstream.com/a94394
+#EXTINF:-1,All POWER Access
+https://das-edge12-live365-dal02.cdnstream.com/a25655
+#EXTINF:-1,Jazz Therapy
+https://das-edge12-live365-dal02.cdnstream.com/a96879
+#EXTINF:-1,2B1 Radio, LLC
+https://das-edge15-live365-dal02.cdnstream.com/a68567
+#EXTINF:-1,WPNG-DB Pongid Radio
+https://das-edge13-live365-dal02.cdnstream.com/a36046
+#EXTINF:-1,KDAB™radio
+https://das-edge14-live365-dal02.cdnstream.com/a20478
+#EXTINF:-1,WUBS 89.7FM Radio
+https://das-edge12-live365-dal02.cdnstream.com/a11406
+#EXTINF:-1,G.I. Jive Radio
+https://das-edge13-live365-dal02.cdnstream.com/a21441
+#EXTINF:-1,JAZZ AT SUNSET
+https://das-edge12-live365-dal02.cdnstream.com/a83455
+#EXTINF:-1,JAZZ1CAFE
+https://das-edge15-live365-dal02.cdnstream.com/a77906

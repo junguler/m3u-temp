@@ -30,8 +30,7 @@ function parseM3UContent(m3uContent) {
     if (line.startsWith('#EXTINF')) {
       currentTitle = line;
       currentTitleLineIndex = i;
-    } else if (line.startsWith('http://') || line.startsWith('https://')) {
-      // Explicitly check for http/https
+    } else if (line.startsWith('http://') || line.startsWith('https://')) { // Explicitly check for http/https
       linksToProcess.push({
         title: currentTitle,
         url: line,
@@ -147,15 +146,17 @@ async function processLinks(linksToProcess, fileName) {
 
 /**
  * Generates the content for the checked M3U playlist.
- * This function is now more robust in preserving non-stream lines.
  * @param {string} originalM3uContent - The original M3U content.
- * @param {Map<number, {titleLine: string, urlLine: string}>} tempValidLinks - Map of valid links by their original URL line index, with potentially updated URLs.
+ * @param {Map<number, {titleLine: string, urlLine: string}>} tempValidLinks - Map of valid links by their original line index, with potentially updated URLs.
  * @returns {string} The content of the cleaned M3U playlist.
  */
 function generateOutputM3U(originalM3uContent, tempValidLinks) {
   const originalLines = originalM3uContent.split('\n');
-  const outputLines = ['#EXTM3U']; // Always start with #EXTM3U
-  const addedLines = new Set(['#EXTM3U']); // Keep track of lines already added to avoid duplicates
+  const validLinksContent = [];
+  const finalOutputLines = new Set(); // Use a Set to avoid duplicate lines in output
+
+  validLinksContent.push('#EXTM3U');
+  finalOutputLines.add('#EXTM3U'); // Add it to the set to prevent re-adding if found later
 
   for (let i = 0; i < originalLines.length; i++) {
     const line = originalLines[i].trim();
@@ -164,51 +165,45 @@ function generateOutputM3U(originalM3uContent, tempValidLinks) {
       continue; // Skip the original #EXTM3U as we added it at the beginning
     }
 
-    // Handle #EXTINF followed by a URL
     if (line.startsWith('#EXTINF')) {
       const nextLineIndex = i + 1;
       if (nextLineIndex < originalLines.length) {
         const nextLine = originalLines[nextLineIndex].trim();
         // Check if the current #EXTINF has a corresponding valid URL on the next line
-        if (
-          (nextLine.startsWith('http://') || nextLine.startsWith('https://')) &&
-          tempValidLinks.has(nextLineIndex)
-        ) {
+        // The key in tempValidLinks is the index of the URL line itself.
+        if ((nextLine.startsWith('http://') || nextLine.startsWith('https://')) && tempValidLinks.has(nextLineIndex)) {
           const { titleLine, urlLine } = tempValidLinks.get(nextLineIndex);
-          if (!addedLines.has(titleLine)) {
-            outputLines.push(titleLine);
-            addedLines.add(titleLine);
+          if (!finalOutputLines.has(titleLine)) {
+            validLinksContent.push(titleLine);
+            finalOutputLines.add(titleLine);
           }
-          if (!addedLines.has(urlLine)) {
-            outputLines.push(urlLine);
-            addedLines.add(urlLine);
+          // Here, we use the potentially updated `urlLine` from `tempValidLinks`
+          if (!finalOutputLines.has(urlLine)) {
+            validLinksContent.push(urlLine);
+            finalOutputLines.add(urlLine);
           }
           i = nextLineIndex; // Skip the URL line as it's already processed with its #EXTINF
-          continue; // Move to the next iteration
         }
       }
-    }
-    // Handle standalone HTTP/HTTPS links (without an #EXTINF directly above them)
-    // or HTTP/HTTPS links that *were* preceded by #EXTINF but deemed invalid
-    else if (line.startsWith('http://') || line.startsWith('https://')) {
-      // If this specific URL line itself (by its original index) was marked as valid
+    } else if (line.startsWith('http://') || line.startsWith('https://')) {
+      // Handle standalone HTTP links without an #EXTINF line immediately above
       if (tempValidLinks.has(i)) {
-        const { urlLine } = tempValidLinks.get(i); // This would also contain its title if parsed with #EXTINF
-        if (!addedLines.has(urlLine)) {
-          outputLines.push(urlLine);
-          addedLines.add(urlLine);
+        // Here, we use the potentially updated `urlLine` from `tempValidLinks`
+        const { urlLine } = tempValidLinks.get(i);
+        if (!finalOutputLines.has(urlLine)) {
+          validLinksContent.push(urlLine);
+          finalOutputLines.add(urlLine);
         }
       }
-      continue; // Move to the next iteration
-    }
-
-    // Preserve any other non-empty lines (e.g., comments, #EXTGRP, etc.)
-    if (line.length > 0 && !addedLines.has(line)) {
-      outputLines.push(line);
-      addedLines.add(line);
+    } else {
+      // Preserve other lines that are not #EXTINF or http links, e.g., comments, empty lines
+      if (line.trim() !== '' && !finalOutputLines.has(line)) {
+        validLinksContent.push(line);
+        finalOutputLines.add(line);
+      }
     }
   }
-  return outputLines.join('\n');
+  return validLinksContent.join('\n');
 }
 
 /**
@@ -241,40 +236,22 @@ async function main(inputDir, outputDir) {
       const linksToProcess = parseM3UContent(originalM3uContent);
       console.log(`  Found ${linksToProcess.length} stream links.`);
 
-      // Case 1: No stream links were found at all by the parser
       if (linksToProcess.length === 0) {
-        const outputM3uContent = generateOutputM3U(originalM3uContent, new Map());
-        // If, after preserving other M3U tags, the output is only '#EXTM3U',
-        // then the file effectively contained no streams or meaningful content.
-        if (outputM3uContent.trim() !== '#EXTM3U') {
-          const outputPath = path.join(outputDir, fileName);
-          await fs.writeFile(outputPath, outputM3uContent, 'utf8');
-          console.log(
-            `  "${fileName}" had no stream links but contained other M3U data. Saved to "${outputPath}"`,
-          );
-        } else {
-          console.log(
-            `  "${fileName}" contained only the M3U header or no valid streams (initial parse). Skipping output.`,
-          );
-        }
-        continue; // Move to the next file
+        console.log(`  No stream links found in "${fileName}". Copying as-is.`);
+        await fs.writeFile(
+          path.join(outputDir, fileName),
+          originalM3uContent,
+          'utf8',
+        );
+        continue;
       }
 
-      // Case 2: Stream links were found, now check their validity
       const tempValidLinks = await processLinks(linksToProcess, fileName);
 
       const validStreamCount = tempValidLinks.size;
       console.log(
         `  Check complete for "${fileName}". Found ${validStreamCount} valid streams out of ${linksToProcess.length}.`,
       );
-
-      // Condition 2: Exclude if none of the links are status coded 200
-      if (validStreamCount === 0) {
-        console.log(
-          `  "${fileName}" has no valid (200 OK) streams after checking. Skipping output.`,
-        );
-        continue; // Move to the next file without writing
-      }
 
       const outputFileName = fileName;
       const outputPath = path.join(outputDir, outputFileName);
@@ -283,16 +260,8 @@ async function main(inputDir, outputDir) {
         tempValidLinks,
       );
 
-      // Final check: ensure the generated output M3U isn't just '#EXTM3U' if validStreamCount > 0
-      // This is a safety check, in theory, if validStreamCount > 0, this shouldn't happen.
-      if (outputM3uContent.trim() === '#EXTM3U') {
-        console.warn(
-          `  WARNING: "${fileName}" had ${validStreamCount} valid streams, but output M3U is only '#EXTM3U'. Skipping output.`,
-        );
-      } else {
-        await fs.writeFile(outputPath, outputM3uContent, 'utf8');
-        console.log(`  Saved checked playlist to "${outputPath}"`);
-      }
+      await fs.writeFile(outputPath, outputM3uContent, 'utf8');
+      console.log(`  Saved checked playlist to "${outputPath}"`);
     }
     console.log('\n--- All M3U files processed ---');
   } catch (error) {

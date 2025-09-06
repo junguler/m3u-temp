@@ -1,6 +1,7 @@
 #EXTM3U
-http://mr-stream.mediaconnect.hu/4748/mr7.mp3
-http://icast.connectmedia.hu/4759/mr6s.mp3
-http://icast.connectmedia.hu/4755/mr6g.mp3
-http://icast.connectmedia.hu/4753/mr6d.mp3
-http://icast.connectmedia.hu/4750/mr6p.mp3
+#EXTINF:-1,LibelulaChile.com
+https://sonic01.zglobalhost.com:7010/
+#EXTINF:-1,Radio Balkan
+https://radiobalkan.live/radio/live/narodna.mp3
+#EXTINF:-1,PENTAGRAMA LATINOAMERICANO Radio Folk
+https://sp14.priv-server.com/8010/stream

@@ -1,237 +1,333 @@
 #EXTM3U
-#EXTINF:-1,ORF Radio Steiermark 95.4
-http://orf-live.ors-shoutcast.at/stm-q2a
-#EXTINF:-1,ORF FM4
-http://orf-live.ors-shoutcast.at/fm4-q2a
-#EXTINF:-1,Life Radio Tirol 103.4 FM
-http://194.232.200.164:8000
-#EXTINF:-1,Radio Deqani
-http://streaming.jusahost.com:9994/stream/1
-#EXTINF:-1,Antenne Wien
-http://streamplus14.leonex.de:24954/stream/1
-#EXTINF:-1,Radio Technikum
-http://radiotechnikum.macjingle.at:8200/stream/1
-#EXTINF:-1,KRONEHIT Electric
-http://onair-ha1.krone.at/kronehit-electric.mp3
-#EXTINF:-1,KRONEHIT Fresh
-http://onair-ha1.krone.at/kronehit-fresh.mp3
-#EXTINF:-1,KRONEHIT Interactive
-http://onair-ha1.krone.at/kronehit-interactive.mp3
-#EXTINF:-1,KRONEHIT Love
-http://onair-ha1.krone.at/kronehit-love.mp3
-#EXTINF:-1,KRONEHIT UK Charts
-http://onair-ha1.krone.at/kronehit-ukcharts.mp3
-#EXTINF:-1,KRONEHIT US Charts
-http://onair-ha1.krone.at/kronehit-uscharts.mp3
-#EXTINF:-1,KRONEHIT Vollgas
-http://onair-ha1.krone.at/kronehit-vollgas.mp3
-#EXTINF:-1,NOW Radio
-http://stream.erf.at/nowradio_192
-#EXTINF:-1,Oldie Party Austria
-http://rs2.myradio24.de:8410
-#EXTINF:-1,Radio Soundportal
-http://rs8.stream24.net/stream
-#EXTINF:-1,Radio Arabella 92.9 FM
-http://arabella.stream.kapper.net:8000/arabellavie
-#EXTINF:-1,Radio Arabella Niederosterreich
-http://arabella.stream.kapper.net:8001/arabellanoe
-#EXTINF:-1,Radio B138 102.3 FM
-http://radiob138.out.airtime.pro:8000/radiob138_a
-#EXTINF:-1,Radio Max Billa
-http://listen.radiomax.technology/billa
-#EXTINF:-1,Radio Max Merkur
-http://listen.radiomax.technology/merkur
-#EXTINF:-1,Radio Max Penny
-http://listen.radiomax.technology/penny
-#EXTINF:-1,Radio Max Penny Italy
-http://listen.radiomax.technology/penny-italy
-#EXTINF:-1,VIENNA.AT - 80er
-http://webradio.vienna.at:80/vie-80er
-#EXTINF:-1,VIENNA.AT - 90er
-http://webradio.vienna.at:80/vie-90er
-#EXTINF:-1,VIENNA.AT - Lounge
-http://webradio.vienna.at:80/vie-lounge
-#EXTINF:-1,VIENNA.AT - Partymix
-http://webradio.vienna.at:80/vie-partymix
-#EXTINF:-1,VIENNA.AT - Top 40
-http://webradio.vienna.at:80/vie-top40
-#EXTINF:-1,KRONEHIT Digital
-http://onair-ha1.krone.at/kronehit-hp.mp3
-#EXTINF:-1,KRONEHIT HD
-http://onair-ha1.krone.at/kronehit-hd.mp3
-#EXTINF:-1,KRONEHIT Workout
-http://onair-ha1.krone.at/kronehit-event2.mp3
+#EXTINF:-1,Balkan Radio Salzburg
+https://cast.balkanradiosalzburg.com/sc/balkanradiosalzburg/stream
+#EXTINF:-1,Paradise Radio
+https://stream.laut.fm/paradise?ref=radiode
+#EXTINF:-1,Arabella Golden Oldies
+https://frontend.streams.arabella.at/arabella-goldenoldies?aggregator=radio-at
+#EXTINF:-1,Lyruks Gaming
+https://stream.laut.fm/lyruks-gaming?ref=radiode
+#EXTINF:-1,ANTENNE 80er POP
+https://live.antenne.at/80s
+#EXTINF:-1,Radio Legendary
+https://stream.laut.fm/radio-legendary?ref=radiode
+#EXTINF:-1,Energy Dance
+https://scdn.nrjaudio.fm/adwz1/at/36041/aac_64.mp3
+#EXTINF:-1,Radio Austria - Best of Schlager
+https://schlager.securestream.radioaustria.at/schlager
+#EXTINF:-1,Sky Charts
+https://stream.laut.fm/skycharts?ref=radiode
+#EXTINF:-1,Lounge FM UKW OÖ
+https://s37.derstream.net//lounge-ooe.mp3
+#EXTINF:-1,Life Radio Chill Out
+https://stream.liferadio.at/chillout/mp3-192/radioat/
+#EXTINF:-1,Radio Austria - Best of Relax
+https://relax.securestream.radioaustria.at/relax
+#EXTINF:-1,Radio Austria - Love Music
+https://love.securestream.radioaustria.at/love
+#EXTINF:-1,Radio Austria - Best of Xmas
+https://xmas.securestream.radioaustria.at/bestofxmas
+#EXTINF:-1,Radio Austria - Best of 90s
+https://90.securestream.radioaustria.at/90
+#EXTINF:-1,Radio Austria - Best of 70s
+https://70.securestream.radioaustria.at/70
+#EXTINF:-1,Radio Austria - Best of 80s
+https://80.securestream.radioaustria.at/80
+#EXTINF:-1,Radio Austria - Best of 60s
+https://60.securestream.radioaustria.at/60
+#EXTINF:-1,Radio Austria - Best of Austria
+https://austro.securestream.radioaustria.at/austro
+#EXTINF:-1,Radio Austria
+https://onair.securestream.radioaustria.at/radioaustria
+#EXTINF:-1,lyruks-rap
+https://stream.laut.fm/lyruks-rap?ref=radiode
+#EXTINF:-1,BlueNight-Radio 
+https://apollo.rserve.de:7007/
+#EXTINF:-1,100-prozent-deutscher-schlager
+https://stream.laut.fm/100-prozent-deutscher-schlager?ref=radiode
+#EXTINF:-1,next fm fresh
+https://frontend.live.nextfm.at/nextfm-stream2/stream/mp3?aggregator=radioat
+#EXTINF:-1,jö.live
+https://live.stream.maxfive.com/max5-joelive?aggregator=radiode
+#EXTINF:-1,ANTENNE AUSTRO HITS
+https://live.antenne.at/auh
+#EXTINF:-1,CITY23 - Der neue Soundtrack für Wien
+https://live.stream.maxfive.com/max5-city23?aggregator=radiode
+#EXTINF:-1,Hardstyle And Hardcore
+https://stream.laut.fm/hardstyle-and-hardcore?ref=radiode
+#EXTINF:-1,ANTENNE VORARLBERG Coffee Hits
+https://web.radio.antennevorarlberg.at/av-coffee?aggregator=radio.at
+#EXTINF:-1,1000-electronic-dance-music
+https://stream.laut.fm/1000-electronic-dance-music?ref=radiode
+#EXTINF:-1,ANTENNE CLASSIC ROCK
+https://live.antenne.at/clr
+#EXTINF:-1,ROCK ANTENNE Österreich
+https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3?aw_0_1st.playerid=radio.de
+#EXTINF:-1,Radio Allelon
+https://allelon.stream.vip/allelon/mp3-128/radiode/
+#EXTINF:-1,arabella. relax
+https://frontend.streams.arabella.at/arabella-relax?aggregator=radio-at
+#EXTINF:-1,Arabella 80er
+https://frontend.streams.arabella.at/arabella-80er?aggregator=radio-at
+#EXTINF:-1,TRAPLINEFM
+https://stream.traplinefm.at:8000/original_128kbps
+#EXTINF:-1,Volkmusik-Brixental
+https://stream.laut.fm/brixentalerradio?ref=radiode
+#EXTINF:-1,88.6 NEW ROCK
+https://radio886.at/streams/88.6_New_Rock/radio_at_de_net/auto
+#EXTINF:-1,Blasmusik Pur
+https://volksmusikpur.stream.laut.fm/volksmusikpur?ref=web-appu0026start_time=1638989581997u0026t302=2021-12-08_19-53-02u0026uuid=7353eb29-25e0-47c1-981b-e57b2aaa9a81
+#EXTINF:-1,radiotime
+https://stream.laut.fm/radiotime?ref=radiode
+#EXTINF:-1,billhaleyandfriends
+https://stream.laut.fm/billhaleyandfriends?ref=radiode
+#EXTINF:-1,Antenne Partyhitmix
+https://live.antenne.at/ost
+#EXTINF:-1,Antenne Sunrise
+https://live.antenne.at/sun
+#EXTINF:-1,ANTENNE VORARLBERG Musica Italiana
+https://web.radio.antennevorarlberg.at/av-italiana?aggregator=radio.at
+#EXTINF:-1,Radio Himmelberg
+https://stream.laut.fm/radio-himmelberg?ref=radiode
+#EXTINF:-1,88.6 Classic Rock
+https://radio886.at/streams/88.6_Classic_Rock/radio_at_de_net/auto
+#EXTINF:-1,BÖHMISCH-MÄHRISCHE BLASMUSIK
+https://stream.laut.fm/boehmisch-maehrische-blasmusik?ref=radiode
+#EXTINF:-1,classicempire-radio
+https://stream.laut.fm/classicempire-radio?ref=radiode
+#EXTINF:-1,all-in-1
+https://stream.laut.fm/all-in-1?ref=radiode
+#EXTINF:-1,chillout
+https://stream.laut.fm/chillout?ref=radiode
+#EXTINF:-1,fallout
+https://stream.laut.fm/fallout?ref=radiode
+#EXTINF:-1,karograz
+https://stream.laut.fm/karograz?ref=radiode
+#EXTINF:-1,T-Rock
+https://trock.fluidstream.eu/trock.mp3
+#EXTINF:-1,Oberkrainer Pur
+https://stream.laut.fm/volksmusikpur?ref=radiode
+#EXTINF:-1,Sonnleitner - 100 % Auto, 100 % Musik
+https://stream.liferadio.at/sonnleitner/aac-64/
+#EXTINF:-1,kronehit digital
+https://secureonair.krone.at/kronehit.mp3
+#EXTINF:-1,The-Best-Sound-House-Radio
+https://stream2-alfacast-hosting.com/8004/stream
+#EXTINF:-1,ENERGY Nonstop
+https://scdn.nrjaudio.fm/adwz1/at/55212/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,Generation-Mix-Radio
+https://c02.lexycast.de:4300/stream/1/
+#EXTINF:-1,88.6 Hard Rock
+https://radio886.at/streams/88.6_Hard_Rock/radio_at_de_net/auto
+#EXTINF:-1,ANTENNE VORARLBERG 2000er Hits
+https://web.radio.antennevorarlberg.at/av-2000er?aggregator=radio.at
+#EXTINF:-1,bleak radio 
+https://stream.laut.fm/bleakradio?ref=radiode
+#EXTINF:-1,A A Fresh Hits
+https://stream.laut.fm/fresh-hits?ref=radiode
+#EXTINF:-1,kronehit latino
+https://secureonair.krone.at/kronehit05.mp3
+#EXTINF:-1,Radio Arabella Christmas
+https://frontend.streams.arabella.at/arabella-christmas?aggregator=radio-at
+#EXTINF:-1,ANTENNE VORARLBERG Rock Radio
+https://web.radio.antennevorarlberg.at/av-rock?aggregator=radio.at
+#EXTINF:-1,crunchy
+https://stream.laut.fm/crunchy?ref=radiode
+#EXTINF:-1,Digital Room Radio
+https://stream.laut.fm/digitalroomradio?ref=radiode
+#EXTINF:-1,Arabella Rock
+https://frontend.streams.arabella.at/arabella-rock?aggregator=radio-at
+#EXTINF:-1,Austrian Rock Radio
+https://live.antenne.at/arr
+#EXTINF:-1,Arabella Austropop
+https://frontend.streams.arabella.at/arabella-austropop?aggregator=radio-at
+#EXTINF:-1,Arabella Schlager
+https://frontend.streams.arabella.at/arabella-schlager?aggregator=radio-at
+#EXTINF:-1,Arabella Holiday
+https://frontend.streams.arabella.at/arabella-holiday?aggregator=radio-at
+#EXTINF:-1,Arabella Niederösterreich
+https://frontend.streams.arabella.at/arabella-niederoesterreich?aggregator=radio-at
+#EXTINF:-1,Volksmusikpur
+https://volksmusikpur.stream.laut.fm/volksmusikpur
+#EXTINF:-1,Lounge FM 100% Austria
+https://s37.derstream.net/100austria.mp3
+#EXTINF:-1,Lounge FM Digital
+https://s37.derstream.net/digital.mp3
+#EXTINF:-1,ifm
+https://stream.laut.fm/ifm?ref=radiode
+#EXTINF:-1,Arabella Oberösterreich
+https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=radio-at
+#EXTINF:-1,Mein Kinderradio
+https://stream01.zogl.net:8907/stream
+#EXTINF:-1,ANTENNE VORARLBERG Oldies but Goldies
+https://web.radio.antennevorarlberg.at/av-oldies?aggregator=radio.at
+#EXTINF:-1,Rock FM
+https://stream2.rockfm.at:8000/rockfm
+#EXTINF:-1,Radio FRO 105,0 - Freier Rundfunk Oberösterreich
+https://stream.fro.at/fro-128.ogg
 #EXTINF:-1,LCR - Linedance & Country Radio
 https://streaming.radio.co/sba5c95896/listen
-#EXTINF:-1,Antenne Vorarlberg
-http://webradio.antennevorarlberg.at:80/live
-#EXTINF:-1,Antenne Vorarlberg - 80er
-http://webradio.antennevorarlberg.at:80/80er
-#EXTINF:-1,Antenne Vorarlberg - 90er
-http://webradio.antennevorarlberg.at:80/90er
-#EXTINF:-1,Antenne Vorarlberg - Classic Rock
-http://webradio.antennevorarlberg.at:80/classicrock
-#EXTINF:-1,Antenne Vorarlberg - Hits
-http://webradio.antennevorarlberg.at:80/hits
-#EXTINF:-1,Antenne Vorarlberg - Lounge
-http://webradio.antennevorarlberg.at:80/lounge
-#EXTINF:-1,Antenne Vorarlberg - Oldies
-http://webradio.antennevorarlberg.at:80/oldies
-#EXTINF:-1,Antenne Vorarlberg - Schlagerkult
-http://webradio.antennevorarlberg.at:80/schlagerkult
-#EXTINF:-1,ENERGY Innsbruck 99.9 FM
-http://stream1.energy.at:8000/ibk
-#EXTINF:-1,KRONEHIT 90's Dance
-http://onair-ha1.krone.at/kronehit-90sdance.mp3
-#EXTINF:-1,KRONEHIT Black
-http://onair-ha1.krone.at/kronehit-black.mp3
-#EXTINF:-1,KRONEHIT Charts
-http://onair-ha1.krone.at/kronehit-charts.mp3
-#EXTINF:-1,KRONEHIT Clubland
-http://onair-ha1.krone.at/kronehit-clubland.mp3
-#EXTINF:-1,KRONEHIT Dance
-http://onair-ha1.krone.at/kronehit-dance.mp3
-#EXTINF:-1,KRONEHIT Greatest Hits
-http://onair-ha1.krone.at/kronehit-greatesthits.mp3
-#EXTINF:-1,Antenne Vorarlberg - Black Beats
-http://webradio.antennevorarlberg.at/live
-#EXTINF:-1,ANTENNE VORARLBERG - Christkindlradio
-http://webradio.antennevorarlberg.at:80/christkindl
-#EXTINF:-1,ANTENNE VORARLBERG - Rock Radio
-http://webradio.antennevorarlberg.at:80/rock
-#EXTINF:-1,ANTENNE VORARLBERG 00er Hits
-http://webradio.antennevorarlberg.at:80/00er
-#EXTINF:-1,ANTENNE VORARLBERG Fresh
-http://webradio.antennevorarlberg.at:80/fresh
-#EXTINF:-1,ANTENNE VORARLBERG Top40 Hits
-http://webradio.antennevorarlberg.at/hits
-#EXTINF:-1,ANTENNE VORARLBERG Workout-Hits
-http://webradio.antennevorarlberg.at:80/workout-hits
-#EXTINF:-1,Energy Love
-http://185.52.127.159/at/36027/aac_64.mp3
-#EXTINF:-1,ENERGY Wien 104.2 FM
-http://185.52.127.157/at/36001/aac_64.mp3
-#EXTINF:-1,Radio Osttirol
-http://streamplus20.leonex.de:28768/stream/1
-#EXTINF:-1,Antenne Tirol
-http://streamplus30.leonex.de:14840/stream/1
-#EXTINF:-1,Herold Relax Radio
-http://arabella.stream.kapper.net:8015/heroldrelax
-#EXTINF:-1,KRONEHIT Ultra HD
-http://onair-ha1.krone.at/kronehit-ultra-hd.aac
-#EXTINF:-1,Radio Fabrik 107.5 FM
-http://stream.radiofabrik.at:8000/rf_low.mp3
-#EXTINF:-1,Radio Helsinki 92.6 FM
-http://live.helsinki.at:8088/live128.mp3
-#EXTINF:-1,Radio Maria Austria
-http://live.radiomaria.at:8000/rma
-#EXTINF:-1,Radio Arabella Holiday
-http://arabella.stream.kapper.net:8013/arabellaholiday
-#EXTINF:-1,Radio Arabella Lovesongs
-http://arabella.stream.kapper.net:8009/arabellalove
-#EXTINF:-1,Radio Arabella Rock
-http://arabella.stream.kapper.net:8003/arabellarock
-#EXTINF:-1,Radio Arabella Ti Amo
-http://arabella.stream.kapper.net:8007/arabellatiamo
-http://arabella.stream.kapper.net:8008/arabellawiener
-#EXTINF:-1,Radio Max Bipa
-http://listen.radiomax.technology/bipa
-#EXTINF:-1,Superfly FM
-http://stream01.superfly.fm:8080/live
-#EXTINF:-1,Superfly FM
-http://stream01.superfly.fm:8080/live128
-#EXTINF:-1,Freies Radio Salzkammergut  
-http://stream.xaok.org:8000/frs.mp3
-#EXTINF:-1,FREIRAD 105.9 FM
-http://stream.freirad.at:8002/live.mp3
-#EXTINF:-1,Antenne Vorarlberg - Lovesongs
-http://webradio.antennevorarlberg.at:80/lovesongs
-#EXTINF:-1,Antenne Vorarlberg - Partymix
-http://webradio.antennevorarlberg.at:80/partymix
-#EXTINF:-1,Freies Radio Freistadt
-http://develop.servus.at:8000/frf
-http://www.cr944.at:8000/campusradio.mp3
-#EXTINF:-1,Energy Dance
-http://185.52.127.159/at/36041/aac_64.mp3
-#EXTINF:-1,Energy Fitness
-http://185.52.127.157/at/36021/aac_64.mp3
-#EXTINF:-1,Energy Hits
-http://185.52.127.157/at/36045/aac_64.mp3
-#EXTINF:-1,Energy Latino
-http://185.52.127.159/at/55502/aac_64.mp3
-#EXTINF:-1,Energy Lounge
-http://185.52.127.159/at/36015/aac_64.mp3
-#EXTINF:-1,Energy Mastermix
-http://185.52.127.159/at/36035/aac_64.mp3
-#EXTINF:-1,Energy Pop
-http://185.52.127.131/at/36063/aac_64.mp3
-#EXTINF:-1,Energy R'n'B
-http://185.52.127.159/at/36019/aac_64.mp3
-#EXTINF:-1,Energy Rap US
-http://185.52.127.159/at/55641/aac_64.mp3
-#EXTINF:-1,Energy Rock
-http://185.52.127.159/at/36029/aac_64.mp3
-#EXTINF:-1,Energy Urban
-http://185.52.127.159/at/55099/aac_64.mp3
-#EXTINF:-1,Radio U1 Melodien aus den Bergen
-http://streamplus42.leonex.de:24332/stream/1
-#EXTINF:-1,Radio Waltl
-http://live.datamatix.at:8024/stream/1
-http://live.datamatix.at:8022/stream/1
-#EXTINF:-1,MacJingle Todays Best
-http://fc.macjingle.at:8000/stream/1
-#EXTINF:-1,Spirit - Live Radio
-http://streamplus5.leonex.de:22830/stream/1
-#EXTINF:-1,ERF Plus Oesterreich
-http://stream.erf.at/erfplus_192
-#EXTINF:-1,KRONEHIT 105.8 FM
-http://onair-ha1.krone.at/kronehit1058.mp3
-#EXTINF:-1,KRONEHIT Halloween
-http://onair-ha1.krone.at/kronehit-event3.mp3
-http://arabella.stream.kapper.net:8002/arabellaooe
-#EXTINF:-1,SheetMusicDB.net - Request Concert
-http://notendatenbank.net:8000/hnWunschkonzert
-#EXTINF:-1,Radio SOL 95.5
-http://sol.anw.at:8023/stream
-#EXTINF:-1,KRONEHIT Summer
-http://onair-ha1.krone.at/kronehit-event.mp3
-#EXTINF:-1,Emap.FM
-http://s2.stationplaylist.com:9470/listen.aac
-#EXTINF:-1,Antenne Salzburg 100.8 FM
-http://streamplus14.leonex.de:24950/stream/1
-#EXTINF:-1,Mein Kinderradio
-http://stream01.zogl.net:8906/stream
-#EXTINF:-1,Radio Arabella Christmas
-http://arabella.stream.kapper.net:8017/arabellachristmas
-#EXTINF:-1,Radio Arabella Melodie
-http://arabella.stream.kapper.net:8014/radiomelodie
-#EXTINF:-1,Seniorkom.at
-http://93.185.134.22:8080/seniorkom
-#EXTINF:-1,Contemporary Jazz Club
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,Energy Acoustic Hits
-http://185.52.127.159/at/36059/aac_64.mp3
-#EXTINF:-1,Energy Oesterreich
-http://185.52.127.159/at/55212/aac_64.mp3
-#EXTINF:-1,ORF Radio Salzburg 96.4 FM
-http://194.232.200.147:8000/stream/1
-#EXTINF:-1,Trap.FM
-http://stream.trap.fm:6004/stream/1
-#EXTINF:-1,DrumandBass.FM
-http://stream.drumandbass.fm:9002/stream/1
-#EXTINF:-1,Dubbase.FM
-http://stream.dubbase.fm:7004/stream/1
-#EXTINF:-1,Radio Alpina 106.9 FM
-http://streamplus23.leonex.de:25708/stream/1
-#EXTINF:-1,Q Radio
-http://live.qradio.cc:8954/stream/1
-#EXTINF:-1,Unzmarkt Frauenburg Live
-http://host6.cartwall.at:7320/stream/1
-#EXTINF:-1,JOYradio
-http://streamplus20.leonex.de:32978/stream/1
-#EXTINF:-1,MacJingle Classic Hits
-http://host6.cartwall.at:7210/stream/1
-#EXTINF:-1,MacJingle Heartbeat
-http://host6.cartwall.at:7200/stream/1
-#EXTINF:-1,Radio West 106.2 FM
-http://west.cartwall.at:9640/stream/1
+#EXTINF:-1,kronehit most wanted
+https://secureonair.krone.at/kronehit02.mp3
+#EXTINF:-1,kronehit sommer
+https://secureonair.krone.at/kronehit12.mp3
+#EXTINF:-1,kronehit retro
+https://secureonair.krone.at/kronehit04.mp3
+#EXTINF:-1,Oldie Party Austria
+https://fs1.stream24.net:8410/stream
+#EXTINF:-1,WELLE 1 Kärnten
+https://live.welle1.at:15128/stream
+#EXTINF:-1,Radio Hot 100
+https://stream.laut.fm/radio-hot100
+#EXTINF:-1,ANTENNE VORARLBERG Christkindl Radio
+https://web.radio.antennevorarlberg.at/av-christkindl?aggregator=radio.at
+#EXTINF:-1,ELECTRO-SWING
+https://stream.laut.fm/electro-swing?ref=radiode
+#EXTINF:-1,rockhuhn
+https://stream.laut.fm/rockhuhn?ref=radiode
+#EXTINF:-1,kamakura
+https://stream.laut.fm/kamakura?ref=radiode
+#EXTINF:-1,Arabella Lovesongs
+https://frontend.streams.arabella.at/arabella-lovesongs?aggregator=radio-at
+#EXTINF:-1,Radio Grün-Weiss
+https://live.gruen-weiss.at/rgw.mp3
+#EXTINF:-1,Radius 106,6
+https://develop.servus.at:8443/radius
+#EXTINF:-1,Radio Helsinki
+https://live.helsinki.at:8088/live128.mp3
+#EXTINF:-1,kronehit fresh
+https://secureonair.krone.at/kronehit22.mp3
+#EXTINF:-1,ANTENNE VORARLBERG Classic Rock
+https://web.radio.antennevorarlberg.at/av-classicrock?aggregator=radio.at
+#EXTINF:-1,ANTENNE VORARLBERG Chillout Lounge
+https://web.radio.antennevorarlberg.at/av-chillout?aggregator=radio.at
+#EXTINF:-1,ANTENNE VORARLBERG Schlagerkult
+https://web.radio.antennevorarlberg.at/av-schlagerkult?aggregator=radio.at
+#EXTINF:-1,kronehit love 
+https://secureonair.krone.at/kronehit14.mp3
+#EXTINF:-1,kronehit charts 
+https://secureonair.krone.at/kronehit99.mp3
+#EXTINF:-1,kronehit clubland xxl 
+https://secureonair.krone.at/kronehit98.mp3
+#EXTINF:-1,Radio Alpenstar 
+https://server7517.streamplus.de/stream.mp3
+#EXTINF:-1,Radio OP 
+https://server4.streamserver24.com:26250/stream
+#EXTINF:-1,darksynthradio 
+https://stream.laut.fm/darksynthradio?ref=radiode
+#EXTINF:-1,m1 
+https://stream.laut.fm/m1?ref=radiode
+#EXTINF:-1,Stahlradio 
+https://simba.streampanel.cloud:5280/stream
+#EXTINF:-1,kronehit greatest hits 
+https://secureonair.krone.at/kronehit13.mp3
+#EXTINF:-1,Radio Agora 
+https://livestream.agora.at/agora
+#EXTINF:-1,ENERGY TIROL 
+https://scdn.nrjaudio.fm/adwz1/at/36003/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,ORF Radio Kärnten 
+https://orf-live.ors-shoutcast.at/ktn-q1a
+#EXTINF:-1,WELLE 1 Graz 
+https://live.welle1.at:18128/live
+#EXTINF:-1,WELLE 1 Oberösterreich 
+https://live.welle1.at:17128/live
+#EXTINF:-1,ORF Radio Salzburg 
+https://orf-live.ors-shoutcast.at/sbg-q2a
+#EXTINF:-1,ORF Radio Niederösterreich 
+https://orf-live.ors-shoutcast.at/noe-q1a
+#EXTINF:-1,kronehit vollgas 
+https://secureonair.krone.at/kronehit11.mp3
+#EXTINF:-1,kronehit eurodance 
+https://secureonair.krone.at/kronehit21.mp3
+#EXTINF:-1,ORF Radio Tirol 
+https://orf-live.ors-shoutcast.at/tir-q1a
+#EXTINF:-1,ORF Radio Burgenland 
+https://orf-live.ors-shoutcast.at/bgl-q1a
+#EXTINF:-1,Antenne Salzburg 
+https://frontend.streamonkey.net/antsalzburg-live?aggregator=radio-at
+#EXTINF:-1,Antenne Tirol 
+https://frontend.streamonkey.net/anttirol-live?aggregator=radio-at
+#EXTINF:-1,ORF Radio Steiermark 
+https://orf-live.ors-shoutcast.at/stm-q1a
+#EXTINF:-1,ORF Radio Wien 
+https://orf-live.ors-shoutcast.at/wie-q1a
+#EXTINF:-1,Radio U1 Tirol 
+https://live.u1-radio.at/stream.mp3
+#EXTINF:-1,RadioSOL International 
+https://stream.radiosol.at/webstream
+#EXTINF:-1,club-f 
+https://stream.laut.fm/club-f?ref=radiode
+#EXTINF:-1,WELLE 1 Salzburg 
+https://live.welle1.at:18128/stream
+#EXTINF:-1,ORF Radio Oberösterreich 
+https://orf-live.ors-shoutcast.at/ooe-q1a
+#EXTINF:-1,Ö1 Campus 
+https://orf-live.ors-shoutcast.at/campus-q1a
+#EXTINF:-1,Ö1 
+https://orf-live.ors-shoutcast.at/oe1-q1a
+#EXTINF:-1,bluffphonica 
+https://stream.laut.fm/bluffphonica?ref=radiode
+#EXTINF:-1,ANTENNE VORARLBERG Love Songs 
+https://web.radio.antennevorarlberg.at/av-lovesongs?aggregator=radio.at
+#EXTINF:-1,ENERGY SALZBURG 
+https://scdn.nrjaudio.fm/adwz1/at/36005/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,Arabella Ti Amo 
+https://frontend.streams.arabella.at/arabella-tiamo?aggregator=radio-at
+#EXTINF:-1,Radiofabrik 
+https://stream.radiofabrik.at/rf_low.mp3
+#EXTINF:-1,kronehit dance 
+https://secureonair.krone.at/kronehit23.mp3
+#EXTINF:-1,radio 88.6 
+https://radio886.at/streams/88.6_On_Air/radio_at_de_net/auto88.6
+#EXTINF:-1,80er-zone 
+https://stream.laut.fm/80er-zone?ref=radiode
+#EXTINF:-1,Antenne Kärnten 
+https://live.antenne.at/ak-lq
+#EXTINF:-1,house 
+https://stream.laut.fm/house?ref=radiode
+#EXTINF:-1,radio-head 
+https://stream.laut.fm/radiohead?ref=radiode
+#EXTINF:-1,ANTENNE VORARLBERG Top 40 
+https://web.radio.antennevorarlberg.at/av-top40?aggregator=radio.at
+#EXTINF:-1,ANTENNE VORARLBERG 90er Hits 
+https://web.radio.antennevorarlberg.at/av-90er?aggregator=radio.at
+#EXTINF:-1,Freies Radio Freistadt 
+https://develop.servus.at:8443/frf
+#EXTINF:-1,Antenne Steiermark 
+https://live.antenne.at/as
+#EXTINF:-1,Life Radio Tirol 
+https://liferadiotirol.apa.at:8000/
+#EXTINF:-1,Hitradio Ö3 
+https://orf-live.ors-shoutcast.at/oe3-q1a
+#EXTINF:-1,ENERGY WIEN 
+https://scdn.nrjaudio.fm/adwz1/at/36001/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,Soundportal 
+https://rs8.stream24.net/radio-soundportal.mp3
+#EXTINF:-1,ANTENNE VORARLBERG Partymix 
+https://web.radio.antennevorarlberg.at/av-partymix?aggregator=radio.at
+#EXTINF:-1,ANTENNE VORARLBERG 80er Hits 
+https://web.radio.antennevorarlberg.at/av-80er?aggregator=radio.at
+#EXTINF:-1,ANTENNE VORARLBERG 
+https://web.radio.antennevorarlberg.at/av-live?aggregator=radio.at
+#EXTINF:-1,ORF Radio Vorarlberg 
+https://orf-live.ors-shoutcast.at/vbg-q1a
+#EXTINF:-1,ORANGE 94.0 
+https://securestream.o94.at/live.mp3
+#EXTINF:-1,Radio Arabella Wiener Schmäh 
+https://frontend.streams.arabella.at/arabella-wienerschmaeh?aggregator=radio-at
+#EXTINF:-1,Life Radio 80er 
+https://stream2.liferadio.at/
+#EXTINF:-1,Life Radio Oberösterreich 
+https://stream1.liferadio.at
+#EXTINF:-1,Radio Superfly 
+https://stream01.superfly.fm/live
+#EXTINF:-1,Radio Alpina 106,9 
+https://alpina.fluidstream.eu/alpina.aac
+#EXTINF:-1,Arabella Wien 
+https://frontend.streams.arabella.at/arabella-wien?aggregator=radio-at
+#EXTINF:-1,Lounge FM UKW Wien 
+https://s37.derstream.net/ukwwien.mp3
+#EXTINF:-1,radio klassik Stephansdom 
+https://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
+#EXTINF:-1,FM4 
+https://orf-live.ors-shoutcast.at/fm4-q1a

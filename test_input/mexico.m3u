@@ -1,274 +1,471 @@
 #EXTM3U
-#EXTINF:-1,Sol FM 89.7 FM
-http://zer.zuperdns.net:1895/stream/1
-#EXTINF:-1,maXima 96.3 FM
-http://www.tuasesorweb.com:8028/stream/1
-#EXTINF:-1,Sonora Classic Rock
-http://s18.myradiostream.com:6664/stream/1
-#EXTINF:-1,maXima 96.3 FM
-http://tuasesorweb.com:8028/stream/1
-#EXTINF:-1,Radio Efimera
-http://www.radioefimera.com:8080/stream/1
-#EXTINF:-1,Fiesta Mexicana 92.3 FM
-http://streaming.promomedios.com:8004/stream/1
-#EXTINF:-1,MILED Music - Mambo
-http://192.99.34.205:8443/stream
-#EXTINF:-1,MILED Music - Mariachi
-http://192.99.34.205:8165/stream
-http://192.99.34.205:8079/stream
-#EXTINF:-1,MILED Music - Musica Clasica
-http://192.99.34.205:8126/stream
-#EXTINF:-1,MILED Music - Musica Country
-http://192.99.34.205:8145/stream
-#EXTINF:-1,MILED Music - Musica Electronica
-http://192.99.34.205:8096/stream
-#EXTINF:-1,MILED Music - Musica Grupera
-http://192.99.34.205:8472/stream
-#EXTINF:-1,MILED Music - Musica Heavy Metal
-http://192.99.34.205:8109/stream
-#EXTINF:-1,MILED Music - Musica Nortena
-http://192.99.34.205:8469/stream
-#EXTINF:-1,MILED Music - New Age
-http://192.99.34.205:8222/stream
-#EXTINF:-1,MILED Music - Oldies
-http://192.99.34.205:8146/stream
-#EXTINF:-1,MILED Music - Pedro Infante
-http://192.99.34.205:8452/stream
-#EXTINF:-1,MILED Music - Psycho
-http://192.99.34.205:8148/stream
-#EXTINF:-1,MILED Music - Punk Music
-http://192.99.34.205:8168/stream
-#EXTINF:-1,MILED Music - Reggae
-http://192.99.34.205:8143/stream
-#EXTINF:-1,MILED Music - Reggaeton
-http://192.99.34.205:8466/stream
-#EXTINF:-1,MILED Music - Regional Mexicano
-http://192.99.34.205:8470/stream
-#EXTINF:-1,MILED Music - Rock
-http://192.99.34.205:8175/stream
-http://192.99.34.205:8457/stream
-#EXTINF:-1,MILED Music - Soft Jazz
-http://192.99.34.205:8108/stream
-#EXTINF:-1,MILED Music - Soul
-http://192.99.34.205:8167/stream
-#EXTINF:-1,MILED Music - Soundtrack
-http://192.99.34.205:8484/stream
-#EXTINF:-1,MILED Music - Summer Dance Party
-http://192.99.34.205:8459/stream
-#EXTINF:-1,MILED Music - Tango
-http://192.99.34.205:8240/stream
-#EXTINF:-1,MILED Music - Tribal
-http://192.99.34.205:8471/stream
-#EXTINF:-1,MILED Music - Trova
-http://192.99.34.205:8173/stream
-#EXTINF:-1,Mix 102.3 Acapulco
-http://18543.live.streamtheworld.com:80/XHAGEFM_SC
-#EXTINF:-1,Pirata 99.3 FM
-http://14073.live.streamtheworld.com:80/XHCQR_SC
+#EXTINF:-1,La Qué Romántica
+https://servidor39.brlogic.com:7414/live
+#EXTINF:-1,Hologram Radios
+https://u-dancing.com:8000/radio.mp3
+#EXTINF:-1,LibelulaChile.com
+https://sonic01.zglobalhost.com:7010/
+#EXTINF:-1,quisqueyanafm
+https://emisoras.webhosting.do:2000/stream/8032/stream
+#EXTINF:-1,Radio ebenezer
+https://sonic.globalstreaming.net/8224/stream
+#EXTINF:-1,Clásicos-Rock101.7
+https://s3.radio.co/s2c1cebae5/listen
+#EXTINF:-1,Japanisu!
+https://stream.radioani.me/radio/8000/radio.mp3
+#EXTINF:-1,outline radio la casa de las canciones buenas
+https://s1.voscast.com:11511/stream
+#EXTINF:-1,Rock The Bones Radio
+https://srv6.sonicpanel.cl/8278/stream
+#EXTINF:-1,https://ec4.yesstreaming.net:2655/stream
+https://ec4.yesstreaming.net:2655/stream
+#EXTINF:-1,Radio Enamorada 102.3
+https://hazel.torontocast.com/radioenamorada
+#EXTINF:-1,RADIO LÍDER BAJÍO
+https://radiosonline.radiolidermexico.com/8004/stream
+#EXTINF:-1,Ixtenco Radio Mx
+https://stream.zeno.fm/8k7kuqhnsnhvv
+#EXTINF:-1,La Onda Morelia
+https://laondaradio.stream.laut.fm/laondaradio
+#EXTINF:-1,Nostalgia Oldies
+https://node-14.zeno.fm/pkw5dfy6dkhvv?zs=cofV3YmRTPCNpxjuGP2OBwu0026rj-tok=AAABgKUkZ68A5NPQfcuyTxntHAu0026rj-ttl=5
+#EXTINF:-1,Radio San Miguelito
+https://stream.zeno.fm/trxfvccta2zuv
+#EXTINF:-1,La Bonachona Radio
+https://stream.zeno.fm/fau8e9dscq8uv
+#EXTINF:-1,ANTILLES RADIO LOVE
+https://antillesmedia.pro-fhi.net/antillesmedialove
+#EXTINF:-1,ElectraFM
+https://stream.zeno.fm/m0q1qr6b3v8uv
+#EXTINF:-1,La Mega FM
+https://stream.zeno.fm/t34705z54v8uv
+#EXTINF:-1,Radio Live HD
+https://stream.zeno.fm/13m5g5ypgg0uv
+#EXTINF:-1,Prol Hidalgo
+https://stream.zeno.fm/yz3k4k3am48uv
+#EXTINF:-1,Me vale radio MX
+https://stream.zeno.fm/6tgm0m58s18uv
+#EXTINF:-1,radiovisionEdgar
+https://streaming.servicioswebmx.com/8028/
+#EXTINF:-1,CAPITAL DEL ROCK
+https://node-15.zeno.fm/rhaz2fzug98uv?
+#EXTINF:-1,Ya! FM 102.9
+https://yafm.centrocibernetico.com/yafmveracruz
+#EXTINF:-1,Toxi Radio
+https://ssl.xcast.com.br:9488/stream/1/
+#EXTINF:-1,Acústica Radio MX
+https://streaming.servicioswebmx.com/8012/
+#EXTINF:-1,WRadio Oaxaca
+https://www.encuentroradiotv.com:8443/oaxaca957.mp3
+#EXTINF:-1,Conecta Radio Digital
+https://radioenlinea.click:8010/radio.mp3
+#EXTINF:-1,Magia Latina
+https://streaming.servicioswebmx.com/8100/stream
+#EXTINF:-1,LA MAS PRENDIDA
+https://stream.zeno.fm/5ze4urxay98uv
+#EXTINF:-1,Crystal 95.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMYFMAAC.aac?dist=radionet
+#EXTINF:-1,Radiante FM 98.3
+https://streamingcwsradio30.com:7034/stream/1/
+#EXTINF:-1,Radiante FM 89.1
+https://streamingcwsradio30.com:7036/stream/1/
+#EXTINF:-1,Radiante FM 91.1
+https://streamingcwsradio30.com:7035/stream/1/
+#EXTINF:-1,Afirma Radio
+https://usa19.fastcast4u.com:4080/stream
+#EXTINF:-1,Solsticio Radio
+https://s01.digitalserver.org:7047/stream/1/
+#EXTINF:-1,Golden Hits Radio
+https://vivo.miradio.in/8008/stream
+#EXTINF:-1,Stereo Voces Mx
+https://radioenhd.com/8052/stream
+#EXTINF:-1,MX NOTICIAS RADIO
+https://stream.zeno.fm/9ah8qn58qs8uv
+#EXTINF:-1,Radio Tiempo FM 92.5
+https://stream.zeno.fm/wupc8ed81d0uv
+#EXTINF:-1,Código Libre Radio
+https://hoth.alonhosting.com:1865/stream
+#EXTINF:-1,Triomantica
+https://stream.zeno.fm/h2n3qh8q8k8uv
+#EXTINF:-1,Tepacheca
+https://stream.zeno.fm/upaurctdbm8uv
+#EXTINF:-1,Radio Amistad Cristiana
+https://stream.zeno.fm/ne4fqfgc31zuv
+#EXTINF:-1,Uplifting Trance Radio
+https://stream.zeno.fm/trcfdkzzw7zuv
+#EXTINF:-1,Aciendoradio mx
+https://stream.zeno.fm/unp3y01gfg8uv
+#EXTINF:-1,91X - XTRA-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XTRAFMAAC.aac
+#EXTINF:-1,Chono radio
+https://server2.sit-mexico.com/proxy/chonoradio?mp=/stream
+#EXTINF:-1,La Naranjera
+https://radiostreamingaac.com:8010/stream
+#EXTINF:-1,Radio Estridente
+https://stream9.mexiserver.com:7010/stream
+#EXTINF:-1,LaPerronaMX
+https://stream9.mexiserver.com/8098/stream
+#EXTINF:-1,Radioactiva Tx
+https://freeus3.listen2myradio.com/live.mp3?typeportmount=ice_21414_stream_608998905
+#EXTINF:-1,La M Mexicana
+https://ais-sa2.cdnstream1.com/2561_64.aac
+#EXTINF:-1,TLX Radio
+https://ec1.yesstreaming.net:2695/stream
+#EXTINF:-1,Voice of the Mountains Country Radio 
+https://streaming.live365.com/a07250
+#EXTINF:-1,BABYMETAL RADIO
+https://stream.zeno.fm/fvqayaa0k2zuv
+#EXTINF:-1,lllegalPsy Radio - Psytrance, Techno Broadcast
+https://stream.zeno.fm/bx90937mqwzuv
+#EXTINF:-1,Radio Bebe Televisión
+https://srstreaming.com/proxy/radiobebe?mp=/stream
+#EXTINF:-1,Radio Lamat
+https://stream.zeno.fm/5b2mpd7557zuv
+#EXTINF:-1,Aire Libre FM
+https://stream.zeno.fm/y8p6kb9ed78uv
+#EXTINF:-1,Cáspita Radio Experimental
+https://stream.zeno.fm/x3fy171xt4zuv
+#EXTINF:-1,Radio de Mexico
+https://jm8n.net:7029/stream/1/
+#EXTINF:-1,Radio Atómica
+https://stream.zeno.fm/54h6fuup64zuv
+#EXTINF:-1,Napolitano Radio
+https://www.radiohosting.online/stream/?puerto=9902/wcpe.mp3
+#EXTINF:-1,Nozomi Radio
+https://stream3.mexiserver.com:10121/stream
+#EXTINF:-1,Hasta que el Cuerpo Aguante Radio
+https://s01.digitalserver.org:7056/stream/1/
+#EXTINF:-1,Máxima 106.7
+https://stream.zeno.fm/1fb4vfaq8k8uv
+#EXTINF:-1,La Mexicanita Sapichu
+https://stream.zeno.fm/cq155y9exzzuv
+#EXTINF:-1,80s Online Radio
+https://panel.retrolandigital.com/radio/8180/listen
+#EXTINF:-1,Fara Fara Radio
+https://panel.retrolandigital.com/radio/8190/listen
+#EXTINF:-1,Radio León
+https://node-25.zeno.fm/tqztsfvqvzzuv
+#EXTINF:-1,Barak Radio Adoración 
+https://stream.zeno.fm/vh00e23w8qzuv
+#EXTINF:-1,RadioInfantil.com
+https://s01.digitalserver.org:7635/stream/1/
+#EXTINF:-1,Hersaenz Radio
+https://stream.zeno.fm/7hpqtbxm5tzuv
+#EXTINF:-1,Retro Radio VF - Classic Hits
+https://stream.zeno.fm/2xpftynf8tzuv
+#EXTINF:-1,Retro Hits Radio
+https://stream.zeno.fm/7zvk3cgygnruv
+#EXTINF:-1,La Ejutlence Radio
+https://stream.zeno.fm/f2509nypeg0uv
+#EXTINF:-1,FUSSION Radio DigitoVirtual
+https://cento02.mipanelradio.com/proxy/fussionr?mp=/streamu00261584712312661
+#EXTINF:-1,Urbana Radio #laradiodetodos
+https://servidor18.brlogic.com:7370/live
+#EXTINF:-1,Superstereo97
+https://cento02.mipanelradio.com/proxy/joselucerva?mp=/stream 
+#EXTINF:-1,EVOLUCIONSTEREO
+https://stream9.mexiserver.com/8142/stream
+#EXTINF:-1,JGM Radio México
+https://stream.zeno.fm/s0k33kwctqzuv
+#EXTINF:-1,Oldies Internet Radio
+https://panel.retrolandigital.com/radio/8140/listen?1587156012
+#EXTINF:-1,Crystal 93.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEDTFMAAC.aac?dist=radionet
+#EXTINF:-1,Crystal 103.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCMEFMAAC.aac?dist=radionet
+#EXTINF:-1,Ondas de Vida 1440
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac?dist=radionet
+#EXTINF:-1,Studio 93.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMZTFMAAC.aac?dist=radionet
+#EXTINF:-1,Radio Unidos MX
+https://stream.zeno.fm/6up1by53e4duv
+#EXTINF:-1,Que Buena Música
+https://stream.zeno.fm/5d4s5qcvk8quv
+#EXTINF:-1,Radio Máxima Digital
+https://mjwsdmsa.radioca.st/stream
+#EXTINF:-1,Instrumental Hits Radio
+https://panel.retrolandigital.com:8130/listen
+#EXTINF:-1,Radio Nueva Generación Adventista
+https://node-24.zeno.fm/9apd805pp8quv
+#EXTINF:-1,ERP Beatles
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC238_SC.mp3
+#EXTINF:-1,Siempre Romántica
+https://stream.zeno.fm/66s4fe62zuquv
+#EXTINF:-1,Fela Radio - Music With Soul
+https://my.radiolize.com/radio/8180/192kbps.mp3
+#EXTINF:-1,Radio Mexicali
+https://tv.radiohosting.online:9888/stream
+#EXTINF:-1,Radio Suigeneris
+https://stream.zeno.fm/r6ne9bwuz2quv
+#EXTINF:-1,La Potencia Grupera 
+https://stream.zeno.fm/pcyvmdcanbruv
+#EXTINF:-1,RadioFreeAktivo
+https://stream.zeno.fm/0snf1r835k0uv
+#EXTINF:-1,Cäbrones Päganos Radio 
+https://stream.zeno.fm/d05n079fv5quv
+#EXTINF:-1,Intensidad RADIO 
+https://panel.turadiodigital.com:7035/
+#EXTINF:-1,Classic Rock Fire
+https://stream.zeno.fm/7w3yq9w0k8quv
+#EXTINF:-1,Radio Emisor
+https://sonic.sistemahost.es/8032/stream
+#EXTINF:-1,Sintonía Digital
+https://stream.zeno.fm/1cysfppp5a0uv
+#EXTINF:-1,Stereo Love 2012
+https://stream.zenolive.com/0mskr5nkvg0uv.aac
+#EXTINF:-1,Frecuencia Millennial
+https://fmmillennial.radioca.st/stream/1/
+#EXTINF:-1,La Grupera MX
+https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
+#EXTINF:-1,Zona Urbana
+https://node-01.zeno.fm/58uyett1v2quv
+#EXTINF:-1,Radio Misión Latina
+https://tv.radiohosting.online:9456/stream
+#EXTINF:-1,Radio Hits Rock
+https://stream.zenolive.com/wb65yru1vrquv
+#EXTINF:-1,Radio Hits Estéreo 
+https://stream.zenolive.com/d51qdrt1vrquv
+#EXTINF:-1,Calvary PV Radio
+https://stream.radiojar.com/3mwyu51d1neuv
+#EXTINF:-1,Radio Hits MX
+https://stream.zeno.fm/n1a5e2ea8heuv
+#EXTINF:-1,La Wapachossa
+https://node-10.zeno.fm/14x1tacnrrquv
+#EXTINF:-1,canal 98
+https://stream.zenolive.com/xmhshz1wyrquv
+#EXTINF:-1,Nocturno Radio
+https://cast.direcnode.com/proxy/nocturnoaac/stream
 #EXTINF:-1,Stereo Cien 100.1 FM
-http://18393.live.streamtheworld.com:80/XHMMFMAAC_SC
-#EXTINF:-1,UABC Radio 95.5 FM
-http://148.231.3.56/mxl
-#EXTINF:-1,La Comadre 98.5 San Luis Potosi
-http://14533.live.streamtheworld.com:80/XHQKFM_SC
-#EXTINF:-1,La Mejor FM 95.5
-http://17793.live.streamtheworld.com:80/XHRO_SC
-#EXTINF:-1,MILED Music - Alternativo
-http://192.99.34.205:8201/stream
-#EXTINF:-1,MILED Music - Bebop
-http://192.99.34.205:8450/stream
-#EXTINF:-1,MILED Music - Blues
-http://192.99.34.205:8144/stream
-#EXTINF:-1,MILED Music - Bolero
-http://192.99.34.205:8444/stream
-#EXTINF:-1,MILED Music - Bossa Nova
-http://192.99.34.205:8399/stream
-#EXTINF:-1,MILED Music - Cubana
-http://192.99.34.205:8400/stream
-#EXTINF:-1,MILED Music - Cumbia
-http://192.99.34.205:8445/stream
-#EXTINF:-1,MILED Music - Disco
-http://192.99.34.205:8202/stream
-#EXTINF:-1,MILED Music - EBM
-http://192.99.34.205:8227/stream
-#EXTINF:-1,MILED Music - Elvis Presley
-http://192.99.34.205:8453/stream
-#EXTINF:-1,MILED Music - Exitos en Ingles
-http://192.99.34.205:8454/stream
-#EXTINF:-1,MILED Music - Gospel
-http://192.99.34.205:8449/stream
-#EXTINF:-1,MILED Music - Indie Rock
-http://192.99.34.205:8455/stream
-#EXTINF:-1,MILED Music - Javier Solis
-http://192.99.34.205:8473/stream
-#EXTINF:-1,MILED Music - Juan Gabriel
-http://192.99.34.205:8451/stream
-#EXTINF:-1,MILED Music - Las Sonoras
-http://192.99.34.205:8475/stream
-#EXTINF:-1,MILED Music - Latina
-http://192.99.34.205:8166/stream
-#EXTINF:-1,XHQJ Extasis Digital 105.9 FM
-http://192.99.16.17:3414/stream/1
-#EXTINF:-1,La Mejor 1070 AM
-http://pump.com.mx:8030/stream/1
-#EXTINF:-1,Super Stereo 105.9 FM
-http://s4.mexside.net:8056/stream/1
-#EXTINF:-1,XENK Radio 620 AM
-http://s4.mexside.net:2102/stream/1
-#EXTINF:-1,La Colmena 970 AM
-http://148.214.155.119:8000/stream/1
-#EXTINF:-1,La Super KT 1390 AM
-http://s4.mexside.net:2124/stream/1
-#EXTINF:-1,XHNOE 91 FM
-http://216.251.65.74:8000/stream/1
-#EXTINF:-1,RMX 100.3 FM Guadalajara
-http://radio.alphamx.net:8080/stream/1
-#EXTINF:-1,Fiesta Mexicana 94.5 FM
-http://radio.promosat.com:8122/stream/1
-#EXTINF:-1,Estereo Tiempo 100.3 FM
-http://192.99.14.225:9762/stream/1
-#EXTINF:-1,RMX 90.7 FM - Riviera Maya
-http://radio.alphamx.net:8162/stream/1
-#EXTINF:-1,RMX 100.3 FM Torreon
-http://radio.alphamx.net:8068/stream/1
-#EXTINF:-1,RMX 105.9 FM
-http://radio.alphamx.net:8130/stream/1
-#EXTINF:-1,RMX 94.1 FM
-http://radio.alphamx.net:8096/stream/1
-#EXTINF:-1,W1420
-http://radio.alphamx.net:8100/stream/1
-#EXTINF:-1,Miled Radio Atlacomulco 104.7 FM
-http://192.99.34.205:8269/autodjstream/1
-#EXTINF:-1,Miled Radio Valle de Bravo 93.5 FM
-http://192.99.34.205:8485/autodjstream/1
-#EXTINF:-1,Radio Capital 700 AM
-http://18533.live.streamtheworld.com:80/XHRV_FM_SC
-#EXTINF:-1,Radio Felicidad 1310 AM
-http://14523.live.streamtheworld.com:80/XEHIT_SC
-#EXTINF:-1,Magia 101.7
-http://201.159.48.107:8080/
-#EXTINF:-1,Radio Ulldecona
-http://streaming.enantena.com:8000/radioulldecona56.mp3
-#EXTINF:-1,Radio Universidad 89.1 FM
-http://148.225.54.10/broadwavehigh.mp3
-#EXTINF:-1,Radio Vocaloid
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,RG La Deportiva 690
-http://19303.live.streamtheworld.com:80/RG690_SC
-#EXTINF:-1,XEAD La Buena Onda 101.9 FM
-http://206.190.133.196:7094/stream
-#EXTINF:-1,XHEIM 91.3 FM
-http://18233.live.streamtheworld.com:80/XHMI_FM_SC
-#EXTINF:-1,105 Digital - 105.3 Fm
-http://201.159.48.106:8080/
-#EXTINF:-1,Z90.3
-http://17833.live.streamtheworld.com:80/XHTZFM_SC
-#EXTINF:-1,RADIO CATOLICA DE IRAPUATO
-http://node-11.zeno.fm/sduc9dd4914tv?rj-ttl=5&rj-token=AAABbI1Ff6dD7ZsrR8FxzVNtNhC-s6_Bqes9j41u3d0aAzFJkZkDAw&rj-tok=AAABdSBPXXMAK2aKSaSY9RzYMQ
-#EXTINF:-1,Esperanza 7
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,Amor 93.1 FM Guadalajara
-http://17833.live.streamtheworld.com:80/XHPIFM_SC
-#EXTINF:-1,AW 101.3
-http://16693.live.streamtheworld.com:80/XHAWFM_SC
-#EXTINF:-1,AW 1280 Noticias
-http://14943.live.streamtheworld.com:80/XEAWAM_SC
-#EXTINF:-1,Bandeando.FM
-http://node-22.zeno.fm/axha9f8s9umtv?rj-ttl=5&rj-token=AAABbI0K12pKX236FweX-hEoDw_MIQFkbx_EWhX7lggRsC7_Qu5CtQ&rj-tok=AAABdSBYzT0AXzKJ0bprlinusw
-#EXTINF:-1,Classic 106.9
-http://18393.live.streamtheworld.com:80/CLASSIC106_SC
-#EXTINF:-1,D99 FM 98.9
-http://13693.live.streamtheworld.com:80/D99_SC
-#EXTINF:-1,Digimix 95
-http://www.kvoz.com:8080/digimix95
-#EXTINF:-1,EXA 101.9 FM
-http://18443.live.streamtheworld.com:80/XHRIC_SC
-#EXTINF:-1,Exa 93.5 FM
-http://exairapuato.streaming4.mx:8000/exairapuato
-#EXTINF:-1,EXA FM 100.3
-http://18543.live.streamtheworld.com:80/XHMI_SC
-#EXTINF:-1,EXA FM 102.7
-http://15373.live.streamtheworld.com:80/XHQT_SC
-#EXTINF:-1,EXA FM 95.7
-http://18443.live.streamtheworld.com:80/XHCT_SC
-#EXTINF:-1,EXA FM 99.9
-http://17833.live.streamtheworld.com:80/XHCJX_SC
-#EXTINF:-1,Exitos 91.3 FM
-http://ice8.securenetsystems.net/EXITO913
-#EXTINF:-1,Salsa Mexico AM Estereo
-http://radiolatina.info:7218/stream/1
-#EXTINF:-1,Hits 104.5
-http://15363.live.streamtheworld.com:80/XHCHAFM_SC
-#EXTINF:-1,Hits 106.1 FM
-http://15363.live.streamtheworld.com:80/HITS106_SC
-#EXTINF:-1,Ke Buena 100.1
-http://18553.live.streamtheworld.com:80/KEBUENA_SC
-#EXTINF:-1,La Invasora 98.9
-http://201.159.48.105:8080/
-#EXTINF:-1,La Mejor FM 100.1
-http://16603.live.streamtheworld.com:80/XHSE_SC
-#EXTINF:-1,La Mejor FM 103.3
-http://14013.live.streamtheworld.com:80/XHVGFM_SC
-#EXTINF:-1,La Mejor FM 103.3
-http://17813.live.streamtheworld.com:80/XHENA_SC
-#EXTINF:-1,La Invasora 880 AM
-http://scc.cnwks.ws:8688/stream/1
-#EXTINF:-1,40 Principales 1080 AM Irapuato
-http://192.187.112.50:8194/stream/1
-#EXTINF:-1,UABC Radio 104.1
-http://148.231.3.56:80/mxl
-#EXTINF:-1,Amor 1050 AM Aguascalientes
-http://zer.zuperdns.net:1045/stream/1
-#EXTINF:-1,Caxcan 95.1 FM
-http://zer.zuperdns.net:9501/stream/1
-http://zer.zuperdns.net:2001/stream/1
-#EXTINF:-1,Radio Sonora 103.9 FM
-http://s1.radiosonorense.com:2150/stream/1
-#EXTINF:-1,Radio UAEM 89.7 FM
-http://148.218.66.38:8000/stream/1
-#EXTINF:-1,Univ Juarez de Durango 100.5
-http://200.23.125.55:8000/stream/1
-#EXTINF:-1,Ultra 88
-http://streaming.promomedios.com:8000/stream/1
-#EXTINF:-1,Mix 99.3 FM
-http://17803.live.streamtheworld.com:80/XHTLFM_SC
-#EXTINF:-1,Radio Anime MX
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,Radio BI 790 AM
-http://201.159.48.107:2860
-#EXTINF:-1,Peniel Radio MIEL
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,UVA 1170 AM
-http://201.159.48.106:1407/
-#EXTINF:-1,DarkEnergyRadio
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,Amor 740 AM Puerto Vallarta
-http://15383.live.streamtheworld.com:80/XHVAYFM_SC
-#EXTINF:-1,Radio Mezcalito
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,Comunidad 18
-http://streaming.radionomy.com/JamendoLounge
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
+#EXTINF:-1,33hf Stereo Digital
+https://33hfstereo-zikoxweb.radioca.st/stream
+#EXTINF:-1,Radio Disney México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFMAAC.aac
+#EXTINF:-1,Ah!WorldMusic! 
+https://usa1.fastcast4u.com/proxy/lzayxsqp?mp=/1
+#EXTINF:-1,97.7 México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERC_FMAAC.aac
+#EXTINF:-1,LA QUE BUENA 1620 AM
+https://s4.citrus3.com:8220/stream
+#EXTINF:-1,RADIOSOFANDO
+https://stream9.mexiserver.com:7040/stream/1/
+#EXTINF:-1,Reactor 105.7 FM XHOF
+https://s2.mexside.net/8002/stream
+#EXTINF:-1,Alfa 91.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FM.mp3
+#EXTINF:-1,Nivel20
+https://listen.radioking.com/radio/100408/stream/139171
+#EXTINF:-1,Más Latina 96.5
+https://sc10.conectarhosting.com/proxy/maslatina?mp=/stream
+#EXTINF:-1,Azul Radio 
+https://centova57.instainternet.com/proxy/azulradi?mp=/stream
+#EXTINF:-1,La Z Radio 91.5 Cancun
+https://ss1.audiorama.com.mx:6672/stream/1/
+#EXTINF:-1,Artefaktor Radio
+https://c32.radioboss.fm/stream/32
+#EXTINF:-1,Rock Radio Online Mexico
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC286.mp3
+#EXTINF:-1,Radio Felicidad 1180 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAM.mp3
+#EXTINF:-1,Radio Anime
+https://radioanime.radioca.st/stream/1/
+#EXTINF:-1,Pop FM
+https://stream.zeno.fm/2x2m1q526zmtv
+#EXTINF:-1,Casa de Oración Radio 
+https://live2ssl.rcast.net/stream/68370/
+#EXTINF:-1,Noticias MVS
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM.mp3
+#EXTINF:-1,Digital 96.9 FM
+https://sc10.conectarhosting.com/proxy/xhtz?mp=/stream
+#EXTINF:-1,One FM 98.5 FM
+https://s2.radio.co/sae3372059/listen
+#EXTINF:-1,La Neta 102.5 FM
+https://sc10.conectarhosting.com/proxy/xeja?mp=/stream
+#EXTINF:-1,Magia 93.7 FM
+https://sc10.conectarhosting.com/proxy/xekl?mp=/stream
+#EXTINF:-1,Fórmula 1120 AM
+https://stream.zeno.fm/b8bdfg68z4zuv
+#EXTINF:-1,Joya 93.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FM.mp3
+#EXTINF:-1,Radio Centro 1030 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AM.mp3
+#EXTINF:-1,Planeta 103.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEPR_FM.mp3
+#EXTINF:-1,W Radio Mexico
+https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIO.mp3
+#EXTINF:-1,Qué Viva México
+https://panel.retrolandigital.com/radio/8160/listen?1587160450
 #EXTINF:-1,Radio Quelite
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,Digital 90.1
-http://18623.live.streamtheworld.com:80/XHRSFM_SC
-#EXTINF:-1,Digital 97.5 FM
-http://17853.live.streamtheworld.com:80/XHPQFM_SC
-http://99.198.107.186:8526/stream
-#EXTINF:-1,Grupera 92.9 FM
-http://www.tuasesorweb.com:8024/stream/1
-#EXTINF:-1,Fan World Anime Radio
-http://108.163.229.102:8077/stream/1
-#EXTINF:-1,Maxima FM 97.9
-http://www.tuasesorweb.com:8038/stream/1
-#EXTINF:-1,Super FM 102.9
-http://usa2.fastcast4u.com:3018/stream/1
-#EXTINF:-1,Radio Amlo
-http://stream.radioamlo.info:8010/stream/1
-#EXTINF:-1,Blu 92.3 FM
-http://radio.promosat.com:8102/stream/1
-http://212.83.135.226:7326/stream/1
-http://206.190.133.196:7042/stream/1
-#EXTINF:-1,Radio Hit la Explosiva 92.3 FM
-http://radio.promosat.com:8116/stream/1
-http://sss.cnwks.ws:8322/stream/1
+https://stream.zenolive.com/6nn4g7r73rquv
+#EXTINF:-1,Radio Mezcalito
+https://stream.zenolive.com/7g52z86342quv
+#EXTINF:-1,XHM - Siempre 88.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFM.mp3
+#EXTINF:-1,La Caliente Chihuahua
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHAHCFM.mp3
+#EXTINF:-1,La Caliente Victoria 95.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEAWAM.mp3
+#EXTINF:-1,La Caliente Nuevo Laredo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHNLOFM.mp3
+#EXTINF:-1,La Caliente Tepic 103.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHXTFM.mp3
+#EXTINF:-1,La Caliente San Luis 97.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSNPFM.mp3
+#EXTINF:-1,La Caliente Tampico 94.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTPOFM.mp3
+#EXTINF:-1,La Caliente Reynosa 93.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHAAAFM.mp3
+#EXTINF:-1,La Caliente Torreón 92.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTRRFM.mp3
+#EXTINF:-1,Hits FM Chihuahua
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCHAFM.mp3
+#EXTINF:-1,Hits FM Saltillo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHQCFM.mp3
+#EXTINF:-1,Hits FM Reynosa
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRYSFM.mp3
+#EXTINF:-1,Hits FM Torreón
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTOFM.mp3
+#EXTINF:-1,La AW
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHAWFM.mp3
+#EXTINF:-1,La T Grande
+https://playerservices.streamtheworld.com/api/livestream-redirect/XETAM_SC.mp3
+#EXTINF:-1,Radio Recuerdo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XENLAM.mp3
+#EXTINF:-1,La Caliente Monterrey
+https://playerservices.streamtheworld.com/api/livestream-redirect/XETFM.mp3
+#EXTINF:-1,Hits FM Monterrey
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITS106.mp3
+#EXTINF:-1,D95
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCHHFM.mp3
+#EXTINF:-1,RG 690
+https://playerservices.streamtheworld.com/api/livestream-redirect/RG690.mp3
+#EXTINF:-1,Milenio Monterrey
+https://playerservices.streamtheworld.com/api/livestream-redirect/FMTU.mp3
+#EXTINF:-1,Classic 106.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSIC106.mp3
+#EXTINF:-1,Radio K1
+https://streamingecuador.com:8000/radiok1
+#EXTINF:-1,Radio Uva 90.5 FM
+https://uva.streaming.radiogrupo.com/
+#EXTINF:-1,Radio Bi
+https://radiobi.streaming.radiogrupo.com/
+#EXTINF:-1,DK 1250 AM
+https://sp2.servidorrprivado.com:10947/
+#EXTINF:-1,Beat 100.9 FM 
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM.mp3
+#EXTINF:-1,La Z Ciudad Juárez
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEM_FMAAC.aac
+#EXTINF:-1,Ibero 90.9 FM
+https://noasrv.caster.fm:10182/live
+#EXTINF:-1,La Más Buena Saltillo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHTFM.mp3
+#EXTINF:-1,La Más Buena Matamoros 107.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVTHFM.mp3
+#EXTINF:-1,La Más Buena Monterrey 105.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPAGFM.mp3
+#EXTINF:-1,La Más Buena Torreón
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEBPFM.mp3
+#EXTINF:-1,98.5 La Comadre
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFM.mp3
+#EXTINF:-1,Fusión 90.1 FM
+https://sg.centrocibernetico.com/fusion
+#EXTINF:-1,Crystal 104.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMLOFMAAC.aac?dist=radionet
+#EXTINF:-1,Exa FM Veracruz
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFM.mp3
+#EXTINF:-1,Exa FM Torreón
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMP.mp3
+#EXTINF:-1,Exa FM Tijuana
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLX.mp3
+#EXTINF:-1,Exa FM Tampico
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOX.mp3
+#EXTINF:-1,Exa FM Puerto Vallarta
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJX.mp3
+#EXTINF:-1,Exa FM Nogales
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHQT.mp3
+#EXTINF:-1,Exa FM Monterrey
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSMTYFM.mp3
+#EXTINF:-1,Exa FM Mexicali
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFM.mp3
+#EXTINF:-1,Exa FM Mérida
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMRA.mp3
+#EXTINF:-1,Exa FM Ensenada
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHADA.mp3
+#EXTINF:-1,Exa FM Durango
+https://stream3.mexiserver.com:10076/stream.mp3
+#EXTINF:-1,Exa FM Cuernavaca
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCT.mp3
+#EXTINF:-1,Exa FM Chihuahua
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSBT.mp3
+#EXTINF:-1,Exa FM Campeche
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMI.mp3
+#EXTINF:-1,La Mejor Veracruz
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVEFM.mp3
+#EXTINF:-1,La Mejor Tuxtepec
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHXP.mp3
+#EXTINF:-1,La Mejor Torreón
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPE.mp3
+#EXTINF:-1,La Mejor Tijuana
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIM.mp3
+#EXTINF:-1,La Mejor Tampico
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJT.mp3
+#EXTINF:-1,La Mejor Puerto Vallarta
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJXAAC.aac
+#EXTINF:-1,La Mejor Piedras Negras
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRO.mp3
+#EXTINF:-1,La Mejor Nogales
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHNGS.mp3
+#EXTINF:-1,La Mejor Monterrey
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSROFM.mp3
+#EXTINF:-1,La Mejor León
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSOFM.mp3
+#EXTINF:-1,La Mejor Huajuapan
+https://streamingcwsradio30.com:7018/stream/1/
+#EXTINF:-1,La Mejor Hermosillo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHBHAAC.aac
+#EXTINF:-1,La Mejor Ensenada
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHENA_SC.mp3
+#EXTINF:-1,La Mejor Cuernavaca
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVZ.mp3
+#EXTINF:-1,La Mejor Ciudad Obregón
+https://24073.live.streamtheworld.com/XERCFM.mp3
+#EXTINF:-1,La Mejor Ciudad del Carmen
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM_SC
+#EXTINF:-1,La Mejor Acapulco
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSE.mp3
+#EXTINF:-1,La Movidita
+https://ice7.securenetsystems.net/MOVIDITA?
+#EXTINF:-1,La Z Guadalajara
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVOZ_FM.mp3
+#EXTINF:-1,Stereo Max
+https://stream.zeno.fm/vatct0y8z4zuv
+#EXTINF:-1,La Grupera Radio
+https://grupera893.b-cdn.net/stream
+#EXTINF:-1,Mix 106.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFM.mp3
+#EXTINF:-1,Amor FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFM.mp3
+#EXTINF:-1,Digital 93.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMOFM.mp3
+#EXTINF:-1,Exa FM Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3
+#EXTINF:-1,Banda 93.3 FM - La Mandona de Monterrey
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHQQ_FMAAC.aac
+#EXTINF:-1,Imagen Radio - XEDA FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM.mp3
+#EXTINF:-1,Exa FM Guadalajara 
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMA.mp3
+#EXTINF:-1,Los 40 Principales Mexico 
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.mp3
+#EXTINF:-1,AnimeNexus 
+https://cast.animenexus.net/radio/8000/animenexus
+#EXTINF:-1,La Rancherita del Aire 
+https://ais-sa2.cdnstream1.com/2577_64.aac
+#EXTINF:-1,SalsaMexico.com 
+https://radiolatina.info/8064/stream
+#EXTINF:-1,La Mejor Zacatecas 
+https://ais-sa2.cdnstream1.com/2384_128.mp3
+#EXTINF:-1,RADIO PEPITO 
+https://usa2.fastcast4u.com/proxy/radiopepito?mp=/1
+#EXTINF:-1,Panda Show Radio 
+https://stream.zeno.fm/504gq6zfzmzuv

@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Hausradio.net IDM Electronic Radio
-http://170.250.43.219:8000/
-#EXTINF:-1,Anima Amoris [IDM Break Core]
-http://amoris.sknt.ru:80/breakcore
-#EXTINF:-1,Anima Amoris [IDM]
-http://amoris.sknt.ru:80/idm
+#EXTINF:-1,elektronisch querbeat
+http://elektronisch_querbeat.stream.laut.fm/elektronisch_querbeat
+#EXTINF:-1,exclusive
+http://exclusive.stream.laut.fm/exclusive
+#EXTINF:-1,anechoic chamber music
+http://anechoic_chamber_music.stream.laut.fm/anechoic_chamber_music
+#EXTINF:-1,freeqradio
+http://freeqradio.stream.laut.fm/freeqradio
+#EXTINF:-1,bluewave
+http://bluewave.stream.laut.fm/bluewave

@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1,PARTY VIBE RADIO : JUNGLE
-http://94.130.242.5:8004/stream2
-#EXTINF:-1,nmrp
-http://listen.shoutcast.com/nmrp
-#EXTINF:-1,lockandload
-http://listen.shoutcast.com/lockandload
+#EXTINF:-1,mountainreggaeradio
+http://mountainreggaeradio.stream.laut.fm/mountainreggaeradio
+#EXTINF:-1,bassdropcollective
+http://bassdropcollective.stream.laut.fm/bassdropcollective
+#EXTINF:-1,baselbasedbass
+http://baselbasedbass.stream.laut.fm/baselbasedbass
+#EXTINF:-1,bpmcast
+http://bpmcast.stream.laut.fm/bpmcast

@@ -1,61 +1,49 @@
 #EXTM3U
-#EXTINF:-1,Radio Haifa 107.5
-https://stream.pcradio.ru/radiohaifa_1075-med
-#EXTINF:-1,Kan Bet Radio
-https://stream.pcradio.ru/kan_reshet_bet-med
-#EXTINF:-1,Kan Kol Hamusica Radio
-https://stream.pcradio.ru/kan_kol_hamusica-med
-#EXTINF:-1,Radio EL-HI
-https://stream.pcradio.ru/elhi_com-med
-#EXTINF:-1,Eco 99 FM Radio
-https://stream.pcradio.ru/eco99_fm-med
-#EXTINF:-1,Galey Israel 106.5 FM Radio
-https://stream.pcradio.ru/galey_israel-med
-#EXTINF:-1,Kan Gimel Radio
-https://stream.pcradio.ru/kan_reshet_gimel-med
-#EXTINF:-1,Kan 88 Radio
-https://stream.pcradio.ru/kan_88-med
-#EXTINF:-1,Radio Kol Rega 96 FM
-https://stream.pcradio.ru/kol_rega_96fm-med
-#EXTINF:-1,Radio Beat
-https://stream.pcradio.ru/beat_isr-med
-#EXTINF:-1,Tel Aviv 102FM Radio
-https://stream.pcradio.ru/telaviv_102fm-med
-#EXTINF:-1,The Best 106.4 Radio
-https://stream.pcradio.ru/thebest_1064-med
-#EXTINF:-1,i24News Radio
-https://stream.pcradio.ru/i24news_tv-med
-#EXTINF:-1,Pervoe Radio 89.1
-https://stream.pcradio.ru/pervoe_891-med
+#EXTINF:-1,Keazvmizrchit Yam Tichonit
+https://liveradio.co.il:9040/
+#EXTINF:-1,radiokeazvmizrchit
+http://liveradio.co.il:1040/
+#EXTINF:-1,רדיו קצב מזרחית
+https://www.liveradio.es/http://liveradio.co.il:9040/
+#EXTINF:-1,Radio Menta
+https://www.liveradio.es/http://menta-fm.co.il:8281/
+#EXTINF:-1,Radio Keazvmizrchit
+http://178.33.135.244:22672
+#EXTINF:-1,Radio Holmim Yamtichoni
+https://www.liveradio.es/http://178.33.135.244:21399/stream
+#EXTINF:-1,Lev Hayam Hatichon
+https://liveradio.co.il:1040/
+#EXTINF:-1,Better Radio
+https://r1.valorwp1.com:1235/stream
+#EXTINF:-1,Radio Breslev - KolHaNachal
+https://cast.ereznet.co.il/radio/8070/radio.mp3
+#EXTINF:-1,Radio Daniel
+https://stream.zeno.fm/5ffyfuy10f9uv
+#EXTINF:-1,רדיו חולמים מזרחית
+https://www.liveradio.es/http://liveradio.co.il:8070/
+#EXTINF:-1,Maxximixx Furious
+https://live.radio-eibiza.com:1865/stream
+#EXTINF:-1,Maxximixx Storm
+https://u22961583.onlinehome-server.com:1145/stream
+#EXTINF:-1,Fast Classical
+https://radio.fast-classical.com:8000/radio.mp3
+#EXTINF:-1,Maxximixx Play
+https://u22961583.onlinehome-server.com:1080/stream
+#EXTINF:-1,radio kol amerkaz
+https://www.liveradio.es/http://178.33.135.244:22672/stream
+#EXTINF:-1,radiokolamerkaz
+https://www.liveradio.es/https://liveradio.co.il:1040/
 #EXTINF:-1,Up2Dance Radio
-https://stream.pcradio.ru/up2dance-med
-#EXTINF:-1,Lelo Hafsaka 103FM Radio
-https://stream.pcradio.ru/lelo_hafsaka-med
-#EXTINF:-1,Jerusalem 101FM Radio
-https://stream.pcradio.ru/jerusalem_101fm-med
-#EXTINF:-1,Radius 100FM Radio
-https://stream.pcradio.ru/radius_100fm-med
-#EXTINF:-1,Kan Moreshet Radio
-https://stream.pcradio.ru/kan_reshet_moreshet-med
-#EXTINF:-1,Joint Beat Radio
-https://stream.pcradio.ru/joint_beat-med
-#EXTINF:-1,Kan Arabic Radio
-https://stream.pcradio.ru/kan_arabic-med
-#EXTINF:-1,Lev Hamedina 91FM Radio
-https://stream.pcradio.ru/lev_hamedina91-med
-#EXTINF:-1,Galgalatz Radio
-https://stream.pcradio.ru/galgalatz-med
-#EXTINF:-1,Joint Blues Radio
-https://stream.pcradio.ru/joint_blues-med
-#EXTINF:-1,Orenu Radio
-https://stream.pcradio.ru/orenu_radio-med
-#EXTINF:-1,Kan Tarbut Radio
-https://stream.pcradio.ru/kan_tarbut-med
+https://icecast.myradio.co.il/up2dance
+#EXTINF:-1,רדיו מרטיט מיתר בלב
+https://www.liveradio.es/http://radio-martit-m-b.com:9030/
+#EXTINF:-1,Radio EL-HI
+https://www.liveradio.es/http://a4.radioheart.ru:8002/RH6003
+#EXTINF:-1,Joint Radio Beat
+https://jointil.com/stream-beat
+#EXTINF:-1,Joint Radio Blues
+https://jointil.com/stream-blues
 #EXTINF:-1,Joint Radio Reggae
-https://stream.pcradio.ru/joint_radio-med
-#EXTINF:-1,Soul of Caucasus Radio
-https://stream.pcradio.ru/dusha_kavkaza-med
-#EXTINF:-1,Galei Tzahal Radio
-https://stream.pcradio.ru/galei_tzahal-med
-#EXTINF:-1,Murzik Radio
-https://stream.pcradio.ru/rad_mrzkrdr-med
+https://jointil.com/stream-reggae
+#EXTINF:-1,AVIVmedia
+http://equinox.shoutca.st:8127/

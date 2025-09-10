@@ -147,7 +147,8 @@ async function processLinks(linksToProcess, fileName) {
 
 /**
  * Generates the content for the checked M3U playlist.
- * This function is now more robust in preserving non-stream lines.
+ * This function is now more robust in preserving non-stream lines
+ * and correctly handling only valid #EXTINF + URL pairs.
  * @param {string} originalM3uContent - The original M3U content.
  * @param {Map<number, {titleLine: string, urlLine: string}>} tempValidLinks - Map of valid links by their original URL line index, with potentially updated URLs.
  * @returns {string} The content of the cleaned M3U playlist.
@@ -164,36 +165,37 @@ function generateOutputM3U(originalM3uContent, tempValidLinks) {
       continue; // Skip the original #EXTM3U as we added it at the beginning
     }
 
-    // Handle #EXTINF followed by a URL
+    // Handle #EXTINF lines. We only add them if their associated URL is valid.
     if (line.startsWith('#EXTINF')) {
       const nextLineIndex = i + 1;
-      if (nextLineIndex < originalLines.length) {
-        const nextLine = originalLines[nextLineIndex].trim();
-        // Check if the current #EXTINF has a corresponding valid URL on the next line
-        if (
-          (nextLine.startsWith('http://') || nextLine.startsWith('https://')) &&
-          tempValidLinks.has(nextLineIndex)
-        ) {
-          const { titleLine, urlLine } = tempValidLinks.get(nextLineIndex);
-          if (!addedLines.has(titleLine)) {
-            outputLines.push(titleLine);
-            addedLines.add(titleLine);
-          }
-          if (!addedLines.has(urlLine)) {
-            outputLines.push(urlLine);
-            addedLines.add(urlLine);
-          }
-          i = nextLineIndex; // Skip the URL line as it's already processed with its #EXTINF
-          continue; // Move to the next iteration
+      // Check if there is a next line and if it corresponds to a valid stream URL
+      if (
+        nextLineIndex < originalLines.length &&
+        tempValidLinks.has(nextLineIndex)
+      ) {
+        const { titleLine, urlLine } = tempValidLinks.get(nextLineIndex);
+        // Add #EXTINF and its validated URL
+        if (!addedLines.has(titleLine)) {
+          outputLines.push(titleLine);
+          addedLines.add(titleLine);
         }
+        if (!addedLines.has(urlLine)) {
+          outputLines.push(urlLine);
+          addedLines.add(urlLine);
+        }
+        i = nextLineIndex; // Skip the URL line as it's already processed with its #EXTINF
       }
+      // If the next line is not a valid URL or doesn't exist, we simply skip this #EXTINF
+      continue;
     }
+
     // Handle standalone HTTP/HTTPS links (without an #EXTINF directly above them)
     // or HTTP/HTTPS links that *were* preceded by #EXTINF but deemed invalid
     else if (line.startsWith('http://') || line.startsWith('https://')) {
       // If this specific URL line itself (by its original index) was marked as valid
+      // and it wasn't already handled by an #EXTINF block
       if (tempValidLinks.has(i)) {
-        const { urlLine } = tempValidLinks.get(i); // This would also contain its title if parsed with #EXTINF
+        const { urlLine } = tempValidLinks.get(i);
         if (!addedLines.has(urlLine)) {
           outputLines.push(urlLine);
           addedLines.add(urlLine);

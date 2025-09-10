@@ -1,22 +1,10 @@
 #EXTM3U
 #EXTINF:-1,1430 WPLN AM — NPR talk and world news
 http://wpln.streamguys.org:80/wplnam.mp3
-#EXTINF:-1,2UE Sydney
-#EXTINF:-1,3AW Melbourne
 #EXTINF:-1,560 KSFO
 https://16643.live.streamtheworld.com/KSFOAM.mp3
 #EXTINF:-1,77 WABC-AM
 https://18103.live.streamtheworld.com/WABCAM_SC
-#EXTINF:-1,ABC Radio Sydney 702AM
-#EXTINF:-1,ABC RN
-#EXTINF:-1,Açık Radyo 94.9
-#EXTINF:-1,Beograd 202
-#EXTINF:-1,Bremen Zwei
-#EXTINF:-1,BRT Bayrak FM
-#EXTINF:-1,bTV Radio
-#EXTINF:-1,Český Rozhlas Plus
-#EXTINF:-1,Chikuni Community
-#EXTINF:-1,CNN Türk
 #EXTINF:-1,Deutschlandfunk
 https://f141.rndfnk.com/ard/dlf/01/mp3/128/stream.mp3?cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=32W5dfXdnFLm68aQokYxt32K2oe&token=kbeBHcD-qSL3Ha_6nNVoZMZA4JSh0WwW82rh8NNsHGw&tvf=hkdRyQYOZBhmMTQxLnJuZGZuay5jb20
 #EXTINF:-1,France Bleu
@@ -27,22 +15,14 @@ https://icecast.radiofrance.fr/franceculture-midfi.mp3
 http://icecast.radiofrance.fr/franceinter-midfi.mp3
 #EXTINF:-1,Hope 103.2
 https://23093.live.streamtheworld.com/2CBA.mp3
-#EXTINF:-1,Jovem Pan AM
-#EXTINF:-1,KBOO Community Radio 90.7 FM, Portland
-#EXTINF:-1,KIRO 97.3 FM Seattle
 #EXTINF:-1,KKAT AM - Salt Lake City Utah
 https://24873.live.streamtheworld.com/KKATAM_SC
-#EXTINF:-1,KQED-FM 88.5 LA, California
 #EXTINF:-1,KUNM FM Radio, Albuquerque, New Mexico
 https://19273.live.streamtheworld.com/KUNMFM_128.mp3
-#EXTINF:-1,KXLU 88.9 FM, LA
-#EXTINF:-1,Lbc
-#EXTINF:-1,Moody Radio
 #EXTINF:-1,Nashville News 90.3 WPLN FM
 http://wpln.streamguys.org:80/wplnfm.mp3
 #EXTINF:-1,New Country 96.3 KSCS, TX
 https://18443.live.streamtheworld.com/KSCSFM_SC
-#EXTINF:-1,NRK P2
 #EXTINF:-1,Radio 1
 http://icecast.omroep.nl:80/radio1-bb-mp3
 #EXTINF:-1,Radio 3
@@ -51,27 +31,17 @@ https://0nlineradio.stream13.radiohost.de/0r-trending-charts?ref=tiny&path=addra
 https://0nlineradio.stream13.radiohost.de/0r-trending-charts?ref=tiny&path=addrad.io%2F4459f84&upd-meta&upd-scheme=https&_art=dD0xNzU3NTIzODc4JmQ9NzEyYzk5YzAzYmJmMGY3YzA5MDA
 #EXTINF:-1,Rádio Bandeirantes
 https://27443.live.streamtheworld.com/RADIOBANDEIRANTES_SC
-#EXTINF:-1,Radio Moreeni
-#EXTINF:-1,Radio Nacional
-#EXTINF:-1,Radio Onda Cero
-#EXTINF:-1,Rádio Regina BB
 #EXTINF:-1,Rádio Renascença
 https://22653.live.streamtheworld.com/RADIO_RENASCENCA_SC
-#EXTINF:-1,RadioSunna
-#EXTINF:-1,Radyo Trafik
 #EXTINF:-1,RAI Radio 1
 http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast
-#EXTINF:-1,RÁS 1
 #EXTINF:-1,RMC
 https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.playerId=RMC_audio_web&aw_0_1st.aggregator=RMC_audio_web
 #EXTINF:-1,RTÉ Radio 1
 http://25693.live.streamtheworld.com/RTE_1_INT.mp3?tdsdk=rte
-#EXTINF:-1,SEN
 #EXTINF:-1,Shannonside FM
 https://edge.audioxi.com/SHANNONSIDE
-#EXTINF:-1,Vidin
 #EXTINF:-1,VRT Radio 1
 http://vrt.streamabc.net/vrt-radio1-mp3-128-9751183?sABC=68p1nr7o%230%23r3s7sqor3o59spo9ss553qn580n913ps%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1757523579
 #EXTINF:-1,ΣΚΑΪ 100.3
 http://netradio.live24.gr:80/skai1003
-#EXTINF:-1,Радио Београд 2

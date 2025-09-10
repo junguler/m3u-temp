@@ -1,19 +1,14 @@
 #EXTM3U
 #EXTINF:-1,ABC Lounge
 https://str1.openstream.co/589
-#EXTINF:-1,Autoroute Info - Zone Nord
-#EXTINF:-1,Autoroute Info - Zone Sud
-#EXTINF:-1,B4B Club Dance
 #EXTINF:-1,B4B Disco Funk
 https://eu10.fastcast4u.com:8120/
 #EXTINF:-1,Champagne FM
 https://reims.ice.infomaniak.ch/reims-128.mp3
 #EXTINF:-1,Chante France 90.9 FM
 https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3
-#EXTINF:-1,Christmas Hits 1
 #EXTINF:-1,Club FG
 https://stream.rcs.revma.com/5kucq079n98uv
-#EXTINF:-1,Decibel Station
 #EXTINF:-1,Delta FM Dunkerque
 https://deltafmdunkerque.ice.infomaniak.ch:80/deltafmdunkerque-high.mp3
 #EXTINF:-1,Delta FM St. Omer
@@ -26,7 +21,6 @@ https://stream.vestaradio.com/DivaFm
 https://stream.rcs.revma.com/tmbhq479n98uv
 #EXTINF:-1,FIP
 http://icecast.radiofrance.fr/fip-midfi.mp3
-#EXTINF:-1,Fip Autour de L'électro
 #EXTINF:-1,FIP Électro
 http://icecast.radiofrance.fr/fipelectro-midfi.mp3
 #EXTINF:-1,FIP Jazz
@@ -45,14 +39,6 @@ https://icecast.radiofrance.fr/franceculture-midfi.mp3
 http://icecast.radiofrance.fr/franceinfo-midfi.mp3
 #EXTINF:-1,France Inter
 http://icecast.radiofrance.fr/franceinter-midfi.mp3
-#EXTINF:-1,Fréquence 3
-#EXTINF:-1,Fun Radio France
-#EXTINF:-1,Funky Pearls Radio
-#EXTINF:-1,Hits 1
-#EXTINF:-1,Hits 1 latina
-#EXTINF:-1,Hits 1 Monaco
-#EXTINF:-1,HotMixRadio 80
-#EXTINF:-1,Hotmixradio New
 #EXTINF:-1,Jazz Radio
 https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
 #EXTINF:-1,Jazz Radio Funk
@@ -67,42 +53,24 @@ http://jazz-wr10.ice.infomaniak.ch/jazz-wr10-128.mp3
 https://listen.radioking.com/radio/417076/stream/473398
 #EXTINF:-1,Le Mouv
 https://icecast.radiofrance.fr/mouv-midfi.mp3
-#EXTINF:-1,Marsanaryas
-#EXTINF:-1,Nostalgie
-#EXTINF:-1,Nostalgie Légendes
-#EXTINF:-1,NRJ At Work
-#EXTINF:-1,NRJ Classic Rock
-#EXTINF:-1,NRJ Dance 90
-#EXTINF:-1,NRJ Fiesta
-#EXTINF:-1,NRJ France
-#EXTINF:-1,NRJ French Hits
 #EXTINF:-1,Oui FM - Acoustic
 http://acoustic.stream.ouifm.fr/ouifmacoustic.mp3
-#EXTINF:-1,OÜI FM Paris
-#EXTINF:-1,Pulsradio Dance
-#EXTINF:-1,Radio 3s / SolarSoundSystem
 #EXTINF:-1,Radio Emotion
 http://radioemotion.ice.infomaniak.ch/radioemotion-128.mp3
 #EXTINF:-1,Radio FG French
 https://stream.rcs.revma.com/7081n2b6p98uv
 #EXTINF:-1,Radio Freedom
 http://freedomice.streamakaci.com:80/freedom.mp3
-#EXTINF:-1,Radio Graf'Hit
 #EXTINF:-1,Radio Lib'
 http://manager6.streamradio.fr:1620/?type=http&nocache=1642681240
-#EXTINF:-1,Radio METAL
-#EXTINF:-1,Radio Systeme 30600
 #EXTINF:-1,Radio Virage 89.3 FM, Lyon
 http://virageradio.ice.infomaniak.ch/virageradio-high.mp3
-#EXTINF:-1,Rire et Chansons
 #EXTINF:-1,RMC
 https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.playerId=RMC_audio_web&aw_0_1st.aggregator=RMC_audio_web
-#EXTINF:-1,RTL 2 Calais
 #EXTINF:-1,Scoop
 http://radioscooplyon.ice.infomaniak.ch:80/radioscoop-lyon-128.mp3
 #EXTINF:-1,Skyrock
 http://icecast.skyrock.net:80/s/natio_mp3_128k
-#EXTINF:-1,SwoothRadio
 #EXTINF:-1,Top FM
 http://str30.creacast.com:80/top_fm
 #EXTINF:-1,Top Music Strasbourg
@@ -113,6 +81,3 @@ https://vibration.ice.infomaniak.ch/vibration-high.mp3
 https://vibration90s.ice.infomaniak.ch/vibration90s.mp3
 #EXTINF:-1,Vinci Autoroute Zone Alpes-Provence
 http://str0.creacast.com:80/radio_vinci_autoroutes_6
-#EXTINF:-1,VinyleRadio
-#EXTINF:-1,Virgin Radio France
-#EXTINF:-1,YDL 80's Music Stars

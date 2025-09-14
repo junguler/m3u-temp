@@ -1,29 +1,17 @@
 #EXTM3U
-#EXTINF:-1,AOLMRadio
-http://listen.radionomy.com/AOLMRadio
-#EXTINF:-1,Bleh
-http://listen.radionomy.com/Bleh
-#EXTINF:-1,DM Radio Bijeljina
-http://185.236.167.12:8040/
-#EXTINF:-1,DylanRadio.com
-http://144.217.203.226:8138
-#EXTINF:-1,Funk Folk Rock Radio
-http://listen.radionomy.com:80/funk-folk-rock-radio
-#EXTINF:-1,Harry Chapin Radio
-http://173.244.209.143:8214/live
-#EXTINF:-1,Kossuth Ter Radio
-http://195.231.83.251:8056/
-#EXTINF:-1,Musiculteur
-http://listen.radionomy.com/Musiculteur
-#EXTINF:-1,Radio Hrankovic
-http://37.187.79.56:2616/stream
-#EXTINF:-1,Radio SnagaBosne
-http://97.86.0.12:8022
-#EXTINF:-1,Radio Svegot
-http://listen.radionomy.com:80/radio-svegot
-#EXTINF:-1,Radio Twenterand NL
-http://95.211.187.193:8500/radiotwenterand_192
-#EXTINF:-1,RocknFolk Radio
-https://streamingv2.shoutcast.com/rocknfolk-radio
-#EXTINF:-1,vivaldi
-http://107.150.53.50:4034/stream
+#EXTINF:-1,Exclusively Bruce Springsteen
+https://streaming.exclusive.radio/er/springsteen/icecast.audio
+#EXTINF:-1,Exclusively Jackson Browne
+https://streaming.exclusive.radio/er/jacksonbrowne/icecast.audio
+#EXTINF:-1,Exclusively James Taylor
+https://streaming.exclusive.radio/er/jamestaylor/icecast.audio
+#EXTINF:-1,Exclusively Rod Stewart
+https://streaming.exclusive.radio/er/rodstewart/icecast.audio
+#EXTINF:-1,K-SUN66 CLASSICS
+http://node-19.zeno.fm/01c0um0fhhruv?rj-ttl=5&amprj-tok=AAABezS1B4YAl1f8j3Z1vMst7g
+#EXTINF:-1,Radio Capital Rocks
+https://stream.zeno.fm/851y2rvvnwzuv
+#EXTINF:-1,The Hard Rock Classic Rock Stream
+https://rdst.win:59858/autodj
+#EXTINF:-1,WebHitsRadio [Rock edition] [Texmex]
+https://cast1.torontocast.com:4450/stream

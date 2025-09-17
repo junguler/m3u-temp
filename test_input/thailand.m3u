@@ -1,227 +1,179 @@
 #EXTM3U
-#EXTINF:-1,955 Virgin Hitz
-http://prdonline.prd.go.th:8206/
-#EXTINF:-1,เพลงล-กท-ง-ไทยลานนาเรด-โอ
-https://inter.lannaradio.com/radio/8000/radio.mp3
-#EXTINF:-1,GSSM 9175
-http://112.121.151.133:8274/
-#EXTINF:-1,102 Radio
-http://media.login.in.th:1100/
-#EXTINF:-1,1035 FM One
-http://fmone.plathong.net:7010/stream.mp3
-#EXTINF:-1,1075 OpenMind
-http://112.121.150.133:9048/
-#EXTINF:-1,10775 MHZ Pattaya Sunshine
-http://icecast.piesoft.net:8000/pat
-#EXTINF:-1,558channel
-http://prdonline.prd.go.th:8006/
-#EXTINF:-1,90rakthai
-http://radio11.plathong.net:8896/stream.mp3
-#EXTINF:-1,97 Tourist Station
-http://link.onair.network:8058/audio.mp3
-#EXTINF:-1,AM 1143
-http://rstream.mcot.net:8000/am1143
-#EXTINF:-1,AM 1494
-http://rstream.mcot.net:8000/am1494
-#EXTINF:-1,Anime I Radio
-http://144.217.203.184:8398/
-#EXTINF:-1,Anime Thai Radio
-http://ohmi-design.com:8636/stream.mp3
-#EXTINF:-1,Anurak Radio
-http://112.121.150.133:8143/live
-#EXTINF:-1,Bangkok FM
-http://europa.shoutca.st:8644/stream.mp3
-#EXTINF:-1,Buddy Radio
+#EXTINF:-1,102 Radio Listen live
+https://cdn-th2.livestreaming.in.th/shoutcast/1100
+#EXTINF:-1,103 Like FM Listen live
+https://radio10.plathong.net/7064/stream.mp3
+#EXTINF:-1,AM 1143 Companion Wave Listen live
+https://live-org-01-cdn.mcot.net/RegionRadio/Chanthaburi.stream_aac/playlist.m3u8
+#EXTINF:-1,BKK Fm Listen live
+https://rsas.bkk.fm/radio
+#EXTINF:-1,Buddy Radio - บัดดี้เรดิโอ 104.5 MHz Listen live
 https://apps4.mcot.net/stream579.aac
-#EXTINF:-1,Buzzin Radio Pattaya
+#EXTINF:-1,Buzzin Pattaya Radio Listen live
 https://streams.radio.co/s102cd33bc/listen
-#EXTINF:-1,Capitol FM Bangkok
-http://atlanticthai.primcast.com:5898/
-#EXTINF:-1,CBS FM International
-http://217.28.20.20:8018/autodj
-#EXTINF:-1,Chiangmai Radio
-http://112.121.151.133:8124/live
-#EXTINF:-1,Chili Pop Thailand
-http://s1.chiliradiothailand.com:8010/chilipop
-#EXTINF:-1,Chill FM
-https://real3.atimemedia.com/live/chill.sdp/playlist.m3u8
-#EXTINF:-1,City Radio Pattaya
-https://stream.radiojar.com/493e3018b9quv
-#EXTINF:-1,CityLife 9375 FM
-http://onair.onair.network:8076/
-#EXTINF:-1,COOL 93 Fahrenheit
-http://111.223.51.7:8000/
-#EXTINF:-1,Cool 93 Fahrenheit
-http://111.223.51.7:8000/stream/1?type=.mp3
-#EXTINF:-1,DontreeSeason Modern
-http://112.121.150.133:8203/live
-#EXTINF:-1,DontreeSeason Modern 9875 FM
-http://radio01.hostrang.com:1460/
-#EXTINF:-1,Eingdoi Radio
-http://ohmi-design.com:8170/
-#EXTINF:-1,Fabulous 103 FM
+#EXTINF:-1,Gumbo Square Band Global Radio 1 Listen live
+https://s4.radio.co/sf168437ab/listen
+#EXTINF:-1,Radiolatinecaraibos Listen live
+https://www.radioking.com/play/radiolatinecaraibos
+#EXTINF:-1,Chill FM Listen live
+https://atimeonline.smartclick.co.th/chill
+#EXTINF:-1,COOLfahrenheit Listen live
+https://coolism-web.cdn.byteark.com/stream/1
+#EXTINF:-1,Eazy FM 105.5 Listen live
+https://playerservices.streamtheworld.com/api/livestream-redirect/EAZYFM_1055AAC.aac
+#EXTINF:-1,Eingdoi Radio - อิงดอย เรดิโอ Listen live
+https://radio.ohmi-design.com:8170/?type=http
+#EXTINF:-1,Fabulous 103Fm Listen live
 https://thai-host.com:8100/pattaya103.ogg
-#EXTINF:-1,Family Radio FM 9375
-https://radio14.plathong.net/7298/
-#EXTINF:-1,FAT93
-http://112.121.151.133:8272/stream
-#EXTINF:-1,FM 1005
-http://rstream.mcot.net:8000/fm1005
-#EXTINF:-1,FM 95
-http://rstream.mcot.net:8000/fm95
-#EXTINF:-1,FM 99 Sport
-http://rstream.mcot.net:8000/fm99
-#EXTINF:-1,FM 9925
-http://live.smiledj.net:8082/audio
-#EXTINF:-1,FM One
-http://fmone.plathong.net:7010/stream/1/
-#EXTINF:-1,FM One 10275 MHz
-https://apps4.mcot.net/stream578.aac
-#EXTINF:-1,FM965
+#EXTINF:-1,FM 96.5 Listen live
 https://mcotdigital-9ksau4.cdn.byteark.com/radiocdn_edge/fm965.stream_aac/playlist.m3u8
-#EXTINF:-1,FRIEND 10575
-http://112.121.150.133:8271/live
-#EXTINF:-1,fungfungfungcom
-http://link2.onair.network:8006/
-#EXTINF:-1,GF Radio
-http://www.gfcom.info:8000/
-#EXTINF:-1,GREAT 93
-https://a.hostpleng.cloud/8000/
-#EXTINF:-1,GREAT 93
-https://a.hostpleng.cloud/8000/stream
-#EXTINF:-1,GSSM
-http://112.121.151.133:8274/*.mp3
-#EXTINF:-1,Happy Family Radio
+#EXTINF:-1,FM99 Active Radio Listen live
+https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/playlist.m3u8
+#EXTINF:-1,Cinecón Radio 101.3 Listen live
+https://audio5.tustreaming.cl/7540/server
+#EXTINF:-1,Ngammwandeo Infos Listen live
+https://www.radioking.com/play/ngammwandzo-infos
+#EXTINF:-1,ETS-Radio Listen live
+https://stream.laut.fm/etsradio-2
+#EXTINF:-1,WEKZ - Big Oldies 93.7 FM Listen live
+https://ice7.securenetsystems.net/WEKZFM
+#EXTINF:-1,Great 93 Listen live
+https://a.hostpleng.cloud/8000/server
+#EXTINF:-1,Happy Family Radio FM 105 MHz Listen live
 https://cld-streaming.prd.go.th/live/192_1050.stream/playlist.m3u8
-#EXTINF:-1,Happy Time
-http://radio99.servradio.com:9336/
-#EXTINF:-1,HappyTime 935 FM
-http://radio99.servradio.com:9336/stream.mp3
-#EXTINF:-1,Hmong World Radio
-http://199.195.194.94:8151/stream.mp3
-#EXTINF:-1,HTC Rradio Network 9875 FM
-http://ohmi-design.com:8862/
-#EXTINF:-1,Huahin Radio
-https://inter1.plathong.net/7008/
-#EXTINF:-1,I AM Radio 89 FM
-http://link.onair.network:8054/stream/1/?1534418634304
-#EXTINF:-1,I AM Radio 89FM
-http://onair3.onair.network:8070/89?1511277837761
-#EXTINF:-1,IC Radio Ayutthaya
-http://radio1.serverradio.net:8278/stream.mp3
-#EXTINF:-1,iKyzaa Radio
-https://stream.pjcdn.com:9000/
-#EXTINF:-1,Like FM
-http://103likefm.plathong.net:7064/stream
-#EXTINF:-1,LIVE 895
-http://myradio.plathong.net:8020/
-#EXTINF:-1,Looktung Eingdoi Station  Thailand
-http://radio14.plathong.net:7126/stream.mp3
-#EXTINF:-1,Love Radio
+#EXTINF:-1,Hitz 95.5 Listen live
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITZ_955AAC_128.aac
+#EXTINF:-1,Huahin Radio Thailand  Listen live
+https://inter1.plathong.net/7008/stream/1/
+#EXTINF:-1,Kiss FM Pattaya Listen live
+https://rsas.bkk.fm/kiss
+#EXTINF:-1,Looktung Thailanna Radio - ไทยลานนาเรดิโอ Listen live
+https://inter.lannaradio.com/radio/8000/radio.mp3
+#EXTINF:-1,Love Radio Listen live
 https://streamingv2.shoutcast.com/-LoveRadio
-#EXTINF:-1,Manager Radio
-http://202.142.203.23:1935/radiomanager/radio_9000.stream/playlist.m3u8
-#EXTINF:-1,Mazz Radio 10775
-http://radio1.comgig.com:4096/stream.m4a
-#EXTINF:-1,MC Radio 9525
-http://live.smiledj.net:8000/audio
-#EXTINF:-1,MCOT Radio
-http://rstream.mcot.net:9066/
-#EXTINF:-1,MerciGod Radio
-http://122.155.0.201:9000/stream.mp3
-#EXTINF:-1,Mono Fresh 915
-http://stream.monofresh915.com:8000/Radio_fresz915FM.mp3
-#EXTINF:-1,MUNFM
-http://103.246.18.3:4018/:
-#EXTINF:-1,Number One Radio
-https://str04.fluidstream.net/rn1.mp3
-#EXTINF:-1,OnAirNetwork
-http://onair22.onair.network:8074/1/stream.mp3
-#EXTINF:-1,Pattaya One
-https://pattayaone.thailandstreaming.net/pattaya_one.mp3
-#EXTINF:-1,Pattaya People Radio
-http://media.ppcnseo.com:8010/yes2day.mp3
-#EXTINF:-1,Phayao FM 9525
-http://prdonline.prd.go.th:8124/
-#EXTINF:-1,PhuketReport
-http://radio12.plathong.net:7192/
-#EXTINF:-1,Ployradio Thailand
-https://radio14.plathong.net/7134/live
-#EXTINF:-1,PopRadio
-https://streamingv2.shoutcast.com/-PopRadio
-#EXTINF:-1,Psu Radio 88
-http://radio2.thzhost.com:4066/
-#EXTINF:-1,Quality News Station
-http://prdonline.prd.go.th:8208/
-#EXTINF:-1,Radio 981
-http://203.131.210.196:8000/stream1/stream_live
-#EXTINF:-1,Radio BTR
-http://69.46.24.226:7056/
-#EXTINF:-1,Radio Fep Blind
-http://112.121.150.133:9698/stream
-#EXTINF:-1,Radio Thailand
-http://prdonline.prd.go.th:8218/stream.mp3
-#EXTINF:-1,Radio Thailand Chiangmai 9325
-http://prdonline.prd.go.th:8118/
-#EXTINF:-1,Radio Thailand Chiangmai 980
-http://prdonline.prd.go.th:8120/
-#EXTINF:-1,Radio Thailand Lampang
-http://202.129.35.2:8018/stream.mp3
-#EXTINF:-1,Radio Thailand Phetchabun
-http://prdonline.prd.go.th:8202/
-#EXTINF:-1,Radio Thailand Trang
-http://202.129.49.10:8030/
-#EXTINF:-1,Radio TMD
-http://www.radio.tmd.go.th:8014/
-#EXTINF:-1,Radio Trip 8975
-http://media.login.in.th:1150/
-#EXTINF:-1,Siangdham
-http://202.142.203.28:8000/siangdham.mp3
-#EXTINF:-1,Sukson Radio
-https://stream.pjcdn.com:9000/SuksonRadio?t=1461247913065
-#EXTINF:-1,Sukson Radio
-https://stream.pjcdn.com:9000/SuksonRadio?t=1491478571736
-#EXTINF:-1,Sunshine Radio
-http://c1.hostpleng.cloud:8046/live
-#EXTINF:-1,Surf 1025 FM
-http://206.189.157.88:8000/surf1025
-#EXTINF:-1,SURF 935 FM
-http://112.121.150.133:9626/
-#EXTINF:-1,TAB Radio Channel 1
-http://103.22.182.145:8400/tabradio
-#EXTINF:-1,Talay 9025 FM
-http://206.189.157.88:8000/talay
-#EXTINF:-1,Thai Love Lovers 90
-http://radio11.plathong.net:8896/
-#EXTINF:-1,Thai Muslim Radio
-http://radio.portradiothai.com:6030/
-#EXTINF:-1,Three Tops
-http://myradio.plathong.net:8068/
-#EXTINF:-1,Traffic pro
-http://122.155.16.48:8955/stream.mp3
-#EXTINF:-1,TV5 FM94
-http://fm94.tv5.co.th:8000/fm94ch3
-#EXTINF:-1,Vipak radio
-http://103.22.182.105:7068/stream.mp3
-#EXTINF:-1,Virgin HitZ
-https://wzorigin.becteroradio.com/Hitz/Hitz-Listen-Med/playlist.m3u8
-#EXTINF:-1,Voice of Navy
-https://radio12.plathong.net/7346/
-#EXTINF:-1,Voice of navy 15 Narathiwat
-http://rcp2.plathong.net:9934/
-#EXTINF:-1,Voice of navy 5 Pattaya
-http://myradio.plathong.net:8704/stream.mp3
-#EXTINF:-1,Voice of navy 5 Sattahip
-http://rcp2.plathong.net:9918/
-#EXTINF:-1,WatNaiRong
-http://103.7.56.219:4106/
-#EXTINF:-1,WatPakBo
-http://radio1.siamlivehost.com:8001/
-#EXTINF:-1,Winkinth
-http://radio.wink.in.th/
-#EXTINF:-1,Wow Radio Phrae
-http://43.229.149.109:8003/stream.mp3
-#EXTINF:-1,Yesterday
-http://radio2.comgig.com:4122/stream.mp4
-#EXTINF:-1,BigHit Network
-http://server1.lannaradio.com:8010/radio.mp3?type=http
+#EXTINF:-1,ABC Avril Lavigne Listen live
+https://listen.openstream.co/3185/audio
+#EXTINF:-1,KNWZ - K-News 94.3 FM Listen live
+https://live.wostreaming.net/direct/alphacorporate-knwzamaac-imc4
+#EXTINF:-1,Novaprimeira Listen live
+https://paineldj.com.br:7310/server
+#EXTINF:-1,Freestyle Radio Listen live
+https://stream.laut.fm/freestyle
+#EXTINF:-1,Deep Tech Club Listen live
+https://stream.laut.fm/deep-tech-club
+#EXTINF:-1,A Mississippi Blues Listen live
+https://jenny.torontocast.com:2000/stream/amississippiblues
+#EXTINF:-1,Phuket Island Radio 91.5 & 102.5 FM Listen live
+https://stream.phuketfmradio.com/pfmMP3
+#EXTINF:-1,Radio Tirol Listen live
+https://orf-live.ors-shoutcast.at/tir-q2a
+#EXTINF:-1,Your Christmas Station Listen live
+https://livestream.netpower.co.uk/radio/8005/radio.mp3
+#EXTINF:-1,mlg-radio Listen live
+https://stream.laut.fm/mlg-radio?ref=radiode
+#EXTINF:-1,Mellow 97.5 Listen live
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w626320548.m3u8
+#EXTINF:-1,Met 107 Fm Listen live
+https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist.m3u8
+#EXTINF:-1,Modern Radio 9875 - Dontreeseason Listen live
+https://80.hostpleng.com/api.php?url=http://112.121.150.133:8203/live
+#EXTINF:-1,MUNfm Listen live
+https://4018.radio2.thzhost.com/stream.mp3
+#EXTINF:-1,Gewc Listen live
+https://stream.laut.fm/gewc
+#EXTINF:-1,M1.FM - Schlagerparty Listen live
+https://tuner.m1.fm/schlagerparty.mp3
+#EXTINF:-1,Radio Novo 91,5 FM Listen live
+https://cast2.hoost.com.br:20016/server
+#EXTINF:-1,Olleke Bolleke Radio Listen live
+https://radio.streemlion.com/OllekeBollekeRadio
+#EXTINF:-1,Pattaya One Radio Listen live
+https://s2.myradiostream.com/5060/
+#EXTINF:-1,Phuket Live Radio 89.5 Listen live
+https://radio12.plathong.net/8020/stream.mp3?type=http
+#EXTINF:-1,Ploy Radio Listen live
+https://radio14.plathong.net/7134/stream.mp3
+#EXTINF:-1,Radio Nashaa 90.75 Fm Listen live
+https://streamer.radio.co/seb6c7f6b0/listen
+#EXTINF:-1,Radio Surf 102.5 FM Listen live
+https://vs40.applesources.net:8000/surf1025
+#EXTINF:-1,360 Radio Listen live
+https://sonic-us.streaming-chile.com/8036/server
+#EXTINF:-1,rayfm Listen live
+https://stream.laut.fm/rayfm?ref=radiode
+#EXTINF:-1,RadRadio FM Listen live
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAD_RADIO_FMAAC_128.aac
+#EXTINF:-1,Rock On Radio Listen live
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_ON_RADIOAAC.aac
+#EXTINF:-1,Star FM Listen live
+https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_THAAC.aac
+#EXTINF:-1,TofuPop Radio Listen live
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOFU_POP_RADIOAAC_128.aac
+#EXTINF:-1,Voice of Navy 88.5 FM Listen live
+https://radio12.plathong.net/7346/stream.mp3
+#EXTINF:-1,Wow Radio Online Listen live
+https://inter.wowradiohit.com/radio/8000/stream.mp3
+#EXTINF:-1,รักษ์ปักษ์ใต้เรดิโอ Listen live
+https://radio10.plathong.net/7100/stream.mp3
+#EXTINF:-1,วิทยุเสียงอิสลาม FM 104.25 MHz Listen live
+https://radio12.plathong.net/7234/stream.mp3
+#EXTINF:-1,สถานีวิทยุปากเกร็ด FM 93.75 MHz Listen live
+https://radio14.plathong.net/7298/stream.mp3
+#EXTINF:-1,สถานีเพลงลูกกรุง Listen live
+https://radio.ohmi-design.com:8708/?type=http
+#EXTINF:-1,สถานีเพลงลูกทุ่ง เพื่อชีวิต Listen live
+https://live.eingdoi.com/looktung/audio.php
+#EXTINF:-1,เพื่อนเพลงสเตชั่น Listen live
+https://radio14.plathong.net/7060/stream.mp3
+#EXTINF:-1,Тэтим (Саха Радио) Listen live
+https://icecast-saha.cdnvideo.ru/saha
+#EXTINF:-1,RFT Charme - Radio Ticino Listen live
+https://streaming.smartradio.ch:8504/server
+#EXTINF:-1,Radio.Punct Listen live
+https://www.radioking.com/play/punct-1/392908
+#EXTINF:-1,piratensender Listen live
+https://stream.laut.fm/piratensender?ref=radiode
+#EXTINF:-1,Andy FM Listen live
+https://stream.laut.fm/andyfm
+#EXTINF:-1,Planet Rock Listen live
+https://stream-mz.planetradio.co.uk/planetrock.mp3
+#EXTINF:-1,Radio Meruelo Listen live
+https://ns100.emisionlocal.com/proxy/radiomeruelo?mp=/server
+#EXTINF:-1,Redneck Paradise Listen live
+https://stream.laut.fm/redneckparadise
+#EXTINF:-1,WXSS - 103.7 KISS-FM Listen live
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXSSFM.mp3
+#EXTINF:-1,Alles bunt gemischt Listen live
+https://stream.laut.fm/alles-bunt-gemischt
+#EXTINF:-1,Rádio Itatiaia - 97.1 FM Vale Listen live
+https://audio.heek.com.br/97fmvale
+#EXTINF:-1,100% DJ Set - 100FM רדיוס Listen live
+https://a25.streamgates.net/radios-audio/100Djset/chunks.m3u8
+#EXTINF:-1,10 Seconds To Rock Listen live
+https://stream.laut.fm/10secondstorock
+#EXTINF:-1,Radio Adige Listen live
+https://onair15.xdevel.com/proxy/radioadigemp3?mp=/stream/
+#EXTINF:-1,BDJoy - Oldschool Dance Tunes Listen live
+https://bdjoy.stream.laut.fm/bdjoy
+#EXTINF:-1,Radio Обозреватель - Музыка Кино Listen live
+https://radio-stream-2.obozrevatel.com/kino128.mp3
+#EXTINF:-1,Exclusively Phil Collins Listen live
+https://streaming.exclusive.radio/er/philcollins/icecast.audio
+#EXTINF:-1,STYRIA Listen live
+https://stream.laut.fm/styria?ref=radiode
+#EXTINF:-1,Sucesso 89.9 FM Listen live
+https://tudo.radio/proxy/cast61.sitehosting.com.br:8168/live
+#EXTINF:-1,Dolfijn FM Bright - Top 40 Listen live
+https://radiostreamfm.com/radio/8110/radio.mp3
+#EXTINF:-1,XHEPF La Rancherita 89.1 FM Ensenada Listen live
+http://sts.pergom.mx/xhepf
+#EXTINF:-1,Dash Swing Listen live
+https://ice55.securenetsystems.net/DASH80
+#EXTINF:-1,Radio Ariguanabo Listen live
+https://icecast.teveo.cu/LHNf74bt
+#EXTINF:-1,100% France - 100FM רדיוס Listen live
+https://a25.streamgates.net/radios-audio/100France/chunks.m3u8
+#EXTINF:-1,rti-radio-total-international Listen live
+https://stream.laut.fm/rti-radio-total-international?ref=radiode
+#EXTINF:-1,Радио Вероника Listen live
+https://play.global.audio/veronika.opus

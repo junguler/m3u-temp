@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1,radio-aziya-plyus
-http://62.122.137.82:8020/ap
-#EXTINF:-1,Radio Free Tajikistan
-http://rfe-channel-09.akacast.akamaistream.net/7/872/229659/v1/ibb.akacast.akamaistream.net/rfe_channel_09.mp3
-#EXTINF:-1,Radio Vatan
-http://217.11.177.201:8000/sr128
-#EXTINF:-1,Radio Hamsado
-http://85.25.237.157:8069/live
-#EXTINF:-1,novoe-radio
-http://eu4.radioboss.fm:8042/,1
-#EXTINF:-1,radio-tiroz
-http://s5.radioboss.fm:8440/stream
+#EXTINF:-1,Love Radio Tj 88.8 FM Listen live
+https://c22.radioboss.fm:18077/server
+#EXTINF:-1,Канд FM Listen live
+https://c24.radioboss.fm:18166/stream
+#EXTINF:-1,TINO Listen live
+https://stream.laut.fm/tino?ref=radiode
+#EXTINF:-1,Radio Soy Listen live
+https://cloudstream2032.conectarhosting.com/9500/server
+#EXTINF:-1,Radio Lib' Listen live
+https://manager6.streamradio.fr:2355/server
+#EXTINF:-1,Number1 Disco Listen live
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/playlist.m3u8
+#EXTINF:-1,Remember the Music FM 96.6 Listen live
+https://eu1.lhdserver.es:9041/server
+#EXTINF:-1,СССР Хит Радио - RadioSpinner Listen live
+https://live.radiospinner.com/sssrht-64
+#EXTINF:-1,Radio Web Bonne Nouvelle Listen live
+https://manager2.creativradio.com:1785/server

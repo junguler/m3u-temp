@@ -1,115 +1,61 @@
 #EXTM3U
-#EXTINF:-1,Radio Santa Claus
-https://streaming.radiostreamlive.com/radiosantaclaus_devices
-#EXTINF:-1,Radio Iskelma
-https://stream.bauermedia.fi/iskelma/hki_64.aac?direct=true
-#EXTINF:-1,Black Death  WildCat
-http://bluford.torontocast.com:8508/stream
-#EXTINF:-1,Aito Iskelm
-https://digitacdn.akamaized.net/hls/live/629243/aitoiskelma/master.m3u8
-#EXTINF:-1,Alternative  Wildcat
-http://144.217.253.136:8488/
-#EXTINF:-1,Basso Radio
-http://stream.basso.fi:8000/stream
-#EXTINF:-1,Finest FM
-http://shoutcast.finestfm.fi:8000/stream
-#EXTINF:-1,Finest FM 1020
-http://212.47.220.188:8000/stream.mp3
-#EXTINF:-1,Fun Tampere
-https://st.downtime.fi/fun.mp3?type=.mp3/stream.mp3
-#EXTINF:-1,Gothique  WildCat
-http://144.217.253.136:8535/
-#EXTINF:-1,Hard Rock  Wildcat
-http://bluford.torontocast.com:8556/stream
-#EXTINF:-1,Helmiradio
-https://digitacdn.akamaized.net/hls/live/629243/radiohelmi/master.m3u8
-#EXTINF:-1,HitMix
-https://digitacdn.akamaized.net/hls/live/629243/hitmix/master.m3u8
-#EXTINF:-1,Iskelm
-https://stream.bauermedia.fi/iskelma/tre_64.aac
-#EXTINF:-1,Jahrvi Sound
-http://giss.tv:8000/jahrvisound.ogg
-#EXTINF:-1,Jarvi Radio
-http://radio2.6net.fi:8000/jarviradio2
-#EXTINF:-1,Kasari Radio
-https://stream.bauermedia.fi/kasari/kasari_64.aac
-#EXTINF:-1,Loop
-https://digitacdn.akamaized.net/hls/live/629243/loop/master.m3u8
-#EXTINF:-1,NRJ Finland
-https://stream.bauermedia.fi/nrj/nrj_64.aac
-#EXTINF:-1,NRJ Finland Suomihitit
-http://185.52.127.131/fi/35061/mp3_128.mp3
-#EXTINF:-1,Pispalan Radio
-http://digiradio.xyz:8000/pispalanradio
-#EXTINF:-1,Radio 957
-https://stream.bauermedia.fi/radio957/radio957_64.aac
-#EXTINF:-1,Radio Aalto
-https://digitacdn.akamaized.net/hls/live/629243/radioaalto/master.m3u8
-#EXTINF:-1,Radio Auran Aallot
+#EXTINF:-1,Auran Aallot Listen live
 https://stream.bauermedia.fi/auranaallot/auranaallot_64.aac
-#EXTINF:-1,Radio City
-https://stream.bauermedia.fi/radiocity/hki_64.aac
-#EXTINF:-1,Radio Classic
-https://stream.bauermedia.fi/classic/classic_128.mp3
-#EXTINF:-1,Radio Dei
+#EXTINF:-1,Groove FM Business Listen live
+https://supla.digitacdn.net/live/_definst_/supla/groove/chunklist.m3u8
+#EXTINF:-1,HitMix Listen live
+https://supla.digitacdn.net/live/_definst_/supla/hitmix/chunklist.m3u8
+#EXTINF:-1,Iskelmä Listen live
+https://stream.bauermedia.fi/iskelma/iskelma_64.aac
+#EXTINF:-1,Järviradio Listen live
+https://jarviradio.radiotaajuus.fi:9000/jr
+#EXTINF:-1,Jouluradio - Happy Holidays Listen live
+https://c7.toivon.net/toivon/toivon_7?mp=/server
+#EXTINF:-1,Jouluradio - Indiejoulu Listen live
+https://c9.toivon.net/toivon/toivon_9?mp=/server
+#EXTINF:-1,Jouluradio - Jazzjoulu Listen live
+https://c8.toivon.net/toivon/toivon_8?mp=/server
+#EXTINF:-1,Jouluradio - Julradion Listen live
+https://c1.toivon.net/toivon/toivon_1?mp=/server
+#EXTINF:-1,Jouluradio - Lasten jouluradio Listen live
+https://c3.toivon.net/toivon/toivon_3?mp=/server
+#EXTINF:-1,Jouluradio - Pikkujouluradio Listen live
+https://c4.toivon.net/toivon/toivon_4?mp=/server
+#EXTINF:-1,Jouluradio - Rouhea Listen live
+https://c5.toivon.net/toivon/toivon_5?mp=/server
+#EXTINF:-1,RMF Classic Rock Listen live
+https://rs102-krk-cyfronet.rmfstream.pl/CLASSICROCKVT
+#EXTINF:-1,Power Hit Radio Listen live
+https://stream.zeno.fm/nnvc3rp8ptzuv
+#EXTINF:-1,NRJ Finland Listen live
+https://stream.bauermedia.fi/nrj/nrj_64.aac
+#EXTINF:-1,Radio City Listen live
+https://stream.bauermedia.fi/radiocity/radiocity_64.aac
+#EXTINF:-1,Radio Dei Listen live
 https://stream.dei.fi:8443/yleisohjelma
-#EXTINF:-1,Radio Fun
-https://st.downtime.fi/fun.mp3
-#EXTINF:-1,Radio Gramox
-http://37.187.5.67:8000/
-#EXTINF:-1,Radio Hear
-http://hear.fi:8000/hear.mp3
-#EXTINF:-1,Radio Hear
-http://radio.hear.fi:8000/hear.mp3?type=.mp3/stream.mp3
-#EXTINF:-1,Radio Helsinki
-https://stream.radiohelsinki.fi/
-#EXTINF:-1,Radio Inari
-http://radioinari.radioman.fi:8000/radioinari
-#EXTINF:-1,Radio Iskelma REX
-https://stream.bauermedia.fi/iskelma/jns_128.mp3
-#EXTINF:-1,Radio Lion
-https://c5.radioboss.fm:18218/stream
-#EXTINF:-1,Radio MFDM 90s Dance
-https://listen.radionomy.com/radiomfdm90-sdance
-#EXTINF:-1,Radio Moreeni
-http://153.1.15.29:8080/moreeni.mp3
-#EXTINF:-1,Radio Nova
-https://stream.bauermedia.fi/radionova/radionova_64.aac
-#EXTINF:-1,Radio Patmos
-https://s3.yesstreaming.net:9011/radio
-#EXTINF:-1,Radio Pooki
-https://stream.bauermedia.fi/radiopooki/radiopooki_128.mp3
-#EXTINF:-1,Radio Pori
-http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/radiopori
-#EXTINF:-1,Radio Ramona
-http://185.123.117.122:8000/ramona.mp3
-#EXTINF:-1,Radio Sandels
-http://suomiradio.pro:8080/
-#EXTINF:-1,Radio Sun
-https://app1.downtime.fi/sun.mp3
-#EXTINF:-1,Radio SuomiPop
-https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8
-#EXTINF:-1,Radio Vaasa
-http://stream.radiovaasa.fi:8000/radiovaasa.ogg
-#EXTINF:-1,Radio Voima
+#EXTINF:-1,Radio Nostalgia Listen live
+https://stream.bauermedia.fi/nostalgia/nostalgia_128.mp3?aw_0_1st.bauer_loggedin=false&ampaw_0_1st.playerid=BMUK_partner&ampaw_0_1st.skey=1597814197
+#EXTINF:-1,Radio Nova Listen live
+https://stream.bauermedia.fi/radionova/radionova_128.mp3
+#EXTINF:-1,Radio Pooki Listen live
+https://stream.bauermedia.fi/radiopooki/radiopooki_64.aac
+#EXTINF:-1,Radio Vaasa Listen live
+https://stream.radiovaasa.fi/radiovaasa.ogg
+#EXTINF:-1,Radio Voima Listen live
 https://cast2.radiovoima.fi/voima.mp3
-#EXTINF:-1,Radioverkko
-http://kuuntele.radioverkko.fi:8000/live
-#EXTINF:-1,Riemu Viesti
-https://listen.radionomy.com/riemuviesti
-#EXTINF:-1,Roll FM
-http://95.216.138.152:8888/livestream
-#EXTINF:-1,Sea FM 888
-http://87.98.216.129:4976/
-#EXTINF:-1,Sea FM Radio
-http://s3.myradiostream.com:4976/listen.mp3
-#EXTINF:-1,SuomiRock
-https://stream.bauermedia.fi/suomirock/suomirock_64.aac
-#EXTINF:-1,WildCat  70s  80s Metal
-https://fred.torontocast.com:1735/stream
-#EXTINF:-1,WildCat  Metal
-https://fred.torontocast.com:1445/stream
-#EXTINF:-1,WildCat  RockaRolla
-https://fred.torontocast.com:1435/stream
-#EXTINF:-1,Ysri Radio
-https://stream.bauermedia.fi/ysari/ysari_64.aac
+#EXTINF:-1,WildCat - Metal Listen live
+https://fred.torontocast.com:1445/server
+#EXTINF:-1,100 Radio-Musikkiste Listen live
+https://stream.laut.fm/100radio-musikkiste
+#EXTINF:-1,Scala Radio Listen live
+https://stream-mz.planetradio.co.uk/scalahigh.aac
+#EXTINF:-1,100% Shlomo - 100FM רדיוס Listen live
+https://a25.streamgates.net/radios-audio/100Shlomo/chunks.m3u8
+#EXTINF:-1,BBC Radio 2 Listen live
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+#EXTINF:-1,43 Essen 12 Listen live
+https://stream.laut.fm/43essen12
+#EXTINF:-1,Radio Monte Carlo 102.1 FM Listen live
+https://montecarlo.hostingradio.ru/montecarlo96.aacp
+#EXTINF:-1,Omrop Fryslân Alles Frysk Listen live
+https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/omropnonstop.mp3

@@ -1,87 +1,63 @@
 #EXTM3U
-#EXTINF:-1,Free Radio Luxembourg FRL
-https://www.radioking.com/play/rfm-luxembourg/137599
-#EXTINF:-1,Eldoradio 90s
-https://sc-eldo90s.newmedia.lu/
-#EXTINF:-1,RTL Luxembourg
-http://81.92.238.32/
-#EXTINF:-1,AIR FM 24
-http://stream.airfm24.lu:8000/airfm24.mp3?1520680245523
-#EXTINF:-1,Antena Mais
-https://www.evsportugal.com/antenamais/player.php/mp3
-#EXTINF:-1,Antenne Luxemburg
-http://streamplus52.leonex.de:11376/&type=mp3
-#EXTINF:-1,Eldoradio
-http://sc-eldolive.newmedia.lu/
-#EXTINF:-1,Eldoradio 80s
-http://sc-alternative.eldoradio.lu:80/
-#EXTINF:-1,Eldoradio Alternative
-http://sc-alternative.eldoradio.lu:80/stream.mp3
-#EXTINF:-1,Eldoradio Chill
-http://sc-eldochill.newmedia.lu:80/stream.mp3
-#EXTINF:-1,Free Radio Luxembourg
-https://listen.radioking.com/radio/66160/stream/137599
-#EXTINF:-1,Helix Radio
-http://51.255.235.165:5164/
-#EXTINF:-1,L essentiel Radio
-https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
-#EXTINF:-1,Lusitana 1061 FM
-https://10.stmip.net/player_mp3.php?porta=10582
-#EXTINF:-1,Ni Haody
-https://nihaody.stream.laut.fm/ni_haody?t302=2018-04-05_11-52-53&uuid=10350c4f-cfb2-42c9-82dd-4d1cbbd58714
-#EXTINF:-1,Ni Haody
-https://stream.laut.fm/ni_haody
-#EXTINF:-1,Panachee
-https://stream.laut.fm/panachee
-#EXTINF:-1,Radio 1007 FM
-https://100komma7-ice-edge-1105-fra-eco-cdn.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
-#EXTINF:-1,Radio Aktiv
-http://zeus.lrb.lu:8000/stream
-#EXTINF:-1,Radio Aktiv
-http://stream.radioaktiv.org:8233/HiFi?type=.mp3/stream.mp3
-#EXTINF:-1,Radio Ara
-https://stream.ara.lu/stream.mp3
-#EXTINF:-1,Radio ARA
-http://rs1.radiostreamer.com:8030/stream.mp3
-#EXTINF:-1,Radio Classique
-https://radioclassique.ice.infomaniak.ch/radioclassique-low.mp3
-#EXTINF:-1,Radio Classique Bergem
-http://rcb.zapto.org:8000/mp3?type=.mp3/stream.mp3
-#EXTINF:-1,Radio Diddeleng
-https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
-#EXTINF:-1,Radio Gutt Laun
-http://rgl.selfip.net:8000/
-#EXTINF:-1,Radio Gutt Laun
-https://streams.radio.co/sa631ff66a/listen
-#EXTINF:-1,Radio Latina
-http://broadcast.infomaniak.net:80/start-latina-high.mp3?type=.mp3
-#EXTINF:-1,Radio LRB
-http://zeus.lrb.lu:8000/lrb.live
-#EXTINF:-1,Radio Lux
+#EXTINF:-1,EldoRadio 80s Listen live
+https://shoutcast.rtl.lu/eldo80s
+#EXTINF:-1,FRL - Free Radio Luxembourg Listen live
+https://listen.radioking.com/radio/66160/stream/103807
+#EXTINF:-1,LUX Listen live
 https://stream.laut.fm/lux
-#EXTINF:-1,Radio Northsea
-http://radionorthsea.zapto.org:8008/
-#EXTINF:-1,Radio Petange on Air
-http://stream.petangeonair.lu:9000/live
-#EXTINF:-1,Radio Puls
-http://82.145.43.92:8312/stream?type=.mp3/stream.mp3
-#EXTINF:-1,Radio Puls Luxembourg
-http://82.145.43.92:8312/listen.pls
-#EXTINF:-1,Radio Sympa
-http://www.radiocampusparis.org:8000/stream_rcp
-#EXTINF:-1,Radio Sympa
-http://www.radiocampusparis.org:8000/stream_rcp?type=.mp3/stream.mp3
-#EXTINF:-1,RadioPuls
-http://82.145.43.92:8312/stream
-#EXTINF:-1,RBV Radio Belle Vallee
-http://radio.rbv.lu:8002/stream.mp3
-#EXTINF:-1,Reddrockradio
-https://stream.laut.fm/reddrock
-#EXTINF:-1,Rom 106 FM
-http://rs1.radiostreamer.com:8270/stream.mp3
-#EXTINF:-1,RTL Radio
-http://rtldtl.hoerradar.de/rtldtl-national-mp3-128
-#EXTINF:-1,RTL Radio Letzebuerg
-http://81.92.238.32:80/listen.pls
-#EXTINF:-1,RTL Radio lu
-http://sc-rtllive.newmedia.lu/stream.mp3
+#EXTINF:-1,Ni Haody Listen live
+https://stream.laut.fm/ni_haody
+#EXTINF:-1,Radio Classique Bergem Listen live
+https://radioclassique.ice.infomaniak.ch/radioclassique-low.mp3
+#EXTINF:-1,Radio Gutt Laun Listen live
+https://streams.radio.co/sa631ff66a/listen
+#EXTINF:-1,RTL - Deutschlands Hit-Radio Listen live
+https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113
+#EXTINF:-1,RTL Gold Listen live
+https://shoutcast.rtl.lu/rtlgold
+#EXTINF:-1,RTL Lëtzebuerg Listen live
+https://shoutcast.rtl.lu/rtl
+#EXTINF:-1,RTL Radio - Die besten Hits aller Zeiten Listen live
+https://rtlberlin.streamabc.net/rtlb-rtldebestehits-mp3-128-7346216
+#EXTINF:-1,RTL Radio - DSDS Radio Listen live
+https://rtlberlin.streamabc.net/rtlb-dsds-mp3-128-4250633
+#EXTINF:-1,RTL Radio - Greatest Hits Listen live
+https://rtlberlin.streamabc.net/rtlb-rtlxmsgreath-mp3-128-5365238
+#EXTINF:-1,RTL Radio - Neue Hits Listen live
+https://rtlberlin.streamabc.net/rtlb-rtlxmsneueh-mp3-128-5778248
+#EXTINF:-1,RTL Radio - Party Listen live
+https://rtlberlin.streamabc.net/rtlb-rtlparty2-mp3-128-1083450
+#EXTINF:-1,RTL Radio - Rock Hits Listen live
+https://rtlberlin.streamabc.net/rtlb-rtlxmsrockh-mp3-128-7769357
+#EXTINF:-1,Beans Fm Listen live
+https://stream.laut.fm/beans
+#EXTINF:-1,Africa Business Radio Listen live
+https://africabusinessradio.out.airtime.pro/africabusinessradio_a
+#EXTINF:-1,Rdmix 70's Golden Hits Listen live
+https://maggie.torontocast.com:2020/stream/rdmix70sgoldenhits
+#EXTINF:-1,RTL Radio - TOGGO Radio Listen live
+https://superrtl.streamabc.net/srtl-toggo-mp3-128-6356726
+#EXTINF:-1,RTL Radio - UKW 93.3 & 97.0 Listen live
+https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218
+#EXTINF:-1,RTL Radio - Weihnachtsradio Listen live
+https://rtlberlin.streamabc.net/rtlb-rtldeuevent01-mp3-128-3453739
+#EXTINF:-1,Radio Family 90.7FM Listen live
+https://stream.pinedahost.com/radio/8050/
+#EXTINF:-1,Rádio Paiquerê Listen live
+https://player-ssl.kshost.com.br:9652/live
+#EXTINF:-1,RTV Roermond Listen live
+https://ms5ic.mx-cd.net/204-1147050/3ML_Radio
+#EXTINF:-1,Hot Hits UK Listen live
+https://443-1.autopo.st/54/stream.mp3
+#EXTINF:-1,Calypo FM Listen live
+https://streaming.radio.co/s729d2502c/listen
+#EXTINF:-1,Radio San José Matiguas 107.7 Listen live
+https://stream.zeno.fm/33hu8323ahruv
+#EXTINF:-1,Radio Mbox - Kanał Główny Listen live
+https://panel.radiombox.pl/radio/8000/RadioMbox256
+#EXTINF:-1,DJFM Ukraine Listen live
+https://cast.fex.net/djfm_l
+#EXTINF:-1,trickster Real Music Listen live
+https://stream.laut.fm/trickster?ref=radiode
+#EXTINF:-1,100% Best of 2020 - SchlagerPlanet Listen live
+https://schlagerplanet.hoerradar.de/schlagerplanet-best16-mp3-hq

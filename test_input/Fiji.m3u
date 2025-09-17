@@ -1,21 +1,35 @@
 #EXTM3U
-#EXTINF:-1,Radio Fiji Two
-https://peridot.streamguys.com:7150/RFTwo
-#EXTINF:-1,Myakashvaanifijicom
-http://s7.voscast.com:9768/stream1562334380872/1
-#EXTINF:-1,Gold Fm Fiji
-https://peridot.streamguys.com:7150/Gold
-#EXTINF:-1,2day FM
-https://peridot.streamguys.com:7150/2Day
-#EXTINF:-1,Bula FM
-https://peridot.streamguys.com:7150/Bula
-#EXTINF:-1,Mirchi FM
-https://peridot.streamguys.com:7150/Mirchi
-#EXTINF:-1,Mix FM Fiji
-http://fijiradio.net:8000/live
-#EXTINF:-1,Radio Fiji One
-https://peridot.streamguys.com:7150/RFOne
-#EXTINF:-1,Radio Ngati Porou
-http://apple.irirangi.net:8000/K_Ngati_Porou.aac
-#EXTINF:-1,Radio Rishtey
-http://cast5.servcast.net:8048/
+#EXTINF:-1,FM96 Listen live
+https://stream.fijivillage.com/fm96
+#EXTINF:-1,Legend FM Listen live
+https://stream.fijivillage.com/legendfm
+#EXTINF:-1,Navtarang Radio Listen live
+https://stream.fijivillage.com/navtarang
+#EXTINF:-1,Radio Sargam Listen live
+https://stream.fijivillage.com/radiosargam
+#EXTINF:-1,Viti FM Listen live
+https://stream.fijivillage.com/vitifm?ver=264613
+#EXTINF:-1,Gakku FM Listen live
+https://stream.gakku.tv/radio/recordfm_192.mp3
+#EXTINF:-1,Radio SWH+ Listen live
+https://live.radioswh.lv:8443/plusmp3
+#EXTINF:-1,RS2 Listen live
+https://rs2online.eu:8000/gyvai
+#EXTINF:-1,radio-rockofsilence Listen live
+https://stream.laut.fm/radio-rockofsilence?ref=radiode
+#EXTINF:-1,89.0 RTL Top Hits 2021 Listen live
+https://fhhalle.streamabc.net/fhhal_890rtltre_3wru-mp3-128-3489339
+#EXTINF:-1,Sveriges Radio Finska Listen live
+https://http-live.sr.se/sisuradio-mp3-128
+#EXTINF:-1,Absolut Oldie Classics Listen live
+https://absolutradio.stream24.net/absolut-oldie-classics.mp3
+#EXTINF:-1,DroptechRadio Listen live
+https://stream.laut.fm/droptechradio
+#EXTINF:-1,Too Nu - PromoDJ Listen live
+https://radio.promodj.com/toonu-192
+#EXTINF:-1,Exclusively Steve Winwood Listen live
+https://streaming.exclusive.radio/er/stevewinwood/icecast.audio
+#EXTINF:-1,bigFM Baden-Württemberg Listen live
+https://streams.bigfm.de/bigfm-bw-128-aac?usid=0-0-H-A-D-01
+#EXTINF:-1,Activa FM Marina Baja - La Nucía Listen live
+https://stream.mediasector.es/radio/8000/activafm-marina-baja-la-nucia.mp3

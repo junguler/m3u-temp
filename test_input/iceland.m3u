@@ -1,43 +1,31 @@
 #EXTM3U
-#EXTINF:-1,3ABN
-https://war.str3am.com:7180/live
-#EXTINF:-1,FM 957
-http://icecast.365net.is:8000/orbFm957.aac
-#EXTINF:-1,Bylgjan 80s
-http://icecast.365net.is:8000/orb80s.aac
-#EXTINF:-1,Apparatid Radio
-http://icecast.365net.is:8000/orbApparatid.aac
-#EXTINF:-1,Bylgjan FM
-http://icecast.365net.is:8000/orbbylgjan.aac
-#EXTINF:-1,FlashBack FM
-http://stream.radio.is:443/flashback
-#EXTINF:-1,FM Xtra
-http://www.radio.is:443/fmxtra
-#EXTINF:-1,FMX
-http://icecast.365net.is:8000/orbFMX.aac
-#EXTINF:-1,Gull Bylgjan
-http://icecast.365net.is:8000/orbGullBylgjan.aac
-#EXTINF:-1,ICE FM Iceland
-http://37.59.28.208:8188/
-#EXTINF:-1,K100
-http://radio.is:443/kaninnmobile
-#EXTINF:-1,KissFM
-http://www.radio.is:443/kiss
-#EXTINF:-1,Lett Bylgjan
-http://icecast.365net.is:8000/orbLettBylgjan.aac
-#EXTINF:-1,Lindin
-http://62.145.147.50:8001/stream.aac
-#EXTINF:-1,Radio Flashback
-http://www.radio.is:443/flashback
-#EXTINF:-1,Retro 895
-http://radio.is:443/retromobile
-#EXTINF:-1,RV Nll
-http://netradio.ruv.is:80/ruvnull.aac
-#EXTINF:-1,RV Rond
-http://netradio.ruv.is:80/rondo.aac
-#EXTINF:-1,Sudurland FM 963
-http://178.19.58.119:1818/
-#EXTINF:-1,Utvarp Saga
-http://stream.radio.is:443/saga
-#EXTINF:-1,Xid 977 FM
-http://icecast.365net.is:8000/orbXid.aac
+#EXTINF:-1,Rondo Listen live
+https://ruv-radio-live.akamaized.net/streymi/rondo/rondo-256000.m3u8
+#EXTINF:-1,Bikini FM Marina Alta - Sur Listen live
+https://stream.mediasector.es/radio/8030/bikinifm-marina-alta-sur.mp3
+#EXTINF:-1,Jovem Pan - JP News Joinville Listen live
+https://ssl1.transmissaodigital.com:2398/server
+#EXTINF:-1,RETROWELLE  Listen live
+https://stream.laut.fm/retrowelle?ref=radiode
+#EXTINF:-1,Goa-Channel-One Listen live
+https://stream.laut.fm/goa-channel-one
+#EXTINF:-1,Paradise FM Listen live
+https://audio-edge-es6pf.mia.g.radiomast.io/0068d53d-f6a4-41d3-9e9a-6a2b67387d9f
+#EXTINF:-1,Street Deejays Radio Listen live
+https://stream.zeno.fm/nbwdnxz7na0uv.aac
+#EXTINF:-1,BB RADIO - Soft Listen live
+https://streambbr.ir-media-tec.com/relax/mp3-192/web/
+#EXTINF:-1,BBC Radio Lancashire Listen live
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_lancashire
+#EXTINF:-1,handmade-music Listen live
+https://stream.laut.fm/handmade-music?ref=radiode
+#EXTINF:-1,Dance Family Radio Listen live
+https://stream.laut.fm/dance-family-radio
+#EXTINF:-1,illerpower Listen live
+https://stream.laut.fm/illerpower?ref=radiode
+#EXTINF:-1,House Music Channel - Loops Radio Listen live
+https://ssl190.ozelip.com/asistan/stream/ebcc933e674242c816bd38923148d46e
+#EXTINF:-1,partyhouse Listen live
+https://stream.laut.fm/partyhouse?ref=radiode
+#EXTINF:-1,welle-nord Listen live
+https://stream.laut.fm/welle-nord?ref=radiode

@@ -1,59 +1,49 @@
 #EXTM3U
-#EXTINF:-1,Araz FM
-http://s39.myradiostream.com:5458/listen.mp3
-#EXTINF:-1,RADIO Kpz FM
-http://85.132.78.122:3344/now
-#EXTINF:-1,Naxcivan Radiosu
-http://s33.myradiostream.com:12782/
-#EXTINF:-1,Anti Radio
+#EXTINF:-1,Anti Radio Listen live
 https://stream.antiradio.net/radio/8000/web
-#EXTINF:-1,Asan Radio
-http://94.20.74.206:4448/stream1
-#EXTINF:-1,AutoLife Azerbaijan
+#EXTINF:-1,AutoLife Radio Listen live
 https://radio.autoliferadio.com:8005/radio
-#EXTINF:-1,AVTO FM
-http://5.191.241.101:8000/avtofm
-#EXTINF:-1,Azadliq Radiosu  Radio Liberty
+#EXTINF:-1,AzadliqRadiosu Listen live
 https://stream.radiojar.com/s90a46bpn3quv
-#EXTINF:-1,BakiRadio
-https://broadcast.bakiradio.azradio/8000/bakiradio
-#EXTINF:-1,Baku 105 FM
-http://85.132.27.212:8888/azradio
-#EXTINF:-1,Baku Jukebox
-http://78.109.52.73:8000/bkjbox
-#EXTINF:-1,Balkan Rainbow
+#EXTINF:-1,BakiRadio Listen live
+https://broadcast.bakiradio.az/radio/8000/bakiradio
+#EXTINF:-1,BakiRadio International Listen live
+https://broadcast.bakiradio.az/radio/8010/radio.mp3
+#EXTINF:-1,BakiRadio Lite Listen live
+https://broadcast.bakiradio.az/radio/8000/bakiradiolite
+#EXTINF:-1,Balkan Rainbow Listen live
 https://s0.radioheart.ru:8000/RH20730
-#EXTINF:-1,Business Radio BOSS Azerbaijan
-http://185.129.2.198:9043/live
-#EXTINF:-1,DayAz Radio
+#EXTINF:-1,WFFC - Radio IQ - 89.9 FM Listen live
+https://wvtf.streamguys1.com/wvtf-edge/radioiq-mp3-64/icecast.audio
+#EXTINF:-1,Enigmatic Station Listen live
+https://listen2.myradio24.com/8226
+#EXTINF:-1,Flashmusic FM Listen live
+https://stream.laut.fm/flashmusicfm
+#EXTINF:-1,Radio TéléLaguerre Listen live
+https://node-09.zeno.fm/qr32tebm7tzuv
+#EXTINF:-1,rockbismetal Listen live
+https://stream.laut.fm/rockbismetal?ref=radiode
+#EXTINF:-1,JazZradio.aZ Listen live
+https://tune.az:8035/server
+#EXTINF:-1,Radio Baijan Listen live
+https://thisisbaijan.out.airtime.pro/thisisbaijan_a
+#EXTINF:-1,Radio Tune Azerbaijan Listen live
+https://tune.az:8025/server
+#EXTINF:-1,Radio Vətən Listen live
+https://node-16.zeno.fm/0kgkkzanmueuv
+#EXTINF:-1,Sputnik Azərbaycan Listen live
+https://icecast-ruvr.cdnvideo.ru/rian.voiceaz1
+#EXTINF:-1,Xezer 103 Fm Listen live
+https://s30.myradiostream.com/32684/listen.mp3
+#EXTINF:-1,1000 Italohits Listen live
+https://stream.laut.fm/1000italohits
+#EXTINF:-1,Gitarre fm Listen live
+https://stream.laut.fm/gitarrefm
+#EXTINF:-1,Positively Plants Listen live
+https://streaming.positivity.radio/pr/posiplants/icecast.audio
+#EXTINF:-1,Радио Day.Az Listen live
 https://radio.day.az:9443/192
-#EXTINF:-1,Europa Plus
-https://ep128.hostingradio.ru:8052/europaplus256.mp3
-#EXTINF:-1,I Republic
-http://www.intervalsignals.net/sounds/aze-z-azr1_261001.mp3
-#EXTINF:-1,ctimai Radio
-https://stream.itv.az/rtmp:/radio/playlist.m3u8
-#EXTINF:-1,Media FM
-http://85.132.71.10:8000/live
-#EXTINF:-1,Naxvan Radiosu
-http://s33.myradiostream.com:12782/
-#EXTINF:-1,One FM Azerbaijan
-http://557e041d4bdc.sn.mynetname.net:8000/onefm.aacp56
-#EXTINF:-1,Qafqaz FM
-http://radio.alania.net:8000/kvk
-#EXTINF:-1,Radio Antenn
-http://85.132.71.10:8000/antenn-mp3?type=.mp3/stream.mp3
-#EXTINF:-1,Radio Antenn
-http://85.132.71.10:8000/antenn-mp3
-#EXTINF:-1,Radio Marshall
-http://eu.stream4cast.com:8030/stream
-#EXTINF:-1,Radio Tune Azerbaijan
-https://tune.az:8015/stream
-#EXTINF:-1,Radio Vtn
-https://stream.zeno.fm/0kgkkzanmueuv
-#EXTINF:-1,Radio YSF
-http://85.132.71.10:8000/yusif
-#EXTINF:-1,Rakevet
-https://s0.radioheart.ru:8000/RH20728
-#EXTINF:-1,Xezer 103 Fm
-http://s30.myradiostream.com:32684/listen.mp3
+#EXTINF:-1,Radio Maria Listen live
+https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/server
+#EXTINF:-1,.100 Hip Hop and RNB FM Listen live
+https://ice64.securenetsystems.net/LFTM

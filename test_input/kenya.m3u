@@ -1,119 +1,157 @@
 #EXTM3U
-#EXTINF:-1,102.9 Xpress Fm Listen live
-https://stream.lensnetworks.com/proxy/xpress?mp=/server
-#EXTINF:-1,Bloom Radio Listen live
-https://www.radioking.com/play/urban-gospel-radio-1
-#EXTINF:-1,Capital Fm Listen live
+#EXTINF:-1,Kass FM
+http://media.kassfm.co.ke:8006/live
+#EXTINF:-1,Sound Asia FM
+http://41.72.210.222:88/stream?type=.mp3&13202692901&duration=99999&id=scplayer&autostart=true%22
+#EXTINF:-1,Homeboyz Radio
+https://homeboyzradio-atunwadigital.streamguys1.com/homeboyzradio
+#EXTINF:-1,Capital FM Kenya
 https://icecast2.getstreamhosting.com:8050/stream.mp3
-#EXTINF:-1,Chania FM Kenya Listen live
-https://servidor27-3.brlogic.com:8816/live
-#EXTINF:-1,Family Radio 316 Listen live
-https://icy-e-05-gos.sharp-stream.com/familymedia.mp3
-#EXTINF:-1,Gituamba FM Listen live
-https://c11.radioboss.fm:18169/server
-#EXTINF:-1,Hope FM 93.3 FM Listen live
-https://stream.zeno.fm/nd9cvhusxchvv
-#EXTINF:-1,Jesus is Lord Radio Listen live
-https://s3.radio.co/s97f38db97/listen
-#EXTINF:-1,LionafriQ EDM Radio Listen live
-https://azura12.instainternet.com/radio/8010/radio.mp3?1614679232
-#EXTINF:-1,Manene Radio Listen live
-https://servidor29-1.brlogic.com:8784/live
-#EXTINF:-1,Milele FM 104.8 Listen live
-https://stream.zenolive.com/dex4fk5ykxquv
-#EXTINF:-1,North Rift Radio Listen live
-https://stream.northriftradio.fynradio.com/
-#EXTINF:-1,1.FM - Eternal Praise and Worship Listen live
-https://strm112.1.fm/praise_mobile_mp3
-#EXTINF:-1,Berliner Rundfunk - Ostrock und Ostpop Listen live
-https://topradio-de-hz-fal-stream09-cluster01.radiohost.de/brf-ostrock-pop_mp3-192
-#EXTINF:-1,Radio Creativa 95.5 FM Listen live
-https://audio0.tustreaming.cl/7280/stream
-#EXTINF:-1,Radio Fahamu Listen live
-https://servidor36-4.brlogic.com:7046/live
-#EXTINF:-1,Radio Jambo Listen live
-https://stream.zeno.fm/12zxz5hkc2zuv
-#EXTINF:-1,Radio Mikayi Listen live
-https://freeuk7.listen2myradio.com/live.mp3?typeportmount=s1_32542_server
-#EXTINF:-1,Relax 103 FM Listen live
-https://c28.radioboss.fm:18225/server
-#EXTINF:-1,Royal Central Praise SKB Listen live
-https://sonic01.instainternet.com/8302/stream
-#EXTINF:-1,Shallom Radio Listen live
-https://stream.zeno.fm/75exe540s4zuv
-#EXTINF:-1,Synthwave Радио - RadioSpinner Listen live
-https://live.radiospinner.com/synthwave-64
-#EXTINF:-1,Exclusively Erasure Listen live
-https://streaming.exclusive.radio/er/erasure/icecast.audio
-#EXTINF:-1,Nova Brasil FM 97.5 - Brasilia Listen live
-https://20823.live.streamtheworld.com/NOVABRASIL_BSBAAC.aac
-#EXTINF:-1,CBN Southern Gospel Listen live
-https://mp3.cbn.com/stream/southerngospel128?app=radionet
-#EXTINF:-1,SOUL RADIO Classics Listen live
-https://listen.soulradio.us/us
-#EXTINF:-1,Calon FM Listen live
-https://streaming02.zfast.co.uk/proxy/caloncom?mp=%2Fstream.mp3&amp_=1
-#EXTINF:-1,Stadtradio Meran Listen live
-https://nr11.newradio.it:19250/srmhigh
-#EXTINF:-1,Radio Flash Back Mix Listen live
-https://cc2.streammaximum.com:20134/stream?type=http&ampnocache=1264
-#EXTINF:-1,Hunter.FM - Pop Listen live
-https://hls.hunter.fm/pop/64.m3u8
-#EXTINF:-1,M1.FM - 90ER Listen live
-https://tuner.m1.fm/90er.mp3
-#EXTINF:-1,audiogrooves.net - Nu Vibes Listen live
-https://soul.audiogrooves.net/nu-vibes.ogg
-#EXTINF:-1,KKRV - Country 104.7 FM Listen live
-https://prod-34-209-247-255.wostreaming.net/alphacorporate-kkrvfmaac-ibc4
-#EXTINF:-1,Radio Diablo Listen live
-https://icecast1.radiostuff.dk/Diablo128
-#EXTINF:-1,105'5 Spreeradio Black Listen live
-https://stream.spreeradio.de/spree-black/mp3-128/
-#EXTINF:-1,Energy Discover Listen live
-https://energydiscover.ice.infomaniak.ch/energydiscover-high.mp3
-#EXTINF:-1,Sleaze-Rock-Radio Listen live
-https://stream.laut.fm/sleaze-rock-radio?ref=radiode
-#EXTINF:-1,radio-ffw-dance Listen live
-https://stream.laut.fm/radio-ffw-dance?ref=radiode
-#EXTINF:-1,LifeGate e-Fun Listen live
-https://stream4.xdevel.com/audio4s975809-349/stream/icecast.audio
-#EXTINF:-1,Dash SoundCloud Radio Listen live
-https://ice55.securenetsystems.net/DASH68
-#EXTINF:-1,The Rocking Dutchman Listen live
-https://stream.laut.fm/rockingdutchman?ref=radiode
-#EXTINF:-1,tango-nuevo Listen live
-https://stream.laut.fm/tango-nuevo?ref=radiode
-#EXTINF:-1,Kronehit Electric Listen live
-https://secureonair.krone.at/kronehit-electric.mp3
-#EXTINF:-1,melodic-rock-inside Listen live
-https://stream.laut.fm/melodic-rock-inside?ref=radiode
-#EXTINF:-1,Polskie Radio Białystok Listen live
-https://stream4.nadaje.com:15477/radiobialystok
-#EXTINF:-1,Radio Corporacion 97.1 FM Listen live
-https://audio1.tustreaming.cl:10973/stream/1/
-#EXTINF:-1,Valley FM 87.6 Listen live
-https://zas7.ndx.co.za:8036/server
-#EXTINF:-1,NOIZEBAZOOKA Listen live
-https://stream.laut.fm/noizebazooka?ref=radiode
-#EXTINF:-1,Radio Lestomak Fm 98.7 Listen live
-https://stream.zeno.fm/43e70rpy5rhvv
-#EXTINF:-1,BurnFM - Gothic Listen live
-https://0n-gothic.radionetz.de/0n-gothic.mp3
-#EXTINF:-1,gong fm Best of 2000 Listen live
-https://addrad.io/4459cdr
-#EXTINF:-1,antenne 1 Motivasion Listen live
-https://stream.antenne1.de/motivation/livestream1.aac
-#EXTINF:-1,Classic FM 101.2 MHz Listen live
-https://tv-ingest.hamropatro.com/radio-live/classic/icecast.audio
-#EXTINF:-1,FM91 Pakistan Listen live
-https://cc.vmakerhost.com/proxy/karachi?mp=/server
-#EXTINF:-1,AT 40 Listen live
-https://stream.laut.fm/at40
-#EXTINF:-1,Be Chic Radio Listen live
-https://radio9.pro-fhi.net:19003/stream.aac
-#EXTINF:-1,oldiefans Listen live
-https://stream.laut.fm/oldiefans?ref=radiode
-#EXTINF:-1,Country Classics Listen live
-https://wr14-ice.stream.khz.se/wr14_mp3
-#EXTINF:-1,Antenne Thüringen - Region West Listen live
-https://antenne-th.divicon-stream.net/antth-atsimulcastwest-mp3-192-2271049
+#EXTINF:-1,Radio Waumini
+http://stream.zenolive.com/s4u5esygbz4tv
+#EXTINF:-1,Family Radio - Radio 316
+http://tx.sharp-stream.com/icecast.php?i=familymedia.mp3
+#EXTINF:-1,Smooth FM
+http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=2&rate=1&kbps=128
+#EXTINF:-1,Kiss 100
+http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=4&rate=1
+#EXTINF:-1,Ghetto Radio
+http://stream.zeno.fm/cs4q33arb2zuv
+#EXTINF:-1,PILIPILI FM
+http://stream.zenolive.com/055m2bkqtceuv
+#EXTINF:-1,East FM
+https://streamingv2.shoutcast.com/east-fm
+#EXTINF:-1,Biblia Husema Broadcasting
+http://uk1-vn.mixstream.net:9958/
+#EXTINF:-1,Radio Jambo
+http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=1&rate=1&kbps=128
+#EXTINF:-1,Kameme FM
+http://stream.zenolive.com/cp585ghqtceuv
+#EXTINF:-1,Radio Citizen
+https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen
+#EXTINF:-1,Hope FM 93.3
+http://stream.zenolive.com/kekgx20egd5tv
+#EXTINF:-1,Classic 105
+http://classic105-atunwadigital.streamguys1.com/classic105
+#EXTINF:-1,1FMKe
+http://139.162.245.57/proxy/flamingoradio?mp=/stream
+#EXTINF:-1,My Radio Kenya!
+http://s5.voscast.com:7226/
+#EXTINF:-1,Imani Radio
+http://147.135.84.28/imani
+#EXTINF:-1,107.3 Mururi FM
+http://184.154.145.114:8038/
+#EXTINF:-1,Rastyle Radio
+http://stream.zeno.fm/gf58b0pt5x8uv
+#EXTINF:-1,87.7 2fm
+http://41.215.21.156:8000/87.7-2FM
+#EXTINF:-1,Fish Fm
+http://212.49.83.69:8000/fishfm
+#EXTINF:-1,Hero Radio
+http://stream.zenolive.com/c0258bn5mceuv
+#EXTINF:-1,Nation FM
+http://stream.radiojar.com/3by7s8eg65quv
+#EXTINF:-1,Milele FM
+http://stream.zenolive.com/ubktv3kqtceuv
+#EXTINF:-1,Truth FM
+http://uk1-vn.mixstream.net:9960/
+#EXTINF:-1,Pamoja FM
+http://41.212.105.201:5190/broadwave.mp3?src=1&rate=1&ref=
+#EXTINF:-1,Gukena FM
+http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=6&rate=1&kbps=128
+#EXTINF:-1,NRG Radio Kenya
+http://198.27.66.225:8552/stream
+#EXTINF:-1,Bloom Radio
+https://www.radioking.com/play/urban-gospel-radio-1
+#EXTINF:-1,Nyce fm
+http://50.7.129.122:8214/
+#EXTINF:-1,Flamingo Radio
+http://uk5.internet-radio.com:8145/
+#EXTINF:-1,Mkenya Ujerumani Radio
+http://eu6.fastcast4u.com:5195/
+#EXTINF:-1,Proud Chocolate Radio
+https://samcloud.spacial.com/api/listen?sid=73706&rid=156132&f=aac,any&br=64000,any&m=m3u
+#EXTINF:-1,Unverified Radio
+http://91.121.65.37:25192/
+#EXTINF:-1,Radio Injili 103.7 Fm
+http://stream.zenolive.com/7s8b494z4neuv
+#EXTINF:-1,Asylum Radio
+http://streamer.radio.co/se245fc076/listen
+#EXTINF:-1,Fountain Fm
+http://stream.radiojar.com/kz0wrxumb
+#EXTINF:-1,LOVE FM KENYA
+http://104.155.98.145:8001/lovefm
+#EXTINF:-1,Adventist Angels Watchman
+https://streamingv2.shoutcast.com/adventist-angels-watchman
+#EXTINF:-1,ATHIANI FM
+http://78.129.232.226:8187/stream
+#EXTINF:-1,Space Radio
+http://delicious.wavestreamer.com:3090/
+#EXTINF:-1,RADIO KAYA KENYA
+http://usa9-vn.webcast-server.net:8084/
+#EXTINF:-1,Radio Neema
+http://stream.zenolive.com/28bd7s5mrm5tv
+#EXTINF:-1,RADIO SIMBA 91.3 FM
+http://stream.zeno.fm/7nukpsgq3bruv		
+#EXTINF:-1,wgLIVE
+http://edge.mixlr.com/channel/ymymx
+#EXTINF:-1,Tha eRadio
+http://163.172.213.155:8006/
+#EXTINF:-1,BARAKA FM
+http://s2.myradiostream.com:5788/
+#EXTINF:-1,ParkieRadio
+http://streaming.radio.co:80/s0df7eb044/listen
+#EXTINF:-1,SuperNgoma
+http://ice.stream101.com:8032/
+#EXTINF:-1,LionafriQ Radio
+https://azura12.instainternet.com/radio/8010/radio.mp3?1611046877
+#EXTINF:-1,Urge Radio
+http://rosetta.shoutca.st:8134/stream
+#EXTINF:-1,Wajeer 96.5 FM
+http://stream.zenolive.com/qm4xvdzfgd5tv
+#EXTINF:-1,Beatlock Radio
+http://stream11.shoutcastsolutions.com:8203/
+#EXTINF:-1,Desi Beatz.FM
+http://s4.myradiostream.com:4344/Listen.mp3
+#EXTINF:-1,NBO Radio
+http://nboradio1.out.airtime.pro:8000/nboradio1_a
+#EXTINF:-1,VOTURADIO AFRIKA
+http://45.79.138.31:8006/
+#EXTINF:-1,whatsonradio1
+http://sv6.vestaradio.com:4520/
+#EXTINF:-1,SBH Somali Radio
+http://stream.zenolive.com/0r93h9hd674tv
+#EXTINF:-1,Unit Five Radio - U5R
+http://212.47.228.164:8000/_a
+#EXTINF:-1,SUDA ONLINE RADIO
+http://st2.zenorad.io:14670/
+#EXTINF:-1,Hekima FM
+http://197.232.36.114:8000/
+#EXTINF:-1,The Edge Radio
+http://theedgeradio.out.airtime.pro:8000/theedgeradio_a
+#EXTINF:-1,Varcity Radio
+http://209.208.27.235:9998/
+#EXTINF:-1,Dohty Family Radio
+http://streaming.radio.co:80/s7dd4c8660/listen
+#EXTINF:-1,Tzgospel kenya
+https://stream.zeno.fm/g4y5hgegcchvv
+#EXTINF:-1,Monster Radio
+http://46.38.190.74:8000/radio
+#EXTINF:-1,SkyRish Radio
+http://stream.zenolive.com/u7z9kqrde0mtv
+#EXTINF:-1,The Voice of the Kingdom (V.O.K)
+http://stream.zenolive.com/kea3we9eng5tv
+#EXTINF:-1,The Voice of The Kingdom (VOK)
+http://stream.zenolive.com/ezmzhcrfud5tv
+#EXTINF:-1,Base Radio
+https://s2.radio.co/sfce7b1d67/listen
+#EXTINF:-1,Street News Radio Official
+http://197.237.204.101:8000/
+#EXTINF:-1,Straight Talk Radio
+http://stream.zenolive.com/k68m99895k5tv
+#EXTINF:-1,Chillkings Radio
+http://listen.shoutcast.com/chillkingsradio
+#EXTINF:-1,TONZI RADIO
+http://stream.zeno.fm/cmpslkfvzpnuv
+#EXTINF:-1,Unit Five Radio
+https://stream.radio.co/sa383dd6dc/listen

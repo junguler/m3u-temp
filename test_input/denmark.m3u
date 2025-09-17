@@ -1,257 +1,423 @@
 #EXTM3U
-#EXTINF:-1,00's Hits Listen live
-https://live-bauerdk.sharp-stream.com/DK_HQ_RP07.aac
-#EXTINF:-1,10's Hits Listen live
-https://live-bauerdk.sharp-stream.com/DK_HQ_RP13.aac
-#EXTINF:-1,80's Hits Listen live
-https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac
-#EXTINF:-1,90's Hits Listen live
-https://live-bauerdk.sharp-stream.com/DK_HQ_RP06.aac
-#EXTINF:-1,Ahenfo Radio Listen live
-https://s35.myradiostream.com/4702/
-#EXTINF:-1,ANR Radio Listen live
-https://stream.anr.dk/anr
-#EXTINF:-1,Classic FM Listen live
-https://webradio.classicfm.dk/classicstruer
-#EXTINF:-1,ClubFM Listen live
-https://lyt.til.clubfm.dk:8443/CFM192?type=.mp3
-#EXTINF:-1,ClubFM Soft Listen live
-https://lyt.til.clubfm.dk:8443/soft192?type=.mp3
-#EXTINF:-1,Danske 80'er Hits Listen live
-https://live-bauerdk.sharp-stream.com/DK_HQ_RP05.aac
-#EXTINF:-1,Deep Box Radio Listen live
-https://streaming.radio.co/sbb1cedad3/listen
-#EXTINF:-1,Hete Hits Listen live
-https://mcp-2.mm-stream.nl:8000/server
-#EXTINF:-1,DK4 Dansktop Radio Listen live
-https://n01a-eu.rcs.revma.com/puch9s6pshruv
-#EXTINF:-1,DR P1 Listen live
-https://drradio1-lh.akamaihd.net/i/p1_9@143503/master.m3u8
-#EXTINF:-1,Folkets Radio Aalborg Listen live
-https://folketsradio.out.airtime.pro/folketsradio_a
-#EXTINF:-1,Kronehit spring break Listen live
-https://secureonair.krone.at/kronehit-event.mp3
-#EXTINF:-1,Radio 538 Drops Listen live
-https://22533.live.streamtheworld.com/TLPSTR08.mp3
-#EXTINF:-1,Radio Alas de Águilas Listen live
-https://stream.rcast.net/64420
-#EXTINF:-1,Fri-born Listen live
-https://s2.radio.co/s8367afdd8/listen
-#EXTINF:-1,Funky Vibes FM Listen live
-https://s4.radio.co/s4902de73b/listen
-#EXTINF:-1,Globus Guld Listen live
-https://stream.probroadcast.dk/guldmidt
-#EXTINF:-1,Head FM Listen live
-https://443-1.reliastream.com/35/server
-#EXTINF:-1,Heartbeats Listen live
-https://streaming02.zfast.co.uk/proxy/heartbea?mp=/server
-#EXTINF:-1,Hit Radio Listen live
-https://securestreams3.autopo.st:1329/stream.mp3
-#EXTINF:-1,Italo Sound Radio Listen live
-https://icecast.italosound.com/italosound
-#EXTINF:-1,mix 7 Direkte Listen live
-https://live-bauerdk.sharp-stream.com/DK_HQ_RP20.aac
-#EXTINF:-1,MTV Radio Listen live
-https://stream.rcs.revma.com/s1b95y0ybhruv
-#EXTINF:-1,myROCK Listen live
-https://live-bauerdk.sharp-stream.com/myrock_dk_mp3
-#EXTINF:-1,Nordic Lodge Copenhagen Listen live
-https://larry.torontocast.com:2095/server
-#EXTINF:-1,La Gente - Radio La Primerísima Listen live
-https://polaris.hostingnica.net/9000/server
-#EXTINF:-1,Radio Art - Cello Listen live
-https://live.radioart.com/fCello_works.mp3
-#EXTINF:-1,American Sixties Radio Listen live
-https://yimago.torontocast.stream/american
-#EXTINF:-1,NOVA Listen live
-https://live-bauerdk.sharp-stream.com/nova_dk_mp3
-#EXTINF:-1,PartyFM Listen live
-https://stream1.partyfm.dk/Party128web
-#EXTINF:-1,PartyRadio Listen live
-https://s4.radio.co/sa77cf70e9/listen
-#EXTINF:-1,Pop FM Listen live
-https://live-bauerdk.sharp-stream.com/popfm_dk_mp3
-#EXTINF:-1,Pride Radio Listen live
-https://live-bauerdk.sharp-stream.com/DK_HQ_RP18.aac
-#EXTINF:-1,Radio 100 Listen live
-https://live-bauerdk.sharp-stream.com/radio100_dk_mp3
-#EXTINF:-1,Radio 208 Listen live
-https://stream.probroadcast.dk/radio208mp3
-#EXTINF:-1,Radio Schouwen-Duiveland Listen live
-https://s32.myradiostream.com/:17098/
-#EXTINF:-1,Auckland 80s Listen live
-https://streamer.radio.co/s81fc850fd/listen
-#EXTINF:-1,OpenFM - Fun! Listen live
-https://stream.open.fm/51
-#EXTINF:-1,Vaterstettener Welle Listen live
-https://stream.laut.fm/vaterstettenerwelle?ref=radiode
-#EXTINF:-1,Radio ABC Listen live
-https://radioserver.dk/abc
-#EXTINF:-1,Radio Alfa Østjylland Listen live
-https://radioserver.dk/alfa
-#EXTINF:-1,Radio ALR FM 95 Listen live
-https://streamer.radio.co/s6a9beb92e/listen
-#EXTINF:-1,Radio Boost Listen live
-https://rbx2.hnux.com/http://149.202.22.75:8066/
-#EXTINF:-1,Radio Diablo Listen live
-https://icecast1.radiostuff.dk/Diablo128
-#EXTINF:-1,Radio Freja Listen live
-https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/server
-#EXTINF:-1,Radio Globus Listen live
-https://stream.probroadcast.dk/radioglobus
-#EXTINF:-1,Radio go!FM Listen live
-https://radioserver.dk/gofm
-#EXTINF:-1,Radio Happy Listen live
+#EXTINF:-1,DR P6 Beat
+http://live-icy.gslb01.dr.dk/A/A29H.mp3
+#EXTINF:-1,DR P8 Jazz
+http://live-icy.gslb01.dr.dk/A/A22H.mp3
+#EXTINF:-1,DR P2 Klassisk
+http://live-icy.gslb01.dr.dk/A/A04H.mp3
+#EXTINF:-1,Radio 100
+http://tx-bauerdk.sharp-stream.com/http_live.php?i=radio100_dk_tunein_mp3
+#EXTINF:-1,Metallica & Iron Maiden ONLY
+http://46.4.184.212:8000/stream
+#EXTINF:-1,DR P3
+http://live-icy.gslb01.dr.dk/A/A05L.mp3
+#EXTINF:-1,DR P4 Sjælland
+http://live-icy.gss.dr.dk:8000/A/A11H.mp3
+#EXTINF:-1,DR Nyheder
+http://live-icy.gss.dr.dk:8000/A/A02H.mp3
+#EXTINF:-1,NOVA
+http://tx-bauerdk.sharp-stream.com/http_live.php?i=nova_dk_tunein_mp3
+#EXTINF:-1,Skala FM
+http://netradio.skala.fm:80/varde
+#EXTINF:-1,DR P4 Fyn
+http://live-icy.gslb01.dr.dk/A/A07L.mp3
+#EXTINF:-1,Radio go!FM
+http://netradio.radiogofm.dk
+#EXTINF:-1,The Voice
+http://tx-bauerdk.sharp-stream.com/http_live.php?i=thevoice_dk_tunein_mp3
+#EXTINF:-1,Radio24syv
+http://live.taleradio.dk/Web
+#EXTINF:-1,DR P4 København
+http://live-icy.gss.dr.dk:8000/A/A08H.mp3
+#EXTINF:-1,Retro Radio
+http://streammp3.retro-radio.dk/retro-mp3
+#EXTINF:-1,Radio Soft
+http://tx-bauerdk.sharp-stream.com/http_live.php?i=radiosoft_dk_tunein_mp3
+#EXTINF:-1,DR P1
+http://live-icy.gslb01.dr.dk/A/A03H.mp3
+#EXTINF:-1,Pop FM
+http://tx-bauerdk.sharp-stream.com/http_live.php?i=popfm_dk_tunein_mp3
+#EXTINF:-1,Radio ABC
+http://netradio.radioabc.dk
+#EXTINF:-1,Radio Mojn
+http://netradio.mojn.dk
+#EXTINF:-1,DR P4 Midt & Vest
+http://live-icy.gslb01.dr.dk/A/A09H.mp3
+#EXTINF:-1,Radio Projekti 21
+http://64.150.176.42:8178/
+#EXTINF:-1,DR Ramasjang Ultra
+http://live-icy.gss.dr.dk:8000/A/A24H.mp3
+#EXTINF:-1,Radio Alfa
+http://netradio.radioalfa.dk/alfa
+#EXTINF:-1,PartyZone Radio
+http://stream1.partyzone.nu:80/320
+#EXTINF:-1,DR P4 Nordjylland
+http://live-icy.gslb01.dr.dk/A/A10H.mp3
+#EXTINF:-1,Radio Alborz , Persian
+http://live.indvandrerradio.dk:8000/
+#EXTINF:-1,Radio VLR
+http://webradio.vlr.dk/vlrvejle
+#EXTINF:-1,Italo Sound Radio
+http://stream.italosound.com:8000/italosound
+#EXTINF:-1,Radio Viborg
+http://netradio.radioviborg.dk/viborg.aac
+#EXTINF:-1,DR P4 Trekanten
+http://live-icy.gss.dr.dk:8000/A/A13H.mp3
+#EXTINF:-1,myROCK
+http://tx-bauerdk.sharp-stream.com/http_live.php?i=myrock_dk_tunein_mp3
+#EXTINF:-1,Radio Globus
+http://stream.wlmm.dk:8000/stream/9/
+#EXTINF:-1,Assyrian Babylon Radio
+http://server.assyrians.dk:1930/
+#EXTINF:-1,Globus Guld
+http://stream.wlmm.dk:8000/stream/2/
+#EXTINF:-1,Radio SLR
+http://185.156.96.20/radioslr
+#EXTINF:-1,Radio Klassisk
+http://tx-bauerdk.sharp-stream.com/http_live.php?i=radioklassisk_dk_tunein_mp3
+#EXTINF:-1,Radio Aura
+http://stream.anr.dk:80/aura
+#EXTINF:-1,902 FM Det nye Radio Ballerup
+http://stream.wlmm.dk/902fmmp3
+#EXTINF:-1,Radio Diablo
+http://icecast.radiostuff.dk:8000/Diablo128
+#EXTINF:-1,Radio Max Ringkøbing Skjern
+http://netradio.radiomax.dk:8002/max.mp3
+#EXTINF:-1,Retro-Radio Millennium
+http://tx-2.retro-radio.dk/TX-2
+#EXTINF:-1,Rockkanalen
+http://stream.kanalplus.fm/kp128
+#EXTINF:-1,DR P4 Bornholm
+http://live-icy.gslb01.dr.dk/A/A06H.mp3
+#EXTINF:-1,Limfjord Mix
+http://media.limfjordnetradio.dk:80/mix128
+#EXTINF:-1,Radio Skive
+http://netradio.radioskive.dk
+#EXTINF:-1,Radio Nord FM
+http://stream.radiosolutions.dk/nord
+#EXTINF:-1,Radio Silkeborg
+http://netradio.radiosilkeborg.dk/
+#EXTINF:-1,Radio Limfjord
+http://media.limfjordnetradio.dk:80/limfjord128
+#EXTINF:-1,Radio Horsens
+http://webradio.vlr.dk/vlrhorsens
+#EXTINF:-1,Radio Koege
+http://stream.wlmm.dk/radiokoege
+#EXTINF:-1,DR P4 Danmark
+http://live-icy.gss.dr.dk:8000/A/A16H.mp3
+#EXTINF:-1,PartyFM
+http://stream1.partyfm.dk/Party320
+#EXTINF:-1,Beat FM
+http://stream.beatfm.dk/beatweb128.mp3
+#EXTINF:-1,DR P4 Esbjerg
+http://live-icy.gslb01.dr.dk/A/A15L.mp3
+#EXTINF:-1,Radio SOLO
+http://netradio.radiosolo.dk/
+#EXTINF:-1,GoldFM
+http://stream.radiohlr.dk:5055/
+#EXTINF:-1,Retro radio jul
+http://isstream.kanalplus.fm/TX-1
+#EXTINF:-1,Globus Guld Jul
+http://stream.wlmm.dk/jul
+#EXTINF:-1,Dance100.com
+http://s31.myradiostream.com:20624/
+#EXTINF:-1,Radio Alfa Sydfyn
+http://icecast.radiostuff.dk:8000/Alfasydfyn128
+#EXTINF:-1,Radio Skala Christmas
+http://netradio.skala.fm/stream1
+#EXTINF:-1,Global FM
+http://stream.radiosolutions.dk:60040/global
+#EXTINF:-1,Skaga FM
+http://media.wlmm.dk:80/skagafm
+#EXTINF:-1,Radio Nord
+http://netradio.radionord.dk:8000/RadioNord
+#EXTINF:-1,Den Tunge Radio
+http://aasr-stream.iha.dk:9870/dtr.mp3
+#EXTINF:-1,Radio Alfa Silkeborg
+http://89.249.7.68/silkeborg
+#EXTINF:-1,Uniradioen
+http://uniradio.out.airtime.pro:8000/uniradio_a
+#EXTINF:-1,Classic.fm Als
+http://webradio.classicfm.dk/classicals
+#EXTINF:-1,Radio Aap ki Awaz
+http://38.107.243.218:8422/
+#EXTINF:-1,Radio M
+http://89.249.7.68/radiom
+#EXTINF:-1,NMRadio
+http://91.100.42.197:9000/live
+#EXTINF:-1,Radio Klitholm
+http://stream.radioklitholm.dk:8000/stream
+#EXTINF:-1,Nordic Lodge Copenhagen
+http://217.116.9.142:9109/stream
+#EXTINF:-1,Julemusik og Juleradio
+http://itunedradio.fr:8765/jul
+#EXTINF:-1,MOKAI LOUNGE RADIO
+http://cdn.mokailounge.com/lounge.mp3
+#EXTINF:-1,Radio Pak Link
+http://eu2.fastcast4u.com:4256/1/
+#EXTINF:-1,Radio HLR
+http://stream.radiosolutions.dk:60010/radiohlr
+#EXTINF:-1,Yes2day Radio
+https://yes2dayradio.radioca.st/stream
+#EXTINF:-1,Ekstra Bladet Radio
+http://stream.myradio.dk:8000/eb
+#EXTINF:-1,Smooth & Funky
+http://s10.myradiostream.com:10892/
+#EXTINF:-1,classic.fm
+http://webradio.classicfm.dk/classichorsens
+#EXTINF:-1,Radio Halsnæs
+http://45.32.238.225:80/
+#EXTINF:-1,Heartbeats
+http://radio1.servers.heartbeats.dk:8000/320k
+#EXTINF:-1,Næstved Lokal Radio
+http://cristina.torontocast.com:8062/live
+#EXTINF:-1,Radio Alfa Midtjylland
+http://netradio.radioalfa.dk/alfamidt
+#EXTINF:-1,Retro90
+https://s4.radio.co/s5b2842be8/listen
+#EXTINF:-1,Radio NORDJYSKE
+http://stream.anr.dk/nordjyske2
+#EXTINF:-1,Radio Odsherred
+http://5.103.128.66:88/broadwave.mp3?src=1&rate=1&ref=
+#EXTINF:-1,XFM
+http://stream.xfm.dk:8000/
+#EXTINF:-1,CopenhagenFM
+http://stream.radiosolutions.dk:8080/copenhagenfm
+#EXTINF:-1,Tiger FM
+http://85.202.67.163:8001/stream.mp3
+#EXTINF:-1,Din Radio 8600
+http://stream.dinradio8600.dk/DinRadioSilkeborg
+#EXTINF:-1,Limfjord Slager
+http://media.limfjordnetradio.dk:80/plusslager128
+#EXTINF:-1,Radio Update
+http://81.7.160.152:8010/radioupdate
+#EXTINF:-1,The Lake
+http://188.165.237.19:8627/stream
+#EXTINF:-1,Radio Schubert
+http://192.184.9.158:8858/
+#EXTINF:-1,Radio Victoria
+http://stream.wlmm.dk/NyRadiomp3
+#EXTINF:-1,Radio Vesterbro
+http://185.80.220.12:8006/live
+#EXTINF:-1,Radio Humleborg
+http://media.wlmm.dk/humleborg
+#EXTINF:-1,Radio Jazz Copenhagen
+http://radiojazzcopenhagen.out.airtime.pro:8000/radiojazzcopenhagen_a
+#EXTINF:-1,HITSTREAM DK
+http://78.156.123.142:8030/listen1?sid=1
+#EXTINF:-1,Norea DK
+http://radio.norea.dk:8080/
+#EXTINF:-1,Radioti
+http://195.215.168.146:9200/
+#EXTINF:-1,Radio Øst FM
+http://netradio.oestfm.dk
+#EXTINF:-1,Radio Playback
+http://stream02.radioplayback.dk:80/stream
+#EXTINF:-1,Nordsjællands Kristne Radio
+http://studie.hkr.dk:8000/
+#EXTINF:-1,Radio Beatles
+http://51.255.235.165:5148/1/
+#EXTINF:-1,VibeFM
+http://s1.vibestream.dk:9020/live
+#EXTINF:-1,Radio 2000
+http://deltatek.dk:8000/radio2000.mp3
+#EXTINF:-1,Radio Roende
+http://media.wlmm.dk:80/djurs
+#EXTINF:-1,Radio ALFA Juleradio
+http://netradio.radioalfa.dk/alfaevent
+#EXTINF:-1,Midtfjord Radio
+http://195.215.128.43/netradio
+#EXTINF:-1,Classic FM Vestjylland
+http://netradio.vlr.dk/classicstruer
+#EXTINF:-1,DK4 Dansktop Radio
+http://stream.radiosolutions.dk/dk4hi
+#EXTINF:-1,RTT
+http://usa3.fastcast4u.com:5648/
+#EXTINF:-1,ClubFM.dk
+http://lyt.til.clubfm.dk:8000/CFMmobil
+#EXTINF:-1,ABINAYAM FM
+http://192.99.170.8:5756/
+#EXTINF:-1,2town Radio
 https://streaming.radio.co/sd9d980ff0/listen
-#EXTINF:-1,Radio Voz Alterosa Listen live
-https://ssl.bitstreaming.info:7940/
-#EXTINF:-1,inspirationofsounds Listen live
-https://stream.laut.fm/inspirationofsounds?ref=radiode
-#EXTINF:-1,365 Grad Listen live
-https://stream.laut.fm/365grad
-#EXTINF:-1,Radio Helsingør FM 92.8 Listen live
-https://stream.radiohelsingor.dk/rh
-#EXTINF:-1,Radio Humleborg Listen live
-https://stream.rcast.net/64547
-#EXTINF:-1,Radio Klassisk Listen live
-https://live-bauerdk.sharp-stream.com/radioklassisk_dk_mp3
-#EXTINF:-1,Radio Kultur 97.7 FM Listen live
-https://443-1.autopo.st/12/
-#EXTINF:-1,Radio Loud Listen live
-https://stream.radioloud.dk/loud128
-#EXTINF:-1,Radio M Listen live
-https://radioserver.dk/radiom
-#EXTINF:-1,Radio Marimanga Listen live
-https://s11.ssl-stream.com/ssl/marimanga?mp=/server
-#EXTINF:-1,Radio MFK Listen live
-https://stream1.radiomfk.dk/radiomfk
-#EXTINF:-1,Radio ZET Alternatywa Listen live
-https://zt02.cdn.eurozet.pl/ZETALT.mp3
-#EXTINF:-1,Kinderrockradio Listen live
-https://stream.laut.fm/kinderrockradio?ref=radiode
-#EXTINF:-1,Radio Nord FM Listen live
-https://netradio.radionord.dk:8443/RadioNord
-#EXTINF:-1,Radio NORDJYSKE Listen live
-https://stream.anr.dk/nordjyske
-#EXTINF:-1,Radio Playback Listen live
-https://stream02.radioplayback.dk/server
-#EXTINF:-1,Radio Playback Rock Listen live
-https://stream01.radioplayback.dk/live
-#EXTINF:-1,Radio Retro DK Listen live
-https://rbx2.hnux.com/http://149.202.22.75:9010/
-#EXTINF:-1,Radio Silkeborg Listen live
-https://radioserver.dk/silkeborg
-#EXTINF:-1,Radio Skive Listen live
-https://radioserver.dk/skive
-#EXTINF:-1,Deventer Radio Listen live
-https://stream.deventerrtv.nl:8443/mp3
-#EXTINF:-1,ms2 Listen live
-https://stream.laut.fm/ms2?ref=radiode
-#EXTINF:-1,Esencia FM Marina Baja - Benidorm Listen live
-https://stream.mediasector.es/radio/8040/esenciafm-marina-baja-benidorm.mp3?1586543431
-#EXTINF:-1,SAMS Radio 1 Listen live
-https://s2.radio.co/s418cc827e/listen
-#EXTINF:-1,Radio Soft Listen live
-https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3
-#EXTINF:-1,Radio SOLO Listen live
-https://radioserver.dk/solo
-#EXTINF:-1,Radio Specefic Listen live
-https://stream.specific.dk/SR
-#EXTINF:-1,Radio SydhavsØerne Listen live
-https://stream.probroadcast.dk/sydhavsradiomp3
-#EXTINF:-1,Radio Vesterbro Listen live
-https://s2.ssl-stream.com/radio/8010/radio.mp3
-#EXTINF:-1,Radio Viborg Listen live
-https://webradio.radioviborg.dk/viborg
-#EXTINF:-1,Radio Victoria Listen live
-https://stream.probroadcast.dk/victoria
-#EXTINF:-1,Radio Vinyl Listen live
-https://live-bauerdk.sharp-stream.com/DK_LQ_RP14.aac
-#EXTINF:-1,Radio VLR Listen live
-https://webradio.vlr.dk/vlr
-#EXTINF:-1,Radio Øst FM Listen live
-https://stream.probroadcast.dk/oestfmmp3
-#EXTINF:-1,Radio4 Listen live
-https://netradio.radio4.dk/radio4
-#EXTINF:-1,Ancient FM Listen live
-https://mediaserv73.live-streams.nl:18058/server
-#EXTINF:-1,UniqueVibez.com Listen live
-https://stream.galaxywebsolutions.com/proxy/uniquevi?mp=/server
-#EXTINF:-1,Sonar Lounge Music Radio Listen live
-https://c8.radioboss.fm:18064/server
-#EXTINF:-1,Retro Radio Listen live
-https://streammp3.retro-radio.dk/retro-mp3?type=.mp3
-#EXTINF:-1,Skala FM Listen live
-https://webradio.skala.fm/kolding
-#EXTINF:-1,The Coffee Shop Listen live
-https://live-bauerdk.sharp-stream.com/DK_HQ_RP10.aac
-#EXTINF:-1,The Voice Listen live
-https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3
-#EXTINF:-1,UCB Media Listen live
-https://s2.radio.co/s6f04f551c/listen
-#EXTINF:-1,Uniradioen Listen live
-https://uniradio.out.airtime.pro/uniradio_a
-#EXTINF:-1,WEBfm Listen live
-https://stream1.webfm.dk/Web192
-#EXTINF:-1,World Music Radio Listen live
-https://stream.probroadcast.dk/wmrmp3
-#EXTINF:-1,Cool 96.9 FM Listen live
-https://stream.coolwazobiainfo.com/cool-lagos
-#EXTINF:-1,Rádio Clube Paços de Ferreira 101.8 FM Listen live
-https://solid33.streamupsolutions.com/proxy/ryuokona?mp=/server
-#EXTINF:-1,Rádio Interativa 101.7 FM Listen live
-https://cast2.hoost.com.br:20056/server
-#EXTINF:-1,Radio Valle 90.7 Fm Listen live
-https://playerservices.streamtheworld.com/api/livestream-redirect/VALLEAAC.aac
-#EXTINF:-1,Radio TeleTaxi Listen live
-https://radiott-web.streaming-pro.com:6003/radiott.mp3
-#EXTINF:-1,Velvet 96,8 fm Listen live
-https://metromedia.live24.gr/velvet968thess?ver=208945
-#EXTINF:-1,B4B Radio House Legend Listen live
-https://eu10.fastcast4u.com:2650/
-#EXTINF:-1,101FM - Oldies Listen live
-https://0-24oldiespoprock.stream.laut.fm/0-24_oldies_pop_rock
-#EXTINF:-1,Antyradio Greatest Listen live
-https://an03.cdn.eurozet.pl/ANTGRE.mp3
-#EXTINF:-1,More FM - Kapiti/Horowhenua 90.3 FM Listen live
-https://livestream.mediaworks.nz/radio_origin/more_[KAP]_128kbps/chunklist.m3u8
-#EXTINF:-1,RauteMusik - Karneval Listen live
-https://rautemusik-de-hz-fal-stream11.radiohost.de/rm-karneval_mp3-192?ref=rm5beta
-#EXTINF:-1,Bocca Radio Listen live
-https://ample-09.radiojar.com/gcsmtyqq274tv.mp3
-#EXTINF:-1,Rádio Feliz FM - Rio de Janeiro Listen live
-https://cloud1.cdnseguro.com:27436/
-#EXTINF:-1,100% Stand-Up - 100FM רדיוס Listen live
-https://a25.streamgates.net/radios-audio/100StandUp/chunks.m3u8
-#EXTINF:-1,Rádio Comercial - Rock Listen live
-https://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/chunklist_w1975576799.m3u8
-#EXTINF:-1,remix-party Listen live
-https://stream.laut.fm/remix-party?ref=radiode
-#EXTINF:-1,Country Hits Radio Listen live
-https://stream-al.planetradio.co.uk/countryhits.aac
-#EXTINF:-1,Radio DEEA Listen live
-https://radiocdn.nxthost.com/radio-deea
-#EXTINF:-1,RFT Movida - Radio Ticino Listen live
-https://streaming.smartradio.ch:8505/server
-#EXTINF:-1,BB RADIO - Deutsche Hits Listen live
-https://streambbr.ir-media-tec.com/deutsch/mp3-192/web/
-#EXTINF:-1,Radio Oxy J'Aisne Listen live
-https://listen.radioking.com/radio/183661/stream/225658
-#EXTINF:-1,Hi On Line Radio Gold Listen live
-https://mediaserv30.live-streams.nl:18000/live
-#EXTINF:-1,Русские Песни - 101.ru Listen live
-https://pub0101.101.ru/stream/pro/aac/64/41
-#EXTINF:-1,Rooster 101 Listen live
-https://rooster101-hurleysmedia.radioca.st/server
-#EXTINF:-1,Radio 870 UCR Listen live
-https://master.letio.com/io/?gs=8124&type=live.m3u8
-#EXTINF:-1,Radio Ago Lupo Della Sila Listen live
-https://sp1.server89.com:7006/stream
-#EXTINF:-1,FAIL-RADIO Listen live
-https://stream.laut.fm/failradio?ref=radiode
-#EXTINF:-1,Radio Vatsy Listen live
-https://listen.radioking.com/radio/298018/stream/344575
-#EXTINF:-1,the-world-wont-listen Listen live
-https://stream.laut.fm/the-world-wont-listen?ref=radiode
-#EXTINF:-1,P4 Sjuhärad Listen live
-https://http-live.sr.se/p4sjuharad-mp3-128
+#EXTINF:-1,Radio Ringkøbing
+http://netradio.radioringkobing.dk:8000/
+#EXTINF:-1,Music For Dreams Radio
+https://s2.radio.co/s0f2948883/listen
+#EXTINF:-1,VinylHits DK
+http://stream.vinylhits.dk/vinylmp3
+#EXTINF:-1,Roskilde Dampradio
+http://81.7.160.152:8010/rdr
+#EXTINF:-1,Radio Trepqa
+http://167.114.207.237:9932/
+#EXTINF:-1,Rise FM Denmark
+http://37.187.93.104:8023/stream
+#EXTINF:-1,DanskBox Radio
+http://danskbox.radiostreaming.dk/danskbox
+#EXTINF:-1,Radio Boost
+http://149.202.22.75:8066/
+#EXTINF:-1,Radio Kultur
+http://78.129.163.82:22853/
+#EXTINF:-1,Radio Amazigh
+http://philae.shoutca.st:8399/stream
+#EXTINF:-1,Amager Radio
+http://stream.amagerradio.dk:8058/stream.mp3
+#EXTINF:-1,Genlüd
+http://genlud.dmjx.dk:8000/
+#EXTINF:-1,Globus Guld - Syd
+http://stream.wlmm.dk:8000/stream/3/
+#EXTINF:-1,Radio HSR
+http://stream.radiosolutions.dk:60060/hsr
+#EXTINF:-1,DRP4
+http://live-icy.gss.dr.dk/A/A08H.mp3
+#EXTINF:-1,Club Riva Lounge Radio
+http://stream.radiosolutions.dk/rivahi
+#EXTINF:-1,Ekstra Bladet Juleradio
+http://stream.myradio.dk:8000/ebjul
+#EXTINF:-1,Angelic Trance
+http://angelicfm.nl/trance
+#EXTINF:-1,Kulturradio
+http://37.187.79.56:3302/
+#EXTINF:-1,World Music Radio
+http://185.156.96.20:8010/wmrmp3
+#EXTINF:-1,Radio Max Holstebro
+http://netradio.radiomax.dk:8002/holstebro
+#EXTINF:-1,Young FM
+http://stream.radiosolutions.dk:60050/web
+#EXTINF:-1,Radio Freja
+http://cristina.torontocast.com:8054/live
+#EXTINF:-1,Metal Gear Radio
+http://s1.vibestream.dk:8006/stream
+#EXTINF:-1,Radio Ådalen, Ødsted
+http://s1.vibestream.dk:8008/stream
+#EXTINF:-1,Classic.fm Viborg
+http://webradio.classicfm.dk/classicviborg
+#EXTINF:-1,Pulz FM
+http://netradio.skala.fm/pulz
+#EXTINF:-1,Radio Aadalen
+http://radio-aadalen.no-ip.net:8000/
+#EXTINF:-1,Radio Vest
+http://netradio.radiomax.dk:8002/radiovest.mp3
+#EXTINF:-1,Radio Sunshine Denmark
+http://itunedradio.fr:8765/live
+#EXTINF:-1,Radio-Langeland
+http://netradio.radiolangeland.dk:8000/stream-langeland
+#EXTINF:-1,Radio50plus Nonstop Denmark
+http://78.129.224.19:15330/
+#EXTINF:-1,Radio Helsingør
+http://stream.radiohelsingor.dk/rh
+#EXTINF:-1,Radio Sawa Danmark
+http://edge.mixlr.com/channel/paefr
+#EXTINF:-1,Skala FM Faaborg
+http://netradio.skala.fm/sydfyn
+#EXTINF:-1,Theri FM
+http://192.95.18.39:5444/index
+#EXTINF:-1,Umlando
+http://80.167.205.32:8000/stream
+#EXTINF:-1,Højderyggens lokalradio
+http://78.156.96.48:1212/broadwave.mp3
+#EXTINF:-1,Radio MidtSjælland
+http://netradio.radiomidt.dk/
+#EXTINF:-1,AudioFM.dk
+http://37.59.28.208:8277/stream
+#EXTINF:-1,Vendsyssel FM
+http://arnehansen.net:8000/
+#EXTINF:-1,Holbæk Radio
+http://stream.holbaekradio.dk/webradio
+#EXTINF:-1,Den2Radio
+http://aacstream.den2radio.dk
+#EXTINF:-1,Kanal Gladsaxe
+http://83.142.226.45:8467/
+#EXTINF:-1,hit101
+http://s14.myradiostream.com:8310/
+#EXTINF:-1,Mix FM
+http://netradio.mixfm.dk/stream
+#EXTINF:-1,Radio Bosembo
+http://eu6.fastcast4u.com:5150/
+#EXTINF:-1,DR P7 Mix
+http://live-icy.gslb01.dr.dk/A/A21H.mp3
+#EXTINF:-1,DR P5
+http://live-icy.gslb01.dr.dk/A/A25H.mp3
+#EXTINF:-1,StarRadio Denmark
+http://nas.kennethlundsgaard.dk:8000/
+#EXTINF:-1,fri-born
+http://s2.radio.co/s8367afdd8/listen
+#EXTINF:-1,Rodovre Kanalen
+http://roedovrekanalen.dk:8000/stream.mp3
+#EXTINF:-1,BKN - Bornholms Kristne Nærradio
+http://stream.bkn.nu:8000/stream.ogg
+#EXTINF:-1,Christianshavns Kanal
+http://185.80.220.12:8018/stream
+#EXTINF:-1,Radio Folk
+http://217.116.217.18:8000/danishfolk
+#EXTINF:-1,radio stoholm
+http://192.99.17.12:5258/radiostoholm
+#EXTINF:-1,Ahenfo Radio Denmark (Kings Radio)
+http://s35.myradiostream.com:4702/
+#EXTINF:-1,GLobus Guld - Kolding
+http://stream.wlmm.dk:8000/stream/4/
+#EXTINF:-1,OZ2REE 434.5375 MHz D-STAR Repeater
+http://relay.broadcastify.com:80/345923335
+#EXTINF:-1,Lupitas World
+http://eu6.fastcast4u.com:5118/
+#EXTINF:-1,Radio208
+http://185.156.96.20:8010/radio208mp3
+#EXTINF:-1,Radio Specefic
+http://hyades.shoutca.st:8307/
+#EXTINF:-1,PartyGo
+https://streams.radio.co/se70cf3bbb/low
+#EXTINF:-1,Radio ALR
+https://streamer.radio.co/s6a9beb92e/listen
+#EXTINF:-1,ANR
+http://stream.anr.dk:80/anr
+#EXTINF:-1,HITSTREAM DK 2
+http://78.156.123.142:8030/stream/5/?sid=5
+#EXTINF:-1,Hospital Prison University Radio
+http://50.7.68.251:6982/stream
+#EXTINF:-1,365nyheder
+http://37.59.28.208:8251/stream
+#EXTINF:-1,DR P4 Østjylland
+http://live-icy.gslb01.dr.dk/A/A14H.mp3
+#EXTINF:-1,Radio WAIH
+http://stream.radio.co/s683cfbd53/listen
+#EXTINF:-1,Spejdernes Radio 2017
+http://megamind.rgcs.dk:8000/spejderradio
+#EXTINF:-1,Radio Tønder
+http://stream.wlmm.dk/syddanmark
+#EXTINF:-1,PRÆCIS
+http://samcloud.spacial.com/api/listen?sid=87982
+#EXTINF:-1,Komiteens Radio
+http://deltatek.dk:8000/komiteens.mp3
+#EXTINF:-1,Avalon Tides
+http://stream.radio.co/s9049fd061/listen
+#EXTINF:-1,Danmarkspartystation.dk
+http://83.142.226.45:17585/stream
+#EXTINF:-1,DR P4 Syd
+http://live-icy.gss.dr.dk:8000/A/A12H.mp3
+#EXTINF:-1,Globus Guld - Nord
+http://stream.wlmm.dk:8000/stream/1/
+#EXTINF:-1,Radio FLR 98.2
+http://stream.vibestream.dk:8001/stream
+#EXTINF:-1,Theis FM
+http://listen.shoutcast.com/theisfm
+#EXTINF:-1,Music 4 Dreams Radio
+http://94.249.254.98:8000/
+#EXTINF:-1,Radio Sjenina
+http://108.166.161.206:8820/
+#EXTINF:-1,HyggeRadio
+http://stream.radio.co/scd765f643/listen
+#EXTINF:-1,VibeXmas
+http://s1.vibestream.dk:9021/stream
+#EXTINF:-1,Thozhafm
+http://192.95.18.39:5352/
+#EXTINF:-1,Radio Weekend
+http://usa2.fastcast4u.com:4024/
+#EXTINF:-1,DBC5 Radio
+http://samcloud.spacial.com/api/listen?sid=82932&m=sc
+#EXTINF:-1,Classic Night
+http://eu8.fastcast4u.com:5080/
+#EXTINF:-1,HOPE AND LIFE RADIO
+http://stream.zenolive.com/6yq7teb62p5tv
+#EXTINF:-1,Mixtape Radio
+http://46.165.209.21:8040/
+#EXTINF:-1,Torben Asp Radio
+http://euro1.neostreams.info:8218/

@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,FinEst Radio
+https://shoutcast.finestfm.fi/stream/1/:80/stream
+#EXTINF:-1,Happy U
+http://www.happyu.ee/streaming/happyu.m3u
+#EXTINF:-1,Kuma FM 101.0
+http://5.39.16.62:8004/tre
+#EXTINF:-1,Raadio Elmar
+https://le06.euddn.net/a26943450c297a23385e853184f2f14ef7bf41a2c578ace565e9a01f41370373d3e01cbab93e46a085fcc1e11bb3af58614259a8b3d8f4cf12f9a94def9e05b1b563852d55b747bffc0de66d69029010020917d4525cdc969837e506833f7c67c5de6ab7b0a726cf3ff5c6a4f3e902e0da1de2dd69456a448afec10baf984e0a51f1017a71b13d3514538d6e31b695199b60f7f7ae44d43f5c82cfa9efad4d2b21b9e6d31972dbc4187766499bbc8572/elmar.aac
+#EXTINF:-1,Raadio Relax FM
+https://edge02.cdn.bitflip.ee:8888/relax?_i=87e8b0b0
+#EXTINF:-1,Raadio Relax International
+https://edge02.cdn.bitflip.ee:8888/international?_i=87e8b0b0
+#EXTINF:-1,Retro FM Estonia
+https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b
+#EXTINF:-1,Rock FM
+https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186
+#EXTINF:-1,Sky Plus
+https://edge02.cdn.bitflip.ee:8888/SKYPLUS?_i=87e8b0b0
+#EXTINF:-1,Sky-Radio
+https://edge02.cdn.bitflip.ee:8888/SKY?_i=87e8b0b0
+#EXTINF:-1,Sooviraadio
+http://media.uunox.net:8888/listen.pls

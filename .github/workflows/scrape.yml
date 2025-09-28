@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          node ./m3u-checker.js test_input/ test_output/ --quiet
+          for i in {1..3} ; do for j in $(cat genres.txt) ; do curl -s https://radioly.app/genre/$j/$i/ | ./htmlq "#pb_main > div > div > div.pb-card-list" -a href a | grep '/radio/' | awk '!seen[$0]++' | awk -F '/' '{print $5}' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: git stuff
         run: |

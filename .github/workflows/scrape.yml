@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://radioly.app/radio/$j/ > mep1 ; paste -d ',' <(cat mep1 | grep -oP 'meta property="og:image" content="\K[^"]*' | awk '{ print "\"" $0 "\"" }') <(cat mep1 | ./htmlq -t h1) | awk 'NR==1 {$0="#EXTINF:-1 tv-logo=" $0} 1' >> A$i ; cat mep1 | grep -oP 'data-audio-url="\K[^"]*' | head -n 1 | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
+          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://radioly.app/radio/$j/ > mep1 ; paste -d ',' <(cat mep1 | grep -oP 'meta property="og:image" content="\K[^"]*' | awk '{ print "\"" $0 "\"" }') <(cat mep1 | ./htmlq -t h1) | awk 'NR==1 {$0="#EXTINF:-1 tvg-logo=" $0} 1' >> A$i ; cat mep1 | grep -oP 'data-audio-url="\K[^"]*' | head -n 1 | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
           rm mep1
 
       - name: git stuff

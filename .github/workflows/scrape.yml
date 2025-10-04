@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          node ./m3u-checker.js input_folder/ output_folder/ --quiet
+          node ./m3u-checker.js test_input/ test_output/ --quiet
 
       - name: git stuff
         run: |

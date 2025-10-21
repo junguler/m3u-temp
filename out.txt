@@ -1,42 +1,0 @@
-Script started on 2025-10-21 16:49:24+03:30 [COMMAND="git pull" TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="142" LINES="13"]
-remote: Enumerating objects: 30, done.[K
-remote: Counting objects:   3% (1/30)[Kremote: Counting objects:   6% (2/30)[Kremote: Counting objects:  10% (3/30)[Kremote: Counting objects:  13% (4/30)[Kremote: Counting objects:  16% (5/30)[Kremote: Counting objects:  20% (6/30)[Kremote: Counting objects:  23% (7/30)[Kremote: Counting objects:  26% (8/30)[Kremote: Counting objects:  30% (9/30)[Kremote: Counting objects:  33% (10/30)[Kremote: Counting objects:  36% (11/30)[Kremote: Counting objects:  40% (12/30)[Kremote: Counting objects:  43% (13/30)[Kremote: Counting objects:  46% (14/30)[Kremote: Counting objects:  50% (15/30)[Kremote: Counting objects:  53% (16/30)[Kremote: Counting objects:  56% (17/30)[Kremote: Counting objects:  60% (18/30)[Kremote: Counting objects:  63% (19/30)[Kremote: Counting objects:  66% (20/30)[Kremote: Counting objects:  70% (21/30)[Kremote: Counting objects:  73% (22/30)[Kremote: Counting objects:  76% (23/30)[Kremote: Counting objects:  80% (24/30)[Kremote: Counting objects:  83% (25/30)[Kremote: Counting objects:  86% (26/30)[Kremote: Counting objects:  90% (27/30)[Kremote: Counting objects:  93% (28/30)[Kremote: Counting objects:  96% (29/30)[Kremote: Counting objects: 100% (30/30)[Kremote: Counting objects: 100% (30/30), done.[K
-remote: Compressing objects:  16% (1/6)[Kremote: Compressing objects:  33% (2/6)[Kremote: Compressing objects:  50% (3/6)[Kremote: Compressing objects:  66% (4/6)[Kremote: Compressing objects:  83% (5/6)[Kremote: Compressing objects: 100% (6/6)[Kremote: Compressing objects: 100% (6/6), done.[K
-Unpacking objects:   6% (1/16)Unpacking objects:  12% (2/16)Unpacking objects:  18% (3/16)Unpacking objects:  25% (4/16)Unpacking objects:  31% (5/16)Unpacking objects:  37% (6/16)Unpacking objects:  43% (7/16)remote: Total 16 (delta 9), reused 16 (delta 9), pack-reused 0 (from 0)[K
-Unpacking objects:  50% (8/16)Unpacking objects:  56% (9/16)Unpacking objects:  62% (10/16)Unpacking objects:  68% (11/16)Unpacking objects:  75% (12/16)Unpacking objects:  81% (13/16)Unpacking objects:  87% (14/16)Unpacking objects:  93% (15/16)Unpacking objects: 100% (16/16)Unpacking objects: 100% (16/16), 20.53 KiB | 396.00 KiB/s, done.
-From https://github.com/junguler/m3u-temp
-   1a1770683..952064e1f  main       -> origin/main
-Updating 1a1770683..952064e1f
-Fast-forward
- A-canada.txt               | 756 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-east-timor.txt           |   0
- A-ethiopia.txt             |   0
- A-france.txt               | 252 [32m++++++++++++++++++++++++++++++++++++[m
- A-germany.txt              | 504 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-iraq.txt                 |   0
- A-italy.txt                | 101 [32m+++++++++++++++[m
- A-lesotho.txt              |   0
- A-maldives.txt             |   0
- A-mexico.txt               |  90 [32m+++++++++++++[m
- A-netherlands.txt          |  14 [32m++[m
- A-poland.txt               |  77 [32m+++++++++++[m
- A-russia.txt               |   5 [32m+[m
- A-seychelles.txt           |   0
- A-somalia.txt              |   0
- A-spain.txt                | 314 [32m+++++++++++++++++++++++++++++++++++++++++++++[m
- A-sudan.txt                |   0
- A-switzerland.txt          |  30 [32m+++++[m
- A-united-arab-emirates.txt |  71 [32m++++++++++[m
- A-united-kingdom.txt       | 504 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-usa.txt                  | 504 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- 21 files changed, 3222 insertions(+)
- create mode 100644 A-east-timor.txt
- create mode 100644 A-ethiopia.txt
- create mode 100644 A-iraq.txt
- create mode 100644 A-lesotho.txt
- create mode 100644 A-maldives.txt
- create mode 100644 A-seychelles.txt
- create mode 100644 A-somalia.txt
- create mode 100644 A-sudan.txt
-
-Script done on 2025-10-21 16:49:27+03:30 [COMMAND_EXIT_CODE="0"]

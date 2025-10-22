@@ -11,7 +11,7 @@ jobs:
       - name: run commands
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet
-          for i in *.m3u ; do cat "$i" | parallel -j 10 'wget -S --spider -q -t 1 -T 10 --max-redirect 0 {} 2>&1 | grep "HTTP/" | awk '\''{print $2}'\'' | (cat; echo {}) | paste -s -d " " >> A-'"$i"'; echo "'"$i"' - {}"' ; done
+          for i in *.m3u ; do cat "$i" | parallel -j 10 'wget -S --spider -q -t 1 -T 10 --max-redirect 0 {} 2>&1 | grep "HTTP/" | awk '\''{print $2}'\'' | (cat; echo {}) | paste -s -d " " >> A-'"$i"' ; done
 
       - name: git stuff
         run: |

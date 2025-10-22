@@ -11,8 +11,6 @@ jobs:
       - name: run commands
         run: |
           node ./m3u-checker.js test_input/ test_output/ --quiet
-          #for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://kinot.asia/listen/$j > mep1 ; cat mep1 | ./htmlq -t h1 | awk 'NR==1 {$0="#EXTINF:-1," $0} 1' >> A$i ; cat mep1 | grep 'data-stream-url=' | awk -F '"' '{print $2}' | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
-          #rm mep1
 
       - name: git stuff
         run: |

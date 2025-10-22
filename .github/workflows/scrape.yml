@@ -11,7 +11,7 @@ jobs:
       - name: run commands
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet
-          for i in *.m3u ; do for j in $(cat $i) ; do wget -S --spider -q -t 1 -T 1 --max-redirect 0 $j 2>&1 | grep "HTTP/" | awk '{print $2}' | (cat ; echo $j ;) | paste -s -d " " >> A-$i ; echo -e "$i - $j" ; done ; done
+          for i in *.m3u; do sed -n '/^http/p' "$i" | sed "s/^/$i:/" ; done | xargs -P10 -I {} bash -c 'URL_PART="${0#*:}" ; FILE_PART="${0%*:}" ; CODE=$(wget -S --spider -q -t1 -T10 --max-redirect=0 "$URL_PART" 2>&1 | grep -o "HTTP/[0-9.]* [0-9]*" | awk "{print \$2}") ; echo "${CODE:-000} $URL_PART" >> "A-$FILE_PART"' {}
 
       - name: git stuff
         run: |

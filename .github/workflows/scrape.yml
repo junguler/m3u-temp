@@ -11,7 +11,7 @@ jobs:
       - name: run commands
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet
-          for i in *.m3u; do echo "-> Checking $i..."; rm -f "A-$i"; grep -v '^#' "$i" | xargs -P 10 -I {} sh -c 'url="{}"; code=$(wget --spider -S -q -t 1 -T 10 --max-redirect 0 "$url" 2>&1 | grep "HTTP/" | awk "{print \$2}" | head -n 1); echo "${code:-000} $url"' >> "A-$i"; done
+          for i in *.m3u; do echo "-> Checking $i..."; rm -f "A-$i"; paste -d '§' <(grep '^#EXTINF' "$i") <(grep -v '^#' "$i" | sed 's/\r//g') | xargs -P 10 -I {} sh -c 'line="{}"; url=$(echo "$line" | cut -d"§" -f2); code=$(wget --spider -S -q -t 1 -T 10 --max-redirect 0 "$url" 2>&1 | grep "HTTP/" | awk "{print \$2}" | head -n 1); echo "${code:-000} $line"' >> "A-$i"; done
 
       - name: git stuff
         run: |

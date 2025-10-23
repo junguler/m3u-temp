@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31597.png",Radio_SWH_
+404 https://fmradiohub.in/radio?url=http://80.232.162.149:8000/swh96mp3
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31598.png",TOPradio_
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_RADIOAAC_SC
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31599.png",Retro_FM_Latvija
+200 https://live.retrofm.lv/retrofmlatvia
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31600.png",Radio_Skonto
+400 https://stream.radioskonto.lv:8443/stereo
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31601.png",Radio_Pik_100_FM
+404 https://fmradiohub.in/radio?url=http://91.90.255.85:8000/01
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31602.png",Radio_Energy_-_Russian_Radio
+404 https://fmradiohub.in/radio?url=http://radio1.radioenergy.lv:9000/
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31603.png",XO_FM
+400 https://live.xo.fm/xofm128
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31606.png",Xradio
+404 https://fmradiohub.in/radio?url=http://185.8.60.5:8000/
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31607.png",European_Hit_Radio_
+404 https://fmradiohub.in/radio?url=http://stream.europeanhitradio.com:8000/ehr64
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/80104563.jpg",New_Dance_Radio
+404 https://fmradiohub.in/radio?url=http://stream.newdanceradio.ru/
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31612.png",Latvijas_Radio_-_LR2
+404 https://fmradiohub.in/radio?url=http://lr2mp1.latvijasradio.lv:8002/
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31613.png",Latgolys_Radeja_
+404 https://fmradiohub.in/radio?url=http://195.13.253.51:8000/128_mp3
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31614.png",Radio_Marija_-_Latvija
+404 https://fmradiohub.in/radio?url=http://195.122.25.178:8000/1
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31615.png",Pieci_-_Atklājumi
+404 https://fmradiohub.in/radio?url=http://live.pieci.lv/live5-hq.mp3
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/48616545.jpg",True_Life_in_God_Radio_Latvian
+200 https://stream.tligradio.org/listen/latvian/radio.mp3
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3568555.jpg",LRADIO-BALTIJA
+403 https://radio.lradiostation.com/live

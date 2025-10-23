@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12020.png",Radio_Atlantico
+200 https://stream.cvhosting.uk:8000/radio.mp3?ver=841496
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12021.png",Radio_Cabo_Verde_International
+404 https://fmradiohub.in/radio?url=http://41.221.203.141:8090/stream.mp3
+#EXTINF:-1_tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12022.png",Praia_FM_-_FM_94.1_-_Achada_Baleia
+400 https://mpc1.mediacp.eu:8030/stream

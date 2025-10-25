@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,Radio_Sjeverni.FM
+200 https://live.sjeverni.fm/radio/8000/radio.mp3
+#EXTINF:-1,Radio_Roža
+400 https://stream.radio-roza.org/live.mp3
+#EXTINF:-1,Radio_Techno_Zagreb
+https://mercury.reliastream.com/proxy/radiotec?mp=/stream
+#EXTINF:-1,HR_Radio_Zadar
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/ZADAR.mp3
+#EXTINF:-1,HR_Radio_Knin
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KNIN.mp3
+#EXTINF:-1,Yammat_FM
+200 https://stream.yammat.fm/radio/8000/yammat.mp3
+#EXTINF:-1,HR_3
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3.mp3
+#EXTINF:-1,HR_2
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3
+#EXTINF:-1,Radio_Max_HR
+200 https://azuracast.novi-net.net/radio/8010/radiomax.aac
+#EXTINF:-1,Radio_Ritam
+https://ec2s.crolive.com.hr:8455/stream
+#EXTINF:-1,Zabavni_Radio
+https://test1.secure.com.hr:8585/
+#EXTINF:-1,Radio_Centar
+https://www.radiocentar.hr/streaming/
+#EXTINF:-1,Radio_Borovo
+200 https://audio.radio-banovina.hr/9018/stream
+#EXTINF:-1,Radio_105
+200 https://azuracast.novi-net.net/radio/8050/radio105.aac
+#EXTINF:-1,Radio_101_FM
+302 https://stream.laut.fm/101fm?ref=radiode
+#EXTINF:-1,Radio_1_HR
+200 https://azuracast.novi-net.net/radio/8020/radio1.aac
+#EXTINF:-1,Otvoreni_Radio
+400 https://stream.otvoreni.hr:443/stream48
+#EXTINF:-1,HR_1
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3
+#EXTINF:-1,HR_Radio_Split
+200 https://www.myipcast.com/radio/split
+#EXTINF:-1,HR_Radio_Sljeme
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/sljeme.mp3
+#EXTINF:-1,HR_Radio_Rijeka
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/rijeka.mp3
+#EXTINF:-1,HR_Radio_Pula
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/pula.mp3
+#EXTINF:-1,HR_Radio_Osijek
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/osijek.mp3
+#EXTINF:-1,HR_Radio_Dubrovnik
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIK.mp3
+#EXTINF:-1,HR_Glas_Hrvatske
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIA.mp3
+#EXTINF:-1,Radio_Mreznica_95.4_
+200 https://stream3.dns69it.com/stream/1/
+#EXTINF:-1,Radio_DEEJAY_
+200 https://c2.hostingcentar.com/streams/radiodj/
+#EXTINF:-1,Radio-Kaj_
+https://stream.rcast.live/66509
+#EXTINF:-1,Radio_Labin_
+200 https://c2.hostingcentar.com/streams/radiolabin/

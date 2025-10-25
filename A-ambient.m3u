@@ -1,0 +1,441 @@
+#EXTM3U
+#EXTINF:-1,WDRT_91.9_FM
+200 https://audio.wdrt.org:8000/high
+#EXTINF:-1,WSFN_ESPN_Coastal_Georgia
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WSEGAMAAC_SC
+#EXTINF:-1,WSBN_ESPN_Capitol_630_AM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/WSBNAMAAC_SC
+#EXTINF:-1,WELP_1360_AM
+200 https://ice9.securenetsystems.net/WELP
+#EXTINF:-1,WJCS_89.3_FM
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCSFM_SC
+#EXTINF:-1,WJEV-LP_Radio_Vida_97.7_FM
+200 https://ice41.securenetsystems.net/WJEV
+#EXTINF:-1,WISW_ESPN_Radio_1320
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WISWAMAAC_SC
+#EXTINF:-1,WXVW_The_Big_X_1450_AM
+200 https://ice66.securenetsystems.net/WXVW?playSessionID=F4E1A54B-FAD9-A813-9266D41C35206853
+#EXTINF:-1,WQSU_The_Pulse_88.9_FM
+200 https://s3.radio.co/s88e6453a8/listen
+#EXTINF:-1,WITK_1550_AM
+200 https://ice10.securenetsystems.net/WITK
+#EXTINF:-1,WHLD_Sportsradio_1270_The_Fan
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WHLDAMAAC_SC
+#EXTINF:-1,WSNL_Victory_600_AM
+200 https://ice23.securenetsystems.net/WSNL
+#EXTINF:-1,KYFB_BBN_Radio_91.5_FM
+200 https://audio-edge-3mayu.fra.h.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f
+#EXTINF:-1,KOIR_Radio_Esperanza_FM
+https://ic1.sslstream.com/rgbi-ir
+#EXTINF:-1,WTTI_1530
+200 https://ice64.securenetsystems.net/WTTI
+#EXTINF:-1,WDLM_Quad_Cities_Christian_Radio
+https://primary.moodyradiostream.org/wdlm.mp3
+#EXTINF:-1,Jones_College_Radio
+404 https://ice5.securenetsystems.net/WKTZ
+#EXTINF:-1,KPLY_Fox_Sports_630_AM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/livestream_SC
+#EXTINF:-1,WPIE_ESPN_Ithaca_1160_-_107.1
+404 https://ais-sa2.cdnstream1.com/2056_128.mp3
+#EXTINF:-1,KTCK_SportsRadio_96.7_&_1310_The_Ticket
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC_SC
+#EXTINF:-1,KPRZ_K-Praise_106.1_and_1210
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KPRZAMAAC_SC
+#EXTINF:-1,KKMS_AM_980_The_Mission
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KKMSAMAAC_SC
+#EXTINF:-1,KFNC_ESPN_97.5_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC_SC
+#EXTINF:-1,KBGG_1700_The_Champ
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/KBGGAMAAC_SC
+#EXTINF:-1,WCPV_101.3_The_Game
+404 https://crystalout.surfernetwork.com:8001/WCPV_MP3
+#EXTINF:-1,KSUA_91.5_FM
+200 https://stream.radio.co/se776fab22/listen
+#EXTINF:-1,KGMS_AM_940
+200 https://ice24.securenetsystems.net/KGMS
+#EXTINF:-1,Calm_Pills_Ambient_Radio
+https://radio.upliftingpills.com:8000/radio.mp3
+#EXTINF:-1,Radioalfa_tropical3
+302 https://stream.zeno.fm/vpa99paruy8uv
+#EXTINF:-1,Radio_Live_HD
+302 https://stream.zeno.fm/13m5g5ypgg0uv
+#EXTINF:-1,NATURE_RADIO_RAIN
+200 https://maggie.torontocast.com:2020/stream/natureradiorain
+#EXTINF:-1,Eardrum_Buzz_Radio
+400 https://stream.radiojar.com/99excp6f8tzuv
+#EXTINF:-1,Radio_Bellissima_Christmas
+https://giorgia.radiobellissima.it/radio/8020/stream
+#EXTINF:-1,Eroticalounge
+302 https://stream.laut.fm/eroticalounge?ref=radiode
+#EXTINF:-1,EROTICA_LOUNGE
+302 https://node-11.zeno.fm/89asra0sfa0uv
+#EXTINF:-1,KRVS_88.7FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFM.mp3
+#EXTINF:-1,WYBC_-_Sports_Yale_Radio
+404 https://wybcx-stream.creek.org/stream
+#EXTINF:-1,Soft_Radio
+302 https://listen.openstream.co/6263/audio
+#EXTINF:-1,Prabhuji_Radio
+302 https://streaming.live365.com/a24054
+#EXTINF:-1,Positively_Rejuvinate_528_Hz
+200 https://streaming.positivity.radio/pr/rejuvenate/icecast.audio
+#EXTINF:-1,Positively_Reiki
+200 https://streaming.positivity.radio/pr/reiki/icecast.audio
+#EXTINF:-1,Positively_Sleep_Max_Richter
+200 https://streaming.positivity.radio/pr/maxrichter/icecast.audio
+#EXTINF:-1,Positively_Sleep_Kids
+200 https://streaming.positivity.radio/pr/sleepkids/icecast.audio
+#EXTINF:-1,Positively_Sleep_Baby
+200 https://streaming.positivity.radio/pr/sleepbaby/icecast.audio
+#EXTINF:-1,Positively_Relaxing_Workout
+200 https://streaming.positivity.radio/pr/workoutrelax/icecast.audio
+#EXTINF:-1,Exclusively_Sleep-Classical
+302 https://streaming.exclusive.radio/er/sleep-classical/icecast.audio
+#EXTINF:-1,Exclusively_Sleep-Relax
+302 https://streaming.exclusive.radio/er/sleep-relax/icecast.audio
+#EXTINF:-1,Exclusively_Meditation
+302 https://streaming.exclusive.radio/er/meditation/icecast.audio
+#EXTINF:-1,Exclusively_Reiki
+302 https://streaming.exclusive.radio/er/reiki/icecast.audio
+#EXTINF:-1,Exclusively_Tai_Chi
+302 https://streaming.exclusive.radio/er/taichi/icecast.audio
+#EXTINF:-1,Seventh-day_Adventist_Radio_
+https://usa18.fastcast4u.com/proxy/loudcrymedia6?mp=/1
+#EXTINF:-1,swarmstation_space_drone
+400 https://swarmstation.radioca.st/stream
+#EXTINF:-1,Dublin_Digital_Radio
+https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a
+#EXTINF:-1,Giornale_Radio
+https://ns3159873.ip-51-91-131.eu:8124/stream/1/
+#EXTINF:-1,LEBONMIX_SOFT
+200 https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio
+#EXTINF:-1,RADIO_RELAX_SMOOTH_JAZZ_France
+https://vip2.fastcast4u.com/proxy/sjrelax?mp=/1
+#EXTINF:-1,Slowly_Radio
+301 https://www.radioking.com/play/slowlyradio
+#EXTINF:-1,Anyway_Smooth_Radio
+200 https://greeksonic.alphaserver.gr/8020/stream.mp3
+#EXTINF:-1,WFM_LOUNGE
+https://manager.conceptradio.fr:1295/stream
+#EXTINF:-1,RDMIX_LOUNGE_RELAX
+https://daniel.torontocast.com/rdmixchillout
+#EXTINF:-1,Lounge_FM_UKW_OÖ
+404 https://s37.derstream.net//lounge-ooe.mp3
+#EXTINF:-1,Stream_102
+404 https://s2.radio.co/s677bf6fe8/listen
+#EXTINF:-1,SPLASH_Lounge
+200 https://ais-sa2.cdnstream1.com/2209_128.mp3
+#EXTINF:-1,gamingmusic
+302 https://stream.laut.fm/gamingmusic?ref=radiode
+#EXTINF:-1,Life_Radio_Chill_Out
+302 https://stream.liferadio.at/chillout/mp3-192/radioat/
+#EXTINF:-1,CLAZZ_Radio
+404 https://str0.creacast.com/clazz_hq.mp3
+#EXTINF:-1,R_K_R_
+302 https://feklessradio.files.wordpress.com/2019/06/bob-dylan-nashville-skyline-i-threw-it-all-away.mp3
+#EXTINF:-1,RADIO_RELAX_SENSUAL
+404 https://streamingv2.shoutcast.com/RADIORELAXSENSUAL
+#EXTINF:-1,Crooner_Radio_Lounge
+https://croonerradio_lounge.ice.infomaniak.ch/croonerradio-lounge-midfi.mp3
+#EXTINF:-1,ON_Smooth_Jazz
+400 https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
+#EXTINF:-1,1A_Chillout_
+400 https://1a-chillout.radionetz.de/1a-chillout.mp3
+#EXTINF:-1,Radio_Relax_Smooth_Jazz_Radio_France
+https://radiorelax.ice.infomaniak.ch/radiorelax-192.mp3
+#EXTINF:-1,Popradio_NRW
+302 https://stream.laut.fm/popradionrw?ref=radiode
+#EXTINF:-1,TAIWAN_LOUNGE_RADIO
+200 https://azuracast.conceptradio.fr/radio/8030/stream.mp3
+#EXTINF:-1,LOUNGE_par_Vibration
+200 https://vibrationlounge.ice.infomaniak.ch/vibrationlounge.mp3?radiofrHighlight
+#EXTINF:-1,Radio_Indie_International_lounge_Network
+302 https://stream-39.zeno.fm/9rgf1xf5dxhvv?zs=Q1c0yYPtQQ-dIDbIaKg7KQ
+#EXTINF:-1,Druska_Radio
+302 https://listen.radionomy.com/druskaradio
+#EXTINF:-1,Chillhop
+302 https://streams.fluxfm.de/Chillhop/mp3-128/radiode/
+#EXTINF:-1,#Musik.Study
+302 https://study-high.rautemusik.fm/listen.mp3?ref=radiode
+#EXTINF:-1,Greek_Turtle_Radio_
+302 https://listen.radionomy.com/greekturtleradio
+#EXTINF:-1,ON_Chillout
+400 https://0n-chillout.radionetz.de/0n-chillout.mp3
+#EXTINF:-1,Progressive_Rock_AZUSA
+302 https://streaming.live365.com/a38225
+#EXTINF:-1,Retro-Radio_JUL
+200 https://tx-1.retro-radio.dk/TX-1
+#EXTINF:-1,CFTE_BNN_Bloomberg_Radio_1410
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/CFTEAMAAC_SC.mp3
+#EXTINF:-1,Radio_Record_Hypnotic
+200 https://radiorecord.hostingradio.ru/hypno96.aacp
+#EXTINF:-1,Radio_Record_2-step
+200 https://radiorecord.hostingradio.ru/2step96.aacp
+#EXTINF:-1,ejecutivosRADIO_
+200 https://radio35.virtualtronics.com:20015/stream/1/
+#EXTINF:-1,KAIROS
+302 https://stream.laut.fm/kairos?ref=radiode
+#EXTINF:-1,American_Family_Radio
+200 https://mediaserver3.afa.net:8443/talk.mp3
+#EXTINF:-1,CKNX
+200 https://live.leanstream.co/CKNXAM-MP3
+#EXTINF:-1,Sky_News_Arabia_90.3_FM
+400 https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+#EXTINF:-1,Melodies_Web_Radio
+https://i.streams.ovh:2200/ssl/melodies?mp=/stream
+#EXTINF:-1,Ibiza_Radios_-_Relax
+502 https://radio2.vip-radios.fm:18036/stream-128kmp3-IbizaRelax
+#EXTINF:-1,Positively_Sleepy
+200 https://streaming.positivity.radio/pr/posisleepy/icecast.audio
+#EXTINF:-1,Positively_Successful
+200 https://streaming.positivity.radio/pr/posisuccessful/icecast.audio
+#EXTINF:-1,Positively_Ocean
+200 https://streaming.positivity.radio/pr/posiocean/icecast.audio
+#EXTINF:-1,Positively_Meditation
+200 https://streaming.positivity.radio/pr/posimeditation/icecast.audio
+#EXTINF:-1,Positively_Birdsong
+200 https://streaming.positivity.radio/pr/posibirdsong/icecast.audio
+#EXTINF:-1,Positively_Cascade
+200 https://streaming.positivity.radio/pr/posicascade/icecast.audio
+#EXTINF:-1,Positively_Plants
+200 https://streaming.positivity.radio/pr/posiplants/icecast.audio
+#EXTINF:-1,CALM_RADIO_-_Lullaby
+200 https://streams.calmradio.com:19728/stream/1/
+#EXTINF:-1,CALM_RADIO_-_Mantra
+200 https://streams.calmradio.com:20828/stream/1/
+#EXTINF:-1,CALM_RADIO_-_Ambient_II_-_Things
+200 https://streams.calmradio.com:24728/stream/1/
+#EXTINF:-1,CALM_RADIO_-_Ambient_I_-_Spaces
+200 https://streams.calmradio.com:6728/stream/1/
+#EXTINF:-1,RADIO_FAUSTEX_RELAX
+302 https://listen.radionomy.com/radiofaustexrelax
+#EXTINF:-1,Yoga_Chill
+502 https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill
+#EXTINF:-1,Time_To_Relax
+502 https://radio4.vip-radios.fm:18048/stream-128kmp3-TimeToRelax
+#EXTINF:-1,Relax_Zone
+200 https://radio4.vip-radios.fm:18045/stream-128kmp3-RelaxZone
+#EXTINF:-1,Healing_Music
+502 https://radio4.vip-radios.fm:18039/stream-128kmp3-HealingMusic
+#EXTINF:-1,Buddha_Beach
+502 https://radio4.vip-radios.fm:18054/stream-128kmp3-BuddhaBeach
+#EXTINF:-1,Radio_Senti_Chi_Parla
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC222.aac
+#EXTINF:-1,Maretimo_Lounge_Radio
+200 https://s35.derstream.net/lounge.mp3
+#EXTINF:-1,Graal_Radio_Sensual
+https://graalradio.com/playsensual
+#EXTINF:-1,Graal_Radio_Space
+https://graalradio.com/playspace
+#EXTINF:-1,OpenFM_-_Kołysanki
+https://stream.open.fm/142
+#EXTINF:-1,OpenFM_-_Dobry_Wieczór
+https://stream.open.fm/137
+#EXTINF:-1,RadioArt:_Sleep
+400 https://live.radioart.com/fSleep.mp3
+#EXTINF:-1,RadioArt:_Ambient
+400 https://live.radioart.com/fAmbient.mp3
+#EXTINF:-1,RadioArt:_Dreamscapes
+400 https://live.radioart.com/fDreamscapes.mp3
+#EXTINF:-1,RadioArt:_Ambient_Piano
+400 https://live.radioart.com/fAmbient_piano.mp3
+#EXTINF:-1,RadioArt:_Lullaby
+400 https://live.radioart.com/fLullaby.mp3
+#EXTINF:-1,RadioArt:_Reiki
+400 https://live.radioart.com/fReiki.mp3
+#EXTINF:-1,RadioArt:_Didgeridoo
+400 https://live.radioart.com/fDidgeridoo.mp3
+#EXTINF:-1,RadioArt:_Stress_Relief
+400 https://live.radioart.com/fStress_relief.mp3
+#EXTINF:-1,Just_Chill_DnB
+302 https://128k.co.uk/stream/5113/
+#EXTINF:-1,Psyndora_Chillout
+https://cast.magicstreams.gr/sc/psychill/stream
+#EXTINF:-1,Beautiful_Instrumentals_Channel
+404 https://ais-sa5.cdnstream1.com/b37545_128mp3
+#EXTINF:-1,LOUNGE_BAR_RADIO_
+302 https://listen.radionomy.com/LOUNGEBARRADIO
+#EXTINF:-1,CALM_RADIO_-_Spa_Calmness
+200 https://streams.calmradio.com:30328/stream/1/
+#EXTINF:-1,Café_del_Mar_Radio
+200 https://streams.radio.co/se1a320b47/listen
+#EXTINF:-1,Lounge_Radio
+302 https://stream.laut.fm/loungeradio?ref=radiode
+#EXTINF:-1,SoniCalm
+https://ssl1.viastreaming.net:8915/stream/1/
+#EXTINF:-1,PWFM
+404 https://listen.radioking.com/radio/268837/stream/314170
+#EXTINF:-1,Costa_Del_Mar_-_Zen_
+502 https://radio4.cdm-radio.com:18004/stream-mp3-Zen
+#EXTINF:-1,Allzic_Zen
+200 https://allzic20.ice.infomaniak.ch/allzic20.aac
+#EXTINF:-1,CALM_RADIO_-_Dreamtime
+200 https://streams.calmradio.com:20428/stream/1/
+#EXTINF:-1,CALM_RADIO_-_Feng_Shui
+200 https://streams.calmradio.com:20228/stream/1/
+#EXTINF:-1,CALM_RADIO_-_Aura
+200 https://streams.calmradio.com:20528/stream/1/
+#EXTINF:-1,CALM_RADIO_-_Wisdom
+200 https://streams.calmradio.com:20628/stream/1/
+#EXTINF:-1,Myhitmusic_-_SENZA_CHILL
+200 https://radio.myhitmusic.de/Senza-aac.mp3
+#EXTINF:-1,RPR1.Yoga_Sounds
+302 https://stream.rpr1.de/yogasounds/aac-128/radiode
+#EXTINF:-1,ZOOradio_
+https://www.zoofine.com:8000/radio
+#EXTINF:-1,Chocolat_Radio
+404 https://listen.radioking.com/radio/376162/stream/426463
+#EXTINF:-1,1.FM_-_Radio_Gaia
+200 https://strm112.1.fm/radiogaia_mobile_aac
+#EXTINF:-1,Jamendo_Lounge
+302 https://listen.radionomy.com/jamendolounge
+#EXTINF:-1,R.SH_Relax
+302 https://streams.rsh.de/relax/aac-64/radiode/
+#EXTINF:-1,NRJ_RELAX
+https://scdn.nrjaudio.fm/adwz1/fr/31161/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,Enigmatic_Station
+200 https://listen2.myradio24.com/8226
+#EXTINF:-1,Pirate_Radio_
+302 https://stream.laut.fm/pirateradio?ref=radiode
+#EXTINF:-1,Chill-out_Radio
+404 https://streamingv2.shoutcast.com/Chill-outRadio
+#EXTINF:-1,Radio_Praetoria
+200 https://listen.radionomy.com/radiopraetoria.m3u
+#EXTINF:-1,Frisky_Radio_CHILL
+400 https://chill.friskyradio.com/friskychill_aac_high
+#EXTINF:-1,synthesizergreatest
+302 https://stream.laut.fm/synthesizergreatest?ref=radiode
+#EXTINF:-1,Radio_Dimensione_Relax
+502 https://jenny.torontocast.com:2000/stream/dimensionerelax
+#EXTINF:-1,R1_Melodic_Dubstep
+404 https://myradio24.org/61114
+#EXTINF:-1,Best_Net_Radio_-_Spa
+200 https://bigrradio.cdnstream1.com/5167_128
+#EXTINF:-1,Cine-Melody
+200 https://radio12.pro-fhi.net/flux-tspwbswh/stream
+#EXTINF:-1,7_Rays_Radio
+302 https://stream.laut.fm/7rays?ref=radiode
+#EXTINF:-1,Ambiento
+https://strw1.openstream.co/390
+#EXTINF:-1,Puls'Lounge
+302 https://listen.openstream.co/6044/audio
+#EXTINF:-1,Phaune_radio_
+200 https://stream.phauneradio.com/phaune_256
+#EXTINF:-1,Loca_FM_Ambient
+https://s02.fjperezdj.com:8036/live
+#EXTINF:-1,Lounge_FM_-_Chill_Out
+https://cast.radiogroup.com.ua/chillout128
+#EXTINF:-1,Lounge_FM_-_Terrace
+https://cast.radiogroup.com.ua/terrace128
+#EXTINF:-1,Lounge_FM_
+https://cast.radiogroup.com.ua/loungefm
+#EXTINF:-1,ABC_Relax
+302 https://listen.abcrelax.com
+#EXTINF:-1,Milano_Lounge
+https://centova.wlservices.org/proxy/pufepstm?mp=/stream
+#EXTINF:-1,Radio_Indie_International_Network
+https://antares.dribbcast.com/proxy/angelo144?mp=/stream
+#EXTINF:-1,Mixadance_FM_Relax
+https://stream.mixadance.fm/relax
+#EXTINF:-1,Voyage_-_The_Schiller_Radio
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC259.mp3
+#EXTINF:-1,Ambient_Art_Sound
+200 https://ambientartsound.skydesignltd.com:8000/radio.mp3
+#EXTINF:-1,Yimago_Radio_4_:_New_Age
+https://strw1.openstream.co/870?
+#EXTINF:-1,Joint_Radio_Beat_
+302 https://jointil.com/stream-beat
+#EXTINF:-1,Ambient_Sleeping_Pill
+200 https://radio.stereoscenic.com/asp-s
+#EXTINF:-1,Villagestation
+404 https://streamingV2.shoutcast.com/villagestation
+#EXTINF:-1,Ambiance_Radio
+404 https://streamingV2.shoutcast.com/Ambiance-Radio
+#EXTINF:-1,Halloweenradio_Atmosphere
+301 https://listen.halloweenradio.net/atmosphere
+#EXTINF:-1,Def_Con_Radio_(Soma_FM)
+200 https://ice1.somafm.com/defcon-128-mp3
+#EXTINF:-1,Klassik_Radio_Nature
+302 https://stream.klassikradio.de/nature/mp3-128/radiode/
+#EXTINF:-1,100_CHILL
+200 https://radio1.streamserver.link/radio/8110/100chill-aac
+#EXTINF:-1,AdagioRadio
+200 https://stream.tunerplay.com/radio/8010/adagioradio.mp3
+#EXTINF:-1,ENERGY_Home_Office
+https://scdn.nrjaudio.fm/adwz1/de/33057/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,Chill_Out_Zone
+404 https://chillout.zone/chillout
+#EXTINF:-1,eifellounge
+302 https://stream.laut.fm/eifellounge?ref=radiode
+#EXTINF:-1,Absolute_Chillout
+302 https://streaming.live365.com/b05055_128mp3
+#EXTINF:-1,ZEN_FOR_YOU
+404 https://streamingv2.shoutcast.com/ZEN-FOR-YOU
+#EXTINF:-1,Radio_Plenitude
+404 https://listen.radioking.com/radio/117271/stream/159004
+#EXTINF:-1,Costa_Del_Mar_-_Chillout
+502 https://radio4.cdm-radio.com:18020/stream64k-AAC-Chill
+#EXTINF:-1,Spokoinoe_Radio_Russia
+200 https://listen1.myradio24.com/6262
+#EXTINF:-1,OpenFM_-_Odgłosy_Natury
+https://stream.open.fm/52
+#EXTINF:-1,OpenFM_-_Dobranoc
+https://stream.open.fm/74
+#EXTINF:-1,Costa_Del_Mar_–_Smooth_Sax
+502 https://radio4.cdm-radio.com:18024/stream-mp3-Smooth
+#EXTINF:-1,1.FM_-_Destination_SPA
+200 https://strm112.1.fm/spa_mobile_mp3
+#EXTINF:-1,befreite-musik
+302 https://stream.laut.fm/befreite-musik?ref=radiode
+#EXTINF:-1,schalldeluxe
+302 https://stream.laut.fm/schalldeluxe?ref=radiode
+#EXTINF:-1,Relax_90.8_FM_-_Moscow
+200 https://pub0302.101.ru:8443/stream/air/aac/64/200
+#EXTINF:-1,ABC_Lounge
+302 https://listen.openstream.co/3139/audio
+#EXTINF:-1,Concertzender_De_Gehoorde_Stilte
+400 https://streams.greenhost.nl:8006/gehoordestilte
+#EXTINF:-1,Chilli_ZET_Deep_
+302 https://ch.cdn.eurozet.pl/CHIDEP.mp3
+#EXTINF:-1,Chilli_ZET_
+200 https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx
+#EXTINF:-1,Hotmixradio_LOUNGE_
+404 https://streamingp.shoutcast.com/hotmixradio-lounge-128.mp3
+#EXTINF:-1,seasaltradio_-_Seasaltradio_
+302 https://stream.laut.fm/seasaltradio?ref=radiode
+#EXTINF:-1,FFH_Lounge_
+302 https://streams.ffh.de/ffhchannels/aac/hqlounge.aac?amsparams=playerid:RTFFHRadioDE
+#EXTINF:-1,BOOZIK_lounge_
+302 https://listen.radionomy.com/boozik-lounge
+#EXTINF:-1,Traxx.FM_Ambient_
+200 https://traxx011.ice.infomaniak.ch/traxx011-low.mp3
+#EXTINF:-1,BigR_-_Erins_Chill_
+200 https://bigrradio.cdnstream1.com/5197_48
+#EXTINF:-1,101.ru:_Breathe_of_Nature_
+200 https://pub0302.101.ru:8443/stream/pro/aac/64/32
+#EXTINF:-1,101.ru:_Ambient_
+200 https://pub0302.101.ru:8443/stream/pro/aac/64/23
+#EXTINF:-1,Los_40_Dance_
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac
+#EXTINF:-1,Birdsong.fm_
+404 https://streaming.radio.co/s5c5da6a36/listen
+#EXTINF:-1,Lounge_FM_UKW_Wien_
+404 https://s37.derstream.net/ukwwien.mp3
+#EXTINF:-1,Chill_
+401 https://media-sov.musicradio.com/Chill
+#EXTINF:-1,Lounge_by_rautemusik_
+302 https://lounge-high.rautemusik.fm/?ref=radiode
+#EXTINF:-1,DELUXE_LOUNGE_RADIO_
+https://deluxe.hoerradar.de/deluxe-lounge-mp3-hq
+#EXTINF:-1,181.fm_-_Chilled_
+200 https://listen.181fm.com/181-chilled_128k.mp3
+#EXTINF:-1,RMNrelax_
+400 https://rmnrelax.schlagerparadies.de/rmnrelax
+#EXTINF:-1,Space_Station_Soma_
+200 https://ice.somafm.com/spacestation
+#EXTINF:-1,GrooveFM_
+302 https://stream.laut.fm/groovefm
+#EXTINF:-1,Drone_Zone_
+200 https://ice.somafm.com/dronezone
+#EXTINF:-1,1.FM_-_Chillout_Lounge_
+200 https://strmreg.1.fm/chilloutlounge_mobile_mp3

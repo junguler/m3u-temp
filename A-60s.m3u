@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Radio_Italy_60
+200 https://streaming.radiostreamlive.com/radioitaly60_devices
+#EXTINF:-1,WJKZ_Jukebox_Radio
+404 https://listen.radioking.com/radio/466001/stream/521480
+#EXTINF:-1,FluxFM_60s
+302 https://streams.fluxfm.de/60er/mp3-128/radiode/
+#EXTINF:-1,Flashback_60s
+400 https://ice-11.spilarinn.is/60flashback
+#EXTINF:-1,60s-forever
+302 https://stream.laut.fm/60s-forever?ref=radiode
+#EXTINF:-1,Bremen_Eins_Beat-Club
+302 https://icecast.radiobremen.de/rb/webchannel6/mp3/128/stream.mp3

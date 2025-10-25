@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,RadioFr._Fresh
+https://radiofresh.ice.infomaniak.ch/radiofresh.aac
+#EXTINF:-1,Anime-Radio-Switzerland_
+302 https://stream.laut.fm/anime-radio-switzerland?ref=radiode_
+#EXTINF:-1,Radio_Phoenix
+302 https://stream.laut.fm/radio-phoenix?ref=radiode
+#EXTINF:-1,AiR_MUSiC
+200 https://airmusic.ice.infomaniak.ch/airmusic.mp3
+#EXTINF:-1,Rockit_Radio
+https://rockitradio.ice.infomaniak.ch/rockitradio-high.mp3
+#EXTINF:-1,Vintage_Radio
+200 https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
+#EXTINF:-1,Argovia_80's
+https://icecast.radio24.ch/vhits
+#EXTINF:-1,RADIO_MARIA_SCHWEIZ
+https://streaming2.elitecomunicacion.es:9000/radiomaria_lo
+#EXTINF:-1,Piratenradio.ch_
+https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3
+#EXTINF:-1,FM1
+https://radiofm1.ice.infomaniak.ch/radiofm1-64.aac
+#EXTINF:-1,Radio_Melody
+https://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3
+#EXTINF:-1,Radio_Engiadina
+https://radiostream.suedostschweiz.ch/m/grischa/aacp_96
+#EXTINF:-1,rro_Radio_Rottu_Oberwallis
+https://streams.rro.ch/rro.mp3?usid=0-0-H-M-D-06
+#EXTINF:-1,Radio_Central
+https://radiocentral.ice.infomaniak.ch/radiocentral-64.aac
+#EXTINF:-1,Radio_Basilisk_
+400 https://ohnewerbung.ice.infomaniak.ch/radiobasilisk-64-128-0.mp3
+#EXTINF:-1,Radio_Freiburg_
+200 https://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3
+#EXTINF:-1,Energy_Zurich_
+https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
+#EXTINF:-1,ENERGY_Bern_
+200 https://energybern.ice.infomaniak.ch/energybern-high.mp3
+#EXTINF:-1,Argovia_
+https://icecastgreen.argovia.ch/argovia-rc-96-aac

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,HITRADIO_SLOVAKIA
+302 https://stream.laut.fm/hitradioslovakia?ref=radiode
+#EXTINF:-1,Fun_Radio_Dance
+200 https://stream.funradio.sk:8000/dance64.mp3
+#EXTINF:-1,Fun_Radio_80.90.Roky
+200 https://stream.funradio.sk:8000/80-90-64.mp3
+#EXTINF:-1,SRO_Radio_Litera
+400 https://icecast.stv.livebox.sk/litera_128.mp3
+#EXTINF:-1,Radio_Expres
+302 HTTP/1.1 https://stream.expres.sk/128.mp3
+#EXTINF:-1,Fun_Radio_-_Live
+200 https://stream.funradio.sk:8000/fun128.mp3.m3u
+#EXTINF:-1,Europa_2_
+https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1,Fun_Radio_-_CZ-SK_
+https://stream.funradio.sk:18443/fun128.mp3

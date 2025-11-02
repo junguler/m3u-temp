@@ -19,5 +19,5 @@ jobs:
           git config --local user.email "action[bot]@github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "$(od -An -tx2 -w14 -N14 /dev/urandom | cut -c2-)"
+          git commit -m "$(od -An -tx2 -w16 -N16 /dev/urandom | cut -c2-)"
           git push

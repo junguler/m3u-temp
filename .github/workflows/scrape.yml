@@ -10,9 +10,9 @@ jobs:
 
       - name: run commands
         run: |
-          #node ./m3u-checker.js test_input/ test_output/ --quiet
-          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://radiostationslive.com/station/$j > mep1 ; paste -d ',' <(cat mep1 | grep 'data-imagelink' | awk -F '"' '{print $2}' | head -n 1 | cut -d '/' -f1-3 | awk '{print "https://radiostationslive.com/uploads/" $0}' | awk '{ print "\"" $0 "\"" }') <(cat mep1 | ./htmlq -t h1) | awk 'NR==1 {$0="#EXTINF:-1 tvg-logo=" $0} 1' >> A$i ; cat mep1 | grep 'data-streamlink' | awk -F '"' '{print $2}' | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
-          rm mep1
+          node ./m3u-checker.js test_input/ test_output/ --quiet
+          #for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://radiostationslive.com/station/$j > mep1 ; paste -d ',' <(cat mep1 | grep 'data-imagelink' | awk -F '"' '{print $2}' | head -n 1 | cut -d '/' -f1-3 | awk '{print "https://radiostationslive.com/uploads/" $0}' | awk '{ print "\"" $0 "\"" }') <(cat mep1 | ./htmlq -t h1) | awk 'NR==1 {$0="#EXTINF:-1 tvg-logo=" $0} 1' >> A$i ; cat mep1 | grep 'data-streamlink' | awk -F '"' '{print $2}' | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
+          #rm mep1
 
       - name: git stuff
         run: |

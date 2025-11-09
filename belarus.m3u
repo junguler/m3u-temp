@@ -9,3 +9,17 @@ http://shoutcast.aplus.by:9000/aplus_beat_128
 http://shoutcast.aplus.by:9000/aplus_relax_256
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9191T.png",aplus.by - Rock
 http://shoutcast.aplus.by:9000/aplus_rock_128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GEDTBF.png",BA Radio International
+http://93.125.106.180:8000/BA128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/B8F0D6.png",Deepmine Radio
+http://deepmine.by:8000/deepmine
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/S8ATTO.png",Dzed Bardaitis Radio
+https://samcloud.spacial.com/api/listen?sid=113442&m=sc&rid=195031
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/R3HOQE.png",Energy 100.4 FM
+https://stream2.dc.beltelecom.by/energy
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BL9L9S.png",Euroradio - Alternative
+http://stream.euroradio.fm:8000/euroradio1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SKSDTJ.png",Euroradio - Soft Rock
+http://stream1.euroradio.fm:8000/euroradio3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SON5H7.png",Euroradio - Толькі BY
+http://stream1.euroradio.fm:8000/euroradio4

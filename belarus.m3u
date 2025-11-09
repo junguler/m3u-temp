@@ -1,0 +1,11 @@
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Y5EVH.png",1 канал
+http://video.tvr.by:8000/radio1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MIZDEU.png",94.3 FM - Lider FM
+https://lider-fm.by:8000/radio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6XQSOT.png",Alpha Radio Belarus
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OC2LY4.png",aplus.by - beat
+http://shoutcast.aplus.by:9000/aplus_beat_128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/71NC4Z.png",aplus.by - Relax
+http://shoutcast.aplus.by:9000/aplus_relax_256
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9191T.png",aplus.by - Rock
+http://shoutcast.aplus.by:9000/aplus_rock_128

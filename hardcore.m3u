@@ -30,3 +30,14 @@ http://198.27.66.225:9170/stream
 https://stream.hardcoreradio.nl:9000/hcr.ogg
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/64ZFP9.png",HSR Hardcore Radio
 http://198.27.66.225:9170/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/V7C9OT.png",Lazer FM Worldwide
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Y6ZFUP.png",Loca FM Hard
+http://5.39.66.128:8003/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3GDIJ1.png",Masters of Hardcore Radio
+https://23613.live.streamtheworld.com/MASTERSOFHARDCORE.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NM1NR3.png",OldskoolFM
+https://s4.radio.co/s897dfabfd/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6IS6D.png",OnlyOldSkoolRadio
+http://109.169.54.86:8010/stream?type=http&nocache=23280
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/J9UX7F.png",Psycho-Social Radio 
+http://patmos.cdnstream.com:9300/live?esPlayer&cb=97181.mp3

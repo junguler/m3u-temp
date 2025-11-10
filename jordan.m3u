@@ -10,3 +10,13 @@ http://s3.voscast.com:9830/
 http://us10a.serverse.com:8027/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KD745N.png",HD FM 104.2
 http://us10a.serverse.com:8027/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3B5GC.png",Mazaj FM
+https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WWNAGG.png",Mood FM
+http://192.184.9.81:8048/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/99QLTH.png",Radio Fann
+http://188.247.86.67:8000/2
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RB1KH.png",Radio Hala
+http://us10a.serverse.com:8027/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3SHPG8.png",Radio Hayat FM 100.8
+http://hayatfm.ps:8000/

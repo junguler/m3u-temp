@@ -12,3 +12,9 @@ https://servidor21.brlogic.com/index.php/api/streaming/media/7114/radio.m3u8?ide
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CALIDAD_CLO_SC
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/I790W.png",Habana Radio
 http://media.ohc.cu/habanaradio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OTRTA.png",Nuke Radio
+http://live.nukeradio.com:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YK8IN2.png",Radio Angulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_POPULAR_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MYYLCF.png",Radio Baragua
+https://icecast.teveo.cu/3CMM7zph

@@ -65,3 +65,34 @@ http://ca2.rcast.net:8058/stream.mp3
 http://live7.avf.ch:8000/ipmusic256
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5KXWCD.png",Iradiophilly The Plateau
 http://kmr-oom.streamguys1.com:80/plateau
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YWLJ3J.png",Jovem Pan FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PSCSLO.png",Kiss West Coast
+https://kisswestcoast.ice.infomaniak.ch/kisswestcoast-128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GBSKWO.png",Kuschel.fm
+http://server.rmnradio.de/kuschelfm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KFYFN6.png",Lite 99 Orlando, FL
+https://stream.zeno.fm/h3wyzqx91mruv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WYVS3W.png",More FM Dunedin 97.4
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/73AGZK.png",Nostalgie Extra Relax
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFRELAX.mp3?dist=streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HPH1H.png",NRJ Zürich
+https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9WSLBU.png",ON Soft Rock
+https://0n-softrock.radionetz.de/0n-softrock.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TI1LYT.png",Oyster Radio
+https://oysterradio.ice.infomaniak.ch/oysterradio-192-0-0.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/K7BUV6.png",Palm Tree Radio
+https://streaming.live365.com/a40552
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1N3Z30.png",Perfect Softrock
+https://stream.radiojar.com/eq8txpg1b5zuv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5U3QNA.png",Radio Argovia
+https://icecast.argovia.ch/argoviacr128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BFS4WI.png",Radio Diamante Rock & Soft
+https://stream.zeno.fm/8s6b3v091k8uv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0IBPXV.png",Radio FM1 Nord
+https://radiofm1.ice.infomaniak.ch/radiofm1-64.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9HX5L.png",Radio Lohro FM
+http://stream.lohro.de:8000/lohro128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/U8MHJV.png",RADIO MAGNIFÍFICA
+http://192.99.18.164:9474/stream?icy=http

@@ -23,3 +23,9 @@ http://uk3.internet-radio.com:8060/stream
 http://orion.shoutca.st:8978/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VIBY3W.png",France Musique - La Baroque
 https://icecast.radiofrance.fr/francemusiquebaroque-midfi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XSPOHA.png",Klassikaraadio ERR
+http://icecast.err.ee:80/klassikaraadio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OT2JI2.png",Radio Art - Baroque
+https://live.radioart.com/fBaroque.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CML0D0.png",Radio Art - Lute
+https://live.radioart.com/fLute.mp3

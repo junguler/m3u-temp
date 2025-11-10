@@ -92,3 +92,57 @@ http://radio.hear.fi:8000/hear.mp3
 https://stream.radiohelsinki.fi/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8R20A1.png",Radio Iskelma
 https://stream.bauermedia.fi/iskelma/iskelma_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMFI_Web&aw_0_1st.skey=1594555817
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ENV2NJ.png",Radio Moreeni
+http://153.1.15.29:8080/moreeni.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IEOR8W.png",Radio Nostalgia
+https://stream.bauermedia.fi/nostalgia/nostalgia_128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IFER67.png",Radio Nova
+https://stream.bauermedia.fi/radionova/radionova_64.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XPPB3H.png",Radio NRJ Finland
+http://cdn.nrjaudio.fm/adwz1/fi/35001/mp3_128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/S2XN85.png",Radio Pooki
+https://stream.bauermedia.fi/radiopooki/radiopooki_64.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0OA7GJ.png",Radio Ramona
+http://185.123.117.122:8000/ramona.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NUHLNI.png",Radio Reaktori
+http://77.86.233.1:8006/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BV3ZDC.png",Radio Sandels
+http://37.187.5.67:8080/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QI15J8.png",Radio Santa Claus
+https://streaming.radiostreamlive.com/radiosantaclaus_devices
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TAR0AX.png",Radio shahyad
+https://www.radioking.com/play/radio-joft6
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9HBAC6.png",Radio Vaasa
+http://stream.radiovaasa.fi:8000/radiovaasa.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HPRQ6B.png",Radio Vaasa
+https://stream.radiovaasa.fi/radiovaasa.ogg
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QPMWQO.png",Radio Vaasa
+https://stream.protonbroadcast.com:8443/radiovaasa.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8ATBD.png",Radio Voima
+https://cast2.radiovoima.fi/voima.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/P4DB5B.png",Rakkauden Wappuradio
+http://77.86.233.1:8006/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FLIA7M.png",Rondo Classic - Klasu
+http://stream.iradio.fi:8000/klasupro-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A72M27.png",Rondo Classic - Klasu Pro
+http://rondo.iradio.fi:8000/klasupro-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0KYVM4.png",Rondo Classic - Viva Classica
+http://rondo.iradio.fi:8000/viva-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SI1V0.png",RQL106FM
+http://149.202.196.92:8238/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/42EC9.png",SaaristoRadio
+https://streaming.radio.co/sc46fb8389/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YBSI7Z.png",SaaristoRadio
+https://streaming.radio.co/sc46fb8389/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1K46GX.png",Steel FM
+https://ice6.securenetsystems.net/STEELFM
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2CFJ72.png",SuomiRock
+https://stream.bauermedia.fi/suomirock/suomirock_128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Y6A7UH.png",SuomiRock
+https://stream.bauermedia.fi/suomirock/suomirock_64.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6P4526.png",TV 7
+https://oe1shoutcast.sf.apa.at/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BU6YB.png",YLE Elävä Arkisto
+http://mediau.yle.fi/eanettiradio?.wma
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HZJW7S.png",Ysäri radio
+https://stream.bauermedia.fi/ysari/ysari_64.aac

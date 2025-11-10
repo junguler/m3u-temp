@@ -29,3 +29,9 @@ http://icecast.err.ee:80/klassikaraadio.mp3
 https://live.radioart.com/fBaroque.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CML0D0.png",Radio Art - Lute
 https://live.radioart.com/fLute.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OXDYRG.png",Radio Svizzera Classica
+http://stream.srg-ssr.ch/m/rsc_it/mp3_128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FLIA7M.png",Rondo Classic - Klasu
+http://stream.iradio.fi:8000/klasupro-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/T2BZN9.png",Venice Classic Radio
+http://174.36.206.197:8000/stream1

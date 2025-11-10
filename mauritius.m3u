@@ -16,3 +16,9 @@ http://listen.shoutcast.com/radio230webradio
 http://listen.shoutcast.com/radio230webradio
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UEFJYE.png",Radio230
 http://listen.shoutcast.com/radio230webradio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8RMJ92.png",Radio Moris
+http://cc.radiomoris.com:443/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IBLBUD.png",RadioPlus
+http://s4.voscast.com:8432/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/H71CN.png",Wazaa FM
+https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3

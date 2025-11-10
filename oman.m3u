@@ -20,3 +20,7 @@ http://uk7.internet-radio.com:8040/stream
 http://212.71.250.12/proxy/radiomerge?mp=/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/COUH55.png",Radio Chaska Oman
 https://stream.zeno.fm/9ewe7smrbrzuv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2XGGXI.png",Virgin Radio Oman
+http://139.162.245.57:8115/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/F6NBLL.png",Virgin Radio Oman
+http://139.162.245.57/proxy/virginradiooman?mp=/stream

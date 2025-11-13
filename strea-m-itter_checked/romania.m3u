@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZWY2K2.png",24 House Radio
-https://strw3.openstream.co/1487?aw_0_1st.collectionid%3D4682%26stationId%3D4682%26publisherId%3D1511%26k%3D1762784005
+https://strw3.openstream.co/1487?aw_0_1st.collectionid%3D4682%26stationId%3D4682%26publisherId%3D1511%26k%3D1763034150
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CQV18E.png",Alien Club Fantasy
 http://radio.club-fantasy-hub.ro:8000/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BGPGX7.png",autobazaradio.ro
@@ -11,8 +11,6 @@ https://live.kissfm.ro/ballads.rock
 https://sonicssl.namehost.ro/8520/stream/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PUK3MG.png",Blues powered by Rock FM
 https://live.kissfm.ro/blues
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5TSHI0.png",C FM Costanta 92.9 FM
-http://stream1.radiocfm.ro:9290/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2L51JC.png",City Rádió
 http://live.city-radio.ro:8800/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WQ6ZY.png",Connect FM
@@ -128,9 +126,8 @@ http://live.playradio.org:9090/CafeHD
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SU731M.png",PlayMusic FM
 http://stream.playmusicfm.info:9000/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KZ590H.png",Play Radio Hit 90'S
-https://strw3.openstream.co/1421?aw_0_1st.collectionid%3D4573%26stationId%3D4573%26publisherId%3D1445%26k%3D1762784030
+https://strw3.openstream.co/1421?aw_0_1st.collectionid%3D4573%26stationId%3D4573%26publisherId%3D1445%26k%3D1763034174
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/W5F312.png",Play Radio Hit
-https://strw3.openstream.co/1421?aw_0_1st.collectionid%3D4573%26stationId%3D4573%26publisherId%3D1445%26k%3D1762784031
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JZU90R.png",Play Urban
 http://live.playradio.org:9090/UrbanHD
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OVHWQD.png",Radio 1 Manele
@@ -197,6 +194,8 @@ http://live.radiohitfm.net:8989/
 https://sonic1-rbx.cloud-center.ro/8008/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IXWBZS.png",Radio Hot Style
 http://mp3.radiohot.ro:8000/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FPZHU9.png",Radio Intens Romania
+http://live.radiointens.ro:8070/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/N2N68H.png",Radio Lautaru Popular
 http://live.radiolautaru.ro:9000/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/N8TNK0.png",Radio Liberty Dance

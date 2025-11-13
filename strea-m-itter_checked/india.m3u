@@ -25,8 +25,6 @@ https://internetradio.gupshupradio.com:8080/?type=mp3
 http://193.0.98.66:8005/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/90YBDD.png",INBAM FM LIVE RADIO
 https://stream.radio.co/sf55ced545/listen
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D16SSW.png",Khayal Ghazals Radio
-https://ghazals.behindthegreatmusic.com/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Q9LIK0.png",Krishna
 https://millenniumhits.out.airtime.pro:8000/millenniumhits_a
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CUWMLA.png",Luminous Radio Hindi
@@ -63,6 +61,8 @@ https://prclive4.listenon.in/Metal
 https://15113.live.streamtheworld.com/SAM08AAC013.aac
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1PHQXQ.png",Radio Delhi Malayalam
 http://94.23.30.114:8043/rdm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WECWYQ.png",Radio Digital Malayali
+https://radio.digitalmalayali.in/listen/stream/radio.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ODC73Z.png",Radio Fiji One
 http://peridot.streamguys.com:7150/RFOne?_=1450941346
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/15J88I.png",Radio Fiji Two
@@ -77,8 +77,6 @@ http://198.7.59.28:8078/play.html?sid=1
 https://radiomalayalamfm.com/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZPODN6.png",Radio Maria (India)
 http://dreamsiteradiocp.com:8002/?1501836564814
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/L0UHXE.png",Radio Prabhat
-https://studio.radioprabhat.com:8020/radio.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/E7QARK.png",Radio Sai - Afri Stream
 http://stream.radiosai.net:8004/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/64XJ5O.png",Radiosai - Ameri
@@ -94,9 +92,13 @@ http://stream.radiosai.org:8020
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KVEENN.png",Radio Sangwari
 https://servidor19.brlogic.com:7002/live
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OWM4LG.png",Shaivam.org Shaiva Lahari
-https://18093.live.streamtheworld.com/SP_R2925215_SC?dist=streamitter
+https://17653.live.streamtheworld.com/SP_R2925215_SC?dist=streamitter
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2J5Y4Q.png",Shaivam.org Thiruneriya Thamizhosai
-https://19003.live.streamtheworld.com/SP_R2923580_SC
+https://18213.live.streamtheworld.com/SP_R2923580_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Shalom Beats Radio Kannada
+http://rd.shalombeatsradio.com:8090/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Shalom Beats Radio Malayalam
+http://rd.shalombeatsradio.com:8006/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PN4IGK.png",Sumadhur Radio Pune
 https://radio.behindthegreatmusic.com/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RMMOP6.png",Swaminarayan Dhun

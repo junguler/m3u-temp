@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/W5I67P.png",1A-Hits für Kids
-https://vmg.streamabc.net/117-hitsfuerkids-mp3-128-7606026?aggregator=&aw_0_1st.playerid=&listenerid=f3d23814a7f336e189a8baf5c80f07c8
+https://vmg.streamabc.net/117-hitsfuerkids-mp3-128-7606026?aggregator=&aw_0_1st.playerid=&listenerid=9af8bc02d64a5e8702a617d374469052
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PQ7C8E.png",ABC KIDS listen
 http://abc.streamguys1.com/live/abcextra/icecast.audio
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Z9R3D.png",Allzic Comptines
@@ -18,19 +18,11 @@ https://allzic26.ice.infomaniak.ch/allzic26.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DQVR8E.png",Antenne Bayern Hits für Kids
 https://s1-webradio.antenne.de/hits-fuer-kids
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FNXVOY.png",Antenne Bayern - Hits für Kids
-https://s7-webradio.webradio.de/hits-fuer-kids?aw_0_1st.playerid=AntenneBayernWebPlayer&aw_0_1st.listenerid=undefined&aw_0_1st.skey=1591007472&aw_0_req.gdpr=true&aw_0_1st.spotcom=%5B%5D&token=ed757448
+https://s3-webradio.webradio.de/hits-fuer-kids?aw_0_1st.playerid=AntenneBayernWebPlayer&aw_0_1st.listenerid=undefined&aw_0_1st.skey=1591007472&aw_0_req.gdpr=true&aw_0_1st.spotcom=%5B%5D&token=ed757448
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D118WP.png",Babymixradio
 https://streaming.hotmixradio.com/hotmix-baby-fr-mp3?token=9dc7600af52b1a1f429491bcdc66e503%2Feb2a0654&from=radioline
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RBR1Z5.png",CBBC
-https://listen-funkids.sharp-stream.com/funkids.mp3
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/R6D3I5.png",Conejito Ratoncito Show
-https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S94966552/WlznU7GmJkjL/icecast
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LL18UW.png",Efteling Kids Radio
-https://a1.cdn.jetstre.am/sz/VDO-X-404.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SWIPL0.png",Efteling Kids Radio
-https://22663.live.streamtheworld.com/TLPSTR07.mp3
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EU1H4.png",Efteling Radio
-https://ice.cr1.streamzilla.xlcdn.com:8000/sz=efteling=hdstream
+https://29033.live.streamtheworld.com/TLPSTR07.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/G58JZ2.png",For Kids Bathtime Fun
 https://2.mystreaming.net/uber/forkidzbathtimefun/icecast.audio
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GUK4G.png",For Kids Bedtime Stories
@@ -71,8 +63,6 @@ https://stream.rcs.revma.com/0gpwvpz3tm0uv
 https://stream.rcs.revma.com/6m5ucmz3tm0uv
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KIDS01.png",Fun Kids Soundtracks
 https://stream.rcs.revma.com/x8wbda03tm0uv
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/89NQ1.png",Funky Kids Radio
-https://ice6.securenetsystems.net/FKRADIO
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/S2ARVT.png",KidsDotRadio
 https://s5.radio.co/s4970b26b9/low
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/W0S5U.png",Kinderlieder
@@ -90,24 +80,24 @@ https://stream.rcvfm.fr:8000/barbouillots-192k.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PU3DW.png",Radio Brocken - Kinderzeit
 https://fhhalle.streamabc.net/fhhal-brockenkinderzeit-mp3-128-8565893
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GYF27J.png",Radio Disney 97.5
-https://16603.live.streamtheworld.com/XHOKFMAAC.aac
+https://25003.live.streamtheworld.com/XHOKFMAAC.aac
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BJD6AQ.png",RADIONL Kids
 https://stream.radionlkids.nl/rnlkids
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9BKR9T.png",Radio Ouistiti.ch
 http://ouistiti.stream2net.eu:8090/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1UVJ8E.png",Radio Regenbogen Kinderlieder
-https://audiotainment-sw.streamabc.net/atsw-kinderlieder-mp3-128-6463801?sABC=6911qrq5%230%232rs364p24o90p18q9oq6p63ps7923s64%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1762778837
+https://audiotainment-sw.streamabc.net/atsw-kinderlieder-mp3-128-6463801?sABC=6915o99s%230%2315q3p46496r4sp6254p40s5546p3290p%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1763031455
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2RQE6T.png",Radio TEDDY - Kinderdisco
 https://irmedia.streamabc.net/irm-rtkinderdisco-mp3-128-9308364
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PUADAR.png",Radio TEDDY - TEDDY Cool Bibi & Tina
 https://irmedia.streamabc.net/irm-rtteddycool-mp3-128-5525267?sABC=60225o2q%231%23cynl.zc3%23enqvbcynlre_jro&=&amsparams=playerid:radioplayer_webskey:1612864301
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5EGB1J.png",RPR1.Hits für Kids
-https://audiotainment-sw.streamabc.net/atsw-kidshits-mp3-128-8032487?sABC=6911qrq8%230%232rs364p24o90p18q9oq6p63ps7923s64%23gjy27&aw_0_1st.playerid=twl27&amsparams=playerid:twl27;skey:1762778840
+https://audiotainment-sw.streamabc.net/atsw-kidshits-mp3-128-8032487?sABC=6915o9n1%230%2315q3p46496r4sp6254p40s5546p3290p%23gjy27&aw_0_1st.playerid=twl27&amsparams=playerid:twl27;skey:1763031457
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0H11WP.png",RPR1. Hits für Kids
-https://audiotainment-sw.streamabc.net/atsw-kidshits-mp3-128-8032487?sABC=6911qrq7%230%232rs364p24o90p18q9oq6p63ps7923s64%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1762778839
+https://audiotainment-sw.streamabc.net/atsw-kidshits-mp3-128-8032487?sABC=6915o9n0%230%2315q3p46496r4sp6254p40s5546p3290p%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1763031456
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/21F5F7.png",RTÉjr
 http://25643.live.streamtheworld.com/RTE_JR_RADIO.mp3?tdsdk=rte
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5I4B44.png",Teen Beatz Radio
-https://audiotainment-sw.streamabc.net/atsw-rrteenbeatzradio-mp3-128-5569730?sABC=6911qrq8%230%232rs364p24o90p18q9oq6p63ps7923s64%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1762778840
+https://audiotainment-sw.streamabc.net/atsw-rrteenbeatzradio-mp3-128-5569730?sABC=6915o9n1%230%2315q3p46496r4sp6254p40s5546p3290p%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1763031457
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JKU5VK.png",راديو جنجر للاطفال
 https://arabkidsradio.art/radio/8000/radio.mp3

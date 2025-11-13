@@ -7,8 +7,6 @@ http://s14.myradiostream.com:19092/
 http://s2.stationplaylist.com:7032/listen.aac
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ISU7LE.png",2WAY FM
 http://s34.myradiostream.com:12612/
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/G1JSY5.png",479xx.com
-https://ice1.securenetsystems.net/DEMOSTN
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WRZB6P.png",4CRM
 http://abc.streamguys1.com/live/localbrisbane/icecast.audio
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RAQERG.png",95.9 Hailsham FM
@@ -24,7 +22,7 @@ http://abc.streamguys1.com/live/localsunshine/icecast.audio
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IA73YS.png",Artegalia Radio
 https://sonic.mediatelekom.net:10949/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LK5VTR.png",Atlantic Bay
-https://das-edge17-live365-dal02.cdnstream.com/a90696
+https://das-edge13-live365-dal02.cdnstream.com/a90696
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GMVGF3.png",Barnet Community Radio
 https://securestreams.autopo.st:1211/mainstream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/51NR0.png",Burgess Hill Community Radio
@@ -44,7 +42,7 @@ https://s2.radio.co:80/s3508e02d2/listen
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7SRTS3.png",Grenada Entertainment
 https://streaming.radio.co/s547960b78/listen
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7ALCW2.png",Heckington Living Community Radio
-https://das-edge14-live365-dal02.cdnstream.com/a52107
+https://das-edge11-live365-dal03.cdnstream.com/a52107
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VPXL7K.png",Humboldt Hot Air
 https://hha.streamguys1.com/live
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0BWF4R.png",KWRH 92.9 FM

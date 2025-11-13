@@ -64,7 +64,7 @@ http://us3.streamingpulse.com:8082/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MWXZXM.png",Betuwe Radio
 http://pipel.kloud.xyz:8010/radio.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PK9ZAB.png",Black Country Radio
-https://edge-audio-07-gos2.sharp-stream.com/blackcountryradio.mp3?
+https://edge-audio-03-gos2.sharp-stream.com/blackcountryradio.mp3?
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TEYJ89.png",BUGEY RADIO
 https://ecmanager.pro-fhi.net/bugeyradio
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UFQG4U.png",CandoFM
@@ -72,7 +72,7 @@ http://streaming04.liveboxstream.uk:8128/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6ZCZM4.png",CFCB
 https://newcap.leanstream.co/CFCBAM-MP3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/06NAX7.png",Colorado State University TV
-https://22973.live.streamtheworld.com/KANWFM_SC
+https://27163.live.streamtheworld.com/KANWFM_SC
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DP7CB.png",Community FM
 http://abc.streamguys1.com/live/localbrisbane/icecast.audio
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Q0YG16.png",Contacto FM
@@ -88,7 +88,7 @@ http://streaming4eartunes.dyndns.info:8500/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MPL83A.png",EBS Local
 https://azura.ebsmedia.ro/radio/8060/local320.aac
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/F51S3.png",FIVEaa AM
-https://23203.live.streamtheworld.com/FIVEAA_AAC48.aac
+https://28803.live.streamtheworld.com/FIVEAA_AAC48.aac
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2LBZ2Z.png",Gloss FM
 http://s42.myradiostream.com:29400/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LYFFW.png",Govorit Moskva
@@ -100,7 +100,7 @@ http://live-icy.gss.dr.dk:8000/A/A08H.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Kaguraadio
 http://live-icy.gslb01.dr.dk:80/A/A14H.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Katutura Community Radio
-https://27243.live.streamtheworld.com/KDALAM_SC
+https://18853.live.streamtheworld.com/KDALAM_SC
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MJ1GXO.png",KFOK-LP
 https://kfok.streamguys1.com/live-mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KAM4SO.png",KGUA
@@ -108,9 +108,9 @@ http://peridot.streamguys.com:7220/live
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FZFQDO.png",Komsomolskaya Pravda-Petersburg
 http://kpradio.hostingradio.ru:8000/spb.radiokp64.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6HXAL.png",KPCW
-https://25023.live.streamtheworld.com/KPCWFM.mp3
+https://27283.live.streamtheworld.com/KPCWFM.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/M0EBU3.png",KRVS Radio Acadie 88.7
-https://27033.live.streamtheworld.com/KRVSFM_SC
+https://18303.live.streamtheworld.com/KRVSFM_SC
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AX0ZC8.png",Kubuli (Dominican) Radio
 http://kubuliradio.com:8050/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5B9U6X.png",Mass Music Radio
@@ -121,6 +121,8 @@ https://stream.radio.co/s5b0496933/listen
 http://streaming.qbn967.com.au:8000/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8CK5DN.png",Radio Adam
 https://bfm.hostingradio.ru:9075/fm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6LRT9E.png",Rádio Bofete FM
+https://edge2.sr.se/p4gotl-mp3-96
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/U7T8R.png",Radio Boreale
 http://stream.statsradio.com:8022/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZX6UU5.png",Radio Carcoma
@@ -147,6 +149,8 @@ http://82.114.72.2:8088/
 http://cast4.audiostream.com.br:8655/mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HRGL0T.png",Radio Mansfield
 https://c7.radioboss.fm:18291/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UYNUG.png",Radio Mariestad
+https://edge1.sr.se/p4dala-mp3-96
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HOA3CJ.png",Radio Mariy-El
 https://mmg.streamguys1.com/AdomFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/R15E3Q.png",Radio Marmalade
@@ -200,7 +204,7 @@ http://stream2.statsradio.com:8038/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/S0YIJT.png",UNSER RADIO
 http://rs4.stream24.net/unser-radio.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Z54BI.png",Vaxjo Community Radio
-https://edge1.sr.se/p4sth-mp3-96
+https://edge2.sr.se/p4sth-mp3-96
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CPX5ZZ.png",VOCM
 https://newcap.leanstream.co/VOCMAM-MP3?args=tunein_01
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TQ021K.png",Voice of Kosrae

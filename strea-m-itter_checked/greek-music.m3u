@@ -15,8 +15,6 @@ http://cast4.magicstreams.gr:10131/stream.mp3
 https://cast.artfmradio.com/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TMR0T.png",Athena 9.84 FM
 http://athina984.live24.gr/athina984
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KXH3.png",Best Greek
-http://bestgreek.info:8292/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DER540.png",Chicago Greek Radio
 https://s4.radio.co/sf2152b45d/listen
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A89X2B.png",City 93 (Kos)
@@ -75,6 +73,8 @@ http://s5.onweb.gr:8498/
 http://s4.onweb.gr:8468/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VSIVKR.png",Radio Lydia
 http://eu1.radiolydia.com:1086/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LVPBAX.png",Radio Navagio
+https://radio-navagio.com/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2IW4QO.png",Radio Play Fm 91,5 Xanthi
 http://s6.onweb.gr:8058/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TGZMPL.png",Radio Polis 99,4

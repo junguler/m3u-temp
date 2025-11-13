@@ -7,6 +7,10 @@ http://01.solumedia.com.ar:8612/
 http://streaming01.shockmedia.com.ar:9178/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HJKFCC.png",98.1 FM Show
 http://69.175.88.11:8164/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8EOQW.png",99.3 FM Impacto, Córdoba
+http://sonic.cloudstreaming.eu:9992/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/681U8S.png",Actualidad 93.7 Mhz
+https://server4.hostradios.com:7200/.aac/stream.nsv
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UJP7N9.png",A La Bartola - Radio Reggae
 https://server.radiostreaming.com.ar/8066/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZXUN16.png",Alfa FM
@@ -16,7 +20,7 @@ http://streaming2.locucionar.com:8344/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9DPQID.png",AM 990
 https://cdn.instream.audio/:9145/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8K858A.png",Aspen Classic
-https://24383.live.streamtheworld.com/ASPENAAC.aac
+https://26483.live.streamtheworld.com/ASPENAAC.aac
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZSXX6H.png",Britannia
 http://01.solumedia.com.ar:8472/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3PJMTX.png",CBN NEUQUÉN
@@ -33,8 +37,6 @@ http://01.solumedia.com.ar:7193/
 https://unlimited5-us.dps.live/agricultura/mp3/icecast.audio
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QAP0R7.png",Europa 97.5 FM
 https://streaming.escuchanosonline.com:7047/
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PI93FW.png",Fenix
-https://server4.hostradios.com:7028/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MRB9P.png",FM 100.5
 http://server1.veemesoft.com.ar:6366/stream?token=b3ceebed755af9235718e68301652480%2F3be47a1b
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FU9BRM.png",FM 87.9 Radio Comunal Sa Pereira
@@ -82,7 +84,7 @@ http://fmplus.radio.rosario3.com:8006/fmplus
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XBWLC.png",GDS Mar del Plata
 https://usa10.fastcast4u.com/gdsradio
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D5H4B.png",Genesis FM
-https://27833.live.streamtheworld.com/LOS40_CLASSIC_SC
+https://23603.live.streamtheworld.com/LOS40_CLASSIC_SC
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1KN8A5.png",Japannext Radio
 http://perseus.shoutca.st:8803/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AQMLFK.png",junin.net
@@ -92,7 +94,7 @@ https://tus.radios.ar/9270/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UKM5E.png",LA 97
 https://streaming01.shockmedia.com.ar:10586/stream?1594389251756
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Q8GBPB.png",La Boca
-https://s24.myradiostream.com/:14984/listen.mp3?nocache=1762778166
+https://s24.myradiostream.com/:14984/listen.mp3?nocache=1763030957
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2RRAHT.png",LaRadioDeLosLentos.com
 http://01.solumedia.com.ar:7828/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HJDNEW.png",La Retro Online
@@ -154,11 +156,11 @@ https://streamer.radio.co/s70f9a6a5f/listen
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JEQVCH.png",Radio Norte
 https://icecast.hostingbahia.com.ar:8002/live
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/M5RZTF.png",Radio Popular 92.3
-https://26683.live.streamtheworld.com/LAPOPU.mp3
+https://26503.live.streamtheworld.com/LAPOPU.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3VBE0X.png",Radio República
 https://streamlky.alsolnet.com:443/republica99
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ML2WI0.png",Radio Rivadavia AM 630
-https://27693.live.streamtheworld.com/RIVADAVIAAAC.aac
+https://24373.live.streamtheworld.com/RIVADAVIAAAC.aac
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7G5QN.png",Radio Shopping 96.1
 https://stream4.suenas.net/shoppingclassics
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3QLRI.png",Radio Universidad Nacional FM
@@ -172,7 +174,7 @@ https://ssl.xcast.com.br:8446/index.html?sid=1
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6FYBCQ.png",Rosario3
 http://fmplus.radio.rosario3.com:8000/fmplus
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QCVVH9.png",Tendencia FM
-https://26583.live.streamtheworld.com/IMAGINA?dist=streamitter
+https://24403.live.streamtheworld.com/IMAGINA?dist=streamitter
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1IODE.png",The Musical Box Radio
 https://tmbradio.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1X7NMK.png",The Musical Box Radio

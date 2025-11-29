@@ -11,7 +11,7 @@ jobs:
       - name: run commands
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet
-          for i in {7..26} ; do for j in $(cat countries.txt) ; do curl -s "https://radiospinner.com/$(echo $j | awk -F '___' '{print $1}')/?sort=rating&page=$i&ajax=1" | ./htmlq -a href .country-stations a | awk '!seen[$0]++' >> A-$(echo $j | awk -F '___' '{print $2}').txt ; echo -e "$j - $i" ; done ; done
+          for i in {1..2} ; do for j in $(cat countries.txt) ; do curl -s "https://radiospinner.com/$(echo $j | awk -F '___' '{print $1}')/?sort=rating&page=$i&ajax=1" | ./htmlq -a href .country-stations a | awk '!seen[$0]++' >> A-$j.txt ; echo -e "$j - $i" ; done ; done
 
       - name: git stuff
         run: |

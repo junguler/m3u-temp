@@ -1,39 +1,0 @@
-Script started on 2025-11-29 19:34:14+03:30 [COMMAND="git pull" TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="142" LINES="13"]
-remote: Enumerating objects: 55, done.[K
-remote: Counting objects:   1% (1/55)[Kremote: Counting objects:   3% (2/55)[Kremote: Counting objects:   5% (3/55)[Kremote: Counting objects:   7% (4/55)[Kremote: Counting objects:   9% (5/55)[Kremote: Counting objects:  10% (6/55)[Kremote: Counting objects:  12% (7/55)[Kremote: Counting objects:  14% (8/55)[Kremote: Counting objects:  16% (9/55)[Kremote: Counting objects:  18% (10/55)[Kremote: Counting objects:  20% (11/55)[Kremote: Counting objects:  21% (12/55)[Kremote: Counting objects:  23% (13/55)[Kremote: Counting objects:  25% (14/55)[Kremote: Counting objects:  27% (15/55)[Kremote: Counting objects:  29% (16/55)[Kremote: Counting objects:  30% (17/55)[Kremote: Counting objects:  32% (18/55)[Kremote: Counting objects:  34% (19/55)[Kremote: Counting objects:  36% (20/55)[Kremote: Counting objects:  38% (21/55)[Kremote: Counting objects:  40% (22/55)[Kremote: Counting objects:  41% (23/55)[Kremote: Counting objects:  43% (24/55)[Kremote: Counting objects:  45% (25/55)[Kremote: Counting objects:  47% (26/55)[Kremote: Counting objects:  49% (27/55)[Kremote: Counting objects:  50% (28/55)[Kremote: Counting objects:  52% (29/55)[Kremote: Counting objects:  54% (30/55)[Kremote: Counting objects:  56% (31/55)[Kremote: Counting objects:  58% (32/55)[Kremote: Counting objects:  60% (33/55)[Kremote: Counting objects:  61% (34/55)[Kremote: Counting objects:  63% (35/55)[Kremote: Counting objects:  65% (36/55)[Kremote: Counting objects:  67% (37/55)[Kremote: Counting objects:  69% (38/55)[Kremote: Counting objects:  70% (39/55)[Kremote: Counting objects:  72% (40/55)[Kremote: Counting objects:  74% (41/55)[Kremote: Counting objects:  76% (42/55)[Kremote: Counting objects:  78% (43/55)[Kremote: Counting objects:  80% (44/55)[Kremote: Counting objects:  81% (45/55)[Kremote: Counting objects:  83% (46/55)[Kremote: Counting objects:  85% (47/55)[Kremote: Counting objects:  87% (48/55)[Kremote: Counting objects:  89% (49/55)[Kremote: Counting objects:  90% (50/55)[Kremote: Counting objects:  92% (51/55)[Kremote: Counting objects:  94% (52/55)[Kremote: Counting objects:  96% (53/55)[Kremote: Counting objects:  98% (54/55)[Kremote: Counting objects: 100% (55/55)[Kremote: Counting objects: 100% (55/55), done.[K
-remote: Compressing objects: 100% (1/1)[Kremote: Compressing objects: 100% (1/1), done.[K
-Unpacking objects:   3% (1/28)Unpacking objects:   7% (2/28)Unpacking objects:  10% (3/28)Unpacking objects:  14% (4/28)Unpacking objects:  17% (5/28)Unpacking objects:  21% (6/28)Unpacking objects:  25% (7/28)Unpacking objects:  28% (8/28)Unpacking objects:  32% (9/28)Unpacking objects:  35% (10/28)Unpacking objects:  39% (11/28)Unpacking objects:  42% (12/28)Unpacking objects:  46% (13/28)Unpacking objects:  50% (14/28)Unpacking objects:  53% (15/28)Unpacking objects:  57% (16/28)Unpacking objects:  60% (17/28)Unpacking objects:  64% (18/28)Unpacking objects:  67% (19/28), 241.37 KiB | 479.00 KiB/sUnpacking objects:  71% (20/28), 241.37 KiB | 479.00 KiB/sUnpacking objects:  75% (21/28), 241.37 KiB | 479.00 KiB/sUnpacking objects:  78% (22/28), 241.37 KiB | 479.00 KiB/sUnpacking objects:  82% (23/28), 241.37 KiB | 479.00 KiB/sUnpacking objects:  85% (24/28), 241.37 KiB | 479.00 KiB/sUnpacking objects:  89% (25/28), 241.37 KiB | 479.00 KiB/sremote: Total 28 (delta 27), reused 28 (delta 27), pack-reused 0 (from 0)[K
-Unpacking objects:  92% (26/28), 241.37 KiB | 479.00 KiB/sUnpacking objects:  96% (27/28), 241.37 KiB | 479.00 KiB/sUnpacking objects: 100% (28/28), 241.37 KiB | 479.00 KiB/sUnpacking objects: 100% (28/28), 473.47 KiB | 605.00 KiB/s, done.
-From https://github.com/junguler/m3u-temp
-   6d5e994bc..d6eb1fe1a  main       -> origin/main
-Updating 6d5e994bc..d6eb1fe1a
-Fast-forward
- A-80s.txt                 | 1698 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-children.txt            | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-dance-pop.txt           | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-dance.txt               | 1938 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-dubstep.txt             | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-easy-listening.txt      | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-education.txt           | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-electronic-music.txt    | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-folk-music.txt          | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-gospel.txt              | 1896 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-greek.txt               | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-hits.txt                | 2784 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-international-music.txt | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-k-pop.txt               | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-news-talk.txt           | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-news.txt                | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-nu-disco.txt            | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-other.txt               | 2559 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-polka.txt               | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-pop-music.txt           | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-pop.txt                 | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-religious.txt           | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-retro-music.txt         | 2480 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-rock-music.txt          | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-talk.txt                | 3000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-top40.txt               | 2862 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- 26 files changed, 73217 insertions(+)
-
-Script done on 2025-11-29 19:34:18+03:30 [COMMAND_EXIT_CODE="0"]

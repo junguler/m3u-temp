@@ -1,18 +1,0 @@
-Script started on 2025-11-30 02:39:08+03:30 [COMMAND="git pull" TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="142" LINES="13"]
-remote: Enumerating objects: 13, done.[K
-remote: Counting objects:   7% (1/13)[Kremote: Counting objects:  15% (2/13)[Kremote: Counting objects:  23% (3/13)[Kremote: Counting objects:  30% (4/13)[Kremote: Counting objects:  38% (5/13)[Kremote: Counting objects:  46% (6/13)[Kremote: Counting objects:  53% (7/13)[Kremote: Counting objects:  61% (8/13)[Kremote: Counting objects:  69% (9/13)[Kremote: Counting objects:  76% (10/13)[Kremote: Counting objects:  84% (11/13)[Kremote: Counting objects:  92% (12/13)[Kremote: Counting objects: 100% (13/13)[Kremote: Counting objects: 100% (13/13), done.[K
-remote: Compressing objects: 100% (1/1)[Kremote: Compressing objects: 100% (1/1), done.[K
-remote: Total 7 (delta 6), reused 7 (delta 6), pack-reused 0 (from 0)[K
-Unpacking objects:  14% (1/7)Unpacking objects:  28% (2/7)Unpacking objects:  42% (3/7)Unpacking objects:  57% (4/7)Unpacking objects:  71% (5/7)Unpacking objects:  85% (6/7)Unpacking objects: 100% (7/7)Unpacking objects: 100% (7/7), 698 bytes | 11.00 KiB/s, done.
-From https://github.com/junguler/m3u-temp
-   3bff9b98d..daade7549  main       -> origin/main
-Updating 3bff9b98d..daade7549
-Fast-forward
- A-bf___Burkina_Faso.txt | 9000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-il___Israel.txt       | 9000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-in___India.txt        | 9000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-mw___Malawi.txt       | 9000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- A-ru___Russia.txt       | 9000 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
- 5 files changed, 45000 insertions(+)
-
-Script done on 2025-11-30 02:39:11+03:30 [COMMAND_EXIT_CODE="0"]

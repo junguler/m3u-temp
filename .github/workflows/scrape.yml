@@ -10,10 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          #node ./m3u-checker.js test_input/ test_output/ --quiet
-          #for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://radiospinner.com$j > mep1 ; paste -d ',' <(cat mep1 | grep 'data-logo-url' | cut -d '"' -f 2 | sed 's/\?.*$//' | awk '{ print "\"" $0 "\"" }') <(cat mep1 | grep 'data-station-name' | cut -d '"' -f 2) | awk 'NR==1 {$0="#EXTINF:-1 tvg-logo=" $0} 1' >> A$i ; cat mep1 | grep 'data-stream-url1' | cut -d '"' -f 2 | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
-          for i in A-*.txt ; do for j in $(cat $i) ; do curl -s -A "Googlebot/2.1 (+http://www.google.com/bot.html)" https://radiospinner.com$j > mep1 ; paste -d ',' <(cat mep1 | grep 'data-logo-url' | cut -d '"' -f 2 | sed 's/\?.*$//' | awk '{ print "\"" $0 "\"" }') <(cat mep1 | grep 'data-station-name' | cut -d '"' -f 2) | awk 'NR==1 {$0="#EXTINF:-1 tvg-logo=" $0} 1' >> A$i ; cat mep1 | grep 'data-stream-url1' | cut -d '"' -f 2 | sed 's/\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
-          rm mep1
+          node ./m3u-checker.js test_input/ test_output/ --quiet
 
       - name: git stuff
         run: |

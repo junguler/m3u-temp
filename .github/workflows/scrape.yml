@@ -10,7 +10,8 @@ jobs:
 
       - name: run commands
         run: |
-          node ./m3u-checker.js test_input/ test_output/ --quiet
+          #node ./m3u-checker.js test_input/ test_output/ --quiet
+          for i in {1..9} ; do curl -s 'https://librivox.org/search?primary_key=0&search_category=title&search_page="$i"&search_form=get_results&search_order=catalog_date' -H 'Accept: */*' -H 'Accept-Language: en-US,en;q=0.9' -H 'Cache-Control: no-cache' -H 'Connection: keep-alive' -H 'Pragma: no-cache' -H 'Referer: https://librivox.org/search?title=&author=&reader=&keywords=&genre_id=0&status=complete&project_type=either&recorded_language=&sort_order=alpha&search_page=1&search_form=advanced' -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Site: same-origin' -H 'Sec-GPC: 1' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36' -H 'X-Requested-With: XMLHttpRequest' -H 'sec-ch-ua: "Brave";v="143", "Chromium";v="143", "Not A(Brand";v="24"' -H 'sec-ch-ua-mobile: ?0' -H 'sec-ch-ua-platform: "Windows"' | htmlq -a href a | sort | uniq | grep -v "author\|group\|compress" | sed 's|"||g' | sed 's/\\//g' | awk -F '/' '{print $4}' >> list.txt ; echo $i ; done
 
       - name: git stuff
         run: |

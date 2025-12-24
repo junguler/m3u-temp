@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6 ie"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7 ie"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8 ie"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9 ie"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+      </script>
+    <![endif]-->
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type">
+
+  <title>Browse Catalog | LibriVox</title>
+  <meta name="description" content="LibriVox" />
+  <meta name="author" content="LibriVox" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="https://librivox.org/favicon.ico">
+  <link rel="stylesheet" href="https://librivox.org/css/style.css?v=1">
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+  <script type="text/javascript" src="https://librivox.org/js/catalog/small-menu.js"></script> 
+ 
+
+  <script type="text/javascript">
+  	var CI_ROOT = "https://librivox.org/"
+  </script>
+
+</head>
+
+<body>
+
+	<section class="header-wrap">
+		<header class="site-header">
+		
+			<!-- Site title/Logo and tagline -->
+			<hgroup class="logo-wrap">
+				<h1 class="logo"><a href="https://librivox.org/"><img src="https://librivox.org/images/librivox-logo.png" alt="librivox-logo" width="180" height="37"><span class="assistive-text">LibriVox</span></a></h1>
+				<h3 class="tagline">Acoustical liberation of books in the public domain</h3>
+			</hgroup>
+			
+			<!-- Sub menu -->
+			<nav class="sub-menu">
+			<h1 class="assistive-text icon-fontawesome-webfont"><span>Menu</span></h1>
+			<div class="assistive-text skip-link"><a href="#" title="Skip to content">Skip to content</a></div> 
+				<ul class="sub-menu-list">
+					<li class="first"><a href="https://librivox.org/pages/about-librivox/">About</a></li>
+					<li><a href="https://librivox.org/pages/contact-librivox/">Contact</a></li>
+					<li><a href="https://forum.librivox.org/">Forum</a></li>
+					<li><a href="https://librivox.org/pages/help/">Help</a></li>
+					<li class="twitter ir"><a href="http://twitter.com/librivox">Twitter</a></li>
+					<!-- <li class="facebook ir"><a href="http://www.facebook.com/LibriVox">Facebook</a></li> -->
+					<li class="rss "><a href="https://librivox.org/pages/librivox-feeds/">rss</a></li> 
+				</ul>																
+			</nav><!-- end sub-menu -->   
+			
+			<!-- Search Form -->	
+			<div class="search-wrap">
+				<form role="search" action="#" id="searchform" method="get" class="searchform">
+					<label class="assistive-text" for="q">Search LibriVox</label>
+					<input type="text" placeholder="Search by Author, Title or Reader" id="q" name="q" class="field">
+					<input type="text" id="dummy" name="dummy" style="display:none;">
+					<input type="submit" value="Search" id="searchsubmit" name="submit" class="submit">
+				</form>
+
+				<a href="#" class="advanced-search js-advanced-search"> Advanced search</a>	
+			</div> <!-- end search-wrap -->		    
+		</header>
+		
+
+
+	<!-- Main menu -->	
+	<div class="main-menu-wrap">
+		<section class="main-menu">
+			<h3>Browse the catalog</h3>
+			<nav class="main-menu-list-wrap"> 
+				<ul class="main-menu-list">
+					<li data-menu_item="author" class="js-menu_item first"><a href="#"><span class="author-icon"></span>Author</a></li>
+					<li data-menu_item="title" class="js-menu_item last"><a href="#"><span class="title-icon"></span>Title</a></li>
+					<li data-menu_item="genre" class="js-menu_item "><a href="#" ><span class="genre-icon"></span>Genre/Subject</a></li>
+					<li data-menu_item="language" class="js-menu_item "><a href="#"><span class="language-icon"></span>Language</a></li>
+					<!-- <li data-menu_item="reader" class="js-menu_item "><a href="#"><span class="reader-icon"></span>Reader</a></li> -->
+					
+				</ul>
+			</nav>
+			
+													
+		</section> <!-- end main-menu --> 
+		
+
+	</div> <!-- end .main-menu-wrap -->	  
+
+	</section><!-- end .header-wrap -->	
+
+
+	<input type="hidden" id="primary_key" value="0">
+
+<div class="main-content advanced-search-form">
+	
+	
+		
+	<link type="text/css" rel="stylesheet" href="https://librivox.org/css/ui-lightness/jquery-ui-1.8.24.custom.css?v=1670239344" />
+
+	<div class="advanced-search-inner" style="display:block;">
+		
+		<h2>Advanced Search</h2>
+
+		<h5>Fill in as many fields &amp; options as you like.</h5>
+
+		<div class="clearfix" style="height:20px;"></div>
+		
+		<form id="advanced_search_form" method="post" >
+
+
+			<div class="control-group">
+			     <div class="controls center">
+			     	<label for="title" ><span class="span2">Title:</span>
+					<input type="text" class="span4" id="title" name="title" value=""/>
+					</label>
+			     </div>
+			</div>   
+
+			<div class="control-group">
+			     <div class="controls center">
+			     	<label for="author" ><span class="span2">Author:</span>
+					<input type="text" class="span4" id="author" name="author" value=""/>
+					</label>
+			     </div>
+			</div>   
+
+			<div class="control-group">
+			     <div class="controls center">
+			     	<label for="reader" ><span class="span2">Reader:</span>
+					<input type="text" class="span4" id="reader" name="reader" value=""/>
+					</label>
+			     </div>
+
+			     <div class="controls center">
+			     	<label for="exact_match" ><span class="span2">Exact match:</span>
+					<input type="checkbox" class="span4" id="exact_match" name="exact_match" />
+					</label>
+			     </div>
+
+			</div> 
+
+
+			<div class="control-group">
+			     <div class="controls center">
+			     	<label for="keywords" ><span class="span2">Keywords:</span>
+				<input type="text" name="keywords" value="" id="keywords" class="autocomplete" data-search_func="autocomplete_keywords" data-search_field="keywords" data-search_area="keywords" data-array_index="0"   />
+					</label>
+			     </div>
+			</div> 
+
+
+			<div class="control-group">
+			     <div class="controls center">
+			     	<label for="genre_id" ><span class="span2">Category/Genre:</span>
+					<select name="genre_id" id="genre_id">
+<option value="0" selected="selected"></option>
+<option value="1">Children's Fiction</option>
+<option value="37">Children's Fiction > Action & Adventure</option>
+<option value="38">Children's Fiction > Animals & Nature</option>
+<option value="39">Children's Fiction > Myths, Legends & Fairy Tales</option>
+<option value="40">Children's Fiction > Family</option>
+<option value="41">Children's Fiction > General</option>
+<option value="42">Children's Fiction > Historical</option>
+<option value="43">Children's Fiction > Poetry</option>
+<option value="44">Children's Fiction > Religion</option>
+<option value="45">Children's Fiction > School</option>
+<option value="46">Children's Fiction > Short works</option>
+<option value="2">Children's Non-fiction</option>
+<option value="47">Children's Non-fiction > Arts</option>
+<option value="48">Children's Non-fiction > General</option>
+<option value="49">Children's Non-fiction > Reference</option>
+<option value="50">Children's Non-fiction > Religion</option>
+<option value="51">Children's Non-fiction > Science</option>
+<option value="144">Children's Non-fiction > History</option>
+<option value="145">Children's Non-fiction > Biography</option>
+<option value="3">Action & Adventure Fiction</option>
+<option value="4">Classics (Greek & Latin Antiquity)</option>
+<option value="5">Crime & Mystery Fiction</option>
+<option value="22">Crime & Mystery Fiction > Detective Fiction</option>
+<option value="6">Culture & Heritage Fiction</option>
+<option value="7">Dramatic Readings</option>
+<option value="8">Epistolary Fiction</option>
+<option value="9">Erotica</option>
+<option value="10">Travel Fiction</option>
+<option value="12">Family Life</option>
+<option value="13">Fantastic Fiction</option>
+<option value="11">Fantastic Fiction > Myths, Legends & Fairy Tales</option>
+<option value="16">Fantastic Fiction > Horror & Supernatural Fiction</option>
+<option value="17">Fantastic Fiction > Gothic Fiction</option>
+<option value="30">Fantastic Fiction > Science Fiction</option>
+<option value="55">Fantastic Fiction > Fantasy Fiction</option>
+<option value="14">Fictional Biographies & Memoirs</option>
+<option value="15">General Fiction</option>
+<option value="52">General Fiction > Published before 1800</option>
+<option value="53">General Fiction > Published 1800 -1900</option>
+<option value="54">General Fiction > Published 1900 onward</option>
+<option value="18">Historical Fiction</option>
+<option value="19">Humorous Fiction</option>
+<option value="20">Literary Fiction</option>
+<option value="21">Nature & Animal Fiction</option>
+<option value="23">Nautical & Marine Fiction</option>
+<option value="24">Plays</option>
+<option value="57">Plays > Comedy</option>
+<option value="60">Plays > Comedy > Satire</option>
+<option value="58">Plays > Drama</option>
+<option value="61">Plays > Drama > Tragedy</option>
+<option value="59">Plays > Romance</option>
+<option value="25">Poetry</option>
+<option value="62">Poetry > Anthologies</option>
+<option value="63">Poetry > Single author</option>
+<option value="64">Poetry > Ballads</option>
+<option value="65">Poetry > Elegies & Odes</option>
+<option value="66">Poetry > Epics</option>
+<option value="67">Poetry > Free Verse</option>
+<option value="68">Poetry > Lyric</option>
+<option value="69">Poetry > Narratives</option>
+<option value="70">Poetry > Sonnets</option>
+<option value="71">Poetry > Multi-version (Weekly and Fortnightly poetry)</option>
+<option value="26">Religious Fiction</option>
+<option value="72">Religious Fiction > Christian Fiction</option>
+<option value="27">Romance</option>
+<option value="28">Sagas</option>
+<option value="29">Satire</option>
+<option value="31">Short Stories</option>
+<option value="75">Short Stories > Anthologies</option>
+<option value="76">Short Stories > Single Author Collections</option>
+<option value="32">Sports Fiction</option>
+<option value="33">Suspense, Espionage, Political & Thrillers</option>
+<option value="34">War & Military Fiction</option>
+<option value="35">Westerns</option>
+<option value="36">*Non-fiction</option>
+<option value="73">*Non-fiction > War & Military</option>
+<option value="77">*Non-fiction > Animals</option>
+<option value="78">*Non-fiction > Art, Design & Architecture</option>
+<option value="79">*Non-fiction > Bibles</option>
+<option value="56">*Non-fiction > Bibles > American Standard Version</option>
+<option value="74">*Non-fiction > Bibles > World English Bible</option>
+<option value="139">*Non-fiction > Bibles > King James Version</option>
+<option value="140">*Non-fiction > Bibles > Weymouth New Testament</option>
+<option value="141">*Non-fiction > Bibles > Douay-Rheims Version</option>
+<option value="142">*Non-fiction > Bibles > Young's Literal Translation</option>
+<option value="80">*Non-fiction > Biography & Autobiography</option>
+<option value="111">*Non-fiction > Biography & Autobiography > Memoirs</option>
+<option value="81">*Non-fiction > Business & Economics</option>
+<option value="82">*Non-fiction > Crafts & Hobbies</option>
+<option value="83">*Non-fiction > Education</option>
+<option value="112">*Non-fiction > Education > Language learning</option>
+<option value="84">*Non-fiction > Essays & Short Works</option>
+<option value="85">*Non-fiction > Family & Relationships</option>
+<option value="86">*Non-fiction > Health & Fitness</option>
+<option value="87">*Non-fiction > History</option>
+<option value="113">*Non-fiction > History > Antiquity</option>
+<option value="114">*Non-fiction > History > Middle Ages/Middle History</option>
+<option value="115">*Non-fiction > History > Early Modern</option>
+<option value="116">*Non-fiction > History > Modern (19th C)</option>
+<option value="117">*Non-fiction > History > Modern (20th C)</option>
+<option value="88">*Non-fiction > House & Home</option>
+<option value="118">*Non-fiction > House & Home > Cooking</option>
+<option value="119">*Non-fiction > House & Home > Gardening</option>
+<option value="89">*Non-fiction > Humor</option>
+<option value="90">*Non-fiction > Law</option>
+<option value="91">*Non-fiction > Literary Collections</option>
+<option value="120">*Non-fiction > Literary Collections > Essays</option>
+<option value="121">*Non-fiction > Literary Collections > Short non-fiction</option>
+<option value="122">*Non-fiction > Literary Collections > Letters</option>
+<option value="92">*Non-fiction > Literary Criticism</option>
+<option value="93">*Non-fiction > Mathematics</option>
+<option value="94">*Non-fiction > Medical</option>
+<option value="95">*Non-fiction > Music</option>
+<option value="96">*Non-fiction > Nature</option>
+<option value="97">*Non-fiction > Performing Arts</option>
+<option value="98">*Non-fiction > Philosophy</option>
+<option value="123">*Non-fiction > Philosophy > Ancient</option>
+<option value="124">*Non-fiction > Philosophy > Medieval</option>
+<option value="125">*Non-fiction > Philosophy > Early Modern</option>
+<option value="126">*Non-fiction > Philosophy > Modern</option>
+<option value="127">*Non-fiction > Philosophy > Contemporary</option>
+<option value="143">*Non-fiction > Philosophy > Atheism & Agnosticism</option>
+<option value="99">*Non-fiction > Political Science</option>
+<option value="100">*Non-fiction > Psychology</option>
+<option value="101">*Non-fiction > Reference</option>
+<option value="102">*Non-fiction > Religion</option>
+<option value="128">*Non-fiction > Religion > Christianity - Commentary</option>
+<option value="129">*Non-fiction > Religion > Christianity - Biographies</option>
+<option value="130">*Non-fiction > Religion > Christianity - Other</option>
+<option value="131">*Non-fiction > Religion > Other religions</option>
+<option value="103">*Non-fiction > Science</option>
+<option value="132">*Non-fiction > Science > Astronomy, Physics & Mechanics</option>
+<option value="133">*Non-fiction > Science > Chemistry</option>
+<option value="134">*Non-fiction > Science > Earth Sciences</option>
+<option value="135">*Non-fiction > Science > Life Sciences</option>
+<option value="104">*Non-fiction > Self-Help</option>
+<option value="105">*Non-fiction > Social Science (Culture & Anthropology)</option>
+<option value="106">*Non-fiction > Sports & Recreation</option>
+<option value="136">*Non-fiction > Sports & Recreation > Games</option>
+<option value="107">*Non-fiction > Technology & Engineering</option>
+<option value="137">*Non-fiction > Technology & Engineering > Transportation</option>
+<option value="108">*Non-fiction > Travel & Geography</option>
+<option value="138">*Non-fiction > Travel & Geography > Exploration</option>
+<option value="109">*Non-fiction > True Crime</option>
+<option value="110">*Non-fiction > Writing & Linguistics</option>
+<option value="146">Asian Antiquity</option>
+</select>
+	
+					</label>
+			     </div>
+			</div>   
+
+			<div class="control-group">
+			     <div class="controls center">
+			     	<label for="status" ><span class="span2">Status:</span>
+						<select name="status" id="status">
+<option value="all" selected="selected">All</option>
+<option value="complete">Complete</option>
+<option value="in_progress">In Progress</option>
+<option value="open">Open</option>
+</select>
+			
+					</label>
+			     </div>
+			</div>   
+
+			<div class="control-group">
+			     <div class="controls center">
+			     	<label for="project_type" ><span class="span2">Solo/ Group:</span>
+						<select name="project_type" id="project_type">
+<option value="either" selected="selected">Either</option>
+<option value="solo">Solo</option>
+<option value="group">Group</option>
+</select>
+				
+					</label>
+			     </div>
+			</div>   
+		
+			<div class="control-group">
+			     <div class="controls center">
+			     	<label for="recorded_language" ><span class="span2">Language:</span>
+					<select id="recorded_language" name="recorded_language"><option value="1"   >English</option><option value="2"   >French</option><option value="3"   >German</option><option value="4"   >Italian</option><option value="5"   >Spanish</option><option value=""  selected  > ------ </option><option value="-1"  >All Except English</option><option value=""> ------ </option><option value="80" >Acehnese</option><option value="6" >Afrikaans</option><option value="7" >Aleut</option><option value="8" >Ancient Greek</option><option value="9" >Arabic</option><option value="102" >Assamese</option><option value="81" >Balinese</option><option value="67" >Belarusian</option><option value="10" >Bengali</option><option value="11" >Bisaya/Cebuano</option><option value="105" >Braj</option><option value="82" >Buginese</option><option value="12" >Bulgarian</option><option value="78" >Cantonese Chinese</option><option value="13" >Catalan</option><option value="14" >Chinese</option><option value="15" >Church Slavonic</option><option value="68" >Croatian</option><option value="16" >Czech</option><option value="17" >Danish</option><option value="18" >Dholuo/Luo</option><option value="19" >Dutch</option><option value="1" >English</option><option value="20" >Esperanto</option><option value="70" >Faroese</option><option value="22" >Finnish</option><option value="2" >French</option><option value="23" >Friulano</option><option value="94" >Galician</option><option value="24" >Gamilaraay</option><option value="103" >Garo</option><option value="25" >Gascon/Occitan</option><option value="3" >German</option><option value="26" >Greek</option><option value="27" >Hebrew</option><option value="72" >Hindi</option><option value="28" >Hungarian</option><option value="29" >Icelandic</option><option value="30" >Iloko</option><option value="31" >Indonesian</option><option value="32" >Interlingua</option><option value="33" >Irish</option><option value="34" >Iroquoian</option><option value="4" >Italian</option><option value="35" >Japanese</option><option value="36" >Javanese</option><option value="84" >Kapampangan</option><option value="37" >Khasi</option><option value="38" >Korean</option><option value="95" >Kurdish</option><option value="39" >Latin</option><option value="40" >Latvian</option><option value="41" >Lithuanian</option><option value="87" >Low German</option><option value="73" >Luxembourgish</option><option value="100" >Macedonian</option><option value="69" >Malay</option><option value="42" >Maltese</option><option value="91" >Maori</option><option value="99" >Marathi</option><option value="43" >Mayan Languages</option><option value="44" >Middle English</option><option value="83" >Minangkabau</option><option value="45" >Multilingual</option><option value="46" >Nahuatl</option><option value="47" >Neapolitan-Calabrian</option><option value="48" >North American Indian (undetermined dialect)</option><option value="49" >Norwegian</option><option value="74" >Nynorsk</option><option value="75" >Occitan</option><option value="50" >Old English</option><option value="79" >Old Javanese</option><option value="85" >Old Norse</option><option value="86" >Old Sundanese</option><option value="97" >Old Tupi</option><option value="76" >Oriya</option><option value="66" >Other/Uncoded</option><option value="101" >Palatine German</option><option value="21" >Persian/Farsi</option><option value="51" >Polish</option><option value="52" >Portuguese</option><option value="104" >Rajasthani</option><option value="53" >Romanian</option><option value="54" >Russian</option><option value="55" >Sanskrit</option><option value="96" >Scottish Gaelic</option><option value="56" >Serbian</option><option value="57" >Slovak</option><option value="90" >Slovenian</option><option value="5" >Spanish</option><option value="77" >Sundanese</option><option value="93" >Swahili</option><option value="58" >Swedish</option><option value="59" >Tagalog</option><option value="60" >Tamil</option><option value="92" >Telugu</option><option value="61" >Turkish</option><option value="62" >Ukrainian</option><option value="63" >Urdu</option><option value="98" >Vietnamese</option><option value="89" >Volapük</option><option value="88" >Walloon</option><option value="64" >Welsh</option><option value="71" >Western Frisian</option><option value="65" >Yiddish</option></select>			
+				</label>
+			     </div>
+			</div>   	
+
+			<div class="control-group">
+			     <div class="controls center">
+			     	<label for="sort_order"><span class="span2">Sort by:</span>
+						<select name="sort_order" id="sort_order">
+<option value="catalog_date" selected="selected">Date Released</option>
+<option value="alpha">Alphabetical</option>
+</select>
+		
+					</label>
+			     </div>
+			</div>   
+
+	       <div class="control-group">
+	         <div class="controls center buttons clearfix">
+	             <button id="advanced_search_form_submit" class="btn btn-large btn-primary">
+	                 <span class="submit_top_line">Search</span><br />
+	              </button>
+	         </div>
+	       </div>
+
+		<h4>Still can't find what you're looking for?</h4>
+		<h5>Try searching 
+			<a href="https://archive.org/details/librivoxaudio">Internet Archive's LibriVox Audiobook Collection</a>
+		by title, author, reader, key terms, or terms appearing in book descriptions.</h5>
+
+	       <input type="hidden" name="search_page" id="search_page" value="1">
+	       <input type="hidden" name="search_form" id="search_form" value="advanced">
+
+
+		</form>	
+	</div> 
+	
+	<script type="text/javascript">
+	function autocomplete_assign_vars(item) {
+		return item.value;
+	}
+
+	function autocomplete_assign_elements(search_area, ui, array_index) {
+		switch (search_area) {
+			case 'keywords':
+				document.getElementById("keywords").value = ui.item.label;
+				break;
+		}
+	}
+	</script>
+
+	<script type="text/javascript" src="https://librivox.org/js/libs/jquery-1.8.2.js?v=1710057521"></script>
+	<script type="text/javascript" src="https://librivox.org/js/libs/jquery.validate.js?v=1710057521"></script>
+	<script type="text/javascript" src="https://librivox.org/js/libs/jquery-ui-1.8.24.custom.min.js?v=1710057521"></script>
+	<script type="text/javascript" src="https://librivox.org/js/common/autocomplete.js?v=1710057521"></script>
+	<script type="text/javascript" src="https://librivox.org/js/common/jquery.tagsinput.min.js?v=1710057521"></script>
+	
+	<!-- end .advanced-search-inner	-->
+	
+	<div id="sidebar_wrapper" >
+		<div class="sidebar">
+
+	
+	<div id="sort_type" class="sort-type" style="display:none;">
+		<h4>Project type</h4>
+		<ul> 
+			<li class="js-title-submenu" data-submenu="either"><a class="selected" href="#">all</a></li>
+			<li class="js-title-submenu" data-submenu="solo"><a href="#">solo</a></li>
+			<li class="js-title-submenu" data-submenu="group"><a href="#">group</a></li>
+		</ul>	
+	</div>
+	
+
+		
+	<a href="https://librivox.org/pages/donate-to-librivox/" class="donate">Donate to LibriVox</a>
+
+	<a href="https://librivox.org/pages/thank-a-reader/" class="thank-reader">Thank a reader</a>
+	
+	<div class="disclaimer">
+		LibriVox recordings are Public Domain in the USA. If you are not in the USA, please verify the copyright status of these works in your own country before downloading, otherwise you may be violating copyright laws.
+	</div>
+
+
+
+</div>	</div>
+	
+	
+	<div class="browse browse-title">
+		<div class="browse-header-wrap">
+			<h4 class="browse-header"></h4>
+
+			<div class="sort-menu" id="sort_menu" style="display:none;">
+				<p>Order by</p>
+				<select class="js-sort-menu">
+					  <option value="alpha">Alphabetically</option>
+					  <option value="catalog_date">Release date</option>
+				 </select> 
+			</div><!-- end .sort-menu -->
+			
+		</div>
+
+		<ul class="browse-list"></ul>
+	
+		<div class="page-number-nav"></div>
+	
+	</div>
+
+
+</div><!-- end .main-content -->
+
+
+	<footer class="footer-wrap">
+		<div class="footer">
+		
+		   
+			
+			<p class="license clear"><a href="#"><img src="https://librivox.org/images/public-domain-license.gif" alt="public-domain-license" width="88" height="31" /></a></p>
+		</div><!-- end .footer-wrap -->	
+	</footer>
+    <!--[if lte IE 9]>	
+	    <script type="text/javascript" src="https://librivox.org/js/catalog/jquery.columnizer.js"></script>
+     <![endif]-->
+
+
+
+<script type="text/javascript">
+
+	function get_search_page_from_url() {
+		var query_string = window.location.href.slice(
+			window.location.href.indexOf('?')
+		);
+
+		if (typeof URLSearchParams !== 'function') {
+			// Manual parsing is annoying and most browsers support URLSearchParams
+			return 1;
+		}
+
+		var query_params = new URLSearchParams(query_string);
+		var search_page_param = parseInt(query_params.get('search_page'));
+		if (typeof search_page_param === 'number' && search_page_param > 0) {
+			return search_page_param;
+		} else {
+			return 1;
+		}
+	}
+
+	var search_category = "author";
+
+	var sub_category;
+
+	var advanced_search = 3;
+
+	var primary_key = 0;
+
+	var search_page = get_search_page_from_url();
+	set_advanced_form_page(search_page);
+
+	var search_order = $('.js-sort-menu').val() || 'alpha';
+
+	var project_type = 'either';
+
+	var q = "";
+
+	var spinner = '<div class="loading_img" style="margin-left:300px;margin-top:60px;"><img src="../../img/loading.gif"/></div>';
+
+	$('.browse-header').hide();
+
+	var pathArray = window.location.pathname.split('/');
+
+	var current_page = pathArray[1]; 
+
+	if (q !== '')
+	{
+		advanced_search = 0;
+		$('.advanced-search-inner').hide('slow');
+		librivox_search();
+	}
+	else if (advanced_search === 1)
+	{
+		advanced_search_actions();
+	}
+	else if (advanced_search === 2)
+	{
+		advanced_form_submit();
+	}
+	else if (advanced_search === 3)
+	{
+		//may be able to combine with below
+		$('.advanced-search-inner').hide();
+		get_results(search_category, search_page, sub_category, primary_key);
+	}
+	else
+	{	
+		//only on loading search page
+		if (current_page === 'search')
+		{
+			var item = $('.js-menu_item[data-menu_item="'+search_category+'"]');
+			load_search_data(item, search_category);
+		}
+		else if (jQuery.inArray(current_page, ['author', 'reader', 'group', 'keywords']) > -1)
+		{
+			get_results(current_page, search_page, sub_category, primary_key);
+		}
+
+	}	
+	advanced_search = 0; // it's done its job
+
+
+	// do better 
+	$('#sort_type').hide();
+	if (search_category === 'title' ||  search_category === 'reader')
+	{
+		$('#sort_type').show();
+	}	
+
+	$('#sort_menu').hide();
+	if (search_category === 'title' || (primary_key > 0))
+	{
+		$('#sort_menu').show();
+	}	
+
+
+	// Manage menus
+	$('.js-menu_item').on('click', function(e){
+
+		search_category = $(this).attr('data-menu_item');
+
+		primary_key = 0;
+
+		if (current_page !== 'search')
+		{
+			window.location.href = CI_ROOT + 'search/' + search_category;
+			return;
+		}	
+
+		e.preventDefault();
+
+		$('.advanced-search-inner').hide('slow');
+		$('#sidebar_wrapper').show();
+
+		$('#sort_menu').hide();
+		if (search_category === 'title' || (primary_key > 0))
+		{
+			$('#sort_menu').show();
+		}	
+
+		q = '';
+		$('#q').val('');		
+		
+		load_search_data($(this), $(this).attr('data-menu_item'));
+
+	});
+
+	$('.js-title-submenu').on('click', function(e){
+		e.preventDefault();
+		$('.js-title-submenu a').removeClass('selected');
+		$(this).children('a').addClass('selected');
+
+		project_type = $(this).attr('data-submenu');
+
+		set_advanced_form_page(1); //this is a new search, so reset
+
+		get_results(search_category, search_page, sub_category, primary_key);
+	});
+
+	$('.js-sort-menu').on('change', function(){
+		search_order = $(this).val();
+		get_results(search_category, search_page, sub_category, primary_key);
+
+	});
+
+
+	function load_search_data(item, label)
+	{
+		$('.js-menu_item a').removeClass('active').removeClass('current-page');
+
+		item.children('a').addClass('active').addClass('current-page');
+
+		//console.log(item.attr('data-menu_item'));
+
+		//global
+		search_order = 'alpha';
+		if (item.attr('data-menu_item') == 'title')
+		{
+			search_order = 'catalog_date';
+		}
+
+		$('.js-sort-menu').val(search_order);		
+
+		get_results(search_category, 1);
+
+		set_browse_header(label);
+
+	}
+
+
+	function set_browse_header(label)
+	{
+		label = label.charAt(0).toUpperCase() + label.slice(1);
+		var text = 'Browsing <span>'+ label +'</span>';
+		$('.browse-header').html(text).show();
+		$('.browse-header-wrap').show();
+	}
+
+
+	function get_results(search_category, search_page, sub_category, primary_key)
+	{
+	    sub_category 	= typeof sub_category !== 'undefined' ? sub_category : '';
+	    primary_key 	= typeof primary_key !== 'undefined' ? primary_key : 0;
+	    search_order 	= typeof search_order !== 'undefined' ? search_order : 'alpha';
+	    project_type 	= typeof project_type !== 'undefined' ? project_type : 'either';
+
+		var params = { 'primary_key': primary_key, 'search_category':search_category, 'sub_category': sub_category ,'search_page':search_page, 'search_order': search_order, 'project_type': project_type} ;
+
+		if (history.pushState && current_page == 'search') {
+			history.pushState(null, location.textContent, location.href);
+			history.replaceState(null, null, "https://librivox.org/search");
+		}
+
+		$.ajax({
+		  	url: CI_ROOT + current_page + '/get_results' ,
+		  	type: 'get', //yes, get...we want these all to work through the browser addressbar as well, now
+		  	data: { 'primary_key': primary_key, 'search_category':search_category, 'sub_category': sub_category ,'search_page':search_page, 'search_order': search_order, 'project_type': project_type},
+		  	beforeSend: function(){
+		  		$('.browse-list').html(spinner);
+		  		$('.page-number-nav').html('');
+		  	}, 		  	
+	      	complete: function(r){
+				var response_obj = jQuery.parseJSON(r.responseText);
+
+				$('.browse-list').html('');
+
+				if (response_obj.status == 'SUCCESS')
+				{				
+
+			  		$('#sort_menu').hide();
+			  		$('#sort_type').hide();
+
+
+					if ((response_obj.results != 'No results') && (search_category != 'group') && (search_category == 'title' || (primary_key > 0)))
+					{
+						$('#sort_menu').show();	
+						$('#sort_type').show();				
+					}
+
+					$('.browse-list').html(response_obj.results);
+					$('.page-number-nav').html(response_obj.pagination);
+				}
+
+				if (history.pushState) {
+					history.pushState(null, location.textContent, location.href);
+
+					history.replaceState(null, null, "?primary_key=" + primary_key + '&search_category=' + search_category + '&search_page=' + search_page + '&search_form=get_results&search_order=' + search_order);
+					
+				}
+
+
+			}
+		});		
+	}
+
+
+	/* Advanced search form function  */
+
+	$('#advanced_search_form_submit').on('click', function(e){
+		e.preventDefault();
+
+		set_advanced_form_page(1); //this is a new search, so reset
+
+		advanced_form_submit();
+	});
+
+	function set_advanced_form_page(new_page)
+	{
+		search_page = new_page;
+		$('#search_page').val(new_page);
+	}
+
+	function advanced_form_submit()
+	{
+		$('.advanced-search-inner').hide('slow');
+
+		$('#sort_type').hide();
+		//console.log('hidden');	
+
+		q = '';
+		$('#q').val('');
+
+		get_advanced_results();
+
+		$('#sidebar_wrapper').show();		
+	}
+
+	function get_advanced_results()
+	{
+
+		$.ajax({
+		  	url: CI_ROOT  + 'advanced_search',
+		  	type: 'get',
+		  	data: $('#advanced_search_form').serialize() + '&q=' + encodeURIComponent(q),
+		  	beforeSend: function(){
+		  		$('.browse-list').html(spinner);
+		  		$('.page-number-nav').html('');
+		  	}, 
+	      	complete: function(r){
+				var response_obj = jQuery.parseJSON(r.responseText);
+
+				$('.browse-list').html(''); //clear the spinner, success or no
+				
+				//console.log(response_obj.status);
+
+		  		$('#sort_menu').hide();
+		  		$('#sort_type').hide();
+
+				if (response_obj.status == 'SUCCESS')
+				{					
+					$('.browse-list').html(response_obj.results);
+					$('.page-number-nav').html(response_obj.pagination);
+										
+					if (search_category == 'title' || (primary_key > 0))
+					{
+						$('#sort_menu').show();
+					}	
+				}
+
+
+				if (history.pushState) {
+					history.pushState(null, location.textContent, location.href);
+
+					if (q != '')
+					{
+						history.replaceState(null, null, "?q=" + q + '&search_form=advanced');
+					}	
+					else
+					{
+						history.replaceState(null, null, "?" + $('#advanced_search_form').serialize());
+					}	
+					
+				}
+
+			}
+		});
+	}	
+
+
+	$('.js-truncated-keywords').on('click', function(e){
+
+		e.preventDefault();
+		$('.secondary_keywords_string').show();
+		$('.primary_keywords_string').hide();
+		return false;	
+
+	});
+
+	$('.js-advanced-search').on('click', function(e){
+
+		// TODO: make toggle
+
+		if (current_page != 'search') 
+		{
+			window.location.href = CI_ROOT + 'search/' + 'advanced_search';
+		}
+
+
+		e.preventDefault();
+		advanced_search_actions();
+		return false;	
+
+	});
+	
+
+	function advanced_search_actions()
+	{
+
+		$('.browse-header').html('');
+		$('.browse-list').html('');			
+		$('.page-number-nav').html('');
+		$('#sidebar_wrapper').hide();
+		$('#sort_menu').hide();
+
+		$('.advanced-search-inner').show('slow');
+
+	}
+
+
+	/* end Advanced Search Form*/
+
+	/* Librivox search form */
+
+	$('#searchsubmit').on('click', function(e){
+		e.preventDefault();
+
+		//console.log(current_page);
+
+		q = $('#q').val();
+
+		if (current_page != 'search') 
+		{
+			window.location.href = CI_ROOT + 'search?search_form=get_results&q=' + encodeURIComponent(q);
+			return;
+		}
+
+		set_advanced_form_page(1); // This is a new search, so reset
+		librivox_search();
+
+		$('#sidebar_wrapper').show();
+		$('.advanced-search-inner').hide('slow');
+
+	});
+
+
+	function librivox_search()
+	{
+		search_order = 'alpha';
+
+		$('#advanced_search_form #sort_order').val('alpha'); // the code eventually serializes the form, so we need to set it to alpha here
+
+		$('.browse-header-wrap').hide();
+
+		get_advanced_results();
+	}
+
+
+	/* end Librivox search form*/
+
+
+	$(document).on('click', '.page-number', function(e)
+	{
+		e.preventDefault();
+		search_page = $(this).attr('data-page_number');
+		var call_function = $(this).attr('data-call_function');
+
+		if (call_function == 'get_advanced_results')
+		{
+			$('#search_page').val(search_page); //set it for the form.serialize()
+			get_advanced_results();
+		}
+		else
+		{
+			get_results(search_category, search_page, sub_category, primary_key);
+		}	
+		
+		return false;
+	});
+
+	$(document).on('click', '.js-sublink', function(e)
+	{
+		e.preventDefault();
+		sub_category = $(this).attr('data-sub_category');
+		primary_key = $(this).attr('data-primary_key');
+
+		set_advanced_form_page(1); //this is a new search, so reset
+
+		if (search_category == 'title' || (primary_key > 0))
+		{
+			$('#sort_menu').show();
+		}
+
+		var label = $(this).text();
+
+		set_browse_header(label);
+
+		get_results(search_category, search_page, sub_category, primary_key);
+
+		return false;
+
+	});	
+
+	//reader sections
+
+	$('.data_tab').on('click', function(){
+		$('.data_tab').removeClass('selected');
+		$(this).addClass('selected');
+
+		$('.tab-pane').removeClass('selected').hide();
+
+		var active_pane = $(this).attr('data-tab');
+		$('#'+ active_pane ).show();
+
+		return false;
+	});
+
+
+</script>
+
+
+
+</body>
+</html>

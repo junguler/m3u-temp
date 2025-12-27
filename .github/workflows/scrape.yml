@@ -10,8 +10,8 @@ jobs:
 
       - name: run commands
         run: |
-          for i in {1..9} ; do curl -s 'https://librivox.org/search/get_results?primary_key="$i"&search_category=title&sub_category=&search_page=1&search_order=alpha&project_type=either' > $i.txt ; echo $i ; done
           #node ./m3u-checker.js test_input/ test_output/ --quiet
+          rm *.txt
 
       - name: git stuff
         run: |

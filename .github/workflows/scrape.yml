@@ -1,4 +1,4 @@
-name: scrape m3u
+name: test
 on:
   push
 jobs:
@@ -10,8 +10,13 @@ jobs:
 
       - name: run commands
         run: |
+          for i in {1..9} ; do curl -s 'https://librivox.org/search/get_results?primary_key="$i"&search_category=title&sub_category=&search_page=1&search_order=alpha&project_type=either' > $i.txt ; echo $i ; done
           #node ./m3u-checker.js test_input/ test_output/ --quiet
-          for i in {1..9} ; do curl -s 'https://librivox.org/search/get_results?primary_key="$i"&search_category=title&sub_category=&search_page=1&search_order=alpha&project_type=either' > $i.txt ; echo $i ; done  
+
+      - name: git stuff
+        run: |
+          git config --local user.email "action[bot]@github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "$(od -An -tx2 -w16 -N16 /dev/urandom | cut -c2-)"
+          git commit -m "$(od -An -tx4 -w16 -N16 /dev/urandom | cut -c2- | tr '[:lower:]' '[:upper:]')"
           git push

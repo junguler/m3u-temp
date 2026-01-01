@@ -1,0 +1,3079 @@
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6 ie"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7 ie"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8 ie"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9 ie"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+      </script>
+    <![endif]-->
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type">
+
+  <title>Ulysses (version 2): Circe reader assignments | LibriVox</title>
+  <meta name="description" content="LibriVox" />
+  <meta name="author" content="LibriVox" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="https://librivox.org/favicon.ico">
+  <link rel="stylesheet" href="https://librivox.org/css/style.css?v=1">
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+  <script type="text/javascript" src="https://librivox.org/js/catalog/small-menu.js"></script> 
+ 
+
+  <script type="text/javascript">
+  	var CI_ROOT = "https://librivox.org/"
+  </script>
+
+</head>
+
+<body>
+
+	<section class="header-wrap">
+		<header class="site-header">
+		
+			<!-- Site title/Logo and tagline -->
+			<hgroup class="logo-wrap">
+				<h1 class="logo"><a href="https://librivox.org/"><img src="https://librivox.org/images/librivox-logo.png" alt="librivox-logo" width="180" height="37"><span class="assistive-text">LibriVox</span></a></h1>
+				<h3 class="tagline">Acoustical liberation of books in the public domain</h3>
+			</hgroup>
+			
+			<!-- Sub menu -->
+			<nav class="sub-menu">
+			<h1 class="assistive-text icon-fontawesome-webfont"><span>Menu</span></h1>
+			<div class="assistive-text skip-link"><a href="#" title="Skip to content">Skip to content</a></div> 
+				<ul class="sub-menu-list">
+					<li class="first"><a href="https://librivox.org/pages/about-librivox/">About</a></li>
+					<li><a href="https://librivox.org/pages/contact-librivox/">Contact</a></li>
+					<li><a href="https://forum.librivox.org/">Forum</a></li>
+					<li><a href="https://librivox.org/pages/help/">Help</a></li>
+					<li class="twitter ir"><a href="http://twitter.com/librivox">Twitter</a></li>
+					<!-- <li class="facebook ir"><a href="http://www.facebook.com/LibriVox">Facebook</a></li> -->
+					<li class="rss "><a href="https://librivox.org/pages/librivox-feeds/">rss</a></li> 
+				</ul>																
+			</nav><!-- end sub-menu -->   
+			
+			<!-- Search Form -->	
+			<div class="search-wrap">
+				<form role="search" action="#" id="searchform" method="get" class="searchform">
+					<label class="assistive-text" for="q">Search LibriVox</label>
+					<input type="text" placeholder="Search by Author, Title or Reader" id="q" name="q" class="field">
+					<input type="text" id="dummy" name="dummy" style="display:none;">
+					<input type="submit" value="Search" id="searchsubmit" name="submit" class="submit">
+				</form>
+
+				<a href="#" class="advanced-search js-advanced-search"> Advanced search</a>	
+			</div> <!-- end search-wrap -->		    
+		</header>
+		
+
+
+	<!-- Main menu -->	
+	<div class="main-menu-wrap">
+		<section class="main-menu">
+			<h3>Browse the catalog</h3>
+			<nav class="main-menu-list-wrap"> 
+				<ul class="main-menu-list">
+					<li data-menu_item="author" class="js-menu_item first"><a href="#"><span class="author-icon"></span>Author</a></li>
+					<li data-menu_item="title" class="js-menu_item last"><a href="#"><span class="title-icon"></span>Title</a></li>
+					<li data-menu_item="genre" class="js-menu_item "><a href="#" ><span class="genre-icon"></span>Genre/Subject</a></li>
+					<li data-menu_item="language" class="js-menu_item "><a href="#"><span class="language-icon"></span>Language</a></li>
+					<!-- <li data-menu_item="reader" class="js-menu_item "><a href="#"><span class="reader-icon"></span>Reader</a></li> -->
+					
+				</ul>
+			</nav>
+			
+													
+		</section> <!-- end main-menu --> 
+		
+
+	</div> <!-- end .main-menu-wrap -->	  
+
+	</section><!-- end .header-wrap -->	
+
+
+	<input type="hidden" id="primary_key" value="0">
+
+<div class="main-content">
+	
+	
+	<div class="sidebar book-page">
+
+
+	<a href="https://librivox.org/pages/donate-to-librivox/" class="donate">Donate to LibriVox</a>
+
+	<a href="https://librivox.org/pages/thank-a-reader/" class="thank-reader">Thank a reader</a>
+
+
+	
+	<div class="disclaimer">
+		LibriVox recordings are Public Domain in the USA. If you are not in the USA, please verify the copyright status of these works in your own country before downloading, otherwise you may be violating copyright laws.
+	</div>
+
+
+	
+	<div class="book-page-sidebar">
+		
+		<h4>Listen/Download (<a href="https://librivox.org/pages/help/">help?</a>)</h4>
+
+		<dl class="listen-download clearfix">
+			
+			  <dt>Subscribe by iTunes</dt>
+			  <dd><a href="itpc://librivox.org/rss/4383" class="book-download-btn">iTunes</a></dd>
+
+			  <dt>RSS Feed</dt>
+			  <dd><a href="https://librivox.org/rss/4383" class="book-download-btn">RSS</a></dd>
+
+			  <dt>Download torrent</dt>
+			  <dd><a href="" class="book-download-btn">Torrent</a></dd> 					  
+		</dl>
+
+		
+					
+	</div>
+	
+	<div class="book-page-sidebar">
+		<h4>Production details</h4>
+		<dl class="product-details clearfix">
+		  <dt>Running Time:</dt>
+		  <dd>&nbsp;</dd>
+
+		  <dt>Zip file size:</dt>
+		  <dd>&nbsp;</dd>
+		
+		  <dt>Catalog date:</dt>
+		  <dd>2014-01-30</dd>
+		
+		  <dt>Read by:</dt>
+		  <dd>LibriVox Volunteers</dd> 
+		  
+		  <dt>Book Coordinator:</dt>
+		  <dd><a href="https://librivox.org/reader/4174">Availle</a></dd>
+		  
+		  <dt>Meta Coordinator:</dt>
+		  <dd><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a></dd>
+		  
+		  <dt>Proof Listener:</dt>
+		  <dd><a href="https://librivox.org/reader/2911">David Lawrence</a></dd>				  
+		</dl>
+
+	</div>
+	
+	<div class="book-page-sidebar">
+		<h4>Links</h4>
+
+		
+					<p><a href="https://www.gutenberg.org/etext/4300">Online text</a></p>
+		
+									<p><a href="https://en.wikipedia.org/wiki/James_Joyce">Wikipedia - James Joyce</a></p>
+							
+
+					<p><a href="https://en.wikipedia.org/wiki/Ulysses_(novel)">Wikipedia - Ulysses (version 2): Circe reader assignments</a></p>
+		
+				
+		
+	</div>
+				
+
+
+
+
+</div>
+	
+	
+	<div class="page book-page">
+
+			<div class="content-wrap clearfix">
+				<div class="book-page-book-cover">
+					<img src="https://archive.org/download/LibrivoxCdCoverArt33/ulysses_1401.jpg" alt="book-cover-large" width="175" height="175" />
+
+										<a href="https://archive.org/download/LibrivoxCdCoverArt33/ulysses_1401.jpg" class="download-cover">Download cover art</a>
+					
+					
+				</div>
+				
+				<h1>Ulysses (version 2): Circe reader assignments</h1>
+				
+				<p class="book-page-author"><a href="https://librivox.org/author/495">James Joyce <span class="dod-dob">(1882 - 1941)</span></a></p>
+				
+				<p class="description">The audio files for the Circe episode can be found on the Ulysses catalog page <a href="https://librivox.org/ulysses-version-2-by-james-joyce/">here</a>.  There are no audio files on this catalog page.  It is maintained to preserve a record of the Circe reader assignments.</p>
+
+				<p class="book-page-genre"><span>Genre(s):</span> </p>
+
+				<p class="book-page-genre"><span>Language:</span> English</p>
+				
+								
+								</p>
+				
+			</div> 	<!-- end .content-wrap --> 
+		
+			<table class="chapter-download">
+					<thead>
+						<tr>
+							<th>Section</th>
+							<th>Chapter</th>
+							
+							<th>Reader</th>
+							<th>Time</th>
+
+							
+						</tr>
+					</thead>
+						<tbody>
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 01 </td>
+								<td><a href="" class="chapter-name">Narrator</a></td>
+								
+								<td><a href="https://librivox.org/reader/167">Peter Yearsley</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 02 </td>
+								<td><a href="" class="chapter-name">The Calls</a></td>
+								
+								<td><a href="https://librivox.org/reader/5424">Julia Niedermaier</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 03 </td>
+								<td><a href="" class="chapter-name">The Answers</a></td>
+								
+								<td><a href="https://librivox.org/reader/1259">Elizabeth Klett</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 04 </td>
+								<td><a href="" class="chapter-name">The Children/ The Urchins</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 05 </td>
+								<td><a href="" class="chapter-name">The Idiot</a></td>
+								
+								<td><a href="https://librivox.org/reader/7138">CaprishaPage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 06 </td>
+								<td><a href="" class="chapter-name">Cissy Caffrey</a></td>
+								
+								<td><a href="https://librivox.org/reader/6548">Kristin G.</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 07 </td>
+								<td><a href="" class="chapter-name">The Virago</a></td>
+								
+								<td><a href="https://librivox.org/reader/7679">Libby Gohn</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 08 </td>
+								<td><a href="" class="chapter-name">Private Compton</a></td>
+								
+								<td><a href="https://librivox.org/reader/2911">David Lawrence</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 09 </td>
+								<td><a href="" class="chapter-name">Private Carr</a></td>
+								
+								<td><a href="https://librivox.org/reader/7170">Alan Mapstone</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 10 </td>
+								<td><a href="" class="chapter-name">Stephen</a></td>
+								
+								<td><a href="https://librivox.org/reader/1492">mb</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 11 </td>
+								<td><a href="" class="chapter-name">The Bawd</a></td>
+								
+								<td><a href="https://librivox.org/reader/3157">TriciaG</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 12 </td>
+								<td><a href="" class="chapter-name">Edy Boardman</a></td>
+								
+								<td><a href="https://librivox.org/reader/6544">Amanda Friday</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 13 </td>
+								<td><a href="" class="chapter-name">Lynch / The Voice of Lynch</a></td>
+								
+								<td><a href="https://librivox.org/reader/8803">Ben Lindsey-Clark</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 14 </td>
+								<td><a href="" class="chapter-name">Bloom</a></td>
+								
+								<td><a href="https://librivox.org/reader/3607">Richard Wallis</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 15 </td>
+								<td><a href="" class="chapter-name">The Bells/ The Gong</a></td>
+								
+								<td><a href="https://librivox.org/reader/7315">Charlotte Duckett</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 16 </td>
+								<td><a href="" class="chapter-name">The Motorman</a></td>
+								
+								<td><a href="https://librivox.org/reader/7848">bala</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 17 </td>
+								<td><a href="" class="chapter-name">The Figure</a></td>
+								
+								<td><a href="https://librivox.org/reader/6281">Beth Thomas (1974-2020)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 18 </td>
+								<td><a href="" class="chapter-name">Rudolph</a></td>
+								
+								<td><a href="https://librivox.org/reader/7641">Moromis</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 19 </td>
+								<td><a href="" class="chapter-name">Ellen Bloom</a></td>
+								
+								<td><a href="https://librivox.org/reader/4174">Availle</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 20 </td>
+								<td><a href="" class="chapter-name">A Voice/ A Voice from the Gallery </a></td>
+								
+								<td><a href="https://librivox.org/reader/6754">ToddHW</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 21 </td>
+								<td><a href="" class="chapter-name">Marion / Marion's Voice</a></td>
+								
+								<td><a href="https://librivox.org/reader/1724">Anna Simon</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 22 </td>
+								<td><a href="" class="chapter-name">The Soap</a></td>
+								
+								<td><a href="https://librivox.org/reader/4744">Amy Gramour</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 23 </td>
+								<td><a href="" class="chapter-name">Sweny</a></td>
+								
+								<td><a href="https://librivox.org/reader/4705">Algy Pug</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 24 </td>
+								<td><a href="" class="chapter-name">Bridie</a></td>
+								
+								<td><a href="https://librivox.org/reader/3698">Nadine Eckert-Boulet</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 25 </td>
+								<td><a href="" class="chapter-name">Gerty</a></td>
+								
+								<td><a href="https://librivox.org/reader/6924">Rapunzelina</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 26 </td>
+								<td><a href="" class="chapter-name">Mrs. Breen</a></td>
+								
+								<td><a href="https://librivox.org/reader/7171">April Gonzales</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 27 </td>
+								<td><a href="" class="chapter-name">Tom and Sam</a></td>
+								
+								<td><a href="https://librivox.org/reader/6065">David Olson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 28 </td>
+								<td><a href="" class="chapter-name">Alf Bergan</a></td>
+								
+								<td><a href="https://librivox.org/reader/152">Andy Minter (1934-2017)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 29 </td>
+								<td><a href="" class="chapter-name">Richie Goulding</a></td>
+								
+								<td><a href="https://librivox.org/reader/4705">Algy Pug</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 30 </td>
+								<td><a href="" class="chapter-name">Pat</a></td>
+								
+								<td><a href="https://librivox.org/reader/8208">Saethon</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 31 </td>
+								<td><a href="" class="chapter-name">The Gaffer</a></td>
+								
+								<td><a href="https://librivox.org/reader/8034">Aiden Herrera</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 32 </td>
+								<td><a href="" class="chapter-name">The Loiterers</a></td>
+								
+								<td><a href="https://librivox.org/reader/7315">Charlotte Duckett</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 33 </td>
+								<td><a href="" class="chapter-name">The Whores</a></td>
+								
+								<td><a href="https://librivox.org/reader/6924">Rapunzelina</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 34 </td>
+								<td><a href="" class="chapter-name">The Navvy</a></td>
+								
+								<td><a href="https://librivox.org/reader/8291">Elliot Gage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 35 </td>
+								<td><a href="" class="chapter-name">The Shebeenkeeper</a></td>
+								
+								<td><a href="https://librivox.org/reader/7679">Libby Gohn</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 36 </td>
+								<td><a href="" class="chapter-name">The Wreaths</a></td>
+								
+								<td><a href="https://librivox.org/reader/6788">Pamela Krantz</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 37 </td>
+								<td><a href="" class="chapter-name">First Watch</a></td>
+								
+								<td><a href="https://librivox.org/reader/7641">Moromis</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 38 </td>
+								<td><a href="" class="chapter-name">Second Watch</a></td>
+								
+								<td><a href="https://librivox.org/reader/7599">Kevinc</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 39 </td>
+								<td><a href="" class="chapter-name">The Gulls</a></td>
+								
+								<td><a href="https://librivox.org/reader/7662">Emily Jones</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 40 </td>
+								<td><a href="" class="chapter-name">Bob Doran</a></td>
+								
+								<td><a href="https://librivox.org/reader/7122">Nathanial W.C. Higgins</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 41 </td>
+								<td><a href="" class="chapter-name">Signor Maffei</a></td>
+								
+								<td><a href="https://librivox.org/reader/543">Ted Delorme</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 42 </td>
+								<td><a href="" class="chapter-name">The Dark Mercury</a></td>
+								
+								<td><a href="https://librivox.org/reader/4744">Amy Gramour</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 43 </td>
+								<td><a href="" class="chapter-name">Martha</a></td>
+								
+								<td><a href="https://librivox.org/reader/6548">Kristin G.</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 44 </td>
+								<td><a href="" class="chapter-name">The Kisses</a></td>
+								
+								<td><a href="https://librivox.org/reader/3698">Nadine Eckert-Boulet</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 45 </td>
+								<td><a href="" class="chapter-name">Myles Crawford</a></td>
+								
+								<td><a href="https://librivox.org/reader/8633">shivagogo</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 46 </td>
+								<td><a href="" class="chapter-name">Beaufoy</a></td>
+								
+								<td><a href="https://librivox.org/reader/7848">bala</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 47 </td>
+								<td><a href="" class="chapter-name">The Crier</a></td>
+								
+								<td><a href="https://librivox.org/reader/7656">Naomi Park</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 48 </td>
+								<td><a href="" class="chapter-name">Mary Driscoll</a></td>
+								
+								<td><a href="https://librivox.org/reader/7138">CaprishaPage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 49 </td>
+								<td><a href="" class="chapter-name">George Fottrell</a></td>
+								
+								<td><a href="https://librivox.org/reader/4788">Bill Boerst</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 50 </td>
+								<td><a href="" class="chapter-name">Longhand and Shorthand</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 51 </td>
+								<td><a href="" class="chapter-name">Professor MacHugh</a></td>
+								
+								<td><a href="https://librivox.org/reader/152">Andy Minter (1934-2017)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 52 </td>
+								<td><a href="" class="chapter-name">J.J. O'Molloy</a></td>
+								
+								<td><a href="https://librivox.org/reader/8186">Brendan MacKenzie</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 53 </td>
+								<td><a href="" class="chapter-name">Dlugacz</a></td>
+								
+								<td><a href="https://librivox.org/reader/8169">tovarisch</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 54 </td>
+								<td><a href="" class="chapter-name">Mrs Yelverton Barry</a></td>
+								
+								<td><a href="https://librivox.org/reader/6281">Beth Thomas (1974-2020)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 55 </td>
+								<td><a href="" class="chapter-name">Mrs Bellingham</a></td>
+								
+								<td><a href="https://librivox.org/reader/3157">TriciaG</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 56 </td>
+								<td><a href="" class="chapter-name">The Sluts and Ragamuffins</a></td>
+								
+								<td><a href="https://librivox.org/reader/6893">hikarudream</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 57 </td>
+								<td><a href="" class="chapter-name">The Hon. Mrs Mervyn Talboys</a></td>
+								
+								<td><a href="https://librivox.org/reader/1259">Elizabeth Klett</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 58 </td>
+								<td><a href="" class="chapter-name">Davy Stephens</a></td>
+								
+								<td><a href="https://librivox.org/reader/543">Ted Delorme</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 59 </td>
+								<td><a href="" class="chapter-name">The Timepiece</a></td>
+								
+								<td><a href="https://librivox.org/reader/4174">Availle</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 60 </td>
+								<td><a href="" class="chapter-name">The Quoits</a></td>
+								
+								<td><a href="https://librivox.org/reader/5424">Julia Niedermaier</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 61 </td>
+								<td><a href="" class="chapter-name">The Nameless One</a></td>
+								
+								<td><a href="https://librivox.org/reader/1724">Anna Simon</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 62 </td>
+								<td><a href="" class="chapter-name">The Jurors</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 63 </td>
+								<td><a href="" class="chapter-name">Tom Rochford</a></td>
+								
+								<td><a href="https://librivox.org/reader/543">Ted Delorme</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 64 </td>
+								<td><a href="" class="chapter-name">The Recorder</a></td>
+								
+								<td><a href="https://librivox.org/reader/7712">David Stephenson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 65 </td>
+								<td><a href="" class="chapter-name">Long John Fanning</a></td>
+								
+								<td><a href="https://librivox.org/reader/2033">Filippo Gioachin</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 66 </td>
+								<td><a href="" class="chapter-name">Rumbold</a></td>
+								
+								<td><a href="https://librivox.org/reader/2911">David Lawrence</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 67 </td>
+								<td><a href="" class="chapter-name">Hynes</a></td>
+								
+								<td><a href="https://librivox.org/reader/5471">ElleyKat</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 68 </td>
+								<td><a href="" class="chapter-name">Paddy Dignam</a></td>
+								
+								<td><a href="https://librivox.org/reader/4705">Algy Pug</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 69 </td>
+								<td><a href="" class="chapter-name">Father Coffey</a></td>
+								
+								<td><a href="https://librivox.org/reader/6065">David Olson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 70 </td>
+								<td><a href="" class="chapter-name">John O'Connell</a></td>
+								
+								<td><a href="https://librivox.org/reader/6965">NoelBadrian</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 71 </td>
+								<td><a href="" class="chapter-name">The Buckles</a></td>
+								
+								<td><a href="https://librivox.org/reader/7315">Charlotte Duckett</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 72 </td>
+								<td><a href="" class="chapter-name">The Male Brutes</a></td>
+								
+								<td><a href="https://librivox.org/reader/2911">David Lawrence</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 73 </td>
+								<td><a href="" class="chapter-name">Zoe/ The Voice of Zoe</a></td>
+								
+								<td><a href="https://librivox.org/reader/6544">Amanda Friday</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 74 </td>
+								<td><a href="" class="chapter-name">An Elector</a></td>
+								
+								<td><a href="https://librivox.org/reader/8447">Anastasiia Solokha</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 75 </td>
+								<td><a href="" class="chapter-name">The Torchbearers</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 76 </td>
+								<td><a href="" class="chapter-name">Late Lord Mayor Harrington</a></td>
+								
+								<td><a href="https://librivox.org/reader/152">Andy Minter (1934-2017)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 77 </td>
+								<td><a href="" class="chapter-name">Councillor Lorcan Sherlock</a></td>
+								
+								<td><a href="https://librivox.org/reader/2911">David Lawrence</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 78 </td>
+								<td><a href="" class="chapter-name">Bloom's Boys</a></td>
+								
+								<td><a href="https://librivox.org/reader/8034">Aiden Herrera</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 79 </td>
+								<td><a href="" class="chapter-name">A Blacksmith</a></td>
+								
+								<td><a href="https://librivox.org/reader/8672">Chris Meabe</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 80 </td>
+								<td><a href="" class="chapter-name">A Pavior and Flagger</a></td>
+								
+								<td><a href="https://librivox.org/reader/8169">tovarisch</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 81 </td>
+								<td><a href="" class="chapter-name">A Millionairess</a></td>
+								
+								<td><a href="https://librivox.org/reader/6548">Kristin G.</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 82 </td>
+								<td><a href="" class="chapter-name">A Noblewoman</a></td>
+								
+								<td><a href="https://librivox.org/reader/4174">Availle</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 83 </td>
+								<td><a href="" class="chapter-name">A Feminist</a></td>
+								
+								<td><a href="https://librivox.org/reader/5424">Julia Niedermaier</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 84 </td>
+								<td><a href="" class="chapter-name">A Bellhanger</a></td>
+								
+								<td><a href="https://librivox.org/reader/7839">Loveday</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 85 </td>
+								<td><a href="" class="chapter-name">The Bishop of Down and Connor</a></td>
+								
+								<td><a href="https://librivox.org/reader/7188">Marty</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 86 </td>
+								<td><a href="" class="chapter-name">William, Archbishop of Armagh</a></td>
+								
+								<td><a href="https://librivox.org/reader/7712">David Stephenson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 87 </td>
+								<td><a href="" class="chapter-name">Michael, Archbishop of Armagh</a></td>
+								
+								<td><a href="https://librivox.org/reader/7122">Nathanial W.C. Higgins</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 88 </td>
+								<td><a href="" class="chapter-name">The Peers</a></td>
+								
+								<td><a href="https://librivox.org/reader/8587">Drew Johnson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 89 </td>
+								<td><a href="" class="chapter-name">John Howard Parnell</a></td>
+								
+								<td><a href="https://librivox.org/reader/8291">Elliot Gage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 90 </td>
+								<td><a href="" class="chapter-name">Tom Kernan</a></td>
+								
+								<td><a href="https://librivox.org/reader/6065">David Olson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 91 </td>
+								<td><a href="" class="chapter-name">The Chapel of Freeman Typesetters</a></td>
+								
+								<td><a href="https://librivox.org/reader/7679">Libby Gohn</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 92 </td>
+								<td><a href="" class="chapter-name">John Wyse Nolan</a></td>
+								
+								<td><a href="https://librivox.org/reader/6965">NoelBadrian</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 93 </td>
+								<td><a href="" class="chapter-name">A Bluecoat Schoolboy</a></td>
+								
+								<td><a href="https://librivox.org/reader/6893">hikarudream</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 94 </td>
+								<td><a href="" class="chapter-name">An Old Resident</a></td>
+								
+								<td><a href="https://librivox.org/reader/6788">Pamela Krantz</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 95 </td>
+								<td><a href="" class="chapter-name">An Applewoman</a></td>
+								
+								<td><a href="https://librivox.org/reader/7171">April Gonzales</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 96 </td>
+								<td><a href="" class="chapter-name">The Sightseers</a></td>
+								
+								<td><a href="https://librivox.org/reader/3698">Nadine Eckert-Boulet</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 97 </td>
+								<td><a href="" class="chapter-name">The Man in the Macintosh</a></td>
+								
+								<td><a href="https://librivox.org/reader/4191">Grant Hurlock</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 98 </td>
+								<td><a href="" class="chapter-name">The Women</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 99 </td>
+								<td><a href="" class="chapter-name">The Babes and Sucklings</a></td>
+								
+								<td><a href="https://librivox.org/reader/7138">CaprishaPage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 100 </td>
+								<td><a href="" class="chapter-name">Baby Boardman</a></td>
+								
+								<td><a href="https://librivox.org/reader/7515">Cynthia Moyer</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 101 </td>
+								<td><a href="" class="chapter-name">The Citizen</a></td>
+								
+								<td><a href="https://librivox.org/reader/4705">Algy Pug</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 102 </td>
+								<td><a href="" class="chapter-name">Jimmy Henry</a></td>
+								
+								<td><a href="https://librivox.org/reader/8893">gmrbill</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 103 </td>
+								<td><a href="" class="chapter-name">Paddy Leonard</a></td>
+								
+								<td><a href="https://librivox.org/reader/8633">shivagogo</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 104 </td>
+								<td><a href="" class="chapter-name">Nosey Flynn</a></td>
+								
+								<td><a href="https://librivox.org/reader/5471">ElleyKat</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 105 </td>
+								<td><a href="" class="chapter-name">Pisser Burke</a></td>
+								
+								<td><a href="https://librivox.org/reader/4064">Margaret Espaillat</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 106 </td>
+								<td><a href="" class="chapter-name">Chris Callinan</a></td>
+								
+								<td><a href="https://librivox.org/reader/8025">Hunter</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 107 </td>
+								<td><a href="" class="chapter-name">Ben Dollard</a></td>
+								
+								<td><a href="https://librivox.org/reader/4788">Bill Boerst</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 108 </td>
+								<td><a href="" class="chapter-name">Larry O'Rourke</a></td>
+								
+								<td><a href="https://librivox.org/reader/3157">TriciaG</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 109 </td>
+								<td><a href="" class="chapter-name">Crofton</a></td>
+								
+								<td><a href="https://librivox.org/reader/4174">Availle</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 110 </td>
+								<td><a href="" class="chapter-name">Alexander Keyes</a></td>
+								
+								<td><a href="https://librivox.org/reader/8937">Josh Kirsh</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 111 </td>
+								<td><a href="" class="chapter-name">O'Madden Burke</a></td>
+								
+								<td><a href="https://librivox.org/reader/8677">KHand</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 112 </td>
+								<td><a href="" class="chapter-name">Davy Byrne</a></td>
+								
+								<td><a href="https://librivox.org/reader/8012">Woolly Bee</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 113 </td>
+								<td><a href="" class="chapter-name">Lenehan</a></td>
+								
+								<td><a href="https://librivox.org/reader/7848">bala</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 114 </td>
+								<td><a href="" class="chapter-name">Father Farley</a></td>
+								
+								<td><a href="https://librivox.org/reader/2033">Filippo Gioachin</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 115 </td>
+								<td><a href="" class="chapter-name">Mrs Riordan</a></td>
+								
+								<td><a href="https://librivox.org/reader/1259">Elizabeth Klett</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 116 </td>
+								<td><a href="" class="chapter-name">Mother Grogan</a></td>
+								
+								<td><a href="https://librivox.org/reader/6281">Beth Thomas (1974-2020)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 117 </td>
+								<td><a href="" class="chapter-name">Hoppy Holohan</a></td>
+								
+								<td><a href="https://librivox.org/reader/5269">Elizabeth Barr</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 118 </td>
+								<td><a href="" class="chapter-name">The Veiled Sibyl</a></td>
+								
+								<td><a href="https://librivox.org/reader/3157">TriciaG</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 119 </td>
+								<td><a href="" class="chapter-name">Theodore Purefoy</a></td>
+								
+								<td><a href="https://librivox.org/reader/3664">Barry Eads</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 120 </td>
+								<td><a href="" class="chapter-name">Alexander J Dowie</a></td>
+								
+								<td><a href="https://librivox.org/reader/8639">thechanneler</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 121 </td>
+								<td><a href="" class="chapter-name">The Mob</a></td>
+								
+								<td><a href="https://librivox.org/reader/8567">Kanta</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 122 </td>
+								<td><a href="" class="chapter-name">Dr Mulligan</a></td>
+								
+								<td><a href="https://librivox.org/reader/7079">Chuck Williamson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 123 </td>
+								<td><a href="" class="chapter-name">Dr Madden</a></td>
+								
+								<td><a href="https://librivox.org/reader/8012">Woolly Bee</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 124 </td>
+								<td><a href="" class="chapter-name">Dr Crotthers</a></td>
+								
+								<td><a href="https://librivox.org/reader/3615">Lucy Perry</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 125 </td>
+								<td><a href="" class="chapter-name">Dr Punch Costello</a></td>
+								
+								<td><a href="https://librivox.org/reader/3157">TriciaG</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 126 </td>
+								<td><a href="" class="chapter-name">Dr Dixon</a></td>
+								
+								<td><a href="https://librivox.org/reader/7515">Cynthia Moyer</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 127 </td>
+								<td><a href="" class="chapter-name">Mrs Thornton</a></td>
+								
+								<td><a href="https://librivox.org/reader/1724">Anna Simon</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 128 </td>
+								<td><a href="" class="chapter-name">Brother Buzz</a></td>
+								
+								<td><a href="https://librivox.org/reader/5717">Phil Chenevert</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 129 </td>
+								<td><a href="" class="chapter-name">Bantam Lyons</a></td>
+								
+								<td><a href="https://librivox.org/reader/7708">Savannah</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 130 </td>
+								<td><a href="" class="chapter-name">Brini, Papal Nuncio</a></td>
+								
+								<td><a href="https://librivox.org/reader/7641">Moromis</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 131 </td>
+								<td><a href="" class="chapter-name">A Deadhand</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 132 </td>
+								<td><a href="" class="chapter-name">Crab</a></td>
+								
+								<td><a href="https://librivox.org/reader/3645">MaryAnn</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 133 </td>
+								<td><a href="" class="chapter-name">A Female Infant</a></td>
+								
+								<td><a href="https://librivox.org/reader/6788">Pamela Krantz</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 134 </td>
+								<td><a href="" class="chapter-name">A Hollybush</a></td>
+								
+								<td><a href="https://librivox.org/reader/4744">Amy Gramour</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 135 </td>
+								<td><a href="" class="chapter-name">The Irish Evicted Tenants</a></td>
+								
+								<td><a href="https://librivox.org/reader/4064">Margaret Espaillat</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 136 </td>
+								<td><a href="" class="chapter-name">The Artane Orphans</a></td>
+								
+								<td><a href="https://librivox.org/reader/6788">Pamela Krantz</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 137 </td>
+								<td><a href="" class="chapter-name">The Prison Gate Girls</a></td>
+								
+								<td><a href="https://librivox.org/reader/7656">Naomi Park</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 138 </td>
+								<td><a href="" class="chapter-name">Hornblower</a></td>
+								
+								<td><a href="https://librivox.org/reader/7170">Alan Mapstone</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 139 </td>
+								<td><a href="" class="chapter-name">Mastiansky and Citron</a></td>
+								
+								<td><a href="https://librivox.org/reader/8855">Eric Metzler</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 140 </td>
+								<td><a href="" class="chapter-name">Mesias</a></td>
+								
+								<td><a href="https://librivox.org/reader/3157">TriciaG</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 141 </td>
+								<td><a href="" class="chapter-name">Reuben J</a></td>
+								
+								<td><a href="https://librivox.org/reader/2911">David Lawrence</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 142 </td>
+								<td><a href="" class="chapter-name">The Fire Brigade</a></td>
+								
+								<td><a href="https://librivox.org/reader/6924">Rapunzelina</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 143 </td>
+								<td><a href="" class="chapter-name">The Daughters of Erin</a></td>
+								
+								<td><a href="https://librivox.org/reader/7526">Jaysen Raye</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 144 </td>
+								<td><a href="" class="chapter-name">The Flybill</a></td>
+								
+								<td><a href="https://librivox.org/reader/5424">Julia Niedermaier</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 145 </td>
+								<td><a href="" class="chapter-name">The Doorhandle</a></td>
+								
+								<td><a href="https://librivox.org/reader/4174">Availle</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 146 </td>
+								<td><a href="" class="chapter-name">Kitty/  Voice of Kitty</a></td>
+								
+								<td><a href="https://librivox.org/reader/7526">Jaysen Raye</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 147 </td>
+								<td><a href="" class="chapter-name">The Cardinal</a></td>
+								
+								<td><a href="https://librivox.org/reader/4705">Algy Pug</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 148 </td>
+								<td><a href="" class="chapter-name">The Cap</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 149 </td>
+								<td><a href="" class="chapter-name">Florry/ Voice of Florry</a></td>
+								
+								<td><a href="https://librivox.org/reader/6281">Beth Thomas (1974-2020)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 150 </td>
+								<td><a href="" class="chapter-name">The Newsboys</a></td>
+								
+								<td><a href="https://librivox.org/reader/7138">CaprishaPage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 151 </td>
+								<td><a href="" class="chapter-name">The Hobgoblin</a></td>
+								
+								<td><a href="https://librivox.org/reader/3698">Nadine Eckert-Boulet</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 152 </td>
+								<td><a href="" class="chapter-name">The Gramophone</a></td>
+								
+								<td><a href="https://librivox.org/reader/7170">Alan Mapstone</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 153 </td>
+								<td><a href="" class="chapter-name">The End of the World</a></td>
+								
+								<td><a href="https://librivox.org/reader/3157">TriciaG</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 154 </td>
+								<td><a href="" class="chapter-name">Elijah</a></td>
+								
+								<td><a href="https://librivox.org/reader/8291">Elliot Gage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 155 </td>
+								<td><a href="" class="chapter-name">The Beatitudes</a></td>
+								
+								<td><a href="https://librivox.org/reader/4744">Amy Gramour</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 156 </td>
+								<td><a href="" class="chapter-name">Lyster</a></td>
+								
+								<td><a href="https://librivox.org/reader/152">Andy Minter (1934-2017)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 157 </td>
+								<td><a href="" class="chapter-name">Best</a></td>
+								
+								<td><a href="https://librivox.org/reader/6065">David Olson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 158 </td>
+								<td><a href="" class="chapter-name">John Eglinton</a></td>
+								
+								<td><a href="https://librivox.org/reader/8169">tovarisch</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 159 </td>
+								<td><a href="" class="chapter-name">Mananaun Maclir</a></td>
+								
+								<td><a href="https://librivox.org/reader/7641">Moromis</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 160 </td>
+								<td><a href="" class="chapter-name">The Gasjet</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 161 </td>
+								<td><a href="" class="chapter-name">Virag</a></td>
+								
+								<td><a href="https://librivox.org/reader/8208">Saethon</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 162 </td>
+								<td><a href="" class="chapter-name">The Moth</a></td>
+								
+								<td><a href="https://librivox.org/reader/6548">Kristin G.</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 163 </td>
+								<td><a href="" class="chapter-name">Henry</a></td>
+								
+								<td><a href="https://librivox.org/reader/7188">Marty</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 164 </td>
+								<td><a href="" class="chapter-name">Artifoni</a></td>
+								
+								<td><a href="https://librivox.org/reader/2033">Filippo Gioachin</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 165 </td>
+								<td><a href="" class="chapter-name">Philip Sober</a></td>
+								
+								<td><a href="https://librivox.org/reader/8186">Brendan MacKenzie</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 166 </td>
+								<td><a href="" class="chapter-name">Philip Drunk</a></td>
+								
+								<td><a href="https://librivox.org/reader/8186">Brendan MacKenzie</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 167 </td>
+								<td><a href="" class="chapter-name">The Dummymummy</a></td>
+								
+								<td><a href="https://librivox.org/reader/6924">Rapunzelina</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 168 </td>
+								<td><a href="" class="chapter-name">The Button</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 169 </td>
+								<td><a href="" class="chapter-name">Councillor Nannetii</a></td>
+								
+								<td><a href="https://librivox.org/reader/4788">Bill Boerst</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 170 </td>
+								<td><a href="" class="chapter-name">Bella</a></td>
+								
+								<td><a href="https://librivox.org/reader/7470">AS - andreastrano</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 171 </td>
+								<td><a href="" class="chapter-name">The Fan</a></td>
+								
+								<td><a href="https://librivox.org/reader/7079">Chuck Williamson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 172 </td>
+								<td><a href="" class="chapter-name">The Hoof</a></td>
+								
+								<td><a href="https://librivox.org/reader/7315">Charlotte Duckett</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 173 </td>
+								<td><a href="" class="chapter-name">Bello</a></td>
+								
+								<td><a href="https://librivox.org/reader/7470">AS - andreastrano</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 174 </td>
+								<td><a href="" class="chapter-name">Mrs Keogh</a></td>
+								
+								<td><a href="https://librivox.org/reader/3157">TriciaG</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 175 </td>
+								<td><a href="" class="chapter-name">The Sins of the Past</a></td>
+								
+								<td><a href="https://librivox.org/reader/3698">Nadine Eckert-Boulet</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 176 </td>
+								<td><a href="" class="chapter-name">A Bidder</a></td>
+								
+								<td><a href="https://librivox.org/reader/152">Andy Minter (1934-2017)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 177 </td>
+								<td><a href="" class="chapter-name">The Lacquey</a></td>
+								
+								<td><a href="https://librivox.org/reader/8291">Elliot Gage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 178 </td>
+								<td><a href="" class="chapter-name">Charles Alberta Marsh</a></td>
+								
+								<td><a href="https://librivox.org/reader/7848">bala</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 179 </td>
+								<td><a href="" class="chapter-name">A Darkvisaged Man</a></td>
+								
+								<td><a href="https://librivox.org/reader/7641">Moromis</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 180 </td>
+								<td><a href="" class="chapter-name">Sleepy Hollow</a></td>
+								
+								<td><a href="https://librivox.org/reader/7170">Alan Mapstone</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 181 </td>
+								<td><a href="" class="chapter-name">Milly</a></td>
+								
+								<td><a href="https://librivox.org/reader/4174">Availle</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 182 </td>
+								<td><a href="" class="chapter-name">The Circumcised</a></td>
+								
+								<td><a href="https://librivox.org/reader/8169">tovarisch</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 183 </td>
+								<td><a href="" class="chapter-name">The Yews</a></td>
+								
+								<td><a href="https://librivox.org/reader/4744">Amy Gramour</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 184 </td>
+								<td><a href="" class="chapter-name">The Nymph</a></td>
+								
+								<td><a href="https://librivox.org/reader/6548">Kristin G.</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 185 </td>
+								<td><a href="" class="chapter-name">The Waterfall</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 186 </td>
+								<td><a href="" class="chapter-name">The Echo</a></td>
+								
+								<td><a href="https://librivox.org/reader/5424">Julia Niedermaier</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 187 </td>
+								<td><a href="" class="chapter-name">The Halcyon Days</a></td>
+								
+								<td><a href="https://librivox.org/reader/7138">CaprishaPage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 188 </td>
+								<td><a href="" class="chapter-name">Staggering Bob</a></td>
+								
+								<td><a href="https://librivox.org/reader/6065">David Olson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 189 </td>
+								<td><a href="" class="chapter-name">The Nannygoat</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 190 </td>
+								<td><a href="" class="chapter-name">The Bracelets</a></td>
+								
+								<td><a href="https://librivox.org/reader/7138">CaprishaPage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 191 </td>
+								<td><a href="" class="chapter-name">The Mother</a></td>
+								
+								<td><a href="https://librivox.org/reader/7315">Charlotte Duckett</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 192 </td>
+								<td><a href="" class="chapter-name">Buck Mulligan</a></td>
+								
+								<td><a href="https://librivox.org/reader/4705">Algy Pug</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 193 </td>
+								<td><a href="" class="chapter-name">The Choir</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 194 </td>
+								<td><a href="" class="chapter-name">Father Dolan</a></td>
+								
+								<td><a href="https://librivox.org/reader/6065">David Olson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 195 </td>
+								<td><a href="" class="chapter-name">Don John Conmee</a></td>
+								
+								<td><a href="https://librivox.org/reader/7848">bala</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 196 </td>
+								<td><a href="" class="chapter-name">Black Liz</a></td>
+								
+								<td><a href="https://librivox.org/reader/5424">Julia Niedermaier</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 197 </td>
+								<td><a href="" class="chapter-name">The Boots</a></td>
+								
+								<td><a href="https://librivox.org/reader/7608">rookieblue</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 198 </td>
+								<td><a href="" class="chapter-name">Boylan / Boylan's Voice</a></td>
+								
+								<td><a href="https://librivox.org/reader/152">Andy Minter (1934-2017)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 199 </td>
+								<td><a href="" class="chapter-name">Mina Kennedy</a></td>
+								
+								<td><a href="https://librivox.org/reader/3698">Nadine Eckert-Boulet</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 200 </td>
+								<td><a href="" class="chapter-name">Lydia Douce</a></td>
+								
+								<td><a href="https://librivox.org/reader/4174">Availle</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 201 </td>
+								<td><a href="" class="chapter-name">Shakespeare</a></td>
+								
+								<td><a href="https://librivox.org/reader/7448">Kevin Johnson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 202 </td>
+								<td><a href="" class="chapter-name">Freddy</a></td>
+								
+								<td><a href="https://librivox.org/reader/7679">Libby Gohn</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 203 </td>
+								<td><a href="" class="chapter-name">Susy</a></td>
+								
+								<td><a href="https://librivox.org/reader/4744">Amy Gramour</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 204 </td>
+								<td><a href="" class="chapter-name">Mrs Cunningham</a></td>
+								
+								<td><a href="https://librivox.org/reader/7171">April Gonzales</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 205 </td>
+								<td><a href="" class="chapter-name">Martin Cunningham</a></td>
+								
+								<td><a href="https://librivox.org/reader/8291">Elliot Gage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 206 </td>
+								<td><a href="" class="chapter-name">Simon</a></td>
+								
+								<td><a href="https://librivox.org/reader/8169">tovarisch</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 207 </td>
+								<td><a href="" class="chapter-name">The Crowd</a></td>
+								
+								<td><a href="https://librivox.org/reader/6754">ToddHW</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 208 </td>
+								<td><a href="" class="chapter-name">The Orange Lodges</a></td>
+								
+								<td><a href="https://librivox.org/reader/3157">TriciaG</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 209 </td>
+								<td><a href="" class="chapter-name">Garrett Deasy</a></td>
+								
+								<td><a href="https://librivox.org/reader/7641">Moromis</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 210 </td>
+								<td><a href="" class="chapter-name">The Green Lodges</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 211 </td>
+								<td><a href="" class="chapter-name">Maginni</a></td>
+								
+								<td><a href="https://librivox.org/reader/7599">Kevinc</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 212 </td>
+								<td><a href="" class="chapter-name">The Pianola</a></td>
+								
+								<td><a href="https://librivox.org/reader/6893">hikarudream</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 213 </td>
+								<td><a href="" class="chapter-name">Hours</a></td>
+								
+								<td><a href="https://librivox.org/reader/6788">Pamela Krantz</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 214 </td>
+								<td><a href="" class="chapter-name">Cavaliers</a></td>
+								
+								<td><a href="https://librivox.org/reader/8186">Brendan MacKenzie</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 215 </td>
+								<td><a href="" class="chapter-name">A Hag</a></td>
+								
+								<td><a href="https://librivox.org/reader/4174">Availle</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 216 </td>
+								<td><a href="" class="chapter-name">The Horse (neighing)</a></td>
+								
+								<td><a href="https://librivox.org/reader/5424">Julia Niedermaier</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 217 </td>
+								<td><a href="" class="chapter-name">Corny Kelleher</a></td>
+								
+								<td><a href="https://librivox.org/reader/8186">Brendan MacKenzie</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 218 </td>
+								<td><a href="" class="chapter-name">A Man</a></td>
+								
+								<td><a href="https://librivox.org/reader/152">Andy Minter (1934-2017)</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 219 </td>
+								<td><a href="" class="chapter-name">The Hue and Cry</a></td>
+								
+								<td><a href="https://librivox.org/reader/7138">CaprishaPage</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 220 </td>
+								<td><a href="" class="chapter-name">Lord Tennyson</a></td>
+								
+								<td><a href="https://librivox.org/reader/7848">bala</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 221 </td>
+								<td><a href="" class="chapter-name">Dolly Gray</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 222 </td>
+								<td><a href="" class="chapter-name">Biddy the Clap</a></td>
+								
+								<td><a href="https://librivox.org/reader/7315">Charlotte Duckett</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 223 </td>
+								<td><a href="" class="chapter-name">Cunty Kate</a></td>
+								
+								<td><a href="https://librivox.org/reader/1259">Elizabeth Klett</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 224 </td>
+								<td><a href="" class="chapter-name">Edward the Seventh</a></td>
+								
+								<td><a href="https://librivox.org/reader/7848">bala</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 225 </td>
+								<td><a href="" class="chapter-name">Kevin Egan</a></td>
+								
+								<td><a href="https://librivox.org/reader/7448">Kevin Johnson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 226 </td>
+								<td><a href="" class="chapter-name">Patrice</a></td>
+								
+								<td><a href="https://librivox.org/reader/7079">Chuck Williamson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 227 </td>
+								<td><a href="" class="chapter-name">Don Emile Patrizio</a></td>
+								
+								<td><a href="https://librivox.org/reader/8169">tovarisch</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 228 </td>
+								<td><a href="" class="chapter-name">A Rough</a></td>
+								
+								<td><a href="https://librivox.org/reader/1724">Anna Simon</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 229 </td>
+								<td><a href="" class="chapter-name">The Croppy Boy</a></td>
+								
+								<td><a href="https://librivox.org/reader/6893">hikarudream</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 230 </td>
+								<td><a href="" class="chapter-name">Old Gummy Granny</a></td>
+								
+								<td><a href="https://librivox.org/reader/3698">Nadine Eckert-Boulet</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 231 </td>
+								<td><a href="" class="chapter-name">Major Tweedy</a></td>
+								
+								<td><a href="https://librivox.org/reader/6065">David Olson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 232 </td>
+								<td><a href="" class="chapter-name">Father Malachi O'Flynn</a></td>
+								
+								<td><a href="https://librivox.org/reader/7712">David Stephenson</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 233 </td>
+								<td><a href="" class="chapter-name">The Rev Mr Haines Love</a></td>
+								
+								<td><a href="https://librivox.org/reader/4788">Bill Boerst</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 234 </td>
+								<td><a href="" class="chapter-name">The Voice of All the Damned</a></td>
+								
+								<td><a href="https://librivox.org/reader/4744">Amy Gramour</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 235 </td>
+								<td><a href="" class="chapter-name">Adonai</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 236 </td>
+								<td><a href="" class="chapter-name">The Voice of All the Blessed</a></td>
+								
+								<td><a href="https://librivox.org/reader/4744">Amy Gramour</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+							
+							<tr>
+								<td><a href="" class="play-btn">Play</a> 237 </td>
+								<td><a href="" class="chapter-name">The Retriever (barking)</a></td>
+								
+								<td><a href="https://librivox.org/reader/1066">Laurie Anne Walden</a><br/></td>
+								<td>00:00:00</td>
+
+															</tr>
+
+						
+					</tbody>
+				</table>
+	
+
+</div><!-- end .page -->
+</div><!-- end .main-content -->
+
+
+	<footer class="footer-wrap">
+		<div class="footer">
+		
+		   
+			
+			<p class="license clear"><a href="#"><img src="https://librivox.org/images/public-domain-license.gif" alt="public-domain-license" width="88" height="31" /></a></p>
+		</div><!-- end .footer-wrap -->	
+	</footer>
+    <!--[if lte IE 9]>	
+	    <script type="text/javascript" src="https://librivox.org/js/catalog/jquery.columnizer.js"></script>
+     <![endif]-->
+
+
+
+<script type="text/javascript">
+
+	function get_search_page_from_url() {
+		var query_string = window.location.href.slice(
+			window.location.href.indexOf('?')
+		);
+
+		if (typeof URLSearchParams !== 'function') {
+			// Manual parsing is annoying and most browsers support URLSearchParams
+			return 1;
+		}
+
+		var query_params = new URLSearchParams(query_string);
+		var search_page_param = parseInt(query_params.get('search_page'));
+		if (typeof search_page_param === 'number' && search_page_param > 0) {
+			return search_page_param;
+		} else {
+			return 1;
+		}
+	}
+
+	var search_category = "page";
+
+	var sub_category;
+
+	var advanced_search = 0;
+
+	var primary_key = 0;
+
+	var search_page = get_search_page_from_url();
+	set_advanced_form_page(search_page);
+
+	var search_order = $('.js-sort-menu').val() || 'alpha';
+
+	var project_type = 'either';
+
+	var q = "";
+
+	var spinner = '<div class="loading_img" style="margin-left:300px;margin-top:60px;"><img src="../../img/loading.gif"/></div>';
+
+	$('.browse-header').hide();
+
+	var pathArray = window.location.pathname.split('/');
+
+	var current_page = pathArray[1]; 
+
+	if (q !== '')
+	{
+		advanced_search = 0;
+		$('.advanced-search-inner').hide('slow');
+		librivox_search();
+	}
+	else if (advanced_search === 1)
+	{
+		advanced_search_actions();
+	}
+	else if (advanced_search === 2)
+	{
+		advanced_form_submit();
+	}
+	else if (advanced_search === 3)
+	{
+		//may be able to combine with below
+		$('.advanced-search-inner').hide();
+		get_results(search_category, search_page, sub_category, primary_key);
+	}
+	else
+	{	
+		//only on loading search page
+		if (current_page === 'search')
+		{
+			var item = $('.js-menu_item[data-menu_item="'+search_category+'"]');
+			load_search_data(item, search_category);
+		}
+		else if (jQuery.inArray(current_page, ['author', 'reader', 'group', 'keywords']) > -1)
+		{
+			get_results(current_page, search_page, sub_category, primary_key);
+		}
+
+	}	
+	advanced_search = 0; // it's done its job
+
+
+	// do better 
+	$('#sort_type').hide();
+	if (search_category === 'title' ||  search_category === 'reader')
+	{
+		$('#sort_type').show();
+	}	
+
+	$('#sort_menu').hide();
+	if (search_category === 'title' || (primary_key > 0))
+	{
+		$('#sort_menu').show();
+	}	
+
+
+	// Manage menus
+	$('.js-menu_item').on('click', function(e){
+
+		search_category = $(this).attr('data-menu_item');
+
+		primary_key = 0;
+
+		if (current_page !== 'search')
+		{
+			window.location.href = CI_ROOT + 'search/' + search_category;
+			return;
+		}	
+
+		e.preventDefault();
+
+		$('.advanced-search-inner').hide('slow');
+		$('#sidebar_wrapper').show();
+
+		$('#sort_menu').hide();
+		if (search_category === 'title' || (primary_key > 0))
+		{
+			$('#sort_menu').show();
+		}	
+
+		q = '';
+		$('#q').val('');		
+		
+		load_search_data($(this), $(this).attr('data-menu_item'));
+
+	});
+
+	$('.js-title-submenu').on('click', function(e){
+		e.preventDefault();
+		$('.js-title-submenu a').removeClass('selected');
+		$(this).children('a').addClass('selected');
+
+		project_type = $(this).attr('data-submenu');
+
+		set_advanced_form_page(1); //this is a new search, so reset
+
+		get_results(search_category, search_page, sub_category, primary_key);
+	});
+
+	$('.js-sort-menu').on('change', function(){
+		search_order = $(this).val();
+		get_results(search_category, search_page, sub_category, primary_key);
+
+	});
+
+
+	function load_search_data(item, label)
+	{
+		$('.js-menu_item a').removeClass('active').removeClass('current-page');
+
+		item.children('a').addClass('active').addClass('current-page');
+
+		//console.log(item.attr('data-menu_item'));
+
+		//global
+		search_order = 'alpha';
+		if (item.attr('data-menu_item') == 'title')
+		{
+			search_order = 'catalog_date';
+		}
+
+		$('.js-sort-menu').val(search_order);		
+
+		get_results(search_category, 1);
+
+		set_browse_header(label);
+
+	}
+
+
+	function set_browse_header(label)
+	{
+		label = label.charAt(0).toUpperCase() + label.slice(1);
+		var text = 'Browsing <span>'+ label +'</span>';
+		$('.browse-header').html(text).show();
+		$('.browse-header-wrap').show();
+	}
+
+
+	function get_results(search_category, search_page, sub_category, primary_key)
+	{
+	    sub_category 	= typeof sub_category !== 'undefined' ? sub_category : '';
+	    primary_key 	= typeof primary_key !== 'undefined' ? primary_key : 0;
+	    search_order 	= typeof search_order !== 'undefined' ? search_order : 'alpha';
+	    project_type 	= typeof project_type !== 'undefined' ? project_type : 'either';
+
+		var params = { 'primary_key': primary_key, 'search_category':search_category, 'sub_category': sub_category ,'search_page':search_page, 'search_order': search_order, 'project_type': project_type} ;
+
+		if (history.pushState && current_page == 'search') {
+			history.pushState(null, location.textContent, location.href);
+			history.replaceState(null, null, "https://librivox.org/search");
+		}
+
+		$.ajax({
+		  	url: CI_ROOT + current_page + '/get_results' ,
+		  	type: 'get', //yes, get...we want these all to work through the browser addressbar as well, now
+		  	data: { 'primary_key': primary_key, 'search_category':search_category, 'sub_category': sub_category ,'search_page':search_page, 'search_order': search_order, 'project_type': project_type},
+		  	beforeSend: function(){
+		  		$('.browse-list').html(spinner);
+		  		$('.page-number-nav').html('');
+		  	}, 		  	
+	      	complete: function(r){
+				var response_obj = jQuery.parseJSON(r.responseText);
+
+				$('.browse-list').html('');
+
+				if (response_obj.status == 'SUCCESS')
+				{				
+
+			  		$('#sort_menu').hide();
+			  		$('#sort_type').hide();
+
+
+					if ((response_obj.results != 'No results') && (search_category != 'group') && (search_category == 'title' || (primary_key > 0)))
+					{
+						$('#sort_menu').show();	
+						$('#sort_type').show();				
+					}
+
+					$('.browse-list').html(response_obj.results);
+					$('.page-number-nav').html(response_obj.pagination);
+				}
+
+				if (history.pushState) {
+					history.pushState(null, location.textContent, location.href);
+
+					history.replaceState(null, null, "?primary_key=" + primary_key + '&search_category=' + search_category + '&search_page=' + search_page + '&search_form=get_results&search_order=' + search_order);
+					
+				}
+
+
+			}
+		});		
+	}
+
+
+	/* Advanced search form function  */
+
+	$('#advanced_search_form_submit').on('click', function(e){
+		e.preventDefault();
+
+		set_advanced_form_page(1); //this is a new search, so reset
+
+		advanced_form_submit();
+	});
+
+	function set_advanced_form_page(new_page)
+	{
+		search_page = new_page;
+		$('#search_page').val(new_page);
+	}
+
+	function advanced_form_submit()
+	{
+		$('.advanced-search-inner').hide('slow');
+
+		$('#sort_type').hide();
+		//console.log('hidden');	
+
+		q = '';
+		$('#q').val('');
+
+		get_advanced_results();
+
+		$('#sidebar_wrapper').show();		
+	}
+
+	function get_advanced_results()
+	{
+
+		$.ajax({
+		  	url: CI_ROOT  + 'advanced_search',
+		  	type: 'get',
+		  	data: $('#advanced_search_form').serialize() + '&q=' + encodeURIComponent(q),
+		  	beforeSend: function(){
+		  		$('.browse-list').html(spinner);
+		  		$('.page-number-nav').html('');
+		  	}, 
+	      	complete: function(r){
+				var response_obj = jQuery.parseJSON(r.responseText);
+
+				$('.browse-list').html(''); //clear the spinner, success or no
+				
+				//console.log(response_obj.status);
+
+		  		$('#sort_menu').hide();
+		  		$('#sort_type').hide();
+
+				if (response_obj.status == 'SUCCESS')
+				{					
+					$('.browse-list').html(response_obj.results);
+					$('.page-number-nav').html(response_obj.pagination);
+										
+					if (search_category == 'title' || (primary_key > 0))
+					{
+						$('#sort_menu').show();
+					}	
+				}
+
+
+				if (history.pushState) {
+					history.pushState(null, location.textContent, location.href);
+
+					if (q != '')
+					{
+						history.replaceState(null, null, "?q=" + q + '&search_form=advanced');
+					}	
+					else
+					{
+						history.replaceState(null, null, "?" + $('#advanced_search_form').serialize());
+					}	
+					
+				}
+
+			}
+		});
+	}	
+
+
+	$('.js-truncated-keywords').on('click', function(e){
+
+		e.preventDefault();
+		$('.secondary_keywords_string').show();
+		$('.primary_keywords_string').hide();
+		return false;	
+
+	});
+
+	$('.js-advanced-search').on('click', function(e){
+
+		// TODO: make toggle
+
+		if (current_page != 'search') 
+		{
+			window.location.href = CI_ROOT + 'search/' + 'advanced_search';
+		}
+
+
+		e.preventDefault();
+		advanced_search_actions();
+		return false;	
+
+	});
+	
+
+	function advanced_search_actions()
+	{
+
+		$('.browse-header').html('');
+		$('.browse-list').html('');			
+		$('.page-number-nav').html('');
+		$('#sidebar_wrapper').hide();
+		$('#sort_menu').hide();
+
+		$('.advanced-search-inner').show('slow');
+
+	}
+
+
+	/* end Advanced Search Form*/
+
+	/* Librivox search form */
+
+	$('#searchsubmit').on('click', function(e){
+		e.preventDefault();
+
+		//console.log(current_page);
+
+		q = $('#q').val();
+
+		if (current_page != 'search') 
+		{
+			window.location.href = CI_ROOT + 'search?search_form=get_results&q=' + encodeURIComponent(q);
+			return;
+		}
+
+		set_advanced_form_page(1); // This is a new search, so reset
+		librivox_search();
+
+		$('#sidebar_wrapper').show();
+		$('.advanced-search-inner').hide('slow');
+
+	});
+
+
+	function librivox_search()
+	{
+		search_order = 'alpha';
+
+		$('#advanced_search_form #sort_order').val('alpha'); // the code eventually serializes the form, so we need to set it to alpha here
+
+		$('.browse-header-wrap').hide();
+
+		get_advanced_results();
+	}
+
+
+	/* end Librivox search form*/
+
+
+	$(document).on('click', '.page-number', function(e)
+	{
+		e.preventDefault();
+		search_page = $(this).attr('data-page_number');
+		var call_function = $(this).attr('data-call_function');
+
+		if (call_function == 'get_advanced_results')
+		{
+			$('#search_page').val(search_page); //set it for the form.serialize()
+			get_advanced_results();
+		}
+		else
+		{
+			get_results(search_category, search_page, sub_category, primary_key);
+		}	
+		
+		return false;
+	});
+
+	$(document).on('click', '.js-sublink', function(e)
+	{
+		e.preventDefault();
+		sub_category = $(this).attr('data-sub_category');
+		primary_key = $(this).attr('data-primary_key');
+
+		set_advanced_form_page(1); //this is a new search, so reset
+
+		if (search_category == 'title' || (primary_key > 0))
+		{
+			$('#sort_menu').show();
+		}
+
+		var label = $(this).text();
+
+		set_browse_header(label);
+
+		get_results(search_category, search_page, sub_category, primary_key);
+
+		return false;
+
+	});	
+
+	//reader sections
+
+	$('.data_tab').on('click', function(){
+		$('.data_tab').removeClass('selected');
+		$(this).addClass('selected');
+
+		$('.tab-pane').removeClass('selected').hide();
+
+		var active_pane = $(this).attr('data-tab');
+		$('#'+ active_pane ).show();
+
+		return false;
+	});
+
+
+</script>

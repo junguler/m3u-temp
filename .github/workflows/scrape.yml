@@ -11,9 +11,8 @@ jobs:
       - name: run commands
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet
-          #for i in $(cat links.txt) ; do curl -s https://librivox.org/$i/ > mep1 ; logo=$(./htmlq -a src 'body > div > div.page.book-page > div > div > img' < mep1) ; cat mep1 | ./htmlq 'tr' | awk -v logo="$logo" 'BEGIN{RS="</tr>"; FS="\n"; print "#EXTM3U"} {chapter=reader=link=duration=duration_str=""; for(i=1;i<=NF;i++){ if($i~/"chapter-name"/){match($i,/>[^<]+</,a); chapter=substr(a[0],2,length(a[0])-2); gsub(/,/, "-", chapter); gsub(/"/, "", chapter); match($i,/href="([^"]+)"/,l); link=l[1]} if($i~/reader/){match($i,/>[^<]+</,r); reader=substr(r[0],2,length(r[0])-2); gsub(/,/, "-", reader); gsub(/"/, "", reader)} if($i~/[0-9]{2}:[0-9]{2}:[0-9]{2}/){match($i,/([0-9]{2}):([0-9]{2}):([0-9]{2})/,t); duration=t[1]*3600+t[2]*60+t[3]; duration_str=sprintf("%02d:%02d:%02d", t[1], t[2], t[3])} } if(chapter&&reader&&link&&duration){ print "#EXTINF:" duration " tvg-logo=\"" logo "\"," chapter " - Read by " reader " - Duration " duration_str; print link } }' > $i.m3u ; echo $i ; done
-          #rm mep1
-          echo " "
+          for i in $(cat links.txt) ; do curl -s https://librivox.org/$i/ > mep1 ; logo=$(./htmlq -a src 'body > div > div.page.book-page > div > div > img' < mep1) ; cat mep1 | ./htmlq 'tr' | awk -v logo="$logo" 'BEGIN{RS="</tr>"; FS="\n"; print "#EXTM3U"} {chapter=reader=link=duration=duration_str=""; for(i=1;i<=NF;i++){ if($i~/"chapter-name"/){match($i,/>[^<]+</,a); chapter=substr(a[0],2,length(a[0])-2); gsub(/,/, "-", chapter); gsub(/"/, "", chapter); match($i,/href="([^"]+)"/,l); link=l[1]} if($i~/reader/){match($i,/>[^<]+</,r); reader=substr(r[0],2,length(r[0])-2); gsub(/,/, "-", reader); gsub(/"/, "", reader)} if($i~/[0-9]{2}:[0-9]{2}:[0-9]{2}/){match($i,/([0-9]{2}):([0-9]{2}):([0-9]{2})/,t); duration=t[1]*3600+t[2]*60+t[3]; duration_str=sprintf("%02d:%02d:%02d", t[1], t[2], t[3])} } if(chapter&&reader&&link&&duration){ print "#EXTINF:" duration " tvg-logo=\"" logo "\"," chapter " - Read by " reader " - Duration " duration_str; print link } }' > $i.m3u ; echo $i ; done
+          rm mep1
 
       - name: git stuff
         run: |

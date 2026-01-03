@@ -31,6 +31,23 @@ const genres = [
   { name: "Children's Non-fiction - Science", primaryKey: "51", completed: 49 },
   { name: "Children's Non-fiction - History", primaryKey: "144", completed: 59 },
   { name: "Children's Non-fiction - Biography", primaryKey: "145", completed: 50 },
+  { name: "Action & Adventure Fiction", primaryKey: "3", completed: 937 },
+  { name: "Classics (Greek & Latin Antiquity)", primaryKey: "4", completed: 326 },
+  { name: "Crime & Mystery Fiction", primaryKey: "5", completed: 429 },
+  { name: "Crime & Mystery Fiction - Detective Fiction", primaryKey: "22", completed: 554 },
+  { name: "Culture & Heritage Fiction", primaryKey: "6", completed: 309 },
+  { name: "Dramatic Readings", primaryKey: "7", completed: 228 },
+  { name: "Epistolary Fiction", primaryKey: "8", completed: 84 },
+  { name: "Erotica", primaryKey: "9", completed: 37 },
+  { name: "Travel Fiction", primaryKey: "10", completed: 85 },
+  { name: "Family Life", primaryKey: "12", completed: 243 },
+  { name: "Fantastic Fiction", primaryKey: "13", completed: 255 },
+  { name: "Fantastic Fiction - Myths, Legends & Fairy Tales", primaryKey: "11", completed: 478 },
+  { name: "Fantastic Fiction - Horror & Supernatural Fiction", primaryKey: "16", completed: 507 },
+  { name: "Fantastic Fiction - Gothic Fiction", primaryKey: "17", completed: 83 },
+  { name: "Fantastic Fiction - Science Fiction", primaryKey: "30", completed: 844 },
+  { name: "Fantastic Fiction - Fantasy Fiction", primaryKey: "55", completed: 211 },
+  { name: "Fictional Biographies & Memoirs", primaryKey: "14", completed: 153 },
   { name: "Asian Antiquity", primaryKey: "146", completed: 30 }
 ];
 

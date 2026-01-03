@@ -15,7 +15,7 @@ jobs:
           #for i in *.m3u ; do dir=$(echo $i | cut -c 1 -) ; mkdir -p $dir ; cp $i $dir ; echo $i ; done
           npm install playwright
           npx playwright install chromium
-          node ./genres.js
+          node ./languages.js
 
       - name: git stuff
         run: |

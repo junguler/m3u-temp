@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-03T17:03:10.627Z",
-  "duration": "30.59 minutes",
-  "totalLanguages": 87,
-  "completedLanguages": 87,
-  "totalSlugsCollected": 3267,
+  "timestamp": "2026-01-03T21:47:25.456Z",
+  "duration": "266.33 minutes",
+  "totalLanguages": 1,
+  "completedLanguages": 88,
+  "totalSlugsCollected": 16365,
   "excludedPatterns": [
     "author"
   ],
@@ -616,6 +616,13 @@
       "expected": 21,
       "found": 14,
       "file": "Yiddish.txt"
+    },
+    {
+      "language": "English",
+      "primaryKey": "1",
+      "expected": 41458,
+      "found": 16365,
+      "file": "English.txt"
     }
   ]
 }

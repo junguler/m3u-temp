@@ -86,7 +86,8 @@
     "89",
     "64",
     "71",
-    "65"
+    "65",
+    "1"
   ],
   "results": [
     {
@@ -697,6 +698,13 @@
       "expected": 21,
       "found": 14,
       "file": "Yiddish.txt"
+    },
+    {
+      "language": "English",
+      "primaryKey": "1",
+      "expected": 41458,
+      "found": 16365,
+      "file": "English.txt"
     }
   ]
 }

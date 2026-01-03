@@ -10,12 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          #node ./m3u-checker.js test_input/ test_output/ --quiet
-          #for file in *.m3u; do [ -e "$file" ] || continue; author=$(basename "$file" .m3u | sed 's/.*-by-//'); folder=$(echo "$author" | tr '-' '_' | awk -F'_' '{for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) tolower(substr($i,2))}1' OFS='_'); mkdir -p "$folder"; cp "$file" "$folder/"; echo "Copied $file -> $folder/"; done
-          #for i in *.m3u ; do dir=$(echo $i | cut -c 1 -) ; mkdir -p $dir ; cp $i $dir ; echo $i ; done
-          npm install playwright
-          npx playwright install chromium
-          node ./languages.js
+          node ./m3u-checker.js test_input/ test_output/ --quiet
 
       - name: git stuff
         run: |

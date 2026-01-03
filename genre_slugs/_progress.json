@@ -1,0 +1,62 @@
+{
+  "completedGenres": [
+    "1",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+  ],
+  "results": [
+    {
+      "genre": "Children's Fiction",
+      "primaryKey": "1",
+      "expected": 585,
+      "found": 501,
+      "file": "Children's_Fiction.txt"
+    },
+    {
+      "genre": "Children's Fiction - Action & Adventure",
+      "primaryKey": "37",
+      "expected": 516,
+      "found": 507,
+      "file": "Children's_Fiction-Action_&_Adventure.txt"
+    },
+    {
+      "genre": "Children's Fiction - Animals & Nature",
+      "primaryKey": "38",
+      "expected": 402,
+      "found": 403,
+      "file": "Children's_Fiction-Animals_&_Nature.txt"
+    },
+    {
+      "genre": "Children's Fiction - Myths, Legends & Fairy Tales",
+      "primaryKey": "39",
+      "expected": 506,
+      "found": 292,
+      "file": "Children's_Fiction-Myths,_Legends_&_Fairy_Tales.txt"
+    },
+    {
+      "genre": "Children's Fiction - Family",
+      "primaryKey": "40",
+      "expected": 214,
+      "found": 214,
+      "file": "Children's_Fiction-Family.txt"
+    },
+    {
+      "genre": "Children's Fiction - General",
+      "primaryKey": "41",
+      "expected": 161,
+      "found": 162,
+      "file": "Children's_Fiction-General.txt"
+    },
+    {
+      "genre": "Children's Fiction - Historical",
+      "primaryKey": "42",
+      "expected": 83,
+      "found": 83,
+      "file": "Children's_Fiction-Historical.txt"
+    }
+  ]
+}

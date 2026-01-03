@@ -1,0 +1,152 @@
+{
+  "timestamp": "2026-01-03T02:49:11.032Z",
+  "duration": "3.33 minutes",
+  "totalGenres": 20,
+  "completedGenres": 20,
+  "totalSlugsCollected": 2769,
+  "excludedPatterns": [
+    "author"
+  ],
+  "results": [
+    {
+      "genre": "Children's Fiction",
+      "primaryKey": "1",
+      "expected": 585,
+      "found": 501,
+      "file": "Children's_Fiction.txt"
+    },
+    {
+      "genre": "Children's Fiction - Action & Adventure",
+      "primaryKey": "37",
+      "expected": 516,
+      "found": 507,
+      "file": "Children's_Fiction-Action_&_Adventure.txt"
+    },
+    {
+      "genre": "Children's Fiction - Animals & Nature",
+      "primaryKey": "38",
+      "expected": 402,
+      "found": 403,
+      "file": "Children's_Fiction-Animals_&_Nature.txt"
+    },
+    {
+      "genre": "Children's Fiction - Myths, Legends & Fairy Tales",
+      "primaryKey": "39",
+      "expected": 506,
+      "found": 292,
+      "file": "Children's_Fiction-Myths,_Legends_&_Fairy_Tales.txt"
+    },
+    {
+      "genre": "Children's Fiction - Family",
+      "primaryKey": "40",
+      "expected": 214,
+      "found": 214,
+      "file": "Children's_Fiction-Family.txt"
+    },
+    {
+      "genre": "Children's Fiction - General",
+      "primaryKey": "41",
+      "expected": 161,
+      "found": 162,
+      "file": "Children's_Fiction-General.txt"
+    },
+    {
+      "genre": "Children's Fiction - Historical",
+      "primaryKey": "42",
+      "expected": 83,
+      "found": 83,
+      "file": "Children's_Fiction-Historical.txt"
+    },
+    {
+      "genre": "Children's Fiction - Poetry",
+      "primaryKey": "43",
+      "expected": 93,
+      "found": 65,
+      "file": "Children's_Fiction-Poetry.txt"
+    },
+    {
+      "genre": "Children's Fiction - Religion",
+      "primaryKey": "44",
+      "expected": 100,
+      "found": 55,
+      "file": "Children's_Fiction-Religion.txt"
+    },
+    {
+      "genre": "Children's Fiction - School",
+      "primaryKey": "45",
+      "expected": 61,
+      "found": 62,
+      "file": "Children's_Fiction-School.txt"
+    },
+    {
+      "genre": "Children's Fiction - Short works",
+      "primaryKey": "46",
+      "expected": 161,
+      "found": 80,
+      "file": "Children's_Fiction-Short_works.txt"
+    },
+    {
+      "genre": "Children's Non-fiction",
+      "primaryKey": "2",
+      "expected": 64,
+      "found": 60,
+      "file": "Children's_Non-fiction.txt"
+    },
+    {
+      "genre": "Children's Non-fiction - Arts",
+      "primaryKey": "47",
+      "expected": 5,
+      "found": 5,
+      "file": "Children's_Non-fiction-Arts.txt"
+    },
+    {
+      "genre": "Children's Non-fiction - General",
+      "primaryKey": "48",
+      "expected": 68,
+      "found": 69,
+      "file": "Children's_Non-fiction-General.txt"
+    },
+    {
+      "genre": "Children's Non-fiction - Reference",
+      "primaryKey": "49",
+      "expected": 17,
+      "found": 17,
+      "file": "Children's_Non-fiction-Reference.txt"
+    },
+    {
+      "genre": "Children's Non-fiction - Religion",
+      "primaryKey": "50",
+      "expected": 62,
+      "found": 34,
+      "file": "Children's_Non-fiction-Religion.txt"
+    },
+    {
+      "genre": "Children's Non-fiction - Science",
+      "primaryKey": "51",
+      "expected": 49,
+      "found": 49,
+      "file": "Children's_Non-fiction-Science.txt"
+    },
+    {
+      "genre": "Children's Non-fiction - History",
+      "primaryKey": "144",
+      "expected": 59,
+      "found": 59,
+      "file": "Children's_Non-fiction-History.txt"
+    },
+    {
+      "genre": "Children's Non-fiction - Biography",
+      "primaryKey": "145",
+      "expected": 50,
+      "found": 50,
+      "file": "Children's_Non-fiction-Biography.txt"
+    },
+    {
+      "genre": "Asian Antiquity",
+      "primaryKey": "146",
+      "expected": 30,
+      "found": 2,
+      "file": "Asian_Antiquity.txt"
+    }
+  ]
+}

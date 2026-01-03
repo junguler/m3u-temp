@@ -12,7 +12,7 @@ const SAVE_EVERY_N_PAGES = 5;
 
 // Language data extracted from your HTML (excluding languages with 0 completed books)
 const languages = [
-  { name: "English", primaryKey: "1", completed: 41458 },
+  // { name: "English", primaryKey: "1", completed: 41458 },
   { name: "French", primaryKey: "2", completed: 1038 },
   { name: "German", primaryKey: "3", completed: 3123 },
   { name: "Italian", primaryKey: "4", completed: 287 },

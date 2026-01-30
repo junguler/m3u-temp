@@ -1,0 +1,459 @@
+Script started on 2026-01-30 23:52:00+03:30 [COMMAND="git pull" TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="142" LINES="13"]
+remote: Enumerating objects: 210, done.[K
+remote: Counting objects:   0% (1/210)[Kremote: Counting objects:   1% (3/210)[Kremote: Counting objects:   2% (5/210)[Kremote: Counting objects:   3% (7/210)[Kremote: Counting objects:   4% (9/210)[Kremote: Counting objects:   5% (11/210)[Kremote: Counting objects:   6% (13/210)[Kremote: Counting objects:   7% (15/210)[Kremote: Counting objects:   8% (17/210)[Kremote: Counting objects:   9% (19/210)[Kremote: Counting objects:  10% (21/210)[Kremote: Counting objects:  11% (24/210)[Kremote: Counting objects:  12% (26/210)[Kremote: Counting objects:  13% (28/210)[Kremote: Counting objects:  14% (30/210)[Kremote: Counting objects:  15% (32/210)[Kremote: Counting objects:  16% (34/210)[Kremote: Counting objects:  17% (36/210)[Kremote: Counting objects:  18% (38/210)[Kremote: Counting objects:  19% (40/210)[Kremote: Counting objects:  20% (42/210)[Kremote: Counting objects:  21% (45/210)[Kremote: Counting objects:  22% (47/210)[Kremote: Counting objects:  23% (49/210)[Kremote: Counting objects:  24% (51/210)[Kremote: Counting objects:  25% (53/210)[Kremote: Counting objects:  26% (55/210)[Kremote: Counting objects:  27% (57/210)[Kremote: Counting objects:  28% (59/210)[Kremote: Counting objects:  29% (61/210)[Kremote: Counting objects:  30% (63/210)[Kremote: Counting objects:  31% (66/210)[Kremote: Counting objects:  32% (68/210)[Kremote: Counting objects:  33% (70/210)[Kremote: Counting objects:  34% (72/210)[Kremote: Counting objects:  35% (74/210)[Kremote: Counting objects:  36% (76/210)[Kremote: Counting objects:  37% (78/210)[Kremote: Counting objects:  38% (80/210)[Kremote: Counting objects:  39% (82/210)[Kremote: Counting objects:  40% (84/210)[Kremote: Counting objects:  41% (87/210)[Kremote: Counting objects:  42% (89/210)[Kremote: Counting objects:  43% (91/210)[Kremote: Counting objects:  44% (93/210)[Kremote: Counting objects:  45% (95/210)[Kremote: Counting objects:  46% (97/210)[Kremote: Counting objects:  47% (99/210)[Kremote: Counting objects:  48% (101/210)[Kremote: Counting objects:  49% (103/210)[Kremote: Counting objects:  50% (105/210)[Kremote: Counting objects:  51% (108/210)[Kremote: Counting objects:  52% (110/210)[Kremote: Counting objects:  53% (112/210)[Kremote: Counting objects:  54% (114/210)[Kremote: Counting objects:  55% (116/210)[Kremote: Counting objects:  56% (118/210)[Kremote: Counting objects:  57% (120/210)[Kremote: Counting objects:  58% (122/210)[Kremote: Counting objects:  59% (124/210)[Kremote: Counting objects:  60% (126/210)[Kremote: Counting objects:  61% (129/210)[Kremote: Counting objects:  62% (131/210)[Kremote: Counting objects:  63% (133/210)[Kremote: Counting objects:  64% (135/210)[Kremote: Counting objects:  65% (137/210)[Kremote: Counting objects:  66% (139/210)[Kremote: Counting objects:  67% (141/210)[Kremote: Counting objects:  68% (143/210)[Kremote: Counting objects:  69% (145/210)[Kremote: Counting objects:  70% (147/210)[Kremote: Counting objects:  71% (150/210)[Kremote: Counting objects:  72% (152/210)[Kremote: Counting objects:  73% (154/210)[Kremote: Counting objects:  74% (156/210)[Kremote: Counting objects:  75% (158/210)[Kremote: Counting objects:  76% (160/210)[Kremote: Counting objects:  77% (162/210)[Kremote: Counting objects:  78% (164/210)[Kremote: Counting objects:  79% (166/210)[Kremote: Counting objects:  80% (168/210)[Kremote: Counting objects:  81% (171/210)[Kremote: Counting objects:  82% (173/210)[Kremote: Counting objects:  83% (175/210)[Kremote: Counting objects:  84% (177/210)[Kremote: Counting objects:  85% (179/210)[Kremote: Counting objects:  86% (181/210)[Kremote: Counting objects:  87% (183/210)[Kremote: Counting objects:  88% (185/210)[Kremote: Counting objects:  89% (187/210)[Kremote: Counting objects:  90% (189/210)[Kremote: Counting objects:  91% (192/210)[Kremote: Counting objects:  92% (194/210)[Kremote: Counting objects:  93% (196/210)[Kremote: Counting objects:  94% (198/210)[Kremote: Counting objects:  95% (200/210)[Kremote: Counting objects:  96% (202/210)[Kremote: Counting objects:  97% (204/210)[Kremote: Counting objects:  98% (206/210)[Kremote: Counting objects:  99% (208/210)[Kremote: Counting objects: 100% (210/210)[Kremote: Counting objects: 100% (210/210), done.[K
+remote: Compressing objects:   0% (1/208)[Kremote: Compressing objects:   1% (3/208)[Kremote: Compressing objects:   2% (5/208)[Kremote: Compressing objects:   3% (7/208)[Kremote: Compressing objects:   4% (9/208)[Kremote: Compressing objects:   5% (11/208)[Kremote: Compressing objects:   6% (13/208)[Kremote: Compressing objects:   7% (15/208)[Kremote: Compressing objects:   8% (17/208)[Kremote: Compressing objects:   9% (19/208)[Kremote: Compressing objects:  10% (21/208)[Kremote: Compressing objects:  11% (23/208)[Kremote: Compressing objects:  12% (25/208)[Kremote: Compressing objects:  13% (28/208)[Kremote: Compressing objects:  14% (30/208)[Kremote: Compressing objects:  15% (32/208)[Kremote: Compressing objects:  16% (34/208)[Kremote: Compressing objects:  17% (36/208)[Kremote: Compressing objects:  18% (38/208)[Kremote: Compressing objects:  19% (40/208)[Kremote: Compressing objects:  20% (42/208)[Kremote: Compressing objects:  21% (44/208)[Kremote: Compressing objects:  22% (46/208)[Kremote: Compressing objects:  23% (48/208)[Kremote: Compressing objects:  24% (50/208)[Kremote: Compressing objects:  25% (52/208)[Kremote: Compressing objects:  26% (55/208)[Kremote: Compressing objects:  27% (57/208)[Kremote: Compressing objects:  28% (59/208)[Kremote: Compressing objects:  29% (61/208)[Kremote: Compressing objects:  30% (63/208)[Kremote: Compressing objects:  31% (65/208)[Kremote: Compressing objects:  32% (67/208)[Kremote: Compressing objects:  33% (69/208)[Kremote: Compressing objects:  34% (71/208)[Kremote: Compressing objects:  35% (73/208)[Kremote: Compressing objects:  36% (75/208)[Kremote: Compressing objects:  37% (77/208)[Kremote: Compressing objects:  38% (80/208)[Kremote: Compressing objects:  39% (82/208)[Kremote: Compressing objects:  40% (84/208)[Kremote: Compressing objects:  41% (86/208)[Kremote: Compressing objects:  42% (88/208)[Kremote: Compressing objects:  43% (90/208)[Kremote: Compressing objects:  44% (92/208)[Kremote: Compressing objects:  45% (94/208)[Kremote: Compressing objects:  46% (96/208)[Kremote: Compressing objects:  47% (98/208)[Kremote: Compressing objects:  48% (100/208)[Kremote: Compressing objects:  49% (102/208)[Kremote: Compressing objects:  50% (104/208)[Kremote: Compressing objects:  51% (107/208)[Kremote: Compressing objects:  52% (109/208)[Kremote: Compressing objects:  53% (111/208)[Kremote: Compressing objects:  54% (113/208)[Kremote: Compressing objects:  55% (115/208)[Kremote: Compressing objects:  56% (117/208)[Kremote: Compressing objects:  57% (119/208)[Kremote: Compressing objects:  58% (121/208)[Kremote: Compressing objects:  59% (123/208)[Kremote: Compressing objects:  60% (125/208)[Kremote: Compressing objects:  61% (127/208)[Kremote: Compressing objects:  62% (129/208)[Kremote: Compressing objects:  63% (132/208)[Kremote: Compressing objects:  64% (134/208)[Kremote: Compressing objects:  65% (136/208)[Kremote: Compressing objects:  66% (138/208)[Kremote: Compressing objects:  67% (140/208)[Kremote: Compressing objects:  68% (142/208)[Kremote: Compressing objects:  69% (144/208)[Kremote: Compressing objects:  70% (146/208)[Kremote: Compressing objects:  71% (148/208)[Kremote: Compressing objects:  72% (150/208)[Kremote: Compressing objects:  73% (152/208)[Kremote: Compressing objects:  74% (154/208)[Kremote: Compressing objects:  75% (156/208)[Kremote: Compressing objects:  76% (159/208)[Kremote: Compressing objects:  77% (161/208)[Kremote: Compressing objects:  78% (163/208)[Kremote: Compressing objects:  79% (165/208)[Kremote: Compressing objects:  80% (167/208)[Kremote: Compressing objects:  81% (169/208)[Kremote: Compressing objects:  82% (171/208)[Kremote: Compressing objects:  83% (173/208)[Kremote: Compressing objects:  84% (175/208)[Kremote: Compressing objects:  85% (177/208)[Kremote: Compressing objects:  86% (179/208)[Kremote: Compressing objects:  87% (181/208)[Kremote: Compressing objects:  88% (184/208)[Kremote: Compressing objects:  89% (186/208)[Kremote: Compressing objects:  90% (188/208)[Kremote: Compressing objects:  91% (190/208)[Kremote: Compressing objects:  92% (192/208)[Kremote: Compressing objects:  93% (194/208)[Kremote: Compressing objects:  94% (196/208)[Kremote: Compressing objects:  95% (198/208)[Kremote: Compressing objects:  96% (200/208)[Kremote: Compressing objects:  97% (202/208)[Kremote: Compressing objects:  98% (204/208)[Kremote: Compressing objects:  99% (206/208)[Kremote: Compressing objects: 100% (208/208)[Kremote: Compressing objects: 100% (208/208), done.[K
+Receiving objects:   0% (1/209)Receiving objects:   1% (3/209)Receiving objects:   2% (5/209)Receiving objects:   3% (7/209)Receiving objects:   4% (9/209)Receiving objects:   5% (11/209)Receiving objects:   6% (13/209)Receiving objects:   7% (15/209)Receiving objects:   8% (17/209)Receiving objects:   9% (19/209)Receiving objects:  10% (21/209)Receiving objects:  11% (23/209)Receiving objects:  12% (26/209)Receiving objects:  13% (28/209)Receiving objects:  14% (30/209)Receiving objects:  15% (32/209)Receiving objects:  16% (34/209)Receiving objects:  17% (36/209)Receiving objects:  18% (38/209)Receiving objects:  19% (40/209)Receiving objects:  20% (42/209)Receiving objects:  21% (44/209)Receiving objects:  22% (46/209)Receiving objects:  23% (49/209)Receiving objects:  24% (51/209)Receiving objects:  25% (53/209)Receiving objects:  26% (55/209)Receiving objects:  27% (57/209)Receiving objects:  28% (59/209)Receiving objects:  29% (61/209)Receiving objects:  30% (63/209)Receiving objects:  31% (65/209)Receiving objects:  32% (67/209)Receiving objects:  33% (69/209)Receiving objects:  34% (72/209)Receiving objects:  35% (74/209)Receiving objects:  36% (76/209)Receiving objects:  37% (78/209)Receiving objects:  38% (80/209)Receiving objects:  39% (82/209)Receiving objects:  40% (84/209)Receiving objects:  41% (86/209)Receiving objects:  42% (88/209)Receiving objects:  43% (90/209)Receiving objects:  44% (92/209)Receiving objects:  45% (95/209)Receiving objects:  46% (97/209)Receiving objects:  47% (99/209)Receiving objects:  48% (101/209)Receiving objects:  49% (103/209)Receiving objects:  50% (105/209)Receiving objects:  51% (107/209)Receiving objects:  52% (109/209)Receiving objects:  53% (111/209)Receiving objects:  54% (113/209)Receiving objects:  55% (115/209)Receiving objects:  56% (118/209)Receiving objects:  57% (120/209)Receiving objects:  58% (122/209)Receiving objects:  59% (124/209)Receiving objects:  60% (126/209)Receiving objects:  61% (128/209)Receiving objects:  62% (130/209)Receiving objects:  63% (132/209)Receiving objects:  64% (134/209)Receiving objects:  65% (136/209)Receiving objects:  66% (138/209)Receiving objects:  67% (141/209)Receiving objects:  68% (143/209)Receiving objects:  69% (145/209)Receiving objects:  70% (147/209)Receiving objects:  71% (149/209)Receiving objects:  72% (151/209)Receiving objects:  73% (153/209)Receiving objects:  74% (155/209)Receiving objects:  75% (157/209)Receiving objects:  76% (159/209)Receiving objects:  77% (161/209)Receiving objects:  78% (164/209)Receiving objects:  79% (166/209)Receiving objects:  80% (168/209)Receiving objects:  81% (170/209)Receiving objects:  82% (172/209)Receiving objects:  83% (174/209)Receiving objects:  84% (176/209)Receiving objects:  85% (178/209)Receiving objects:  86% (180/209)Receiving objects:  87% (182/209)Receiving objects:  88% (184/209)Receiving objects:  89% (187/209)Receiving objects:  90% (189/209)Receiving objects:  91% (191/209)Receiving objects:  92% (193/209)Receiving objects:  93% (195/209)Receiving objects:  94% (197/209)Receiving objects:  95% (199/209)remote: Total 209 (delta 0), reused 209 (delta 0), pack-reused 0 (from 0)[K
+Receiving objects:  96% (201/209)Receiving objects:  97% (203/209)Receiving objects:  98% (205/209)Receiving objects:  99% (207/209)Receiving objects: 100% (209/209)Receiving objects: 100% (209/209), 245.68 KiB | 627.00 KiB/s, done.
+From https://github.com/junguler/m3u-temp
+   e3689ed8ea..fc24751758  main       -> origin/main
+Updating e3689ed8ea..fc24751758
+Fast-forward
+ A-AD___andorra.txt                                                                  |   8 [32m++++[m
+ A-AE___united-arab-emirates.txt                                                     | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-AF___afghanistan.txt                                                              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-AG___antigua-and-barbuda.txt                                                      |   5 [32m+++[m
+ A-AL___albania.txt                                                                  |  35 [32m++++++++++++++++++[m
+ A-AM___armenia.txt                                                                  |  13 [32m+++++++[m
+ A-AO___angola.txt                                                                   |   8 [32m++++[m
+ A-AR___Argentina.txt                                                                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-AR___argentina.txt                                                                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-AS___american-samoa.txt                                                           |  13 [32m+++++++[m
+ A-AT___austria.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-AU___australia.txt                                                                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-AW___aruba.txt                                                                    |   8 [32m++++[m
+ A-AZ___azerbaijan.txt                                                               |  41 [32m+++++++++++++++++++++[m
+ A-BA___bosnia-and-herzegovina.txt                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-BB___barbados.txt                                                                 |  21 [32m+++++++++++[m
+ A-BD___bangladesh.txt                                                               |  18 [32m+++++++++[m
+ A-BE___belgium.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-BF___burkina-faso.txt                                                             |   9 [32m+++++[m
+ A-BG___bulgaria.txt                                                                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-BH___bahrain.txt                                                                  |  21 [32m+++++++++++[m
+ A-BI___burundi.txt                                                                  |   4 [32m++[m
+ A-BJ___benin.txt                                                                    |   5 [32m+++[m
+ A-BM___bermuda.txt                                                                  |  11 [32m++++++[m
+ A-BN___brunei-darussalam.txt                                                        |   4 [32m++[m
+ A-BO___Bolivia.txt                                                                  |  63 [32m+++++++++++++++++++++++++++++++[m
+ A-BO___bolivia.txt                                                                  |  63 [32m+++++++++++++++++++++++++++++++[m
+ A-BQ___bonaire-sint-eustatius-and-saba.txt                                          |  14 [32m+++++++[m
+ A-BR___Brazil.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-BR___brazil.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-BS___bahamas.txt                                                                  |   9 [32m+++++[m
+ A-BT___bhutan.txt                                                                   |   1 [32m+[m
+ A-BW___botswana.txt                                                                 |   6 [32m+++[m
+ A-BY___belarus.txt                                                                  |  86 [32m+++++++++++++++++++++++++++++++++++++++++++[m
+ A-BZ___belize.txt                                                                   |   3 [32m++[m
+ A-CA___canada.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-CC___cocos-keeling-islands.txt                                                    |   1 [32m+[m
+ A-CD___congo.txt                                                                    |  18 [32m+++++++++[m
+ A-CF___central-african-republic.txt                                                 |   3 [32m++[m
+ A-CG___congo.txt                                                                    |   2 [32m+[m
+ A-CH___switzerland.txt                                                              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-CI___cote-d-ivoire.txt                                                            |   8 [32m++++[m
+ A-CK___cook-islands.txt                                                             |   1 [32m+[m
+ A-CL___chile.txt                                                                    | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-CM___cameroon.txt                                                                 |   4 [32m++[m
+ A-CN___China.txt                                                                    | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-CN___china.txt                                                                    | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-CO___colombia.txt                                                                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-CR___costa-rica.txt                                                               |  44 [32m++++++++++++++++++++++[m
+ A-CU___cuba.txt                                                                     |  17 [32m+++++++++[m
+ A-CV___cape-verde.txt                                                               |   3 [32m++[m
+ A-CW___curacao.txt                                                                  |  24 [32m++++++++++++[m
+ A-CY___cyprus.txt                                                                   |  48 [32m++++++++++++++++++++++++[m
+ A-CZ___czech-republic.txt                                                           | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-DE___Germany.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-DE___germany.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-DK___denmark.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-DM___dominica.txt                                                                 |   6 [32m+++[m
+ A-DO___dominican-republic.txt                                                       |  89 [32m++++++++++++++++++++++++++++++++++++++++++++[m
+ A-DZ___Algeria.txt                                                                  |  26 [32m+++++++++++++[m
+ A-DZ___algeria.txt                                                                  |  26 [32m+++++++++++++[m
+ A-EC___ecuador.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-EE___estonia.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-EG___egypt.txt                                                                    |  48 [32m++++++++++++++++++++++++[m
+ A-ES___spain.txt                                                                    | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-ET___ethiopia.txt                                                                 |  35 [32m++++++++++++++++++[m
+ A-FI___finland.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-FJ___fiji.txt                                                                     |   6 [32m+++[m
+ A-FK___falkland-islands-malvinas-.txt                                               |   5 [32m+++[m
+ A-FO___faroe-islands.txt                                                            |   7 [32m++++[m
+ A-FR___France.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-FR___france.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-GB___The%20United%20Kingdom%20Of%20Great%20Britain%20And%20Northern%20Ireland.txt |   0
+ A-GB___united-kingdom.txt                                                           | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-GD___grenada.txt                                                                  |   8 [32m++++[m
+ A-GE___georgia.txt                                                                  |  27 [32m++++++++++++++[m
+ A-GF___french-guiana.txt                                                            |   8 [32m++++[m
+ A-GG___guernsey.txt                                                                 |   2 [32m+[m
+ A-GH___ghana.txt                                                                    |  23 [32m++++++++++++[m
+ A-GI___gibraltar.txt                                                                |   7 [32m++++[m
+ A-GL___greenland.txt                                                                |   5 [32m+++[m
+ A-GN___guinea.txt                                                                   |   1 [32m+[m
+ A-GP___guadeloupe.txt                                                               |   2 [32m+[m
+ A-GR___greece.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-GT___guatemala.txt                                                                |  71 [32m+++++++++++++++++++++++++++++++++++[m
+ A-GU___guam.txt                                                                     |   5 [32m+++[m
+ A-GW___guinea-bissau.txt                                                            |   2 [32m+[m
+ A-GY___guyana.txt                                                                   |   8 [32m++++[m
+ A-HK___hong-kong.txt                                                                |  71 [32m+++++++++++++++++++++++++++++++++++[m
+ A-HN___honduras.txt                                                                 |  50 [32m+++++++++++++++++++++++++[m
+ A-HR___croatia.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-HT___haiti.txt                                                                    |  34 [32m+++++++++++++++++[m
+ A-HU___Hungary.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-HU___hungary.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-ID___indonesia.txt                                                                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-IE___ireland.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-IL___israel.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-IM___isle-of-man.txt                                                              |   4 [32m++[m
+ A-IN___India.txt                                                                    | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-IN___india.txt                                                                    | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-IO___british-indian-ocean-territory.txt                                           |   6 [32m+++[m
+ A-IQ___iraq.txt                                                                     |  27 [32m++++++++++++++[m
+ A-IR___iran-islamic-republic-of.txt                                                 |  29 [32m+++++++++++++++[m
+ A-IS___iceland.txt                                                                  |  27 [32m++++++++++++++[m
+ A-IT___italy.txt                                                                    | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-JE___jersey.txt                                                                   |   0
+ A-JM___jamaica.txt                                                                  |  46 [32m+++++++++++++++++++++++[m
+ A-JO___jordan.txt                                                                   |  27 [32m++++++++++++++[m
+ A-JP___japan.txt                                                                    | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-KE___kenya.txt                                                                    |  66 [32m+++++++++++++++++++++++++++++++++[m
+ A-KG___kyrgyzstan.txt                                                               |   7 [32m++++[m
+ A-KH___cambodia.txt                                                                 |   2 [32m+[m
+ A-KM___comoros.txt                                                                  |   2 [32m+[m
+ A-KN___saint-kitts-and-nevis.txt                                                    |   5 [32m+++[m
+ A-KP___korea.txt                                                                    |   9 [32m+++++[m
+ A-KR___korea.txt                                                                    |  86 [32m+++++++++++++++++++++++++++++++++++++++++++[m
+ A-KW___kuwait.txt                                                                   |  13 [32m+++++++[m
+ A-KY___cayman-islands.txt                                                           |  11 [32m++++++[m
+ A-KZ___kazakhstan.txt                                                               |  40 [32m++++++++++++++++++++[m
+ A-LB___lebanon.txt                                                                  |  61 [32m++++++++++++++++++++++++++++++[m
+ A-LC___saint-lucia.txt                                                              |  11 [32m++++++[m
+ A-LI___liechtenstein.txt                                                            |   1 [32m+[m
+ A-LK___sri-lanka.txt                                                                |  67 [32m+++++++++++++++++++++++++++++++++[m
+ A-LT___lithuania.txt                                                                |  95 [32m+++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-LU___luxembourg.txt                                                               |  31 [32m++++++++++++++++[m
+ A-LV___latvia.txt                                                                   |  96 [32m++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-LY___libyan-arab-jamahiriya.txt                                                   |  11 [32m++++++[m
+ A-MA___morocco.txt                                                                  |  47 [32m++++++++++++++++++++++++[m
+ A-MC___monaco.txt                                                                   |  11 [32m++++++[m
+ A-MD___moldova.txt                                                                  |  40 [32m++++++++++++++++++++[m
+ A-ME___montenegro.txt                                                               |  44 [32m++++++++++++++++++++++[m
+ A-MG___madagascar.txt                                                               |   8 [32m++++[m
+ A-MK___north-macedonia.txt                                                          |  58 [32m+++++++++++++++++++++++++++++[m
+ A-MM___myanmar.txt                                                                  |   4 [32m++[m
+ A-MN___mongolia.txt                                                                 |   6 [32m+++[m
+ A-MO___macao.txt                                                                    |  32 [32m++++++++++++++++[m
+ A-MQ___martinique.txt                                                               |   6 [32m+++[m
+ A-MT___malta.txt                                                                    |  11 [32m++++++[m
+ A-MU___mauritius.txt                                                                |  12 [32m++++++[m
+ A-MW___malawi.txt                                                                   |   5 [32m+++[m
+ A-MX___Mexico.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-MX___mexico.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-MY___malaysia.txt                                                                 |  73 [32m++++++++++++++++++++++++++++++++++++[m
+ A-MZ___mozambique.txt                                                               |   8 [32m++++[m
+ A-NA___namibia.txt                                                                  |  17 [32m+++++++++[m
+ A-NC___new-caledonia.txt                                                            |   9 [32m+++++[m
+ A-NF___norfolk-island.txt                                                           |   0
+ A-NG___nigeria.txt                                                                  |  52 [32m++++++++++++++++++++++++++[m
+ A-NI___nicaragua.txt                                                                |  23 [32m++++++++++++[m
+ A-NL___netherlands.txt                                                              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-NO___norway.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-NP___nepal.txt                                                                    |  29 [32m+++++++++++++++[m
+ A-NZ___new-zealand.txt                                                              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-OM___oman.txt                                                                     |  10 [32m+++++[m
+ A-PA___panama.txt                                                                   |  28 [32m++++++++++++++[m
+ A-PE___peru.txt                                                                     | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-PF___french-polynesia.txt                                                         |  11 [32m++++++[m
+ A-PG___papua-new-guinea.txt                                                         |   2 [32m+[m
+ A-PH___philippines.txt                                                              | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-PK___pakistan.txt                                                                 |  71 [32m+++++++++++++++++++++++++++++++++++[m
+ A-PL___poland.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-PM___saint-pierre-and-miquelon.txt                                                |   3 [32m++[m
+ A-PR___puerto-rico.txt                                                              |  39 [32m++++++++++++++++++++[m
+ A-PS___palestinian-territory-occupied.txt                                           |   9 [32m+++++[m
+ A-PT___portugal.txt                                                                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-PY___paraguay.txt                                                                 |  68 [32m++++++++++++++++++++++++++++++++++[m
+ A-QA___qatar.txt                                                                    |  20 [32m++++++++++[m
+ A-RE___reunion.txt                                                                  |  15 [32m++++++++[m
+ A-RO___romania.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-RS___serbia.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-RU___The%20Russian%20Federation.txt                                               |   0
+ A-RU___russian-federation.txt                                                       | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-RW___rwanda.txt                                                                   |  11 [32m++++++[m
+ A-SA___saudi-arabia.txt                                                             | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-SC___seychelles.txt                                                               |   2 [32m+[m
+ A-SD___sudan.txt                                                                    |   4 [32m++[m
+ A-SE___sweden.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-SG___singapore.txt                                                                |  60 [32m++++++++++++++++++++++++++++++[m
+ A-SH___saint-helena.txt                                                             |   2 [32m+[m
+ A-SI___slovenia.txt                                                                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-SK___slovakia.txt                                                                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-SL___sierra-leone.txt                                                             |   4 [32m++[m
+ A-SM___san-marino.txt                                                               |   6 [32m+++[m
+ A-SN___senegal.txt                                                                  |  32 [32m++++++++++++++++[m
+ A-SO___somalia.txt                                                                  |   3 [32m++[m
+ A-SR___suriname.txt                                                                 |  14 [32m+++++++[m
+ A-ST___sao-tome-and-principe.txt                                                    |   3 [32m++[m
+ A-SV___el-salvador.txt                                                              |  61 [32m++++++++++++++++++++++++++++++[m
+ A-SY___syrian-arab-republic.txt                                                     |  26 [32m+++++++++++++[m
+ A-SZ___swaziland.txt                                                                |   2 [32m+[m
+ A-TC___turks-and-caicos-islands.txt                                                 |   1 [32m+[m
+ A-TG___togo.txt                                                                     |   6 [32m+++[m
+ A-TH___thailand.txt                                                                 |  78 [32m+++++++++++++++++++++++++++++++++++++++[m
+ A-TJ___tajikistan.txt                                                               |   2 [32m+[m
+ A-TM___turkmenistan.txt                                                             |   5 [32m+++[m
+ A-TN___tunisia.txt                                                                  |  77 [32m++++++++++++++++++++++++++++++++++++++[m
+ A-TO___tonga.txt                                                                    |   1 [32m+[m
+ A-TR___turkey.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-TT___trinidad-and-tobago.txt                                                      |  25 [32m+++++++++++++[m
+ A-TW___taiwan-province-of-china.txt                                                 | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-TZ___United%20Republic%20Of%20Tanzania.txt                                        |   0
+ A-TZ___tanzania-united-republic-of.txt                                              |  22 [32m+++++++++++[m
+ A-UA___ukraine.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-UG___uganda.txt                                                                   | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-UM___united-states-minor-outlying-islands.txt                                     |  14 [32m+++++++[m
+ A-US___The%20United%20States%20Of%20America.txt                                     |   0
+ A-US___united-states.txt                                                            | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-UY___uruguay.txt                                                                  | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-UZ___uzbekistan.txt                                                               |  12 [32m++++++[m
+ A-VA___holy-see-vatican-city-state-.txt                                             |  15 [32m++++++++[m
+ A-VC___saint-vincent-and-the-grenadines.txt                                         |   3 [32m++[m
+ A-VE___venezuela.txt                                                                | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-VI___virgin-islands-u-s-.txt                                                      |   8 [32m++++[m
+ A-VN___viet-nam.txt                                                                 |  38 [32m+++++++++++++++++++[m
+ A-VU___vanuatu.txt                                                                  |   6 [32m+++[m
+ A-WF___wallis-and-futuna.txt                                                        |   2 [32m+[m
+ A-XK___kosovo.txt                                                                   |  17 [32m+++++++++[m
+ A-YE___yemen.txt                                                                    |  11 [32m++++++[m
+ A-YT___mayotte.txt                                                                  |   4 [32m++[m
+ A-ZA___south-africa.txt                                                             | 100 [32m++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ A-ZM___zambia.txt                                                                   |   5 [32m+++[m
+ A-ZW___zimbabwe.txt                                                                 |   6 [32m+++[m
+ A-privacy_policy___.txt                                                             |   0
+ 223 files changed, 9653 insertions(+)
+ create mode 100644 A-AD___andorra.txt
+ create mode 100644 A-AE___united-arab-emirates.txt
+ create mode 100644 A-AF___afghanistan.txt
+ create mode 100644 A-AG___antigua-and-barbuda.txt
+ create mode 100644 A-AL___albania.txt
+ create mode 100644 A-AM___armenia.txt
+ create mode 100644 A-AO___angola.txt
+ create mode 100644 A-AR___Argentina.txt
+ create mode 100644 A-AR___argentina.txt
+ create mode 100644 A-AS___american-samoa.txt
+ create mode 100644 A-AT___austria.txt
+ create mode 100644 A-AU___australia.txt
+ create mode 100644 A-AW___aruba.txt
+ create mode 100644 A-AZ___azerbaijan.txt
+ create mode 100644 A-BA___bosnia-and-herzegovina.txt
+ create mode 100644 A-BB___barbados.txt
+ create mode 100644 A-BD___bangladesh.txt
+ create mode 100644 A-BE___belgium.txt
+ create mode 100644 A-BF___burkina-faso.txt
+ create mode 100644 A-BG___bulgaria.txt
+ create mode 100644 A-BH___bahrain.txt
+ create mode 100644 A-BI___burundi.txt
+ create mode 100644 A-BJ___benin.txt
+ create mode 100644 A-BM___bermuda.txt
+ create mode 100644 A-BN___brunei-darussalam.txt
+ create mode 100644 A-BO___Bolivia.txt
+ create mode 100644 A-BO___bolivia.txt
+ create mode 100644 A-BQ___bonaire-sint-eustatius-and-saba.txt
+ create mode 100644 A-BR___Brazil.txt
+ create mode 100644 A-BR___brazil.txt
+ create mode 100644 A-BS___bahamas.txt
+ create mode 100644 A-BT___bhutan.txt
+ create mode 100644 A-BW___botswana.txt
+ create mode 100644 A-BY___belarus.txt
+ create mode 100644 A-BZ___belize.txt
+ create mode 100644 A-CA___canada.txt
+ create mode 100644 A-CC___cocos-keeling-islands.txt
+ create mode 100644 A-CD___congo.txt
+ create mode 100644 A-CF___central-african-republic.txt
+ create mode 100644 A-CG___congo.txt
+ create mode 100644 A-CH___switzerland.txt
+ create mode 100644 A-CI___cote-d-ivoire.txt
+ create mode 100644 A-CK___cook-islands.txt
+ create mode 100644 A-CL___chile.txt
+ create mode 100644 A-CM___cameroon.txt
+ create mode 100644 A-CN___China.txt
+ create mode 100644 A-CN___china.txt
+ create mode 100644 A-CO___colombia.txt
+ create mode 100644 A-CR___costa-rica.txt
+ create mode 100644 A-CU___cuba.txt
+ create mode 100644 A-CV___cape-verde.txt
+ create mode 100644 A-CW___curacao.txt
+ create mode 100644 A-CY___cyprus.txt
+ create mode 100644 A-CZ___czech-republic.txt
+ create mode 100644 A-DE___Germany.txt
+ create mode 100644 A-DE___germany.txt
+ create mode 100644 A-DK___denmark.txt
+ create mode 100644 A-DM___dominica.txt
+ create mode 100644 A-DO___dominican-republic.txt
+ create mode 100644 A-DZ___Algeria.txt
+ create mode 100644 A-DZ___algeria.txt
+ create mode 100644 A-EC___ecuador.txt
+ create mode 100644 A-EE___estonia.txt
+ create mode 100644 A-EG___egypt.txt
+ create mode 100644 A-ES___spain.txt
+ create mode 100644 A-ET___ethiopia.txt
+ create mode 100644 A-FI___finland.txt
+ create mode 100644 A-FJ___fiji.txt
+ create mode 100644 A-FK___falkland-islands-malvinas-.txt
+ create mode 100644 A-FO___faroe-islands.txt
+ create mode 100644 A-FR___France.txt
+ create mode 100644 A-FR___france.txt
+ create mode 100644 A-GB___The%20United%20Kingdom%20Of%20Great%20Britain%20And%20Northern%20Ireland.txt
+ create mode 100644 A-GB___united-kingdom.txt
+ create mode 100644 A-GD___grenada.txt
+ create mode 100644 A-GE___georgia.txt
+ create mode 100644 A-GF___french-guiana.txt
+ create mode 100644 A-GG___guernsey.txt
+ create mode 100644 A-GH___ghana.txt
+ create mode 100644 A-GI___gibraltar.txt
+ create mode 100644 A-GL___greenland.txt
+ create mode 100644 A-GN___guinea.txt
+ create mode 100644 A-GP___guadeloupe.txt
+ create mode 100644 A-GR___greece.txt
+ create mode 100644 A-GT___guatemala.txt
+ create mode 100644 A-GU___guam.txt
+ create mode 100644 A-GW___guinea-bissau.txt
+ create mode 100644 A-GY___guyana.txt
+ create mode 100644 A-HK___hong-kong.txt
+ create mode 100644 A-HN___honduras.txt
+ create mode 100644 A-HR___croatia.txt
+ create mode 100644 A-HT___haiti.txt
+ create mode 100644 A-HU___Hungary.txt
+ create mode 100644 A-HU___hungary.txt
+ create mode 100644 A-ID___indonesia.txt
+ create mode 100644 A-IE___ireland.txt
+ create mode 100644 A-IL___israel.txt
+ create mode 100644 A-IM___isle-of-man.txt
+ create mode 100644 A-IN___India.txt
+ create mode 100644 A-IN___india.txt
+ create mode 100644 A-IO___british-indian-ocean-territory.txt
+ create mode 100644 A-IQ___iraq.txt
+ create mode 100644 A-IR___iran-islamic-republic-of.txt
+ create mode 100644 A-IS___iceland.txt
+ create mode 100644 A-IT___italy.txt
+ create mode 100644 A-JE___jersey.txt
+ create mode 100644 A-JM___jamaica.txt
+ create mode 100644 A-JO___jordan.txt
+ create mode 100644 A-JP___japan.txt
+ create mode 100644 A-KE___kenya.txt
+ create mode 100644 A-KG___kyrgyzstan.txt
+ create mode 100644 A-KH___cambodia.txt
+ create mode 100644 A-KM___comoros.txt
+ create mode 100644 A-KN___saint-kitts-and-nevis.txt
+ create mode 100644 A-KP___korea.txt
+ create mode 100644 A-KR___korea.txt
+ create mode 100644 A-KW___kuwait.txt
+ create mode 100644 A-KY___cayman-islands.txt
+ create mode 100644 A-KZ___kazakhstan.txt
+ create mode 100644 A-LB___lebanon.txt
+ create mode 100644 A-LC___saint-lucia.txt
+ create mode 100644 A-LI___liechtenstein.txt
+ create mode 100644 A-LK___sri-lanka.txt
+ create mode 100644 A-LT___lithuania.txt
+ create mode 100644 A-LU___luxembourg.txt
+ create mode 100644 A-LV___latvia.txt
+ create mode 100644 A-LY___libyan-arab-jamahiriya.txt
+ create mode 100644 A-MA___morocco.txt
+ create mode 100644 A-MC___monaco.txt
+ create mode 100644 A-MD___moldova.txt
+ create mode 100644 A-ME___montenegro.txt
+ create mode 100644 A-MG___madagascar.txt
+ create mode 100644 A-MK___north-macedonia.txt
+ create mode 100644 A-MM___myanmar.txt
+ create mode 100644 A-MN___mongolia.txt
+ create mode 100644 A-MO___macao.txt
+ create mode 100644 A-MQ___martinique.txt
+ create mode 100644 A-MT___malta.txt
+ create mode 100644 A-MU___mauritius.txt
+ create mode 100644 A-MW___malawi.txt
+ create mode 100644 A-MX___Mexico.txt
+ create mode 100644 A-MX___mexico.txt
+ create mode 100644 A-MY___malaysia.txt
+ create mode 100644 A-MZ___mozambique.txt
+ create mode 100644 A-NA___namibia.txt
+ create mode 100644 A-NC___new-caledonia.txt
+ create mode 100644 A-NF___norfolk-island.txt
+ create mode 100644 A-NG___nigeria.txt
+ create mode 100644 A-NI___nicaragua.txt
+ create mode 100644 A-NL___netherlands.txt
+ create mode 100644 A-NO___norway.txt
+ create mode 100644 A-NP___nepal.txt
+ create mode 100644 A-NZ___new-zealand.txt
+ create mode 100644 A-OM___oman.txt
+ create mode 100644 A-PA___panama.txt
+ create mode 100644 A-PE___peru.txt
+ create mode 100644 A-PF___french-polynesia.txt
+ create mode 100644 A-PG___papua-new-guinea.txt
+ create mode 100644 A-PH___philippines.txt
+ create mode 100644 A-PK___pakistan.txt
+ create mode 100644 A-PL___poland.txt
+ create mode 100644 A-PM___saint-pierre-and-miquelon.txt
+ create mode 100644 A-PR___puerto-rico.txt
+ create mode 100644 A-PS___palestinian-territory-occupied.txt
+ create mode 100644 A-PT___portugal.txt
+ create mode 100644 A-PY___paraguay.txt
+ create mode 100644 A-QA___qatar.txt
+ create mode 100644 A-RE___reunion.txt
+ create mode 100644 A-RO___romania.txt
+ create mode 100644 A-RS___serbia.txt
+ create mode 100644 A-RU___The%20Russian%20Federation.txt
+ create mode 100644 A-RU___russian-federation.txt
+ create mode 100644 A-RW___rwanda.txt
+ create mode 100644 A-SA___saudi-arabia.txt
+ create mode 100644 A-SC___seychelles.txt
+ create mode 100644 A-SD___sudan.txt
+ create mode 100644 A-SE___sweden.txt
+ create mode 100644 A-SG___singapore.txt
+ create mode 100644 A-SH___saint-helena.txt
+ create mode 100644 A-SI___slovenia.txt
+ create mode 100644 A-SK___slovakia.txt
+ create mode 100644 A-SL___sierra-leone.txt
+ create mode 100644 A-SM___san-marino.txt
+ create mode 100644 A-SN___senegal.txt
+ create mode 100644 A-SO___somalia.txt
+ create mode 100644 A-SR___suriname.txt
+ create mode 100644 A-ST___sao-tome-and-principe.txt
+ create mode 100644 A-SV___el-salvador.txt
+ create mode 100644 A-SY___syrian-arab-republic.txt
+ create mode 100644 A-SZ___swaziland.txt
+ create mode 100644 A-TC___turks-and-caicos-islands.txt
+ create mode 100644 A-TG___togo.txt
+ create mode 100644 A-TH___thailand.txt
+ create mode 100644 A-TJ___tajikistan.txt
+ create mode 100644 A-TM___turkmenistan.txt
+ create mode 100644 A-TN___tunisia.txt
+ create mode 100644 A-TO___tonga.txt
+ create mode 100644 A-TR___turkey.txt
+ create mode 100644 A-TT___trinidad-and-tobago.txt
+ create mode 100644 A-TW___taiwan-province-of-china.txt
+ create mode 100644 A-TZ___United%20Republic%20Of%20Tanzania.txt
+ create mode 100644 A-TZ___tanzania-united-republic-of.txt
+ create mode 100644 A-UA___ukraine.txt
+ create mode 100644 A-UG___uganda.txt
+ create mode 100644 A-UM___united-states-minor-outlying-islands.txt
+ create mode 100644 A-US___The%20United%20States%20Of%20America.txt
+ create mode 100644 A-US___united-states.txt
+ create mode 100644 A-UY___uruguay.txt
+ create mode 100644 A-UZ___uzbekistan.txt
+ create mode 100644 A-VA___holy-see-vatican-city-state-.txt
+ create mode 100644 A-VC___saint-vincent-and-the-grenadines.txt
+ create mode 100644 A-VE___venezuela.txt
+ create mode 100644 A-VI___virgin-islands-u-s-.txt
+ create mode 100644 A-VN___viet-nam.txt
+ create mode 100644 A-VU___vanuatu.txt
+ create mode 100644 A-WF___wallis-and-futuna.txt
+ create mode 100644 A-XK___kosovo.txt
+ create mode 100644 A-YE___yemen.txt
+ create mode 100644 A-YT___mayotte.txt
+ create mode 100644 A-ZA___south-africa.txt
+ create mode 100644 A-ZM___zambia.txt
+ create mode 100644 A-ZW___zimbabwe.txt
+ create mode 100644 A-privacy_policy___.txt
+
+Script done on 2026-01-30 23:52:03+03:30 [COMMAND_EXIT_CODE="0"]

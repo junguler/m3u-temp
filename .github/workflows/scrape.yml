@@ -12,6 +12,7 @@ jobs:
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet
           for i in A-*.txt ; do for j in $(cat $i) ; do curl -s https://zinmusic.com/radio/$j > mep1 ; T=$(cat mep1 | ./htmlq h1 -t | awk NF | sed 's/^[[:space:]]*//') ; S=$(cat mep1 | ./htmlq source -a src | sed 's/\;//g' | sed '/^$/d') ; echo "#EXTINF:-1,$T" >> A$i ; echo "$S" >> A$i ; for g in $(cat mep1 | ./htmlq 'li:nth-child(8)>span' -t | awk NF | sed 's/^[[:space:]]*//;s/[[:space:]]*$//;s/ /_/g') ; do echo "#EXTINF:-1,$T" >> "AA-$g.txt" ; echo "$S" >> "AA-$g.txt" ; done ; echo -e "$i - $j" ; done ; done
+          rm mep1
 
       - name: git stuff
         run: |

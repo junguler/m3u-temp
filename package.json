@@ -1,0 +1,11 @@
+{
+  "name": "radiobells-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}

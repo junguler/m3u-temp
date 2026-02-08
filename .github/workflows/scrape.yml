@@ -11,8 +11,7 @@ jobs:
       - name: run commands
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet
-          npx playwright install chromium --with-deps
-          node scrape.js
+          echo "ok"
 
       - name: git stuff
         run: |

@@ -11,7 +11,8 @@ jobs:
       - name: run commands
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet
-          for i in $(cat s.txt) ; do curl -s https://www.radiobells.com/$i > mep1 ; cat mep1 | ./htmlq -t h1 | awk 'NR==1 {$0="#EXTINF:-1," $0} 1' >> A-$(echo $i | awk -F '/' '{print $1}').txt ; cat mep1 | grep 'var radio_link' | awk -F "'" '{print $2}' >> A-$(echo $i | awk -F '/' '{print $1}').txt ; echo $i ; done
+          for i in $(cat stations.txt) ; do curl -s https://www.radiobells.com/$i > mep1 ; cat mep1 | ./htmlq -t h1 | awk 'NR==1 {$0="#EXTINF:-1," $0} 1' >> A-$(echo $i | awk -F '/' '{print $1}').txt ; cat mep1 | grep 'var radio_link' | awk -F "'" '{print $2}' >> A-$(echo $i | awk -F '/' '{print $1}').txt ; echo $i ; done
+          rm mep1
 
       - name: git stuff
         run: |

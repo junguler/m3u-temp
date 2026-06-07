@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Ada FM
+http://adafm.net:6262/type=mp3
+#EXTINF:-1,Halk Radyo
+http://178.32.4.127:8976/stream
+#EXTINF:-1,Radyo Ti
+http://178.32.4.127:8040/
+#EXTINF:-1,Radyo Viva
+http://46.20.3.231/
+#EXTINF:-1,Show Radyo
+http://46.20.3.229:80/

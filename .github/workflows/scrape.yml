@@ -11,7 +11,7 @@ jobs:
       - name: run commands
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet
-          for i in $(cat languages.txt) ; do for j in /page/{101..300} ; do curl -s https://tingfm.com/language/$i$j | ./htmlq -a href a | grep '/radio/' | awk -F '/' '{print $5}' >> A-$i.txt ; echo -e "$i - $j" ; done ; done
+          for i in $(cat languages.txt) ; do for j in /page/{301..600} ; do curl -s https://tingfm.com/language/$i$j | ./htmlq -a href a | grep '/radio/' | awk -F '/' '{print $5}' >> A-$i.txt ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |

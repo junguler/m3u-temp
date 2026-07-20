@@ -5,3 +5,7 @@ http://51.68.155.17:8028/stream
 http://176.31.111.65:14050/;
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s287312q.png",iDJGROCK
 http://idjgrock.com:8012/
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s233865/images/logoq.png?t=152484",Unity Sound System Radio
+http://radio45.virtualtronics.com:8041/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s224121/images/logoq.jpg?t=158587",LA URBANA CALI RADIO
+https://stream.integracionvirtual.com/proxy/urbanaradio?mp=/stream

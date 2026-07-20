@@ -47,3 +47,7 @@ https://eagle.streemlion.com/proxy/powerpl2?mp=/stream
 http://900.cloudrad.io:8138/;
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s292059/images/logoq.png?t=156381",Radio SFM 102.7
 https://radiosfm7.radioca.st/stream
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s243730q.png",TME.fm Radio
+http://radio.tmefm.com:17666/
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s339713/images/logoq.png?t=1",Truckers Stop FM
+https://a8.asurahosting.com:8530/radio.mp3

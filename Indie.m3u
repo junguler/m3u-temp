@@ -225,3 +225,81 @@ http://us1.internet-radio.com:11024/live
 http://stream.radiojar.com/s7nbn8e80p5tv
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s87126q.png",Radio One 91.0
 http://stream.r1.co.nz:8090
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s355677/images/logoq.png?t=1",IB3 Música
+https://icecast.ib3radio.com/ib3musica.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s9753q.png",RNE Radio 3 99.7
+https://dispatcher.rndfnk.com/crtve/rner3/main/mp3/high?aggregator=tunein
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s9872q.png",Radio 3FACH 97.7
+http://stream01.3fach.ch:8001/live
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s137613q.png",bi fm 92.9
+http://212.83.151.18:36379/
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s102636/images/logoq.jpg?t=163520",Zulu Radio
+https://c11.radioboss.fm/playlist/378/stream.m3u
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s352082/images/logoq.jpg?t=1",Perfect Coffeemusic
+https://stream.radiojar.com/1uqnt5zp1v8uv
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s349619/images/logoq.png?t=2",Ocio Indie - OcioNews Indie
+https://radios.ocionews.com/listen/ocionews_indie/radio128.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s346560/images/logoq.jpg?t=1",SONCIA ALTERNATIVE
+https://stream.radiojar.com/qkvb93yru72vv
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s305128/images/logoq.png",Spectrum Indie
+http://51.255.235.165:5240
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s335237/images/logoq.png?t=1",La indie
+https://stream.serviciospararadios.es/listen/la_indie/laindie.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s342620/images/logoq.png?t=1",Indie Fm Online
+https://sonicpanel.streamsolutions.us/8008/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s218426/images/logoq.jpg?t=151335",Libre FM
+http://stream.zeno.fm/xxbzsmea51zuv
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s265119/images/logoq.jpg?t=1",European Indie Music Network
+https://sr10.inmystream.it/proxy/european?mp=/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s188076/images/logoq.png?t=2",Astra Riot
+https://listen.astra.fm/listen/riot/radio.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s110477q.png",BN Mallorca
+http://91.121.156.27:8008/stream
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s165977q.png",Radio Xiuxiu
+http://live.radioxiuxiu.com:8040/
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s110059/images/logoq.png?t=1740556184000",power_up radio 93.6
+https://powerupradio.ice.infomaniak.ch/powerupradio-192.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s16326q.png",Radio RaBe 104.6
+http://stream.rabe.ch:8000/livestream/rabe-low.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s159846/images/logoq.png",GRRIF 101.2
+http://grrif.ice.infomaniak.ch/grrif-high.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s132925/images/logoq.png?t=164540",Piratenradio.ch
+https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s303942/images/logoq.jpg?t=162447",Energy Hits Switzerland
+https://energyhits.ice.infomaniak.ch/energyhits-high.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s348530/images/logoq.png?t=1",Up Your Frequency
+https://radio.luckyornot.se/
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s340218/images/logoq.png?t=1",Radio_FM 89.3
+https://live.rtvs.sk:8001/FM_256.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s164797q.png",Radio Terminal
+https://air.radioterminal.si/
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s76558q.png",Akademickie Radio LUZ 91.6
+http://radioluz.pwr.edu.pl:8000/luz_hifi.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s3095q.png",RUM - Rádio Universitária do Minho 97.5
+http://link.radios.pt/rum
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s76624/images/logoq.png?t=2",RMF Rock
+https://www.rmfon.pl/tunein/rock.pls
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s84192/images/logoq.png",Rádio RADAR 97.8
+http://proic1.redeaudio.com/radar_mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s256666q.png",Radio indyeamigos
+http://94.23.76.235:9898
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s0q.png",Radio Alternative Online
+http://46.4.94.39:9420
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s283855q.png",077radio
+http://listen.openstream.co/377
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s119938/images/logoq.png?t=1687346363000",Omroep Tilburg Radio 87.5
+https://ms5ic.mx-cd.net/184-782332/Omroep_Tilburg_Radio
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s113032/images/logoq.png?t=1672571487000",Radio Minimaal 107.3
+https://luister.radiominimaal.nl/online/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s304175/images/logoq.jpg?t=153787",Broadcast Amsterdam
+http://stream.radio.co/s0023dc012/listen
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s100883/images/logoq.png?t=1737710300000",Concertzender Pop
+https://streams.greenhost.nl:8006/pop
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s262548/images/logoq.jpg?t=155125",Pinguin Pluche
+https://samcloud.spacial.com/api/listen?sid=98569&amp;m=sc&amp;rid=174384
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s343270/images/logoq.jpg?t=4",Signal Indie &amp; Alternative
+https://stream.wearethebeat.com/listen/signal/Signal
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s129133/images/logoq.png?t=161193",Suvidha Radio
+http://79.143.187.96:8053/live
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s264650q.png",We are DJ WORLD RADIO
+https://server6.radio-streams.net/proxy/vemaivqu/stream

@@ -59,3 +59,9 @@ http://162.244.80.118:9460/;stream.mp3
 https://s11.citrus3.com:8302/stream
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s148872/images/logoq.png?t=1702222931000",Radio 360 Digital
 http://radio360aust.ddns.net:88/broadwave.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s47725/images/logoq.png?t=2",1.FM Bombay Beats
+https://www.1.fm/tunestream/bombaybeats/listen.pls
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s106929/images/logoq.jpg?t=153858",Mehefil Radio
+https://xhjfrotkylzlndubqhfo.supabase.co/functions/v1/stream-proxy
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s339551/images/logoq.jpg?t=1",Bollywood&amp;Punjabi Latest Hits 24/7
+https://listen.radioking.com/radio/713237/stream/778838

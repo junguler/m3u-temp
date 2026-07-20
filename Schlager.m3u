@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s352104/images/logoq.jpg?t=1",Perfect Schlageroldies
+https://stream.radiojar.com/rk8e9x2vetzuv
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s112653/images/logoq.jpg?t=160321",Radio Melody 105.7
+https://stream.streambase.ch/rm/mp3-192/tuneIn/
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s219266/images/logoq.jpg?t=162256",Schlager Radio
+https://schlagerradio.ice.infomaniak.ch/schlagerradio-high.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s248330q.png",Radio Blitz
+http://streamplus20.leonex.de:27100/;
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25114q.png",Radio Eviva
+https://stream.streambase.ch/reviva/mp3-192/tunein/
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s186329/images/logoq.png?t=1",Dansbandskanalen Julmusik
+http://stream.dbmedia.se/dbkjulMP3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s265250q.png",Radio DB1
+https://s2.radio.co/sb7f22f31e/listen
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s114671/images/logoq.png?t=1",Radio Wesole Slonzoki
+https://s7.radiohost.pl:2199/tunein/wesoleslonzoki.pls
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s0q.png",Radio Kos
+https://lyd.radiokos.no/kos_hq
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s352938/images/logoq.jpg?t=1",Hitradio Holland
+https://panel.fm-streams.de:7004/live.m3u
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s288908/images/logoq.png?t=154453",Shadow Radio Brunssum
+https://server-67.stream-server.nl/stream/shadowradiobrunssum
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s53982/images/logoq.jpg?t=1",Piratenfamilie Radio NL
+https://server-27.stream-server.nl:18726/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s352598/images/logoq.png?t=1",Piraten Drenthe
+https://everest.renshosting.nl:8384/
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s351449/images/logoq.png?t=1",Piraten Team Buunermond
+https://stream.hostbee.nl:7611/stream

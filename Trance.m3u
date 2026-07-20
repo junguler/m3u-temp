@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s304635/images/logoq.jpg",Dancefmlive Trance
+https://broadcast.dancefmlive.com/radio/8010/radio.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s353039/images/logoq.png?t=1",Trance State Music
+https://trancestatemusic.familyds.com/listen/trance_state_music/radio.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s97065q.png",PsyRadio Alternative
+http://streamer.psyradio.org:8140/
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s97067q.png",PsyRadio Progressive
+http://streamer.psyradio.org:8010

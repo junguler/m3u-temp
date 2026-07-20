@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s45634/images/logoq.jpg?t=1738148847000",Lyca Radio - Greater Manchester
+https://listen-lycaradio.sharp-stream.com/802_asian_sound_radio_192_mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s337741/images/logoq.jpg?t=1752056929000",Lyca Radio - Midlands
+https://listen-lycaradio.sharp-stream.com/831_lyca_radio_leicester_192_mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s349939/images/logoq.png?t=1",Sunrise Hits
+https://direct.sharp-stream.com/529_sunrise_smooth_128_mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s35353/images/logoq.png?t=1757942928000",92.3 Bolly 92.3
+http://www.streamcontrol.net:12010/
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s232394/images/logoq.png?t=1654239597000",1550 Radio Zindagi
+https://us9.maindigitalstream.com/stream/rzsfsj
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s265075/images/logoq.png?t=1",LinkFM 96.7
+http://cast4.my-control-panel.com:8262/stream?type=http&amp;nocache=1
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s45562/images/logoq.png?t=1648845100000",Sunrise FM 103.2
+https://stream1.themediasite.co.uk:7034/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s6886/images/logoq.png?t=1",Sunrise Radio 963
+https://listen-sunriseradio.sharp-stream.com/sunriseradioalexa.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s137994q.png",Raaj FM 91.3
+http://live.canstream.co.uk:8000/raajfm.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s14322q.png",Radio 4 FM 89.1
+http://streams.radio.co/s899c024f8/listen?DIST=TuneIn&amp;TGT=TuneIn&amp;maxServers=2&amp;gdpr=1&amp;partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc4MTkwMDI1OCwiaXNzIjoidGlzcnYifQ.Vlw848HjtgXV0WPYnEMFmH4AqbsI9RvNdY85kbQdFBE
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s98800/images/logoq.png?t=158593",Radio Asia 94.7 FM 1269
+http://51.255.235.165:5480/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s348042/images/logoq.png?t=2",Raaga 99
+https://stream.rcs.revma.com/1ut6qwtbv4uvv
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s350290/images/logoq.jpg?t=1",Sargakshetra 89.6 FM
+https://icecast.octosignals.com/sargakshetrafm
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s356090/images/logoq.jpg?t=1",Radio Suno 87.6
+https://radio.garden/api/ara/content/listen/9UYgxXyu/channel.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s121212/images/logoq.png?t=2",Radio Sangeetmala 100
+https://rs.cloued.com/listen/radio_sangeetmala/radio.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s247931/images/logoq.jpg?t=158766",Radio Sargam 89.3
+https://rs.suricloud.com/radio/8130/radio.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s7190/images/logoq.jpg?t=2",Trishul Broadcasting Network 90
+https://rs.cloued.com/listen/radio_trishul/radio.mp3

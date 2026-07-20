@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s29603/images/logoq.jpg?t=161792",1070 WINA
+https://live.amperwave.net/playlist/saga-winaammp3-ibc1.m3u?source=tunein&amp;source=TuneIn&amp;gdpr=1
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s17947/images/logoq.jpg?t=1",560 The Answer Chicago
+https://playerservices.streamtheworld.com/api/livestream-redirect/WINDAM.mp3?DIST=TuneIn&amp;TGT=TuneIn&amp;maxServers=2&amp;gdpr=1&amp;partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc4MTg4NTE3NiwiaXNzIjoidGlzcnYifQ.wKWi2AqQTFZZ90MjJSFdTvhqAfH3Sg-Ck62FfXPuUms
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s305694/images/logoq.jpg?t=152064",92.9 Bloomberg Boston
+https://tunein.cdnstream1.com/3689_96.mp3?aw_0_1st.skey=1781885187&amp;aw_0_1st.abtest=&amp;aw_0_1st.stationId=s305694&amp;aw_0_1st.premium=false&amp;source=TuneIn&amp;aw_0_req.gdpr=true&amp;aw_0_1st.platform=tunein&amp;aw_0_1st.genre_id=g255&amp;aw_0_1st.class=talk&amp;aw_0_1st.ads_partner_alias=ce.Other&amp;aw_0_azn.planguage=en&amp;aw_0_1st.is_ondemand=false&amp;aw_0_1st.topicId=na&amp;aw_0_1st.programId=p1542919&amp;aw_0_1st.affiliateIds=a33070%2ca40075&amp;aw_0_1st.bandId=2&amp;delivery=1
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s44576/images/logoq.png?t=1726238022000",860 Business 860
+http://origin2-ord-cmg.streamguys1.com/san860-encoder.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s35962/images/logoq.png?t=636272",88.1 KUT
+https://streams.kut.org/4426_128.mp3?aw_0_1st.playerid=kut-tunein
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s17075/images/logoq.jpg?t=3",1130 Bloomberg New York
+https://tunein.cdnstream1.com/3523_96.mp3?aw_0_1st.skey=1781885234&amp;aw_0_1st.abtest=&amp;aw_0_1st.stationId=s17075&amp;aw_0_1st.premium=false&amp;source=TuneIn&amp;aw_0_req.gdpr=true&amp;aw_0_1st.platform=tunein&amp;aw_0_1st.genre_id=g24&amp;aw_0_1st.class=talk&amp;aw_0_1st.ads_partner_alias=ce.Other&amp;aw_0_azn.planguage=en&amp;aw_0_1st.is_ondemand=false&amp;aw_0_1st.topicId=na&amp;aw_0_1st.programId=p1542919&amp;aw_0_1st.affiliateIds=a33070%2ca39100%2ca40075%2ca39163&amp;aw_0_1st.bandId=1&amp;delivery=1
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s22052/images/logoq.jpg?t=1",1450 Money Radio WP$E
+https://radio.bd.psu.edu:8501/wpse
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s102443q.png",Day Trading Radio LIVE
+https://stream2.dtrshost.com/audio/live/icecast.audio
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s29290/images/logoq.jpg?t=152063",99.1 Bloomberg Washington D.C.
+https://tunein.cdnstream1.com/2877_96.mp3?aw_0_1st.skey=1781885285&amp;aw_0_1st.abtest=&amp;aw_0_1st.stationId=s29290&amp;aw_0_1st.premium=false&amp;source=TuneIn&amp;aw_0_req.gdpr=true&amp;aw_0_1st.platform=tunein&amp;aw_0_1st.genre_id=g24&amp;aw_0_1st.class=talk&amp;aw_0_1st.ads_partner_alias=ce.Other&amp;aw_0_azn.planguage=en&amp;aw_0_1st.is_ondemand=false&amp;aw_0_1st.topicId=na&amp;aw_0_1st.programId=p1542919&amp;aw_0_1st.affiliateIds=a33070%2ca39100%2ca40075%2ca39163&amp;aw_0_1st.bandId=2&amp;delivery=1
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s32303/images/logoq.png?t=1",1440 The Biz Minneapolis
+https://playerservices.streamtheworld.com/api/livestream-redirect/KYCRAM.mp3?DIST=TuneIn&amp;TGT=TuneIn&amp;maxServers=2&amp;gdpr=1&amp;partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc4MTg4NTMxMCwiaXNzIjoidGlzcnYifQ.W-RNiSHdro0PLdsoxFdoiL-HCaqcg7kb-W4fFsoIO50
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s35297q.png",1220 A.M. Twelve Twenty K.D.O.W.
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDOWAM.mp3?DIST=TuneIn&amp;TGT=TuneIn&amp;maxServers=2&amp;gdpr=1&amp;partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc4MTg4NTQzMiwiaXNzIjoidGlzcnYifQ.S5894hW-ffpI4yiySp6xmT44odmlJhmin9e-7G2amGI
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s308991/images/logoq.jpg?t=1",Bloomberg London
+https://tunein.cdnstream1.com/4062_96.mp3?aw_0_1st.skey=1781885466&amp;aw_0_1st.abtest=&amp;aw_0_1st.stationId=s308991&amp;aw_0_1st.premium=false&amp;source=TuneIn&amp;aw_0_req.gdpr=true&amp;aw_0_1st.platform=tunein&amp;aw_0_1st.genre_id=g24&amp;aw_0_1st.class=talk&amp;aw_0_1st.ads_partner_alias=ce.Other&amp;aw_0_azn.planguage=en&amp;aw_0_1st.is_ondemand=false&amp;aw_0_1st.topicId=na&amp;aw_0_1st.programId=p963346&amp;aw_0_1st.affiliateIds=a33070%2ca39100%2ca40075&amp;aw_0_1st.bandId=16&amp;delivery=1
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s320766/images/logoq.png?t=1",Podcast Radio Business
+https://ais-sa8.cdnstream1.com/2747_192.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s293112/images/logoq.jpg?t=1",TMDAC Business Club Radio
+http://api.spreaker.com/listen/show/2012537/episode/latest/shoutcast.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s337533/images/logoq.png?t=1",Espacio Network
+https://acp2.lorini.net:28050/stream
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s112228q.png",重庆经济广播 101.5
+http://lhttp.qingting.fm/live/1499/64k.mp3

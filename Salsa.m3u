@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://localhost/storage/station-logos/019ee3c5-9a02-731f-8414-4ea0e5fbd618.png",Boom 106.1
+http://ic.streann.com:8000/boom
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s353087/images/logoq.png?t=1",Radio Sabor Latina HN
+https://sp.aljania.com:8150/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s22124/images/logoq.png?t=154660",870 WQBS
+http://us3.streamingpulse.com:7092/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s27778/images/logoq.jpg?t=152720",800 Power 800
+https://cast.streamkast.co:8455/wnnwam
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s21215/images/logoq.jpg?t=1680959167000",105.7 dfiestaradio
+https://server01.heplayer.com/8024/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s32831/images/logoq.jpg",1540 Tropical 105.7FM
+http://radioserver11.profesionalhosting.com:9431/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s95277/images/logoq.jpg",99.7 LATINO 99 FM
+http://lmmradiocast.com:1050/;stream.mp3
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s21763/images/logoq.png?t=159191",1030 Viva FM
+https://stream.broadcastserver.net:2020/stream/wvvo
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s332146/images/logoq.jpg?t=1",Stereo Gozadera
+https://stream.ideskhn.com:7001
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s347617/images/logoq.jpg?t=2",Alegria 102.3 Fm
+https://stream.zeno.fm/5oblg65annuuv
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s335401/images/logoq.jpg?t=2",LA SALSERA FM 88
+https://stream.zeno.fm/q3c3qqy7938uv
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s354266/images/logoq.png?t=1",TU MUNDO STEREO
+https://stream.zeno.fm/uvdzzhbupp8uv
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s346050/images/logoq.jpg?t=1",Ecos del Caribe
+https://stream1.mcvhost.com/ecosdelcaribe
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s351323/images/logoq.jpg?t=1",LA SALSERA FM
+https://stream.zeno.fm/q3c3qqy7938uv.m3u
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s260619/images/logoq.png?t=1",EL SON DE CHUPO 92.8
+https://cloudstream2032.conectarhosting.com/8036/stream
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s13972q.png",Radio Tacuarembo
+http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM

@@ -955,3 +955,237 @@ http://184.154.145.114:8122/;.mp3
 http://streamer.tcworks.net:8000/kvhu
 #EXTINF:-1 tvg-logo="",CILU 102.7 &quot;LU Radio&quot; Lakehead University - Thunder Bay, ON
 http://luradio-server.lakeheadu.ca:8000/stereo128
+#EXTINF:-1 tvg-logo="https://www.radio.unam.mx/wp-content/uploads/2023/03/RadioUNAM_logo_azul.png",RADIO UNAM (AM): Experiencia Sonora
+https://tv.radiohosting.online:9486/stream
+#EXTINF:-1 tvg-logo="",Century Radio NI mom
+https://s2.radio.co/s87ffbc098/listen
+#EXTINF:-1 tvg-logo="https://radio.iit.edu/wp-content/uploads/2019/06/wiit_logo.png",WIIT 88.9 Illinois Institute of Technology, Chicago, IL
+http://216.47.133.68:8000/WIITstream
+#EXTINF:-1 tvg-logo="https://hochschulradio-aachen.de/wp-content/uploads/2023/07/cropped-Design-ohne-Titel-73-1.png",Hochschulradio Aachen
+http://evans.hochschulradio.rwth-aachen.de:8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://www.wmpg.org/wp-content/themes/wmpg/library/images/apple-icon-touch.png",WMPG
+http://quarrel.str3am.com:7270/
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/5a015738e45a7c278ef5f070/t/63d307f48ecdb352c01b42f3/1674774516313/asset_2.png?format=1500w",KSUA 91.5FM
+https://stream.radio.co/se776fab22/listen
+#EXTINF:-1 tvg-logo="https://www.wusb.fm/misc/favicon.ico",WUSB 90.1 State University of New York at Stony Brook, NY
+http://stream.wusb.stonybrook.edu:8090/;.mp3
+#EXTINF:-1 tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL&amp;url=https://kwnkradio.org/&amp;size=128",KWNK - Reno Community Radio
+http://s3.radio.co/sd2b4bf544/listen
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszerű-kép-32x32.png",Cool FM - kultX
+http://mediagw.e-tiger.net/stream/krehq
+#EXTINF:-1 tvg-logo="https://chuo.fm/wp-content/uploads/2025/02/cropped-cropped-chuologo_colour-1024x1024-1-removebg-preview-180x180.png",CHUO-FM 89.1 University of Ottawa, ON
+https://stream.statsradio.com:8102/stream
+#EXTINF:-1 tvg-logo="https://you.radio/favicon.ico",Exclusively The Cure
+https://nl4.mystreaming.net/er/thecure/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.kutztown.edu/prebuilt/favicons/apple-touch-icon.png",Kutztown University Radio
+https://nap.casthost.net/proxy/mregensb1/kur64
+#EXTINF:-1 tvg-logo="https://www.radionorthland.org/wp-content/themes/pioneer-mobile/favicon.ico",Pioneer 90.1
+https://amber.streamguys1.com:6095/livehd1.mp3
+#EXTINF:-1 tvg-logo="",WLUR 91.5 Lexington, VA
+http://perseus.shoutca.st:9045/stream
+#EXTINF:-1 tvg-logo="http://www.wrtu.pr/favicon.ico",WRTU 89.7 Radio Universidad de Puerto Rico, San Juan
+http://streaming.radiouniversidad.pr:8062/;
+#EXTINF:-1 tvg-logo="",WHUR-HD3 &quot;96.3 WHBC&quot; Howard University - Washington, DC
+http://whurhd3.streamon.fm:8000/WHURHD3-48k.aac
+#EXTINF:-1 tvg-logo="https://www.curtinfm.com.au/wp-content/uploads/2019/08/Curtin_White.png",Curtin Radio - Perth - 100.1 FM
+http://usa7.fastcast4u.com/proxy/curtinfm?mp=%2F1
+#EXTINF:-1 tvg-logo="https://www.cfru.ca/wp-content/uploads/2018/03/favicon.png",CFRU 93.3
+https://listen.cfru.ca/
+#EXTINF:-1 tvg-logo="https://media.live365.com/download/2a3a4445-87f4-48e5-85e3-f81f10086e94.png",Alternative Rock Variety
+https://streaming.live365.com/a18329/playlist.m3u8?playerid=esPlayer
+#EXTINF:-1 tvg-logo="http://www.wsiu.org/apple-touch-icon.png",WSIU 91.9 Carbondale, IL
+http://peridot.streamguys.com:5230/wsiu-hd1
+#EXTINF:-1 tvg-logo="https://static.parastorage.com/client/pfavico.ico",WCSF 88.7
+https://ais-sa1.streamon.fm/7030_32k.aac
+#EXTINF:-1 tvg-logo="https://globeradio.org/wp-content/uploads/2019/02/google-play-badge-1-300x89.png",WGCS 91.1 &quot;The Globe&quot; Goshen, IN
+http://icecast.goshen.edu:8000/wgcs-128vbr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/KACU_89.5_Logo.gif/220px-KACU_89.5_Logo.gif",KACU 89.5 &quot;Abilene Public Radio&quot;, TX
+http://22983.live.streamtheworld.com/KACUFM_SC
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ3f_0oAkMCxIOU3RhdGlvblByb2ZpbGUYgIDQg9jhnggMogEEemVubw/image/?u=1661665596000",UNIWA DRM
+https://stream-176.zeno.fm/q38yd26rcg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxMzh5ZDI2cmNnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9HQXRLVmtMUWxDNUNLNGlCSElPemciLCJpYXQiOjE3MjgzMjIwNDUsImV4cCI6MTcyODMyMjEwNX0.0GSZM0QK-L_qxEL0-_zV9lCJT6N52Pn3KZ7dJtuHXeU&amp;aw_0_req_lsid=2bcbca64888703e84d2eb1011cfa577b&amp;dot-uid=0b14220400fae63a8eb57922&amp;amb-uid=8677843517994978339&amp;an-uid=0&amp;triton-uid=cookie%3Aec86263c-b05f-49bb-a6ca-7953e83d18e5
+#EXTINF:-1 tvg-logo="https://i0.wp.com/kxua.com/wp-content/uploads/2023/01/cropped-KXUA.png?fit=32%2C32&amp;amp;ssl=1",KXUA
+https://listen.kxua.com/stream
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b9fbf0_e9857935d3774e64ad70b908389b5aa3%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/b9fbf0_e9857935d3774e64ad70b908389b5aa3%7Emv2.jpg",WERG 90.5, Erie
+https://ic597c2174.fastserv.com/listen
+#EXTINF:-1 tvg-logo="http://ckuw.ca/assets/img/ckuw_2014.png",CKUW 95.9 University of Winnipeg, MB
+http://shout.mtl.gameservers.com:9025/
+#EXTINF:-1 tvg-logo="https://www.ktec895.com/wp-content/uploads/2017/08/highResFavicon.png",KTEC
+http://kteclive.oit.edu:8000/live.mp3
+#EXTINF:-1 tvg-logo="https://www.wjcu.org/files/2020/11/site-icon.png",WJCU 88.7 John Carroll University - University Heights, OH
+http://streaming.jcu.edu:8000/wjcu-aac-hi
+#EXTINF:-1 tvg-logo="https://umfm.com/favicon.ico",UMFM 101.5
+https://live.umfm.com:8015/stream/2;
+#EXTINF:-1 tvg-logo="https://tmn.truman.edu/wp-content/uploads/sites/6/2025/03/dry-ink.jpg",88.7 KTRM
+https://securestream.truman.edu/ktrm
+#EXTINF:-1 tvg-logo="",Radio Frequenza
+http://s6.mediastreaming.it:9000/;stream.mp3
+#EXTINF:-1 tvg-logo="https://cjsw.com/wp-content/uploads/2019/09/cjsw-logo-colour.png",CJSW 90.9 University of Calgary, AB
+http://stream.cjsw.com/cjsw.mp3
+#EXTINF:-1 tvg-logo="https://kspc.org/wp-content/uploads/2023/05/1.png",KSPC
+https://kspc.radioca.st/stream?type=http&amp;nocache=41177
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/606cbd0425e521406545c73c/t/606cc7bfc8dc4f5a2b46b1d9/1617741760052/WGDR+-+transparent.png?format=1500w",WDHR - Central Vermont Community Radio
+https://wgdr.broadcasttool.stream/wgdr_128
+#EXTINF:-1 tvg-logo="",UniFM 94,5https://radiounifm.com.br/
+https://funpar.jmvstream.com/stream
+#EXTINF:-1 tvg-logo="https://static2.koelncampus.com/media/social/social-6754ff.jpg",Kölncampus
+https://live.koelncampus.com/live
+#EXTINF:-1 tvg-logo="",UCTV - University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",WTHS: The Voice of Hope College
+https://s3.radio.co/scf79220ed/listen
+#EXTINF:-1 tvg-logo="https://wrkc.kings.edu/wp-content/uploads/2016/07/wrkc-logo-revised-4-100x100.png",88.5 WRKC
+https://s5.reliastream.com/proxy/peter1?mp=/stream
+#EXTINF:-1 tvg-logo="",CyC Radio
+https://stream.radio.co/s978e5f6bd/listen
+#EXTINF:-1 tvg-logo="http://chsrfm.ca/blog/wp-content/uploads/2013/01/CHSRfm_150.png",CHSR-FM 97.9
+http://usa6.fastcast4u.com/proxy/chsrbroa?mp=/stream
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sitesv/AA5AbUDTlhTyNgo2lbbV6RK78n8Zp3kpSZqxBhAIHwoHxChl7fyPOfnDcqUFGwy-OVreixcalz8o2yH6e--0yd41e-ozCYCeFvZN1U-ahVRy3Nk802wPnvmdyxgnO3POwiizAdv0B-h39pSk5SIeKvryFmFVcoUWDgPdW4RnuM7zyCOmdgPXZP5uKCkxMb_-0Co=w16383",WKNH Keene
+https://streams.radio.co/sa460c8a9d/listen
+#EXTINF:-1 tvg-logo="https://www.unap.cl/prontus_unap/imag/portal.png",Radio UNAP 101.9
+https://sonic.portalfoxmix.club/8276/stream
+#EXTINF:-1 tvg-logo="https://bonn.fm/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-17.14.41-e1771111460973-300x170.jpeg",bonn.fm
+http://bonnfm-webstream-pc.radiostudio.uni-bonn.de/live_high?nocache=1
+#EXTINF:-1 tvg-logo="https://www.chmafm.com/welcome/wp-content/uploads/2026/06/The-CHMA-Store-is-now-open-Support-your-local-radio-in-style.svg",CHMA-FM 106.9 Mount Allison University - Sackville, NB
+http://chma-nicecast.mta.ca:8000/listen
+#EXTINF:-1 tvg-logo="https://radioua.cl/wp-content/uploads/2026/06/logo-radio-ua.png",Radio FM Universidad de Antofagasta 99.9
+https://sonicstream-puntual.grupozgh.cl/8040/radioua
+#EXTINF:-1 tvg-logo="https://www.thelion.fm/wp-content/uploads/2017/08/dummy.jpg",The Lion 90.7 FM - WKPS
+https://n0a.radiojar.com/k9uw1tyr7x8uv
+#EXTINF:-1 tvg-logo="https://cklu.ca/wp-content/uploads/2020/01/14642527_1457599590936699_3974620778409395994_n.jpg",CKLU 96.7 Laurentian University - Sudbury, ON
+http://ckluradio.laurentian.ca:88/broadwave.mp3
+#EXTINF:-1 tvg-logo="https://www.ufromedios.cl/wp-content/uploads/2024/03/FaviconWEB.ico",UFRO Radio
+https://mdstrm.com/audio/5e7d00bf57988307b310abff/live.m3u8
+#EXTINF:-1 tvg-logo="",104.7 Universitária - UFES
+https://everest.radionanet.com:8990/stream
+#EXTINF:-1 tvg-logo="https://22westmedia.com/icon.png",22 West Media Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/22WESTRADIOONLINEAAC.aac
+#EXTINF:-1 tvg-logo="https://www.syn.org.au/favicon.ico",SYN FM
+https://23163.live.streamtheworld.com/3SYNAAC_SC
+#EXTINF:-1 tvg-logo="http://www.taps2011.com/uploads/8/8/0/3/8803855/published/taps-profile-pic.jpg?1762927436",TAPS RADIO ALICIA
+https://us1.amfmph.com/ssl/tapsradi?mp=/stream&amp;1642337283814
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/628cb3_64b3abd3441345ae87625702185d45ce%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/628cb3_64b3abd3441345ae87625702185d45ce%7Emv2.jpg",The MYX - Bismarck State College
+https://us2.maindigitalstream.com/ssl/BSC
+#EXTINF:-1 tvg-logo="",Amarillo College FM90
+https://streaming.live365.com/a59335
+#EXTINF:-1 tvg-logo="https://xhunesfm.unes.edu.mx/images//apple-touch-icon.png",España FM 92.9
+https://sh4.radioonlinehd.com:8526/stream
+#EXTINF:-1 tvg-logo="https://uclaradio.com/wp-content/uploads/2023/08/Radio_favicon1-3.png",UCLA Radio
+https://live.uclaradio.com/listen/ucla_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://www.wruf.com/wp-content/themes/ufl-main-uni/img/favicon/favicon-blue_1.png",WRUF - AM 850
+https://ais-sa1.streamon.fm/7644_64k.mp3
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sitesv/AA5AbUB28_zxxD8YErCLJySrdCdJfrZeD5NqzvOlQegbYFlHGDqWeeYz4X0D3_OSFYDzbVapwwZoGhE5iq-RPJtbwZPmPC7ixxKKB7GGIbpngPb4vXw8FX51hL5oQAQIP4OxxOXEJlK2Jb4GQm7MbX37zMC4bqfZpcppe9K-tpO1RzbF7aSbfXRsQcnw0bx18zQ=w16383",Radio Nicolaita
+http://148.216.0.21:8000/rnic
+#EXTINF:-1 tvg-logo="https://images.prismic.io/kdvs/Z65EEpbqstJ9-mBp_logo.png?auto=format,compress&amp;rect=0,46,192,101&amp;w=2400&amp;h=1260",KDVS Davis
+https://archives.kdvs.org/stream
+#EXTINF:-1 tvg-logo="https://www.montgomerycollege.edu/_images/global/apple-touch-icon-57x57.png",eRadio WMCR
+https://www.streamvortex.com:8444/s/11060
+#EXTINF:-1 tvg-logo="https://www.umf.maine.edu/wumf/wp-content/uploads/sites/186/2021/11/cropped-umf-favicon.png",WUMF 91.5 FM
+http://wumfstreaming.umf.maine.edu:8000/wumf
+#EXTINF:-1 tvg-logo="",WMTB 89.9 FM
+https://stream.zeno.fm/vngdpfrorwutv
+#EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/924/2025/02/01192021/kxsulogo_fixed.png",KXSU
+https://c556.fastserv.com/kxsu
+#EXTINF:-1 tvg-logo="",WCBN 88.3 - Univ. of Michigan Campus Radio, Ann Arbor, MI
+http://floyd.wcbn.org:8000/wcbn-hd.mp3
+#EXTINF:-1 tvg-logo="http://wruv.org/wp-content/uploads/2015/01/wruv-logo-300-1-1.png",wruv
+http://icecast.uvm.edu:8005/wruv_fm_128
+#EXTINF:-1 tvg-logo="https://www.georgetownradio.com/wp-content/uploads/2026/01/wgtbrecordtransparent-150x150.png",WGTB - Georgetown Radio
+https://s4.radio.co/sbeba14c92/listen
+#EXTINF:-1 tvg-logo="",WVKR 91.3 FM – Independent Radio
+https://26733.live.streamtheworld.com/WVKRFM.mp3
+#EXTINF:-1 tvg-logo="http://wcdbfm.com/i/WCDB90LOGO.jpg",WCDB Albany 90.9 FM
+https://streams.wcdb.fm/stream
+#EXTINF:-1 tvg-logo="https://mcms.manic.vision/cms/images/file/1a11bae3-6b9b-4e88-a77a-72184a8ae1ad/public.jpg",CampusFM
+http://stream.campusfm.de/
+#EXTINF:-1 tvg-logo="https://www.cc-seas.columbia.edu/wkcr/sites/all/themes/wkcrd7/favicon.ico",WKCR
+http://wkcr.streamguys1.com/live
+#EXTINF:-1 tvg-logo="",radioaktiv Campusradio
+http://stream.radioaktiv.org:8233/VeryHiFi
+#EXTINF:-1 tvg-logo="https://wnyu.org/favicon.ico",WNYU 89.1
+http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3
+#EXTINF:-1 tvg-logo="",KSDT
+https://s4.radio.co/s2c33c7adb/listen
+#EXTINF:-1 tvg-logo="https://www.mynspr.org/apple-touch-icon.png",KCHO 91.7 &quot;North State Public Radio&quot; Chico, CA
+http://23023.live.streamtheworld.com/KCHOFM_64_SC
+#EXTINF:-1 tvg-logo="https://www.wnmufm.org/apple-touch-icon.png",Public Radio 90
+https://wnmu.streamguys1.com/wnmu-fm
+#EXTINF:-1 tvg-logo="https://jornal.usp.br/wp-content/uploads/2021/03/JornaldaUSP-default.png",Rádio USP 93.7 FM
+https://flow.emm.usp.br:8008/radiousp-128.mp3
+#EXTINF:-1 tvg-logo="",KVNO 90.7 University of Nebraska at Omaha, NE
+http://kvnovm-hd1.unomaha.edu:8000/listen.mp3
+#EXTINF:-1 tvg-logo="https://1062fm.co.il/wp-content/uploads/og-image.png",AudioVersity
+https://1062onair.runi.ac.il/idc123.mp3
+#EXTINF:-1 tvg-logo="https://rainydawg.org/logo.png",Rainydawg Radio
+http://166.62.119.4:8000/stream
+#EXTINF:-1 tvg-logo="https://wpmedia-wtju.nyc3.digitaloceanspaces.com/wp-content/uploads/2022/10/25174724/wtju-hero.png",WTJU 91.1 FM The University of Virginia, Charlottesville, VA
+https://streams.wtju.net/wtju-live.mp3
+#EXTINF:-1 tvg-logo="https://transmedia.unam.edu.ar/templates/yootheme/cache/42/logo_transmedia_home-4274af76.webp",FM Universidad 98.7 - Universidad Nacional de Misiones
+https://fm.unam.edu.ar/fm
+#EXTINF:-1 tvg-logo="https://radio.unison.mx/wp-content/uploads/2019/01/favicon.ico",Radio Universidad (Hermosillo) - 107.5 FM - XHUSH-FM - Universidad de Sonora - Hermosillo, SO
+http://148.225.54.10/broadwavehigh.mp3
+#EXTINF:-1 tvg-logo="https://wvcr.com/wp-content/uploads/2024/09/WVCR-300x300.png",WVCR 88.3 FM Siena University
+https://stream.revma.ihrhls.com/zc6306
+#EXTINF:-1 tvg-logo="http://www.radiouniversidad911.com.ar/public/themes//radio/images/radio.ico",Radio Universidad - FM91.1 UTN Resistencia
+http://01.solumedia.com.ar:8336/
+#EXTINF:-1 tvg-logo="https://im1.lixty.com/images/ro-radio-sweet-vibes-logo.jpg?w=160",Sweet Vibes Radio
+https://a8.asurahosting.com:7640/stream
+#EXTINF:-1 tvg-logo="",101.5 Chula Radio
+http://radio11.plathong.net:7590/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.wzbt.org/wp-content/uploads/2016/09/wzbt_webmain.png",WZBT 91.1 Gettysburg College, PA
+http://war.str3am.com:8310/live
+#EXTINF:-1 tvg-logo="https://jornal.usp.br/wp-content/uploads/2021/03/JornaldaUSP-default.png",Rádio USP 107.9 FM
+https://flow.emm.usp.br:8008/radiousp-rp-128.mp3
+#EXTINF:-1 tvg-logo="https://you.radio/favicon.ico",Exclusively - R.E.M. Hits
+https://streaming.exclusive.radio/er/remhits/icecast.audio
+#EXTINF:-1 tvg-logo="https://ucvtv.cl/wp-content/uploads/2025/05/cropped-logo-UCVTV-favicon-32x32.png",Universidad Católica de Valparaíso
+http://sonando.us.digitalproserver.com/ucvradio
+#EXTINF:-1 tvg-logo="https://npr.brightspotcdn.com/dims4/default/7440fe7/2147483647/strip/true/crop/600x315+0+1/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwshu%2Ffiles%2F201804%2FId-Wshu-Pr-Rgb-v.png",WSHU 91.1 Fairfield, CT
+http://wshu.streamguys.org/wshu-air
+#EXTINF:-1 tvg-logo="https://servicios.unileon.es/radio-universitaria/wp-content/themes/ule_wp_2025/img/favicon.ico",Radio Universitaria León
+http://radio.unileon.es:8000/radio-unileon-320
+#EXTINF:-1 tvg-logo="https://www.liberty.edu/favicon.ico",WQLU 90.9 - The Light - Lynchburg, VA
+http://ic.liberty.edu:8000/WQLU
+#EXTINF:-1 tvg-logo="https://www.radiozai.net/apple-touch-icon.png",Radio Zai.net
+http://stream.mandragola.com/radiozainet
+#EXTINF:-1 tvg-logo="https://universidadcalf.com/wp-content/uploads/2020/08/cropped-fav01.png",Universidad Claf 103.7 Mhz
+http://cdn.instream.audio:9032/stream
+#EXTINF:-1 tvg-logo="https://www.ckcufm.com/wp-content/uploads/2022/01/cropped-CKCULogoNoType512-32x32.png",CKCU The Mighty 93.1
+https://stream2.statsradio.com:8124/stream
+#EXTINF:-1 tvg-logo="https://assets.squarespace.com/universal/default-favicon.ico",Bates College Radio
+https://wrbc-stream.creek.org/stream?download=true
+#EXTINF:-1 tvg-logo="",WMUAx
+https://usa17.fastcast4u.com/proxy/dferre05?mp=/1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkUrP1xMepqypGnS0siXYWj9JI7hLCvApcQxt15BkV2jFqwFWH6hajAiAH5bfmNW2JQ1k9J2x0Sr8PRdvYxMIpHkQfpN_WSUF5aS86Y_Xksz5CLCLveRDPgdrtF80IhbcsnTQxiJYZuoWOMevOF4gr_L65iOwQ8ot2yfV35pAiuqbau_cw7Yz4-ATQhg/w1200-h630-p-k-no-nu/logo-search-grid-2x-8.bin",radioalfa tropical5
+http://stream.zeno.fm/x9y4ytkavqzuv
+#EXTINF:-1 tvg-logo="",WMUA 91.1 FM
+https://usa5.fastcast4u.com/proxy/qernhlca?mp=/1
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/68f005d02be1a418f8bea145/1043550c-5632-4107-a58f-4bf5da9db325/favicon.ico?format=100w",WBRU
+https://s3.radio.co/s115121de1/listen
+#EXTINF:-1 tvg-logo="https://www.ufmg.br//app/uploads/2025/12/social-image.png",Rádio UFMG Educativa
+https://www3.ufmg.br/streamingradioaovivo/aovivo.mp3
+#EXTINF:-1 tvg-logo="https://www.kdur.org/favicon.ico",KDUR 91.9 Fort Lewis College Radio - Durango, CO
+http://kdurradio.fortlewis.edu/stream
+#EXTINF:-1 tvg-logo="https://www.eou.edu/favicon.ico",KEOL Eastern Oregon University
+http://barix.streamguys.net/barix_hi
+#EXTINF:-1 tvg-logo="",Radio Control 99.4FM
+https://michae14-gecko.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://www.citr.ca/images/citr-disco-favicon.png",CITR 101.9 University of British Columbia, Vancouver, BC
+http://live.citr.ca:8000/live.mp3
+#EXTINF:-1 tvg-logo="",WVKR 91.3 Vassar College - Poughkeepsie, NY
+http://15693.live.streamtheworld.com/WVKRFM_SC
+#EXTINF:-1 tvg-logo="https://www.uniara.com.br/imagens/logo_topo.webp",Radio Uniara
+http://radio.uniara.com.br:88/broadwavehigh.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMKuVeIMCW8__t6UVhcplWONxNyX1mIv0dQ&amp;s",Radio UBA 87.9
+https://radiostreaming.rec.uba.ar:8000/LiveRadioUBA
+#EXTINF:-1 tvg-logo="https://www.ktu.edu.tr/image/tr_bg.png",RADYO KTU
+https://sslyayin.netyayin.net:8076/
+#EXTINF:-1 tvg-logo="https://www.udem.edu.mx/themes/custom/udm/images/udem-compartir.jpg",Radio UDEM (Monterrey) - 90.5 FM - XHUDEM-FM - Universidad de Monterrey - Monterrey, NL
+http://c3.radioboss.fm:8161/stream
+#EXTINF:-1 tvg-logo="https://radio.unr.edu.ar/wp-content/uploads/2022/12/Perfiles-y-portadas_RadioUNR-061.png",RADIO UNR
+https://cdn.instream.audio/:9202/stream
+#EXTINF:-1 tvg-logo="https://kbcu.bethelks.edu/fb-share-image.png",KBCU-FM 88.1 Bethel College - North Newton, KS
+http://kbcu-live.bethelks.edu:8000/kbcu
+#EXTINF:-1 tvg-logo="https://files.cercomp.ufg.br/weby/up/120/o/favicon.png?1773061360",Rádio Universitária UFG
+https://streaming.ufg.br:8443/radiouniversitaria
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/5858568ad1758e3ed9b61481/t/5859d0488419c213faf7715b/1482281032996/kaoslogo.png?format=1500w",KAOS 89.3 Community Radio - Olympia, WA
+http://205.134.192.90:8930/;.mp3

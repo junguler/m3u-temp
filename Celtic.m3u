@@ -57,3 +57,35 @@ http://abm22.com.au:8000/CONTAINER97
 http://79.173.124.23:1121/Lovekir
 #EXTINF:-1 tvg-logo="https://folkalley-wp-assets.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/07130534/cropped-fa-fav-32x32.jpg",Folk Alley
 https://freshgrass.streamguys1.com/folkalley-128mp3
+#EXTINF:-1 tvg-logo="https://www.radioutopia.org.es/wp-content/uploads/2024/12/Imagen-portada.png",Radio Utopía
+http://streaming.radioutopia.org.es:8000/radio-utopia.mp3
+#EXTINF:-1 tvg-logo="https://you.radio/favicon.ico",Exclusively The Dubliners
+http://2.mystreaming.net/er/thedubliners/icecast.audio
+#EXTINF:-1 tvg-logo="https://i0.wp.com/lizeradio.com/blog/wp-content/uploads/2024/08/chinese-chestnut-37-512.png?fit=32%2C32&amp;#038;ssl=1",栗子的輕音樂
+http://lizeradio.com:8080/
+#EXTINF:-1 tvg-logo="https://vowr.ca/wp-content/uploads/2024/08/logo_vowr_cropped-150x150.png",Newfoundland and Labrador&#039;s Pioneer Radio Station
+https://c21.radioboss.fm/stream/193
+#EXTINF:-1 tvg-logo="https://thesoundofireland.com/wp-content/uploads/Sound-of-Ireland-Twitter-Header.png",The Sound of Ireland
+https://christmasfm.cdnstream1.com/2548_128.mp3
+#EXTINF:-1 tvg-logo="https://raidiofailte.com/favicon.ico",Raidió Fáilte
+http://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/liveireland1.png?version=0a4f5f98b0bfa1ec244dfbcd12eadd081873ba84",LiveIreland Channel 1
+http://192.111.140.11:8058/stream
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/f8262cbec051ecf275108ba5ac9f4395?t=_640x640",Celtic-Sounds lautfm
+http://stream.laut.fm/celtic-sounds
+#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico",Radio Caprice - Celtic
+http://79.111.14.76:8000/celtic
+#EXTINF:-1 tvg-logo="https://celtic-rock.de/favicon_48.png",celtic-rock.de
+http://stream.laut.fm/celtic-rock
+#EXTINF:-1 tvg-logo="https://folkalley-wp-assets.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/07130534/cropped-fa-fav-32x32.jpg",Folk Alley
+http://freshgrass.streamguys1.com/folkalley-64aac
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/344781/resized/180x172c/clonmellon_community_radio.jpg",Clonmellon Community Radio
+https://eu8.fastcast4u.com/proxy/ccr?mp=/1
+#EXTINF:-1 tvg-logo="https://www.rrr.ie/wp24/wp-content/uploads/2024/07/RiRa-LARGE-Trans-Back-1024x553.png",Raidió Rí-Rá
+http://icy-zurich.mpbnl.nl/rrr
+#EXTINF:-1 tvg-logo="https://wumb.org/wp-content/themes/wumb/images/favicon.png",WUMB 91.9 FM Boston, MA
+http://wumb.streamguys1.com/wumb919fast
+#EXTINF:-1 tvg-logo="https://www.celticmusicradio.net/wp-content/uploads/2021/03/cropped-CMR-Logo-New-Ross-New-again-morse-correct-32x32.jpg",Celtic Music Radio
+http://stream.celticmusicradio.net:8000/celticmusic.mp3
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/644f88e788ad697e875f478d4ca45636?t=_640x640",Radio Rabenwind
+http://stream.laut.fm/rabenwind

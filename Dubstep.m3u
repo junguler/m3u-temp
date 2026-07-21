@@ -41,3 +41,43 @@ http://play.sas-media.ru/play_256
 http://streams.fluxfm.de/freak/mp3-320/audio/play.m3
 #EXTINF:-1 tvg-logo="https://www.rinse.fm/og-image.png",Rinse France
 https://radio10.pro-fhi.net/radio/9041/stream
+#EXTINF:-1 tvg-logo="http://www.screamlondon.net/images/logo.jpg",Scream London
+http://s2.voscast.com:8074/;stream/1/
+#EXTINF:-1 tvg-logo="https://all-radio.online/assets/templates/img/favicon/apple-icon-57x57.png",Legend Fm
+https://legendfm.in/player/relaying.php
+#EXTINF:-1 tvg-logo="",Riddim Dubstep
+http://79.111.119.111:8000/riddimdubstep
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/e797015256e9f3ab389620ca256101ec?t=_640x640",Punk4all
+http://punk4all.stream.laut.fm/punk4all?pl=m3u&amp;t302=2026-01-14_23-31-38&amp;uuid=f48a4cfb-e564-4195-a56c-7de0ab32a1b7
+#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico",RadCap - Metalstep
+http://79.111.14.76:8000/metalstep
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/469051279486906368/QLjkWvWr.jpeg",Hitradio Antenne Sachsen-Anhalt
+https://stream.radiobrocken.de/live-hal-lei/mp3-256
+#EXTINF:-1 tvg-logo="https://eilo.org/press/eilo_default.jpg",Dubstep Radio
+http://eilo.org:8000/dubstep
+#EXTINF:-1 tvg-logo="https://aplus.fm/img/channel_blank.svg",Aplus.FM Deep
+https://shoutcast.aplus.fm/aplus_deep_128
+#EXTINF:-1 tvg-logo="https://somafm.com/logos/400/dubstep400.png",SomaFM Dub Step Beyond
+https://ice6.somafm.com/dubstep-256-mp3
+#EXTINF:-1 tvg-logo="https://dubstep24h.com/wp-content/uploads/2024/06/DUBSTEP24H.gif",Dubstep24h
+https://stream.24dubstep.pl/listen/dubstep24h/live
+#EXTINF:-1 tvg-logo="https://xenfm.com/favicon.svg",XenFM
+https://radio.xenfm.com/listen/xenfm/radio.mp3
+#EXTINF:-1 tvg-logo="https://lowpressurezone.com/apple-touch-icon.png",Low Pressure Zone
+https://radio.lowpressurezone.com/listen/low_pressure_zone/live-320
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/1live/app/sendereihen-grafik-fiehe-100~_v-gseagaleriexl.jpg",1LIVE Fiehe
+http://wdr-1live-fiehe.icecast.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3
+#EXTINF:-1 tvg-logo="https://cdn.promodj.com/legacy/i/favicon/favicon_32.png",PromoDJ: Dubstep
+http://radio.promodj.com:8000/dubstep-192
+#EXTINF:-1 tvg-logo="https://radiogoose.ru/favicon.ico",ГУСЬ.Мидтемпо
+https://stream1.radiogoose.ru/listen/midtempo/play
+#EXTINF:-1 tvg-logo="https://24dubstep.pl/wp-content/uploads/2020/10/xcropped-logo_po_kompresji.png.pagespeed.ic.YxsjiF_JYL.webp",24Dubstep.pl DropZone Radio
+https://stream.24dubstep.pl/radio/8000/mp3_normal
+#EXTINF:-1 tvg-logo="",Technolovers TRAP
+https://stream.technolovers.fm/trap?ref=radiobrowser
+#EXTINF:-1 tvg-logo="https://ilovemusic.de/favicon.png",i love radio - harder music
+http://ilm.stream35.radiohost.de/ilm_ilovechillhop_mp3-192?upd-meta&amp;upd-scheme=http&amp;_art=dD0xNzY4NDU2MzE0JmQ9MzYxMWRlYTIxMWU2OTQyMDhiYjE
+#EXTINF:-1 tvg-logo="https://kindredeverything.com/favicon.png",KINDRED
+https://kindred.radiocult.fm/stream
+#EXTINF:-1 tvg-logo="https://www.sub.fm/wp-content/uploads/2020/04/facebook-link-image.jpg",Sub FM
+https://fmsub.radioca.st/stream?type=http&amp;nocache=140

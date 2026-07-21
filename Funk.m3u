@@ -375,3 +375,227 @@ http://stream.laut.fm/sunsetcity
 http://protostar.shoutca.st:8390/;
 #EXTINF:-1 tvg-logo="https://www.pbsfm.org.au/sites/default/files/pbs-logo-stacked-col-2014.gif",PBS 106.7FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAACHIGH.aac
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/63cf3a4457b7f81606eeacef15d21490?t=_640x640",SOUL RADIO
+https://listen.soulradio.it/it
+#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico",Australian Digital Radio Network - Simon and Garfunkel
+http://abm22.com.au:8000/CONTAINER104
+#EXTINF:-1 tvg-logo="https://www.secondradio.de/img/sr_logo_with_claim_2019.svg",SecondRadio - Your Music Your Life
+http://secondstream.de:10001/
+#EXTINF:-1 tvg-logo="https://streetsoundsradio.com/favicon.ico",Crucial Hip Hop and Electro
+https://uksoutha.streaming.broadcast.radio/crucial
+#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico",Radio Caprice - Funky House
+http://213.141.131.10:8000/funkyhouse
+#EXTINF:-1 tvg-logo="https://whur.com/wp-content/uploads/sites/25/2024/08/podcast_banner2-e1742494857411.png?w=599",WHUR 96.3
+https://futuri-das.cdnstream1.com/7167_48k.aac
+#EXTINF:-1 tvg-logo="https://www.kmhd.org/pf/resources/images/kmhd/kmhd-default.jpg?d=211",KMHD
+https://api.spreaker.com/v2/episodes/57033473/play.mp3
+#EXTINF:-1 tvg-logo="",Radio Epic
+https://broadcast.miami/proxy/epic?mp=/stream/;
+#EXTINF:-1 tvg-logo="http://music.cubicspace.fm:42424/mpeg",Cubic Space Radio
+http://music.cubicspace.fm:42424/mpeg
+#EXTINF:-1 tvg-logo="https://www.ffn.de/typo3conf/ext/ffn_site/Resources/Public/Icons/Favicons/favicon-16x16.png",Radio FFN - 80er
+https://stream.ffn.de/peppermintfm/mp3-192/?ref=radio-browser
+#EXTINF:-1 tvg-logo="https://www.ukbassradio.com/wp-content/uploads/2024/01/IMG-20240129-WA0020-2.jpg",UK Bass
+https://ukbassradio.com/stream
+#EXTINF:-1 tvg-logo="https://www.rtsfm.com/favicon.ico",RTS Sète
+http://str0.creacast.com/rts-sete
+#EXTINF:-1 tvg-logo="https://www.rtsfm.com/favicon.ico",RTS Béziers
+http://str0.creacast.com/rts-beziers
+#EXTINF:-1 tvg-logo="https://www.thediscoparadise.com/img/logo-square.jpg",The Disco Paradise
+https://broadcast.miami/proxy/thediscoparadise
+#EXTINF:-1 tvg-logo="",iLive Radio.com - Toronto, ON
+http://streaming.radio.co/s735df8c1c/listen
+#EXTINF:-1 tvg-logo="https://highrise.game/assets/images/highrise-meta.png",BAILÃO MISTERIOUS RADIO
+https://stream.zeno.fm/5vxixvrpqentv
+#EXTINF:-1 tvg-logo="https://radio.texoplex.ch/favicon.png",Radio Texoplex
+https://radio.texoplex.ch/stream
+#EXTINF:-1 tvg-logo="https://radionula.com/favicon.png",Radio Nula
+https://strm.radionula.com/classics
+#EXTINF:-1 tvg-logo="https://www.happy-radio.org/images/happy_radio.png",Happy Radio France
+http://37.187.77.45:9179/stream
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/4a617298ca9d1bb30b7b3dbbbab440dc?t=_640x640",JOY - Funky Sounds 4 Central Europe
+https://joy.stream.laut.fm/joy?pl=m3u&amp;t302=2026-01-15_02-26-08&amp;uuid=f580dbd4-9802-4176-97ff-eb049173bf1c
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/c5008bbb23931c2c8da68a0d901602d2?t=_640x640",Jazzradio GrooveFM
+http://streaming.groovefm.de/
+#EXTINF:-1 tvg-logo="https://www.beagleradio.co.nz/wp-content/uploads/2022/06/Beagle-Logo_v4-02.jpg",Beagle 88.1
+https://stream.beagleradio.co.nz/stream
+#EXTINF:-1 tvg-logo="",2unes Wave Jazz
+http://login.webinternetradio.com:1320/stream
+#EXTINF:-1 tvg-logo="https://durable.sfo3.cdn.digitaloceanspaces.com/services/2eEORBUbziMfgTg8p4xipq3pbQWGXYx9gBtYQWRxhjcvsyvPx52JcOXReJ0MEnqe.png",Love Soul Radio London
+https://s1.citrus3.com:8018/stream
+#EXTINF:-1 tvg-logo="https://az-de-01.worldradiobeat.com/static/uploads/browser_icon/192.1732244547.png",Original Fast Radio
+https://az-de-01.worldradiobeat.com/listen/originalfastradio/live
+#EXTINF:-1 tvg-logo="",bTuner
+http://radio.btuner.ru:8000/live.ogg
+#EXTINF:-1 tvg-logo="https://www.preciousradio.com/images/favicons/mjradiog.png",Precious Radio Funk
+https://preciousradio.net/proxy/funk/stream
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sitesv/AA5AbUAvxq9dxqfJ4j7zeX7jrWuwlCMGP2gBoKfp0gMC08Jp_74sAm3LsF2qz2tHCqv1XQ7OGGCiOs-C_j9DNOm-K9TDOLtmZagiQPBEfMoG-lhvVOaLjGzMoW4LDNkpVp8WsYFQAqRUpttS2rJfyCwWebWoxuHmA1I1N4JkzRZa9rDyrxp72BIVyt5kAdbXH8ZcEd34R1w6CRqbs6YOhB91BAdKN6AOwKc0qUhQXymW=w1280",The Strobe Radio
+http://646.cloudrad.io:8234/
+#EXTINF:-1 tvg-logo="http://djft.radioca.st/images/favicon.ico",DJ FullTime
+http://djft.radioca.st:8152/stream
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s111827g.png",Radio Nula Beatz
+https://strm.radionula.com/lounge
+#EXTINF:-1 tvg-logo="https://galaxiebelgium.com/images/og-image.jpg",ONIB Disco
+https://play.radioking.io/onib-disco/698749?ver=487018
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/2394/fbplayer/bf0119986e6448a8bd95f62553be9b98.jpg",Radio New Black SP
+https://servidor39-3.brlogic.com:8238/live?source=website
+#EXTINF:-1 tvg-logo="https://www.rtsfm.com/favicon.ico",RTS Perpignan
+http://str0.creacast.com/rts-perpignan
+#EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico",Galattica FM
+http://stream.zeno.fm/ayef9z20198uv
+#EXTINF:-1 tvg-logo="https://swissgroove.ch/favicon.ico",Swissgroove
+http://relay1.swissgroove.ch/stream
+#EXTINF:-1 tvg-logo="https://www.rtsfm.com/favicon.ico",RTS
+http://stream.rtsfm.com/rts-national.mp3
+#EXTINF:-1 tvg-logo="https://incapablestaircase.com/wp-content/uploads/2024/08/favicon.png",Incapable Staircase
+https://streams.radio.co/s436782ce6/listen
+#EXTINF:-1 tvg-logo="",FunkStation
+http://listento.thefunkstation.com:8000/
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8f2aad_798b8c62599a429b9a325829527e0fe6%7Emv2.png/v1/fit/w_2500,h_1330,al_c/8f2aad_798b8c62599a429b9a325829527e0fe6%7Emv2.png",LE BON MIX
+https://stream10.xdevel.com/audio11s976748-2015/stream/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.emmeerreci.it/wp-content/uploads/2022/09/cropped-favicon-32x32.png",Media Radio Castellana
+https://mrc.00gate.com/
+#EXTINF:-1 tvg-logo="https://kxsf.fm/wp-content/uploads/2026/06/North-Beach-festival-2026-logo.png",KXSF
+http://stream.kxsf.fm:8000/kxsf
+#EXTINF:-1 tvg-logo="https://radiofanatica.net/images/banner9.jpg",Radio Fanática
+https://radio1-zikoxweb.radioca.st/stream
+#EXTINF:-1 tvg-logo="",Solar Radio
+https://listen-msmn.sharp-stream.com/solarlow.mp3
+#EXTINF:-1 tvg-logo="https://lemixx.fr/vite.svg",LeMixx Radio
+http://maxxima.mine.nu/lemixx
+#EXTINF:-1 tvg-logo="https://www.r90.org/wp-content/uploads/2022/07/logo_r90_50px.png",Ràdio 90
+https://giss.tv:666/r90-128.mp3
+#EXTINF:-1 tvg-logo="https://radiojoystick.de/wp-content/uploads/2026/01/asiatisch-anim.gif",Radio Joystick JOY
+http://joy.stream.laut.fm/joy?pl=m3u&amp;t302=2026-01-15_01-14-12&amp;uuid=470899ab-f5a3-4cb5-add1-0a1e4e76ea01
+#EXTINF:-1 tvg-logo="https://galaxiebelgium.com/images/og-image.jpg",ONIB Dj RADIO
+https://listen.radioking.com/radio/583019/stream/643364?ver=699277
+#EXTINF:-1 tvg-logo="https://soulrhythmsradio.com/wp-content/uploads/2024/01/STATION-LOGO-100x100.jpg",Soul Rhythms Radio UK
+http://forwardmystream.com/soulrhythmsradiouk
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/1cdeb2_d480bb8158f4469284f543e790063616%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/1cdeb2_d480bb8158f4469284f543e790063616%7Emv2.jpg",Soul Connexion Radio
+https://stream.soulconnexionradio.com/1045
+#EXTINF:-1 tvg-logo="",RADIOWAVES
+https://quincy.torontocast.com/radiowaves
+#EXTINF:-1 tvg-logo="https://radiohitmix.com.br/public/75070-2025-01-28.png",Hitmix Brasil
+https://radio.stmsrv.com:8464/stream
+#EXTINF:-1 tvg-logo="http://thevibesmoothgrooveradio.weebly.com/uploads/9/7/3/1/97313354/jazz_1_orig.jpg",Smooth Groove Radio - The Vibe
+https://usa17.fastcast4u.com/proxy/smoothgr?mp=/1
+#EXTINF:-1 tvg-logo="",goLOUNGE
+http://fr1.streamhosting.ch/lounge128.mp3
+#EXTINF:-1 tvg-logo="",Radio Warner Bros.
+https://broadcast.miami/proxy/warnerbros?mp=/stream/;
+#EXTINF:-1 tvg-logo="https://www.reteradioazzurra.it/portale/homepage/logo_facebook.jpg",Rete Radio
+https://reteradioazzurra.radioca.st/stream
+#EXTINF:-1 tvg-logo="",FunkURadio
+https://furfmcou.radioca.st/stream
+#EXTINF:-1 tvg-logo="",Superfly webradio Easy
+https://edge81.stream.superfly.fm/superfly-easy
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5HJuS6yWCZCykQR-TGHZWdD1_-17zir7HncDBK8NG2ZQI-fdZP8JiFabyZi8Qlw5qGkBK3rIQ0GX4D5bRVYLE1M2hgsgGwZGY-chOArST8GHIMaS-yj7f_-jOl9ytuB_WgH1v_bDZia8cmgF_1t6RBLbht4wZr_ZzixiYFhDAp71uB5kj_ggwDU56/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-18_11-48-02.png",🕺 Générations Funk
+https://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
+#EXTINF:-1 tvg-logo="https://pinguinradio.com/favicon.ico",Pinguin Groove
+https://samcloud.spacial.com/api/listen?sid=98587&amp;m=sc&amp;rid=174412
+#EXTINF:-1 tvg-logo="https://www.abovethecloudsradio.com/assets/index-img-01-f4e59547.jpg",Above The Clouds Radio
+https://radio.abovethecloudsradio.com/listen/above_the_clouds_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://superfly.fm/player/img/s_logo.png?cb=V3000008",Superfly Beach
+https://web.stream.superfly.fm/superfly-beach
+#EXTINF:-1 tvg-logo="https://www.luxfunkradio.com/logos/luxfunk_radio_logo_black_r_400x400.png",Luxfunk Radio
+https://luxfunkbroadcast.com/proxy/luxfunkradio/stream
+#EXTINF:-1 tvg-logo="https://www.radioorca.com/favicon.ico",Radio ORCA
+http://radioorca.com/stream
+#EXTINF:-1 tvg-logo="https://pcradio.app/favicon.svg",Stevie Wonder
+https://stream.pcradio.ru/stevie_wonder-hi
+#EXTINF:-1 tvg-logo="https://manaoradio.com/wp-content/uploads/2021/08/kmno-300x90-logo-master-reverse-300x90.png",KMNO Mana&#039;o Radio 91.7 FM MAUI
+https://kmno.streamguys1.com/live
+#EXTINF:-1 tvg-logo="https://skate.fm/og/home.jpg",Skate.fm
+https://listen.skate.fm:8443/live
+#EXTINF:-1 tvg-logo="https://ssradio.com/wp-content/themes/ssradio/images/ssrDeepLogo.gif",SSRadio
+https://ssradiol.radioca.st/listen.mp3
+#EXTINF:-1 tvg-logo="https://you.radio/favicon.ico",Exclusively Chic
+https://nl4.mystreaming.net/er/chic/icecast.audio
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/eb87fecc30d4ab747f30fe6f2d900478?t=_640x640",Laut.fm houseschuh
+http://stream.laut.fm/houseschuh
+#EXTINF:-1 tvg-logo="https://www.taradio.ch/wp-content/uploads/2024/07/cropped-customcolor_icon_customcolor_background-3-32x32.png",Ta Radio
+https://stream.taradio.ch/dab
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.radio-club.it/young/wp-content/uploads/2021/06/cropped-LOGO-CLUB-SOLO-tondo1.png?fit=32%2C32&amp;#038;ssl=1",Radio Club
+http://streaming.cst98.com:8000/club.mp3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg",Радио Рекорд Neurofunk
+http://radiorecord.hostingradio.ru/neurofunk96.aacp
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/694e50526967315f7ec7d204be8662d2?t=_640x640",Galattica FM
+https://stream.laut.fm/galatticafm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/KZUM_FM_Logo.png",KZUM 89.3 - Lincoln, NE
+http://us4.internet-radio.com:8030/stream
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.radioreload.it/wp-content/uploads/2019/04/cropped-Logo-reload-favicon.png?fit=32%2C32&amp;#038;ssl=1",RadioReload.it
+https://stream3.xdevel.com/audio0s975522-197/stream/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.retrosoulradio.co.uk/wp-content/themes/lem-base-theme-child/favicon.ico",Retro Soul Radio
+https://streaming.galaxywebsolutions.com/stream/retrosoul
+#EXTINF:-1 tvg-logo="",Solar Radio 256
+http://listen-msmn.sharp-stream.com/solarhigh.mp3
+#EXTINF:-1 tvg-logo="https://soulone.com.br/wp-content/uploads/2023/09/Favico-100x100.jpg",Radio Soul One
+https://stream.soulone.com.br/listen/soulone/externo
+#EXTINF:-1 tvg-logo="http://thegrooveradio.co.uk/upload/design/5d546c1c601bc8.77916079.jpg",The Groove
+http://uk7.internet-radio.com:8352/
+#EXTINF:-1 tvg-logo="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1j3/1j3767.ico?ph=a9529f376f",House Fusion Radio
+https://housefusionradiouk.out.airtime.pro/housefusionradiouk_a
+#EXTINF:-1 tvg-logo="https://chocolate-radio.com/wp-content/uploads/2022/10/alexa-play-chocolate-radio-smart-speakers.webp",chocolate-radio.com
+https://stream.radio.co/sa7336b687/listen
+#EXTINF:-1 tvg-logo="https://nicecream.fm/og.png",Nicecream.fm - Green
+https://play.nicecream.fm/radio/8010/green.mp3
+#EXTINF:-1 tvg-logo="https://www.fgchic.de/favicon.ico",FG Chic Germany
+https://stream.rcs.revma.com/7pww0pn0742vv
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/favicon.ico",Radio Caprice - Neurofunk
+http://79.111.119.111:8004/neurofunk
+#EXTINF:-1 tvg-logo="http://www.radio.radio42.com/favicon.ico",radio42
+http://lounge-office.rautemusik.fm/
+#EXTINF:-1 tvg-logo="https://thefunkychannel.com/wp-content/uploads/2022/06/TFC-LOGO-groot.png",The Funky Channel
+https://cast3.asurahosting.com/proxy/breakou1/stream
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/a01811a8a9a44de0bc6d403fa3eacf5a?t=_640x640",Laut.FM Mojo
+http://stream.laut.fm/mojo
+#EXTINF:-1 tvg-logo="https://media.smartradio.ro/2019/12/groovy-3.png",Smart Radio -Smart and Groovy
+https://web.smartradio.ro:8443/smartgroovy
+#EXTINF:-1 tvg-logo="https://radioelectro.ru/img/lighted-dj-controller-2111015-1568x1045.jpg",RadioGora Groove Cafe
+https://listen.radiogora.ru:8443/groovecafe320
+#EXTINF:-1 tvg-logo="https://discomusicradio.com/wp-content/uploads/2020/07/cropped-dmr2-32x32.png",DISCO MUSIC RADIO
+https://discomusicradio.com:8100/;
+#EXTINF:-1 tvg-logo="https://ondamar80.com/wp-content/uploads/2025/11/cropped-Logo-ONDAMAR80-32x32.png",Ondamar80
+https://radiostreamingserver.com/listen/ondamar80/live
+#EXTINF:-1 tvg-logo="https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/filters:format(jpeg)/medias/Vsj0LZpM34/image/forum_homepage1764586646454.jpg",Forum
+http://start-forum.ice.infomaniak.ch/start-forum-high.mp3
+#EXTINF:-1 tvg-logo="https://www.radio-eurodisco.com/favicon.ico",Radio Euro Disco
+https://broadcast.miami/proxy/eurodisco?mp=/stream/;
+#EXTINF:-1 tvg-logo="https://www.oldskoolradio.nl/wp-content/uploads/2026/03/cropped-logo-768x768-1-32x32.png",Oldskoolradio
+https://caster08.streampakket.com/proxy/arjanhoo?mp=/stream
+#EXTINF:-1 tvg-logo="https://www.urbanhit.fr/favicon.ico",Urban funk
+http://urbanhitfunk.ice.infomaniak.ch/urbanhitfunk-128.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/DeathSmack/zamrock/main/docs/img/website_bg/website_bg_014.jpg",ZamRock Radio
+https://megason-radioinfo.deathsmack-a51.workers.dev/hifi.aac
+#EXTINF:-1 tvg-logo="https://www.radio-hbw.de/bilder/logo/logo_800x450.jpg",radio hbw Harz-Börde-Welle Aschersleben
+https://live.radio-hbw.de/hbw.mp3
+#EXTINF:-1 tvg-logo="https://myhitmusic.de/wp-content/uploads/2016/06/Mr.Groove.jpg",MyHitMusic! Mr. GROOVE SOUL – FUNK RADIO
+https://radio2.myhitmusic.de/Mr-Groove.mp3
+#EXTINF:-1 tvg-logo="https://www.comalaradio.com/wp-content/uploads/2020/04/miniature-fb-site.jpg",COMALA Radio
+http://www.radioking.com/play/supag
+#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/pikapi/images/a8903fd7-01e2-45a1-b768-61e3d8e1ff6a/1200x680",FIP Groove
+http://radio-metadata.fr:8000/fipgroove
+#EXTINF:-1 tvg-logo="https://radioplusgent.be/themes/core/static/img/social.jpg",Radio Plus Gent
+http://live.radiostudio.be/plus
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/57b384_bd15c1f0e205440a9b43deac4ca2a42e~mv2.jpg/v1/fill/w_1024,h_500,al_c/57b384_bd15c1f0e205440a9b43deac4ca2a42e~mv2.jpg",Your City Radio
+https://c34.radioboss.fm:8234/stream
+#EXTINF:-1 tvg-logo="https://www.radio-bmg.com/imgs/favicon.css",Radio BMG
+https://broadcast.miami/proxy/bmg?mp=/stream/;
+#EXTINF:-1 tvg-logo="",FIP Groove
+https://icecast.radiofrance.fr/fipgroove-hifi.aac
+#EXTINF:-1 tvg-logo="https://you.radio/favicon.ico",Exclusively Prince
+https://streaming.exclusive.radio/er/prince/icecast.audio
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/bd3a7e2f93022db947350387f607d072?t=_640x640",Soulallnighter
+http://stream.laut.fm/soulallnighter
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/237e8da80c48363a5b84d7049cce802e?t=_640x640",bluesfan
+http://stream.laut.fm/bluesfan
+#EXTINF:-1 tvg-logo="https://bermudafunk.org/typo3conf/ext/rsm_base/Resources/Public/Favicons/apple-icon-57x57.png",Bermudafunk Mannheim
+http://stream1.datenkollektiv.net/bermudafunk.ogg
+#EXTINF:-1 tvg-logo="",AllFunkRadio
+https://stream.laut.fm/54-funk-soul-dance
+#EXTINF:-1 tvg-logo="https://www.vrtw.life/wp-content/themes/storefront-child/assets/images/footer_logo.png",VRTW Radio
+https://streamer.radio.co/s17198c529/listen
+#EXTINF:-1 tvg-logo="https://radio.zelerk.com/api/nowplaying/vapor/art/1783078684.jpg",24/7 Vapor Funk Radio
+https://radio.zelerk.com/listen/vapor/stream.ogg
+#EXTINF:-1 tvg-logo="",Radio Atlantic
+https://broadcast.miami/proxy/atlantic?mp=/stream/;

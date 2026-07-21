@@ -1,3 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s283578/images/logoq.png?t=153926",2ToneRoom
 https://radio.2toneroom.net/proxy/2toneroom/stream
+#EXTINF:-1 tvg-logo="https://4zzz.org.au/assets/4zzz-1021-boat.jpg",4ZZZ Digital
+https://iheart.4zzz.org.au/zed-digital
+#EXTINF:-1 tvg-logo="https://2toneroom.net/wp-content/uploads/2016/02/cropped-2toneroom_logo-32x32.jpg",+2ToneRoom Radio (GDL) - Online - www.2toneroom.net - Guadalajara, Jalisco
+http://209.141.43.200:10018/stream
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=2000x1500:format=jpg/path/s336eac0e5d31340b/backgroundarea/ie926119403221908/version/1492702183/image.jpg",Black Tapes On Air
+http://stream.laut.fm/black-tapes-on-air
+#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico",RadCap - Ska Punk
+http://79.111.119.111:9039/;
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/3756ebc7-116a-4b5d-a92a-8e54bf5b2836/Webpage%20banner-57187cb.png",Zombie Dog Radio
+http://fast.citrus3.com:8556/stream
+#EXTINF:-1 tvg-logo="https://www.villageradio.net/wp-content/uploads/2017/06/cropped-Logo-red-hi-res-32x32.png",Classic Alternative.. VillageRadio.Net
+https://streaming.live365.com/a73319_2
+#EXTINF:-1 tvg-logo="https://xerw.welshbrook.com/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-12-2026-01_34_40-PM-32x32.png",XERW Radio
+https://stream-153.zeno.fm/uz79wmx8twzuv
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/582a073a2e69cf1958987260/1538164578153-ZCURV7D2OFM9YAH2K1GA/Destressed+full+logo.jpg?content-type=image%2Fjpeg",Northern Soul FM
+http://www.theradio.eu:9000/northsoul.mp3
+#EXTINF:-1 tvg-logo="https://vo-radio.de/assets/templates/img/favicon/apple-icon-57x57.png",Skamusic Münster
+https://laut.fm/skamusic
+#EXTINF:-1 tvg-logo="",Ondaradikal
+https://stream.laut.fm/ondaradikal
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2863bb_95637527ede348f89575ef9ab5d6376f~mv2.png/v1/fill/w_900,h_900,al_c/2863bb_95637527ede348f89575ef9ab5d6376f~mv2.png",WRPS 88.3 FM
+http://www.ophanim.net:9690/stream/1/
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/6ac62b79c4cba7664c0c1d05ba8c1fbc?t=_640x640",LOMOVOGT
+http://stream.laut.fm/lomovogt
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/249840/fbplayer/d5e453679d047c8c00351bbaa8fb9fa4.png",Radio Ateos de Barcelona
+https://servidor25.brlogic.com:7054/live
+#EXTINF:-1 tvg-logo="https://theme.webme.com/designs/iceblue/screen.jpg",007FM
+http://stream.laut.fm/ruffneck-smille?ref=radiode
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/6e5121965d9e3872b889b62c77db0866?t=_640x640",Bubble Radio
+http://bubble-radio.stream.laut.fm/bubble-radio?pl=pls&amp;t302=2026-01-14_23-40-00&amp;uuid=c562a471-2fab-4452-bdb7-b51da47a3e88
+#EXTINF:-1 tvg-logo="https://cutterschoiceradio.com/images/logo.png",Cutters Choice
+https://cutters-choice-radio.radiocult.fm/stream
+#EXTINF:-1 tvg-logo="https://s0.wp.com/i/blank.jpg?m=1383295312i",Radio Malva 104.9FM
+http://radiomalva.ddns.net:8000/rmbc.ogg
+#EXTINF:-1 tvg-logo="",Anarchy Factory
+https://cheetah.streemlion.com:2825/stream
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/bf9f98f4e2a418d70d2dc1f3d2868cf9?t=_640x640",Fortschritt
+https://fortschritt.stream.laut.fm/fortschritt

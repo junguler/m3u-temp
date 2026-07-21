@@ -99,3 +99,25 @@ http://s9.voscast.com:7044
 https://sydney.onair.im/listen/im_radio_sydney/radio.mp3
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s105558/images/logoq.jpg?t=1",FunX Arab
 https://icecast.omroep.nl/funx-arab-bb-mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s141144q.png",Ar-Risallah
+http://178.33.90.25:8006
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s191512q.png",Arabnights Radio
+http://arabnights-prod.live-streams.nl:8020/
+#EXTINF:-1 tvg-logo="https://radio2moro.com/wp-content/uploads/2025/04/Radio-2-Moro-3D_512px-150x150.png",Radio 2Moro
+http://s4.voscast.com:7648/;listen.mp3
+#EXTINF:-1 tvg-logo="",MRC:-Radio Adwaa ATFAL 4
+https://stream.zeno.fm/8wrs2bh0x1zuv
+#EXTINF:-1 tvg-logo="https://radiocina.com/images/fb_icon.jpg?1783218466",CINA-FM 102.3 &quot;Radio CINA&quot; Windsor, ON
+http://ice7.securenetsystems.net/CINA-FM
+#EXTINF:-1 tvg-logo="",DWG Radio Arabic
+http://server25531.streamplus.de/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.mbcmood.com/favicon/apple-touch-icon.png",MBC Mood
+https://radio-mbc-mood.mbc.net/radio-mbc-mood.m3u8
+#EXTINF:-1 tvg-logo="https://my.radioalgerie.dz/sites/default/files/logo_eprs.png",Radio Bouira
+https://radiobouira.ice.infomaniak.ch/bouira.mp3
+#EXTINF:-1 tvg-logo="https://my.radioalgerie.dz/sites/default/files/logo_eprs.png",Radio Tamanrasset
+https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3
+#EXTINF:-1 tvg-logo="https://sawtsydney.com.au/favicon.ico",Sawt Sydney كل الفرق
+https://usa10.fastcast4u.com/nada22
+#EXTINF:-1 tvg-logo="",ستة شوال
+https://qurango.net/radio/SixDaysOfShawwal

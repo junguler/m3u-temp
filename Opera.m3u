@@ -153,3 +153,47 @@ https://nl4.mystreaming.net/uber/crjoansutherland/icecast.audio
 https://channels.fonotron.ru:8000/Chan_75_256.mp3
 #EXTINF:-1 tvg-logo="https://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png",Radio-Classique
 https://listen.radioking.com/radio/228241/stream/271810
+#EXTINF:-1 tvg-logo="https://www.wrti.org/apple-touch-icon.png",WRTI Classical
+https://wrti-live.streamguys1.com/classical-mp3
+#EXTINF:-1 tvg-logo="https://www.classic.nl/images/logo_classicnl_square.jpg",Classic nl original
+https://stream.classic.nl/classicnl.mp3
+#EXTINF:-1 tvg-logo="https://antena2.rtp.pt/wp-content/uploads/2026/03/partilha_RTP-A2.jpg",Antena 2
+http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.mdr.de/image/2ea3da51-9ca1-4150-92da-8c45f31ce58f/AAABnSMevZA/AAABnSSvrFg/16x9-big/mdr-klassik-programm-mikro-100.webp?width=1920",MDR Klassik 256
+https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/max/stream.mp3
+#EXTINF:-1 tvg-logo="",安徽戏曲广播
+https://lhttp.qtfm.cn/live/1952/64k.mp3
+#EXTINF:-1 tvg-logo="https://classicalfm.ca/favicon.ico",CFMZ 96.3 &quot;The New Classical FM
+https://live.amperwave.net/direct/mzmedia-cfmzfmmp3-ibc2
+#EXTINF:-1 tvg-logo="https://classicfm.bg/static/bg/microsites/classicfm/img/favicon.ico",Classic FM
+https://cdn.bweb.bg/radio/classic-fm.mp3
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/sso/48/1641437758835_67As1roa7.jpeg",上海戏剧曲艺广播 AM1197 FM97.2
+https://lhttp-hw.qtfm.cn/live/269/64k.mp3
+#EXTINF:-1 tvg-logo="https://ebsradio.ro/wp-content/uploads/2018/12/logo-social.png",BS Radio Classical -Cluj Napoca
+https://azura.ebsmedia.ro/listen/classical/classical128.mp3?refresh=1779029566606
+#EXTINF:-1 tvg-logo="https://radio.orpheus.ru/icon.png?icon.0_zzfa0a8y_~v.png",Радио Орфей - Хоры из опер
+https://channels.fonotron.ru:8000/Chan_62_256.mp3
+#EXTINF:-1 tvg-logo="https://www.klassikradio.de/img/og_image_fallback.png",Klassik Radio - Opera
+http://stream.klassikradio.de/opera/mp3-128/www.klassikradio.de/
+#EXTINF:-1 tvg-logo="https://radioklassik.at/fileadmin/_processed_/f/3/csm_rkS2023q2_logo_ohne_Rand_449c160eff.png",Radio Klassik Stephansdom
+http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
+#EXTINF:-1 tvg-logo="https://www.smg.cn/favicon.ico",上海戏剧曲艺广播
+https://lhttp.qingting.fm/live/269/64k.mp3
+#EXTINF:-1 tvg-logo="https://m.ajmide.com/home/ajmide.ico",听·越剧
+https://lhttp.qtfm.cn/live/20500178/64k.mp3
+#EXTINF:-1 tvg-logo="https://www.hndt.com/hndt2020/favicon.7df07eeb.ico",河南戏曲广播
+https://stream.hndt.com/live/yule/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://comunicacionsocial.org.ar/wp-content/uploads/2015/08/logoCoop.jpg",FM en Transito
+https://cdn.instream.audio/:9110/stream
+#EXTINF:-1 tvg-logo="https://www.wqxr.org/undefined/i/300/300/c/80/1/wqxr_square_logo.png",WQXR 105.9 FM
+https://stream.wqxr.org/wqxr-web?nyprBrowserId=32c67956bf1d5600
+#EXTINF:-1 tvg-logo="https://www.italyclassicalradio.it/logo.png",Italy Classical Radio
+http://philae.shoutca.st:8204/;
+#EXTINF:-1 tvg-logo="https://www.wcbwasafi.com/favicon.ico",Wasafi Fm
+http://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1 tvg-logo="https://www.classic.nl/images/logo_classicnl_square.jpg",Classic NL
+https://classic.nl/streams/?s=main
+#EXTINF:-1 tvg-logo="https://www.raiplaysound.it/cropgd/1200x630/dl/img/2021/12/09/1639052425866_radio-3classica_600x6001.png",Rai Radio Classica Filodiffusione
+http://icestreaming.rai.it/5.mp3
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/wdr3/wdr3logo100~_v-gseagaleriexl.jpg",WDR 3
+http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3

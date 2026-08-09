@@ -1,300 +1,2001 @@
-#EXTINF:-1,Radio Anonymous
-https://icecast.anon.fm/radio
-#EXTINF:-1,Relax FM Chillout
-https://pub0201.101.ru/stream/trust/mp3/128/24?
-#EXTINF:-1,Europa Plus
-http://ep256.hostingradio.ru:8052/europaplus256.mp3
-#EXTINF:-1,Hit FM (UKraine) - 128kb/s
-http://195.95.206.17/HitFM
-#EXTINF:-1,ROCK FM
-http://nashe1.hostingradio.ru/rock-128.mp3
-#EXTINF:-1,Вести ФМ (Vesti FM)
-http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF:-1,Ретро FM
-http://retroserver.streamr.ru:8043/retro256.mp3
-#EXTINF:-1,DFM RUSSIAN DANCE
-https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
-#EXTINF:-1,РАДИО ВАНЯ
-https://icecast-radiovanya.cdnvideo.ru/radiovanya
-#EXTINF:-1,DFM Дискач 90-х
-https://dfm-disc90.hostingradio.ru/disc9096.aacp
-#EXTINF:-1,Радио «Комсомольская Правда» | КП Россия
-http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
-#EXTINF:-1,Юмор FM
-http://live.humorfm.by:8000/veseloeradio
-#EXTINF:-1,Дорожное радио
-http://dorognoe.hostingradio.ru:8000/radio
-#EXTINF:-1,Спутник
-https://icecast-rian.cdnvideo.ru/voicerus
-#EXTINF:-1,Радио Патриот
-http://radio.mixto.ru:8001/patriot
-#EXTINF:-1,Вести FM
-http://icecast.vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1,Шансон Радио
-http://chanson.hostingradio.ru:8041/chanson128.mp3
-#EXTINF:-1,Дискотека СССР
-http://pub0302.101.ru:8000/stream/pro/aac/64/144?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjUuMTguMjQ4Ljk4IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODIuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzgyLjAiLCJ1aWRfY2hhbm5lbCI6IjE0NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MDU5NjQ1MTZ9.Ln1wEJ8cHHzK_Ea6Zr8J8acdny0R9ShZ_KUKVf6TmQA
-#EXTINF:-1,Радио Свобода
-https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8
-#EXTINF:-1,Instrumental Jazz
-https://jfm1.hostingradio.ru:14536/ijstream.mp3
-#EXTINF:-1,Радио Книга
-http://bookradio.hostingradio.ru:8069/fm
-#EXTINF:-1,РадиусFM
-https://stream2.datacenter.by/radiusfm_main
-#EXTINF:-1,дорожное радио (Dorognoe Radio)
-http://dorognoe.hostingradio.ru:8000/dorognoe
-#EXTINF:-1,Радио Русские Песни
-http://listen.rusongs.ru/ru-mp3-128
-#EXTINF:-1,Спокойное радио
-https://listen9.myradio24.com/6262
-#EXTINF:-1,Radio Record - Russian Gold
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13458.png",Garage FM
+https://fmradiohub.in/radio?url=http://213.189.208.146:8005/Garagefm128
+#EXTINF:-1,Радио Тема
+https://listen1.myradio24.com/trollbro5
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13772.png", Говорит Майкоп
+https://voicemaikop.hostingradio.ru:8003/voicemaikop256.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13577.png",Nebula
+https://nebulaluna.stream.laut.fm/nebulaluna?t302=2022-09-29_07-35-45&uuid=a533b6a0-9529-4155-b43d-437d5dd150d7
+#EXTINF:-1,Casual Music
+http://s5.radioheart.ru:8025/livedaoty
+#EXTINF:-1,Radio Nova
+https://play.global.audio/nova.opus
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13649.png",БИМ радио 
+https://fmradiohub.in/radio?url=http://av.bimradio.ru:8066/bim_mp3_128k
+#EXTINF:-1,Радио Классик - Classic Gold
+https://air.unmixed.ru/lradio256
+#EXTINF:-1,Radio Caprice Music Of Indian Cinema
+https://stream.zeno.fm/vmp0tkewzv8uv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/61313484.png",Radio Caprice - Happy/UK Hardcore
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/happyhardcore.m3u
+#EXTINF:-1,Radio N-Joy
+https://bravo.btv.bghttp:/adio/njoy-radio-proxy/
+#EXTINF:-1,radio-myata
+https://radio.dline-media.com/myata
+#EXTINF:-1,DFM Dance Gold 2020s
+https://dfm-dancegold20.hostingradio.ru/dancegold2096.aacp
+#EXTINF:-1,Русское Радио На́бережные Челны́
+http://95.78.125.210:90/rrk?type=.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13878.png",Revolution Radio
+https://fmradiohub.in/radio?url=http://revolutionradio.ru:8000/live.mp3
+#EXTINF:-1,Special Radio 20th Button
+http://89.235.182.18:8011/live
+#EXTINF:-1,MURKA FM - AMG_RADIO
+https://air.amgradio.ru:443/MurkaFM
+#EXTINF:-1,Balkan Rainbow
+https://s0.radioheart.ru:8000/RH20730
+#EXTINF:-1,Nostalgie
+https://nostalgie.dagfm.ru/
+#EXTINF:-1,Moscow FM
+https://icecast.vgtrk.cdnvideo.ru/moscowfm128
+#EXTINF:-1,Radio Record - Techno
+https://radiorecord.hostingradio.ru/trap96.aacp
+#EXTINF:-1,Radio Caprice - Electro-Industrial
+http://79.111.119.111:8000/electroindustrial
+#EXTINF:-1,Radio Caprice - Ambient Techno
+http://79.111.119.111:8000/droneambient
+#EXTINF:-1,Radio Alternative Krasnodar
+http://s2.radioheart.ru:8008/RH354
+#EXTINF:-1,Радио Наше Дежавю
+https://listen3.myradio24.com/23297
+#EXTINF:-1,Весна FM
+http://www.vesna.fm/player.htm
+#EXTINF:-1,Радио 54 Новосибирск
+http://91.202.68.50:8000/
+#EXTINF:-1,R Mayak Orenburg
+http://213.135.124.30:8000/maiak.mp3
+#EXTINF:-1,Максима FM
+https://stream-152.zeno.fm/p7r0ms8z4x8uv?zs=mpKuaDphRoKPUZdM8zePow
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005616/logo_4qaB33yRXb.jpg?v=20260529-media-restore",Старое Радио - Детское
+http://server.audiopedia.su:8000/detskoe128
+#EXTINF:-1,Radio Record - Club Radio
+http://online.radiorecord.ru:8102/club_128
+#EXTINF:-1,Град Петров
+https://grad-petrov.ru:8094/mp3
+#EXTINF:-1,Европа Плюс
+http://ep128.hostingradio.ru:8030/ep128
+#EXTINF:-1,Метатуман
+https://stream.zeno.fm/bwtvf35zpflvv
+#EXTINF:-1,(^^)MonteDeepRadio
+http://188.134.9.134:8000/
+#EXTINF:-1,Pop Erre Jackson
+https://stream.zeno.fm/rxx6d9fbvv8uv
+#EXTINF:-1,101.ru - 80-90-00 REMIX
+https://pub0102.101.ru:8443/stream/personal/aacp/64/907683?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI3MWE3ZTM5MDJhOGYwNWE3Mjg4OTlmMDQ2ZTFhYTQ4OCIsIklQIjoiMTQ4LjcyLjE2NS4yIiwiVUEiOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsIlJlZiI6Imh0dHBzOi8vMTAxLnJ1LyIsInVpZF9jaGFubmVsIjoiOTA3NjgzIiwidHlwZV9jaGFubmVsIjoicGVyc29uYWwiLCJ0eXBlRGV2aWNlIjoiUEMiLCJCcm93c2VyIjoiQ2hyb21lIiwiQnJvd3NlclZlcnNpb24iOiIxMjEuMC4wLjAiLCJTeXN0ZW0iOiJVYnVudHUgMTQuMDQgTFRTIiwiZXhwIjoxNzA4MDM3NTE5fQ.2MFe_JKECaIRtIu_u7VCHCpeANK9hthUnzONkJAo27U
+#EXTINF:-1,Radio Caprice - Detroit Techno Tech House
+http://79.120.39.202:8002/reggae
+#EXTINF:-1,Segenswelle Ukrainisch
+http://www.segenswelle.de:8000/ukrainisch
+#EXTINF:-1,Хит FM - 107.4 FM (Hit FM - 107.4 FM)
+https://hitfm.hostingradio.ru/hitfm96.aacp?0.5389388718939762=
+#EXTINF:-1,Spacesynth radio
+https://myradio24.org/1987
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103160/logo_YKUNE30gRt.png",Белое Радио
+https://5.restream.one/825_1
+#EXTINF:-1,Yoga Radio Kazan
+http://play.yogaradio.fm:8000/YOGAr256
+#EXTINF:-1,101.ru - Yo
+https://pub0202.101.ru:8443/stream/personal/aacp/64/908931
+#EXTINF:-1,Radiominor ru - Indie Rock Channel
+https://www.liveradio.es/http://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1,Радио НЕСТАНДАРТ (Radio Nestandart)
+https://stream.appradiofm.com/stream?url=http://listen.radionestandart.ru:8200/128.mp3
+#EXTINF:-1,Business FM 107.4 
+https://bfmreg.hostingradio.ru/spb.bfm128.mp3
+#EXTINF:-1,Радио России - Армения
+http://icecast.vgtrk.cdnvideo.ruhttp:/rzonam_mp3_128kbps
+#EXTINF:-1,ChoKak.radio
+http://s3.radioheart.ru:8056/RH982
+#EXTINF:-1,GTA5 - FM
+https://stream.zeno.fm/5vk4qtpvcfhvv
+#EXTINF:-1,Tube FM
+http://rotator.hostingradio.ru:8100/tubefm128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-gucci-fm-radio-logo.jpg",Gucci FM Radio
+https://s0.radioheart.ru:8000/RH76948
+#EXTINF:-1,Love Radio Dance
+http://stream.loveradio.ru/12_love_64?type=.aac&UID=48CFE3D853423046F4790ABA3E1BA969
+#EXTINF:-1,Komsomolskaya Pravda-Petersburg
+http://kpradio.hostingradio.ru:8000/spb.radiokp128.mp3?radiostatistica=TuneIn
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-obozrevatel-luchshie-pesni-70-80-h-logo.jpg",Radio Обозреватель - Лучшие песни 70-80-х
+https://radio-stream-2.obozrevatel.com/Old128.mp3
+#EXTINF:-1,KIDS HITS Radio
+http://92.255.229.74:8000/kidshits_aac
+#EXTINF:-1,yumo-rok
+http://youmorock.ru:8000/play?type=.mp3/stream.mp3
+#EXTINF:-1,Милицейская волна
+http://radiomv.hostingradio.ru:80/radiomv256.mp3
+#EXTINF:-1,Radio Caprice - Hip Hop
+http://79.120.77.11:9067/stream/1
+#EXTINF:-1,Радио Orgasma - Delmar
+http://listen2.orgasma.fm/sloboda
+#EXTINF:-1,קבלה לעם רוסית - Kabbalah rus
+http://icecast.kab.tv/live1-rus-574bcfd5.mp3
+#EXTINF:-1,Радио Сейбл
+http://91.197.207.171:8094/;stream.nsv
+#EXTINF:-1,Promodj Radio Klubb
+http://radio.promodj.com:8000/klubb-192?type=.mp3/stream.mp3
+#EXTINF:-1,101.ru: Office Lounge 
+https://pub0302.101.ru:8443/stream/pro/aac/64/30
+#EXTINF:-1,Radio Underground RU
+http://62.148.138.86:8585/live
+#EXTINF:-1,HR Radio
+https://hrradio.hostingradio.ru:8077/hrradio128.mp3
+#EXTINF:-1,Retro Nizhniy Novgorod FM
+http://emgregion.hostingradio.ru:8064/nnovgorod.retrofm.mp3
+#EXTINF:-1,HIP HOP RADIO 
+http://tntradio.hostingradio.ru:8027/hhr128.mp3?radiostatistica=appradiofm.com
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34027929.jpg",OTO-Radio
+https://fmradiohub.in/radio?url=http://listen1.myradio24.com:9000/7859
+#EXTINF:-1,MORE 90s
+https://cast.more.fm:8444/90
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-obozrevatel-okean-elzy-logo.jpg",Radio Обозреватель - Океан Эльзы
+https://radio-stream-1.obozrevatel.com/okeanelzy128.mp3
+#EXTINF:-1,Yumor FM
+http://den.101.ru:4000/hu_66_01
+#EXTINF:-1,Комета
+http://donetsk.kometa.fm:8000/live
+#EXTINF:-1,Красноярск FM
+http://online.krasnoyarskfm.ru:8000/krasnoyarskfm_mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14005.png",Лёгкие Люди
+https://vgtrk-podcast.cdnvideo.ru/audio/listen?id=2709592
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/53679785.png",101.ru: USSR 50-70
+https://ic4.101.ru:8000/a47
+#EXTINF:-1,Sun FM - GOLD
+https://ec5.yesstreaming.net:2590/stream
+#EXTINF:-1,Business FM Уфа
+https://radio.bfmufa.ru/
+#EXTINF:-1,RockTime Radio
+https://a9.radioheart.ru:8049/rocktime
+#EXTINF:-1,Радио Speed Garage
+https://listen4.myradio24.com/ilshat
+#EXTINF:-1,NEON channel
+https://myradio24.org/5790
+#EXTINF:-1,Radio Record Neurofunk
+https://radiorecord.hostingradio.ru/neurofunk96.aacp
+#EXTINF:-1,101.ru: Chillout 
+https://pub0201.101.ru/stream/trust/mp3/128/24
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads//uploads/2023",Semeinoje Radio 
+http://icecast.pereraadio.ee:8000/Semeinoje
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14242.png",PhonAir - LilacStation
+https://fmradiohub.in/radio?url=http://titan.shoutca.st:8282/stream.nsv
+#EXTINF:-1,Зайцев.FM Disco (Zaycev.FM Disco)
+http://zaycevfm.cdnvideo.ru/ZaycevFM_disco_32.mp3
+#EXTINF:-1,Radio "Dolce Vita"
+https://c32.radioboss.fm:18516/stream
+#EXTINF:-1,Большое радио
+https://stream.appradiofm.com/stream?url=http://nnovgorod.radiokp128.mp3.streamr.ru
+#EXTINF:-1,Retro FM (Ukraine) - 128kb/s
+http://cast.retro.ua/retro
+#EXTINF:-1,Radio Sigma 1023
+http://195.191.130.125:8000/sigma
+#EXTINF:-1,Radio Русский Хит
+http://37.233.41.76:8000/ru_hit
+#EXTINF:-1,Радио Алтын Кёль
+https://a1.radioheart.ru:9001/altynkelfm
+#EXTINF:-1,mosradio
+https://str4.pcradio.ru/mosradio_rf-med
+#EXTINF:-1,Eldo-Radio 101.4 FM
+http://emgspb.hostingradio.ru/eldoradio64.mp3
+#EXTINF:-1,Freedom
+http://46.105.171.217:8024/
+#EXTINF:-1,Beat Records Dance Radio
+https://s128.beatradio.ru
+#EXTINF:-1,KEXXX FM Kiev
+https://listen6.myradio24.com/82192
+#EXTINF:-1,92 region (relax)
+https://stream.zeno.fm/fc61xxmayf9uv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41885.png",Авторадио
+https://fmradiohub.in/radio?url=http://pub0101.101.ru:8000/stream/air/aac/64/100
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13779.png",«Красная Площадь» АНБ радио
+https://fmradiohub.in/radio?url=http://s02.radio-tochka.com:4890/radio
+#EXTINF:-1,Pilot FM
+http://stream.hoster.by:8081/pilotfm/pilot/icecast.audio
+#EXTINF:-1,Радио Сибирь
+https://stream.radiosibir.ru:8093/om2
+#EXTINF:-1,Nik_Smotrovoy
+https://stream.zeno.fm/2xaw5dvugs8uv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/81745324.png",Radio Caprice - Minimal Techno
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/mintechno.m3u
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21340712.png",101.ru: Country
+https://pub0302.101.ru:8443/stream/trust/mp3/128/24
+#EXTINF:-1,Radio Caprice Darkwave
+http://79.111.14.76:9073/
+#EXTINF:-1,Z Radio Uruguay
+https://stream.zeno.fm/26s986qcrrhvv
+#EXTINF:-1,Shark Radio
+http://listen.shoutcast.com/radio-shark-odessa
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13793.png",Радио Ингушетия
+https://fmradiohub.in/radio?url=http://77.87.97.62:8086/ingradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/78338852.png",Radio Caprice - Jazz Pop
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/jazzpop
+#EXTINF:-1,WeBDeX Relax Radio
+http://89.184.1.39:8060/
+#EXTINF:-1,UFM
+http://cast.ufmradio.ru/ufm
+#EXTINF:-1,Studio Kiev
+http://studiokiev.com/air.m3u
+#EXTINF:-1,Radio Record - Old School
+https://radiorecord.hostingradio.ru/rus96.aacp
+#EXTINF:-1,Jazz FM
+https://bravo.btv.bghttp:/adio/jazzfm-radio-proxy/
+#EXTINF:-1,Special Radio Chanson and Prison
+http://chanson.hostingradio.ru:8041/chanson4-256.mp3
+#EXTINF:-1,Душевное радио
+http://85.234.104.148:8003/
+#EXTINF:-1,101.ru: Michael Jackson
+https://pub0302.101.ru:8443/stream/pro/aac/64/52
+#EXTINF:-1,Марий Эл
+http://media.vmariel.ru:8000/mariel
+#EXTINF:-1,Radio Vera
+http://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1,Radio Caprice - Contemporary Classical
+http://79.111.119.111:8002/contclass
+#EXTINF:-1,radio-skit
+http://rsk-radio.inghetto.com:8000/radio_skit.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13960.png",Радио БГ
+https://fmradiohub.in/radio?url=http://listen.folkbg.net:8001/folkbg
+#EXTINF:-1,Jam
+https://myradio24.org/atamanfm
+#EXTINF:-1,RMC Monte Carlo 256
+https://stream.zeno.fm/8z39p1srrceuv
+#EXTINF:-1,Voice of Abkhazia
+http://109.172.136.60:8081/broadwavelow.mp3
+#EXTINF:-1,Радио Наши песни
+https://drh-connect.dline-media.com/nashipesni
+#EXTINF:-1,Rock FM - 70s
+https://jfm1.hostingradio.ru:14536/rock70.mp3
+#EXTINF:-1,7
+http://91.201.117.219:8000/stream
+#EXTINF:-1,STR FM
+https://stream.zeno.fm/c0f9cgxe0rhvv
+#EXTINF:-1,101.ru - RadioMSC
+https://pub0202.101.ru:8443/stream/personal/aacp/64/906580
+#EXTINF:-1,Radio Center 1503AM
+http://stream.radiocenter.net:9960/
+#EXTINF:-1,Radio Tern
+http://stream2.radiostyle.ru:8002/musicterninfo
+#EXTINF:-1,RadioMV Russian New Testament - 128 - The Russian Federation - bible - christian
+https://ice.radiomv.co:8440/russian new testament.mp3
+#EXTINF:-1,101.ru - New Age Classic
+https://pub0302.101.ru:8443/stream/personal/aacp/64/903620
+#EXTINF:-1,101.ru - Instrumental Dubstep Music
+https://pub0102.101.ru:8443/stream/personal/aacp/64/791861
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33352.png",Russkoe Radio 
+https://edge04.cdn.bitflip.ee:8888/RR
+#EXTINF:-1,Радио NS - Jazz
+https://icecast.ns.kzhttp:/adions-jazz
+#EXTINF:-1,Radio Record Synthwave
+https://radiorecord.hostingradio.ru/synth96.aacp
+#EXTINF:-1,Радио Известия
+https://radiosolo.ru/radio/igi/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-pro-dj-radio-logo.jpg",PRO Dj Radio
+http://live.prodjradio.net:8050/;
+#EXTINF:-1,101.ru - Robbie Williams
+https://pub0302.101.ru:8443/stream/pro/aac/64/138
+#EXTINF:-1,Как Бы Радио
+http://stream.kakbyradio.ru:8000/KakByRadio-48
+#EXTINF:-1,Radio Relax - Life FM
+http://pub0202.101.ru:8000/stream/air/aac/64/200?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI3MGVmYjM1YjVkMWNlOTU0NjBmMTIxMmIzMjdiNGU1YyIsIklQIjoiMjAzLjEwMS44Mi4xMTgiLCJVQSI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMDIuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzEwMi4wIiwidWlkX2NoYW5uZWwiOiIyMDAiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IkZpcmVmb3giLCJCcm93c2VyVmVyc2lvbiI6IjEwMi4wIiwiU3lzdGVtIjoiV2luZG93cyAxMCIsImV4cCI6MTY1NTM0MDM5NX0.s12R
+#EXTINF:-1,Штормовые Ветра
+https://listen6.myradio24.com/stormwinds
+#EXTINF:-1,101.ru - Прикосновение
+https://pub0202.101.ru:8443/stream/trust/mp3/128/196?
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/96544689.png",Radio Caprice - Pop Music USSR ЭСТРАДНАЯ МУЗЫКА СССР
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/ussr
+#EXTINF:-1,Echo of Moscow Perm
+http://echoperm.radio-tochka.com:8000/
+#EXTINF:-1,perec fm
+http://195.234.215.150:8080/radio-stilnoe
+#EXTINF:-1,101.ru - Virginia Rp Fm
+http://pub0102.101.ru:8000/stream/personal/aacp/64/873358
+#EXTINF:-1,Revoice - KFS
+http://revoice.ru:8000/kfsfm.ogg
+#EXTINF:-1,Radio Souz
+http://192.99.17.12:6005
+#EXTINF:-1,Дарик Радио
+https://darikradio.by.host.bg:8000/S2-128
+#EXTINF:-1,Rusko Radio 
+https://prostoradio.ru:8765/rusko
+#EXTINF:-1,Radio ENERGY.LV - Russian
+http://www.radioenergy.lv:9000/listen.pls
+#EXTINF:-1,RMC Radio
+https://stream.zeno.fm/rp2nxspcdxquv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Elvis Presley 
+https://pub0202.101.ru:8443/stream/pro/aac/64/111
+#EXTINF:-1,Радио Счастье в облаках
+https://myradio24.org/92472
+#EXTINF:-1,Радио Spinner - Хиты 80х
+https://live.radiospinner.com/80hs-96
+#EXTINF:-1,Радио 106.9 FM
+https://online.106i9fm.ru/106i9
+#EXTINF:-1,Faith Radio
+http://s6.radioheart.ru:8033/RH680
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/114331324.png",Radio Caprice - Vocal
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/vocal
+#EXTINF:-1,Твое Радио (100.6 FM Беларусь - Лида)
+https://www.liveradio.es/http://lider-fm.by:8020/radio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53931/logo_Frbh1vDRgT.jpg?v=20260529-media-restore",Russian Gold Record
 https://radiorecord.hostingradio.ru/russiangold96.aacp
-#EXTINF:-1,Наше Радио
-http://nashe.streamr.ru/nashe-128.mp3
-#EXTINF:-1,Шансон без цензуры
-http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
-#EXTINF:-1,ItaliaRadio (MRG.fm)
-http://listen.mrg.fm:8120/stream
-#EXTINF:-1,Радио Маяк (Radio Mayak)
-http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF:-1,Русское радио Минск 98.9 FM
-https://stream.rusradio.by:8443/live128
-#EXTINF:-1,Комсомольская правда
-https://kpradio.hostingradio.ru:8000/64
-#EXTINF:-1,101,ru Russian Dance
-https://pub0302.101.ru:8443/stream/trust/mp3/128/17?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjQ5LjM3LjE1MS42IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODguMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzg4LjAiLCJ1aWRfY2hhbm5lbCI6IjE3IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTYxODUwMTYyM30.vsWQ1s12RL1P3yuD4Eb6E2Og6YaLbXceO-cfhhhwl5s
-#EXTINF:-1,комерсант (Kommersant FM) 93.6 Moscow
-http://kommersant77.hostingradio.ru:8016/kommersant64.mp3
-#EXTINF:-1,Radio Ultra
-http://nashe1.hostingradio.ru/ultra-192.mp3
-#EXTINF:-1,Радио Сева (Radio Seva Novgorodsev)
-https://seva.ru/radio/stream
-#EXTINF:-1,Русский Рок - Russian Rock
-http://rock.volna.top/RusRock
-#EXTINF:-1,Душевное радио Минск 105.7 FM
-https://stream2.datacenter.by/dushevnoe
-#EXTINF:-1,Бизнес FM
-https://bfm.hostingradio.ru:9075/fm
-#EXTINF:-1,Legendy FM
-http://live.legendy.by:8000/legendyfm
-#EXTINF:-1,Ретро FM 70e
-http://retro70.hostingradio.ru:8025/retro70-128.mp3
-#EXTINF:-1,Comedy Radio new link
-http://ic6.101.ru:8000/stream/air/aac/64/202
-#EXTINF:-1,Радио 7 на семи холмах
-http://radio7server.streamr.ru:8040/radio7256.mp3
-#EXTINF:-1,РЕТРО ХИТ - RETRO HIT
-http://retro.volna.top/Retro
-#EXTINF:-1,Radio Caprice - Classical Piano
-http://79.120.39.202:9069/;
-#EXTINF:-1,Radio record - Main Channel
-https://radiorecord.hostingradio.ru/rr_main96.aacp
-#EXTINF:-1,Ретро ФМ
-http://retroserver.streamr.ru:8043/retro128
-#EXTINF:-1,TRANCE IS STAR RADIO
-https://myradio24.org/tisradio
-#EXTINF:-1,Известия ТВ (звук)
-https://hls-igi.cdnvideo.ru/igi/radio1/tracks-a1/mono.m3u8
-#EXTINF:-1,Radio Jazz 89.1 - JAZZ Vocals
-http://jfm1.hostingradio.ru:14536/jvstream.mp3
-#EXTINF:-1,101.ru - Deep House
-https://pub0202.101.ru:8000/stream/trust/mp3/128/173
-#EXTINF:-1,Соловьёв life FM
-https://solovievfm.hostingradio.ru/solovievfm128.aacp
-#EXTINF:-1,Anison动漫音乐台
-http://pool.anison.fm:9000/AniSonFM(320)?
-#EXTINF:-1,Авторадио - FM 90.3 - Москва
-http://ic4.101.ru:8000/v3_1
-#EXTINF:-1,Echo ЭХО Online
-https://i1.echofm.online:8443/stream
-#EXTINF:-1,Звезда
-https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
-#EXTINF:-1,Радио "Маяк"
-https://icecast-vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1,Radio Caprice - Dark Techno
-http://79.111.14.76:9139/
+#EXTINF:-1,Домашнее Радио
+http://188.225.87.45:8000/homerad
+#EXTINF:-1,Radio Caprice - Russian Rock Bard
+http://79.120.77.11:8002/rockru
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-record-big-hits-logo.jpg",Radio RECORD Big Hits
+https://air.radiorecord.md/bighits.aacp
+#EXTINF:-1,Vocal Chillout
+http://176.9.36.203:8000/vocalchillout_128
+#EXTINF:-1,101.ru - Artem radio
+https://pub0202.101.ru:8443/stream/personal/aacp/64/904836
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/77638187.png",Radio Caprice - Metalstep/Metal Dubstep/Drumstep
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/metalstep
+#EXTINF:-1,Лидер FM
+http://lider-fm.by:8000/radio
+#EXTINF:-1,101.ru - TriniX FM
+https://pub0202.101.ru:8443/stream/personal/aacp/64/907289
+#EXTINF:-1,101.ru - Ambient
+https://pub0202.101.ru:8443/stream/pro/aac/64/23
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13688.png",Радио Восток FM 
+https://fmradiohub.in/radio?url=http://stream.n340.com/18_vostok_56
+#EXTINF:-1,Radio Jazzy
+http://server.radiogora.ru:8800/jazzy320
+#EXTINF:-1,Radio "New Life"
+https://ic2.sslstream.com/nlradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/19002652.jpg",Radio Caprice - Indie/Twee Pop
+https://fmradiohub.in/radio?url=http://79.111.119.111:8002/indiepop
+#EXTINF:-1,Hypnotic
+https://hls-01-radiorecord.hostingradio.ru/record-hypno/playlist.m3u8
+#EXTINF:-1,OM Radio
+http://188.138.237.167:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-more-rock-logo.jpg",Radio MORE Rock
+https://cast.more.fm:8444/rock
+#EXTINF:-1,Radio Record Transmission Radio
+http://radiorecord.hostingradio.ru/tm96.aacp
+#EXTINF:-1,101.RU - Chillоut
+https://pub0202.101.ru:8443/stream/trust/mp3/128/24
+#EXTINF:-1,101.ru - 59 FM
+https://pub0102.101.ru:8443/stream/personal/aacp/64/875393
+#EXTINF:-1,Davidzon Radio
+http://ags.abinet.com:8800/dr.mp3
+#EXTINF:-1,Радио Нара FM(Nara FM)
+https://vofile.ru/russia/nara-fm/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103142/logo_fK9cAc1ths.png",Rap - Зайцев.FM Radio
+https://abs.zaycev.fm/rap256k
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13460.png",Радио ЗвукоКнига
+https://fmradiohub.in/radio?url=http://94.181.45.104:8005/
+#EXTINF:-1,Beauty Chillout Station
+http://s04.radio-tochka.com:5500/mount
+#EXTINF:-1,RadioSpinner - Progressive House
+https://live.radiospinner.com/prgrssvhs-32
+#EXTINF:-1,pervoe-setevoe
+http://streamer.radiovseti.ru:8000/320
+#EXTINF:-1,More FM - Acoustic
+https://cast.more.fm/acoustic
+#EXTINF:-1,Big City Radio
+http://178.33.138.231:8058/BigCityRadio192
+#EXTINF:-1,Prosto Radi.o
+http://62.80.190.246:8000/ProstoRadiO128
+#EXTINF:-1,Machine Voice
+http://radio.machine-voice.ru:9000/23695
+#EXTINF:-1,Радио ASMR
+https://play.radioasmr.ru/mp3_320
+#EXTINF:-1,Радио Эрмитаж
+https://stream.appradiofm.com/stream?url=http://lipetck.radiokp128.mp3.streamr.ru
+#EXTINF:-1,Радио Maximum
+http://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1,Europa Plus New
+https://emg02.hostingradio.ru/ep-new128.mp3
+#EXTINF:-1,Givin School Radio
+http://givin-radio.ru:8000/live
+#EXTINF:-1,Rus Music Radio
+https://stream.zenolive.com/9078a78hxueuv
+#EXTINF:-1,Радио СССР
+https://listen3.myradio24.com/ussr
+#EXTINF:-1,Radio Caprice - Dream Trance
+http://79.120.39.202:9029/stream/1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18480940.png",Radio Caprice - Nu Jazz/Future Jazz/Electro Swing
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/nujazz
+#EXTINF:-1,Одесса Мама
+http://online.odessa.fm:8000/stream
+#EXTINF:-1,Vesti
+http://90.189.116.233:8000/vestifm
+#EXTINF:-1,Коммерсантъ FM
+https://kommersant77.hostingradio.ru:8016/kommersant128.mp3
+#EXTINF:-1,Gachi Station
+https://stream.zeno.fm/f174214qvzzuv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12982022.png",Radio Caprice - Soul Blues
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/soulblues
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/178/logo_P9FaGbo6g3.jpg?v=20260529-media-restore",Танцуют все! Юмор FM
+https://pub0302.101.ru:8000/stream/trust/mp3/128/17
+#EXTINF:-1,Radio SV
+http://s0.radioheart.ru:8000/RH57103
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/105010858.jpg",Волна Счастья
+https://listen.radioking.com/radio/562580/stream/622265
+#EXTINF:-1,Radio Record - VIP MIX Radio
+http://online.radiorecord.ru:8102/vip_128
+#EXTINF:-1,Radio Caprice - Russian Shanson
+http://79.120.77.11:8000/shansonru/
+#EXTINF:-1,Europa Plus Nizhniy Novgorod
+http://emgregion.hostingradio.ru:8064/nnovgorod.europaplus.mp3
+#EXTINF:-1,Radio Anonymous
+http://anon.fm:8000/radio-low
+#EXTINF:-1,Radio Caprice  Sludge Metal
+http://79.120.77.11:9087/
+#EXTINF:-1,1jazz.ru - Classic Jazz
+http://radio.1jazz.ru:8110/radio
+#EXTINF:-1,101.ru - Latina
+https://pub0101.101.ru/stream/pro/aac/64/63?
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/74411710.png",101.ru: Live Hits
+https://ic4.101.ru:8000/a86
+#EXTINF:-1,RADIO TECHNO MIX
+https://stream.zeno.fm/r746bp8spwzuv
+#EXTINF:-1,Avtoradio-Nkz
+http://online2.gkvr.ru:8000/avtoradio_nkz_64.aac
+#EXTINF:-1,Radio Caprice - Drum amp Bass
+http://79.111.14.76:8002/drumbass
+#EXTINF:-1,Monte Carlo - 105.9 FM
+https://icecast227.ptspb.ru:8443/monte?disc=thenonstopradio.com
+#EXTINF:-1,Радио звезда
+https://icecast-zvezda.mediacdn.ruhttp:/adio/zvezda/zvezda_128
+#EXTINF:-1,Радио Русские Песни
+http://rusongs.amgradio.ru/rusongs
+#EXTINF:-1,BRATAN
+https://x.bratan.ooo:8000/radio_bratan_192.mp3
+#EXTINF:-1,Радио Дача
+https://online2.gkvr.ru:8000/dacha_nno_64.aac
+#EXTINF:-1,Glafir russian-pop Music. Artist MASHINA VREMENI 
+https://stream.rcast.net/253723
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/118609516.jpg",Radio Caprice - Oriental Metal
+https://fmradiohub.in/radio?url=http://79.111.119.111:8000/orientalmetal?type=.mp3
+#EXTINF:-1,Vmeste.FM
+http://stream.ethnicmedia.us:8000/stream
+#EXTINF:-1,Radio Record Jackin' Garage
+https://radiorecord.hostingradio.ru/jackin96.aacp
+#EXTINF:-1,Radio Caprice - Mainstre Jazz
+http://79.111.14.76:8002/mainstreamjazz
+#EXTINF:-1,Роксана Радиосы
+http://listen1.myradio24.com:9000/2761
+#EXTINF:-1,aktan
+http://195.191.78.200:8081/mp
+#EXTINF:-1,Cultural Evolution
+http://radio.cultureevolution.org/
+#EXTINF:-1,Record Disco Funk
+https://online.radiorecord.com.ua/discofunk
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/48722428.jpg",Radio Caprice - Pop Ballads
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/popballads
+#EXTINF:-1,Мост Радио
+http://94.181.181.72:8002/;
+#EXTINF:-1,Cosmic Waves  Ambient
+https://stream.zeno.fm/9km09vwud5zuv
+#EXTINF:-1,bTuner
+http://radio.btuner.ru:8000/live.ogg
+#EXTINF:-1,Radio Record - Hard Bass
+https://radiorecord.hostingradio.ru/hbass96.aacp
+#EXTINF:-1,Родное Радио
+http://85.234.36.51:8000http:/adio
+#EXTINF:-1,Радіо Хуст
+https://de1.internet-radio.com/proxy/vika3?mp=/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/139/logo_oCsXISaNDE.jpg?v=20260529-media-restore",Русская Волна
+https://ru1.amgradio.ru/RuWave48
+#EXTINF:-1,Parice _fm klubnyak
+https://stream.zeno.fm/4n3aarh56qzuv
+#EXTINF:-1,Mayama FM 940
+http://94.190.77.56:8094/
+#EXTINF:-1,Radio Caprice - Big Band
+http://79.120.39.202:9023/stream/1
+#EXTINF:-1,Useful Radio
+http://195.161.114.53:8000/feocast
+#EXTINF:-1,Радио Alex – Best Lounge Music
+https://listen7.myradio24.com/avmarushak
+#EXTINF:-1,Radio Danz
+https://streamssl.radiodanz.com/live
+#EXTINF:-1,Радио Республика (Луганск)
+https://radio.gtrklnr.ru:8443/republic.fm
+#EXTINF:-1,Radio Ufaleya
+http://radio.ufaley.su:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Instrumental 
+https://pub0301.101.ru:8443/stream/pro/aac/64/28
+#EXTINF:-1,DFM Zlatoust
+http://stream.variant.fm:8000/DFM-192
+#EXTINF:-1,Glafir russian-pop Music. Artist OLGA ORLOVA 
+https://stream.rcast.net/253858
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-obozrevatel-italyanskaya-muzyka-logo.jpg",Radio Обозреватель - Итальянская музыка
+https://radio-stream-1.obozrevatel.com/italjanskaja-muzyka128.mp3
+#EXTINF:-1,Radio Caprice - Dark Jazz
+http://79.120.39.202:8000/darkjazz
+#EXTINF:-1,Radio Randevu
+http://212.92.183.74:8370
+#EXTINF:-1,Radio Planetside2
+http://radioplanetside.ru:8000/live128
+#EXTINF:-1,Radio Caprice - Instrumental Hip-Hop
+http://79.120.77.11:8002/instrumentalhiphop
+#EXTINF:-1,Glafir russian-pop Music. Artist NYUSHA 
+https://stream.rcast.net/253774
+#EXTINF:-1,DFM Грустный Дэнс
+https://dfm-saddance.hostingradio.ru/saddance96.aacp
+#EXTINF:-1,Sunshine Radio
+http://radio.sunshineradio.ru:8000/stream/1
+#EXTINF:-1,Radio Caprice - Schlager
+http://79.120.77.11:8002/schlager
+#EXTINF:-1,Radio Nativ
+https://listen3.myradio24.com/58717
+#EXTINF:-1,Muzykabezslov FM
+http://hitfm-bolshaya20ka.hostingradio.ru/muzykabezslov96.aacp
+#EXTINF:-1,101.ru: Cyber Space 
+https://pub0302.101.ru:8443/stream/pro/aac/64/79
+#EXTINF:-1,Radio 106.9 FM
+http://online.106i9fm.ru:8000/106i9_mp3
+#EXTINF:-1,Radio DFM
+https://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1,Radio Caprice - Krautrock
+http://79.111.119.111:9089/stream/1
+#EXTINF:-1,RIA News Agency suh
+http://audio2.video.ria.ru/voicesuh
+#EXTINF:-1,Pilot - Secret FM
+https://stream.appradiofm.com/stream?url=http://radio7server.streamr.ru:8040/radio7_love64.aacp
+#EXTINF:-1,Радио ТМ-26
+https://listen7.myradio24.com/58828
+#EXTINF:-1,Plastinka
+http://c32.radioboss.fm:8165/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-obozrevatel-kantri-logo.jpg",Radio Обозреватель - Кантри
+https://radio-stream-1.obozrevatel.com/country128.mp3
+#EXTINF:-1,Megamix Music Radio
+https://stream.zenolive.com/35s98srm7zquv
+#EXTINF:-1,Монте-Карло
+http://185.39.195.90:8000/montecarlo_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-obozrevatel-reggae-ska-rocksteady-logo.jpg",Radio Обозреватель - Reggae, Ska, Rocksteady
+https://radio-stream-0.obozrevatel.com/funkreggi128.mp3
+#EXTINF:-1,Music by the Admin
+https://stream.zeno.fm/hkbdbevsa78uv
+#EXTINF:-1,Радио Монте-Карло - Bossa Nova
+https://montecarlo.hostingradio.ru/mcbossa96.aacp
+#EXTINF:-1,Железо ФМ
+http://94.102.16.36:8000/fefm
+#EXTINF:-1,VFM RADIO VOLKHOV
+http://player.vfmradio.ru/stream.ogg
+#EXTINF:-1,101.ru - IGMA
+https://pub0202.101.ru:8443/stream/personal/aacp/64/55977
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",UltraPlay 
+http://listen6.myradio24.com:9000/1124
+#EXTINF:-1,My RadioBox(live)
+https://stream.zeno.fm/7n92yrn00f9uv
+#EXTINF:-1,Radio Gela Guralia
+https://stream.zeno.fm/t52suq1dqd0uv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Glamurnaya volna 
+https://stream.laut.fm/glamwave?ref=radiode
+#EXTINF:-1,Radio Krasnoyarsk FM
+http://188.128.117.99:8000/99i1_mp3
+#EXTINF:-1,Radio Gorod
+http://radio.alania.net:8000/radiocity
+#EXTINF:-1,Радио Приморская волна
+https://listen6.myradio24.com/primovolna
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005403/logo_6DDcgQNNGp.jpg?v=20260529-media-restore",Наш Шансон
+https://myradio24.org/8144_64
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31863.png",Новое Радио
+https://stream.newradio.ru/novoe96.aacp
+#EXTINF:-1,2020FM
+http://194.58.120.159:8010/live
+#EXTINF:-1,Радио NEVSKY FM
+http://www.radionevskyfm.ru:8000http:/adio
+#EXTINF:-1,Piter FM
+https://stream.hoster.by/unistar/unistar-256/icecast.audio
+#EXTINF:-1,Radio Surprise radio
+http://sc.noviktech.pl:8000/stream
+#EXTINF:-1,Glafir russian-pop Music. Artist ALENA APINA 
+https://stream.rcast.net/253746
+#EXTINF:-1,RadioGotek
+https://stream.zeno.fm/8d8febxvpp8uv
+#EXTINF:-1,Glagolev FM
+https://stream.radio.co/s542259581/listen
+#EXTINF:-1,Radio Sevastopol
+http://3n2.ru:9000/sevas
+#EXTINF:-1,Радио NS - Русский Хит
+https://icecast.ns.kzhttp:/adions-russian
+#EXTINF:-1,tvoj-den-
+https://myradio24.org/46953
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14136.png",Freedom
+https://stream-18.zeno.fm/wp75as7e9mzuv?zs=gFTVWFP1RU-amuKxOWohvA
+#EXTINF:-1,Radio PK
+http://93.190.141.15:7022/stream
+#EXTINF:-1,Радіо Західний полюс
+http://online.z-polus.info/hq
 #EXTINF:-1,Авторадио Латвия
 https://live.relaxfm.lv/03
-#EXTINF:-1,Ностальгия - Дорожное радио
-http://stream1.hostingradio.ru:8010/19_mp3_128
-#EXTINF:-1,Громадське радіо / Hromadske radio
-http://91.218.212.67:8000/stream
-#EXTINF:-1,Радио Шоколад
-https://choco.hostingradio.ru:10010/fm
-#EXTINF:-1,Мелодии Века 96.2fm
-https://radiorecord.hostingradio.ru/sd9096.aacp
-#EXTINF:-1,HIT FM
-http://online.hitfm.ua/HitFM
-#EXTINF:-1,Retro FM
-http://retroserver.streamr.ru:8043/retro256.mp3
-#EXTINF:-1,Советская Классика
-https://rr-sovclass.hostingradio.ru/sovclass96.aacp
-#EXTINF:-1,Радио Ностальжи Россия
-https://listen8.myradio24.com/alexx333
-#EXTINF:-1,Радио Свобода (Radio Svoboda, RFE/RL Russian, ch. 4)
-http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u
-#EXTINF:-1,Вести ФМ
-https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
-#EXTINF:-1,Радио дача
-http://listen13.vdfm.ru:8000/dacha
-#EXTINF:-1,Nashe Radio
-http://nashe1.hostingradio.ru/nashe-128.mp3
-#EXTINF:-1,ЭХО
-https://i1.echofm.online:8443/stream
-#EXTINF:-1,101.ru Italo Disco
-http://pub0202.101.ru:8000/stream/pro/aac/64/161
-#EXTINF:-1,Народное радио Минск 87.9 FM
-https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
-#EXTINF:-1,Звезда 95.6 FM
-https://radio.mediacdn.ru/radio/zvezda/zvezda_96
-#EXTINF:-1,Радио Рекорд Russian Mix
-http://radiorecord.hostingradio.ru/rus96.aacp
-#EXTINF:-1,Романтический шансон
-http://chanson.hostingradio.ru:8041/chanson-romantic256.mp3
-#EXTINF:-1,Brokenbeats
-https://stream.brokenbeats.net/tune
-#EXTINF:-1,Monte Carlo
-https://montecarlo.hostingradio.ru/montecarlo96.aacp
-#EXTINF:-1,DNB FM
-https://air.dnbfm.ru/listen/player/qplay
-#EXTINF:-1,Radio Caprice-Gregorian Chant
-http://213.141.131.10:8002/chants
-#EXTINF:-1,Коммерсантъ FM 93.6
-https://kommersant77.hostingradio.ru:8085/kommersant128.mp3
-#EXTINF:-1,Дядя Ваня на даче (18+)
-https://ic1.radiosignal.one/vanya-mp3
-#EXTINF:-1,Радио России (Radio Russia)
-http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
-#EXTINF:-1,Радио Шансон - Radio Shanson
-http://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:-1,Radio Fantastika
-http://fantasyradioru.no-ip.biz:8002/live
-#EXTINF:-1,DFM
-https://dfm.hostingradio.ru/dfm96.aacp?0.28225617725168517
-#EXTINF:-1,Модель для сборки
-http://mds-station.com:8000/mds
-#EXTINF:-1,Диско-радио SOVA
-https://evcast.mediacp.eu:1965/stream
-#EXTINF:-1,Спутник 91.2 fm
-https://stream03.pcradio.ru/sputnik_ria_ru-med
-#EXTINF:-1,Russian Chinese Music Radio 俄中音乐台
-https://stream.zeno.fm/txtltqtgns3vv
-#EXTINF:-1,Говорит Москва
-http://media.govoritmoskva.ru:8880/ru64.mp3
-#EXTINF:-1,Европа плюс
-http://ep128server.streamr.ru:8030/ep128
-#EXTINF:-1,1000 HITS RADIO
-https://stream.1000hit.ru:8000/stream128
-#EXTINF:-1,Radio Caprice - Black Metal
-http://79.120.77.11:9003/
-#EXTINF:-1,Retro FM Moldova
-https://efir.retrofm.md:8000/retro
-#EXTINF:-1,Armin van Buuren (Record)
-https://radiorecord.hostingradio.ru/armin96.aacp
-#EXTINF:-1,Radio Caprice - Ambient Dub
-http://79.111.14.76:9037/
-#EXTINF:-1,Радио Maximum
-https://maximum.hostingradio.ru/maximum128.mp3
-#EXTINF:-1,Armenian Radio
-https://cast.thiff.com/proxy/laarmeni?mp=/stream
-#EXTINF:-1,DFM - Insomnia
-https://dfm-insomnia.hostingradio.ru/insomnia96.aacp
-#EXTINF:-1,Gachi Station #1
-https://stream.zeno.fm/y513614qvzzuv
-#EXTINF:-1,Beta Anon.FM
-https://radio.anonymous.delivery/music.mp3
-#EXTINF:-1,Народное Радио
-http://178.88.167.62:8080/DALA_192
-#EXTINF:-1,Radio Caprice - Dark Psytrance
-http://79.111.119.111:9057/;
-#EXTINF:-1,Соловьев
-https://solovievfm.hostingradio.ru/solovievfm128.aacp
-#EXTINF:-1,Радио Сахаров
-https://icecast.correctiv.net/sacharow
-#EXTINF:-1,Ретро FM Рига (Retro FM)
-https://live.retrofm.lv/retrofmlatvia
-#EXTINF:-1,ABBA Radio
-https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788
-#EXTINF:-1,Радио Советская эстрада
-https://evcast.mediacp.eu:2075/stream
-#EXTINF:-1,Радонеж
-http://icecast.radonezh.cdnvideo.ru:8000/rad
-#EXTINF:-1,Radio Exterior de España
-https://dispatcher.rndfnk.com/crtve/rneree/main/mp3/high
-#EXTINF:-1,Radio Caprice - Atmospheric/Ambient Black Metal
-http://79.120.39.202:8002/aabmds
-#EXTINF:-1,Вести FM (AAC)
-https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps
-#EXTINF:-1,Deep One
-https://stream.deep1.ru/deep1mp3
-#EXTINF:-1,Русский Рок
-https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp
-#EXTINF:-1,Soloviev FM
-https://solovievfm.hostingradio.ru/solovievfm32.aacp
-#EXTINF:-1,Radio Record Deep
-http://radiorecord.hostingradio.ru/deep96.aacp
-#EXTINF:-1,DFM - Vocal Trance
-https://dfm-trance.hostingradio.ru/trance96.aacp
-#EXTINF:-1,Voice of Korea
-https://radio.intchoson.com/vok/index.m3u8
-#EXTINF:-1,Радио "МУЗ-ИИ"
-https://radio.muz-ii.ru/listen/mix/radio.mp3
-#EXTINF:-1,Ретро FM 90e
-http://retro90.hostingradio.ru:8025/retro90-128.mp3
+#EXTINF:-1,Radio Radonezh 612 AM
+http://icecast.radonezh.cdnvideo.ru:8000/rad128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/119202301.png",Radio Caprice - Industrial/Cyber Metal
+https://fmradiohub.in/radio?url=http://79.120.39.202:8002/industrialmetal
+#EXTINF:-1,Радио Балтком
+
+https://live.relaxfm.lv/08
+#EXTINF:-1,92.3 The Fox
+https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Radio Caprice - Melodic Metalcore
+http://79.111.14.76:8002/melodicmetalcore
+#EXTINF:-1,Radio Day 907 FM
+http://air.radioday.fm/ogg
+#EXTINF:-1,Glafir russian-pop Music. Artist GOSTI IZ 
+https://stream.rcast.net/254005
+#EXTINF:-1,Humor FM Surgut
+http://hades.cdnstream.com/1073_64a
+#EXTINF:-1,Русское Радио Азия
+https://rusradio.cdnqb.net/stream
+#EXTINF:-1,Хайп FM (Hype FM) 
+https://hfm.volna.top/HypeFM
+#EXTINF:-1,Tiësto
+https://hls-01-radiorecord.hostingradio.ru/record-tiesto/playlist.m3u8
+#EXTINF:-1,101.ru - Россия 90-х
+https://pub0202.101.ru:8443/stream/pro/aac/64/33
+#EXTINF:-1,Radio Feel-Fm
+https://2020fm.ru:8010/2020fm
+#EXTINF:-1,Радио 21
+http://stream1.radio-21.ru:8009/Radio_21/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43165513.png",101.ru: DDT ДДТ
+https://ic7.101.ru:8000/a112
+#EXTINF:-1,Radio Caprice - Depressive Black Metal
+http://79.111.119.111:9011/stream/1
+#EXTINF:-1,Радио Черемхово
+http://s0.radioheart.ru:8000/RH24958
+#EXTINF:-1,Машиах
+http://radio-tochka.com:6045/stream.nsv
+#EXTINF:-1,Glafir russian-pop Music. Artist SIBERIAN HEAT 
+https://stream.rcast.net/253709
+#EXTINF:-1,..:: RUSSIAN ROCK - РУССКИЙ РОК ::.. AMG RADIO
+https://rock.amgradio.ru/RusRock
+#EXTINF:-1,radio-livni
+https://a1.radioheart.ru:8001/radiolivny
+#EXTINF:-1,radio-luch
+https://a7.radioheart.ru:9019/RH5588
+#EXTINF:-1,Radio Plasma
+http://icecast.radioplasma.ru:8001/RADIOPLASMA128
+#EXTINF:-1,Danu Radio
+http://173.68.130.170:8040/
+#EXTINF:-1,Radio Caprice - Beatdown Moshcore
+http://79.111.14.76:8002/beatdown
+#EXTINF:-1,Radio Caprice - Traditonal Latin Music
+http://79.120.39.202:8002/salsa
+#EXTINF:-1,Nebula
+https://nebula.radioca.st/live.mp3
+#EXTINF:-1,Radio Studentus
+http://radiolive.studentus.md:8000/live
+#EXTINF:-1,VolnaFM.com - Southern California Russian Community
+http://173.192.207.51:8052/stream.nsv
+#EXTINF:-1,Пиратское радио
+https://live.rock-wawe.ru:8001/RockWawe
+#EXTINF:-1,Vibe da Planet
+http://fusion.shoutca.st:8345/stream
+#EXTINF:-1,Радио Классик
+https://jfm1.hostingradio.ru:14536http:/cstream.mp3
+#EXTINF:-1,VostokFM-MSK
+https://air2.volna.top/VostokFM-MSK
+#EXTINF:-1,101.ru - Fly FM
+https://pub0202.101.ru:8443/stream/personal/aacp/64/778515
+#EXTINF:-1,More FM - Каверы
+https://cast.more.fm/covers
+#EXTINF:-1,Lounge Beats
+https://stream.zeno.fm/nkigdnhrvakuv
+#EXTINF:-1,Summer Dance
+https://hls-01-radiorecord.hostingradio.ru/record-summerparty/playlist.m3u8
+#EXTINF:-1,74
+https://stream.zeno.fm/ygqbbh17uwzuv
+#EXTINF:-1,101.ru - vertus fm
+https://pub0202.101.ru:8443/stream/personal/aacp/64/795288
+#EXTINF:-1,DFM Dynamite
+http://icecast.radiodfm.cdnvideo.ru/st16.mp3
+#EXTINF:-1,Междугородье
+http://a.mgradio.ru:8000/live
+#EXTINF:-1,Вечерний Бриз
+https://myradio24.org/82666
+#EXTINF:-1,Ultiradio-pop
+https://stream.zeno.fm/7g0dsfb0kv8uv
+#EXTINF:-1,101.ru: Pop Classical 
+https://pub0302.101.ru:8443/stream/pro/aac/64/97
+#EXTINF:-1,Справедливое Радио
+https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
+#EXTINF:-1,Дюртюли ФМ
+https://birskfm.ru:8443/durfm
+#EXTINF:-1,True Colors Radio
+http://online.truecolorsradio.ru:8007/pelman?type=.mp3/stream.mp3
+#EXTINF:-1,Komsomolskaya Pravda Abakan
+http://www.listen.radioex.in.ua:8043/live
+#EXTINF:-1,Glafir russian-pop Music. Artist GLYUKOZA GLYUK 
+https://stream.rcast.net/253692
+#EXTINF:-1,Budemradio - Soulful (House)
+http://relay4.melonradio.com:9000/soulful
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-euroradio-soft-rock-logo.jpg",Euroradio - Soft Rock
+https://securestream.euroradio.fm/euroradio3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31918.png",Detskoe Radio
+https://fmradiohub.in/radio?url=http://ic2.101.ru:8000/v14_1
+#EXTINF:-1,Радио Страна FM
+https://stream.appradiofm.com/stream?url=http://icecast.vgtrk.cdnvideo.ru/moscowtalk128
+#EXTINF:-1,Priboy
+https://radiohost.space:8443/live
+#EXTINF:-1,101.ru - Mobius FM
+https://pub0202.101.ru:8443/stream/personal/aacp/64/884417
+#EXTINF:-1,Christmas Chill
+https://hls-01-radiorecord.hostingradio.ru/record-christmaschill/playlist.m3u8
+#EXTINF:-1,Радио Воинка
+https://a1.radioheart.ru:8014/RH68598
+#EXTINF:-1,Радио Пушкинское
+https://stream.zeno.fm/4zmgn5mbxf9uv
+#EXTINF:-1,Yoga Radio
+http://play.yogaradio.org.ua:8000/YOGAradio
+#EXTINF:-1,avtoritetnoe-radio
+http://84.22.142.130:8000/arstream
+#EXTINF:-1,101.ru - MeGa Dj Clab
+https://pub0102.101.ru:8443/stream/personal/aacp/64/826363
+#EXTINF:-1,Radio Crimea - FM 100.1 - Simferopol
+http://fm.1tvcrimea.ru:8000/stream.mp3
+#EXTINF:-1,Na Dobro Vsem
+https://stream.zeno.fm/525km3mktg8uv
+#EXTINF:-1,The Soviet Wave
+http://station.waveradio.org/soviet.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-portland-christian-radio-kqrr-1520-am-logo.jpg",Portland Christian Radio - KQRR 1520 AM
+http://pdxrr.com:8094/;
+#EXTINF:-1,radio-krasnaya-armiya
+https://live.rzs.ru/ka.96.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/71736737.jpg",Radio Caprice - Grindcore
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/grindcore
+#EXTINF:-1,eho-moskvi
+https://msk47-echomsksni.cdnvideo.ru/stream3_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-relax-randb-logo.jpg",Radio Relax R&B
+https://radio1.dixi.md/listen/relax_rnb/relaxrnb128.aac
+#EXTINF:-1,etalon-radio
+https://radio.dline-media.com/etalon
+#EXTINF:-1,Kids Hits Junior
+https://kpradio.hostingradio.ru:8000/russia.radiokp64.mp3
+#EXTINF:-1,ПЕРВОЕ портальное
+http://myradio24.org/2200
+#EXTINF:-1,RadioNice
+http://radio-nice.ru:4510/radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13816.png",Dipol-FM
+https://fmradiohub.in/radio?url=http://icecast.sibinformburo.cdnvideo.ru:8000/dipolfm
+#EXTINF:-1,Radio 40
+http://radio40.ru/public/stream.php
+#EXTINF:-1,Bananastreet
+https://radio.bananastreet.ru/sound
+#EXTINF:-1,radio-indigo
+http://stream0.radiostyle.ru:8000/indigo128
+#EXTINF:-1,Graal Radio Sensual
+https://graalradio.com/playsensual
+#EXTINF:-1,Glafir russian-pop Music. Artist DISKOTEKA AVARIYA 
+https://stream.rcast.net/253921
+#EXTINF:-1,Радио Неизвестный Гений
+https://stream.appradiofm.com/stream?url=http://s3.radioheart.ru:8013/dobrynastroy
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004664/logo_ei0EdRgvw3.jpg?v=20260529-media-restore",Радио Междугородье
+https://a.mgradio.ru:8001/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kn-183278-logo.jpg",Radio Радио КН
+http://radiokn.ddns.net:7000/56?
+#EXTINF:-1,Кавказ Радио
+http://radio.alania.net:8000/kvk 
+#EXTINF:-1,Relax FM - Nature
+https://pub0101.101.ru/stream/trust/mp3/128/263
+#EXTINF:-1,Anima Amoris Trip Hop Lounge
+http://amoris.sknt.ru:8020/
+#EXTINF:-1,Ласковый май Радио
+https://stream02.pcradio.ru/Laskovyj_maj-med
+#EXTINF:-1,Radio Caprice Piano
+http://79.120.77.11:9009/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/113356014.png",101.ru: Easy Listening
+https://ic4.101.ru:8000/stream/pro/aac/64/26
+#EXTINF:-1,Radio DFM Russian Dance
+https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp
+#EXTINF:-1,Ralph Radio
+http://eu3.radioboss.fm:8110/ralph128
+#EXTINF:-1,Компас FM
+https://radio.mil.by/live
+#EXTINF:-1,Radio Thor Italia
+http://diretta.radiothor.it:8000http:/adiothor.mp3
+#EXTINF:-1,Meta Radio
+https://stream.appradiofm.com/stream?url=http://icecast.newradio.cdnvideo.ru/newradio3
+#EXTINF:-1,Radio Record Moombahton
+https://radiorecord.hostingradio.ru/mmbt96.aacp
+#EXTINF:-1,Радио Белла
+http://194.146.235.35:9999/;
+#EXTINF:-1,Radio Jazz FM
+https://jazz.streamr.ru/jazz-128.mp3?type=.mp3/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1452.png",WSNR - Davidzon Radio 620 AM
+https://fmradiohub.in/radio?url=http://ags.abinet.com:8800/dr.mp3
+#EXTINF:-1,Koronator.FM - radio non-profit groups
+http://koronator.fm:8000/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13440.png",Радио ИСКАТЕЛЬ
+https://fmradiohub.in/radio?url=http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+#EXTINF:-1,Радио Гродно
+http://cast.radiogroup.com.ua:8000/nrj
+#EXTINF:-1,AITCH FM Techno
+https://listen1.myradio24.com/9292
+#EXTINF:-1,101.ru - Permanent FM
+https://pub0202.101.ru:8443/stream/personal/aacp/64/798578
+#EXTINF:-1,Радио Новая Жизнь
+http://ic2.christiannetcast.com/nlradio
+#EXTINF:-1,Business FM Ufa
+http://92.50.139.190:8005/bfmufa
+#EXTINF:-1,Radio Borneo 107.2 FM
+http://live.borneo.ru:8888/128
+#EXTINF:-1,More FM - Depeche Mode
+https://cast.more.fm/dm
+#EXTINF:-1,Alex FM
+https://listen6.myradio24.com/2411
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15665640.png",101.ru: Rus Reggae
+https://ic7.101.ru:8000/a44
+#EXTINF:-1,Radio Caprice Deep House
+http://79.120.39.202:9035/
+#EXTINF:-1,Победа FM
+http://193.107.103.41:1696/pobeda
+#EXTINF:-1,Novoe Radio St Petersburg
+https://hls-01-regions.emgsound.ru/29_spb/96/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14241.png",GIB FM
+https://fmradiohub.in/radio?url=http://gibfm.ru:8000/live
+#EXTINF:-1,Happy New Cat 2020
+https://s01.radio-tochka.com:4565/stream
+#EXTINF:-1,myRadio.ua Russian Rock
+http://music.myradio.ua/RusRock128.mp3
+#EXTINF:-1,101.RU - Euro Hits
+http://pub0201.101.ru:8000/stream/pro/aac/64/82?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI4YTFhYWMxZThmZTZjNzg5ZGFkZmIxMTFkY2MxMDFmMyIsIklQIjoiMjAzLjEwMS44Mi4xMTgiLCJVQSI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMDAuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzEwMC4wIiwidWlkX2NoYW5uZWwiOiI4MiIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJ0eXBlRGV2aWNlIjoiUEMiLCJCcm93c2VyIjoiRmlyZWZveCIsIkJyb3dzZXJWZXJzaW9uIjoiMTAwLjAiLCJTeXN0ZW0iOiJXaW5kb3dzIDEwIiwiZXhwIjoxNjUwOTE0NDYwfQ.0L8ed3
+#EXTINF:-1,Radio Caprice - Jazz
+http://79.120.77.11:8002/jazz
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13598.png",Приморская Волна
+https://fmradiohub.in/radio?url=http://45.143.94.106:8000/primvolna-ussuriysk
+#EXTINF:-1,Radio Caprice - Christian Sacred Music
+http://213.141.131.10:8002/sacred
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",RADIO KONTUR Радио Контур 
+http://misato.ru-hoster.com:8029/stream
+#EXTINF:-1,Sputnik International English
+http://audio1.video.ria.ru/voiceeng
+#EXTINF:-1,Glafir russian-pop Music. Artist MAKSIM 
+https://stream.rcast.net/253822
+#EXTINF:-1,Radio Caprice - Oi Street Punk
+http://79.111.119.111:8000/oistreetpunk
+#EXTINF:-1,Наше Радио - Классик рок
+https://nashe1.hostingradio.ru/nasheclassic.mp3
+#EXTINF:-1,Radio Caprice - Progressive Heavy Metal
+http://213.141.131.10:8002/progheavy
+#EXTINF:-1,Humor FM Petrozavodsk FM - 101.4
+http://217.77.59.76:8000/HUMOR-128
+#EXTINF:-1,Radio Caprice - Flute
+http://79.111.14.76:9101/stream/1
+#EXTINF:-1,Russkoe Radio - Russkoe Radio Rostov-Na-Donu
+https://online2.gkvr.ru:8001/rusradio_rnd_64.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38358.png",JTRadio
+https://fmradiohub.in/radio?url=http://jtradio.net/live192
+#EXTINF:-1,Radio Vorona FM
+https://ice02.fluidstream.net/fluid013.aac
+#EXTINF:-1,Crystal Radiostation
+https://46.105.180.202:8018/stream
+#EXTINF:-1,Radio Complement
+http://radiokompliment.s02.radio-tochka.com:5440/radio
+#EXTINF:-1,101.ru - Dol FM
+https://pub0202.101.ru:8443/stream/personal/aacp/64/907726
+#EXTINF:-1,Вольтаж FM
+https://radio.voltagefm.ru:9009/VOLTAGEFM
+#EXTINF:-1,Radio M
+https://stream.radiom.ua/mp3_high
+#EXTINF:-1,Somatique Radio
+http://s01.radio-tochka.com:4900/stream
+#EXTINF:-1,Jammin Radio
+http://us1.streamingpulse.com:7160/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14004.png",ЯпаРадио
+https://listen2.myradio24.com/dvachu?listening-from-radio-garden=1672989069
+#EXTINF:-1,Power FM BG
+https://a1.vizitec.com:8001/powerfm.mp3
+#EXTINF:-1,Graz FM
+https://grazfm.stream.laut.fm/grazfm
+#EXTINF:-1,Radio Zum 2
+https://streams.radiozum.md/listen/zum2/ZUM2
+#EXTINF:-1,Авторадио - Мурзилки Live
+https://pub0302.101.ru:8443/stream/pro/aac/64/3?
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/76073685.jpg",Radio Caprice - Latin/Afro-Cuban Jazz
+https://fmradiohub.in/radio?url=http://79.111.119.111:8000/latinjazz
+#EXTINF:-1,San ru New Relax FM
+http://skycast.su:2007/relax
+#EXTINF:-1,Lounge FM Terrace
+http://cast.loungefm.com.ua/terrace128
+#EXTINF:-1,101.ru - Christian Radio
+https://pub0102.101.ru:8443/stream/personal/aacp/64/906768
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31878.png",Радыё Relax
+https://fmradiohub.in/radio?url=http://live.humorfm.by:8000/radiorelax
+#EXTINF:-1,EuropaRussia - ER
+https://europarussia.ru:8006/live
+#EXTINF:-1,NewTone FM
+http://play.newtone.fm/live_00
+#EXTINF:-1,Soulplay Radiostation
+https://a1.radioheart.ru:9018/live
+#EXTINF:-1,DFM Rap
+https://dfm-dfmrap.hostingradio.ru/dfmrap96.aacp
+#EXTINF:-1,XRadio.Su
+http://stream.xradio.su:8024/mp3_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-obozrevatel-latinskaya-muzyka-logo.jpg",Radio Обозреватель - Латинская музыка
+https://radio-stream-2.obozrevatel.com/latino128.mp3
+#EXTINF:-1,Chilz Online Radio
+https://a5.radioheart.ru:9002/RH4016
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/75367286.png",Radio Caprice - Gospel/Spirituals Music
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/gospel
+#EXTINF:-1,New Radio Ufa
+http://ilikeradio.df6.ru:8006/novoeradioufa128.mp3
+#EXTINF:-1,narodnoe-slavyanskoe-radio
+http://s5.radioboss.fm:8203/stream/1/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33509344.png",Radio Caprice - Pumping House/Hard Bass/Metal Shade/Scouse/Poky/Bumping
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/pumpinghouse
+#EXTINF:-1,<<< KAZA FM >>> Pride party music russian radio 80 s 90 s 2000 s disco pop hit
+https://stream.rcast.net/3934
+#EXTINF:-1,Radio Caprice - Dub-Techno
+http://79.120.39.202:8002/dubstep
+#EXTINF:-1,Radio Caprice - Acoustic amp Unplugged
+http://79.120.77.11:8000/acoustic
+#EXTINF:-1,Radio Record - Megamix
+http://air2.radiorecord.ru:805/mix_320
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13413.png",Русский Хит
+https://air2.amgradio.ru/RusHit-MSK
+#EXTINF:-1,GrammyGo
+http://s04.volnorez.com:8001/live-app/777277
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/az-bakiradio-logo.jpg",BakiRadio
+https://broadcast.bakiradio.az/radio/8000/bakiradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13663.png",Радио Пилот Тверь
+https://fmradiohub.in/radio?url=http://online.tv-pilot.ru:1027/pilotradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-san-remo-logo.jpg",Radio Ретро FM Сан Ремо
+https://hls-01-sanremo.emgsound.ru/5/96/playlist.m3u8
+#EXTINF:-1,RoyalTrap  320 kbps
+http://193.33.170.218:8000/RoyalTrap
+#EXTINF:-1,Special Radio 5th Button
+http://89.235.136.90:8005/live
+#EXTINF:-1,radio-nadima
+http://93.170.125.91:8000/stream1.ogg
+#EXTINF:-1,Радио Орфей - Классика джаза
+https://channels.fonotron.ru:8000/Chan_12_192.mp3
+#EXTINF:-1,Комсомольская Правда Новосибирск
+http://novosibirsk.radiokp128.mp3.streamr.ru
+#EXTINF:-1,More FM - Classic
+https://cast.more.fm/uclassic
+#EXTINF:-1,Baby FM
+https://a5.radioheart.ru:8012/RH1916
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/717.png",Shanson USA
+https://fmradiohub.in/radio?url=http://usa7.fastcast4u.com:5949/
+#EXTINF:-1,RadioSon.ru - Radio Retro channel
+http://radioson.ru:8009/retro-fm.mp3
+#EXTINF:-1,russkij-rok
+https://rock.volna.top/RusRock
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1978302.jpg",RadioGora.Ru Hip-Hop
+https://fmradiohub.in/radio?url=http://listen.radiogora.ru:8000/hiphop128
+#EXTINF:-1,Radio Caprice - Pop Soul
+http://213.141.131.10:8002/popsoul
+#EXTINF:-1,Ткр-ФМ
+http://176.118.220.124:8010/radio
+#EXTINF:-1,Melodia Kerkyra Deep House Music
+https://stream.zeno.fm/ky1vc05kqc9uv
+#EXTINF:-1,Mixadance Fm
+https://stream.mixadance.fm/mixadance128
 #EXTINF:-1,анекдот фм
 http://ic6.101.ru:8000/stream/trust/mp3/128/20
-#EXTINF:-1,Юмор ФМ Туапсе 93.6 FM
-http://185.185.69.62:8000/humor
-#EXTINF:-1,Радио Рекорд (основной канал)
-http://radiorecord.hostingradio.ru/rr_main96.aacp
-#EXTINF:-1,HIT FM Русский Хит
-https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac
-#EXTINF:-1,MonteCarlo Chill-Lounge
-https://mc-chilllonge.hostingradio.ru/chilllonge96.aacp
-#EXTINF:-1,Пионер FM
-https://myradio24.org/pionerfm_256
-#EXTINF:-1,Радио Эрмитаж
-http://hermitage.hostingradio.ru/hermitage128.mp3
-#EXTINF:-1,Атаман ФМ
-https://listen5.myradio24.com/ataman
-#EXTINF:-1,Radio Record Liquid Funk
-https://radiorecord.hostingradio.ru/liquidfunk96.aacp
-#EXTINF:-1,Hit FM 2000s HITS
-https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac
-#EXTINF:-1,RadCap - Symphonic Black Metal
-http://79.111.119.111:8004/symphonicblackmetal
-#EXTINF:-1,101.ru Trance
-http://pub0101.101.ru:8000/stream/trust/mp3/128/19?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijc5LjI1My4xMy43MSIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2Ojk0LjApIEdlY2tvXC8yMDEwMDEwMSBGaXJlZm94XC85NC4wIiwidWlkX2NoYW5uZWwiOiIxOSIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MzY4ODYwMzJ9.0vfq2B5eNRtuEwE42pHUS9Sf_GosTmrQs0aHcPvbFj8
-#EXTINF:-1,Voice of Korea (Russian)
-https://listen4.myradio24.com/60315
-#EXTINF:-1,Love Is Radio Belarus
-https://myradio24.org/3355
-#EXTINF:-1,Искатель
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16535688.png",Radio Caprice - Black Death Metal
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/blackdeath
+#EXTINF:-1,DFM Disco
+https://dfm-disco.hostingradio.ru/disco96.aacp
+#EXTINF:-1,Крым Реалии (rus, ukr) (official stream)
+https://stream.radiojar.com/wm9sntcpn3quv
+#EXTINF:-1,Aventador - Dance Radio
+https://stream.avradio.ru:1085/stream
+#EXTINF:-1,DIMusic Russian Club (Русская волна)
+http://ru2.volna.top/RuWave48
+#EXTINF:-1,Эден хотын Христийн радио (на русском)
+https://listen7.myradio24.com/cityeden
+#EXTINF:-1,Авторитетное радио из Красноярска
+http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/117342989.png",Radio Caprice - Darkwave/Ethereal
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/darkwave.m3u
+#EXTINF:-1,Radio Caprice - Russian Chanson
+http://79.120.77.11:9025/stream/1
+#EXTINF:-1,Radio Cmokic
+http://144.76.95.188:9980/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13900.png",Радио "Неизвестный Гений"
+https://fmradiohub.in/radio?url=http://www.neizvestniy-geniy.ru:8000/live96
+#EXTINF:-1,70e
+https://retro70.hostingradio.ru:8025/retro70-128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35917.png",Радио Картина
+https://fmradiohub.in/radio?url=http://rs.kartina.tv/kartina_320kb
+#EXTINF:-1,Радио Атмосфера
+https://listen5.myradio24.com/atmo
+#EXTINF:-1,Radio Record VIP Mix
+https://hls-01-radiorecord.hostingradio.ru/record-vip/96/playlist.m3u8
+#EXTINF:-1,UAFM
+http://live.uafm.org:9001/uafm
+#EXTINF:-1,Соль FM - Rap
+http://solfm.ru:8000http:/ap128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13896493.jpg",Radio Caprice - Reggae
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/reggae
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/17411544.jpg",Radio Caprice - Sound Of Nature
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/soundnat
+#EXTINF:-1,radio-vos
+http://radiovos.ru:9000/radiovos-64
+#EXTINF:-1,101.ru - MUSIC BERLOGA
+https://pub0202.101.ru:8443/stream/personal/aacp/64/903293
+#EXTINF:-1,Комсомольская правда Абакан
+http://abakan.radiokp128.mp3.streamr.ru
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-obozrevatel-kul-school-logo.jpg",Radio Обозреватель - Кул-school
+https://radio-stream-1.obozrevatel.com/coolschool128.mp3
+#EXTINF:-1,101.ru - krasnodon True FM
+https://pub0202.101.ru:8443/stream/personal/aacp/64/855137
+#EXTINF:-1,1003 FM
+https://a2.radioheart.ru:8015/admin
+#EXTINF:-1,Maks FM
+http://mxsel.maksmedia.ru:8000/maksfm96
+#EXTINF:-1,Дельфины Радио
+https://str2.pcradio.ru/dolphins_radio-med
+#EXTINF:-1,Apex - Rock Novokuznetsk
+http://webcast.apexradio.ru:8000/rock
+#EXTINF:-1,Радио Движуха
+https://listen5.myradio24.com/78805
+#EXTINF:-1,shanson-portal-radio
+https://www.shanson.org/sites/default/files/inline/audio/medoff-shkola-tancev_0.mp3
+#EXTINF:-1,Radio Dacha
+http://stream2.n340.com/12_dacha_28_reg_3375?type=.aac&UID=87A8FF995547700488851ED53D8520DC
+#EXTINF:-1,RezbaRez
+https://misato.ru-hoster.com:8059/autodj
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103154/logo_KMKR0Bxcst.png",СССР 30-50 - 101.ru Radio
+https://pub0202.101.ru:8443/stream/pro/aac/64/46
+#EXTINF:-1,Радио Добрый настрой
+http://s3.radioheart.ru:8013/dobrynastroy
+#EXTINF:-1,Novoe Radio Tolyatti
+http://emgregion.hostingradio.ru:8064/tolyati.novoe.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-nrj-hot-40-logo.jpg",Radio NRJ Hot 40
+https://cast.radiogroup.com.ua/nrj_hot
+#EXTINF:-1,Radio Humor Moscow FM
+http://ic7.101.ru:8000/v5_1
+#EXTINF:-1,ECHO
+http://www.online.radioecho.ru:8000/live2
+#EXTINF:-1,Radio Record - Trap
+http://air.radiorecord.ru:8102/trap_320
+#EXTINF:-1,Radio Caprice Russian Bards - БАРД
+http://79.120.39.202:9021/
+#EXTINF:-1,Glafir russian-pop Music. Artist TUDA 
+https://stream.rcast.net/253748
+#EXTINF:-1,Radio Background
+https://listen4.myradio24.com/84802
+#EXTINF:-1,Retro - 80s FM
+http://retro80.hostingradio.ru:8025/retro80-128.mp3
+#EXTINF:-1,Radio Caprice - Rapcore
+http://79.120.39.202:9043/stream/1
+#EXTINF:-1,Radio Oldies Radiogora ru
+http://server.radiogora.ru:8800/oldies32
+#EXTINF:-1,French Touch FM
+http://92.63.102.253:8000/live
+#EXTINF:-1,Радио Старое Доброе
+http://91.189.162.134:8008/stream.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Bim Radio - БИМ радио 102.8 FM 
+http://av.bimradio.ru:8066/bim_mp3
+#EXTINF:-1,MKS Radio
+http://mksradio.ru:8000/nonstop256
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103047/logo_7lasJyG1aN.png",Донское радио
+https://donskoe-radio.online:8443/donskoeradio
+#EXTINF:-1,Радио Maximum - Nirvana
+https://maximum-nirvana.hostingradio.ru/nirvana96.aacp
+#EXTINF:-1,Москва ФМ
+http://icecast.vgtrk.cdnvideo.ru/moscowfm128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/61191042.png",Radio Caprice - Acid Jazz
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/acidjazz.m3u
+#EXTINF:-1,Radio Caprice - Emocore Screamo
+http://79.111.119.111:8002/screamoemo
+#EXTINF:-1,NG RADIO SHOW
+https://myradio24.org/8840
+#EXTINF:-1,Радио Chill
+https://chillrussia.ru/chillradio
+#EXTINF:-1,Maximum Metallica
+https://metallica.hostingradio.ru/metallica96.aacp
+#EXTINF:-1,Radio Caprice - Laika Greek Music
+http://79.111.119.111:8002/laika
+#EXTINF:-1,Glafir russian-pop Music. Artist LEMON 
+https://stream.rcast.net/253674
+#EXTINF:-1,101.ru - LazTheBest FM
+https://pub0102.101.ru:8443/stream/personal/aacp/64/861845
+#EXTINF:-1,Radio Caprice - Modern Creative
+http://79.120.77.11:8002/mcreative
+#EXTINF:-1,Народное радио
+http://178.88.167.62:8080/DALA_192
+#EXTINF:-1,Elite Radio
+http://77.75.129.217:8004/elit.mp3
+#EXTINF:-1,Radio Metro
+http://stream.radiometro.ru:8230/
+#EXTINF:-1,Кузбасс FM
+https://kuzbassfm.ru:8443/kuzbassfm
+#EXTINF:-1,Ayurveda Internet Radio
+http://listen.vedaradio.fm:8000/high
+#EXTINF:-1,Russian Cinema
+http://icecast.russkoeradio.cdnvideo.ru/st19.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13559.png",Радио Карл
+https://fmradiohub.in/radio?url=http://air.volna.top/Karl
+#EXTINF:-1,Радио Гора - Drive
+http://listen.radiogora.ru:8000/drive128
+#EXTINF:-1,NRJ Tropical House
+https://pub0202.101.ru:8443/stream/pro/aac/64/364
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13919.png",Радио Микс
+https://fmradiohub.in/radio?url=http://media.luga.ru:8002/live
+#EXTINF:-1,Everhoof Радио
+http://everhoof.ru:8000/320
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15470399.gif",Radio Caprice - Symphonic Rock
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/symphorock
+#EXTINF:-1,Special Radio 4th Button
+http://89.235.136.90:8004/live
+#EXTINF:-1,104.2 FM Caribou Art
+http://online.karibu.ru:8000/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13434.png",DEEP ONE radio
+https://fmradiohub.in/radio?url=http://stream.deep1.ru:8000/deep1mp3
+#EXTINF:-1,101.ru - TEX RADIO
+https://pub0102.101.ru:8443/stream/personal/aacp/64/533168
+#EXTINF:-1,radioExclusive
+http://misato.ru-hoster.com:8051/stream?nocache=0.7287367428767164
+#EXTINF:-1,Shtorm.FM zolotoi
+http://live.shtorm.fm:8000/mp3_gold
+#EXTINF:-1,Radio Caprice Neoclassical
+http://79.120.39.202:9101/
+#EXTINF:-1,BoomBoom FM
+http://159.148.11.137:8080/boomboom-48.aac
+#EXTINF:-1,Зайцев.FM - Зайчата
+https://zaycevfm.cdnvideo.ru/ZaycevFM_zaychata_256.mp3
+#EXTINF:-1,Наше Радио Киев 
+http://nashe.ipfm.net/NasheRadio
+#EXTINF:-1,Radio Skonto Plus
+https://stream.radioskontoplus.lv:8443/st128
+#EXTINF:-1,Radio Caprice - Bluegrass
+http://79.111.14.76:9027/
+#EXTINF:-1,Radio Caprice - Vocal
+http://79.120.77.11:8002/vocal
+#EXTINF:-1,Glafir russian-pop Music. Artist ALENA SVIRIDOVA 
+https://stream.rcast.net/253838
+#EXTINF:-1,101.ru - Street Life Fm
+https://pub0102.101.ru:8443/stream/personal/aacp/64/780713
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4457.png",Trance Century Radio
+https://fmradiohub.in/radio?url=http://109.105.59.27:8000/tcr192
+#EXTINF:-1,Radio Rossii Komi Gor 66.8 FM
+http://79.133.74.98:8000/
+#EXTINF:-1,Радио Звуки Природы
+https://zvuki.amgradio.ru/Zvuki
+#EXTINF:-1,Radio Zaplin
+http://radiozaplin.com:8000/
+#EXTINF:-1,101.ru - Kordonskiy music
+https://pub0202.101.ru:8443/stream/personal/aacp/64/692944
+#EXTINF:-1,101.ru - ChaWes FM
+https://pub0202.101.ru:8443/stream/personal/aacp/64/903789
+#EXTINF:-1,Комсомольская правда-Петербург
+http://kpradio.hostingradio.ru:8000/spb.radiokp128.mp3
+#EXTINF:-1,RMI
+https://ruby.torontocast.com:1385/stream.m3u
+#EXTINF:-1,Royal Electro
+http://193.33.170.218:8000/RoyalElectro
+#EXTINF:-1,Radio Shanson Romantic
+http://chanson.hostingradio.ru:8041/chanson-romantic128.mp3
+#EXTINF:-1,Radio Komsomolskaya Pravda Abakan
+https://kpradio.hostingradio.ru:8003/abakan.radiokp128.mp3
+#EXTINF:-1,Радио Август
+https://listen9.myradio24.com/93191
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-vecherinka-logo.jpg",Radio Ретро FM Вечеринка
+https://hls-01-retro-vecherinka.emgsound.ru/20/96/playlist.m3u8
+#EXTINF:-1,Beloe Radio
+https://listen6.myradio24.com/4592
+#EXTINF:-1,Radio Caprice - J-Rock
+http://79.111.119.111:8002/jrock
+#EXTINF:-1,Radio Caprice - Gothic Doom Metal
+http://213.141.131.10:8002/gothicdoom
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13477.png",Radio 80 Russia
+https://fmradiohub.in/radio?url=http://radio80.ru:7777/?1506192616425
+#EXTINF:-1,Glafir russian-pop Music. Artist J POWER 
+https://stream.rcast.net/254210
+#EXTINF:-1,PromoDJ Dubstep
+http://radio.promodj.com:8000/dubstep
+#EXTINF:-1,Радио Maximum - BRITPOP
+https://maximum-britpop.hostingradio.ru/maxbritpop96.aacp
+#EXTINF:-1,SunFM – Top 40
+http://a4.radioheart.ru:8048/nonstop
+#EXTINF:-1,Radio Likee FM
+https://myradio24.org/likeefm199
+#EXTINF:-1,Glafir russian-pop Music. Artist YULIYA NACHALOVA 
+https://stream.rcast.net/253730
+#EXTINF:-1,Contact Us
+http://listen2.myradio24.com:9000/5491
+#EXTINF:-1,Radio Kompas
+https://mediaserv33.live-streams.nl:8052/
+#EXTINF:-1,Radio Caprice - Miscellaneous
+http://79.120.77.11:8002/misc
+#EXTINF:-1,Radio Kartina
+http://rs.kartina.tv/kartina_192kb
+#EXTINF:-1,Radio Lounge fm 99.5
+https://radio.mixnews.lv/995
+#EXTINF:-1,Melon #deep
+http://79.120.39.202:9081/
+#EXTINF:-1,MORE Odrex
+https://cast.more.fm:8444/odrex
+#EXTINF:-1,rodnichok
+http://195.218.153.250:8000/live
+#EXTINF:-1,Radio Israel Live
+http://listen2.myradio24.com:9000/94035
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103154/logo_N8bJeiPUPl.jpg?v=20260529-media-restore",СССР 30-50 - 101.ru
+https://pub0202.101.ru:8443/stream/pro/aac/64/46
+#EXTINF:-1,Радио для двоих
+https://icelive.ru/dlya-dvoix
+#EXTINF:-1,Europa Russia
+http://europarussia.ru:8000/live?extReferer=http%3a%2f%2feuroparussia.ru%2f&lang=en-US%2cen%3bq%3d0.8&ad=radiono5
+#EXTINF:-1,HYPE FM - amgradio.ru
+https://shout.amgradio.ru:443/HypeFM
+#EXTINF:-1,radio-kingisepp-segodnya
+http://radiokingisepp.ru:8000/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-obozrevatel-dzhaz-logo.jpg",Radio Обозреватель - Джаз
+https://radio-stream-1.obozrevatel.com/Jazz128.mp3
+#EXTINF:-1,Radio 13 RU
+https://play5.radio13.ru
+#EXTINF:-1,Хит FM Dance 2010s
+https://hitfm-hitdance10.hostingradio.ru/hitdance1096.aacp
+#EXTINF:-1,Sumerki Lounge Radio
+http://www.sumerki.su:8000/Sumerki
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-palmera-blanca-idm-logo.jpg",Radio Palmera Blanca - IDM
+https://idm.palmerablanca.com/stream.mp3
+#EXTINF:-1,101.ru - NIGHT LIFE SHEBEKINO
+https://pub0102.101.ru:8443/stream/personal/aacp/64/906966
+#EXTINF:-1,Kabbalah TV
+https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13812.png",Радио Трансмит
+https://fmradiohub.in/radio?url=http://95.182.123.24:8000/transmit?4218
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-obozrevatel-skryabin-logo.jpg",Radio Обозреватель - Скрябин
+https://radio-stream-1.obozrevatel.com/skryabin128.mp3
+#EXTINF:-1,BRASÍLIA FM
+https://stream.zeno.fm/lsajtxycu1ztv
+#EXTINF:-1,RadioSalad
+http://91.217.254.41:8000/RadioSalad.com
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-obozrevatel-prikolnye-pesni-logo.jpg",Radio Обозреватель - Прикольные песни
+https://radio-stream-1.obozrevatel.com/Kapec128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31894.png",Euroradio
+https://fmradiohub.in/radio?url=http://stream.euroradio.fm:8000/euroradio1
+#EXTINF:-1,DFM Organic House
+https://dfm-organichouse.hostingradio.ru/organichouse96.aacp
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/108657179.jpg",Radio Oldxit - Радио Олдхит
+https://fmradiohub.in/radio?url=http://radio.oldxit.ru:8000/radio
+#EXTINF:-1,Gtrk Region-Tyumen
+https://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/a_ca65l1txd544.m3u8
+#EXTINF:-1,Жажда скорости-ФМ
+https://listen2.myradio24.com/2244
+#EXTINF:-1,Radio România Internațional 3
+http://stream2.srr.ro:8072/
+#EXTINF:-1,Радио Маруся
+http://online.radioc.ru:8000/radioc32
+#EXTINF:-1,Dikoe Radio
+http://radio-tochka.com:4570/
+#EXTINF:-1,MORE Lounge
+https://cast.more.fm:8444/lounge
+#EXTINF:-1,100FM Radius - Russian
+https://gb25.streamgates.net/radios-audio/891Digital/playlist.m3u8
+#EXTINF:-1,Radio Fantastki
+http://stream.161fm.ru:8000/256
+#EXTINF:-1,Radio Chanson Tula
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13443.png",Радио Культура
+https://fmradiohub.in/radio?url=http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps
+#EXTINF:-1,Line4u
+http://line4u.servebeer.com:8000/live
+#EXTINF:-1,Radio Slovakia International
+https://icecast.stv.livebox.sk/rsi_128.mp3
+#EXTINF:-1,novaya-volna
+http://volgograd.sv-veter.ru:8008/nv_online
+#EXTINF:-1,Radio Air Touch
+https://c8.radioboss.fm:18133http:/adioairtouch
+#EXTINF:-1,VVL Radio
+https://pub0302.101.ru:8443/stream/personal/aacp/64/790353
+#EXTINF:-1,Радио Классик - Поэзия на Classic
+https://jfm1.hostingradio.ru:14536/pcstream.mp3
+#EXTINF:-1,Baltic Plus
+http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-one-logo.jpg",Radio ONE
+http://live.maestrofm.md:8000/r1
+#EXTINF:-1,Radio Music Zone - Ilshat Ibatullin
+http://s1.radioheart.ru:8041/IlshatIbatullin
+#EXTINF:-1,MORE Music Only
+https://cast.more.fm:8444/music
+#EXTINF:-1,Радио - ЯН.ФМ Аниме
+https://animklatu.stream.laut.fm/animklatu?t302=2023-04-25_19-45-29&uuid=e83f77e4-11f4-4188-b4a5-9277fad6dd04
+#EXTINF:-1,radio-moskovskaya-pravda
+http://radio.mospravda.ru:8000/radio
+#EXTINF:-1,Radio Caprice - Garage Rock
+http://79.111.119.111:9093/stream/1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/95449645.jpg",Вечная Молодость
+https://fmradiohub.in/radio?url=http://misato.ru-hoster.com:8037/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13761.png",Гардарика FM
+https://fmradiohub.in/radio?url=http://stream.gardaricafm.ru:8260/stream.nsv
+#EXTINF:-1,manifest-
+http://88.200.158.58:8000/live
+#EXTINF:-1,Radio Chanson Tyumen
+http://89.185.94.89:8000/ch_72_01
+#EXTINF:-1,101.ru - Enigma
+https://pub0202.101.ru:8443/stream/pro/aac/64/175?
+#EXTINF:-1,Мечта FM
+https://listen1.myradio24.com/97098
+#EXTINF:-1,Freedom FM
+https://us9.maindigitalstream.com/ssl/freedomfm
+#EXTINF:-1,1jazz.ru - Trumpet Jazz
+http://radio.1jazz.ru:8290/radio
+#EXTINF:-1,Radio Caprice - Space Rock
+http://79.111.119.111:8002/spacerock
+#EXTINF:-1,101.ru - WITHLOVE
+https://pub0202.101.ru:8443/stream/personal/aacp/64/906652
+#EXTINF:-1,Radio Record Hard Bass
+https://hls-01-radiorecord.hostingradio.ru/record-hbass/playlist.m3u8
+#EXTINF:-1,Радио Душевная волна
+https://listen7.myradio24.com/87813
+#EXTINF:-1,Contrive-M
+https://onlineradiobox.com/json/il/contrivem/play?platform=web
+#EXTINF:-1,Radio Rossii Tambov FM
+http://icecast.gtrktambov.cdnvideo.ru/rricecast
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13662.png",Радио Благовестие
+https://fmradiohub.in/radio?url=http://live.borneo.ru:8888/bv64
+#EXTINF:-1,Anima Amoris Deep Tech House
+http://amoris.sknt.ru:8012/
+#EXTINF:-1,KALACHINSK FM
+https://stream.zeno.fm/rye5s2w3wv8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-tehnosbornikradio-logo.jpg",ТЕХНОСБОРНИКRADIO
+http://freeuk28.listen2myradio.com:4478/;stream.nsv
+#EXTINF:-1,Radio Caprice - Klezmer
+http://79.120.39.202:8000/klezmer
+#EXTINF:-1,Радио Меридиан
+https://stream.appradiofm.com/stream?url=http://stream.gtf.club:8030/stream
+#EXTINF:-1,ЯпаРадио
+https://myradio24.org/dvachu
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cu-radio-kukabara-logo.jpg",Radio Радио Кукабара
+http://c2.radioboss.fm:8414/stream
+#EXTINF:-1,Avto Radio
+https://pub0101.101.ru/stream/air/aac/64/100?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiIwZjhhNTJjMjYwYjlkNjI2OGJjOTNhNzhkYWVhNDJjMCIsIklQIjoiNDUuMjQ4LjE2Mi4xODYiLCJVQSI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdFwvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lXC85OC4wLjQ3NTguMTAyIFNhZmFyaVwvNTM3LjM2IiwidWlkX2NoYW5uZWwiOiIxMDAiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IkNocm9tZSIsIkJyb3dzZXJWZXJzaW9uIjoiOTguMC40NzU4LjEwMiIsIlN5c3RlbSI6IldpbmRvd3MgMTAiLCJleHAiOjE2NDU2NDQ2Nzl9.nl3ShWoyDsnTz6TJEUiUqtZFNGuohIKtnd-nwbg9Vtk
+#EXTINF:-1,101.ru - Колыбельная
+https://pub0202.101.ru:8443/stream/pro/aac/64/95
+#EXTINF:-1,Big Radio Murmansk
+http://listen.myradio24.com:9000/8286
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31869.png",Народное Радио
+https://le05.euddn.net/f02f1d7c8b4261d81d30e5d0a464479c727382838817762cb1c0cde23e74905d13c4c1d3ce7f5923dc210f43bda9f33c28e6cc136728a6cc8820bac4a91a78eab5fcab809e6a057ce87000d6c7f7af6a66793c78b18cbf34e1f58e764f46ce7c6ebd30d6d3c265edddcb4667508104b588c4eb9b92e3b21c176b1bd522b3dd6e7e4b7e89cbf558bc6b7754ee12b59fc7180c15baf9194a3cb1c97bcb5122542f221aa9e0b1f1be2f05e5395602ee4e8c/narodnoe.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/73668878.png",101.ru: Franzosische Chansons
+https://ic7.101.ru:8000/a146
+#EXTINF:-1,Radio Caprice - Harmonica Blues
+http://79.120.39.202:9081/stream/1
+#EXTINF:-1,radio-teos
+http://stream.teos.fm:8004/mp3-high
+#EXTINF:-1,radio-novaya-luna
+http://5.59.132.82:8000/live
+#EXTINF:-1,ON AIR
+http://edge.mixlr.com/channel/wxkbl
+#EXTINF:-1,Aventuel Radio
+http://stream.radio.aventuel.net:8000/avera
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Radio Vanya Dance Радио Ваня Весёлый Dance 
+https://icecast-radiovanya.cdnvideo.ru/rv_Happy_Dance
+#EXTINF:-1,Радио Русь (Radio Rus)
+https://stream.appradiofm.com/stream?url=http://dfm.hostingradio.ru/mcgold96.aacp
+#EXTINF:-1,Радио Курс
+http://potok.radio-kurs.ru:8081http:/adio.mp3
+#EXTINF:-1,Radio Record 1980
+https://stream.appradiofm.com/stream?url=http://ic7.101.ru:8000/v5_1
+#EXTINF:-1,Radio Caprice - Native American Music
+http://79.111.119.111:9071/
+#EXTINF:-1,Наше Радио 
+https://nashe1.hostingradio.ru/nashe-128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18081573.jpg",Новое Радио (New Radio, Novoe Radio)
+https://fmradiohub.in/radio?url=http://icecast.newradio.cdnvideo.ru/newradio3
+#EXTINF:-1, RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist_64Kb.m3u8
+#EXTINF:-1,Radio Nestandart
+https://listen.radionestandart.ru:8200/64.aac
+#EXTINF:-1,Europa Plus Tolyatti
+http://emgregion.hostingradio.ru:8064/tolyati.europaplus.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-logo.jpg",Radio Ретро FM
+https://efir.retrofm.md:8000/retro
+#EXTINF:-1,101.ru - Radio Udefom
+https://pub0102.101.ru:8443/stream/personal/aacp/64/870259
+#EXTINF:-1,Radio Jazz 89.1 FM
+http://main.hostingradio.ru:80/jazz-128.mp3
+#EXTINF:-1,101.ru - Online radio
+https://pub0302.101.ru:8443/stream/personal/aacp/64/882377
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/65523850.jpg",Radio Caprice - Nu Disco
+https://fmradiohub.in/radio?url=http://79.111.119.111:8000/nudisco
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13425.png",Радио Ретро Хит
+https://retro.amgradio.ru/Retro
+#EXTINF:-1,Radio Sputnik in the Crimea
+http://nfw.video.rian.ru/flv/audio.aspx?ID=33181232&type=MP3
+#EXTINF:-1,Rusradio-Rnd
+http://online2.gkvr.ru:8000/rusradio_rnd_64.aac
+#EXTINF:-1,Donat FM - Русская поп- музыка
+https://c6.radioboss.fm:18099/stream
+#EXTINF:-1,Нара FM
+http://109.232.105.226:8000/
+#EXTINF:-1,PromoDJ Bombina
+http://radio.promodj.com:8000/bobina-192
+#EXTINF:-1,Dj.Finist -Super Radio-
+http://listen6.myradio24.com:9000/finist7747
+#EXTINF:-1,Radio Caprice - Brit pop
+http://79.120.39.202:9041/
+#EXTINF:-1,42 FM Russia
+http://listen.42fm.ru:8000/stealkill
+#EXTINF:-1,SOL Deep FM
+http://solfm.ru:8000/deep128
+#EXTINF:-1,Radio Caprice - Saxophone
+http://79.120.77.11:9011/stream/1
+#EXTINF:-1,DFM Party
+https://dfm-party.hostingradio.ru/dfmparty96.aacp
+#EXTINF:-1,РадыМузыке
+http://core-lab.ru:8000/radymuz.mp3
+#EXTINF:-1,RIA News Agency ger 1
+http://audio2.video.ria.ru/voiceger1
+#EXTINF:-1,Radio Voyage
+https://listen6.myradio24.com/91960
+#EXTINF:-1,Омский Благовестник
+https://listen.myrh.ru/blagovest-omsk
+#EXTINF:-1,radio-dobrij-nastroj
+https://s3.radioheart.ru:8013/dobrynastroy
+#EXTINF:-1,Радио В-99
+http://onair.gp-net.bg:6688/;
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/26130948.png",Radio Caprice - Symphonic Music
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/classical.m3u
+#EXTINF:-1,Альфа Радио (Беларусь)
+https://stream.sb.by/alpha
+#EXTINF:-1,Радио Сити
+https://online2.106i9fm.ru/106i9
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/5949092.png",101.ru: Pop Classical
+https://ic7.101.ru:8000/a97
+#EXTINF:-1,Vogue
+http://play.radiovogue.ru:8000/aac_128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/22160.png",Radio Record Deep
+https://fmradiohub.in/radio?url=http://air.radiorecord.ru:8102/deep_128
+#EXTINF:-1,Радиогора
+https://skycaster.ru/8114/stream
+#EXTINF:-1,LOS SANTOS HIGH SCHOOL
+https://stream.zeno.fm/3hzw8256kuhvv
+#EXTINF:-1,Radio 24 KZ
+http://stream.vyshka24.ruhttp:/24kz
+#EXTINF:-1,Graal Radio Highway
+https://graalradio.com/playhighway
+#EXTINF:-1,Radio Exclusive FM
+https://stream-50.zeno.fm/s9bwyczq6tzuv?zs=V8f3Eb2AQCyXLPF_BcOPNA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34778059.png",Radio Caprice - Full On
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/fullon
+#EXTINF:-1,Brooklyn FM
+http://stream.bfmradio.us:8020/
+#EXTINF:-1,Russian Striker
+https://cdn.echo.msk.ru/snd/2014-06-20-razvorot-evening-2305.mp3
+#EXTINF:-1,More FM - Hip-Hop &amp; R&amp;B
+https://cast.more.fmhttp:/nb
+#EXTINF:-1,Radio.r41
+http://77.82.87.210:8000/SvoeFM
+#EXTINF:-1,Радио Пляж
+https://listen2.myradio24.com/1632
+#EXTINF:-1,NAVIDAD
+https://stream.zeno.fm/qyytystck48uv
+#EXTINF:-1,iLikeRadio
+http://ilikeradio.df6.ru:8006/ilikeradio_10-15
+#EXTINF:-1,Kids Hits Russia
+http://92.255.229.74:8000/kidshits_mp3_192
+#EXTINF:-1,Радио 1 ЭФ ЭМ
+https://stream.zeno.fm/c5ysugqkxtzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103169/logo_DWsUQxzWhK.jpg?v=20260529-media-restore",Россия 90-х - 101.ru
+https://pub0202.101.ru:8443/stream/pro/aac/64/33
+#EXTINF:-1,Радио ОК
+https://stream.okradio.kg:8005/stream
+#EXTINF:-1,Радио Maximum - EMO
+https://maximum-dark.hostingradio.ru/maxdark96.aacp
+#EXTINF:-1,ATR TV
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,Folk Radio
+http://37.9.134.96:8000/
+#EXTINF:-1,Glafir russian-pop Music. Artist NATASHA KOROLEVA 
+https://stream.rcast.net/253805
+#EXTINF:-1,Radio RUSD
+http://radiorusd.cheltv.ru/stream.ogg
+#EXTINF:-1,Радио Машенька
+https://s01.radio-tochka.com:5385http:/adio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Radio @Plus 
+https://pl01.cdn.eurozet.pl/plu-waw.mp3
+#EXTINF:-1,32 Радио
+https://online.guberniya.tv:8443/32radio
+#EXTINF:-1,Online Radio Wikispeak
+https://wikispeakru.s02.radio-tochka.com:4235/radio
+#EXTINF:-1,Radio Caprice - Doom Metal
+http://79.111.14.76:9109/stream/1
+#EXTINF:-1,Радиола Самара
+http://online.gkvr.ru/radiola_sam_64.aac
+#EXTINF:-1,R Mayak Tomsk
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
+#EXTINF:-1,Radiominor ru - Pop Russian Channel
+http://79.111.14.76:9043/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/115178759.gif",Radio Caprice - Symphonic Black Metal
+https://fmradiohub.in/radio?url=http://79.111.119.111:8000/symphonicblackmetal
+#EXTINF:-1,Радио Пляж - Хип Хоп
+https://listen7.myradio24.com/9427?
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/45926191.jpg",Radio Caprice - Relaxation Music
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/relaxation
+#EXTINF:-1,Radio Caprice Bossa Nova
+http://79.111.14.76:9105/
+#EXTINF:-1,Avtoradio Vladikavkaz
+https://pub0202.101.ru:8443/stream/air/aac/64/100
+#EXTINF:-1,Radio Free Music
+http://radio-holding.ru:9000/rfm
+#EXTINF:-1,Миллениум
+http://skycaster.ru:8106/stream/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/91214946.jpg",Radio Caprice - Drum&Bass
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/drumbass
+#EXTINF:-1,Радио Открытие
+https://stream.discoveryfm.ru/discovery256.mp3
+#EXTINF:-1,Radio Caprice - Balearic House
+http://213.141.131.10:8002/balearichouse
+#EXTINF:-1,Radio Caprice - Symphonic Metal
+http://79.120.77.11:9097/stream/1
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Alisa АЛИСА 
+https://pub0301.101.ru:8443/stream/pro/aac/64/137
+#EXTINF:-1,Leproradio
+https://leproradio.com/stream.aac
+#EXTINF:-1,Wow Music Русское
+http://stream.vyshka24.ru/wowrusskoe
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3518356.jpg",Европа Плюс
+https://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
+#EXTINF:-1,Sсryde Radio
+http://s5.radioheart.ru:8028/live
+#EXTINF:-1,ВАШЕ РАДИО
+https://live.zhanafm.kz:8443/vasheradio
+#EXTINF:-1,Radio FLYFM
+http://radio.flyfm.net:8000/flyfmaac48
+#EXTINF:-1,DFM Pop Gold 2000s
+https://dfm-popgold00.hostingradio.ru/popgold0096.aacp
+#EXTINF:-1,Радио Nostalgie Пермь
+https://icecast-bulteam.cdnvideo.ru/Nostalgie
+#EXTINF:-1,BigTunesRadio - Trance
+http://bigtunesradio.com:8000/trance.mp3
+#EXTINF:-1,Хит FM Dance 2000s
+https://hitfm-hitdance00.hostingradio.ru/hitdance0096.aacp
+#EXTINF:-1,БАРСУКФМ Online
+https://listen1.myradio24.com/barsukfm
+#EXTINF:-1,Avsim Radio
+http://radio.avsim.su:8000/stream
+#EXTINF:-1,Звезда ТВ🌟(ТСЧ)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1,Новое радио MEGAMIX
+http://live.novoeradio.by:8000/novoeradio-megamix-128k
+#EXTINF:-1,Radiominorru  Inside Channel
+http://radiominor.ru:8000/inside.mp3
+#EXTINF:-1,Retro Voronezh FM
+https://stream.appradiofm.com/stream?url=http://emgregion.hostingradio.ru:8064/voronezh.retrofm.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/69073947.png",Radio Caprice - Lo-Fi
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/lo-fi
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15163365.png",Dorognoe Radio Orenburg 104.8 FM
+https://fmradiohub.in/radio?url=http://radio.omg56.ru:8000/Dorognoe_Oren
+#EXTINF:-1,Radio Caprice Oldies
+http://79.120.77.11:9107/
+#EXTINF:-1,Авторадио Киргизия
+http://212.112.106.66:8080
+#EXTINF:-1,Hit FM 90
+https://hitfm-hit90.hostingradio.ru/hit9096.aacp
+#EXTINF:-1,Glafir russian-pop Music. Artist KRASKI 
+https://stream.rcast.net/253733
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13461.png",Радио 54
+https://fmradiohub.in/radio?url=http://91.202.68.50:8000/stream.mp3
+#EXTINF:-1,Твое Радио
+http://lider-fm.by:8020http:/adio
+#EXTINF:-1,Правильное Радио
+http://pravilnoeradio.ru:8000/pr_mpeg
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14176.png",Rise-FM 
+https://fmradiohub.in/radio?url=http://5.19.139.83:8000/
+#EXTINF:-1,Радио Голос Берлина
+https://stream-149.zeno.fm/fuer3pssrnhvv?zs=qP1kQ7CuTEmzZ4VoMUJr4A
+#EXTINF:-1,Dipol FM-105.6 FM
+https://stream.appradiofm.com/stream?url=http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16666982.png",Radio Caprice - Organ Music
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/organ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/5964.png",101.ru - The Beatles
+https://fmradiohub.in/radio?url=http://ic7.101.ru:8000/c10_3
+#EXTINF:-1,Hit FM 2000
+http://icecast.radiohitfm.cdnvideo.ru/st12.mp3
+#EXTINF:-1,radio-yuzhnaya-volna
+http://213.80.160.102:8000/channel4
+#EXTINF:-1,Современная хоровая
+https://channels.fonotron.ru:8000/Chan_61_64.mp3
+#EXTINF:-1,Радио Шкипер
+https://listen7.myradio24.com/bolshevek
+#EXTINF:-1,Radio Chanson Tyumen 101.0
+https://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1,Дальнобой FM
+https://trucker.autoliferadio.com:1055/stream
+#EXTINF:-1,NRJ Slap House
+https://pub0102.101.ru:8443/stream/pro/aac/64/416?
+#EXTINF:-1,Radioveragorod
+http://radiovera.hostingradio.ru:8007/radioveragorod128.mp3
+#EXTINF:-1,Sochi Today
+http://radiort.rttv.ru/radiort.m3u
+#EXTINF:-1,101.ru - N.B.Radio
+https://pub0102.101.ru:8443/stream/personal/aacp/64/844474
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16363.png",Capital FM 105.3
+https://fmradiohub.in/radio?url=http://playerservices.streamtheworld.com/pls/XHCMR.pls
+#EXTINF:-1,Radio Todia
+https://stream.zeno.fm/8mxprdk7cxhvv
+#EXTINF:-1,DFM Pop Dance
+https://dfm-popdance.hostingradio.ru/popdance96.aacp
+#EXTINF:-1,Music Box Radio
+https://musicbox.amgradio.ru/musicbox
+#EXTINF:-1,Қазақ Радиосы
+https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
+#EXTINF:-1,NETradioWOT
+https://sv.netradio.by/1/256
+#EXTINF:-1,Radio 88 Ga Ga
+http://stream2.radiostyle.ru:8002/radio88gaga
+#EXTINF:-1,RADIO RZO RUSSIA
+https://stream.zeno.fm/cetgtmpvzp8uv
+#EXTINF:-1,Rusradio-Nno
+http://online2.gkvr.ru:8000/rusradio_nno_64.aac
+#EXTINF:-1,BBN Russian AAC
+https://stream.rcast.net/234854
+#EXTINF:-1,Provodach
+http://station.waveradio.org/provodach-low.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13581.png",Весна FM 
+https://fmradiohub.in/radio?url=http://stream2.n340.com/17_vesna_24?type=.aac&UID=05B1944032D73F662566A0F06313E51B
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14032.png",Вести FM Казань
+https://fmradiohub.in/radio?url=http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14254.png",Серебряный Дождь FM 100.1
+https://silverrain.hostingradio.ru/silver64.aac
+#EXTINF:-1,GSP Radio
+https://stream.zeno.fm/pbrqk1aeewzuv
+#EXTINF:-1,53
+http://84.242.241.66:8000/
+#EXTINF:-1,Prosto Radio Kyiv
+http://62.80.190.246:8000/PRK128
+#EXTINF:-1,Радио Свежий Ветер
+http://31.130.192.37:8000/stream
+#EXTINF:-1,101.ru - Hits FM Radio
+https://pub0102.101.ru:8443/stream/personal/aacp/64/482176
+#EXTINF:-1,Relax Web Radio
+https://stream.iis.ge:8443http:/elax.mp3
+#EXTINF:-1,EHR - Top 40
+https://stream.ehrhiti.lv:8000/Stream_27.aac
+#EXTINF:-1,Radio Caprice Vocal
+http://79.120.77.11:9063/
+#EXTINF:-1,1jazz.ru - Jazz Ballads
+http://radio.1jazz.ru:8320/radio
+#EXTINF:-1,Radio Center Ulyanovsk
+http://radio.mv.ru:8080/Radio_centr
+#EXTINF:-1,MORE Sport
+https://cast.more.fm:8444/sport
+#EXTINF:-1,Mirovoe Kino
+https://mc-mirkino.hostingradio.ru/mirkino96.aacp
+#EXTINF:-1,Казак ФМ
+https://radio.mediacdn.ru/kazak_fm.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14019.png",ABS ONE Radio
+https://fmradiohub.in/radio?url=http://a6.radioheart.ru:8002/RH486
+#EXTINF:-1,Radio Storm
+http://radio-shtorm.ru:8000/112
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/100337699.jpg",Radio Caprice - Instrumental Metal
+https://fmradiohub.in/radio?url=http://79.111.119.111:9113/stream/1
+#EXTINF:-1,Matryoshka.FM (Матрёшка)
+http://213.159.214.57:8000/matryoshkaspain
+#EXTINF:-1,101.ru - Street FM
+https://pub0102.101.ru:8443/stream/personal/aacp/64/882061
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46019174.png",Radio Caprice - K-Pop
+https://fmradiohub.in/radio?url=http://79.111.119.111:8000/kpop
+#EXTINF:-1,Feel Radio
+https://i3.streams.ovh:12028/stream
+#EXTINF:-1,Radio Caprice Russian Rock - Русский рок
+http://79.120.77.11:9029/
+#EXTINF:-1,Anima Amoris Goa Psy Trance 160 MP3
+https://amoris.sknt.ru/goa.mp3
+#EXTINF:-1,Радио-Н
+https://radiokrug.ru/radio/radion/icecast.audio
+#EXTINF:-1,Радио Хорошего Настроения Хабаровск 101.8 FM
+https://str5.pcradio.ru/rad_horoshee-med
+#EXTINF:-1,WOS Blue Pill
+http://archstreet.cc:8000/blue-live192
+#EXTINF:-1,Радио RTF
+https://flashliveradio.stream.laut.fm/flashliveradio?pl=m3u&t302=2023-05-10_13-43-16&uuid=13847780-365f-42b2-b779-077d7797b40f
+#EXTINF:-1,Radio Nostalgia FM
+http://93.189.147.117:8000/nostalgiafm.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/56579460.png",Rock FM - Progressive
+https://fmradiohub.in/radio?url=http://jfm1.hostingradio.ru:14536/prog.mp3
+#EXTINF:-1,RADIOHIT24
+http://listen2.myradio24.com:9000/8134
+#EXTINF:-1,101.ru - Relax Tm
+https://pub0202.101.ru:8443/stream/personal/aacp/64/787075
+#EXTINF:-1,Радио Смородина
+http://78.85.35.102:8000/04
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27855.jpg",Русское Радио
+https://fmradiohub.in/radio?url=http://lib-town.org:9000/live
+#EXTINF:-1,New Radio Stavropol
+http://stream.stavropol.fm:805/NewRadioStv
+#EXTINF:-1,Радио Иланск
+https://c32.radioboss.fm:8648/stream
+#EXTINF:-1,Radio Caprice - Smooth Jazz
+http://79.120.39.202:9017/
+#EXTINF:-1,Радио VBC
+http://212.107.192.144:8000/Radio256
+#EXTINF:-1,DFM Calvin Harris
+https://dfm-harris.hostingradio.ru/harris96.aacp
+#EXTINF:-1,Glafir russian-pop Music. Artist NENSI 
+https://stream.rcast.net/253756
+#EXTINF:-1,Европа Плюс - New 
+https://europaplus.hostingradio.ru:8014/ep-new128.mp3
+#EXTINF:-1,radio-raketa
+https://a6.radioheart.ru:8017/RH1948?
+#EXTINF:-1,DUK FM
+https://stream.zeno.fm/3hnbmuqq9druv
+#EXTINF:-1,Radiogora Drive
+http://srv3.listen.radiogora.ru:8800/drive128
+#EXTINF:-1,Радио Трасса
+http://s02.radio-tochka.com:5000/stream
+#EXTINF:-1,Russkoe Radio Voronezh
+http://live.borneo.ru:8888/rus128
+#EXTINF:-1,OZEYKING
+https://stream.zeno.fm/z6ys501f1c9uv
+#EXTINF:-1,Радио ИСКАТЕЛЬ
 http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
-#EXTINF:-1,Юмор ФМ 106.5 FM
-http://online-2.gkvr.ru:8000/yumorfm11_vld_64.aac
-#EXTINF:-1,Радио Родных Дорог
-http://stream1.radiord.ru:8000/live96.aac
-#EXTINF:-1,ГопФМ
-https://radiorecord.hostingradio.ru/gop96.aacp
-#EXTINF:-1,РАДИО КАФЕ - Radio CAFE
-http://cafe.volna.top/Cafe
-#EXTINF:-1,RadCap - Brutal Death Metal
-http://79.111.119.111:8004/brutaldeathmetal
-#EXTINF:-1,Radio Caprice - Cool Jazz
-http://79.120.39.202:9085/;
-#EXTINF:-1,БИМ-радио
-http://av.bimradio.ru:8066/bim_mp3_128k
-#EXTINF:-1,Маруся ФМ
-https://listen.vdfm.ru:8000/marusya
-#EXTINF:-1,90-е Россия
-https://stream02.pcradio.biz/nineties_rus_pcradio-hi
-#EXTINF:-1,Radio Caprice - Jazz Fusion
-http://79.111.119.111:9009/;
-#EXTINF:-1,Radio Pro Italo Disco
-http://pub0102.101.ru:8000/stream/personal/aacp/64/866529
-#EXTINF:-1,Радио Фантастики
-https://listen9.myradio24.com/55699
-#EXTINF:-1,НОВОЕ РАДИО
-http://stream.newradio.ru/moscow.novoe.aacp
+#EXTINF:-1,АСТВ радио
+https://misato.ru-hoster.com:8000/stream
+#EXTINF:-1,Radio Vera - 100.9 FM
+http://pub0302.101.ru:8000/stream/pro/aac/64/82
+#EXTINF:-1,Radio Caprice EBM
+http://79.111.14.76:9005/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13666.png",Радио OK
+https://sslstream.okradio.net/
+#EXTINF:-1,Радио Обозреватель - Ретро
+https://radio-stream-0.obozrevatel.com/retro128.mp3
+#EXTINF:-1,Радио Саха Тэтим
+http://icecast-saha.cdnvideo.ru/saha
+#EXTINF:-1,Радио Юникид ( Radio Ûnikid )
+http://listen1.myradio24.com:9000/2455
+#EXTINF:-1,Хакасия FM
+https://tvrts.ru/stream_radio_kh.php
+#EXTINF:-1,Яхт Радио - Blues&amp;Jazz
+https://yacht-radio.lv:8140/stream
+#EXTINF:-1,Bob Jazz
+http://stream5.radiostyle.ru:8005/messianic
+#EXTINF:-1,Aktiv Radio
+https://listen1.myradio24.com/9708
+#EXTINF:-1,Radio po-russki
+http://addrad.io/444yyqj
+#EXTINF:-1,Радиогазета Слово
+http://radio-tochka.com:6590/
+#EXTINF:-1,Deep One - Deep House radio
+https://stream.deep1.ru/deep1aac
+#EXTINF:-1,radio-vera
+https://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13801.png",Радио Курс
+https://fmradiohub.in/radio?url=http://potok.radio-kurs.ru:8081/radio.mp3
+#EXTINF:-1,Greatest Songs Radio
+https://stream.mjoy.ua:8443http:/adio-great
+#EXTINF:-1,MusicPlusS Russian Club
+http://185.212.227.37:8000/5
+#EXTINF:-1,101.ru - Magic melody
+https://pub0102.101.ru:8443/stream/personal/aacp/64/434786
+#EXTINF:-1,Yum FM
+https://yumfm.hostingradio.ru/yumfm128.mp3
+#EXTINF:-1,AFC Radio
+http://stream.afc-radio.com/96k
+#EXTINF:-1,Dance Wave!
+https://dancewave.online/dance.mp3
+#EXTINF:-1,Brand FM
+http://stream.volnorez.com:8000/live/brand-fm/3e14b686bef83b72a0fddd06c20c433399f93.mp3
+#EXTINF:-1,Radio 5Rocks
+http://str.simpex.ru/stream/1
+#EXTINF:-1,101.RU - Этника
+http://pub0101.101.ru:8000/stream/pro/aac/64/50
+#EXTINF:-1,Radio Caprice - Shoegazing
+http://79.111.119.111:9077/stream/1
+#EXTINF:-1,Радио Питер FM
+http://icecast-piterfm.cdnvideo.ru/piterfm
+#EXTINF:-1,Смелое радио
+https://a7.radioheart.ru:9024/RH39310
+#EXTINF:-1,Вольтаж GOLD
+https://radio.voltagefm.ru:9009/VoltageGOLD_64_aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13723.png",Забей на всё
+https://fmradiohub.in/radio?url=http://sib-fm.ru:8000/zabey.na.vsyo
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103052/logo_gjdmw89SOv.png",Радио Победы
+http://178.46.155.73:8000/rp
+#EXTINF:-1,San FM Drum and Bass
+http://rufm.ru:8000/drum
+#EXTINF:-1,Radio N
+http://188.120.236.168:8000/radio
+#EXTINF:-1,Радио Donat FM
+https://c6.radioboss.fm:18098/stream
+#EXTINF:-1,Radio Caprice - Russian pop Music s
+http://79.120.77.11:8000/80ru
+#EXTINF:-1,101.ru - MTV 90-X
+https://pub0102.101.ru:8443/stream/personal/aacp/64/839630
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-relax-librarius-logo.jpg",Radio Relax Librarius
+https://radio2.dixi.md/listen/relax_librarius/relaxlibrarius128.aac
+#EXTINF:-1,Feel FM 2020
+http://r51-15-210-236.relay.radiotoolkit.com:30000/feelfm
+#EXTINF:-1,piratskoe-radio
+https://a3.radioheart.ru:8024/RH16692
+#EXTINF:-1,Nogai Radio
+http://radio05.ru:8000/nogayskoe_radio_128
+#EXTINF:-1,Humor FM
+https://pub0201.101.ru/stream/air/aac/64/102
+#EXTINF:-1,Radio Record 1970
+https://radiorecord.hostingradio.ru/197096.aacp
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Remixes 
+http://stream.ehrhiti.lv:8000/Stream_32.aac
+#EXTINF:-1,RadioSon.ru - Radio Classical Music channel
+http://radioson.ru:8009/venice-classic-radio.mp3
+#EXTINF:-1,42 FM Steal Kill
+https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
+#EXTINF:-1,Radio Keltmagic
+https://misato.ru-hoster.com:8049/radiokeltmagic
+#EXTINF:-1,Tort.FM
+http://radio.tort.fm:8000/tort.fm
+#EXTINF:-1,Nuiradio
+https://a2.radioheart.ru:9003/nuiradio
+#EXTINF:-1,Radio ONE
+http://live.muzfm.md:8000/r1
+#EXTINF:-1,Core Radio!
+http://194.58.97.117:8000/coreradio
+#EXTINF:-1,Radio Caprice - Salsa Son Bachata
+http://79.120.39.202:8000/salsa
+#EXTINF:-1,ABSOLUT Park Radio
+https://myradio24.org/absolutrad
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Alternative 
+http://stream.ehrhiti.lv:8000/Stream_37.aac
+#EXTINF:-1,Радио Буряад ФМ
+http://buryadfm.hostingradio.ru:8018/buryadfm128.mp3
+#EXTINF:-1,Ultima.FM
+http://hls.ultima.fm:8000/ultima/tunein.mp3
+#EXTINF:-1,Louisiana Radio
+http://188.120.230.39:8000/live
+#EXTINF:-1,101.ru: 90&#x27;s Disco 
+https://pub0302.101.ru:8443/stream/pro/aac/64/74
+#EXTINF:-1,DFM Future Bass
+https://dfm-futurebass.hostingradio.ru/futurebass96.aacp
+#EXTINF:-1,Radio Caprice - House
+http://79.120.77.11:9069/stream/1
+#EXTINF:-1,Radio Caprice - Sludge Metal
+http://79.120.77.11:9087/stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/az-bakiradio-lite-logo.jpg",BakiRadio Lite
+https://broadcast.bakiradio.az/radio/8000/bakiradiolite
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/palmera-blanca-lounge-634450-logo.jpg",Radio Palmera Blanca - Lounge
+https://lounge.palmerablanca.com/stream.mp3
+#EXTINF:-1,Radio GARDARICA
+http://stream.gardaricafm.ru:8000/stream.mp3
+#EXTINF:-1,Radio Skif
+http://radio.rusradio.fm:24000/1/
+#EXTINF:-1,Radio RedBox
+https://stream-149.zeno.fm/zth0tcnbd8zuv?zs=QHj2gam_SO-iRNjUtQktQw
+#EXTINF:-1,101.ru - ARS.radio
+https://pub0202.101.ru:8443/stream/personal/aacp/64/906854
+#EXTINF:-1,Bogatye Saby
+http://radio.tatinf.ru:8800/saba
+#EXTINF:-1,Minskaya Volna FM
+https://stream2.datacenter.by/mvradio
+#EXTINF:-1,ultima.fm
+http://hls.ultima.fm:8000/ultima/laradio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15512.png",Energy FM
+https://fmradiohub.in/radio?url=http://89.219.34.117:8008/NEWENERGY
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/121124983.png",Radio Caprice - Hardcore Techno/Schranz
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/hardcoretech.m3u
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38266567.png",Radio Caprice - Classical Choral/Vocal Music
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/chorus
+#EXTINF:-1,101.ru - Emo Radio
+https://pub0102.101.ru:8443/stream/personal/aacp/64/906742
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34675191.jpg",Radio Caprice - Traditional Latin Music
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/salsa
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13798.png",Mix FM
+https://fmradiohub.in/radio?url=http://radio.gubernia.com:8000/radio3
+#EXTINF:-1,Word of Life Christian Radio
+http://streaming.radio.co:80/s9557f4a17/listen
+#EXTINF:-1,Novorossia Rocks
+http://online.novorossia.rocks:8000/nfm_256
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13836.png",Радио Заречный
+https://fmradiohub.in/radio?url=http://85.234.36.51:8000/radio
+#EXTINF:-1,Radio Albena Taraclia
+http://109.185.191.129:49400/
+#EXTINF:-1,ČRo Radio Prague International
+http://icecast2.play.cz/cro7-128.mp3
+#EXTINF:-1,101.ru - New Age
+https://pub0202.101.ru:8443/stream/pro/aac/64/120
+#EXTINF:-1,Radio Caprice - Russian Club
+http://79.120.77.11:9033/stream/1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/96465934.jpg",Радио Жұлдыз FM (Radio Star FM)
+https://fmradiohub.in/radio?url=http://91.201.214.229:8000/zhulduz
+#EXTINF:-1,R Orfey - 99.2 FM
+http://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3?1694762860266
+#EXTINF:-1,Newpride FM
+https://listen3.myradio24.com/25274
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/110850921.jpg",Radio Caprice - Bluegrass
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/bluegrass
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28397/logo_GgYkbQdgCB.jpg?v=20260529-media-restore",Radio Golos Berlina
+https://stream.zeno.fm/zftn6pssrnhvv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/45312308.png",Radio Caprice - Goa Trance
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/goatrance
+#EXTINF:-1,BFM Radio (BrooklynFM)
+https://stream.bfmradio.us/stream128/
+#EXTINF:-1,СОЛО Music FM
+https://stream.zeno.fm/141g5sndwf9uv
+#EXTINF:-1,radio-otriv
+https://s4.radioheart.ru:8001/otriv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004538/logo_bFqyPVvYqH.jpg?v=20260529-media-restore",Russian Folk Music Radio Caprice
+http://79.120.77.11:8000/russianfolk
+#EXTINF:-1,sovetskaya-volna
+https://station.waveradio.org/soviet
+#EXTINF:-1,NRJ House
+https://pub0202.101.ru:8443/stream/trust/mp3/128/10?
+#EXTINF:-1,AtmFm
+http://station-sound.ru:8000/pt-2?4589
+#EXTINF:-1,Russian radio - Bessmertniy polk
+http://icecast.russkoeradio.cdnvideo.ru/st10.mp3
+#EXTINF:-1,ALTYN-KEL RADIO
+http://radio.altynkel.ru:8038/nonstop
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/143/logo_PQQJCAOuPn.jpg?v=20260529-media-restore",Русское FM
+https://rufm.amgradio.ru/rufm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/71585011.png",Radio Record Synthwave
+https://fmradiohub.in/radio?url=http://air.radiorecord.ru:805/synth_128
+#EXTINF:-1,Radio Caprice - Russian Bards
+http://79.120.39.202:9021/stream/1
+#EXTINF:-1,Radio Roks - Радио Рокс 102.1 FM
+https://stream.roks.com:8443/live256
+#EXTINF:-1,Asterios.tm
+http://fm.asterios.tm:8800/256
+#EXTINF:-1,Радио Мир
+http://217.23.126.106:8002/radio.mir
+#EXTINF:-1,Komsomolskaya Pravda-Tver
+http://109.194.65.137:8055/96
+#EXTINF:-1,beloe-radio
+http://beloeradio.ru:8080/whiteradio.mp3
+#EXTINF:-1,Варненское Радио
+http://radio.dline-media.com/vradio
+#EXTINF:-1,Radio Caprice Disco
+http://79.120.77.11:9039/
+#EXTINF:-1,Radio Record Old School
+https://radiorecord.hostingradio.ru/pump96.aacp
+#EXTINF:-1,Radio Plato
+https://azura.radioplato.by/radio/8000/radio.mp3
+#EXTINF:-1,Promo DJ Dubstep
+https://radio.promodj.com/dubstep-192
+#EXTINF:-1,D FM Voronezh
+http://live.borneo.ru:8888/dfm128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/47025814.png",POPFM Birobidzhan
+https://stream.popfm-bir.ru:1045/stream
+#EXTINF:-1,radio-angel
+http://stream11.radiostyle.ru:8011/radio-angel
+#EXTINF:-1,Radio Ruda
+http://s02.radio-tochka.com:5200/radio
+#EXTINF:-1,Barneo Fm History
+http://195.242.219.208:8100/history
+#EXTINF:-1,radio-el-tcin
+http://eu3.radioboss.fm:8044/yeltsin
+#EXTINF:-1,myRadio.ua My Radio Russian Rap
+http://music.myradio.ua/rep_news128.mp3
+#EXTINF:-1,Радио Югра
+http://ugra.cdnradio.ru/radiougra
+#EXTINF:-1,Soul Live Internet Radio
+http://radio.soullive.ru:8000/livedj
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14142.png",Life-Radio
+https://fmradiohub.in/radio?url=http://listen.life-radio.ru:8019/liferadioru
+#EXTINF:-1,Net Chillout Dreams
+http://net37.ru:8000/net37ru_chilloutdreams.aac
+#EXTINF:-1,Radio Aquarelle - 90.7 MHz FM, Chișinău, Moldova 
+https://online2.jamfm.ru/jam_aacplus 
+#EXTINF:-1,Хит FM Soft Rock 2010s
+https://hitfm-softrock10.hostingradio.ru/softrock1096.aacp
+#EXTINF:-1,MONKEY.FM
+https://monkey.fm:8001/live
+#EXTINF:-1,Радио Халык
+https://s0.radioheart.ru:8000/RH46806
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/72966431.jpg",Radio Volna FM Volgograd
+https://listen5.myradio24.com/nvolna
+#EXTINF:-1,ICE DEVILS
+https://stream.zeno.fm/ve6nxegv317tv
+#EXTINF:-1,Radio Zaycev - Club FM
+http://zaycevfm.cdnvideo.ru/ZaycevFM_electronic_256.mp3
+#EXTINF:-1,Голос Свободи
+http://stream.holos.fm:8000/holos
+#EXTINF:-1,Радио Диёр
+https://c16.radioboss.fm:18234/stream
+#EXTINF:-1,Avtoradio Yekaterinburg 105.0 FM
+http://den.101.ru:4000/ar_66_03
+#EXTINF:-1,Radio Caprice - Pop Music Ussr
+http://79.120.77.11:8000/ussr
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Opera 
+https://pub0301.101.ru:8443/stream/pro/aac/64/96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102951/logo_vx3KImDOJl.png",Теплое радио
+https://listen.teploe.net:8001/netopfm
+#EXTINF:-1,Sputnik Radio Ru
+http://31.134.186.227:8000http:/adio.mp3
+#EXTINF:-1,101.ru - HeatBeat 24-7

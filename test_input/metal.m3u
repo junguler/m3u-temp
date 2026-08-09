@@ -1,286 +1,2001 @@
-#EXTINF:-1,Rock Antenne - Heavy Metal
-http://mp3channels.webradio.rockantenne.de/heavy-metal
-#EXTINF:-1,Hard Rock Radio FM
-http://67.249.184.45:8015/
-#EXTINF:-1,Hard Rock Heaven
-http://hydra.cdnstream.com/1521_128
-#EXTINF:-1,Big R Radio - 80s Metal FM
-http://bigrradio.cdnstream1.com/5186_128
-#EXTINF:-1,BBC Radio 6 Music
-http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
-#EXTINF:-1,Antyradio
-https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
-#EXTINF:-1,# 100 GREATEST HEAVY METAL
-https://cast1.torontocast.com:4660/stream
-#EXTINF:-1,De Tijdloze
-http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3
-#EXTINF:-1,Nu Metal Radio
-http://stream.revma.ihrhls.com/zc9483/hls.m3u8
-#EXTINF:-1,metal rock radio
-https://kathy.torontocast.com:2800/;
-#EXTINF:-1,NRJ LINKIN PARK
-https://streaming.nrjaudio.fm/ouvfbfoarp52
-#EXTINF:-1,ROCK FM Classic Rock
-https://audiotainment-sw.streamabc.net/atsw-classicrock-mp3-128-2538548?
-#EXTINF:-1,Bandit Rock
-http://fm02-ice.stream.khz.se/fm02_mp3
-#EXTINF:-1,Megarock Radio 320k
-https://stream3.megarockradio.net:80/
-#EXTINF:-1,Bandit Metal
-https://wr03-ice.stream.khz.se/wr03_mp3
-#EXTINF:-1,RADIO BOB - Power Metal
-http://streams.radiobob.de/powermetal/mp3-192/streams.radiobob.de/
-#EXTINF:-1,Best Of Rock.FM Alternative Rock
-https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/
-#EXTINF:-1,ChroniX Radio Metalcore
-http://usa17.fastcast4u.com:5508/stream
-#EXTINF:-1,__WACKENRADIO__ by rautemusik (rm.fm)
-https://wackenradio-high.rautemusik.fm/?ref=radiobrowser
-#EXTINF:-1,RADIO BOB! BOBs Metal
-http://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/
-#EXTINF:-1,Radio BOB - Nu Metal (mp3 192)
+#EXTM3U
+#EXTINF:-1,Rockhausradio
+http://stream.rockhausradio.dehttp:/ockhausradio
+#EXTINF:-1,JR
+https://s8.webradio-hosting.com:1203/stream
+#EXTINF:-1,San Diego Pirate
+http://s10.whooshclouds.net:8540/
+#EXTINF:-1,Radio BOB - Nu Metal (mp3 192) - 0 - Germany - metal - nu metal
 https://streams.radiobob.de/numetal/mp3-192/
-#EXTINF:-1,Exclusively Led Zeppelin
-https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio
-#EXTINF:-1,FIP Metal
-https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance
-#EXTINF:-1,Radio ROCKS Kyiv 103.6FM HD
-https://online.radioroks.ua/RadioROKS_HD
-#EXTINF:-1,HR3
-https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high
-#EXTINF:-1,Radio Furgoncino
-https://stream.radiojar.com/sf65dpxy9vzuv
-#EXTINF:-1,Radio Bob! Symphonic Metal
-http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/
-#EXTINF:-1,SomaFM Metal Detector (128k AAC)
-https://ice4.somafm.com/metal-128-aac
-#EXTINF:-1,BDPST ROCK Rádió (Hi-Fi / Lossless / FLAC)
-http://s2.audiostream.hu:8091/bdpstrock_FLAC
-#EXTINF:-1,Radio Rock (NO)
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005378/logo_OESvDSxCfO.jpg?v=20260529-media-restore",Rock Radio
+https://stream.nextmedia.si/proxy/rockr2_2?mp=/rock?uid=rrweb;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pro-radio-163887-logo.jpg",Pro Radio
+http://radiointernetowe.net:7802/;
+#EXTINF:-1,RMF ON – RMF Bajkowe piosenki
+http://31.192.216.8:80/TOP5ROCK
+#EXTINF:-1,CJAY 92
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJAYFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1,99.7 The Blitz
+https://live.wostreaming.net/manifest/nabco-wrkzfmaac-hlsc4.m3u8
+#EXTINF:-1,choice-metal
+https://stream.rcast.net/261975
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27868/logo_h2xiE0crHQ.jpg?v=20260529-media-restore",Typisch Angelo
+https://stream.laut.fm/typischangelo
+#EXTINF:-1,bizarre radio
+http://bizarre-radio.stream.laut.fm/bizarre-radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-indie-radio-logo.jpg",Indie Radio
+https://ilyasmoerkens.nl/listen/indie/radio.mp3
+#EXTINF:-1,Billmans Metal Radio
+https://stream.zeno.fm/8j4omrwrk2puv
+#EXTINF:-1,Radio StoneFM
+http://bayern.streampanel.net:10934/stream
+#EXTINF:-1,Space Serpent
+http://listen.shoutcast.com/spaceserpent
+#EXTINF:-1,sauerlandradio
+http://sauerlandradio.stream.laut.fm/sauerlandradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wfku-581502-logo.jpg",Radio WFKU
+http://142.93.232.177:8000/wfku
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65842/logo_z9uBj2UuGw.png",CyberNation Radio
+https://stream.zeno.fm/lcj8aoodegouv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29971/logo_PwdsgUFqja.jpg?v=20260529-media-restore",r-ph
+https://r-ph.stream.laut.fm/r-ph?pl=m3u&t302=2022-11-25_01-19-35&uuid=e5c0d900-84de-4002-b49c-08fc60eb358c
+#EXTINF:-1,Totalrock
+https://s3.citrus3.com:8056/stream
+#EXTINF:-1,RADIO METAL ON: TOTAL
+http://188.165.212.92:8050/total64mp3
+#EXTINF:-1,Rock Chicks Radio
+https://s7.streamcaster.eu:8062/stream/1/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/84004.v18.png",Melville's Rock Station The Buzz 
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC275.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wfku-perkigoth-601346-logo.jpg",Radio WFKU Perkigoth
+http://server2.wfku.net/wfkuperki
+#EXTINF:-1,rock n pott
+http://rock-n-pott.stream.laut.fm/rock-n-pott
+#EXTINF:-1,Remember The Music FM
+https://stream.zeno.fm/2h5vfzf57vzuv
+#EXTINF:-1,Radio Corax
+https://hls.streamcdn.coraxonline.com/radiocorax/radiocorax.m3u8
+#EXTINF:-1,AsaltoMata Radio
+https://antares.dribbcast.com/proxy/asaltomataradio?mp=/stream
+#EXTINF:-1,METALSCENA netRADIO
+https://stream.rcast.net/233745
+#EXTINF:-1,burnyourears
+https://stream.laut.fm/burnyourears?ref=radiode
+#EXTINF:-1,92.1 WSQV – WSQV
+http://ice41.securenetsystems.net/WSQV
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95231/logo_OfTXBQTekL.jpg?v=20260529-media-restore",Z-Rock 103
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXZZFM_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103525/logo_T06oMF6c5l.jpg?v=20260529-media-restore",Metal Radio
+https://stream.radiotechnikum.at/METALRadio
+#EXTINF:-1,noizebazooka
+http://noizebazooka.stream.laut.fm/noizebazooka
+#EXTINF:-1,Rock City
+https://stream.laut.fm/rock-city
+#EXTINF:-1,A_A Hard Rock & Metal
+http://195.154.163.193:8000/stream/7/
+#EXTINF:-1,Revoradio 104 1 Fm2nd To None Broadcasting Network Llc
+http://50.7.77.114:8206/stream/1
+#EXTINF:-1,ARMOR-RADIO.COM
+https://streams.radio.co/sb410c31e7/listen
+#EXTINF:-1,Radio Caprice Instrumental Metal
+http://79.111.119.111:9113
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/30067.v2.png",The Fox 95.7 
+https://playerservices.streamtheworld.com/api/livestream-redirect/KJFXFMAAC.aac
+#EXTINF:-1,rock fusion 27
+http://rock_fusion_27.stream.laut.fm/rock_fusion_27
+#EXTINF:-1,Mangle Music Radio
+http://stream.shoutcastservices.com:8095/
+#EXTINF:-1,Prog Fm Starstream 128k Prog Classic Symphonic Fusion Neo Electronic Gothic Meta
+http://209.9.238.4:9178/stream/1
+#EXTINF:-1,Rockmachine
+https://stream.laut.fm/rockmachine?ref=radiode
+#EXTINF:-1,Durchgehoert
+https://durchgehoert.stream.laut.fm/durchgehoert?t302=2023-04-25_20-08-08&uuid=c3b12372-5943-4f85-a776-20990b34afe0
+#EXTINF:-1,Metalearth
+https://stream.laut.fm/metalearth?ref=radiode
+#EXTINF:-1,Metal Zone radio
+https://stream.zeno.fm/vmwdkkmva13uv
+#EXTINF:-1,The River, 105 & 103-5 – WMMZ
+http://ice6.securenetsystems.net/WWRR
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9SHLLN.png",CuauRadio
+http://163.172.198.16:8350/stream
+#EXTINF:-1,rockXradio : Canada's Internet Radio Station
+http://158.69.227.214:8000/
+#EXTINF:-1,KW ROCK_!
+https://onlineradiobox.com/json/ad/kwrock/play?platform=web
+#EXTINF:-1,Led FM
+https://paineldj.com.br:20151/stream128k
+#EXTINF:-1,WavRadio Boston
+https://streaming.live365.com/a06194
+#EXTINF:-1,KLT The Rock Station - WKLT
+http://50.19.164.38/midwestern-wkltfmaac-ibc1?session-id=fb1de8971c0afa33f794c5e2e91314b7
+#EXTINF:-1,Radio Stereo Rock
+https://stm20.xcast.com.br:7932/stream
+#EXTINF:-1,ZTR.FM Metal Channel
+http://s2.yesstreaming.net:7200/stream
+#EXTINF:-1,Free FM X-Mas
+https://stream-160.zeno.fm/h60er015v68uv?zs=cT57wS2FTXmUWNF9_qunRQ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29066.png",Radiónica
+https://fmradiohub.in/radio?url=http://shoutcast.rtvc.gov.co:8010/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28150/logo_RVrC8w5Kmn.jpg?v=20260529-media-restore",Star FM - 90er Rock
+https://starfm.streamabc.net/30-90srock-mp3-128-5066875
+#EXTINF:-1,tschimmi_fm
+http://stream.laut.fm/tschimmi_fm
+#EXTINF:-1,Bandwagon Network Radio(BWNR)
+https://streamdb6web.securenetsystems.net/v5/BWNR
+#EXTINF:-1,GYM Radio - Hardcore Ch.7
+http://5.35.247.7/HC6
+#EXTINF:-1,ROCK FM ROCKLEGENDEN* - 0 - Germany - hard-rock - heavy-metal - rock
+https://audiotainment-sw.streamabc.net/atsw-metallica-aac-128-7932706?sABC=67931509%231%23ahyy%23ubzrcntr&mode=preroll&aw 0 1st.skey=1737692425&cb=95956633&listenerid=null&metaid=null&aw 0 1st.playerid=homepage&amsparams=playerid:homepage;skey:1737692425
+#EXTINF:-1,The After Burner Radio
+http://streaming.live365.com/a96844
+#EXTINF:-1,Liberty Crack Radio
+https://das-edge10-live365-dal03.cdnstream.com/a15056
+#EXTINF:-1,The Reel 95.5 & 107.3 - KQZR
+http://aispool.streamon.fm/ais/KQZR.aac
+#EXTINF:-1,Radio Sin Nombre Internacional De México
+http://freeuk5.listen2myradio.com:8271/
+#EXTINF:-1,Unab Radio
+https://unabradio.com/
+#EXTINF:-1,RADIO SHADHIN 92.4FM
+http://ample-zeno-18.radiojar.com/umq9q5uuva5tv?rj-ttl=5&rj-token=AAABY40hs1APvoa4JhFtKA4JBPu2Wd19-FER3HGiz5r6c-I97lXOpw
+#EXTINF:-1,oof Radio
+http://listen.shoutcast.com/oofradio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44760/logo_KrGDhTrtix.jpg?v=20260529-media-restore",All Rock Radio
+http://s6.reliastream.com:8296/;
+#EXTINF:-1,Pulse Radio
+https://stream.zeno.fm/s3s0z4qv4f0uv
+#EXTINF:-1,Expansion Radial Radio
+https://stream.faklyaradio.hu:8443/faklya
+#EXTINF:-1,Metal,Rock,Hard bass py
+http://listen.shoutcast.com/metal-rock-hardbasspy
+#EXTINF:-1,The Fox 95.7 – KJFX
+http://playerservices.streamtheworld.com/api/livestream-redirect/kjfxfm.flv
+#EXTINF:-1,Broken Neck Radio 
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC028.mp3
+#EXTINF:-1,kult
+http://stream.laut.fm/kult
+#EXTINF:-1,WIXV - I-95
+https://15313.live.streamtheworld.com:443/WIXVFM.mp3?dist=onlineradiobox
+#EXTINF:-1,furia metal brasil radio
+http://87.117.217.103:19462
+#EXTINF:-1,Radio Deep Music radio
+https://mpc1.mediacp.eu:8092/stream
+#EXTINF:-1,Storm Radio
+http://ample-02.radiojar.com/2yqdzucmb?1512038816=&rj-token=AAABYAySjPXC5ezXAVES7tchkqCdtKRzO3sQXAodHoupMH3bh9ePRw&rj-ttl=5
+#EXTINF:-1,Metal Edge Radio
+http://s2.stationplaylist.com:9450/listen
+#EXTINF:-1,DrGnu - Metal 1
+http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer
+#EXTINF:-1,Rawks Radio
+http://streaming.live365.com/a76109
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006431/logo_dNQRgQqt2p.jpg?v=20260529-media-restore",Pantera
+https://stream.pcradio.app/Pantera-hi
+#EXTINF:-1,Tangra Mega Rock
+http://stream-bg-02.radiotangra.com:8000/Tangra-high
+#EXTINF:-1,Dyhard Radio
+http://209.159.150.242:8006
+#EXTINF:-1,The CUBE
+https://streaming.live365.com/a36425
+#EXTINF:-1,UNITAS WebRadio
+http://nebula.shoutca.st:8498/
+#EXTINF:-1,DI Radio Digital Impulse - Hard Rock & Heavy Metal
+http://5.39.71.159:8165/
+#EXTINF:-1,Vagalume.FM - Hardcore &ampamp Metalcore
+https://stream.vagalume.fm/hls/1474034184429476/aac.m3u8
+#EXTINF:-1,filiinoctis
+http://filiinoctis.stream.laut.fm/filiinoctis
+#EXTINF:-1,OpenFM - 100% Metallica
+https://stream.open.fm/62
+#EXTINF:-1,BOT Radio
+https://bot-radio.com/bot128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54698/logo_Cl4khHniX9.png",Pasión Por La Música Radio
+https://streaming2.locucionar.com/proxy/pasionporlamusica?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/30648/logo_BwSoGsn99D.jpg?v=20260529-media-restore",Beat Of Sound Radio
+https://s12.ssl-stream.com/8040/stream
+#EXTINF:-1,REGENBOGEN 2  - Metal
+https://stream.regenbogen2.de/metal/mp3-128/radioguide
+#EXTINF:-1,TheApex.FM
+https://das-edge11-live365-dal03.cdnstream.com/a74404
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27776/logo_9kRApwxPbP.jpg?v=20260529-media-restore",Music and Talk
+https://musicandtalk.stream.laut.fm/musicandtalk
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102233/logo_k1XN3YCxXe.jpg?v=20260529-media-restore",Nuclear Fallout Radio
+https://s4.radioforge.com:5170/stream
+#EXTINF:-1,WXAX
+https://streaming.live365.com/a74990
+#EXTINF:-1,Donau 3 FM Hard&amp#39n&amp#39Heavy
+https://donau3fm.stream.vip/10/aac-64/onlineradiobox/MP3-128
+#EXTINF:-1,Full Metal City Radio
+https://stream-52.zeno.fm/rizy824qnlutv
+#EXTINF:-1,Canada&amp#39s Extreme Metal Radio
+https://streaming.live365.com/a10454
+#EXTINF:-1,Radio Metalgeneration
+https://stream.laut.fm/metalgeneration
+#EXTINF:-1,Rock 97.7 - WYXX
+https://ic2.sslstream.com/wyxx-fm
+#EXTINF:-1,Rádio Mais Rock Fortaleza
+https://stream.zeno.fm/2g9r449v5mzuv
+#EXTINF:-1,TOS – WTOS
+http://34.82.94.246/blueberry-wtosfmaac-ibc1?session-id=503e2a3707e0c4eb4be2efed750b93f1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89190/logo_mjR7Tk4FPT.png",Star Radio Canada
+https://stream.radiojar.com/duav22v6v42vv
+#EXTINF:-1,Crimson-fm
+https://stream.laut.fm/crimson-fm
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28735/logo_MqWq3cep9u.jpg?v=20260529-media-restore",Metalcore Stream Radio BOB!
+https://regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267
+#EXTINF:-1,Powerhitz - New Rock
+http://powerhitz.powerhitz.com:6530/stream/1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40403/logo_aLStPuWEOw.jpg?v=20260529-media-restore",Antenna Web Napoli
+https://tinyurl.com/Radio-Amici-di-Napoli
+#EXTINF:-1,Metalscena netRadio
+https://listen.radioking.com/radio/263218/stream/308365
+#EXTINF:-1,Kiss Rock Nation
+http://stream.zeno.fm/545mq7sapzzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37883/logo_VHiEMREzzo.jpg?v=20260529-media-restore",ROXX 2 METAL
+https://myradio24.org/6359
+#EXTINF:-1,Rock by rautemusik
+https://rock-high.rautemusik.fm/?ref=radiode
+#EXTINF:-1,devil blood club
+http://devil-blood-club.stream.laut.fm/devil-blood-club
+#EXTINF:-1,ROCK 95 Lewistown
+http://ais-sa1.streamon.fm/7801_96k.mp3
+#EXTINF:-1,2oceans FM
+http://s2.stationplaylist.com:7032/listen.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90621/logo_P4h4rIlh9K.jpg?v=20260529-media-restore",En Tijuana Hay Rock Radio FM
+https://stream.zeno.fm/59b9rpup1rquv
+#EXTINF:-1,Prog Rock and Metal Radio
+https://onlineradiobox.com/json/us/progrockandmetal/play?platform=web
+#EXTINF:-1,91.7 Giant FM - CIXL-FM
+http://204.141.167.21:10670/stream/
+#EXTINF:-1,Radio Musica Metalia
+http://streaming.radionomy.com/RadioMusicaMetalia1?lang=nl%2cen-US%3bq%3d0.7%2cen%3bq%3d0.3
+#EXTINF:-1,hellradio666
+http://hellradio666.stream.laut.fm/hellradio666
+#EXTINF:-1,Tiger FM
+https://onlineradiobox.com/json/dk/tigerfm/play?platform=web
+#EXTINF:-1,Radio Hluchon
+http://uk1.internet-radio.com:8294/stream
+#EXTINF:-1,RadioVirgin
+http://listen.shoutcast.com/radiovirgin
+#EXTINF:-1,Krm Radio
+http://www.krmradio.net:9000/stream/1
+#EXTINF:-1,El Sótano Rock
+http://sotanoradio.ddnsfree.com/stream
+#EXTINF:-1,Brutal Existence Radio
+http://192.81.248.192:8038
+#EXTINF:-1,juleczkowe
+http://juleczkowe.stream.laut.fm/juleczkowe
+#EXTINF:-1,thethursdaynightshow
+https://listen.thethursdaynightshow.com/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29963.jpg",rockheavy
+https://fmradiohub.in/radio?url=http://stream.laut.fm/rockheavy
+#EXTINF:-1,1Radio.FM - Metal - Thrash - Hardcore
+http://192.232.192.96:9974/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21709422.png",Melville's Rock Station, The Buzz
+https://fmradiohub.in/radio?url=http://18193.live.streamtheworld.com/SAM01AAC275_SC
+#EXTINF:-1,ONYX IP Radio
+https://icecast.gwes-eas.network:8443/ERN-CAP_ALT
+#EXTINF:-1,ROCK MAX
+http://sc.ipip.cz:7988/stream.nsv
+#EXTINF:-1,RMF ON – RMF Fitness rock
+http://195.150.20.242:8000/rmf_fitness_rock
+#EXTINF:-1,KW ROCK
+http://192.99.17.12:5230/stream
+#EXTINF:-1,AGF-RADIO
+https://server4.streamserver24.com:43527/stream
+#EXTINF:-1,113FM Radio – Free Bird
+http://113fm-edge1.cdnstream.com/1748_128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18099.png",Giant FM
+https://mybroadcasting.streamb.live/SB00329?args=web_01
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-caprice-thrash-metal-591036-logo.jpg",Radio Caprice Thrash Metal
+http://79.120.77.11:9101/;
+#EXTINF:-1,jane
+http://jane.stream.laut.fm/jane
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40192.png",Estación Rocanrol
+https://fmradiohub.in/radio?url=http://listen.radionomy.com/estacionrocanrol
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30998/logo_mDxWyayBNe.png",RauteMusik METAL Radio
+https://rautemusik.stream39.radiohost.de/metal_mp3-192
+#EXTINF:-1,Radio Schattenreich
+https://schattenreich.stream.laut.fm/schattenreich
+#EXTINF:-1,RADIO ROCK***
 https://live-bauerno.sharp-stream.com/radiorock_no_mp3
-#EXTINF:-1,BR - The Classic Rock
-https://stream.zeno.fm/nbq1aq62gd0uv
-#EXTINF:-1,80s Metal
-http://bigrradio-edge1.cdnstream.com/5146_128
-#EXTINF:-1,181.FM - 80's HairBand
-http://listen.181fm.com/181-hairband_128k.mp3
-#EXTINF:-1,BadRock Hard & Heavy
-https://play-radio0.jump.bg:7049/live
-#EXTINF:-1,RADIO BOB! BOBs Harte Saite
-http://regiocast.streamabc.net/regc-radiobobhartesaite4742158-mp3-192-1633493?sABC=6968403n%230%23r30o443r1929r059s085628511796n57%23fgernzf.enqvbobo.qru0026aw_0_1st.playerid=streams.radiobob.deu0026amsparams=playerid:streams.radiobob.de;skey:1768439866
-#EXTINF:-1,Exclusively Led Zeppelin - Only Hits
-https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio
-#EXTINF:-1,La Grosse Radio Métal
-http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3
-#EXTINF:-1,Best Net Radio - 80s Metal
-http://bigrradio-edge1.cdnstream.com/5146_128
-#EXTINF:-1,88.6 On Air
-http://radio886.at/streams/radio_88.6/mp3
-#EXTINF:-1,RADIO BOB! Livestream
-http://streams.radiobob.de/bob-national/mp3-192/mediaplayer
-#EXTINF:-1,Radio Caprice - Black Metal
-http://79.120.77.11:9003/
-#EXTINF:-1,Dark Symphony Radio
-https://streaming.live365.com/a02267
-#EXTINF:-1,Radio Heavy Metal
-https://manager7.streamradio.fr:1435/stream
-#EXTINF:-1,RADIO BOB - Chillout Unplugged Songs [mp3 | 192 kbps]
-https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/
-#EXTINF:-1,Japanradio.de
-https://stream.japanradio.de/live
-#EXTINF:-1,ESKA ROCK
-http://n17a-eu.rcs.revma.com/1nnezw8qz7zuv
-#EXTINF:-1,Exclusive Radio – Black Sabbath
-https://streaming.exclusive.radio/er/blacksabbath/icecast.audio
-#EXTINF:-1,Radio Underground
-http://s1.slotex.pl:7604/
-#EXTINF:-1,__12PUNKS.FM__ by rautemusik (rm.fm)
-https://12punks-high.rautemusik.fm/?ref=radiobrowser
-#EXTINF:-1,Radio Caprice - Atmospheric/Ambient Black Metal
-http://79.120.39.202:8002/aabmds
-#EXTINF:-1,metalrock.fm
-http://kathy.torontocast.com:2820/;?type=httpu0026nocache=1594751889
-#EXTINF:-1,Radio Beat
-http://icecast2.play.cz/radiobeat128.mp3
-#EXTINF:-1,RADIO BOB! BOBs Gothic Rock
-http://streams.radiobob.de/gothic/mp3-192/streams.radiobob.de/
-#EXTINF:-1,1.FM - High Voltage Radio
-http://strm112.1.fm/highvoltage_mobile_mp3
-#EXTINF:-1,Hard Rock Hell
-http://andromeda.shoutca.st:9254/stream
-#EXTINF:-1,rbb FRITZ (48 kbit/s)
-http://fritz.de/livemp3_s
-#EXTINF:-1,triple j (NSW)
-https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8
-#EXTINF:-1,Maximum - Metallica (Максимум)
-https://metallica.hostingradio.ru/metallica96.aacp
-#EXTINF:-1,Radio BOB - Nu Metal (aac 64)
-https://streams.radiobob.de/numetal/aac-64/
-#EXTINF:-1,Exclusively Iron Maiden
-https://nl4.mystreaming.net/er/ironmaiden/icecast.audio
-#EXTINF:-1,RadCap - Symphonic Black Metal
-http://79.111.119.111:8004/symphonicblackmetal
-#EXTINF:-1,__ROCK__ by rautemusik (rm.fm)
-https://rock-high.rautemusik.fm/?ref=radiobrowser
-#EXTINF:-1,Thrash Heavy Metal - Caprice Radio
-http://213.141.131.10:8000/thrashheavy
-#EXTINF:-1,Radio Caprice - Death Metal
-http://79.120.77.11:9083/
-#EXTINF:-1,RadCap - Brutal Death Metal
-http://79.111.119.111:8004/brutaldeathmetal
-#EXTINF:-1,- 0 N - Rock on Radio
-https://0n-rock.radionetz.de/0n-rock.mp3
-#EXTINF:-1,Radio Caprice - Viking Metal
-http://79.111.14.76:8000/vikingmetal
-#EXTINF:-1,Radiónica (HJYM 99.1 Bogotá) RTVC
-http://shoutcast.rtvc.gov.co:8010/;
-#EXTINF:-1,Stone Radio
-http://eu4.fastcast4u.com:5248/;stream.mp3
-#EXTINF:-1,Rock Antenne Modern Metal
-https://stream.rockantenne.de/modern-metal/stream/mp3
-#EXTINF:-1,ROCKANTENNE Heavy Metal (64 kbps AAC)
-http://mp3channels.webradio.rockantenne.de/heavy-metal.aac
-#EXTINF:-1,PureRock.US - America's Pure Rock
-http://rosetta.shoutca.st:8524/
+#EXTINF:-1,Radio BOB! Der Dunkle Parabelritter
+https://regiocast.streamabc.net/regc-radiobobdunklepritter8866343-mp3-192-1775553
+#EXTINF:-1,0nlineradio METAL
+https://stream.0nlineradio.com/metal?ref=radiobrowser
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MMP7E7.png",Violent Forces Radio
+http://ca.radioboss.fm:8217/stream
+#EXTINF:-1,Radio Rovigo
+http://nr7.newradio.it:9425/stream/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/353.png",103.3 The Edge
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEDGFMAAC_SC
+#EXTINF:-1,Reign Radio 1 - The Rock Station
+https://purerock.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31786.png",iMEX Radio
+https://fmradiohub.in/radio?url=http://listen.radionomy.com/imexradio
+#EXTINF:-1,The Rogue 96.9 – KROG
+http://147.135.84.28:80/krog-fm
+#EXTINF:-1,RADIO BOB! BOBs Dunkler Parabelritter
+http://streams.radiobob.de/ritter/mp3-192/streams.radiobob.de/play.m3u
+#EXTINF:-1,Metal Rock Radio
+http://kathy.torontocast.com:2800/
+#EXTINF:-1,Triple M Hard N Heavy
+https://wz3web.scahw.com.au/live/3hardnheavy_32.stream/playlist.m3u8
+#EXTINF:-1,Rock 104.5 – CKJX
+http://ckjx.streamon.fm:8000/CKJX-48k.aac?starttime=1610813432
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26845/logo_HaUWPwkNoq.jpg?v=20260529-media-restore",Beastie Beatz
+https://stream.laut.fm/beastiebeatz
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Z5S0CB.png",Codigo Metal Radio
+http://176.31.241.17:8068/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32248/logo_CC5me5L4pV.jpg?v=20260529-media-restore",R.SA  Rockzirkus
+https://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-128
+#EXTINF:-1,Depressive Metal Rock Radio
+http://184.154.10.83:8390/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36628/logo_YYIIuYcnlP.jpg?v=20260529-media-restore",Radio Gliwice
+https://c20.radioboss.fm:8548/stream
+#EXTINF:-1,Hard Rock Radio UK
+http://music.myradio.ua/HardRock128.ogg
+#EXTINF:-1,Radio Good water 320Kbps radio
+https://quincy.torontocast.com:3025/stream
+#EXTINF:-1,The Great Unknown
+https://streams.radio.co/s386aaf9f7/listen
+#EXTINF:-1,Hard Rock Heaven
+https://listen.cdnstream.com/hrhradio/1521_128.m3u
+#EXTINF:-1,Metal Channel
+http://stream.shartnet.com:8085/stream/1
+#EXTINF:-1,ClubSuperlight
+http://listen.shoutcast.com/clubsuperlight
+#EXTINF:-1,SomaFM Metal Detector (32k AAC) - 40 - The United States Of America - black metal - doom metal - post-punk - progressive rock - sludge - stoner rock - trash
+https://somafm.com/metal32.pls
+#EXTINF:-1,RockBlast
+http://listen.radionomy.com:80/RockBlast
+#EXTINF:-1,LAZER 103.3
+https://live.wostreaming.net/direct/saga-kazrfmaac-ibc1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006974/logo_2rsjNpQxAU.jpg?v=20260529-media-restore",Sabaton
+https://stream.pcradio.app/sabaton-hi
+#EXTINF:-1,don_mad
+http://stream.laut.fm/don_mad
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59563/logo_BHxOF7Rx9a.png",COSTÃO FM | RÁDIO ROCK ITAPEMA
+https://streaming.livebroadcast.biz:8010/classica
+#EXTINF:-1,rainbowradio
+http://rainbowradio.stream.laut.fm/rainbowradio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/80057/logo_AW1HwmtGfD.jpg?v=20260529-media-restore",Radio Eigekai Indies
+https://stream.radiojar.com/66zgtscuc1duv
+#EXTINF:-1,ROOTS FAMS STATION
+http://listen.shoutcast.com/rootsfamsstation
+#EXTINF:-1,102.5 Edge FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/EDGE1025AAC.aac
+#EXTINF:-1,crimson fm
+http://crimson-fm.stream.laut.fm/crimson-fm
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27815/logo_d7of9fxcMc.jpg?v=20260529-media-restore",NRWHC
+https://stream.laut.fm/nrwhc
+#EXTINF:-1,gothica
+http://gothica.stream.laut.fm/gothica
+#EXTINF:-1,Radio Haninge Direkt
+http://213.115.49.175:1157/
+#EXTINF:-1,Katzenauge
+http://listen.shoutcast.com/katzenauge
+#EXTINF:-1,Ultra FM
+https://onlineradiobox.com/json/pt/ultra/play?platform=web
+#EXTINF:-1,THE BLASTOZOIC ERA Classic Christian Rock/Alternativ/ Metal low bit rate stream
+https://stream.rcast.net/253670
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/98491/logo_CCh5bT6MNn.jpg?v=20260529-media-restore",PPN Radio
+https://streamingv2.shoutcast.com/PPNR02
+#EXTINF:-1,NightBreed Radio
+http://199.101.51.168:8054/stream/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132240.v1.png",WXRK 
+http://69.162.75.218:8764/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006898/logo_p4rs0ZabPU.jpg?v=20260529-media-restore",Megadeth
+https://stream.pcradio.app/megadeth-hi
+#EXTINF:-1,Rock On The Rise Radio
+http://199.180.75.2:9383/
+#EXTINF:-1,Metal Public Radio
+http://streaming.live365.com/a28387
+#EXTINF:-1,TheEL.US – America’s Rock Station
+https://playerservices.streamtheworld.com/api/livestream-redirect/KENZFMAAC_SC
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52233/logo_dbwcqVSVib.png",Red Metal Radio
+https://stream.rcs.revma.com/pt14gt80ubuvv
+#EXTINF:-1,Cafe 80 Radio
+https://laradiossl.online:10253/
+#EXTINF:-1,Metal Kulture
+http://192.240.102.133:8289/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26999/logo_2DW7LphP7o.png",Bad Wolf Radio
+https://bad-wolf.stream.laut.fm/bad-wolf
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cranium-radio-643401-logo.jpg",Cranium Radio
+http://74.82.59.197/proxy/walter?mp=/stream
+#EXTINF:-1,Radio Caprice – Avant-Garde Metal
+http://79.111.14.76:9031/
+#EXTINF:-1,Fray's cave
+http://listen.shoutcast.com/fray-scave
+#EXTINF:-1,R0ckandR4d10
+http://listen.shoutcast.com/r0ckandr4d10
+#EXTINF:-1,Radio Caprice Metalcore - Металкор
+http://79.120.39.202:9027/
+#EXTINF:-1,bbr web
+http://listen.shoutcast.com/bbrweb
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32681/logo_P0LfpCvw3D.jpg?v=20260529-media-restore",The Rocking Dutchman
+https://stream.laut.fm/rockingdutchman
+#EXTINF:-1,JBChillthefuckout
+http://listen.shoutcast.com/jbchillthefuckout
+#EXTINF:-1,radio mic
+http://radio-mic.stream.laut.fm/radio-mic
+#EXTINF:-1,Radio 104.1 WMRQ – W283BS
+http://crystalout.surfernetwork.com:8001/WMRQ_MP3
+#EXTINF:-1,Stay Rock Brazil
+http://192.254.68.106:10068/stream/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13508.png",Радио ШОК
+https://fmradiohub.in/radio?url=http://spb.radioshock.ru/radioshock
 #EXTINF:-1,RPR1. Heavy Metal
-https://stream.rpr1.de/metal/mp3-128/radiobrowser
-#EXTINF:-1,RMF Classic Rock
-https://rs201-krk.rmfstream.pl/rmf_classic_rock
-#EXTINF:-1,NIGE!
-https://ais-arn.streamguys1.com/au_030/playlist.m3u8
-#EXTINF:-1,Rocker Rádió
-http://rockerradio.online/live.mp3
-#EXTINF:-1,RADIO BOB! Wacken Radio
-http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer
-#EXTINF:-1,6forty Radio
-http://radio.6forty.com:8000/6forty
-#EXTINF:-1,HardRadio [MP3]
-http://144.217.29.205/
-#EXTINF:-1,RadCap - Progressive Power Metal
-http://79.111.119.111:8004/progpowermetal
-#EXTINF:-1,Mosh Head Black Metal ID
-https://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal
-#EXTINF:-1,ROCK FM METAL
-http://stream.regenbogen2.de/metal/mp3-128
-#EXTINF:-1,Rock Radioo
-https://a10.asurahosting.com:7570/radio.mp3
-#EXTINF:-1,MAXIMUM Ozzy Osbourne
-https://maximum-ozzy.hostingradio.ru/ozzy96.aacp
-#EXTINF:-1,РАДІОПІХОТА
-https://online.pihota.fm/listen/radio/aac64
-#EXTINF:-1,DrGnu - Prog Rock Classics
-http://streams.radiobob.de/progrock/mp3-192/mediaplayer/
-#EXTINF:-1,Begoodradio.com 80s metal
-https://bigrradio.cdnstream1.com/5212_128
-#EXTINF:-1,RADIO BOB! BOBs Wacken Nonstop (192kbit)
-http://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/
-#EXTINF:-1,RadCap - Melodic Metalcore
-http://79.111.14.76:8004/melodicmetalcore
-#EXTINF:-1,Rock Antenne Heavy Metal
-https://stream.rockantenne.de/heavy-metal/stream/aacp
-#EXTINF:-1,True Black Metal Radio
-http://trueblackmetalradio.com:666/radio
-#EXTINF:-1,- 1 A - Rock von 1A Radio
-https://1a-rock.radionetz.de/1a-rock.mp3
-#EXTINF:-1,Rock Antenne Bayern
-https://stream.rockantenne.bayern/rockantenne-bayern/stream/mp3
-#EXTINF:-1,Prog Rock and Metal
-https://centova.radioservers.biz/proxy/progrock/stream
-#EXTINF:-1,core-mix
-http://stream.laut.fm/core-mix
-#EXTINF:-1,1055 Rock - Thessaloniki
-https://radio.1055rock.gr:31056/live
-#EXTINF:-1,RadCap - Gothic Black Metal
-http://79.120.39.202:8004/gothblackmet
-#EXTINF:-1,METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!
-https://metal-only.sp.radio.fm/stream
-#EXTINF:-1,Best Of Rock.FM Metallica (mp3-256)
-https://bestofrockfm.stream.vip/metallica/mp3-256/bestofrock.fm/
+https://stream.rpr1.de/metal/mp3-128/radiovolna
+#EXTINF:-1,Alternativa by MIX (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
+https://27143.live.streamtheworld.com:443/ACIR12_S01AAC.aac
+#EXTINF:-1,KEXXX.Rocks Ukraine
+https://listen6.myradio24.com/51020
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/112775967.jpg",Metal Devastation Radio
+https://c13.radioboss.fm:18099/stream?listening-from-radio-garden=1658745668
+#EXTINF:-1,SteelCage Rock Radio
+http://198.27.66.225:8096/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32811/logo_M11sCKG9fI.jpg?v=20260529-media-restore",Full Crossover
+https://fullcrossover.stream.laut.fm/full_crossover
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52443/logo_CvtqIxf4BC.jpg?v=20260529-media-restore",Rock Lab Radio Ballads
+https://stream.zeno.fm/a47236vzmg8uv
+#EXTINF:-1,nightkitsunekosradio
+http://nightkitsunekosradio.stream.laut.fm/nightkitsunekosradio
+#EXTINF:-1,eargasmUSA
+http://streaming.live365.com/a56858
+#EXTINF:-1,BDPST ROCK Radio
+https://bdpstrock.hu/live_320.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29983/logo_5Qq2A01vs4.jpg?v=20260529-media-restore",Sunflower Promotion Rock & Metal
+https://rockundmetal.stream.laut.fm/rockundmetal
+#EXTINF:-1,Dark Energy Radio
+http://stream.zeno.fm/56uhadfw87zuv
+#EXTINF:-1,WKIT
+https://streamdb4web.securenetsystems.net/ce/WKIT
+#EXTINF:-1,District X
+http://69.175.22.146:7266
+#EXTINF:-1,Global Metal
+https://stream.zeno.fm/mfuutjhc31quv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-kloki-pirate-radio-denver-logo.jpg",KLOKi Pirate Radio Denver
+https://kloki.us:8000/denver
+#EXTINF:-1,ROCK by rautemusik (rm.fm)
+https://rock-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Violent Forces Radio: '80s Thrash
+https://tuneintoradio1.com/listen/vfr_80s/radio.mp3
+#EXTINF:-1,sunexpress
+http://sunexpress.stream.laut.fm/sunexpress
+#EXTINF:-1,TheHypeGuys
+http://listen.shoutcast.com/thehypeguys
+#EXTINF:-1,Radio Groove Unsigned
+https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s1_29247_stream_691958000stream.nsvstream.nsv
+#EXTINF:-1,Green Hell Metal
+http://radio.greenhell.kiev.ua:8080/metal
+#EXTINF:-1,docmodo
+https://stream.laut.fm/docmodo?ref=radiode
+#EXTINF:-1,MeanzRock
+http://199.195.194.94:8097/stream
+#EXTINF:-1,Soturna Sintonia
+https://servidor37-2.brlogic.com:8222/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/93330/logo_EBHazltkYb.jpg?v=20260529-media-restore",Q 102.3
+https://live.amperwave.net/direct/classiccomm-kwdqfmaac-ibc2
+#EXTINF:-1,DrGnu - Hard Rock
+http://streams.radiobob.de/bob-ironworkout/mp3-192/mediaplayer
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/prog-palace-radio-579526-logo.jpg",Prog Palace Radio
+http://streaming.live365.com/a62333
+#EXTINF:-1,My Rock 96.5 – KMMY
+http://live.wostreaming.net/manifest/wmpayne-kmmyfmaac-hlsc2.m3u8
+#EXTINF:-1,Зайцев.FM - Metal
+https://stream-148.zeno.fm/paaqvxmd0ueuv?zs=EqenI7UoS96sMb5fnkTGiA
+#EXTINF:-1,Rock Nacional Paraguayo
+https://s32.radiolize.com/radio/8010/radio.mp3
+#EXTINF:-1,BeGoodRadio - 80s Rock Mix
+http://bigrradio.cdnstream1.com/5219_128
+#EXTINF:-1,Rock Box Radio HU
+https://streaming.radionomy.com/RockBoxRadiohu
+#EXTINF:-1,101.5 The Wolf – CKWF-FM
+http://192.111.140.11:8133/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/plexus-radio-beyond-metal-648229-logo.jpg",Plexus Radio - Beyond Metal
+http://stream.zenolive.com/1gkh6dff22quv
+#EXTINF:-1,R.SA - Das Schnarchnasenradio
+https://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/onlineradiobox/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88551/logo_5iSrNAK01g.png",Energy Rock Radio
+http://hyades.shoutca.st:8182/stream
+#EXTINF:-1,Radio Caprice Pagan Metal
+http://79.111.119.111:9069
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96646/logo_HC4jHobDGP.jpg?v=20260529-media-restore",011.FM - House of Hair
+https://listen.011fm.com/stream16
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37682.png",ALLESDRIN
+https://fmradiohub.in/radio?url=http://allesdrin.stream.laut.fm/allesdrin?t302=2020-05-22_10-55-26&uuid=e3aa4a14-d91f-4a99-9373-156ef67c2f00
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33554556.png",Wacken Radio by RauteMusik.FM Live
+https://rautemusik.stream38.radiohost.de/metal_mp3-192?_art=dD0xNzQ3NjQ3NDU3JmQ9MjcxMDIyNjZhMDQ4ZjhmZmNhYmI
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/4365.v8.png",105.3 The Point - WPTQ 
+https://playerservices.streamtheworld.com/api/livestream-redirect/WPTQFMAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44915/logo_Kr9Rgd0WCm.png",Der HardStyle Radio
+https://webradio.derhardstyle.ch:8010/hardstyle.mp3
+#EXTINF:-1,Canal 5 Webradio
+http://37.187.146.140:8506/stream
+#EXTINF:-1,Radio Metal - First Metal Radio in Ukraine!
+https://a1.radioheart.ru:8008/radio-metal
+#EXTINF:-1,Rock & Metal music
+https://node-03.zeno.fm/6qn86bx347zuv
+#EXTINF:-1,Rockanbolesque Radio Rock
+http://64.71.79.181:5046/autodj
+#EXTINF:-1,Radio-Lux
+https://radio-lux.stream.laut.fm/radio-lux
+#EXTINF:-1,Metallorica – Online Radio
+http://ssl.radiosnethosting.com:9458/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29197/logo_kSRpnZoeca.jpg?v=20260529-media-restore",SAARwooD Radio
+https://stream.laut.fm/saarwoodradio
+#EXTINF:-1,Polyprisma 
+https://polyprisma.stream.laut.fm/polyprisma?t302=2023-04-25_20-06-50&uuid=dca957b8-5079-4635-86f2-b5b0b18dd666
+#EXTINF:-1,Beyond Metal
+https://streamingv2.shoutcast.com/beyond-metal
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88448/logo_nMhvabEI14.jpg?v=20260529-media-restore",Rock 95
+https://cob-ais.leanstream.co/CFJBFM
+#EXTINF:-1,DrGnu - Gothic
+http://streams.radiobob.de/gothic/mp3-192/mediaplayer
+#EXTINF:-1,Radio Orange
+http://live.orangeradio.gr:8000/stream.mp3
+#EXTINF:-1,Progressive Metal
+http://38.242.141.8:8000/
+#EXTINF:-1,96.7 The Wolf – KWMX
+http://16603.live.streamtheworld.com:80/KWMXFMAAC_SC
+#EXTINF:-1,CIFM
+https://stream.jpbgdigital.com/CIFM/HEAAC/48k/playlist.m3u8
+#EXTINF:-1,Radio Compañia 99.9 FM
+http://amixfm.com/8070/stream99
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/93628/logo_JETP1gvTlX.jpg?v=20260529-media-restore",98.7 Modern Rock
+https://ais-sa8.cdnstream1.com/2755_64.aac
+#EXTINF:-1,Rage FM
+http://uk2-pn.mixstream.net:8002/
+#EXTINF:-1,92.7 Rock - CJRQ-FM
+http://rogers-hls.leanstream.co/rogers/sud927.stream/icy
+#EXTINF:-1,Midnight Madness
+http://82.23.193.147:9000
+#EXTINF:-1,NaszFm
+http://listen.radionomy.com:80/NaszFm
+#EXTINF:-1,Big R Radio 80s Metal FM
+https://giorgia.radiobellissima.it/radio/8110/stream
+#EXTINF:-1,Rockerazos
+https://stream.zeno.fm/4554vkruqp8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-pajarraca-radio-176035-logo.jpg",La Pajarraca Radio
+http://67.20.61.70:8281/;stream.nsv
+#EXTINF:-1,J-96 – WJJH
+http://icy3.abacast.com/heartlandcom-wjjhfmaac-64
+#EXTINF:-1,JRSRadio1
+http://listen.shoutcast.com/jrsradio1
+#EXTINF:-1,RADIO BOB! BOBs Harte Saite
+https://streams.radiobob.de/bob-hartesaite/aac-64/radiode/
+#EXTINF:-1,lariosRadio
+http://listen.shoutcast.com/lariosradio
+#EXTINF:-1,theknax79
+http://theknax79.stream.laut.fm/theknax79
+#EXTINF:-1,WXJK - The X 
+http://wxjk1013.primcast.com:4624/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/L7FX72.png",That Metal Station
+http://91.121.164.210:8228/stream
+#EXTINF:-1,Stellar Attraction
+https://onlineradiobox.com/json/uk/stellarattraction/play?platform=web
+#EXTINF:-1,Covenant 
+https://covenant.stream.laut.fm/covenant
+#EXTINF:-1,Category 6
+https://onlineradiobox.com/json/ca/category6/play?platform=web
+#EXTINF:-1,Core-Mix Radio
+https://stream.pcradio.ru/laut_core_mix-med
+#EXTINF:-1,Up&Down Top Rock Radio
+https://streamingv2.shoutcast.com/Up-DownTopRockRadio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/23163.png",Atlântica FM
+https://fmradiohub.in/radio?url=http://radios.topymedia.com:8000/stream/1/
+#EXTINF:-1,1A Patschemusik
+https://stream.laut.fm/1a-patschemusik
+#EXTINF:-1,ASWebradio
+http://str2.openstream.co/460
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27247/logo_jXo5stQM6R.png",Psychographics Radio
+https://psychographics.stream.laut.fm/psychographics
+#EXTINF:-1,Metal Rock Dot FM  
+http://listen.shoutcast.com/radiobizzzzz
+#EXTINF:-1,Prog Univers Radio
+https://manager8.streamradio.fr:3275/stream
+#EXTINF:-1,ClubOneRadio
+http://sc9.shoutcaststreaming.us:8292/
+#EXTINF:-1,Oasis FM 105.7
+http://stm48.veemesoft.com.ar:25504/stream/
+#EXTINF:-1,merigieren
+http://listen.shoutcast.com/merigieren
+#EXTINF:-1,Radio Odzew
+https://s3.slotex.pl/shoutcast/7468/stream?sid=1
+#EXTINF:-1,CHME
+https://centova.radioservers.biz/proxy/chmeclau/streamaudio.mp3?hash=1680671472422
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/101742/logo_xvNY9cJbxq.jpg?v=20260529-media-restore",96.9 The Monster
+https://das-edge17-live365-dal02.cdnstream.com/a22251
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100720/logo_hBOdL2YP4h.jpg?v=20260529-media-restore",WXRK
+http://69.162.75.218:8764/stream
+#EXTINF:-1,Fusion109 Radio
+http://play.fusion109.com:8000/stream.mp3
+#EXTINF:-1,metalmaster alf
+http://metalmaster-alf.stream.laut.fm/metalmaster-alf
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/93171/logo_2lwbatPunr.jpg?v=20260529-media-restore",The Mountain
+https://live.amperwave.net/manifest/saga-wtmtfmaac-hlsc2.m3u8/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29143/logo_Hz9GuPMQX1.jpg?v=20260529-media-restore",Rock City
+https://stream.laut.fm/rock-city
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3612.png",Asgard Radio
+https://fmradiohub.in/radio?url=http://cast6.my-control-panel.com:7882/index.htm
+#EXTINF:-1,100 GREATEST HEAVY METAL
+https://giorgia.radiobellissima.it/radio/8160/stream
+#EXTINF:-1,Freedom Rock Radio
+http://173.208.177.90:9322/
+#EXTINF:-1,ICT Radio
+https://streamer.radio.co/s011e542fa/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41178/logo_crn7dcQbI9.jpg?v=20260529-media-restore",Diktátor Rocker Rádió
+http://stream.zeno.fm/m22tsf1oehtuv
+#EXTINF:-1,Mike's broadcast
+http://listen.shoutcast.com/mike-sbroadcast
+#EXTINF:-1,Zig Zag Metal Phonic
+https://www.radioking.com/play/zig-zag-metal-phonic/11726
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44635/logo_7sVTEMddug.jpg?v=20260529-media-restore",Bandit Metal
+https://wr03-ice.stream.khz.se/wr03_mp3?platform=web
+#EXTINF:-1,MWR 1 Radio
+https://stream.laut.fm/mwr1
+#EXTINF:-1,Razor 94.7
+https://woodward-radio.streamb.live/SB00039
+#EXTINF:-1,WILD ROCK RADIO Stream
+http://64.150.176.42:8276/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/87035/logo_tq45ikvlEr.jpg?v=20260529-media-restore",Radio Dragon
+https://stream.zeno.fm/0hw3ybnde18uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-sign-of-the-horns-logo.jpg",Radio Sign of the Horns
+http://epsilon.shoutca.st:8322/stream?type=httpu0026nocache=1/;
+#EXTINF:-1,Doctor Pundit Hair Band Hits + Ballads
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3084867_SC?dist=onlineradiobox
+#EXTINF:-1,Hard Rock Lion
+https://stream.zeno.fm/3yfhrpk3v8quv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76414/logo_fH4cRzVMSM.jpg?v=20260529-media-restore",Notimil Sucumbios
+https://stream.zeno.fm/7cn7ehw3ud0uv
+#EXTINF:-1,Acoustic rock FM
+https://stream.zeno.fm/27rv8yqvn18uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102333/logo_ApAtz5fn2p.jpg?v=20260529-media-restore",97.9X
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBSXFMAAC_SC
 #EXTINF:-1,- 0 N - Heavy Metal on Radio
 https://0n-heavymetal.radionetz.de/0n-heavymetal.aac
-#EXTINF:-1,88.6 Metal
-http://radio886.at/streams/88.6_Metal/mp3
-#EXTINF:-1,RadCap - Nu Metal
-http://79.111.14.76:8004/numetal
-#EXTINF:-1,EklectyWaves - The Sharing Radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27166/logo_gPcZeOF7G8.png",Ostwelle Radio
+https://ostwelle.stream.laut.fm/ostwelle
+#EXTINF:-1,Eternal Metal
+https://stream.zeno.fm/7hpv1r6171zuv
+#EXTINF:-1,SomaFM Metal Detector (64k AAC) - 80 - The United States Of America - black metal - doom metal - post-punk - progressive rock - sludge - stoner rock - trash
+https://somafm.com/metal64.pls
+#EXTINF:-1,Boarischguad Metal
+https://stream.laut.fm/boarischguad_metal?ref=radiode
+#EXTINF:-1,ByteFM
+http://addrad.io/4457xkx
+#EXTINF:-1,Fm Ser Metal 99.5 Mhz
+https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s1_25020_stream_918645747stream.nsv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/100128/logo_tE7LHdvPD3.png",Getdown With The Mixdown Radio
+http://stream.zeno.fm/tqrdtqfmyp5tv
+#EXTINF:-1,RebeldiaFM
+https://ssl.hdradios.net:6806/
+#EXTINF:-1,MetalRock06 Radio
+https://listen.radioking.com/radio/131959/stream/171853
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radionica-logo.jpg",Radio Radiónica
+http://shoutcast.rtvc.gov.co:8010/;
+#EXTINF:-1,K-Rock Europe
+https://tv.radiohosting.online:8982/stream
+#EXTINF:-1,Radio Emergency
+https://www.radioemergency.de/radioemergency.mp3
+#EXTINF:-1,Metal Monsters
+http://musique.juliendaniel.ca:8000/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/76963603.jpg",Q102.1
+https://live.amperwave.net/direct/midwestfamily-kqrafmaac-ibc3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/101640/logo_oPTguAnXHo.png",Realm Radio
+https://streaming.live365.com/a30056
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92887/logo_8y4j8pVC0c.jpg?v=20260529-media-restore",Rockfile Radio FIRE
+https://radiobash.net:2000/stream/rockfilemediallcstream-fire/stream
+#EXTINF:-1,105.7 WAPL - WAPL
+http://woodward-radio.streamb.live/SB00020
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31915/logo_zvDQ4TjGHy.png",Krawallradio
+https://radio.krawallradio.com/listen/krawallradio/radio.mp3
+#EXTINF:-1,Radio Metal On The Thrasher
+http://radiometalon.com:8020/aac
+#EXTINF:-1,SONGCAST RADIO - Variety Mix 1
+http://www.songcastradio.com:9000/stream/1
+#EXTINF:-1,Rocket 95.1 – WRTT-FM
+http://atl2.fla.abacast.com/southernstone-wrttfmaac-48
+#EXTINF:-1,Hard Rock Arena Radio
+http://listen.radionomy.com/hardrockarenaradio
+#EXTINF:-1,Metal Hammer Radio 重金屬音樂電台
+https://stream.laut.fm/metal-hammer
+#EXTINF:-1,RadioOfDevils
+https://stream.laut.fm/radioofdevils?ref=radiode
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006732/logo_JExwpuV7ID.jpg?v=20260529-media-restore",Gamma Ray
+https://stream.pcradio.app/Gamma_Ray-hi
+#EXTINF:-1,Radio Caprice – Power Metal
+http://79.120.77.11:9099/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27764/logo_ONeUhykHWD.png",Sleeping City Radio
+https://sleepingcity.stream.laut.fm/sleepingcity
+#EXTINF:-1,Bandit Metal
+http://wr03-ice.stream.khz.se/wr03_mp3
+#EXTINF:-1,XEKS 960 AM – XEKS
+http://192.111.140.6:8167/stream/
+#EXTINF:-1,Spiritmix
+http://s8.myradiostream.com:6178/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fip-l-ete-metal-649602-logo.jpg",Radio FIP l ete Metal
+https://direct.fipradio.fr/live/fip-webradio7.mp3?ID=76zqey582k
+#EXTINF:-1,106.5 Lakes FM radio
+https://streamdb4web.securenetsystems.net/v5/KFMC
+#EXTINF:-1,MusikerRadio 1 NDH
+https://www.radioking.com/play/musikerradio1
+#EXTINF:-1,Balboa Rock Network
+https://stream.zeno.fm/s16wq16fhg0uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44680/logo_WlNS9H31BR.png",Northern Metal Radio
+https://dc5.serverse.com/proxy/lvzgnvcj/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102706/logo_i1K4Pz5s00.jpg?v=20260529-media-restore",181.FM Chloe
+https://listen.181fm.com/181-chloe_128k.mp3
+#EXTINF:-1,Estación Rocanrol
+https://streaming.live365.com/a83862
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-roks-rivne-logo.jpg",Radio Радіо Roks Рівне
+https://stream.zeno.fm/prdfnrettf9uv
+#EXTINF:-1,104.3 The Hippo - KHIP
+https://ice9.securenetsystems.net/KHIP
+#EXTINF:-1,KGRG1 - Main Stream
+https://stream.rcast.net/13286
+#EXTINF:-1,AltRockMetal - Radio Band
+http://listen.radionomy.com/altrockmetal-radioband
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/20630.png",Sonido Oscuro Radio
+https://stream-153.zeno.fm/1q7md65ubseuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxcTdtZDY1dWJzZXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsImp0aSI6Im9sYnMwTS1CVHBxMmZxQnpab1BBaEEiLCJpYXQiOjE3MTQwMjgzMjMsImV4cCI6MTcxNDAyODM4M30.rIJs195amaxGxXQNKSRCD2wpvNNOfNof56SgqSzXOSM&zttl=5
+#EXTINF:-1,La Silla Eléctrica
+https://stream.zeno.fm/vn1c858uvmzuv
+#EXTINF:-1,JanPlaysMusic
+http://listen.shoutcast.com/janplaysmusic
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52443/logo_qSsYTw1VSx.png",Rock Lab Radio Ballads
+https://stream.zeno.fm/a47236vzmg8uv
+#EXTINF:-1,ProgAlley
+http://progalley.stream.laut.fm/progalley?t302=2023-04-25_19-39-02&uuid=1b5ffa25-5b48-4dc2-8793-b6e4a3ec4cec
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hard-rock-radio-bali-578020-logo.jpg",Hard Rock Radio Bali
+http://indo.mra.rastream.com/mra_hardrock-bali
+#EXTINF:-1,radiohohenburg
+http://stream.laut.fm/radiohohenburg
+#EXTINF:-1,Shamanic_tunes
+http://stream.laut.fm/shamanic_tunes
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102712/logo_91hv5JtnGQ.png",Braingell Radio
+https://s6.reliastream.com/proxy/braingel?mp=%2Fstream
+#EXTINF:-1,RER Radio
+https://stream.laut.fm/rer
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/90275/logo_qjZwRyn6gt.png",Radio Metal Hermosillo
+https://rmhsm.radioca.st/
+#EXTINF:-1,Red Earth
+http://162.213.197.50:8043/
+#EXTINF:-1,Masters of Thrash
+https://streamingv2.shoutcast.com/MastersofThrash
+#EXTINF:-1,DrGnu - Hard Side
+http://streams.radiobob.de/bob-hartesaite/mp3-192/mediaplayer
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36547.png",Bertrams Dampfradio
+https://fmradiohub.in/radio?url=http://bertramsdampfradio.stream.laut.fm/bertrams_dampfradio?t302=2020-05-22_09-43-13&uuid=e0da0c05-d783-4854-8736-7326a6e4b01d
+#EXTINF:-1,Energy 971
+http://176.9.32.52:8040/stream
+#EXTINF:-1,Z-Rock 103 radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXZZFM_SC?dist=onlineradiobox
+#EXTINF:-1,Rockum Radio Station
+https://onlineradiobox.com/json/pe/rockum/play?platform=web
+#EXTINF:-1,Bar de Blues Radio
+http://streamingraddios.online:10264/stream/
+#EXTINF:-1,Ad_Infinitum
+https://stream.laut.fm/ad_infinitum
+#EXTINF:-1,Radio Crim Radio
+https://cp7.serverse.com/proxy/sc2_ad03/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44929/logo_kGqbRnfbpG.jpg?v=20260529-media-restore",Radio Drachenblut
+http://radio-drachenblut.ch:8000/listen.mp3
+#EXTINF:-1,Punk Radio Underground
+https://s1.slotex.pl/shoutcast/7604/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/106093488.jpg",Rock
+https://live.rockfm.ro/rockfm.aacp?listening-from-radio-garden=1688527572
+#EXTINF:-1,Shock Wave Radio
+https://servidor21.brlogic.com:7128/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/60568101.jpg",Metal Shop
+https://quincy.torontocast.com:1505/stream
+#EXTINF:-1,xerife 81 fm
+http://xerife-81-fm.stream.laut.fm/xerife-81-fm
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/73133/logo_FNKVFYvJHy.png",Extream Christian Metal Radio
+https://stream.zeno.fm/edfmdeqwtvztv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50074/logo_wZXjAuaz9J.jpg?v=20260529-media-restore",Top Rock Radio
+https://listen.switchradio.co.uk/jim
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OQLWJ.png",Broken Neck Radio
+https://samcloud.spacial.com/api/listen?sid=42814&rid=154980&f=mp3,any&br=128000,any&m=sc
+#EXTINF:-1,Radio Zoom
+http://musik.radio-zoom.de/192k.mp3
+#EXTINF:-1,Hitz FM - Rock
+https://stream-159.zeno.fm/6r8xiccmsbktv?zs=KaFsZkIqR5C65lkVgOmkuw
+#EXTINF:-1,Hudson Valley Rock Radio
+https://streamingv2.shoutcast.com/TopTonicMetal
+#EXTINF:-1,Rock ZIH radio
+https://stream.zeno.fm/5mze4yes2zhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-caprice-black-metal-591025-logo.jpg",Radio Caprice Black Metal
+http://79.120.77.11:9003/;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/51449/logo_ZNsTXy0FKr.jpg?v=20260529-media-restore",Totalrock
+https://s3.citrus3.com:8056/stream
+#EXTINF:-1,Zajcev FM - Metal Radio
+https://stream.pcradio.ru/rad_zcvfmmtl-med
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15170.png",Radio Sol
+https://us9.maindigitalstream.com/ssl/7389
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100813/logo_DqS2PqTQE4.jpg?v=20260529-media-restore",Old Head Radio
+https://streaming.live365.com/a36272
+#EXTINF:-1,The Roses
+https://stream.zeno.fm/pcau5p6b368uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40403/logo_l6IB1F8D09.png",Antenna Web Napoli Radio
+https://tinyurl.com/Radio-Amici-di-Napoli
+#EXTINF:-1,Pat Paradise Rock Station 2
+https://stream-150.zeno.fm/lndaix05auuvv?zs=tA6PK9uQSTCGyQp6-ahdQA
+#EXTINF:-1,Hasi From Hell
+https://stream.laut.fm/hasifromhell
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/48500922.png",Powerplant Radio Org
+https://fmradiohub.in/radio?url=http://eagle.streemlion.com:4013/stream
+#EXTINF:-1,RauteMusik Wacken Radio
+http://wackenradio-high.rautemusik.fm/
+#EXTINF:-1,Radio_Feccia
+http://listen.shoutcast.com/radio-feccia
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fnaradio-614525-logo.jpg",FNAradio
+http://184.154.43.106:8133/stream
+#EXTINF:-1,Friends Forever Internet Radio
+https://onlineradiobox.com/json/us/friendsforever/play?platform=web
+#EXTINF:-1,Radio Rock Br Web
+https://stream.zeno.fm/03wskcnp6f0uv
+#EXTINF:-1,Traxx FM - Rock
+http://traxx019.ice.infomaniak.ch/traxx019-low.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26621/logo_OYL5Kia5aQ.jpg?v=20260529-media-restore",End Zeit FM
+https://endzeitfm.stream.laut.fm/endzeitfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/marshal-radio-x-582671-logo.jpg",Marshal Radio X
+http://wb.2222server.net:9255/;
+#EXTINF:-1,Q104 (104.3 FM) radio
+https://patmos.cdnstream.com/proxy/sanctua1?mp=/stream
+#EXTINF:-1,Radio-Headshot
+http://stream.laut.fm/radio-headshot
+#EXTINF:-1,DrGnu - Wacken Radio
+http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer
+#EXTINF:-1,RADIO BOB - Nu Metal
+https://streams.radiobob.de/numetal/aac-64/
+#EXTINF:-1,NRJ Metal
+https://scdn.nrjaudio.fm/adwz1/fr/30079/aac_64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-leaf-fm-584883-logo.jpg",Radio The Leaf FM
+http://streaming.live365.com/a82519
+#EXTINF:-1,Three D Radio - Adelaide
+https://www.liveradio.es/http://public-radio1.internode.on.net:8002/137
+#EXTINF:-1,AORDreamer
+https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance
+#EXTINF:-1,Rebel Radio Brod
+http://radio.ipip.cz:7988/
+#EXTINF:-1,Hard As A Rock
+https://streaming.live365.com/a89653
+#EXTINF:-1,Ngawuer
+http://www.last.fm/listen/user/arief_shinoda/personal
+#EXTINF:-1,Jumpgate Pirate Radio
+http://72.10.37.31:8000/
+#EXTINF:-1,Swedish Chainsaw radio
+https://stream.zeno.fm/amo4rddvbkhvv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/72197/logo_jbgFYFUAym.jpg?v=20260529-media-restore",Radio Tricolrock
+https://cast.tricolrock.com:8000/radio-tricolrock
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29265.jpg",sound_eff-3kt-_-mix
+https://fmradiohub.in/radio?url=http://stream.laut.fm/sound_eff-3kt-_-mix
+#EXTINF:-1,TFM Rock
+https://tfm-rock.stream.laut.fm/tfm-rock
+#EXTINF:-1,Metal Asylum
+https://stream.zeno.fm/fqe31tvbashvv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36641.png",Oldinn Resort
+https://fmradiohub.in/radio?url=http://oldinn-resort.stream.laut.fm/oldinn-resort?t302=2020-05-22_10-03-57&uuid=1cd937b3-f92f-4b57-83d1-f4bf7e5eda8c
+#EXTINF:-1,Classic Rock 102.9 & 1430 – KBRC
+http://ice7.securenetsystems.net:80/KBRC
+#EXTINF:-1,VOLOSATOE RADIO
+https://stream.rcast.net/206454
+#EXTINF:-1,RockinRebelTV
+http://listen.shoutcast.com/rockinrebeltv
+#EXTINF:-1,artdestiny
+http://artdestiny.stream.laut.fm/artdestiny
+#EXTINF:-1,SuperDerek
+http://listen.shoutcast.com/superderek
+#EXTINF:-1,metal forever69
+http://listen.shoutcast.com/metalforever69
+#EXTINF:-1,psychographics
+http://psychographics.stream.laut.fm/psychographics
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15226.png",Manganime Radio
+https://listen.moe/opus
+#EXTINF:-1,CLASSIC METAL RADIO (classicmetalradio.net)
+https://hazel.torontocast.com:2280/
+#EXTINF:-1,93.7 The Bus
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBUSAAC.aac
+#EXTINF:-1,luene radio
+http://luene-radio.stream.laut.fm/luene-radio
+#EXTINF:-1,pommfriedel
+http://pommfriedel.stream.laut.fm/pommfriedel
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26929/logo_F8hD7gQKTv.jpg?v=20260529-media-restore",Radio Magic Firebird
+https://radio-magic-firebird.stream.laut.fm/radio-magic-firebird
+#EXTINF:-1,Triple J Canberra
+https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8
+#EXTINF:-1,VICPER 13.2 FM ONLINE
+https://s01.digitalserver.org:7663
+#EXTINF:-1,thenewradio
+http://thenewradio.stream.laut.fm/thenewradio
+#EXTINF:-1,Rockhuhn
+https://rockhuhn.stream.laut.fm/rockhuhn
+#EXTINF:-1,rockanstalt
+http://rockanstalt.stream.laut.fm/rockanstalt
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/94864/logo_hrlBG1VS0c.png",LAZER 103.3 Radio
+https://live.amperwave.net/direct/saga-kazrfmaac-ibc1
+#EXTINF:-1,METAL FM
+https://stream.zeno.fm/ub5uc9z205quv
+#EXTINF:-1,Frecuencia Indie
+http://192.99.8.170:8034/stream
+#EXTINF:-1,Asymetria
+https://epanel.mediacp.eu:8551/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46272/logo_E2BimuIoXC.jpg?v=20260529-media-restore",EklectyWaves The Sharing Radio
 https://play.radioking.io/eklectywaves-the-sharing-radio
-#EXTINF:-1,Studio Brussel Zware Gitaren
-http://icecast.vrtcdn.be/stubru_bruut-high.mp3
-#EXTINF:-1,Radio Caprice - Melodic Death Metal
-http://79.120.77.11:8002/melodicdeath
-#EXTINF:-1,RadCap - Industrial Metal
-http://79.120.39.202:9075/;
-#EXTINF:-1,Absolut ROCK
-https://edge59.live-sm.absolutradio.de/absolut-rock/stream/mp3
-#EXTINF:-1,РокРадіо Metal
-https://rockradioua.online:8433/metal_256
-#EXTINF:-1,Radio Caprice - Melodic Metalcore
-http://79.111.14.76:8002/melodicmetalcore
-#EXTINF:-1,4U Hard FM
-https://live.4uradios.com/4uhardfm.mp3
-#EXTINF:-1,Rock FM
-https://stream2.rockfm.lt/crf128.mp3
-#EXTINF:-1,Metalcore
-https://metalcore.stream.laut.fm/metalcore
-#EXTINF:-1,Radio ROKS (Moldova) - Hard'n'Heavy
-https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac
-#EXTINF:-1,SomaFM Metal Detector (32k AAC)
-https://ice4.somafm.com/metal-32-aac
-#EXTINF:-1,Radio Caprice - Nu Metal
-http://79.111.14.76:8002/numetal
-#EXTINF:-1,Radio Caprice - Heavy Metal
-http://79.111.14.76:8000/heavymetal
-#EXTINF:-1,RadCap - Symphonic Metal
-http://79.120.77.11:9097/;
-#EXTINF:-1,Untidy Radio
-https://das-edge17-live365-dal02.cdnstream.com/a14325
-#EXTINF:-1,UnderGRAND Radio
-http://stream.zeno.fm/rp1swb5pgzzuv
-#EXTINF:-1,Radio BOB! National (192kbps)
-https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/
-#EXTINF:-1,Death.FM
-http://hi5.death.fm/;stream.mp3
-#EXTINF:-1,Radio BOB! Death Metal (192kbps)
-https://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/
-#EXTINF:-1,Radio Bob! Nu Metal
-https://streams.radiobob.de/numetal/mp3-192/streams.radiobob.de/
-#EXTINF:-1,RADIO BOB! BOBs Mittelalter Rock
-http://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/
-#EXTINF:-1,Distorsión FM
-https://tunein.radiomaniacos.cl/distorsion.mp3
-#EXTINF:-1,Q103.3 KTMQ
-http://stream.revma.ihrhls.com/zc5130
-#EXTINF:-1,RadCap - Melodic Power Metal
-http://79.111.119.111:8004/melodicpower
-#EXTINF:-1,RadCap - New Wave Of British Heavy Metal
-http://79.120.12.130:8002/nwobhm
-#EXTINF:-1,Radio Caprice - Gothic Black Metal
-http://79.120.39.202:8000/gothblackmet
-#EXTINF:-1,RadCap - Jazz Fusion Metal
-http://213.141.131.10:8004/jazzmetal
-#EXTINF:-1,Radio Armageddon
-https://ssl-1.radiohost.pl:11608/
-#EXTINF:-1,Radio Caprice - Melodic Heavy Metal
-http://79.111.119.111:8000/melodicheavy
-#EXTINF:-1,Guerrilla Radio
-http://s2.stationplaylist.com:9460/guerrilla
-#EXTINF:-1,Ultra Dark Radio
-http://stream.laut.fm/ultradarkradio
-#EXTINF:-1,RadCap - Melodic Death Metal
-http://79.120.77.11:9091/;
-#EXTINF:-1,RadCap - Thrash Black Metal
-http://213.141.131.10:8004/thrashblack
-#EXTINF:-1,METAL ONLY - https://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!
-https://metalonly.sp.radio.fm/stream
-#EXTINF:-1,Radio ROKS Hard'n'Heavy [Rest]
-https://radio.plivka.online/roks
-#EXTINF:-1,RADCAP: ATMOSPHERIC / AMBIENT BLACK METAL
-http://79.120.39.202:8000/aabmds
-#EXTINF:-1,Emo Radio
-https://n3fb-e2.revma.ihrhls.com/zc9380/63_zun0p3v3w43c02/playlist.m3u8?streamid=9380u0026zip=u0026clientType=webu0026host=webapp.USu0026modTime=1769985886674u0026profileid=11932796403u0026terminalid=159u0026territory=USu0026us_privacy=1-N-u0026callLetters=FEEL-FLu0026devicename=web-desktopu0026stationid=9380u0026dist=iheartu0026subscription_type=free
-#EXTINF:-1,RadCap - Medieval Metal Rock
-http://213.141.131.10:8004/medievalmetal
-#EXTINF:-1,RadCap - Atmospheric Ambient Black Metal
-http://79.120.39.202:8004/aabmds
-#EXTINF:-1,JR Radio
-http://stream.zeno.fm/pdkt234k698uv.mp3
+#EXTINF:-1,MARSEILLE ROCKSTATION
+https://listen.radioking.com/radio/521995/stream/580216
+#EXTINF:-1,rpm1
+http://rpm1.stream.laut.fm/rpm1
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/80180.v12.png",Up&Down Top Rock Radio 
+https://stream.zeno.fm/h1vqh23b368uv
+#EXTINF:-1,Raven Radio SRD
+http://108.166.162.179:7112
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-rockradiocom-melodic-death-metal-logo.jpg",ROCKRADIO.com - Melodic Death Metal
+http://www.rockradio.com/melodicdeathmetal
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31301/logo_pMs2ciKQMs.png",Radio Bob! Nu Metal
+https://regiocast.streamabc.net/regc-radiobobnumetal-mp3-192-3677695
+#EXTINF:-1,Loaded
+http://chme949.com:8670/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33390.png",Hard & Heavy Metal Hits Radio
+https://fmradiohub.in/radio?url=http://streaming.radionomy.com/Hard-HeavyMetalHits
+#EXTINF:-1,Euforia Metal
+https://onlineradiobox.com/json/ni/euforiametal/play?platform=web
+#EXTINF:-1,durchgehoert
+http://durchgehoert.stream.laut.fm/durchgehoert
+#EXTINF:-1,Metalandom
+http://listen.radionomy.com/metal-andom
+#EXTINF:-1,94.1 The Rock
+https://streamdb5web.securenetsystems.net/cirrusencore/KSDNFM
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/108785279.jpg",The Choice - 80's Hair & 80's Hits
+https://ais-edge50-live365-dal02.cdnstream.com/a36545
+#EXTINF:-1,rockinbayern
+http://rockinbayern.stream.laut.fm/rockinbayern
+#EXTINF:-1,Bolivia Rock
+http://stream.zeno.fm/en940syyv8quv
+#EXTINF:-1,Anwarock
+https://listen.radionomy.com/anwa-rock
+#EXTINF:-1,RADIO BOB! Unplugged
+http://bob.hoerradar.de/radiobob-chillout-mp3-hq?sABC=61s7rp75%230%2348qrn082p9447n3483o68po3qp43195r%23zrqvncynlre\u0026amsparams=playerid:mediaplayerskey:1643637877
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18115.png",Blown Classic Rock Radio 
+https://fmradiohub.in/radio?url=http://ais-sa2.cdnstream1.com/1370_128
+#EXTINF:-1,BGX Radio
+https://cast4.asurahosting.com/proxy/ken/stream.nsv
+#EXTINF:-1,Front Row Radio
+https://das-edge10-live365-dal03.cdnstream.com/a15806
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88137/logo_s5kuUn7uQj.jpg?v=20260529-media-restore",CHME
+https://centova.radioservers.biz/proxy/chmeclau/stream;audio.mp3?hash=1680671472422
+#EXTINF:-1,Chronix Metal
+https://usa17.fastcast4u.com/proxy/chronixr?mp=/1
+#EXTINF:-1,Radio Caprice - Jazz Fusion Metal
+http://213.141.131.10:8002/jazzmetal
+#EXTINF:-1,KizROCK radio
+http://2stream.dyndns.org:8000/kizrock
+#EXTINF:-1,Más Música Menos Guerra Radio
+https://stream.zeno.fm/ywx5ui4gcrytv
+#EXTINF:-1,Vic Mar Producciones Radio Premier
+https://s01.digitalserver.org:7016
+#EXTINF:-1,The In Home Concert Network
+http://listen.shoutcast.com/theinhomeconcertnetwork
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EZXL6Y.png",ChroniX Radio™
+https://streamingV2.shoutcast.com/ChroniXRadio-
+#EXTINF:-1,Depressive Radio
+http://depressiveradio.listen2myradio.com
+#EXTINF:-1,103.1 The Raven
+https://ice23.securenetsystems.net/KRVX
+#EXTINF:-1,America's OTR - Old Time Comedy Radio
+https://streaming.live365.com/a29044
+#EXTINF:-1,Radio Caprice – Symphonic Metal
+http://79.120.77.11:8000/symphometal/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50238/logo_EVecPe7IfQ.jpg?v=20260529-media-restore",Stellar Attraction
+http://77.68.36.137:8000/stream/
+#EXTINF:-1,HardRadio [MP3]
+http://www.hardradio.com/streaming/hardmp3.pls
+#EXTINF:-1,The Mix 102
+http://listen.radionomy.com:80/TheMix102
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005008/logo_PpoZWeK0oh.jpg?v=20260529-media-restore",Heavy Music Atmospheric Radio (HMA)
+https://stream.heavy-music.net:8107/stream
+#EXTINF:-1,Technikum Rock
+https://stream.radiotechnikum.at/TECHROCK
+#EXTINF:-1,Peli One FM
+https://server5528.streamplus.de/stream.mp3
+#EXTINF:-1,Cuerdas de Metal radio
+https://stream.zeno.fm/x8nvf604pa0uv
+#EXTINF:-1,SLE Radio
+https://sleradiogroup.com/listen/sle_radio_1/sleone.mp3
+#EXTINF:-1,Fusion109
+https://stream.fusion109.com:9000/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10249.png",DistFM
+https://fmradiohub.in/radio?url=http://185.80.220.12:8146
+#EXTINF:-1,Vibration – Poprock
+http://icepe2.infomaniak.ch/vibrationpoprock-high.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27696/logo_AAXgNqfZSL.jpg?v=20260529-media-restore",Waste Water Music
+https://stream.laut.fm/wastewatermusic
+#EXTINF:-1,rogent
+http://listen.radionomy.com:80/rogent
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EFSKYJ.png",Hard Waves Radio
+https://c22.radioboss.fm/stream/34
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27729.png",K-Rock
+https://fmradiohub.in/radio?url=http://icy3.abacast.com/galaxy-wkrlfmmp3-64
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005091/logo_ofjKeLCr5h.jpg?v=20260529-media-restore",Свой стиль
+https://stream.laut.fm/svoystil
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18211.png",Boom 96.7
+https://fmradiohub.in/radio?url=http://newcap.leanstream.co/CFXWFM?args=3rdparty_02&ampuid=2197ae72-1c90-4f47-841d-e402365c1de1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004083/logo_DNKzswSwtO.jpg?v=20260529-media-restore",1.FM - High Voltage
+https://strm112.1.fm/highvoltage_mobile_mp3
+#EXTINF:-1,97.9 CPR Rocks – WCPR-FM
+http://live.wostreaming.net/direct/alphacorporate-wcprfmaac-ibc4
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39790.png",Destiny Radio
+https://s3.radio.co/s5fa917423/listen
+#EXTINF:-1,VojenskÃ¡ technika
+http://listen.shoutcast.com/vojenskatechnika
+#EXTINF:-1,The Glow
+http://199.180.75.58:9085/stream.mp3
+#EXTINF:-1,Radio Gold Live
+https://s1.slotex.pl/shoutcast/7062/stream?sid=1
+#EXTINF:-1,Lombardia Radio TV
+http://onair22.streaming.xdevel.com:8104/stream/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-alterno-mx-logo.jpg",Radio Alterno Mx
+http://78.129.232.226:8125/index.html;stream.nsv
+#EXTINF:-1,Radio FOX FM
+http://ic3ti.scahw.com.au/3fox_128
+#EXTINF:-1,Outland FM
+https://stream.laut.fm/outland-fm
+#EXTINF:-1,Jomaleiro Media
+https://stream.zeno.fm/x1z7xx0f0eruv
+#EXTINF:-1,Ice Radio
+https://stream.iceradio.nl/iceradio
+#EXTINF:-1,Radio SLM radio
+http://stream.radioslm.fr:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12548883.jpg",I-95
+https://das-edge15-live365-dal02.cdnstream.com/a19723
+#EXTINF:-1,91 SHRK
+https://streaming.live365.com/a78959
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/8938.png",Rockittt Radio
+https://fmradiohub.in/radio?url=http://listen.radionomy.com/rockitttradio
+#EXTINF:-1,Maldita Radio
+http://cloudstream2030.conectarhosting.com:8002/stream/
+#EXTINF:-1,Dravens Radio from the Crypt
+https://dravenstales.stream.laut.fm/dravenstales
+#EXTINF:-1,Highwire Daze Radio
+http://edge1-b.exa.live365.net/a00224
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26607/logo_Xps4fmKdrY.png",ROCK FM METAL Radio
+https://stream.regenbogen2.de/metal/mp3-128/radiospinner
+#EXTINF:-1,Kian Radio Station
+http://listen.shoutcast.com/kianradiostation
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100105/logo_YVVY5s1Ohd.jpg?v=20260529-media-restore",KLT Metal Radio
+https://icecast.gwes-eas.network/ERN-KLT
+#EXTINF:-1,Moksh Revolution Radio
+http://streaming.softnep.net:8073/
+#EXTINF:-1,metal thunder
+http://metal-thunder.stream.laut.fm/metal-thunder
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005441/logo_GsUCtPWUk1.jpg?v=20260529-media-restore",Rádio Clássica Brasil Itapema
+https://streaming.livebroadcast.biz/radio/8010/classica
+#EXTINF:-1,America's Pure Rock - PureRock.US
+http://148.251.92.113:8524/stream/
+#EXTINF:-1,kkinzona2
+http://listen.shoutcast.com/kkinzona2
+#EXTINF:-1,The Mountain 2.0 radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KMGN_2_0_SC?dist=onlineradiobox
+#EXTINF:-1,Radio Open FM - 500 Heavy Hits
+https://stream.open.fm/54
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27722/logo_cBu1bw1wOE.jpg?v=20260529-media-restore",Moshhead
+https://moshhead.stream.laut.fm/moshhead
+#EXTINF:-1,TBFM Radio
+http://andromeda.shoutca.st:9254/stream?type=.mp3/stream.mp3
+#EXTINF:-1,TheBlast.FM
+https://blast-stream.theblast.fm/28
+#EXTINF:-1,Pirate Radio
+https://frontend.streamonkey.net/fhn-pirateradio?aggregator=radiode
+#EXTINF:-1,radio-jesus-home
+http://stream.laut.fm/radio-jesus-home
+#EXTINF:-1,KONG MonsterRock.net
+http://s5.total-streaming.com:9786/
+#EXTINF:-1,Relny Ivot Radio
+http://www.realny-zivot.cz/listen.ogg
+#EXTINF:-1,Metallica Megadeth Radio Mix With 80s 90s Classic Metal
+http://cast4.serverhostingcenter.com/start/hargross
+#EXTINF:-1,92.9 The X
+https://ice9.securenetsystems.net/WECL
+#EXTINF:-1,RADIO BOB! BOBs Wacken Nonstop (192kbit)
+http://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/
+#EXTINF:-1,Hard Rock 80
+https://listen.radioking.com/radio/372934/stream/423841
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49746/logo_nWLj1MaFWT.jpg?v=20260529-media-restore",AW radio Edimburgo
+https://tinyurl.com/AWEdimburgo
+#EXTINF:-1,Vinyl Dynasty
+https://das-edge17-live365-dal02.cdnstream.com/a98257
+#EXTINF:-1,Radio Paranoid
+https://radio-paranoid.net/onair/listen.pls
+#EXTINF:-1,Nacka Rockers Kommunal Radio
+http://81.228.196.20:80/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100272/logo_XxKa2Z1dBE.jpg?v=20260529-media-restore",Metal Underground
+https://das-edge12-live365-dal02.cdnstream.com/a93362
+#EXTINF:-1,FM99 WNOR - WNOR
+http://54.152.69.189/saga-wnorfmaac-ibc1?session-id=6bc36e2c840614ba843f357bbfa2c1e9
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1287.png",WCSB
+https://fmradiohub.in/radio?url=http://40.71.172.49:8367/stream
+#EXTINF:-1,Songs for the Deaf Radio
+http://178.32.239.25:8129/stream
+#EXTINF:-1,Radio Bizzzzz
+http://91.121.162.224:9012/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27496/logo_7zlyvaSx3X.png",Metal Generation Radio
+https://metalgeneration.stream.laut.fm/metalgeneration
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95747/logo_72cwRnWGOV.jpg?v=20260529-media-restore",Metal Devastation Radio
+https://c13.radioboss.fm:18099/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/51915553.jpg",Underground Rock Radio
+https://fmradiohub.in/radio?url=http://162.213.197.50:8042/128k
+#EXTINF:-1,Brunswiek FM
+https://stream.laut.fm/brunswiekfm?ref=radiode
+#EXTINF:-1,Jags Rock Music Radio
+https://stream-021.zeno.fm/q3mskdkgg6quv?zs=LSz9j7ZqTQKgto1wK71PSg
+#EXTINF:-1,Metal 1
+http://radiometalon.com:2199/stream1
+#EXTINF:-1,MvsFm
+http://listen.shoutcast.com/mvsfm
+#EXTINF:-1,Radio Worldtour
+http://streamplus50.leonex.de:10364/stream/1/
+#EXTINF:-1,SLE
+https://stream.laut.fm/sleaze-rock-radio
+#EXTINF:-1,Eibiza Rock
+https://live.radio-eibiza.com:1735/stream
+#EXTINF:-1,Rusty Leather Radio
+http://198.100.146.224:20066/stream/stream/1
+#EXTINF:-1,Black Neon Radio
+https://stream.laut.fm/blackneonradio
+#EXTINF:-1,KSU OWL
+https://listen1.mixlr.com/d5db03bf2aa8f528f4e2f784bf905214
+#EXTINF:-1,Metalfire Fm
+http://3.stream.laut.fm/metalfire-fm?pl=m3u&ampt302=2017-10-07_22-59-52&ampuuid=f7fe292b-1498-457f-a297-229cd6e2d131
+#EXTINF:-1,llexii
+http://llexii.stream.laut.fm/llexii
+#EXTINF:-1,Thrashking
+https://thrashking.stream.laut.fm/thrashking
+#EXTINF:-1 tv-logo="",Sysnane Radio
+http://23.29.72.146:9000/;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76967/logo_gkTQMRr13Y.jpg?v=20260529-media-restore",Fananpy Radio
+https://stream.zeno.fm/8p9ypyq537zuv
+#EXTINF:-1,ITU Radio Rock
+http://160.75.86.29:8088/stream/1/
+#EXTINF:-1,D 93 WDNS
+https://streamdb5web.securenetsystems.net/cirrusencore/WDNS
+#EXTINF:-1,Xrpradio
+https://eu10.fastcast4u.com:2250/stream
+#EXTINF:-1,rockchris
+http://stream.laut.fm/rockchris
+#EXTINF:-1,Idrim
+http://listen.shoutcast.com/idrim
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-no-control-radio-logo.jpg",NO CONTROL Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJHD2AAC.aac?dist=onlineradiobox
+#EXTINF:-1,Demians Abyss
+https://demiansabyss.stream.laut.fm/demians_abyss
+#EXTINF:-1,WONE FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WONEFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-be-in-radio-network-to-danger-666-logo.jpg",Be iN Radio Network - To Danger 666
+https://stream.zeno.fm/43dkke8wetzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28029/logo_3xqKAw3ix6.jpg?v=20260529-media-restore",Rheinhessen Rocks
+https://stream.laut.fm/rheinhessenrocks
+#EXTINF:-1,YoumoRock
+http://youmorock.ru:8000/play
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47575/logo_KF45fcZpgM.jpg?v=20260529-media-restore",Radio SLM
+https://stream.radioslm.fr:8443/;stream.mp3
+#EXTINF:-1,Namun Tu 90.3
+https://freeuk28.listen2myradio.com/live.mp3?typeportmount=s1_39570_stream_344434070stream.nsv
+#EXTINF:-1,Brews Radio
+http://usa14.fastcast4u.com:5088/stream
+#EXTINF:-1,Waste Water Music radio
+http://i2.streams.ovh:7058/stream/
+#EXTINF:-1,Rock Along
+http://listen.shoutcast.com/rockalong
+#EXTINF:-1,Delta Radio - Hard Rock / Heavy Metal
+https://stream.pcradio.ru/deltaradio_hard-med
+#EXTINF:-1,RPR1. – Heavy Metal
+http://streams.rpr1.de/rpr-metal-128-mp3?usid=0-0-H-M-D-25
+#EXTINF:-1,Big 90’s
+https://node-26.zeno.fm/qmqe8k5e74zuv
+#EXTINF:-1,ROUGH Radio
+https://roughradio1.out.airtime.pro/roughradio1_a
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29934/logo_J94WqaUMop.jpg?v=20260529-media-restore",N.A.R. - Metal
+https://stream.laut.fm/nar-metal
+#EXTINF:-1,Stahlradio - 128 - Austria - hard rock - heavy metal - neue deutsche härte
+https://stream.starfm.de/newmetal/mp3-192/iradio
+#EXTINF:-1,ROCK YOU RADIO
+https://puma.streemlion.com:4165/stream
+#EXTINF:-1,Radio Caprice - Epic Metal - 320 - The Russian Federation - epic metal - hard rock - heavy metal - metal - radio caprice - rock
+http://79.111.119.111:8000/epicmetal.m3u
+#EXTINF:-1,rmgradio
+http://rmgradio.stream.laut.fm/rmgradio
+#EXTINF:-1,Www Radio Wellenbereich De Mainstream
+http://wellenbereich.de:12300/stream/1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97970/logo_EwMvSGby7L.jpg?v=20260529-media-restore",ATL Radio X
+https://streaming.live365.com/a15683
+#EXTINF:-1,hardfm
+https://stream.laut.fm/hard-fm?ref=radiode
+#EXTINF:-1,Radio Metal On – The Heavy
+http://radiometalon.com:8000/heavy128mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-fm-ser-metal-995-mhz-logo.jpg",Radio Fm Ser Metal 99.5 Mhz
+http://uk1freenew.listen2myradio.com:23414/;stream.nsv
+#EXTINF:-1,Dash Radio - Grave Rave
+https://ice55.securenetsystems.net/DASH20
+#EXTINF:-1,Radio Plano B
+https://servidor29-2.brlogic.com:7338/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27479/logo_Q95Mx5Qybl.jpg?v=20260529-media-restore",METAL-UP-YOUR-ASS
+https://metal-up-your-ass.stream.laut.fm/metal-up-your-ass
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/63410/logo_JHoMIMW22x.jpg?v=20260529-media-restore",EHB Rock - A Rádio Rock RJ
+https://8249.brasilstream.com.br/stream
+#EXTINF:-1,Romanna Heavy Guitar!
+http://listen.shoutcast.com/romannaheavyguitar-
+#EXTINF:-1,BOLLOCKS Rock && Metal Radio
+https://s44.myradiostream.com/6588/?type=http\u0026nocache=1571393528?0.9592127816686777
+#EXTINF:-1,Aeradio1
+http://199.115.115.71:8389/stream
+#EXTINF:-1,Radio No9
+http://www.radio-no9.de:4000/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-marquis-de-sade-588070-logo.jpg",Radio Marquis de Sade
+http://www.radio-marquisdesade.de/;
+#EXTINF:-1,Pulse Rock
+http://sl2.streamhood.com:8150/
+#EXTINF:-1,101.ru - European Metal Music
+https://pub0302.101.ru:8443/stream/personal/aacp/64/906578
+#EXTINF:-1,1000 Hits Best Of Rock
+https://1000hitsbestofrock.stream.laut.fm/1000hits_best_of_rock?t302=2023-09-19_12-23-07&uuid=0d650336-7cbe-42b6-ad0d-b1efc3993b00
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28194/logo_unPdjXl6TD.jpg?v=20260529-media-restore",Star FM - 80er Rock
+https://stream.starfm.de/80srock/mp3-128/webseite
+#EXTINF:-1,Total Domination Radio
+http://thassos.cdnstream.com:5120/stream
+#EXTINF:-1,Royal Drum
+http://193.33.170.218:8000/RoyalDrum
+#EXTINF:-1,United Global Media One
+http://37.187.79.93:8114/stream
+#EXTINF:-1,ikm radio
+http://ikm-radio.stream.laut.fm/ikm-radio
+#EXTINF:-1,CiberadioColombia
+http://195.154.51.206:8712/stream/
+#EXTINF:-1,GodzillaFan1990
+https://godzillafan1990.stream.laut.fm/godzillafan1990
+#EXTINF:-1,夜愿电台Nightwish Radio
+https://stream.zeno.fm/98wt67yfky8uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44159/logo_WdoI3dtPUh.jpg?v=20260529-media-restore",Rock Space Radio
+https://dagstreaming.com:8030/radio.aac
+#EXTINF:-1,100.9 Eagle
+https://live.wostreaming.net/direct/alphabluefield-wkoyfmaac-ibc2?source=keepone.net
+#EXTINF:-1,nefarius
+http://nefarius.stream.laut.fm/nefarius
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PNU2W8.png",MAXXX RADIO
+http://46.105.180.202:8045/live
+#EXTINF:-1,Heavymetalgr
+http://108.178.13.122:8014/stream/1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/51080227.png",Radio Caprice - Thrash Metal/Crossover Thrash
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/thrashmetal
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/106420955.jpg",Radio Caprice - Melodic Black Metal
+https://fmradiohub.in/radio?url=http://79.111.119.111:8000/melodicblackmetal
+#EXTINF:-1,Radio Student
+http://161.53.122.184:8000/AAC128.aac
+#EXTINF:-1,FUZZ Radijas
+http://185.5.55.179:8080/stream.mp3?1570880494069
+#EXTINF:-1,beatdownx
+http://stream.laut.fm/beatdownx
+#EXTINF:-1,Lick It
+https://lickit.stream.laut.fm/lickit
+#EXTINF:-1,Danger Zone BL
+http://stream.dangerzonebl.com:8000/stream
+#EXTINF:-1,The Q
+https://stream.jpbgdigital.com/CKKQ/HEAAC/48k/playlist.m3u8
+#EXTINF:-1,181.FM 80&amp#39s HairBand
+https://listen.181fm.com/181-hairband_128k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/metalvoice-618850-logo.jpg",Radio Metalvoice
+http://68.66.253.101:8000/stream
+#EXTINF:-1,Rock Antenne Hair Metal
+https://s9-webradio.rockantenne.de/hair-metal/stream
+#EXTINF:-1,Newtown Radio
+https://streaming.radio.co/s0d090ee43/listen
+#EXTINF:-1,Classic 21 Metal - 0 - Belgium - metal
+http://radio.rtbf.be/c21-metal/aac-128/fl
+#EXTINF:-1,WTPT 93.3 Planet Rocks
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTPTFM_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27811/logo_Wgj28Dicob.jpg?v=20260529-media-restore",otticFM
+https://stream.laut.fm/otticfm
+#EXTINF:-1,xxxRock.fm
+http://sc15.shoutcaststreaming.us:8140/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/93806/logo_sLtqHVbUel.jpg?v=20260529-media-restore",Megarock Radio
+https://stream6.megarockradio.net:80/
+#EXTINF:-1,VinylesTimes
+https://listen.radioking.com/radio/7551/stream/17069?
+#EXTINF:-1,Localized Internet Radio
+http://38.107.243.218:8333
+#EXTINF:-1,More FM – XEWV
+http://radio.cadenanoticias.com:8008/morefmonline
+#EXTINF:-1,Pandora VM
+http://listen.shoutcast.com/pandoravm
+#EXTINF:-1,1921 Bali Headbanger Online Rardio
+https://stream.zeno.fm/h5akw5vnsp8uv
+#EXTINF:-1,BN-Radio
+http://stream.bn-radio.de:8000/bn-radio.mp3
+#EXTINF:-1,WCDI - Home of Compound Concentrates and Coffee.
+https://das-edge17-live365-dal02.cdnstream.com/a67895
+#EXTINF:-1,Big Cheese 107.9 - WBCV
+http://22113.live.streamtheworld.com:80/WBCVFM_SC
+#EXTINF:-1,soundpool
+http://soundpool.stream.laut.fm/soundpool
+#EXTINF:-1,98.1 The Bridge – CKBD
+http://listenlive.vistaradio.ca/CKBD
+#EXTINF:-1,Radio Classic Rock Legends Radio
+http://24-7nicheradio.com:8180/
+#EXTINF:-1,Rock 89 Radio
+http://89.39.189.40:8000/stream
+#EXTINF:-1,Radio Extreme
+http://listen.radioextreme.ru/stream1
+#EXTINF:-1,Radio Ripley radio
+http://radioripley.fr:8000/live
+#EXTINF:-1,RFZ Bretagne
+https://www.radioking.com/play/radiofrequencezic
+#EXTINF:-1,Tattoo metal - 320 - The United States Of America - heavy metal
+https://usa14.fastcast4u.com/proxy/tattoometal?mp=/1
+#EXTINF:-1,ROCK ANTENNE Modern Metal
+https://stream.rockantenne.de/modern-metal/stream/mp3
+#EXTINF:-1,zaycev.fm (metal mp3 stream 256kb)
+https://stream.rcast.net/237824
+#EXTINF:-1,bunker radio
+http://bunker-radio.stream.laut.fm/bunker-radio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132961.v1.png",Infernale 
+https://stream.laut.fm/infernale
+#EXTINF:-1,KZSU Stanford – KZSU
+http://kzsu-streams.stanford.edu:80/kzsu-3-128.mp3
+#EXTINF:-1,Q88.9 - CHNI-FM
+http://newcap.leanstream.co/CHNIFM
+#EXTINF:-1,Town Creek
+http://149.56.185.83:8081/
+#EXTINF:-1,Radio Metal radio
+https://myradio24.org/radiometal
+#EXTINF:-1,Savage Radio - The Rock N Roll Animal
+https://das-edge10-live365-dal03.cdnstream.com/a68405
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/236.png",Metal Rock Radio
+https://kathy.torontocast.com:2800/?type=http&nocache=1594732682&us_privacy=1YNY
+#EXTINF:-1,RN1
+https://rn1.stream.laut.fm/rn1
+#EXTINF:-1,Radio Metal ON - The Heavy
+https://radiometalon.com/radio/8000/radio.mp3
+#EXTINF:-1,Fun 101 – KRFN
+http://ice42.securenetsystems.net/KRFN
+#EXTINF:-1,ROCKA
+https://stream.tuenlacecristiano.com:8064/stream
+#EXTINF:-1,Radio Rock Metal
+http://listen.radionomy.com:80/RadioRockMetal
+#EXTINF:-1,Cosmic FuzzFm
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC335.mp3
+#EXTINF:-1,GotRadio – Metal Madness
+http://173.244.215.163:8340/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95804/logo_FtGzDSYbFv.jpg?v=20260529-media-restore",Dark Star Radio
+https://s4.radio.co/s21ae5f2ee/listen
+#EXTINF:-1,Radio2wei
+https://radio35.virtualtronics.com:20012
+#EXTINF:-1,Grand Est
+http://server1.blitz-stream.de:4400
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/90800/logo_X7ynKnCtY5.png",Piratita Radio
+https://sonicpanel.zonaradio.net:7078/stream
+#EXTINF:-1,The Roses Radio
+https://stream.zeno.fm/qzka18vpkoztv
+#EXTINF:-1,Radio Open FM - Classic Metal
+https://onlineradiobox.com/json/pl/liveradio/play?platform=web
+#EXTINF:-1,Y108 – CJXY-FM
+https://live.leanstream.co/CJXYFM
+#EXTINF:-1,Bandit Rock
+http://fm02-ice.stream.khz.se/fm02_mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4913957.png",Radio Caprice - Stoner Metal
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/stonermetal
+#EXTINF:-1,Metal Detector
+https://ice6.somafm.com/metal-128-mp3
+#EXTINF:-1,Faklya Radio
+https://faklyaradio.hu/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95967/logo_5OQhjwizC7.jpg?v=20260529-media-restore",I-95
+https://playerservices.streamtheworld.com/api/livestream-redirect/WIXVFM.mp3
+#EXTINF:-1,Assiniboia's Rock Station, The Buzz
+http://14833.live.streamtheworld.com/SAM04AAC135_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005681/logo_HwLn3BKZ8b.jpg?v=20260529-media-restore",Мрачное радио
+https://stream.gloomy-radio.ru:1045/stream
+#EXTINF:-1,Midnight Madness Metal E Radio
+http://midnight-madness.is-a-rockstar.com:8000/live
+#EXTINF:-1,Demontre Radio
+http://demontreradio.no-ip.org:8000/
+#EXTINF:-1,CrazyExy
+http://listen.shoutcast.com/crazyexy
+#EXTINF:-1,DjKew
+http://listen.shoutcast.com/djkew
+#EXTINF:-1,strohs rock station
+http://strohs-rock-station.stream.laut.fm/strohs-rock-station
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40831/logo_hOLJNkC4Lr.jpg?v=20260529-media-restore",JR Radio
+https://stream.zeno.fm/pdkt234k698uv
+#EXTINF:-1,The Metal Plague
+http://142.4.217.133:8386/stream/1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35805.png",AGF-RADIO
+https://server4.streamserver24.com:43527/stream#
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/52002674.png",Radio Caprice - Avant-Garde Metal
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/avantgardemetal
+#EXTINF:-1,metal numba1
+http://listen.shoutcast.com/metalnumba1
+#EXTINF:-1,sbc radio
+http://sbc-radio.stream.laut.fm/sbc-radio
+#EXTINF:-1,99.9 Waiting for the Comet
+https://das-edge09-live365-dal03.cdnstream.com/a42801
+#EXTINF:-1,Radio Caprice - Gothic Metal
+http://79.120.77.11:8002/gothicmetal
+#EXTINF:-1,Radio wild rock
+http://64.150.176.87:8287/stream.nsv
+#EXTINF:-1,HardRockin80s.com - 128k 3G/4G - 235,000 tracks of the best 80s rock and metal
+https://stream.rcast.net/3943
+#EXTINF:-1,abyss
+http://abyss.stream.laut.fm/abyss
+#EXTINF:-1,93 QFM
+https://das-edge17-live365-dal02.cdnstream.com/a88405
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/101395/logo_hEx9Tw8atL.png",The Wire Radio
+http://69.162.75.218:8300/stream
+#EXTINF:-1,Rock Addict Radio
+https://streaming.live365.com/a96089
+#EXTINF:-1,Nagas Radio
+http://www.jetaudio.com/jetcast_directory/StreamFile/stream/1908527.pls
+#EXTINF:-1,Rockin 101 - WHMH
+https://ice5.securenetsystems.net/WHMH
+#EXTINF:-1,This Is Pico
+http://www.thisispico.com:82/
+#EXTINF:-1,Metallica Jams
+https://stream.rcast.net/256121
+#EXTINF:-1,CyberFM Rock
+https://uk1-play.adtonos.com/8104/radio-rock-1
+#EXTINF:-1,RMF ON – RMF Rock
+http://195.150.20.242:8000/rmf_rock
+#EXTINF:-1,Blown - 192 - Canada - 60's - 70's - classic rock - hard rock - heavy metal
+http://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38140.png",Radio Jesus Home
+https://fmradiohub.in/radio?url=http://radio-jesus-home.stream.laut.fm/radio-jesus-home
+#EXTINF:-1,Les Sourgeles
+http://listen.shoutcast.com/lessourgeles
+#EXTINF:-1,ON Deutsch Rock
+https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3
+#EXTINF:-1,Los Anarchy Radio
+https://ais-sa2.cdnstream1.com/1940_128.mp3
+#EXTINF:-1,Perfectprog Com Radio The Best Progressive Metal Station
+http://208.53.158.131:8000/stream/1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005259/logo_YccRcZrIQz.jpg?v=20260529-media-restore",Rebel Radio Brod
+https://ice2.abradio.cz/bestofrock128.aac
+#EXTINF:-1,Metal Music.FM radio
+http://50.7.76.254:9740/
+#EXTINF:-1,AFGT Radio
+http://streaming.radionomy.com/afgt-radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29733/logo_MFepNu01t4.png",NetzPerlenTaucher Radio
+https://netzperlentaucher.stream.laut.fm/netzperlentaucher
+#EXTINF:-1,Flyflew Radio
+https://flyflew.stream.laut.fm/flyflew?t302=2019-03-21_13-09-52&ampuuid=7a88b676-0d0f-4f66-a137-bc481a3dbb51
+#EXTINF:-1,RMF ON – RMF Alternatywa
+http://195.150.20.242:8000/rmf_alternatywa
+#EXTINF:-1,PIN FM radio
+https://streaming.live365.com/a43709
+#EXTINF:-1,The Goat radio
+https://stream.zeno.fm/wy1pbnedd3quv
+#EXTINF:-1,MetalMusicRadio
+https://stream.pcradio.ru/metalmusicradio_com-med
+#EXTINF:-1,93.7 KCLB
+https://live.wostreaming.net/direct/alphacorporate-kclbfmaac-imc4?source=onlineradiobox
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26724/logo_KEoGqsHvUb.png",Metal-Oldies-Rock Radio
+https://metal-oldies-rock.stream.laut.fm/metal-oldies-rock
+#EXTINF:-1,Rock 106.1 FM radio
+http://199.180.75.2:9383/1?cb=989933.mp3
+#EXTINF:-1,mma-radio
+http://stream.laut.fm/mma-radio
+#EXTINF:-1,The Best Of Hair Radio
+http://184.154.90.186:8370/
+#EXTINF:-1,Rock on Bavaria
+https://stream.laut.fm/rock-on-bavaria?ref=radiode
+#EXTINF:-1,Espar Radio
+https://onlineradiobox.com/json/mx/espar/play?platform=web
+#EXTINF:-1,Metal Generation
+https://metalgeneration.stream.laut.fm/metalgeneration?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/93153/logo_a3nGgdqMKw.jpg?v=20260529-media-restore",Radio Hofstra University
+http://streamwrhu.net:8500/wrhu.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43927/logo_sNkxxYcVdM.jpg?v=20260529-media-restore",Rock ZIH
+https://stream.zeno.fm/5mze4yes2zhvv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36139/logo_U5RcPefOKg.jpg?v=20260529-media-restore",Stahlradio
+https://stahlradio.spcast.eu/stream
+#EXTINF:-1,Radio Caprice – Melodic Death Metal
+http://79.120.77.11:8002/melodicdeath/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/74509/logo_9DGgSWRvuJ.png",RadioGaGa
+https://radio30.virtualtronics.com/proxy/radiogaga?mp=%2Fstream
+#EXTINF:-1,MWRadio La Consentida
+http://stream.zeno.fm/edcg3fqahv8uv
+#EXTINF:-1,Hardware
+https://faklyaradio.hu:1443/faklya
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-mother-fm-logo.jpg",Radio Mother Fm
+https://s4.radio.co/s4b7349203/listen
+#EXTINF:-1,I Love Hard Rock
+http://listen.radionomy.com/ilovehardrock
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102285/logo_KUvCtLVa9R.png",Rock Rage Radio
+https://usa12.fastcast4u.com/proxy/rockrage?mp=%2F1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",| COBrOx.RADiO.fm
+http://65.108.120.179:8672/cobroxradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/95254413.jpg",Radio Caprice - Sludge Metal
+https://fmradiohub.in/radio?url=http://79.120.77.11:8000/sludgemetal
+#EXTINF:-1,Radio Bronka
+http://stream.nonfqdn.net:8000/rbronka.ogg
+#EXTINF:-1,Overkill Radio
+https://streaming.live365.com/a51608
+#EXTINF:-1,World of Metal
+http://188.165.237.19:8270/stream
+#EXTINF:-1,hardcore
+http://hardcore.stream.laut.fm/hardcore
+#EXTINF:-1,Islandx Radio
+http://stream.radio.co/s926df79b1/listen
+#EXTINF:-1,Radio TP
+http://radiotp.pl:8058/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31745/logo_tiFy3w3jtp.jpg?v=20260529-media-restore",Gothwriter's Home
+https://stream.laut.fm/gothwritershome
+#EXTINF:-1,Rocknytt - Demo
+http://listen.shoutcast.com/rocknytt-demo
+#EXTINF:-1,Music-For-Life
+https://stream.laut.fm/music-for-life?ref=radiode
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/somos-radiales-633365-logo.jpg",Radio Somos Radiales
+http://162.210.196.140:27146/;
+#EXTINF:-1,RadioAptStation Rock
+https://stream.zeno.fm/tb58bb11kvyuv/
+#EXTINF:-1,Hardcore Radio
+http://shoutcast3.hardcoreradio.nl/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wkra-the-rock-606864-logo.jpg",Radio WKRA The Rock
+http://usa6.fastcast4u.com/proxy/wkratherockradio?mp=/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XB1TNX.png",Fuel Radio
+https://radio.streemlion.com:3745/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-metallerium-radio-logo.jpg",Metallerium radio
+https://nd02.ehostingperu.net:8014/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60317/logo_48wLEyMGfv.png",89 FM A Rádio Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30206/logo_LkfKuLbMNk.png",Japanradio
+https://stream.japanradio.de/live
+#EXTINF:-1,llego para quedarse
+http://listen.shoutcast.com/llegoparaquedarse
+#EXTINF:-1,Electric Circus
+https://stream.zeno.fm/9xf0b79wpg8uv
+#EXTINF:-1,Mittelalter-net
+https://stream.laut.fm/mittelalter-net
+#EXTINF:-1,Deep Music Live
+https://stream-149.zeno.fm/aan9620xd5zuv?zs=bfD84T2TTlySLR6NX95b0A
+#EXTINF:-1,Mehr Davon Radio 
+https://server7.streamserver24.com:61444/stream.mp3
+#EXTINF:-1,KHEL-LP The Flame 97.3 FM
+http://99.11.71.141:8030/MP3
+#EXTINF:-1,Top Rock News radio
+https://sp.wnetserver.com/9940/stream
+#EXTINF:-1,letsrock
+http://letsrock.stream.laut.fm/letsrock
+#EXTINF:-1,DV Radio
+https://edge2-a.exa.live365.net/a92139
+#EXTINF:-1,96.1 BBB
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBBBFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Big Foot 99 - KTGA 99.3 FM radio
+http://streamdb3web.securenetsystems.net/v5/KTGA
+#EXTINF:-1,Funky Corner Radio
+https://ais-sa2.cdnstream1.com/2447_192.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13693.png",Twilight Radio (Сумеречное Радио)
+https://fmradiohub.in/radio?url=http://live.hostingbudget.nl:4270/stream
+#EXTINF:-1,Vibration PopRock
+https://vibrationpoprock.ice.infomaniak.ch/vibrationpoprock-high.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90593/logo_pr7y5qfpwi.jpg?v=20260529-media-restore",Laboratorio 75FM
+https://stream.zeno.fm/0sev4nu3a0quv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36289.png",Nachtfalter
+https://fmradiohub.in/radio?url=http://nachtfalter.stream.laut.fm/nachtfalter
+#EXTINF:-1,Radio Dornbirn radio
+http://stream.radio-dornbirn.at:8150/
+#EXTINF:-1,94.1 WJJO
+https://playerservices.streamtheworld.com/api/livestream-redirect/WJJOFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102937/logo_5gGJI8abo2.png",MEGA Alter Radio
+https://stream-175.zeno.fm/dadeakvvqg8uv
+#EXTINF:-1,choiceofnoise
+https://stream.laut.fm/choiceofnoise?ref=radiode
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-grande-fm-624565-logo.jpg",Radio La Grande FM
+http://stream.zeno.fm/kvak1hx8m0quv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004793/logo_700tP0J2sF.jpg?v=20260529-media-restore",Rock Metal Ballads Radio Caprice
+http://79.120.77.11:8000/rockballads
+#EXTINF:-1,Click Your Radio Metal &amp; Punk
+https://kathy.torontocast.com:4245/stream
+#EXTINF:-1,ROCKRADIO.com - Death Metal
+http://www.rockradio.com/deathmetal
+#EXTINF:-1,Manitu Rock Radio
+https://s4.radioforge.com:5170/stream/1/
+#EXTINF:-1,Alternative Flow
+https://puma.streemlion.com:1095/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-jrock-metal-zone-logo.jpg",Radio Jrock Metal Zone
+https://us3new.listen2myradio.com:2199/listen.php?port=8080u0026type=s2u0026mount=/streamhttps://us3new.listen2myradio.com:2199/listen.php?port=8080u0026type=s2u0026mount=/stream
+#EXTINF:-1,PanchiPolarFM
+http://listen.shoutcast.com/panchipolarfm
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/99645/logo_IepghTLbHa.jpg?v=20260529-media-restore",Krave Rock
+https://streaming.live365.com/a11063
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/65623/logo_xLvxjIm1wO.jpg?v=20260529-media-restore",Eternal Metal
+https://stm16.voxhd.com.br:8618/stream
+#EXTINF:-1,Kansas City Local Artists Radio Show
+http://s13.myradiostream.com:10590/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-rockradiocom-industrial-logo.jpg",ROCKRADIO.com - Industrial
+http://www.rockradio.com/industrial
+#EXTINF:-1,NoRecords
+http://icecast.norecords.org:8000/nrc-320.mp3
+#EXTINF:-1,Radio Black
+https://stream.laut.fm/radioblack_rock
+#EXTINF:-1,Dude Rocks
+http://87.98.216.129:4198/
+#EXTINF:-1,Mad Dog Radio Livecom
+http://s14.myradiostream.com:5748/stream/1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92321/logo_MmpROHwEk6.jpg?v=20260529-media-restore",RocknRollica
+https://streaming.live365.com/a79743
+#EXTINF:-1,SOL Y RABIA Radio
+https://turadio.accesopanel.com:7253/stream.nsv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/109443023.jpg",Rock 95
+https://live.wostreaming.net/direct/alphacorporate-kmkofmaac-imc4
+#EXTINF:-1,K-Rock 103.9 – CKXX-FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/CKXXFM.flv
+#EXTINF:-1,Reign Radio
+http://sc1.reignradio.net:7030/?cb=917365.mp3
+#EXTINF:-1,The Generator
+http://176.31.98.109:14268/
+#EXTINF:-1,metal-and-wine
+http://stream.laut.fm/metal-and-wine
+#EXTINF:-1,Metala Manie
+http://ice.abradio.cz/metalomanie128.mp3
+#EXTINF:-1,mokvi
+http://stream1.laut.fm/mokvi
+#EXTINF:-1,102.1 The Quake – KPQ-FM
+http://35.227.177.94/cherrycreek-kpqfmmp3-imc4?session-id=4826074334a9e1f4f6581b67fa93f9d0
+#EXTINF:-1,Radio Barbarossa
+http://www.radio-barbarossa.com/stream/stream.m3u
+#EXTINF:-1,Wshq Ace Radio 95 7 Fm
+http://74.124.12.157:7736/stream/1
+#EXTINF:-1,Zwischen-Welten Radio 
+https://radio.zwischen-welten.info/midd.mp3?type=http
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/78G1WN.png",Kultra FM
+http://streamplus20.leonex.de:16010/
+#EXTINF:-1,Hitpower Radio
+http://systemweb-server3.de:16000/
+#EXTINF:-1,GYM Radio - Hardcore Ch.2
+http://5.35.247.7/HC1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44760/logo_abK2eUDjVn.png",All Rock Radio
+http://s6.reliastream.com:8296/
+#EXTINF:-1,Rock FM - Heavy
+https://jfm1.hostingradio.ru:14536/metal.mp3
+#EXTINF:-1,V-CUBE.EU
+http://listen.shoutcast.com/v-cubeeu
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/metal-hard-166165-logo.jpg",Radio Metal Hard
+http://i2.streams.ovh:7102/;
+#EXTINF:-1,Northern Metal Radio - Metal from the north
+https://stream.rcast.net/6626
+#EXTINF:-1,Big 90&#039;s
+https://stream-156.zeno.fm/qmqe8k5e74zuv?zs=LSTM8pAkQrGYAACzR172cA
+#EXTINF:-1,Pocono Mountain Radio
+https://www.radioking.com/play/pocono-mountain-radio
+#EXTINF:-1,PIN FM
+https://stream.laut.fm/prettyinnoise
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40423/logo_51odQaVV8k.png",Antenna Web Bologna Radio
+https://tinyurl.com/Radio-AUT-Bologna
+#EXTINF:-1,Sleaze-Rock-Radio
+https://stream.laut.fm/sleaze-rock-radio?ref=radiode
+#EXTINF:-1,100 XR - The Net's #1 Rock Station!
+https://100xr.com/listen/100xr-he-aac.pls
+#EXTINF:-1,rockerportal
+http://stream.laut.fm/rockerportal
+#EXTINF:-1,Radio Caprice Stoner Metal - стоунер-метал
+http://79.120.77.11:9089/
+#EXTINF:-1,FM Schenker
+https://streaming01.shockmedia.com.ar:10343/index.html?sid=1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35880.png",Rock&#39;n Hardcore
+https://fmradiohub.in/radio?url=http://rocknhardcore.stream.laut.fm/rocknhardcore
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36875.png",Covenant 
+https://fmradiohub.in/radio?url=http://covenant.stream.laut.fm/covenant
+#EXTINF:-1,Gbus Official
+https://gbusofficial.stream.laut.fm/gbusofficial
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/93971/logo_hhjMR9CSiC.jpg?v=20260529-media-restore",Metal Messiah Radio
+https://az11.yesstreaming.net:8430/live
+#EXTINF:-1,Gateway to the North Radio
+http://199.115.115.71:8150/
+#EXTINF:-1,Radio Dark Pulse
+https://radiodarkpulse.stream.laut.fm/radiodarkpulse
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27627713.jpg",Radio Caprice - Speed Metal
+https://fmradiohub.in/radio?url=http://79.111.119.111:8000/speedmetal
+#EXTINF:-1,Szpila Radio - Heavy Metal
+https://stream.rcast.net/512
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/101358/logo_Nm2ZEfXbeb.png",9th Circle Radio
+https://streaming.live365.com/a70907
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54477/logo_qnQujkwvTT.png",Alternativa Radiorock
+https://streaming01.shockmedia.com.ar/8188/stream
+#EXTINF:-1,Punkowe Radio Underground
+http://s1.slotex.pl:7604/
+#EXTINF:-1,Netiraadio – Tumedad Lood
+http://www.netiraadio.ee:8000/tumedadlood
+#EXTINF:-1,hammer
+https://stream.laut.fm/hammer?ref=radiode
+#EXTINF:-1,DKS - Web Radio
+http://listen.shoutcast.com/dks-webradio
+#EXTINF:-1,Rockers Dive Radio
+http://http://72.89.45.47:8059/stream/1listen.pls
+#EXTINF:-1,Hard  Radio
+http://2217.cloudrad.io/
+#EXTINF:-1,Radio 098 - Más música!
+https://live.antenne.at/arr
+#EXTINF:-1,Woody Radio
+http://192.99.83.153:8018/
+#EXTINF:-1,Salvation Through Metal
+https://stream.rcast.net/69092
+#EXTINF:-1,Baerlis Hitradio
+http://5.9.71.218:9326/stream.nsv
+#EXTINF:-1,NRWHC
+https://stream.laut.fm/nrwhc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/metal-world-radio-595844-logo.jpg",Metal World Radio
+http://91.121.137.142:8000/;
+#EXTINF:-1,Lica's Metal Festival
+http://c1.inlive.co.kr:3240/listen.pls
+#EXTINF:-1,Roonu
+https://stream.laut.fm/roonu?ref=radiode
+#EXTINF:-1,WRM
+https://www.radioking.com/play/wrm
+#EXTINF:-1,PlexusRadio.com - Beyond Metal
+http://ample-zeno-13.radiojar.com:80/c33263fquvduv?rj-ttl=5&amprj-token=AAABYUvK9JQUxJC6rglQGMUICMMXHn7GPWMZxPOJ-CWKZDZXlaQ6FQ
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SFL35O.png",MetalRock06
+https://www.radioking.com/play/metalrock06
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rocking-radio-612307-logo.jpg",Rocking Radio
+http://stream.radiojar.com/rockingradio
+#EXTINF:-1,Radio 1802
+http://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC44.mp3
+#EXTINF:-1,Slam Radio
+http://www.realslamradio.com:8000/stream/1
+#EXTINF:-1,Rising Metal
+http://euroradio1.forbidenhosting.com/tunein.php/dgarda00/stream/1playlist.pls
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27838/logo_SHop1ghz5V.png",El Dude Radio
+https://elduderadio.stream.laut.fm/elduderadio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88540/logo_0Crm3W9ZoL.jpg?v=20260529-media-restore",Classic Metal Radio
+https://quincy.torontocast.com:2100/stream
+#EXTINF:-1,Radio Centrum 106.4
+http://shot2.inten.pl:8888/rcfm.mp3
+#EXTINF:-1,The Goat
+https://vistaradio.streamb.live/SB00066
+#EXTINF:-1,101.9 KIGN
+http://64.150.176.192:8056/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/02/5178.v8.png",Rock 104.5 - KDOT 
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDOTFMAAC.aac
+#EXTINF:-1,sprengiesworldfm
+https://stream.laut.fm/sprengiesworldfm?ref=radiode
+#EXTINF:-1,RADIO BOB! BOBs Wacken Nonstop
+http://streams.radiobob.de/bob-wacken/aac-64/radiosure/
+#EXTINF:-1,Big Bang Radio
+http://ssl.radiosnethosting.com:9912/stream
+#EXTINF:-1,97 Underground
+http://209.95.50.189:9797/live
+#EXTINF:-1,CJAY92 - CJAY-FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/CJAYFM.mp3
+#EXTINF:-1,Wacken Radio by rautemusik.fm
+https://wackenradio-high.rautemusik.fm/listen.mp3?ref=radiode
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27005/logo_aryIz5XIji.jpg?v=20260529-media-restore",Fastball Music
+https://fastballmusic.stream.laut.fm/fastballmusic
+#EXTINF:-1,R.SA - Maxis Maximal
+https://streams.rsa-sachsen.de/maxis/mp3-128/onlineradiobox/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FMMJR3.png",Awesome Metal Bands
+https://anondani.radioca.st/
+#EXTINF:-1,TyeDyeBlues 
+https://das-edge14-live365-dal02.cdnstream.com/a82860
+#EXTINF:-1,die frau in der musik
+http://die-frau-in-der-musik.stream.laut.fm/die-frau-in-der-musik
+#EXTINF:-1,Metal city radio
+http://i6.streams.ovh:16036/stream
+#EXTINF:-1,BooomB Radio
+https://booomb.stream.laut.fm/booomb
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-uncontrolled-noize-logo.jpg",Radio Uncontrolled Noize
+https://classicairwaves.com:8040/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97932/logo_Erejvy7wLu.png",The Mountain 2.0 Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KMGN_2_0AAC.aac
+#EXTINF:-1,BOB!
+https://bob.hoerradar.de/mp3-radiobob?sABC=5rn14s21%230%23r2q45r05n356rso0p17176p02nopn6n0%23enqvbqr&amsparams=playerid:radiodeskey:1587629857
+#EXTINF:-1,bad wolf
+http://bad-wolf.stream.laut.fm/bad-wolf
+#EXTINF:-1,freetapes
+http://freetapes.stream.laut.fm/freetapes
+#EXTINF:-1,RadCap - Sludge Metal (48) - 48 - The Russian Federation - metal - radio caprice - sludge metal
+http://79.120.77.11:8002/sludgemetal
+#EXTINF:-1,КомпромиС ФМ
+https://myradio24.org/kfm
+#EXTINF:-1,X106.9
+http://68.168.101.146:8423/stream
+#EXTINF:-1,Classic Rock Legends Radio
+https://listen.radionomy.com/classicrocklengendsradio.m3u
+#EXTINF:-1,Radio Bizzz
+http://65.108.120.179:7551/stream
+#EXTINF:-1,Renagade Radio
+https://us3.internet-radio.com/proxy/renagaderadio?mp=/live
+#EXTINF:-1,Sarta Rock Radio
+http://streaming.radionomy.com/SARTAROCKRADIOFM
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34144.png",BCC Rock Radio
+https://radio12.pro-fhi.net/radio/9134/stream.mp3
+#EXTINF:-1,Killjoy Radio Open Grave Records Radio Show
+http://s2.viastreaming.net:7480/stream/1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27276/logo_bkg2YtAO4V.jpg?v=20260529-media-restore",Durchgehoert
+https://stream.laut.fm/durchgehoert
+#EXTINF:-1,Radio Fafafa
+http://listen.shoutcast.com/radiofafafa
+#EXTINF:-1,Big Jim
+https://radio.securenetsystems.net/v5/KJRV
+#EXTINF:-1,KSHE 95 94.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSHEFMAAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/65997/logo_vYfucPutB0.jpg?v=20260529-media-restore",Heavymetalradio
+https://sonic.portalfoxmix.cl/8436/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-halo-of-the-goat-logo.jpg",Radio Halo of the Goat
+https://hello.citrus3.com:8364/stream
+#EXTINF:-1,Radio City - Metal
+http://69.162.124.24:8888/Metal
+#EXTINF:-1,trilllingo
+http://stream.laut.fm/trilllingo
+#EXTINF:-1,Key 101 - KEYF-FM
+https://ice6.securenetsystems.net/KEYF
+#EXTINF:-1,iMusicaRock
+https://stream.zeno.fm/82298va6krruv
+#EXTINF:-1,Radio Silence One
+https://radiosilenceone.stream.laut.fm/radiosilenceone
+#EXTINF:-1,101 RU – Алиса
+https://ic6.101.ru:8000/stream/pro/aac/64/137
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32226/logo_kxkZQhKIWP.jpg?v=20260529-media-restore",80er Rock Radio BOB!
+https://streams.radiobob.de/bob-80srock/mp3-128
+#EXTINF:-1,Music from the 412 Radio
+https://ais-edge104-live365-dal02.cdnstream.com/a61858
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91608/logo_3gJwOHUfhj.png",Emisora de Radio &quot;ATodaMecha&quot;
+https://stream.zeno.fm/gjexooyemj3uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/74380/logo_vezyVfoYSa.jpg?v=20260529-media-restore",Espíritu Rock
+https://centova92.instainternet.com/proxy/santiago/stream
+#EXTINF:-1,Athens Metal Radio
+http://listen.shoutcast.com/athensmetalradio
+#EXTINF:-1,5GTR
+http://203.45.194.8:88/broadwave.mp3
+#EXTINF:-1,Radio Santa María 89.3
+http://192.99.46.171:9682/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/93623/logo_APeeayxunJ.jpg?v=20260529-media-restore",Pure Rock Radio
+http://s1.wohooo.net:8042/;audio.mp3
+#EXTINF:-1,lord und schlumpfi
+http://lord-und-schlumpfi.stream.laut.fm/lord-und-schlumpfi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/91435/logo_gleqXGt6r5.jpg?v=20260529-media-restore",Classics Pop & Rock
+https://c9.radioboss.fm:18035/stream
+#EXTINF:-1,Laut fm Motorbreath
+http://motorbreath.stream.laut.fm/motorbreath?pl=m3u&#038t302=2021-01-19_16-31-32&#038uuid=5fbce65e-809d-4e64-b2e9-c2cfd963ea96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36865/logo_XnXGrHlpAX.jpg?v=20260529-media-restore",Rock FM Online
+http://streams.movemedia.eu:8440/
+#EXTINF:-1,Radio Riel - Steampunk
+http://streams.radioriel.org:8030/stream
+#EXTINF:-1,FM 96 London - CFPL-FM
+https://corus.leanstream.co/CFPLFM
+#EXTINF:-1,stark gemeinsam ehrlich
+http://stark-gemeinsam-ehrlich.stream.laut.fm/stark-gemeinsam-ehrlich
+#EXTINF:-1,Brand X Radio
+https://streaming.live365.com/a30499
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-malditaradionet-logo.jpg",MalditaRadio.Net
+https://cloudstream2030.conectarhosting.com:10798/;
+#EXTINF:-1,Emison Pirata
+http://freeuk18.listen2myradio.com:31800/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/102501347.png",Radio Caprice - Drone/Drone Doom Metal
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/dronemetal.m3u
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32859/logo_KJ7DFaG52a.jpg?v=20260529-media-restore",Handmade-Music
+https://handmade-music.stream.laut.fm/handmade-music
+#EXTINF:-1,Radio Drachenblut
+http://radio-drachenblut.ch:8000/listen.mp3
+#EXTINF:-1,Som de Peso Radio
+http://s04.maxcast.com.br:8184/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92365/logo_LaYeRM6s7b.jpg?v=20260529-media-restore",WXJK - The X
+http://wxjk1013.primcast.com:4624/;stream.mp3
+#EXTINF:-1,fROQ
+https://stream.laut.fm/froq
+#EXTINF:-1,Amalgam
+https://stream.rcast.net/244779
+#EXTINF:-1,89.1 KMHD2
+https://prod-3-83-203-156.amperwave.net/mhcc-kmhchd2aac-ibc1?session-id=6c6cfb37cc620eaf71a9ef6653e4f96d
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-radio-groove-unsigned-logo.jpg",Radio Groove Unsigned
+https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s1_29247_stream_691958000;stream.nsv;stream.nsv
+#EXTINF:-1,Dragons Cave Online
+http://www.csradio.se/listen_mp3.pls
+#EXTINF:-1,cyberspace
+https://stream.laut.fm/cyberspace?ref=radiode
+#EXTINF:-1,RPR1.Heavy Metal
+https://streams.rpr1.de/rpr-metal-128-mp3?usid=0-0-H-M-V-06
+#EXTINF:-1,New England Rock and Metal
+http://listen.radionomy.com:80/NewEnglandRockandMetal
+#EXTINF:-1,Darksoul7 Extreme Metal Radio Live Requests At Www Darksoul7 Com
+http://www.darksoul7.com:8000/stream/1
+#EXTINF:-1,Atlântica FM
+https://ice.fabricahost.com.br/atlanticafmpr
+#EXTINF:-1,Radio Glam FM
+http://streaming2.locucionar.com:8499/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/449.png",100 XR
+https://xr.dockl.com/stream
+#EXTINF:-1,93.7 KCLB 
+https://live.wostreaming.net/direct/alphacorporate-kclbfmaac-imc4
+#EXTINF:-1,Eska ROCK
+https://radio.stream.smcdn.pl/icradio-p/5380-1.aac/playlist.m3u8
+#EXTINF:-1,Radio Hauraki
+http://ais-nzme.streamguys1.com/nz_009_aac
+#EXTINF:-1,OZ Rock radio
+https://stream.zeno.fm/e1xilj5hkibtv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94441/logo_ShIEFvZryt.jpg?v=20260529-media-restore",Wicked Spins Radio
+https://rbx2.hnux.com/http://e10072.cloudrad.io:8026/
+#EXTINF:-1,Newpro radio
+http://freeuk28.listen2myradio.com:30609/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21190023.jpg",Radio Caprice - Folk Metal
+https://fmradiohub.in/radio?url=http://79.120.39.202:8000/folkmetal
+#EXTINF:-1,northernsounds
+http://northernsounds.stream.laut.fm/northernsounds
+#EXTINF:-1,Boehse Fuers Leben
+https://stream.laut.fm/boehse_fuers_leben?ref=radiode
+#EXTINF:-1,Apokalypse
+https://stream.laut.fm/apokalypse?ref=radiode
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88745/logo_gL7a3jzfMe.jpg?v=20260529-media-restore",Assiniboia's Rock Station The Buzz!
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC135_SC
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/48344927.png",Radio Caprice - Female Vocal In Metal
+https://fmradiohub.in/radio?url=http://79.111.14.76:8000/femalemetal
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/heavy-metal-gr-587847-logo.jpg",Radio Heavy Metal Gr
+http://108.163.197.114:8171/stream
+#EXTINF:-1,Alt-Rock Radio CJKP-DB
+https://altrockradio.icu/listen/cjkp_db/desktop.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZADDZ5.png",MetalRock.FM
+https://kathy.torontocast.com:2820/?type=http&nocache=1594751889
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37392.png",Hammer
+https://fmradiohub.in/radio?url=http://hammer.stream.laut.fm/hammer
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/antenne-mv-wave-649608-logo.jpg",Radio Antenne MV Wave
+http://streams.antennemv.de/wave/mp3-192/tunein/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/99448/logo_ZBPgRwdtxq.jpg?v=20260529-media-restore",BeGoodRadio - 80s Metal
+https://ors.cdnstream1.com/5212_128
+#EXTINF:-1,Bulldogs Radio
+http://us4.internet-radio.com:8062/stream
+#EXTINF:-1,Rudixy
+https://stream.laut.fm/rudixy?ref=radiode
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41178/logo_kAOQ99nC2h.png",Diktátor Rocker Rádió
+http://stream.zeno.fm/m22tsf1oehtuv
+#EXTINF:-1,zeitsprung
+http://zeitsprung.stream.laut.fm/zeitsprung
+#EXTINF:-1,Rock Hard Radio
+http://66.85.154.211:8074/stream/1
+#EXTINF:-1,Radio Schwarze Welle
+http://85.25.43.132:7500/
+#EXTINF:-1,Sonata Hellvetica Rock Radio
+http://edge2-a.exa.live365.net/a28387
+#EXTINF:-1,4U Rock 'n' Metal
+https://streamingv2.shoutcast.com/4U-Hard-FM
+#EXTINF:-1,KMOR 93.3 – KMOR
+http://s5.voscast.com:7346/
+#EXTINF:-1,Radio Bates FM - Hard Rock
+https://www.liveradio.es/http://bigrradio.cdnstream1.com/5135_128
+#EXTINF:-1,Rocker Rádió
+http://rockerradio.online/live.mp3.m3u
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006788/logo_TkY3vzlk3a.jpg?v=20260529-media-restore",Кипелов
+https://stream.pcradio.app/kipelov-hi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36820/logo_UQxOLISOLh.jpg?v=20260529-media-restore",Equinoxe, la radio découverte
+http://live.equinoxenamur.be:8000/Equinoxe.mp3
+#EXTINF:-1,Net Tradio
+http://net-webradio.fr:10880/stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-moose-jaws-rock-station-the-buzz-logo.jpg",Radio Moose Jaw's Rock Station The Buzz!
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC135.mp3?dist=onlineradiobox
+#EXTINF:-1,Estación Rocanrol radio
+https://ultradarkradio.stream.laut.fm/ultradarkradio
+#EXTINF:-1,Columbus Loudest Taste Buds!
+http://listen.shoutcast.com/columbusloudesttastebuds-
+#EXTINF:-1,95.3 The Beach
+http://player.listenlive.co/33991
+#EXTINF:-1,Seven Rock Radio
+https://c30.radioboss.fm:18569/stream
+#EXTINF:-1,KWFM Radio
+http://195.154.10.199:8000/stream.nsv
+#EXTINF:-1,ROCKgo
+http://listen.radioking.com/radio/157384/stream/198109
+#EXTINF:-1,METALEARTH
+https://metalearth.stream.laut.fm/metalearth?pl=m3u&t302=2023-05-10_13-23-09&uuid=8648f442-7a2c-4708-b277-e8bf66ecc341
+#EXTINF:-1,Espíritu Rock Radio
+https://sonic01.instainternet.com:7123/stream/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89182/logo_wnOGBklqhi.png",Chronix Grit Radio
+https://usa5.fastcast4u.com/proxy/chronixg?mp=%2F1
+#EXTINF:-1,Radio - Soest
+https://stream.laut.fm/radio-soest?ref=radiode
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30758750.jpg",RPR1. Heavy-Metal Live
+https://fmradiohub.in/radio?url=http://streams.rpr1.de/rpr-metal-128-mp3?usid=0-0-H-M-D-48
+#EXTINF:-1,Sonido Oscuro Radio
+https://stream.zeno.fm/1q7md65ubseuv
+#EXTINF:-1,Soultaker Stream
+http://listen.shoutcast.com/soultakerstream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dead-air-592135-logo.jpg",Radio Dead Air
+http://199.101.51.168:8050/stream
+#EXTINF:-1,Rock Velvet
+http://cast.iplayradio.net:8060/stream
+#EXTINF:-1,Power FM - Rock FM
+http://s39.myradiostream.com:11590/listen/;.mp3

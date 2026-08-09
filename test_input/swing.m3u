@@ -1,288 +1,113 @@
 #EXTM3U
-#EXTINF:-1,Starlight Lounge Radio - Las Vegas 
+#EXTINF:-1,Starlight Lounge Radio - Las Vegas
 https://das-edge11-live365-dal03.cdnstream.com/a51615
 #EXTINF:-1,ONAIR66 CANAL 01
 https://manager8.streamradio.fr:1670/stream
-#EXTINF:-1,Precious Radio Hip-Hop
-https://preciousradio.net/proxy/hiphop/stream
 #EXTINF:-1,RadioArt: Swing
-https://stream.laut.fm/swingtime?ref=radiode
+https://swingtime.stream.laut.fm/swingtime?ref=radiode&t302=2026-08-09_15-50-48&uuid=1985dcc7-7dac-4f9d-9706-703e1863f264
 #EXTINF:-1,Swing FM
 https://swingfm.ice.infomaniak.ch/swingfm-128.mp3
-#EXTINF:-1,MONTERIA TIENE SWING
-http://listen.radionomy.com:80/MONTERIATIENESWING
 #EXTINF:-1,Radio 1920
 https://radio1920.stream.laut.fm/radio1920
 #EXTINF:-1,ruhrtal fm
 http://ruhrtal-fm.stream.laut.fm/ruhrtal-fm
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-anyway-smooth-radio-logo.jpg",Anyway Smooth Radio
-https://greeksonic.alphaserver.gr/8020/stream;stream.nsv
 #EXTINF:-1,Country Road Radio
 http://hyades.shoutca.st:8960/http:/stream/1
-#EXTINF:-1,The 1920s Radio Network (MP3)
-http://tess.fast-serv.com:8570/;
 #EXTINF:-1,skate
 http://skate.stream.laut.fm/skate
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96486/logo_cFEnzpFxYc.jpg?v=20260529-media-restore",KZFX HD-2 Cactus Country Classics
-https://stream.zeno.fm/5htybmytvchvv
-#EXTINF:-1,ApeTime Radio
-https://ice05.fluidstream.net/apetime.mp3
 #EXTINF:-1,WOBO (Batavia)
 https://aphilia.stream.laut.fm/aphilia?t302=2020-04-23_12-18-13&uuid=b334afdb-b647-42c9-8222-7ff281115fef
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45236/logo_j21hwfUltE.jpg?v=20260529-media-restore",Swiss Internet Radio - Jazz & Swing
-http://relay.publicdomainradio.org:80/jazz_swing.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-radio-retro-logo.jpg",Radio Retro
-http://64.150.176.42:8098/;
-#EXTINF:-1,Ratpack
-http://ice55.securenetsystems.net/DASH5
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47400/logo_1ts7z4OQAM.jpg?v=20260529-media-restore",LA TERRASSE - MARTINI
 http://centova.radioservers.biz:9120/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54192/logo_eiPGF8CMrH.png",Radio Jazz Cafè FM-Smooth &amp; Jazzy (Argentina)
-https://stream.zeno.fm/qktzze7sb18uv
-#EXTINF:-1,A Rocking Country with Dancing Beats
-http://listen.shoutcast.com/arockingcountrywithdancingbeats
 #EXTINF:-1,Gdynia
 http://51.255.8.139:8064/stream.nsv
-#EXTINF:-1,JAZZRADIO.com - Gypsy Jazz
-https://www.jazzradio.com/gypsyjazz
-#EXTINF:-1, Big Blue Swing.com-64Kbit: Playing music for  Lindy Hop,  Charleston,  Balboa, 
-http://web.bigblueswing.com:8002/stream/1
-#EXTINF:-1,Zucca Radio 
+#EXTINF:-1,Zucca Radio
 https://stream.zuccaradio.com/stream/1/
 #EXTINF:-1,Hit Skyrock Listen live
-https://skyrock.fm/stream_webradio.php/radiofr_hit-skyrock_64aac.aac
+https://icecast.skyrock.net/s/hit_skyrock_aac_128k?tvr_name=radiofr&tvr_section1=64aac
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29698/logo_rj0F4dpz9i.jpg?v=20260529-media-restore",Jukejoint
-https://stream.laut.fm/jukejoint
-#EXTINF:-1,Crooner Radio
-http://stream.crooner.fr/crooner_hd
-#EXTINF:-1,Chicago Honky Tonk
-https://listen.radionomy.com/chicagohonkytonkradio
-#EXTINF:-1,Centanni Broadcasting Network
-http://www.centannibroadcasting.com
-#EXTINF:-1,Rádio Espadarte
-http://stream.zeno.fm/dt6fbu5vbv8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28297/logo_1bPbuVjbgQ.jpg?v=20260529-media-restore",ON Jazz
-https://0n-jazz.radionetz.de/0n-jazz.mp3
-#EXTINF:-1,The West Coast Swing Radio Twcsradio Com
-http://www.twcsradio.com:8000/stream/1
+https://jukejoint.stream.laut.fm/jukejoint?t302=2026-08-09_15-50-50&uuid=aeaa6b5a-1c13-4062-873d-345891b6e5b7
 #EXTINF:-1,Radio Magiztral
-https://onlineradiobox.com/json/cl/magiztral/play?platform=web
+https://sonicstream-puntual.grupozgh.cl/8200/;
 #EXTINF:-1,swingtime
 http://swingtime.stream.laut.fm/swingtime
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/58735.v8.png",1940s Radio 
-http://uk3.internet-radio.com:8082/live
-#EXTINF:-1,swing fm
-http://broadcast.infomaniak.ch/swingfm-128.mp3
 #EXTINF:-1,Rádio Caruá FM 90,1
 https://servidor34.brlogic.com:8112/live
-#EXTINF:-1,KINK Listen live
-https://21253.live.streamtheworld.com/KINKAAC.aac
 #EXTINF:-1,Josy Music Live Swing
 http://dj91.hostingnuclear.com:8146/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1003436/logo_77oquVRzi3.jpg?v=20260529-media-restore",Royal Radio Jazz Blues Swing
-https://royalradio.space/JazzBlues
-#EXTINF:-1,Orion X
-http://listen.radionomy.com/orionx
 #EXTINF:-1,Rádio Feliz FM - São Paulo Listen live
 https://cloud1.cdnseguro.com:5520/
-#EXTINF:-1,Deep Dance Radio
-https://igor.torontocast.com:1825/stream
-#EXTINF:-1,Big Blue Swing 32k - 32 - The United States Of America - blues - non-commercial - non-profit - swing
-http://radio.bigblueswing.com:8004/;32bit.mp3
-#EXTINF:-1,Frank and Friends
-http://107.182.234.82:8192
-#EXTINF:-1,Radio Precious Uptown
-http://94.23.15.114:8030/stream.nsv
 #EXTINF:-1,Radio Aphilia
-https://stream.laut.fm/aphilia
-#EXTINF:-1,Country2000
-https://cast1.torontocast.com:4355/stream
-#EXTINF:-1,Fundis Radio Top 40 Pop And Progressive
-http://moon.wavestreamer.com:2184/stream/1
+https://aphilia.stream.laut.fm/aphilia?t302=2026-08-09_15-50-52&uuid=852c0fa4-682d-4c75-9d17-137aac7adcca
 #EXTINF:-1,genreswitch
 http://genreswitch.stream.laut.fm/genreswitch
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47326/logo_CMcEjq9ku2.jpg?v=20260529-media-restore",Jazz Radio- Zen Attitude
 https://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3
-#EXTINF:-1,Big Bands, Tríos, y Más
-https://das-edge17-live365-dal02.cdnstream.com/a49414
-#EXTINF:-1,NANCY PRESENTS
-https://das-edge17-live365-dal02.cdnstream.com/a28022
-#EXTINF:-1,Crooner Radio Swing  - 128 - France - swing
-http://croonerradio swing.ice.infomaniak.ch/croonerradio-swing-midfi.mp3
-#EXTINF:-1,West FM Swing Radio
-http://dledgar.dyndns.org:8000/westfm
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50823/logo_cd9zZn5dOM.jpg?v=20260529-media-restore",The UK 1940s Radio Station
-https://solid2.streamupsolutions.com/proxy/rsbudoyu?mp=%2F%3Btype%3Dmp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/48018/logo_Vc1GIb3w3T.jpg?v=20260529-media-restore",Jazz Swing Manouche Radio
-https://stream.radiojar.com/6rxpyrnzsv5tv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97759/logo_drqEJpy2nN.jpg?v=20260529-media-restore",Best Jazz Radio
 https://c5.auracast.net/listen/best_jazz_radio/radio.mp3
 #EXTINF:-1,Radio Caprice - Swing
 http://79.120.39.202:8000/swing
-#EXTINF:-1,NJS Radio - New Jack Swing
-https://onlineradiobox.com/json/bg/newjackswing/play?platform=web
-#EXTINF:-1,djedyblackmusicsom
-http://listen.shoutcast.com/djedyblackmusicsom
-#EXTINF:-1,Rockin Rhythm and Blues Radio
-http://192.111.140.11:8272/stream
-#EXTINF:-1,Das Inselradio - Sommerhits Listen live
-https://stream.inselradio.com/high.sommerhits.mp3
-#EXTINF:-1,Radio Swing Set
-http://95.154.254.157:28647
-#EXTINF:-1,dc online
-https://stream.zenolive.com/94ecaz78vreuv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88783/logo_EyM7k5ecGQ.jpg?v=20260529-media-restore",Radio Bellissima Jazz
-https://listen.openstream.co/6091/audio
+https://strw3.openstream.co/2174?aw_0_1st.collectionid%3D6091%26stationId%3D6091%26publisherId%3D2198%26k%3D1786290655
 #EXTINF:-1,dorfdisko
 http://dorfdisko.stream.laut.fm/dorfdisko
 #EXTINF:-1,Yimago Jazz (The World's Jazz Station) radio
 https://cast1.torontocast.com:1855/stream
-#EXTINF:-1,jazz swing manouche radio
-http://listen.radionomy.com/jazz-swing-manouche-radio
 #EXTINF:-1,burningheart
 http://burningheart.stream.laut.fm/burningheart
 #EXTINF:-1,Klassik Radio - Till Brönner
-https://stream.klassikradio.de/tillbroenner/mp3-128/radiode/
-#EXTINF:-1,ApeTime
-https://ice43.fluidstream.net/apetime.aac?FLID=8&type=.aac
+https://klassikr.streamabc.net/klr-tillbrnner-mp3-128-8848574?sABC=6n78n1r0%230%2316npr9r80rr2r351n21r3rq273o4s2r6%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1786290656
 #EXTINF:-1,Rádio Feliz FM - Teresina Listen live
 https://cloud1.cdnseguro.com:19374/
-#EXTINF:-1,Retro Jukebox Vintage Oldies Swing And Comedy
-http://soho.wavestreamer.com:8972/Live/stream/1
-#EXTINF:-1,The UK 1940s Radio Station Server 1 - 1920s -1930s 1940s
-https://stream.rcast.net/13975
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/56371/logo_QblCt3Gijx.jpg?v=20260529-media-restore",Rádio Centro América FM
-https://centova.svdns.com.br:20111/stream?type=.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92480/logo_1iL2rr4gkl.jpg?v=20260529-media-restore",202.FM - Big Band
 http://relay.181.fm:8004/
 #EXTINF:-1,95.5 Charivari - LOUNGE
-https://rs24.stream24.net/lounge?ref=radio.de
-#EXTINF:-1,Great Lakes FM
-https://www.liveradio.es/http://198.74.51.37:8030/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38613/logo_BFPOu022Bv.jpg?v=20260529-media-restore",Radio Clasic Jazz
-https://radioclasic.ro:8626/stream
-#EXTINF:-1,Sounds of Sin City:
-http://67.76.185.229:8000
-#EXTINF:-1,Radio-SRW radio
-https://www.tunefm.de:2000/stream/298/pls
+https://edge11.stream.charivari.de/955charivari-lounge/stream/mp3?ref=radio.de&aggregator=RDs24_rs24_stream24
 #EXTINF:-1,Big R Radio - Christmas Rock
 https://bigrradio.cdnstream1.com/5192_128
-#EXTINF:-1,MARTINI TUNES BECKER BROADCAST SYSTEMS
-http://74.55.244.98:6900
-#EXTINF:-1,KEEN Country Radio
-https://ais-edge106-live365-dal02.cdnstream.com/a09760
-#EXTINF:-1,Das Landradio Listen live
-https://streamingv2.shoutcast.com/DasLandradio
-#EXTINF:-1,Monogogo.com - Smooth Jazz Plus
-https://onlineradiobox.com/json/us/smoothjazzplus/play?platform=web
-#EXTINF:-1,Jazzjoulu
-https://server1.toivon.net/proxy/toivon_8_1?mp=/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97389/logo_ntrTSaiqlF.jpg?v=20260529-media-restore",Static X Radio Reloaded
-https://listen.openstream.co/4745/;/audio
+https://strw3.openstream.co/1533?aw_0_1st.collectionid%3D4745%26stationId%3D4745%26publisherId%3D1557%26k%3D1786290658
 #EXTINF:-1,Scorpios Athens Radio
 http://cast.streams.ovh:14116/stream
-#EXTINF:-1,HotMix263 FM radio
-https://live.exertion.in/radio/8070/radio.mp3
-#EXTINF:-1,Caribe Rumba
-http://stream.zeno.fm/ukxx4cm4198uv
 #EXTINF:-1,youngpirateradio
 http://youngpirateradio.stream.laut.fm/youngpirateradio
 #EXTINF:-1,tanzplatz
-https://stream.laut.fm/tanzplatz?ref=radiode
+https://tanzplatz.stream.laut.fm/tanzplatz?ref=radiode&t302=2026-08-09_15-50-58&uuid=c66dd334-68f1-438d-b2ba-5aced56340aa
 #EXTINF:-1,RauteMusik - Deutschrap Classic Listen live
-https://rautemusik-de-hz-fal-stream12.radiohost.de/rm-deutschrap-classic_mp3-192?ref=rm5beta
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/39744/logo_ZzpVD5igIx.jpg?v=20260529-media-restore",RadioFly
-https://live.radiofly.cloud/radiofly
-#EXTINF:-1,Radio FallingStars - Jazz
-http://gruv.iptime.org:8200/
+https://rautemusik.stream17.radiohost.de/rm-deutschrap-classic_mp3-192?ref=rm5beta&upd-meta&upd-scheme=https&_art=dD0xNzg2MjkwOTU5JmQ9OTY2MjdjMGUyMzAwOGUxM2NlZTY
 #EXTINF:-1,Swing Salon
 https://swingsalon.stream.laut.fm/swingsalon
-#EXTINF:-1,MITM 128k AAC-V
-http://198.178.123.11:7452
 #EXTINF:-1,202.FM - Big Band radio
-http://relay.181.fm:8004/
-#EXTINF:-1,Green Radio Jazz
-http://listen.radionomy.com/GreenRadioJazz
-#EXTINF:-1,Radio Idola Semarang
-https://stream.radioidola.com/listen/idolafm/live
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40391/logo_7kpsFLiyYn.jpg?v=20260529-media-restore",ilTergi Radio
 https://listen.radioking.com/radio/90379/stream/128782
 #EXTINF:-1,Jazzy
 https://radio.musorok.org/listen/jazzy/jazzy.mp3
-#EXTINF:-1,Fred Hall's Swing Thing
-http://s1.voscast.com:9116
 #EXTINF:-1,hanseswing
-https://stream.laut.fm/hanseswing?ref=radiode
-#EXTINF:-1,Big Blue Swing.com-32Kbit: LOW BANDWIDTH STREAM
-https://stream.rcast.net/4187
-#EXTINF:-1,Tzar's
-http://listen.shoutcast.com/tzar-s
-#EXTINF:-1,Classic Praha
-https://icecast8.play.cz/classic128.mp3
+https://hanseswing.stream.laut.fm/hanseswing?ref=radiode&t302=2026-08-09_15-51-00&uuid=a721a9b6-a0e9-4eb9-83f6-54f9680963b1
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88517/logo_XtN9ubxg6n.jpg?v=20260529-media-restore",Yimago Jazz (The World's Jazz Station)
-https://yimago.torontocast.stream/jazz
-#EXTINF:-1,ABC Fifties (50's)
-https://cast1.torontocast.com:2275/stream
-#EXTINF:-1,J-Club Bandstand
-https://daniel.torontocast.com/bandstand
+https://strw3.openstream.co/872?aw_0_1st.collectionid%3D3666%26stationId%3D3666%26publisherId%3D896%26k%3D1786290662
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006455/logo_CKV5zZFuoR.jpg?v=20260529-media-restore",Винтаж Электро Свинг
-https://stream.pcradio.app/Vintage-hi
+https://stream04.pcradio.app/Vintage-hi
 #EXTINF:-1,MAGIC Jazz
-https://stream.laut.fm/jazz
-#EXTINF:-1,Tin Pan Alley Radio
-https://radio.streemlion.com:5325/stream
-#EXTINF:-1,Musical Venture Radio
-https://us3.internet-radio.com/proxy/dagilli2?mp=/MVR128
-#EXTINF:-1,Abalone Jazz
-http://listen.radionomy.com:80/AbaloneJazz
-#EXTINF:-1,The Radio Room Crime Classics
-https://stream.rcast.net/3601
+https://jazz.stream.laut.fm/jazz?t302=2026-08-09_15-51-00&uuid=a6479985-a9f7-4827-b5d2-15ba112d1a6d
 #EXTINF:-1,RadioSky-Music Jazz
 http://listen.radioskymusic.com:7006/live
-#EXTINF:-1,DI Radio Digital Impulse - Funk & Electro Swing
-https://stream.rcast.net/877
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96459/logo_I0tG3IY4I7.jpg?v=20260529-media-restore",Cladrite Radio
-https://streaming.live365.com/a43564
-#EXTINF:-1,DS4U Radio
-https://onlineradiobox.com/json/us/ds4uradio/play?platform=web
+https://das-edge63-live365-dal03.cdnstream.com/a43564
 #EXTINF:-1,Jazz-Radio.net
 https://ais-sa2.cdnstream1.com/2346_128.mp3?
-#EXTINF:-1,Diveky-radio-swing - 128 - Hungary - jazz
-http://178.238.223.39:8000/swing.m3u
-#EXTINF:-1,WAAY Radio
-http://listen.radionomy.com:80/waay-radio
-#EXTINF:-1,RadioManouche
-http://stream.radiomanouche.com:8118/listen
-#EXTINF:-1,La Timba Radio
-https://stream.rcast.net/14189
-#EXTINF:-1,Big Blue Swing - 64 - The United States Of America - blues - swing
-http://radio.bigblueswing.com:8002/;64bit.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52375/logo_qQG9P3rrwu.jpg?v=20260529-media-restore",Zucca Radio
 https://stream.zuccaradio.com/stream
-#EXTINF:-1,Positively 1940’s Listen live
-https://streaming.positivity.radio/pr/1940/icecast.audio
 #EXTINF:-1,swingsalon - 128 - Germany - charleston - jazz - lindy - swing
 http://stream.laut.fm/swingsalon.m3u
-#EXTINF:-1,JAZZRADIO.com - Timeless Classics
-http://www.jazzradio.com/timelessclassics
-#EXTINF:-1,Big Blue Swing Com
-http://radio.BigBlueSwing.com:8000/bigblueswing-64.mp3
 #EXTINF:-1,SOS - Sound Of The Strand - Beach and Shag
-https://das-edge09-live365-dal03.cdnstream.com/a20149
-#EXTINF:-1,Voscast 128k MP3
-http://s5.voscast.com:7504
-#EXTINF:-1,Southern FM - Melbourne
-https://www.liveradio.es/http://stream.swifthosting.com.au:8080/stream/1
+https://das-edge62-live365-dal03.cdnstream.com/a20149
 #EXTINF:-1,sugarshock
 http://sugarshock.stream.laut.fm/sugarshock
 #EXTINF:-1,Crooner Radio Céline Dion
 https://croonerradio_celinedion.ice.infomaniak.ch/croonerradio-celinedion-midfi.mp3
 #EXTINF:-1,Radio WMKV (Reading)
 https://ice7.securenetsystems.net/WMKVFM
-#EXTINF:-1,Pumpkin FM 4050
-http://listen.shoutcast.com/pumpkinfm4050
-#EXTINF:-1,RocaFM Vigo
-http://listen.shoutcast.com/rocafmvigo
 #EXTINF:-1,Show Time
 https://showtime.stream.laut.fm/showtime
 #EXTINF:-1,k50p
@@ -291,154 +116,50 @@ http://k50p.stream.laut.fm/k50p
 https://pub0302.101.ru:8443/stream/pro/aac/64/90
 #EXTINF:-1,Radio Caprice - Swing / Neo-swing - 48 - The Russian Federation - jazz - swing
 http://79.120.39.202:8002/swing
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7CNYB.png",Radio-D - Swing
-http://radio-d.hu:8000/swing
-#EXTINF:-1,Eure du blues
-http://listen.radionomy.com/Euredublues
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/841WQZ.png",DS4U Radio
-http://radio.ds4u.com:8000/&type=mp3
-#EXTINF:-1,Rádio ALMG
-https://stream.rcast.net/243958
-#EXTINF:-1,Jouluradio - Jazzjoulu Listen live
-https://c8.toivon.net/toivon/toivon_8?mp=/server
 #EXTINF:-1,Jazz Manouche
 https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3
 #EXTINF:-1,Crooner Radio Swing
-https://direct.croonerradio.fr/croonerradio-swing-midfi.mp3
-#EXTINF:-1,Swiss Internet Radio - Jazz &ampamp Swing
-https://onlineradiobox.com/json/ch/swissinternetradiojazz/play?platform=web
-#EXTINF:-1,Njoy 99.5
-https://onlineradiobox.com/json/cy/njoy995/play?platform=web
-#EXTINF:-1,Radio-RDB radio
-https://server36252.streamplus.de/stream.mp3
+https://croonerradio_swing.ice.infomaniak.ch/croonerradio-swing-midfi.mp3
 #EXTINF:-1,Trombone Jazz Radio
-http://streaming.live365.com/a63077
-#EXTINF:-1,RetroSwingFM
-http://stream.zeno.fm/944pfzxxn0hvv
-#EXTINF:-1,Classic Vinyl HD
-https://icecast.walmradio.com:8443/classic
+http://das-edge11-live365-dal03.cdnstream.com/a63077
 #EXTINF:-1,Buglecall Radio
-https://stream.laut.fm/buglecallradio?ref=radiode
+https://buglecallradio.stream.laut.fm/buglecallradio?ref=radiode&t302=2026-08-09_15-51-04&uuid=11e71a5f-a017-4a78-9320-7e3bd69bc9af
 #EXTINF:-1,Electro Swing Revolution Radio
 https://streamer.radio.co/s2c3cc784b/listen
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/98XJU8.png",Jazz Radio - Happy Hour
 https://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3
 #EXTINF:-1,Beatzby808.com
 https://s2.citrus3.com:8312/stream
-#EXTINF:-1,90.9 Jazzy rádió
-https://s04.diazol.hu:9502/live.mp3
-#EXTINF:-1,Octava Radio
-http://95.216.189.65:8000/media
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91969/logo_i37NRKLHqR.png",Big Blue Swing Radio
-http://radio.bigblueswing.com:8002/64bit.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50389/logo_tBjqKb532M.jpg?v=20260529-media-restore",American Gold
-https://cast2.asurahosting.com/proxy/americangold/stream
-#EXTINF:-1,Malvern Radio JRS - Pumpkin FM
-https://cast2.asurahosting.com/proxy/malvernradiojrs/stream
 #EXTINF:-1,Splash Radio Jazz
-http://streaming.radionomy.com/-1JazzRadio?lang=en_US
-#EXTINF:-1,Groove FM radio
-http://live.outcastdigital.com:8000/groove
-#EXTINF:-1,Njoy 99.5 radio
-http://shout.kalsedia.com:9950/njoy9950_128
+https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Crooner Radio Légendes
 https://croonerradio_lounge.ice.infomaniak.ch/croonerradio-lounge-midfi.mp3
-#EXTINF:-1,101.ru: New York
-https://ic4.101.ru:8000/a64
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/100752.v10.png",Radio-RDB 
-https://c02.lexycast.de:1290/
-#EXTINF:-1,HearMe - Swing Jazz
-https://stream.rcast.net/244717
-#EXTINF:-1,Exclusively Perry Como Listen live
-https://streaming.exclusive.radio/er/perrycomo/icecast.audio
-#EXTINF:-1,Radio 1920 radio
-http://radio.ds4u.com:8000/ds4u
-#EXTINF:-1,Radio Nux radio
-http://91.121.174.201:8026/stream.nsv
-#EXTINF:-1,SLA SWING
-https://das-edge15-live365-dal02.cdnstream.com/a63826
 #EXTINF:-1,JazzKeyn
 http://radio.jazz.moscow:8000
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38613/logo_oaCMzs0Evt.png",Radio Clasic Jazz
-https://radioclasic.ro:8626/stream
-#EXTINF:-1,101.ru: Swing
-https://ic5.101.ru:8000/a90
-#EXTINF:-1,Deep Dance
-https://leproradio.com/stream.aac
 #EXTINF:-1,brankos radio station
 http://brankos-radio-station.stream.laut.fm/brankos-radio-station
 #EXTINF:-1,WRJR Real Jamz Radio
 https://s3.radio.co/s851f21496/low
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/83048.v12.png",Konecta Radio 
-https://konectaradio.es:8000/radio
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91888/logo_eobEBNhYaL.png",Racketeer Radio
-https://stream.zeno.fm/vgj9od962oitv
 #EXTINF:-1,RKI711
 http://titan.shoutca.st:9286/
-#EXTINF:-1,CRFML
-http://stream.crfml.com:8100/live.mp3
-#EXTINF:-1,Dansbandsdax
-http://sc.dbd.nu:8358/stream/1/
-#EXTINF:-1,1940s Radio - Home Service - Pumpkin FM
-https://cast2.asurahosting.com/proxy/1940sradio/stream
 #EXTINF:-1,LA TERRASSE - MARTINI
-https://onlineradiobox.com/json/fr/laterrassemartini/play?platform=web
+http://centova.radioservers.biz:9120/;
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45776/logo_2ga1Fr0SVV.jpg?v=20260529-media-restore",Jazz Radio - Saxo
 https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
-#EXTINF:-1,DS4U
-http://ds4u.com:8000/
-#EXTINF:-1,Rádio Estúdio 76 Listen live
-https://servercast.com.br/radio/8000/server
-#EXTINF:-1,Beach Hop Magic
-https://16603.live.streamtheworld.com/MAGIC_BEACHHOP_S01.aac
 #EXTINF:-1,boogietime
 http://boogietime.stream.laut.fm/boogietime
-#EXTINF:-1,Radio Centro Emilia
-https://onair7.xdevel.com/proxy/xautocloud_o5s0_1178?mp=/stream/
-#EXTINF:-1,EL SON DE MI BARRIO
-http://listen.radionomy.com:80/ELSONDEMIBARRIO
-#EXTINF:-1,Si Radio - Smooth
-https://mpc4.mediacp.eu:8006/smooth
-#EXTINF:-1,VH Big Band
-http://198.100.148.183:12024
-#EXTINF:-1,Jazz Swing Manouche Radio (JSM Radio)
-https://listen.radionomy.com/jazz-swing-manouche-radio.m3u
-#EXTINF:-1,KISS Jazz
-http://listen.radionomy.com/KISSJazz
 #EXTINF:-1,rockandrollradio
 http://rockandrollradio.stream.laut.fm/rockandrollradio
-#EXTINF:-1,station de beunhazen
-http://listen.shoutcast.com/stationdebeunhazen
 #EXTINF:-1,Crooner Radio Michael Bublé
 https://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3
-#EXTINF:-1,Swing Street Radio
-http://s6.voscast.com:11312
-#EXTINF:-1,The UK 1940s Radio Station
-https://solid2.streamupsolutions.com/proxy/rsbudoyu?mp=/type=mp3
-#EXTINF:-1,Leproradio
-https://live.leproradio.com/bender.ogg
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36375/logo_zlyVmJ92sk.png",Gdynia Radio
 http://51.255.8.139:8064/stream
-#EXTINF:-1,Dreamradio Stardust
-http://audio8.orpanc.ca:80/stream/1
-#EXTINF:-1,Starlite
-http://listen.radionomy.com:80/Starlite
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/48358.v4.png",Radio Nux 
-http://91.121.174.201:8026/
-#EXTINF:-1,Radio-SRW
-https://www.tunefm.de:2000/stream/298/mp3
 #EXTINF:-1,Crooner Radio Love
 https://croonerradio_love.ice.infomaniak.ch/croonerradio-love-midfi.mp3
-#EXTINF:-1,Moscow Boogie
-http://listen.radionomy.com:80/MoscowBoogie
-#EXTINF:-1,The Lounge Sound – 1Radio.ca radio
-http://streams.1radio.ca:8059/live
 #EXTINF:-1,jazzrockfusion
 http://jazzrockfusion.stream.laut.fm/jazzrockfusion
 #EXTINF:-1,Radio Centro Emilia radio
 https://c38.radioboss.fm:8078/stream
-#EXTINF:-1,A-JAZZ-FM-WEB
-http://listen.radionomy.com/A-JAZZ-FM-WEB
 #EXTINF:-1,EzzJazz
 https://das-edge11-live365-dal03.cdnstream.com/a98306
 #EXTINF:-1,Streamee – Salt Radio
@@ -447,260 +168,71 @@ https://politismedia-sec.live24.gr/streameesalt
 https://das-edge13-live365-dal02.cdnstream.com/a82829
 #EXTINF:-1,burlesque
 http://burlesque.stream.laut.fm/burlesque
-#EXTINF:-1,Zucca Radio
-https://stream.zuccaradio.com/stream
-#EXTINF:-1,Instrumental Music
-http://listen.radionomy.com/InstrumentalMusic
-#EXTINF:-1,RadioFly
-https://live.radiofly.cloud/radiofly
-#EXTINF:-1,Relax Jazz
-https://stream.relaxfm.ee/jazz
-#EXTINF:-1,Radio Djerdan
-https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_36299_stream_503780841stream.nsv
 #EXTINF:-1,jukejoint
 http://jukejoint.stream.laut.fm/jukejoint
-#EXTINF:-1,Take it Easy Touch of Class
-http://listen.radionomy.com:80/TakeitEasyTouchofClass
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-rdb-logo.jpg",Radio-RDB
-https://c02.lexycast.de:1290/;
-#EXTINF:-1,PARADISO Klassiker
-https://paradisode.streamabc.net/para-klassiker-mp3-128-5881154
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/gdynia-radio-640459-logo.jpg",Gdynia Radio
 http://51.255.8.139:8064/;stream.nsv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50358/logo_c1XmMRbtL7.jpg?v=20260529-media-restore",1940s Radio - Home Service - Pumpkin FM
-https://cast2.asurahosting.com/proxy/1940sradio/stream
-#EXTINF:-1,Nuside Radio
-http://108.61.20.171:10298
 #EXTINF:-1,SOS Radio - Sound Of the Strand
-https://streaming.live365.com/a20149
-#EXTINF:-1,Swing City Radio
-https://streaming.live365.com/a03438
-#EXTINF:-1,Konecta Radio
-https://radio30.virtualtronics.com/proxy/konecta?mp=/stream
-#EXTINF:-1,Ride Radio
-https://stream.rcast.net/6578
-#EXTINF:-1,K-TOR3: Radio Swing Worldwide
-https://das-edge13-live365-dal02.cdnstream.com/a97874
 #EXTINF:-1,1000jazzhits
 http://1000jazzhits.stream.laut.fm/1000jazzhits
-#EXTINF:-1,Rockabilly
-http://91.121.134.23:8100/stream/
 #EXTINF:-1,Crooner Radio Barbra Streisand
 https://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3
-#EXTINF:-1,Radio Swing Worldwide
-http://208.53.158.48:8100/stream/1
-#EXTINF:-1,KEEN COUNTRY radio
-https://streaming.live365.com/a09760
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005180/logo_7OoZ1n4CuF.jpg?v=20260529-media-restore",Rock n Roll FM
 https://a6.radioheart.ru:9046/RH1972
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-jazzradiocom-gypsy-jazz-logo.jpg",JAZZRADIO.com - Gypsy Jazz
-http://www.jazzradio.com/gypsyjazz
-#EXTINF:-1,Angel Radio
-https://edge.clrmedia.co.uk/angel_hb
-#EXTINF:-1,Lindy Hop
-http://listen.shoutcast.com/lindyhop
-#EXTINF:-1,Cnv Radio
-https://stream2.emisorasvirtuales.com/proxy/cnvradio/stream
-#EXTINF:-1,PARADISO.jazz 
-https://stream.paradiso.de/paradiso-jazz/mp3-128/?ref=radiode
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/45236/logo_MDd9ruJ3Pv.png",Swiss Internet Radio - Jazz &amp; Swing
-http://relay.publicdomainradio.org:80/jazz_swing.mp3
-#EXTINF:-1,Thornbury Radio
-https://stream.rcast.net/247797
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-fiesta-grupera-zacualpan-logo.jpg",Radio Fiesta Grupera Zacualpan
-https://stream.zeno.fm/bqttks3rmrhvv
-#EXTINF:-1,Jazz Swing Manouche
-http://185.112.4.6:8000/radiofly
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29486/logo_BOpgMNmHEG.jpg?v=20260529-media-restore",60ies Bar Lounge Klassik Radio
 https://klassikr.streamabc.net/klr-60iesbarlounge-aacplus-64-7100628
-#EXTINF:-1,Swinging Radio England
-https://jenny.torontocast.com:9004/stream
-#EXTINF:-1,Nova 106
-http://novafm106.media.friktoria.net:8000/novafm106.mp3
 #EXTINF:-1,Crooner Radio Frank Sinatra
 https://croonerradio_franksinatra.ice.infomaniak.ch/croonerradio-franksinatra-midfi.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/43431/logo_tXGMSVbXjA.png",Konecta Radio
 https://konectaradio.es:8000/radio.mp3
-#EXTINF:-1,Rockabilly Radio "Rock This Town"
-https://a9.radioheart.ru:9044/nonstop
-#EXTINF:-1,ON Jazz
-https://0n-jazz.radionetz.de/0n-jazz.mp3
 #EXTINF:-1,Electro Swing by Jazz Radio {Powered by Infomaniak.Net}
 https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac
-#EXTINF:-1,More FM - Nelson 92.8 FM Listen live
-https://livestream.mediaworks.nz/radio_origin/more_[NSN]_128kbps/chunklist.m3u8
-#EXTINF:-1,SKANDAL FM
-https://radios.sonidoshd.com:7060/
-#EXTINF:-1,Hotmixradio Platinum
-https://streamingp.shoutcast.com/hotmixradio-platinium-128.mp3
-#EXTINF:-1,Majestic Jukebox Radio
-http://uk3.internet-radio.com:8405/stream
-#EXTINF:-1,Radio Nux
-https://onlineradiobox.com/json/it/arteportopalo/play?platform=web
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/77864.v206.png",Fiesta Grupera Zacualpan 
-https://stream.zenolive.com/a9z5eucyc48uv
-#EXTINF:-1,The Original 1940s Radio Station
-http://149.255.59.162:8062/stream
-#EXTINF:-1,Radio Eklund
-http://167.114.131.90:5634/listen.pls
-#EXTINF:-1,Jockey Radio
-https://jockeyradio007.radioca.st/streams/320kbps
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28759/logo_YtT8Iei9zl.jpg?v=20260529-media-restore",ON Smooth Jazz
-https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
 #EXTINF:-1,Allzic Lounge
 https://allzic21.ice.infomaniak.ch/allzic21.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/big-blue-swing-154189-logo.jpg",Radio Big Blue Swing
-http://radio.bigblueswing.com:8002/;
-#EXTINF:-1,Bop City
-http://streaming.live365.com/bop_city
-#EXTINF:-1,Auran Aallot Listen live
-https://stream.bauermedia.fi/auranaallot/auranaallot_64.aac
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49911/logo_MmcuNgzpIP.jpg?v=20260529-media-restore",Nicecream.fm Red
-https://play.nicecream.fm/radio/8000/red.mp3
-#EXTINF:-1,Dash Radio - Swing
-https://ice55.securenetsystems.net/DASH80
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/84769/logo_rUj9tVqj0F.jpg?v=20260529-media-restore",Radio Djerdan
-https://stream.zeno.fm/wrs0a5w13k8uv
 #EXTINF:-1,95.5 Charivari - Lounge Listen live
-https://rs24.stream24.net/lounge
-#EXTINF:-1,Fred Halls Swing Thing
-http://198.178.123.2:9116/listen.pls
-#EXTINF:-1,Jazz Radio - Swing
-https://live.radioart.com/fSwing.mp3
-#EXTINF:-1,The Fabulous Strip Com
-http://cg1-den.servemp3.com/TFS
-#EXTINF:-1,JAZZ TUNE RADIO 2
-http://109.169.26.216:8209/stream
+https://edge13.stream.charivari.de/955charivari-lounge/stream/mp3?aggregator=RDs24_rs24_stream24
 #EXTINF:-1,Addicted 2 Oldies Music
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-virtual-argentino-logo.jpg",Radio Virtual Argentino
-https://vps-6de10815.vps.ovh.ca/8112/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/it-radio-nux-logo.jpg",Radio Nux
-http://91.121.174.201:8026/;stream.nsv
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29698/logo_cWNqM0PTGJ.png",Jukejoint Radio
-https://stream.laut.fm/jukejoint
-#EXTINF:-1,Klassik Radio Till Brönner
-https://listen.radionomy.com/jazz-swing-manouche-radio
+https://jukejoint.stream.laut.fm/jukejoint?t302=2026-08-09_15-51-17&uuid=2b3b65e3-3eef-42d9-95b6-ad03cfffcbbc
 #EXTINF:-1,Splash Jazz
 https://ais-sa2.cdnstream1.com/2346_128.mp3
-#EXTINF:-1,Rumba4U
-http://philae.shoutca.st:8246/stream/1
-#EXTINF:-1,Pituey
-http://listen.shoutcast.com/pituey
-#EXTINF:-1,ZenythRadio
-https://listen.radioking.comhttp:/adio/128233/stream/168043
 #EXTINF:-1,Rockin50s Radio
 https://eu10.fastcast4u.com/rockin50s
-#EXTINF:-1,Swinging Radio 60s
-https://stream.rcast.net/4618
-#EXTINF:-1,Radio Trencitas Listen live
-https://server1.radiocast.es:8010/trencitas
-#EXTINF:-1,CoastalSound Listen live
-https://coastal.radioca.st/server
 #EXTINF:-1,KWPX Cowpoke Country Radio
 https://pavo.prostreaming.net:8034/stream?hash=1631464002154.mp3
 #EXTINF:-1,OLDIES MUSIC 4 EVER
-http://radio.streemlion.com:2570/stream
-#EXTINF:-1,RadioArt: Big Bands
-https://live.radioart.com/fBig_bands.mp3
-#EXTINF:-1,1940s 1950s Radio Retro
-http://64.150.176.42:8098/stream
-#EXTINF:-1,RadioSpinner - Electro Swing
-http://live.radiospinner.com/elswing-96
+https://radio.streemlion.com:2570/stream
 #EXTINF:-1,hairrockradio Listen live
-https://stream.laut.fm/hairrockradio?ref=radiode
+https://hairrockradio.stream.laut.fm/hairrockradio?ref=radiode&t302=2026-08-09_15-51-19&uuid=25dad43c-2cee-4279-b017-483f1151f499
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0QSV6.png",WZQR Gold
 http://c3.radioboss.fm:8065/stream
-#EXTINF:-1,Raven Radio Swing
-http://108.166.162.179:7012
-#EXTINF:-1,Syncopated Times Radio Network
-https://s3.radio.co/sd61f8187a/listen
 #EXTINF:-1,Jazz Radio - Sunset
 https://jzr-sunset.ice.infomaniak.ch/jzr-sunset.mp3
 #EXTINF:-1,ilTergi Radio
-https://listen.radioking.com/radio/90379/stream/128782
-#EXTINF:-1,Swing Fm 101 2 Limoges
-http://radio.swingfm.asso.fr:8000/stream/1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29486/logo_l1oF6HSRj9.png",Klassik Radio - 60ies Bar Lounge
-https://klassikr.streamabc.net/klr-60iesbarlounge-aacplus-64-7100628
-#EXTINF:-1,KCEA 89.1 FM
-http://streaming.rubinbroadcasting.com/kcea
 #EXTINF:-1,Yimago Jazz (The World&amp#39s Jazz Station)
-https://yimago.torontocast.stream/jazz
-#EXTINF:-1,Notimil Sucumbios
-https://stream.zeno.fm/7cn7ehw3ud0uv
+https://strw3.openstream.co/872?aw_0_1st.collectionid%3D3666%26stationId%3D3666%26publisherId%3D896%26k%3D1786290682
 #EXTINF:-1,aphilia
-https://stream.laut.fm/aphilia?ref=radiode
-#EXTINF:-1,radio tele Melostar 100.3FM
-http://192.99.13.189:9368/stream/1
-#EXTINF:-1,Anyway Smooth Radio
-https://greeksonic.alphaserver.gr/8020/streamstream.nsv
+https://aphilia.stream.laut.fm/aphilia?ref=radiode&t302=2026-08-09_15-51-20&uuid=2f741fdb-c0d9-4069-8b9a-bc068119dc08
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88773/logo_qVcfqwii58.jpg?v=20260529-media-restore",J-Club Bandstand Radio
 https://cast1.torontocast.com:2060/
-#EXTINF:-1,Radio 93 FM Listen live
-https://18513.live.streamtheworld.com/FM93AAC.aac
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43431/logo_NBgKQvUo2n.jpg?v=20260529-media-restore",Konecta Radio
-https://konectaradio.es:8000/radio.mp3
 #EXTINF:-1,Chi Town Swing
 http://chitownswing.listen2myradio.com
-#EXTINF:-1,Radio Retro radio
-http://64.150.176.42:8098/
-#EXTINF:-1,Radio Art - Swing
-https://onlineradiobox.com/json/gr/artswing/play?platform=web
-#EXTINF:-1,SPLASH Jazz
-https://stream.vanillaradio.com:8009/live
-#EXTINF:-1,Jazz Café FM - Radio Argentina de Jazz
-https://radio.netyco.com:18056/
 #EXTINF:-1,Static X Radio Reloaded
-https://listen.openstream.co/4745//audio
-#EXTINF:-1,Jazz FM
-http://edge-bauerall-01-gos2.sharp-stream.com/jazzhigh.aac
+https://strw3.openstream.co/1533?aw_0_1st.collectionid%3D4745%26stationId%3D4745%26publisherId%3D1557%26k%3D1786290682
 #EXTINF:-1,musik butik
 http://musik-butik.stream.laut.fm/musik-butik
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/96486/logo_CuTjpotkJs.png",KZFX HD-2 Cactus Country Classics Radio
-https://stream.zeno.fm/5htybmytvchvv
 #EXTINF:-1,Radio Big R Radio - Christmas Rock
 http://bigrradio.cdnstream1.com/5192_128
-#EXTINF:-1,Leproradio radio
-http://199.189.111.28:8012/stream.nsv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47816/logo_X1NiQD2Jfn.jpg?v=20260529-media-restore",Crooner Radio Swing
-https://direct.croonerradio.fr/croonerradio-swing-midfi.mp3
-#EXTINF:-1,Swing Salon radio
-http://162.244.80.106:11198/stream
 #EXTINF:-1,181.FM Christmas Swing
 https://ec4.yesstreaming.net:2135/stream
 #EXTINF:-1,swingsalon Listen live
-https://stream.laut.fm/swingsalon?ref=radiode
-#EXTINF:-1,Radio-D - Swing
-https://www.liveradio.es/http://radio-d.hu:8000/swing
-#EXTINF:-1,http://www.rbifm.com/your-radio-name
-http://listen.shoutcast.com/http---wwwrbifmcom-your-radio-name
-#EXTINF:-1,Def J Radio
-http://s3.free-shoutcast.com:18296/listen.pls?sid=1/stream/1
-#EXTINF:-1,Robbie Williams FanLoop Radio
-http://listen.radionomy.com:80/RobbieWilliamsFanLoopRadio
+https://swingsalon.stream.laut.fm/swingsalon?ref=radiode&t302=2026-08-09_15-51-23&uuid=89931b49-d2bc-4ee9-892e-45e0d0a05feb
 #EXTINF:-1,jettech fm
 http://jettech-fm.stream.laut.fm/jettech-fm
-#EXTINF:-1,Big Blue Swing radio
-http://radio.bigblueswing.com:8002/
-#EXTINF:-1,Racketeer Radio
-https://streaming.live365.com/a33242
-#EXTINF:-1,Jazzz Impressions
-http://streaming.live365.com/Jazzz-Impressions-a93925
-#EXTINF:-1,Kaset Fm Jazz
-http://176.31.105.44:9910/stream/1
-#EXTINF:-1,Best Jazz
-https://ip111.ip-54-39-218.net/radio/8060/radio.mp3
 #EXTINF:-1,Best Jazz Radio
-https://c5.auracast.net/listen/best_jazz_radio/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50823/logo_vGmueBL7q7.png",The UK 1940s Radio Station
-https://solid2.streamupsolutions.com/proxy/rsbudoyu?mp=%2F%3Btype%3Dmp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102812/logo_JGRZuo082Z.jpg?v=20260529-media-restore",Electro Swing
-https://tower.hayva.ru/mv8tx-96
-#EXTINF:-1,KCEA-FM Big Band Swing (OC3)
-http://69.12.217.101:8000
-#EXTINF:-1,Smile Sussex
-http://edge-audio-03-gos2.sharp-stream.com/smilesussex.mp3
 #EXTINF:-1,Jazzy Cool
 https://radio.musorok.org/listen/jazzycool/jazzycool.mp3
 #EXTINF:-1,Radio Jazz
@@ -708,628 +240,219 @@ http://c4.auracast.net:8060/stream
 #EXTINF:-1,djr
 http://djr.stream.laut.fm/djr
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/47400/logo_k6CCJnegBN.png",LA TERRASSE - MARTINI Radio
-http://centova.radioservers.biz:9120/
-#EXTINF:-1,1jazz ru Swing and Big Band
-http://radio.1jazz.ru:8280/radio
-#EXTINF:-1,Planet Pootwaddle
-https://ppw.streamguys1.com/sgplayer-mp3
 #EXTINF:-1,limbimusic
 http://limbimusic.stream.laut.fm/limbimusic
 #EXTINF:-1,Rockin&#039; Rhythm and Blues Radio
-https://croonerradio_swing.ice.infomaniak.ch/croonerradio-swing-midfi.mp3
-#EXTINF:-1,Radio Magiztral radio
-http://stream5.eltelon.com:8000/magiztral.aac
 #EXTINF:-1,pinguin11
 http://pinguin11.stream.laut.fm/pinguin11
 #EXTINF:-1,soundboxe
-https://stream.laut.fm/soundboxe?ref=radiode
-#EXTINF:-1,Big Blue Swing.com
-https://stream.rcast.net/207856
-#EXTINF:-1,JAZZ TUNE RADIO
-https://stream.rcast.net/251825
-#EXTINF:-1,yupi
-http://listen.radionomy.com:80/yupi
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/87041.v6.png",Njoy 99.5 
-https://stream.radiojar.com/mg7kftnzka3vv
-#EXTINF:-1,ON Christmas
-http://0n-christmas.radionetz.de/0n-christmas.mp3
+https://soundboxe.stream.laut.fm/soundboxe?ref=radiode&t302=2026-08-09_15-51-26&uuid=0c93d8b8-5c4f-4553-9ada-d20d86baa176
 #EXTINF:-1,radio schabernack
 http://radio-schabernack.stream.laut.fm/radio-schabernack
-#EXTINF:-1,Kingdom Of Swing
-http://listen.radionomy.com:80/KingdomOfSwing
-#EXTINF:-1,Jazz Bogot
-http://listen.radionomy.com/JazzBogotaporMauricioVarelaUcros
 #EXTINF:-1,Radio WOBO (Batavia)
 http://ice64.securenetsystems.net/WOBO
-#EXTINF:-1,Radio Nostalgia Amsterdam
-https://fred.torontocast.com:1395/stream
-#EXTINF:-1,WIP-FM - CBS Sports Radio 94.1 FM Listen live
-https://playerservices.streamtheworld.com/api/livestream-redirect/WIPFM.mp3
-#EXTINF:-1,MusicAirport
-http://67.212.163.147
 #EXTINF:-1,1920
 https://radio1920.stream.laut.fm/radio1920?t302=2020-04-23_07-56-28&uuid=535ad1cf-e557-4f14-a0e8-bc51751112cb
-#EXTINF:-1,American Ink Radio
-https://centova.amfm247.com:8448/stream
-#EXTINF:-1,RadioArt - Swing
-https://stream.rcast.net/236838
-#EXTINF:-1,Digistream 128k MP3
-http://209.222.19.107:8052
 #EXTINF:-1,Kosmos Jazz
 https://radiostreaming.ert.gr/ert-webjazz
-#EXTINF:-1,Jazz 20's and Swinging 30's
-https://stream.rcast.net/69212
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50392/logo_8DDNm7RHki.jpg?v=20260529-media-restore",1940s Radio
-http://uk3.internet-radio.com:8082/live
-#EXTINF:-1,Arctic Outpost AM1270 Listen live
-https://radio.streemlion.com:3715/server
-#EXTINF:-1,ALEX FM SOUL & JAZZ
-https://stream-55.zeno.fm/uvc1ktc8hrcvv
-#EXTINF:-1,FM Hits 80s Listen live
-https://stream.zenolive.com/rry9k91nthruv.aac
-#EXTINF:-1,SMART RADIO
-http://62.138.23.169:8000/smartradio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96453/logo_MjtblXd4pJ.jpg?v=20260529-media-restore",Bombshells Radio
-https://streamingv2.shoutcast.com/Bombshells
-#EXTINF:-1,1A Jazz
-https://1a-jazz.radionetz.de/1a-jazz.mp3
 #EXTINF:-1,Vintage Broadcast
 http://s9.myradiostream.com:8724/stream/1/
-#EXTINF:-1,Swing Street Radio Failover
-http://s6.voscast.com:11312/
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/02/120391.v9.png",MusicFlix Radio 
-https://stream.radiojar.com/rcaqcws0fwuvv
 #EXTINF:-1,buglecallradio
 http://buglecallradio.stream.laut.fm/buglecallradio
-#EXTINF:-1,American Gold
-https://cast2.asurahosting.com/proxy/americangold/stream
 #EXTINF:-1,The Penthouse Radio
 https://ssl.nexuscast.com:9046/
 #EXTINF:-1,A 1 ONE JAZZ FM WEB
-https://streaming.radionomy.com/A-JAZZ-FM-WEB
-#EXTINF:-1,Spazio Radio Roma Fm 92 900 Mhz
-http://s6.mediastreaming.it:7190/stream/1
-#EXTINF:-1,Big Blue Swing.com-64Kbit: Playing music for Lindy Hop, Charleston, Balboa, Swing, and Blues
-https://stream.rcast.net/251309
-#EXTINF:-1,Exclusively Paul McCartney Listen live
-https://streaming.exclusive.radio/er/paulmccartney/icecast.audio
-#EXTINF:-1,VOICE OF HOPE
-https://onlineradiobox.com/json/zm/voiceofhope/play?platform=web
-#EXTINF:-1,Radio Groove 24/7
-https://usa18.fastcast4u.com/proxy/nusoulp1?mp=/1
-#EXTINF:-1,JAZZRADIO.com - Swing &amp; Big Band
-https://www.jazzradio.com/swingnbigband
-#EXTINF:-1,Official Racketeer Radio
-http://listen.shoutcast.com/officialracketeerradio
-#EXTINF:-1,Klassik Radio Till Brnner
-http://klassikradio.hoerradar.de/klassikradio-tillbroenner-mp3-hq?sABC=573463r7%230%23s2n6qr5106rs9q14939op1787pr9s300%23fgernzsvaqre&ampamsparams=playerid:streamfinderskey:1463051239
-#EXTINF:-1,War Years Radio
-http://72.29.81.212:9040/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32064/logo_14UijgpJAH.jpg?v=20260529-media-restore",Radio 1920
-https://radio1920.stream.laut.fm/radio1920
-#EXTINF:-1,Racketeer Radio KFQX
-https://das-edge09-live365-dal03.cdnstream.com/a33242
 #EXTINF:-1,tanz radio
 http://tanz-radio.stream.laut.fm/tanz-radio
-#EXTINF:-1,Radio Digife
-https://stream.rcast.net/246479
 #EXTINF:-1,BigR - Christmas Rock
 https://bigrradio.cdnstream1.com/5192_48
-#EXTINF:-1,All Jazz Radio
-http://listen.radionomy.com/All-Jazz-Radio
 #EXTINF:-1,RauteMusik - Volksmusik Listen live
-https://rautemusik-de-hz-fal-stream11.radiohost.de/volksmusik
-#EXTINF:-1,WLVN Radio
-https://streams.radio.co/s7c3bc42bf/listen
-#EXTINF:-1,Radio Bombshells
-http://s4.autopo.st:8019/stream
-#EXTINF:-1,Radio Caprice Swing
-http://79.120.39.202:9019
+https://rautemusik.stream48.radiohost.de/volksmusik?upd-meta&upd-scheme=https&_art=dD0xNzg2MjkwOTkxJmQ9YjA4NjE1YWFjYzNiMGYyN2FiNjk
 #EXTINF:-1,MEGATON CAFE RADIO
 http://us2.internet-radio.com:8443/stream
-#EXTINF:-1,radiochoup
-http://listen.radionomy.com/radiochoup
-#EXTINF:-1,ZenythRadio radio
-https://listen.radioking.com/radio/128233/stream/168043
-#EXTINF:-1,STA : Stay Tuned America
-http://cheetah.streemlion.com:4660/stream
-#EXTINF:-1,Radio Classica Listen live
-https://s17.ssl-stream.com/proxy/radio1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97340/logo_KrYFgaTKoR.jpg?v=20260529-media-restore",Rockin' Rhythm and Blues Radio
-http://s6.voscast.com:11632/live
-#EXTINF:-1,Breeze Easy
-https://ec5.yesstreaming.net:2805/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40150/logo_qwel5UmbNR.jpg?v=20260529-media-restore",Timex Radio
-https://sphera.fluidstream.eu/rpd.mp3?FLID=8
-#EXTINF:-1,The Penthouse Radio 
-https://streaming.live365.com/a64136
 #EXTINF:-1,Time Radio
 https://sphera.fluidstream.eu/rpd.mp3?FLID=8
-#EXTINF:-1,RADIO SILENCIO FM
-https://servermax.azuracast.com.es/listen/radio_silencio_fm/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38931/logo_bjiDd6JQ8D.jpg?v=20260529-media-restore",NJS Radio - New Jack Swing
-http://162.244.80.106:11198/stream
-#EXTINF:-1,Directions In Music
-https://das-edge17-live365-dal02.cdnstream.com/a83864
-#EXTINF:-1,Hotmixradio Fiesta
-https://streamingp.shoutcast.com/hotmixradio-fiesta-128.mp3
 #EXTINF:-1,nofate
-https://stream.laut.fm/nofate?ref=radiode
-#EXTINF:-1,Digitally Imported - Electro Swing
-http://www.di.fm/electroswing
-#EXTINF:-1,Radio Nostalgia Amsterdam Listen live
-https://fred.torontocast.com:1395/server
+https://nofate.stream.laut.fm/nofate?ref=radiode&t302=2026-08-09_15-51-32&uuid=c9a22062-26e9-468a-bc1f-883dc5a45d9e
 #EXTINF:-1,Jazz Radio- Zen Attitude
-https://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3
-#EXTINF:-1,Swing on Dash
-http://ice55.securenetsystems.net/DASH80
-#EXTINF:-1,The Lounge Sound – 1Radio.ca
-https://onlineradiobox.com/json/ca/theloungesound/play?platform=web
-#EXTINF:-1,GLT Jazz Radio
-https://onlineradiobox.com/json/us/gltjazzradio/play?platform=web
 #EXTINF:-1,vipergroup
 http://vipergroup.stream.laut.fm/vipergroup
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54192/logo_XncrPIG56h.jpg?v=20260529-media-restore",Radio Jazz Cafè FM-Smooth & Jazzy (Argentina)
-https://stream.zeno.fm/qktzze7sb18uv
-#EXTINF:-1,Kifissia Radio
-https://cast.streams.ovh:2200/ssl/kifissia?mp=/stream
-#EXTINF:-1,Perfectune FM
-http://bluford.torontocast.com:8064/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76414/logo_fH4cRzVMSM.jpg?v=20260529-media-restore",Notimil Sucumbios
-https://stream.zeno.fm/7cn7ehw3ud0uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27704/logo_JyjrKtxOtZ.jpg?v=20260529-media-restore",Ministry of Soul - Jazz
-https://stream.laut.fm/jazz
+https://jazz.stream.laut.fm/jazz?t302=2026-08-09_15-51-33&uuid=dc2a86d2-a688-4c18-a767-a64a64ebeeab
 #EXTINF:-1,weihnachtszauber
-https://stream.laut.fm/weihnachtszauber?ref=radiode
+https://weihnachtszauber.stream.laut.fm/weihnachtszauber?ref=radiode&t302=2026-08-09_15-51-34&uuid=bffec534-fe80-441f-a9ed-0462e4f758c9
 #EXTINF:-1,Radio Music Club
 https://sonic1-rbx.cloud-center.ro/8024/stream
-#EXTINF:-1,Global Swing Broadcast
-http://s4.streammonster.com:8888/stream
-#EXTINF:-1,ON Smooth Jazz
-https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
-#EXTINF:-1,GogoRadio.nl
-https://stream.rcast.net/69878
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42694/logo_JlE64f4jTh.jpg?v=20260529-media-restore",Jazz-Radio.net
-https://ais-sa2.cdnstream1.com/2346_128.mp3
 #EXTINF:-1,WOBO 88.7 FM
 https://ice64.securenetsystems.net/WOBO
-#EXTINF:-1,101.ru: New York 
+#EXTINF:-1,101.ru: New York
 https://pub0302.101.ru:8443/stream/pro/aac/64/64
-#EXTINF:-1,Das Landradio
-https://streamingV2.shoutcast.com/DasLandradio
-#EXTINF:-1,Jazz with Vernon Holloman
-https://streamingv2.shoutcast.com/Jazz-withVernonHolloman
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41598/logo_49aLQPoArv.jpg?v=20260529-media-restore",Classic Praha
-https://icecast8.play.cz/classic128.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52274/logo_CVPhXy1r5D.jpg?v=20260529-media-restore",Epic Radio
-https://ec4.yesstreaming.net:2135/stream
-#EXTINF:-1,Radio Bellissima Jazz
-https://giorgia.radiobellissima.it:8050/stream
 #EXTINF:-1,allthemusic
 http://allthemusic.stream.laut.fm/allthemusic
-#EXTINF:-1,Jazz Club Bandstand - 1930s 1940s Big Band and Swing
-https://daniel.torontocast.com:2630/stream
-#EXTINF:-1,The Improv Cafe'
-https://stations.radio-host.com/proxy/theimprovcafe/stream
 #EXTINF:-1,1000 Jazz Hits
-https://stream.laut.fm/1000jazzhits
+https://1000jazzhits.stream.laut.fm/1000jazzhits?t302=2026-08-09_15-51-35&uuid=4fca51f1-5a7d-4baf-a439-b02810f45557
 #EXTINF:-1,Frank Sinatra Radio
 http://94.23.159.187:9998/
 #EXTINF:-1,swing
 http://swing.stream.laut.fm/swing
 #EXTINF:-1,Радио Голос Бирмы Listen live
 https://listen4.myradio24.com/39982
-#EXTINF:-1,Swing Street Radio 
-http://s6.voscast.com:11312/stream/1/
-#EXTINF:-1,Radio Big Blue Swing
-http://www.bigblueswing.com:8002/
-#EXTINF:-1,Konecta
-https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_14825_stream_706219811stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-static-x-radio-reloaded-logo.jpg",Static X Radio Reloaded
-https://listen.openstream.co/4745/;/audio
-#EXTINF:-1,Rockin&amp#39 Rhythm and Blues Radio
-https://onlineradiobox.com/json/us/rockinrhythmandblues/play?platform=web
-#EXTINF:-1,BBR JAZZ'BAR CAFE
-https://radio.streemlion.com:1805/stream
+https://strw3.openstream.co/1533?aw_0_1st.collectionid%3D4745%26stationId%3D4745%26publisherId%3D1557%26k%3D1786290696
 #EXTINF:-1,Radio Blues Music 4 Ever
-http://streaming.radionomy.com/RadioBluesMusic4Ever
-#EXTINF:-1,Radio Wayne
-http://lin2.san.fast-serv.com:6034/stream?cb=900196.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004181/logo_b1uHsAgMm7.jpg?v=20260529-media-restore",Rockabilly Radio
 https://rradio.fastserv.com/hifi
 #EXTINF:-1,Vanilla Radio - Smooth Flavors
 https://smooth.vanillaradio.com:8006/stream
-#EXTINF:-1,Radio Retro
-https://onlineradiobox.com/json/uk/retro/play?platform=web
 #EXTINF:-1,radio1920
 http://radio1920.stream.laut.fm/radio1920
 #EXTINF:-1,Rockabilly Radio
-https://rradio.fastserv.com/hifi
 #EXTINF:-1,KTL Radio Listen live
 https://server8714.streamplus.de/stream.mp3
-#EXTINF:-1,Sweet Music
-http://107.150.53.50:4177/stream
-#EXTINF:-1,VOICE OF HOPE radio
-http://184.154.43.106:8030/stream
-#EXTINF:-1,Radio Zett
-https://stream.rcast.net/254696
-#EXTINF:-1,Jazz Swing Manouche Radio
-https://stream.radiojar.com/6rxpyrnzsv5tv
 #EXTINF:-1,Old Friends Radio
 https://ice64.securenetsystems.net/OFRN
-#EXTINF:-1,Radio Al Haq FM Listen live
-https://streamingV2.shoutcast.com/RADIOALHAQEL
-#EXTINF:-1,Radio Vintage
-http://95.168.187.16:10099/stream
-#EXTINF:-1,Conyers Georgia Old Time Radio AM 600 
-http://s2.yesstreaming.net:7161/stream/1/
-#EXTINF:-1,Global Swing Broadcast Sweden
-http://listen.gsb.fm:8888/autodj
-#EXTINF:-1,subite selecta
-http://listen.radionomy.com:80/subiteselecta
-#EXTINF:-1,Malvern Radio JRS - Jazz, Ragtime, Swing - UK 1940s & 1950s Radio (Pumpkin FM, OTRN)
-https://stream.rcast.net/10862
 #EXTINF:-1,indiesoko Listen live
-https://stream.laut.fm/indiesoko?ref=radiode
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/88225.v8.png",J-Club Bandstand Radio 
-https://cast1.torontocast.com:2060/
-#EXTINF:-1,KZFX HD-2 Cactus Country Classics
-https://ais-sa2.cdnstream1.com/1573_128
+https://indiesoko.stream.laut.fm/indiesoko?ref=radiode&t302=2026-08-09_15-51-39&uuid=1df51eca-fe18-4536-ae81-76a2970667d6
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/88225.v8.png",J-Club Bandstand Radio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53187/logo_hgtAcLZll4.jpg?v=20260529-media-restore",Deep Dance Radio
-https://cast1.torontocast.com:1855/stream
-#EXTINF:-1,ROKiT Classic Radio 1940s Radio
-http://149.255.59.3:8256/
-#EXTINF:-1,lulu2
-http://get.lulu.fm/luluzwei.mp3
-#EXTINF:-1,Its Your Swing
-http://50.7.77.179:8529/autodj
-#EXTINF:-1,JazzRad.io 
+#EXTINF:-1,JazzRad.io
 http://62.149.196.16:8040/stream/1/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36375/logo_vqJwViVQo6.jpg?v=20260529-media-restore",Gdynia Radio
-http://51.255.8.139:8064/stream
 #EXTINF:-1,Instrumentals Forever
 https://quincy.torontocast.com:1925/stream
-#EXTINF:-1,The Big Band Jazz Review
-http://ais-edge07-live365-dal02.cdnstream.com/a65748
-#EXTINF:-1,Deseo Radio Listen live
-https://jockeyradio007.radioca.st/streams/32kbps
 #EXTINF:-1,ROCK ANTENNE Hamburg Listen live
-https://mp3channels.rockantenne.hamburg/rockantenne-hamburg
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56371/logo_mMvEVBkT0K.png",Rádio Centro América FM
-https://centova.svdns.com.br:20111/stream?type=.mp3
-#EXTINF:-1,Let Me Swing
-https://www.radioking.com/play/radio-let-me-swing1
-#EXTINF:-1,A Better 40s Wartime Music Station
-http://listen.radionomy.com/A-Better-40s-Wartime-Music-Station
-#EXTINF:-1,billionaires surabaya
-http://listen.shoutcast.com/billionairessurabaya
-#EXTINF:-1,WAAY-DB
-https://streaming.live365.com/a63645
-#EXTINF:-1,Jazzy Rádió
-https://www.liveradio.es/http://64.150.176.42:8098/stream
+https://s1-webradio.rockantenne.hamburg/rockantenne-hamburg
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/39330/logo_3sQJstg1sR.jpg?v=20260529-media-restore",Radio Centro Emilia
-https://c38.radioboss.fm:8078/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/91969/logo_LfpIgxnDVP.jpg?v=20260529-media-restore",Big Blue Swing
-http://radio.bigblueswing.com:8002/;64bit.mp3
-#EXTINF:-1,Puget Sound FM
-https://onlineradiobox.com/json/us/pugetsoundfm/play?platform=web
-#EXTINF:-1,Jazz Lovers Radio
-https://kathy.torontocast.com:3535/stream
-#EXTINF:-1,Red Wing\'s Oil and Gas HSE Podcast
-http://alpha.podcasttoradio.com:80/398641
-#EXTINF:-1,Radio Dismuke
-http://stream1.early1900s.org:8080
 #EXTINF:-1,181.fm - Christmas Swing
 https://listen.181fm.com/181-xswing_128k.mp3
 #EXTINF:-1,Cladrite Radio
-https://streaming.live365.com/a43564
-#EXTINF:-1,KDKI
-http://204.12.238.138:14800
 #EXTINF:-1,1640 Am America Old Time Radio
 http://hemnos.cdnstream.com/1666_32
-#EXTINF:-1,Pure Vintage Radio
-https://listen.radioking.com/radio/8760/stream/18851
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52383/logo_4xPw8G7HDy.jpg?v=20260529-media-restore",Jazz Radio - Swing
-https://live.radioart.com/fSwing.mp3
-#EXTINF:-1,ROKiT Classic Jazz Central Radio
-http://149.255.59.3:8027/
-#EXTINF:-1,Christmas Jazz
-http://listen.radionomy.com/ChristmasJazz
-#EXTINF:-1,Big Band Classics
-http://listen.radionomy.com:80/BigBandClassics
 #EXTINF:-1,Radio Caprice - Electo Swing / Swing House - 48 - The Russian Federation - electro swing
 http://213.141.131.10:8002/electroswing
 #EXTINF:-1,202.FM - Big Band
-https://onlineradiobox.com/json/us/202bigband/play?platform=web
 #EXTINF:-1,swingsalon
 http://swingsalon.stream.laut.fm/swingsalon
 #EXTINF:-1,classicempire-radio
-https://stream.laut.fm/classicempire-radio?ref=radiode
+https://classicempire-radio.stream.laut.fm/classicempire-radio?ref=radiode&t302=2026-08-09_15-51-43&uuid=e340ca6d-1b78-4ad0-aac4-3f9f98eacc97
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38514/logo_PLx4UAiaOL.jpg?v=20260529-media-restore",Radio Music Club
-https://sonic1-rbx.cloud-center.ro/8024/stream
-#EXTINF:-1,Anyway Smooth
-https://greeksonic.alphaserver.gr/8020/stream
-#EXTINF:-1,British Home Front Radio Service Listen live
-https://securestreams6.autopo.st:2215/server
-#EXTINF:-1,Virtual Argentino
-https://vps-6de10815.vps.ovh.ca/8112/
-#EXTINF:-1,Radio Djerdan radio
-https://stream.zeno.fm/wrs0a5w13k8uv
-#EXTINF:-1,Have Gun Will Travel  Old Time Radio
-http://199.233.238.26:8004/stream
 #EXTINF:-1,plaste und elaste
-http://plaste_und_elaste.stream.laut.fm/plaste_und_elaste
-#EXTINF:-1,Estrella Digital
-https://s2.free-shoutcast.com/stream/18286
+http://plasteundelaste.stream.laut.fm/plaste_und_elaste?uuid=65286ce2-7b5a-5c3c-5f9a-13ab18caddbc&t302=2026-08-09_17-51-44
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/101107/logo_wescVD4ALV.jpg?v=20260529-media-restore",GotRadio - Big Band Land
 https://pureplay.cdnstream1.com/6004_64.aac/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26951/logo_Yyecl5BXH9.jpg?v=20260529-media-restore",Radio Aphilia
-https://stream.laut.fm/aphilia
-#EXTINF:-1,Radio kcea 89 1 fm
-https://vofile.ru/usa/KCEA/icecast.audio
-#EXTINF:-1,Bombshells Radio
-https://streamingv2.shoutcast.com/Bombshells
+https://aphilia.stream.laut.fm/aphilia?t302=2026-08-09_15-51-44&uuid=9211a512-d43b-4a32-92e8-4a3a5de93a53
 #EXTINF:-1,jazz
 http://jazz.stream.laut.fm/jazz
 #EXTINF:-1,Bellissima Jazz
-https://listen.openstream.co/6091/audio
-#EXTINF:-1,'AddictedToRadio.com - Swingin Christmas'
-http://208.77.21.31:20630
-#EXTINF:-1,FluxFM - Berlin Bohème Listen live
-https://fluxfm.streamabc.net/flx-salonflux-mp3-320-6048100
-#EXTINF:-1,Hits 1 latina Listen live
-https://radio10.pro-fhi.net/live/Hits1latina?ver=600898
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/60252.v20.png",Radio Djerdan 
-https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_36299_stream_503780841
+https://strw3.openstream.co/2174?aw_0_1st.collectionid%3D6091%26stationId%3D6091%26publisherId%3D2198%26k%3D1786290704
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35513/logo_paB88qtx4W.jpg?v=20260529-media-restore",Jazzy Cool
-https://radio.musorok.org/listen/jazzycool/jazzycool.mp3
 #EXTINF:-1,balticdance
 http://balticdance.stream.laut.fm/balticdance
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/90422/logo_Jbr6Tm7aHP.png",Fiesta Grupera Zacualpan Radio
-https://stream.zeno.fm/bqttks3rmrhvv.mp3
-#EXTINF:-1,WJZP Radio
-http://s2.radioboss.fm:8075/stream
-#EXTINF:-1,Vanilla Radio - Fresh Flavors
-https://stream.vanillaradio.com:8028/live
-#EXTINF:-1,The Lounge Sound
-http://streams.theloungesound.ca:8059/stream/1/
-#EXTINF:-1,The Uk 1940s Radio Staion
-http://uk.my-shoutcast.net/tunein.php/theuksra/stream/1playlist.pls
-#EXTINF:-1,beejazzy
-https://radio.streemlion.com:2185/stream
-#EXTINF:-1,Radiotunes - Café de Paris
-http://www.radiotunes.com/cafedeparis
-#EXTINF:-1,Swingin' 105
-https://ice42.securenetsystems.net/S105
 #EXTINF:-1,Gdynia Radio
-https://onlineradiobox.com/json/pl/gdynia/play?platform=web
-#EXTINF:-1,Groove FM
-https://onlineradiobox.com/json/nz/groove1077/play?platform=web
+http://51.255.8.139:8064/;
 #EXTINF:-1,pulp-fm
-https://stream.laut.fm/pulp-fm?ref=radiode
+https://pulp-fm.stream.laut.fm/pulp-fm?ref=radiode&t302=2026-08-09_15-51-45&uuid=b086fc87-b83e-441e-8da1-8b47525c1d11
 #EXTINF:-1,Couleurs Jazz Radio
 https://listen.radioking.com/radio/127546/stream/167344
 #EXTINF:-1,Rockin 247 Radio
 https://s4.radio.co/s0f3a44a66/listen
-#EXTINF:-1,011.FM - Holiday Swing
-https://listen.011fm.com/2687_192.mp3
-#EXTINF:-1,JAZZRADIO.com - Swing &ampamp Big Band
-http://www.jazzradio.com/swingnbigband
 #EXTINF:-1,Radio 1920 Listen live
-https://stream.laut.fm/radio1920?ref=radiode
+https://radio1920.stream.laut.fm/radio1920?ref=radiode&t302=2026-08-09_15-51-46&uuid=2333531b-0092-4166-b193-424cbb9d32c7
 #EXTINF:-1,Swing FM - La radio du Hot-Club de Limoges
 http://swingfm.ice.infomaniak.ch/swingfm-128.mp3
-#EXTINF:-1,1940s Radio Station
-http://199.189.111.28:8012/
 #EXTINF:-1,181.FM - Christmas Swing - 128 - The United States Of America - christmas music - jazz - swing - waynesboro
-http://www.181.fm/stream/pls/181-xswing.pls
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94454/logo_nAypIsDCUW.jpg?v=20260529-media-restore",DS4U Radio
-http://radio.ds4u.com:8000/ds4u
-#EXTINF:-1,1A Christmas
-http://1a-christmas.radionetz.de/1a-christmas.mp3
+https://www.181.fm/stream/pls/181-xswing.pls
 #EXTINF:-1,Jazz Radio - Saxo
-https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
 #EXTINF:-1,Swingtime
-https://stream.laut.fm/swingtime
-#EXTINF:-1,The UK 1940s Radio Station Server 2 - 1920s -1930s 1940s
-https://stream.rcast.net/13974
-#EXTINF:-1,RGS - Radio Giornale di Sicilia Listen live
-https://onair15.xdevel.com/proxy/rgs?mp=/
-#EXTINF:-1,WMKV 89.3 FM 
+https://swingtime.stream.laut.fm/swingtime?t302=2026-08-09_15-51-46&uuid=02de3cbd-4412-4bc8-a19e-51089c347982
+#EXTINF:-1,WMKV 89.3 FM
 https://ice7.securenetsystems.net/WMKVM?
-#EXTINF:-1,AM1700 - Indiana Community Radio Project (INC
-http://listen.shoutcast.com/am1700-indianacommunityradioproject-incrporg-
-#EXTINF:-1,KKJZ - KJAZZ 88.1 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KKJZFMAAC.aac
 #EXTINF:-1,RetroSwing FM
 https://mars.streamerr.co/8108/stream
-#EXTINF:-1,Swissradio.ch Jazz Swing
-http://relay.publicdomainproject.org/jazz_swing.mp3
 #EXTINF:-1,jazz world
-http://jazz_world.stream.laut.fm/jazz_world
-#EXTINF:-1,Starz1Radio
-https://stream.rcast.net/2876
-#EXTINF:-1,Radio -Alt-Berlin
-http://listen.radionomy.com:80/Radio-Alt-Berlin
+http://jazzworld.stream.laut.fm/jazz_world?t302=2026-08-09_17-51-47&uuid=38578a5c-364d-5456-63da-22d6c4bce4e3
 #EXTINF:-1,Classicempire Radio
 https://classicempire-radio.stream.laut.fm/classicempire-radio
-#EXTINF:-1,Linas Jazz Webradio
-https://stream.votreradiosurlenet.eu/linasjazz.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97757/logo_5Lj52JVTOG.jpg?v=20260529-media-restore",Rockin 247 Radio
-https://s4.radio.co/s0f3a44a66/listen
 #EXTINF:-1,late night boys
-http://late_night-boys.stream.laut.fm/late_night-boys
+http://latenight-boys.stream.laut.fm/late_night-boys?t302=2026-08-09_17-51-47&uuid=de5c9686-820c-6dea-4a61-96523af713a4
 #EXTINF:-1,Jazz Radio -  Electro Swing
 https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3
 #EXTINF:-1,Bellissima Relax
-https://listen.openstream.co/3607/audio
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50395/logo_pSSfaZ7JVA.jpg?v=20260529-media-restore",Malvern Radio JRS - Pumpkin FM
-https://cast2.asurahosting.com/proxy/malvernradiojrs/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/98585/logo_hSbrdjpGso.jpg?v=20260529-media-restore",Precious Radio Hip-Hop
-https://preciousradio.net/proxy/hiphop/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90635/logo_P0goWZm4hL.jpg?v=20260529-media-restore",Radio Red Espacio
-https://s5.voscast.com:9755/stream
+https://strw3.openstream.co/816?aw_0_1st.collectionid%3D3607%26stationId%3D3607%26publisherId%3D840%26k%3D1786290707
 #EXTINF:-1,FunHouse Radio USA
-https://streaming.live365.com/a02627
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90422/logo_ztrQdNQSYQ.jpg?v=20260529-media-restore",Fiesta Grupera Zacualpan
-https://stream.zeno.fm/bqttks3rmrhvv.mp3
-#EXTINF:-1,WAAY Internet Radio
-http://199.195.194.94:8009/
+https://das-edge11-live365-dal03.cdnstream.com/a02627
 #EXTINF:-1,wa radio
 http://wa-radio.stream.laut.fm/wa-radio
-#EXTINF:-1,Capital Community Radio - Perth
-https://www.liveradio.es/http://ic2489.c1788.fast-serv.com/stream
-#EXTINF:-1,Martini In The Morning
-http://mitm.streamguys.us:80
 #EXTINF:-1,Radio Sausalito
 http://quarrel.str3am.com:7090/live
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-monogogocom-smooth-jazz-plus-logo.jpg",Radio Monogogo.com - Smooth Jazz Plus
-http://184.164.135.70:8034/;
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/51827/logo_FrP4ghTcGT.jpg?v=20260529-media-restore",Vanilla Radio Smooth Flavors
 https://smooth.vanillaradio.com:8032/live
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27293/logo_RSj3DAuENk.jpg?v=20260529-media-restore",Swingtime
-https://stream.laut.fm/swingtime
-#EXTINF:-1,Alban Bourdy
-http://listen.radionomy.com:80/AlbanBourdy
+https://swingtime.stream.laut.fm/swingtime?t302=2026-08-09_15-51-48&uuid=6fde219b-d5e8-4708-a123-542364eaf857
 #EXTINF:-1,GotRadio - Musical Magic
 http://gr02.cdnstream.com:8540/
-#EXTINF:-1,MITM 64 AAC- V
-http://s4.voscast.com:7464
-#EXTINF:-1,1940s Radio
-https://onlineradiobox.com/json/uk/1940sradiocom/play?platform=web
-#EXTINF:-1,GregRadio 1650: The Great American Songbook
-https://c21.radioboss.fm:8055/stream
 #EXTINF:-1,GotRadio - Big Band Land
-https://pureplay.cdnstream1.com/6004_64.aac/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46446/logo_4Y0RzhLJE1.jpg?v=20260529-media-restore",Jazz Radio -  Electro Swing
-https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3
 #EXTINF:-1,Crooner Radio Julio Iglesias
 https://croonerradio_julioiglesias.ice.infomaniak.ch/croonerradio-julioiglesias-midfi.mp3
 #EXTINF:-1,Radio 1Jazz.ru - Swing & Big Band
 https://streams.calmradio.com:7728/stream
-#EXTINF:-1,Honkytonk Hootenanny  Old School Country Style
-http://199.195.194.140:8069/listen.pls
-#EXTINF:-1,Retro 104 Oldies 
-https://kathy.torontocast.com:2675/stream
-#EXTINF:-1,Coast FM Tenerife South
-https://stream.rcast.net/11529
-#EXTINF:-1,Radio sausalito
-https://www.liveradio.es/http://radiosausalito.org/128k
-#EXTINF:-1,Rememberwhenradio
-http://192.81.248.32:8192/stream/1
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27702/logo_GlPdMvXjRn.jpg?v=20260529-media-restore",Classicempire Radio
-https://classicempire-radio.stream.laut.fm/classicempire-radio
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52365/logo_gp2ri7i52b.jpg?v=20260529-media-restore",Radio Art - Swing
-https://air.radioart.com/fSwing.mp3
-#EXTINF:-1,ChuckU Sentimental Journey
-https://listen.radionomy.com/chuckusentimentaljourney.m3u
-#EXTINF:-1,Puget Sound FM radio
-http://ca.radioboss.fm:8039/stream
-#EXTINF:-1,Vastenavend 2017
-http://listen.shoutcast.com/vastenavend2017
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52365/logo_EiCBQ1n8HT.png",Radio Art - Swing
-https://air.radioart.com/fSwing.mp3
-#EXTINF:-1,Nova 106 - 0 - Greece - acid - blues - disco - drum&bass - electro - ethnic - funk - jazz - latin - rock - swing
-http://relay.publicdomainradio.org/jazz swing.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96178/logo_pBraUTTZ4U.jpg?v=20260529-media-restore",WOKEmemories
 https://puma.streemlion.com:3825/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97412/logo_HUJGTr0qus.jpg?v=20260529-media-restore",WLVN Radio
-https://streams.radio.co/s7c3bc42bf/listen
-#EXTINF:-1,J-Club Bandstand Radio
-https://igor.torontocast.com:3220/
-#EXTINF:-1,Big Blue Swing Com 32kbit Low Bandwidth Stream
-http://www.bigblueswing.com:8004/stream/1
 #EXTINF:-1,bluegrassjamboree
 http://bluegrassjamboree.stream.laut.fm/bluegrassjamboree
 #EXTINF:-1,Jazz Club Bandstand
 https://cast1.torontocast.com:2060/.mp3
-#EXTINF:-1,JAZZ SMOOTH SWING - radio.musicdays.pl
-http://178.32.204.100:7500
-#EXTINF:-1,ROC FM WWE MUSIC
-https://stream.rcast.net/69661
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100279/logo_PqqMbRMAzz.jpg?v=20260529-media-restore",The Improv Cafe'
-https://stations.radio-host.com/proxy/theimprovcafe/stream
-#EXTINF:-1,Radio Red Espacio
-https://s5.voscast.com:9755/stream
-#EXTINF:-1,Nostalgie Jazz
-https://scdn.nrjaudio.fm/adwz1/fr/30641/mp3_128.mp3?origine=radio.net
-#EXTINF:-1,Klassik Radio - Swinging Christmas - 0 - Germany - christmas - swing
-https://live.m40radio.fr/listen/m40-electro-swing/m40-electro-swing-128.mp3
-#EXTINF:-1,Exclusively 40's Listen live
-https://streaming.exclusive.radio/er/1940/icecast.audio
-#EXTINF:-1,Big Blue Swing
-http://www.bigblueswing.com:8002/stream/1
-#EXTINF:-1,The UK 1940s Radio Station 1920s 1930s 1940s
-https://stream.rcast.net/449
 #EXTINF:-1,K 50 P
-https://stream.laut.fm/k50p?ref=radiode
-#EXTINF:-1,- 0 N - Jazz on Radio
-https://0n-jazz.radionetz.de/0n-jazz.aac
-#EXTINF:-1,Big Blue Swingcom32Kbit LOW BANDWIDTH STREAM
-http://209.236.126.18:8004/
+https://k50p.stream.laut.fm/k50p?ref=radiode&t302=2026-08-09_15-51-51&uuid=3fa520ba-7df2-4f9b-bef1-1cf759ae795e
 #EXTINF:-1,CLASSICEMPIRE RADIO
 https://classicempire-radio.stream.laut.fm/classicempire-radio?ref=web-app&ampstart_time=1590898995822&ampt302=2020-05-31_06-23-16&ampuuid=ccd8459e-5ef3-4894-ae12-1db087e7cc53
 #EXTINF:-1,WZQR.FM Big Band
-https://das-edge09-live365-dal03.cdnstream.com/a21353
-#EXTINF:-1,Monogogo.com - Smooth Jazz Plus radio
-http://184.164.135.70:8034/
+https://das-edge12-live365-dal02.cdnstream.com/a21353
 #EXTINF:-1,Radio Clasic Jazz
-https://onlineradiobox.com/json/ro/clasicjazz/play?platform=web
+https://live.radioclasic.com/listen/radio_clasic_jazz/live.mp3
 #EXTINF:-1,Crooner Radio Dean Martin
 https://croonerradio_deanmartin.ice.infomaniak.ch/croonerradio-deanmartin-midfi.mp3
-#EXTINF:-1,Radio-RDB
-https://onlineradiobox.com/json/de/rdb/play?platform=web
 #EXTINF:-1,JUKEJOINT
-https://stream.laut.fm/jukejoint?ref=radiode
+https://jukejoint.stream.laut.fm/jukejoint?ref=radiode&t302=2026-08-09_15-51-52&uuid=36fd585a-e4f7-4ca0-83e2-43c28a5dd605
 #EXTINF:-1,Western Swing Music - Caprice Radio - 320 - The Russian Federation - country - western swing
 http://79.120.12.130:8000/westernswing
-#EXTINF:-1,Golden Days Radio
-https://1.ice1.firststreaming.com:8000/gndr_fm.aac
-#EXTINF:-1,NJS RADIO - New Jack Swing
-https://stream.rcast.net/15128
 #EXTINF:-1,The Jazz Century
-https://streaming.live365.com/a16998
+https://das-edge62-live365-dal03.cdnstream.com/a16998
 #EXTINF:-1,limeloungefm
 http://limeloungefm.stream.laut.fm/limeloungefm
 #EXTINF:-1,WOKEmemories
-https://puma.streemlion.com:3825/stream
 #EXTINF:-1,Aminosound Listen live
-https://stream.laut.fm/aminosound
+https://aminosound.stream.laut.fm/aminosound?t302=2026-08-09_15-51-53&uuid=d89fc682-ada9-49fb-b869-a41b8ae17783
 #EXTINF:-1,92.3 The Fox
-https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
-#EXTINF:-1,Gdynia Radio 
+https://19273.live.streamtheworld.com/KOFXFMAAC.aac?dist=onlineradiobox
 http://51.255.8.139:8064/stream/1/
 #EXTINF:-1,Crooner Radio Elvis Presley
 https://croonerradio_elvispresley.ice.infomaniak.ch/croonerradio-elvispresley-midfi.mp3
-#EXTINF:-1,Malvern Radio JRS - Jazz, Ragtime, Swing - 1930s, 1940s & 1950s (Pumpkin FM, OTRN)
-https://stream.rcast.net/2698
 #EXTINF:-1,Deleted 348
 http://listen.streamonomy.com/radioswingworldwide
-#EXTINF:-1,Rat Patrol Radio - Wartime Tunes!
-http://listen.radionomy.com:80/RatPatrolRadio-WartimeTunes-
-#EXTINF:-1,Deep Dance Radio Listen live
-https://igor.torontocast.com:1295/server
-#EXTINF:-1,Texas Country Music Radio
-https://s2.radio.co/s48275019e/listen
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32258/logo_uRcGGlZXg2.jpg?v=20260529-media-restore",Swing Salon
-https://swingsalon.stream.laut.fm/swingsalon
-#EXTINF:-1,Electro Swing Радио - RadioSpinner Listen live
-https://live.radiospinner.com/elswing-64
 #EXTINF:-1,WRJR Real Jazz Radio
 https://s3.radio.co/s851f21496/listen
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47342/logo_ttdX30sqdW.jpg?v=20260529-media-restore",Jazz Radio - Sunset
-https://jzr-sunset.ice.infomaniak.ch/jzr-sunset.mp3
-#EXTINF:-1,Exclusively Glenn Miller Listen live
-https://streaming.exclusive.radio/er/glennmiller/icecast.audio
 #EXTINF:-1,Vanilla Radio Smooth Flavors
-https://smooth.vanillaradio.com:8032/live
 #EXTINF:-1,Radio Caprice Western Swing - 48 - The Russian Federation - country - western swing
 http://79.120.12.130:8002/westernswing
-#EXTINF:-1,G.I. Jive Radio
-https://das-edge17-live365-dal02.cdnstream.com/a21441
 #EXTINF:-1,Jazz Radio Swing FM
-https://swingfm.ice.infomaniak.ch:80/swingfm-128
-#EXTINF:-1,Radio Deep Music
-https://stream.zeno.fm/aan9620xd5zuv
-#EXTINF:-1,http://www.swinglatinosfm.com
-https://eu1.lhdserver.es:9033/stream
+https://swingfm.ice.infomaniak.ch:80/swingfm-128#PLAYLIST:Online radio: SWING Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403760188.png" group-title="SWING Radio", Electro Swing Radio - 192 kbit/s
+http://streamer.radio.co/s2c3cc784b/listen
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403760188.png" group-title="SWING Radio", SwingingRadioEngland.3 - 128 kbit/s
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1584725890.jpg" group-title="SWING Radio", KDKI - 96 kbit/s
+http://204.12.238.138:14800/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="SWING Radio", 011.FM - Holiday Swing - 192 kbit/s
+http://listen.011fm.com:80/stream44
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1561136749.jpg" group-title="SWING Radio", Electro Swing by Jazz Radio {Powered by Infomaniak.Net} - 128 kbit/s
+https://jazzradio.ice.infomaniak.ch/jazz-wr04-128.mp3

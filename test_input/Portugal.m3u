@@ -1,2001 +1,506 @@
 #EXTM3U
 #EXTINF:-1,Rádio Amparo
 https://servidor23.brlogic.com:7470/live
-#EXTINF:-1,Rádio  Portugal
-https://stream.zeno.fm/vdw9sk7q2zhvv
-#EXTINF:-1,Radio Rock of Ages – Trofa – PT-13
-https://streamingv2.shoutcast.com/rocks-of-ages
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-princesa-zita-623301-logo.jpg",Radio Princesa Zita
-http://46.4.94.39:9334/;
 #EXTINF:-1,Rádio Renascença – PT-04
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCAAAC_SC?pname=tdwidgets&dist=triton-widget
-#EXTINF:-1,RadioSantaMariaDaFeira
-https://ssl.stmxp.net:7224/
+https://25643.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC?pname=tdwidgets&dist=triton-widget
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-diario-de-noticias-madeira-logo.jpg",Radio Diário de Notícias Madeira
 http://centova.radio.com.pt:9470/stream/;
-#EXTINF:-1,Maison dApollon
-https://stream.zeno.fm/kfdg5w9tzejuv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-radical-fm-626688-logo.jpg",Radio Radical fm
-http://46.4.94.39:9794/;
-#EXTINF:-1,DJOPTIX
-https://stream.zeno.fm/29vtf1n12octv
-#EXTINF:-1,Radio dos Anjos
-http://136.243.71.35:9768/
-#EXTINF:-1,Radio Beira Interior
-http://centova.radios.pt:9462/
-#EXTINF:-1,RUA FM 102.7 - Portugal - Faro
-https://centova.radio.com.pt/proxy/037?mp=/stream
 #EXTINF:-1,Radio Ribatejo Mix
 https://sonic.servsonic.com/8034/
-#EXTINF:-1,Grupo Latina - Boavista
-https://stream.zeno.fm/ae2y1kk6sm0uv
-#EXTINF:-1,goncalvesd
-https://stream.zeno.fm/geah4zy3yf9uv
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3AQA2Y.png",91 FM Rádio
-http://95.217.75.38:9878/stream
 #EXTINF:-1,RFM - Dance IT - Portugal - Lisbon
 https://27903.live.streamtheworld.com:443/DANCEONTHEFLOORAAC.aac
-#EXTINF:-1,Radio Som de Mais
-https://topradio.uno:8069/stream
 #EXTINF:-1,Terra Quente FM
 http://centova.radio.com.pt:9402/
-#EXTINF:-1,Rádio Replay
-https://stream.zeno.fm/22ythmfqyhhvv
-#EXTINF:-1,radio galaxy
-http://46.4.94.39:9472/
-#EXTINF:-1,11ºD Multimédia
-https://stream.zeno.fm/cyfih68dpootv
-#EXTINF:-1,multimediaplay_joãopedro
-https://stream.zeno.fm/y4uiilzgz4wvv
-#EXTINF:-1,RadioGeek
-https://stream.zeno.fm/c2231ny2es8uv
 #EXTINF:-1,RFM Toca Portugal
 https://25443.live.streamtheworld.com/RFM_PORTUGALAAC.aac
 #EXTINF:-1,Rádio Linear 104.6 FM
 http://nl.digitalrm.pt:8184/stream
-#EXTINF:-1,Burning Spear - Selajahfary.com
-https://stream.zeno.fm/bx0mbtut2f8uv
-#EXTINF:-1,Select Eletronic FM
-https://stream.zeno.fm/mkbrnbzbgjztv
-#EXTINF:-1,Smooth FM (AAC) 
+#EXTINF:-1,Smooth FM (AAC)
 https://stream-icy.bauermedia.pt/smooth.aac
-#EXTINF:-1,Radio Clube De Monsanto
-http://centova.radio.com.pt:9424/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37862/logo_FYpzMn9Wmj.png",Antenna Web Viseu Radio
-https://tinyurl.com/AntennaWebViseu
-#EXTINF:-1,Rádio Barreirinha
-http://176.9.43.216:8056/stream
-#EXTINF:-1,Radio Misterio
-http://95.217.75.38:9954/
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37627/logo_foOoC5wlR5.png",Radio Comercial - Made in Portugal
 https://bauermedia.pt/radioStream.aspx?radio=64&amptype=AAC
-#EXTINF:-1,RADIO ANTONIO ROQUE PORTUGAL CANAS DE SENHORIM PORTUGAL A MELHOR MUSICA  VARIADA
-https://stream.zeno.fm/k4hreguw0uhvv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-benfeita-159322-logo.jpg",Radio Rádio Benfeita
-http://50.30.32.210:8084
-#EXTINF:-1,Ayzrus Radio PT
-https://stream.zeno.fm/bkxoxvbmbb5uv
-#EXTINF:-1,radioconquistador2014
-http://148.251.253.98:9832/
-#EXTINF:-1,Celorico da Beira web rádio Listen live
-https://cast.redewt.net:9502/server
-#EXTINF:-1,Veranuno
-https://stream.zeno.fm/mxbtlbcbocgtv
 #EXTINF:-1,Rádio Horizonte - Açores
 https://horizonte-radiohorizonte.radioca.st/stream
-#EXTINF:-1,RADIO ROMANCE E PAIXAO
-https://stream.zeno.fm/402xxz0hk98uv
-#EXTINF:-1,4Drive Jazz radio
-https://radio.streemlion.com:1155/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37966/logo_UvfHtuB3vm.jpg?v=20260529-media-restore",Radio Marinhais
 https://radios.justweb.pt/8026/stream
-#EXTINF:-1,Recipe This Podcast
-http://alpha.podcasttoradio.com/331085
-#EXTINF:-1,Radio Sons Ria De Aveiro
-https://stream.zeno.fm/3xv5x812tm0uv
-#EXTINF:-1,Rdio Metropolitana Porto
-http://176.9.43.216:8046/live?
-#EXTINF:-1,RadioRomance FM
-https://s5.stmxp.net:8050/
 #EXTINF:-1,Radio Nova Era radio
 http://centova.radios.pt:9478/listen.pls
-#EXTINF:-1,M80 Rádio – Pop
-https://mcrwowza8.mcr.iol.pt/m80pop/m80pop.stream/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-castrense-logo.jpg",Radio Castrense
 http://centova.radio.com.pt:8431/stream/;
-#EXTINF:-1,programas da radio antonio roque portugal
-https://stream.zeno.fm/aus11yuw0uhvv
-#EXTINF:-1,Antena Mirobriga Radio
-http://5.9.14.150:8320/stream
-#EXTINF:-1 tv-logo="",Radio Camarinha Neto
-http://46.4.94.39:9424/;
 #EXTINF:-1,Web Radio Acoriana
 https://sslradio.servsonic.com:7013/stream
-#EXTINF:-1,00'S RFM 
-https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac
-#EXTINF:-1,FLABBERGASTED
-https://stream.zeno.fm/bf79d6c82d0uv
 #EXTINF:-1,Rádio Antena Tejo – PT-15
-https://player.srvaudio.com.br/player-ssl/11418/
-#EXTINF:-1,doublesessions
-https://stream.zeno.fm/mz87zucc898uv
-#EXTINF:-1,Rdio Botaru
-http://213.239.218.99:7022/stream
-#EXTINF:-1,Carrina radio station
-https://stream.zeno.fm/39pwhke1es8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37841/logo_49ULOoVPXv.jpg?v=20260529-media-restore",Portugal Radio Fm
-https://stream.zeno.fm/fmgvqgxtdgkuv
+https://stm21.srvaudio.com.br:11418/stream
 #EXTINF:-1,Iris FM
 http://centova.radios.pt:8529/stream
-#EXTINF:-1,RADIO_BRB_MATOSINHOS
-https://stream.zeno.fm/xx66fstvz08uv
-#EXTINF:-1,the dragons fight
-https://stream.zeno.fm/uw64yyhgsc9uv
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37736/logo_ZXFmQb1kvC.png",Radio top80 pt
-https://stm1.midiahosts.com:6672/stream
-#EXTINF:-1,A Voz da Invicta
-http://78.129.224.15:13619/
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A36YM.png",Radio Costa d'Oiro
-https://centova.radios.pt/proxy/559?mp=/stream/1/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37830/logo_E1e7Kl8dWZ.jpg?v=20260529-media-restore",RFM Jazzy
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_JAZZYAAC.aac
-#EXTINF:-1,Antena Web - Canal 63
-https://stream.zeno.fm/kxqpm1b7ay8uv
-#EXTINF:-1,Soft Radio Uk
-https://stream.zeno.fm/tobnzqsvykzvv
+https://29103.live.streamtheworld.com/RFM_JAZZYAAC.aac
 #EXTINF:-1,Rádio Terras de Lanhoso radio
 https://s1.stmxp.net:7028/stream
-#EXTINF:-1,Radio Metal On Total
-http://radiometalon.com:8050/total128mp3
-#EXTINF:-1,IRLFM - International Radio L FM
-http://stream.zeno.fm/fc8f7kaz5bhvv
 #EXTINF:-1,Music Cathedral
-https://streaming.radionomy.com/MusicCathedral
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio_ondas_lethes_rio_lima-616928-logo.jpg",radio_ondas_lethes_rio_lima
-http://198.50.197.90:9860/;
-#EXTINF:-1,M80 – Soul – Lisbon – Lisbon District – PT
-https://media2.mcr.iol.pt/wrm80/m80soul.stream/playlist.m3u8
-#EXTINF:-1,Seguidor Live
-https://ec4.yesstreaming.net:1750/stream
-#EXTINF:-1,Rádio 100% Love Songs
-https://play3.radioregional.pt/stream/9/
-#EXTINF:-1,Rádio test
-https://stream.zeno.fm/91s82zfhffhvv
+https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,TSF Madeira 100.0
 http://centova.radio.com.pt:9470/stream
-#EXTINF:-1,KUL Radio
-http://185.32.188.17:8073/stream
-#EXTINF:-1,Radio Mega Montijo
-https://ssl.hdradios.net:7916/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/salinha_paula_e_oliveira_fianenses-641232-logo.jpg",Radio salinha_paula_e_oliveira_fianenses
-http://195.154.176.199:9350/;
-#EXTINF:-1,MÚSICA DE RÁDIO DANRUI
-https://stream.zeno.fm/qw0mgc9v0p8uv
-#EXTINF:-1,Antena Web - Canal 65
-https://stream.zeno.fm/kzg1re4aby8uv
-#EXTINF:-1,VENDO_PLAYES_HD
-http://94.23.77.130:9974/
-#EXTINF:-1,jovembsk – Lisbon – Lisbon District – PT
-https://node-12.zeno.fm/6t7158qydy8uv?fbclid=IwAR1pxDniWKQsHMIeOFSJgvHsQ_4jCvAf5G32TU6TOwav9-OnzijN829RL9Y&rj-ttl=5&rj-tok=AAABgbEP0YoA40xiyFNP0OlnUQ
-#EXTINF:-1,radio missaõ mundial
-http://94.23.76.235:9968/
-#EXTINF:-1,Radio Amor Fraterno – Águas Santas – PT-13
-https://s5.stmxp.net:8078
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37761/logo_eBciPf84s5.png",Trocadilho FM Radio
-http://stream.zenolive.com/6dvqh3k2xuhvv
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37743/logo_m2X3QcB6nu.png",Radio Top60 Olhão
 https://stm8.xcast.com.br:11992/stream
-#EXTINF:-1,Radio Barreirinha
-http://hts02.kshost.com.br:8904/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37755/logo_xdUtDaw2o3.png",Sociedade Digital Radio
-http://stream.zeno.fm/hmc1ghqv1f9uv
-#EXTINF:-1,Radio Posto Emissor do Funchal – Canal 2 FM 92.0
-https://ssl.evsportugal.net:8308/stream?type=http&#038nocache=4553/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-faustex-portuguese-music-2-logo.jpg",Radio Faustex Portuguese Music 2
 https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s1_35528_stream_784242911;stream.nsv
-#EXTINF:-1,M.O.D.S City
-https://stream.zeno.fm/cxsctywfp8gvv
-#EXTINF:-1,Radio Cubo da Ribeira
-https://listen/radionomy.com/lousaradio
-#EXTINF:-1,Radio Decibel - The Sound of Ibiza Listen live
-https://stream.decibel.nl/ibiza.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-santa-casa-613443-logo.jpg",Radio Rádio Santa Casa
-http://94.23.76.235:9942/;
 #EXTINF:-1,Radio Pico 100.2
 http://centova.radios.pt:9420/stream?type=.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37859/logo_vil0d9cHFD.jpg?v=20260529-media-restore",MRR - Manitu Rock Radio
 https://radio.streemlion.com:4515/stream
-#EXTINF:-1,Mais Oeste Rádio 94.2 FM
-http://centova.radio.com.pt:8515/stream
-#EXTINF:-1,RCCV - Rádio Clube Ciência Viva
-https://stream.zeno.fm/kwvg7ayy6cqtv
-#EXTINF:-1,DOCE BEIJO
-http://46.4.94.39:9854/
-#EXTINF:-1,RADIOSUPERMUNDOPAULOPINTAO
-https://server.vendaslotus.pt:7033/mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-movimento-portugal-637882-logo.jpg",Radio Rádio Movimento Portugal
-http://ca2.rcast.net:8026/;
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37801/logo_wIhL8AKspT.png",Rádio Atividade FM
-http://stream.zeno.fm/zhygaqzskxwvv
-#EXTINF:-1,Sexual
-https://stream.zeno.fm/e7yhrgw05bhvv
-#EXTINF:-1,Radio Comercial  One Hit Wonders
-https://mcrwowza7.mcr.iol.pt/rchit/rchit.stream/playlist.m3u8
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nortenha-637273-logo.jpg",radio nortenha
-http://46.4.94.39:9740/;
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XR4T8.png",Rádio Caria
-http://centova.radios.pt:8521/stream.blea
-#EXTINF:-1,Groove Radio Portugal
-http://europa.shoutca.st:8648/stream/1/
-#EXTINF:-1,RFM FODA
-https://stream.zeno.fm/as9yr5kx908uv
-#EXTINF:-1,Bigfuffy Music
-https://stream.zeno.fm/ygtsptp2im6uv
 #EXTINF:-1,W.R.P FM – PT
 https://audio.serv.pt/9312/stream
-#EXTINF:-1,RADIO AMOR ANA DA NOITE 2 
-http://46.4.94.39:9790/
-#EXTINF:-1,TOTAL FM
-https://stream.zeno.fm/atz4mezx7k0uv
-#EXTINF:-1,Eurovision Song Contest Radio
-http://icepool.silvacast.com/ESCRADIO.mp3
-#EXTINF:-1,Rádio Moderna Portugal – Lisbon – Lisbon District – PT
-https://s5.stmxp.net:7037
-#EXTINF:-1,DISCOTECADNA
-https://stream.zeno.fm/e7ynk9mkk98uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37772/logo_bMIax7Ct7d.jpg?v=20260529-media-restore",Radio F
-https://centova.radio.com.pt/proxy/579?mp=%2Fstream
-#EXTINF:-1,Rádio Alpendorada
-http://radio.radioalpendorada.net:9316/stream
-#EXTINF:-1,Rádio Comercial Listen live
-https://mcrscast1.mcr.iol.pt/comercial.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37831/logo_oma5K4rdZ6.png",RFM Latinas Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_LATINAS.mp3
-#EXTINF:-1,Remember FM
-http://176.9.43.216:8449/stream/
-#EXTINF:-1,ATOS FM
-https://stream.zeno.fm/ccuceh8t008uv
-#EXTINF:-1,RADICAL FM
-https://stream.zeno.fm/d20bmvrs4a0uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-sucesso-portugal-logo.jpg",Radio Rádio Sucesso Portugal
-http://freeuk27.listen2myradio.com:29967/;
-#EXTINF:-1,RadioRuca
-https://stream.zeno.fm/um0d1wpmns8uv
-#EXTINF:-1,Radio Azul 98.9 FM
-http://sado.radioazul.pt:8000/live
+https://25583.live.streamtheworld.com/RFM_LATINAS.mp3
 #EXTINF:-1,Rádio Marcoense FM - Portugal - Marco de Canaveses
 https://streaming.shoutcast.com/marcoense-fm
-#EXTINF:-1,Rádio Província – 100.8 FM – Anadia – Aveiro District – PT
-https://nl.digitalrm.pt:8138/stream
-#EXTINF:-1,Tropical FM
-http://servidor19-1.brlogic.com:7488/live
-#EXTINF:-1,Rádio Regional
-http://176.31.248.14:22594/
-#EXTINF:-1,RES.FM
-http://109.71.41.6:8139/stream
-#EXTINF:-1,Caima FM - 97.1
-https://stream.zeno.fm/3bska4zkkuquv
 #EXTINF:-1,Radio FM Online
 https://ssl.ndvendas.eu:9932/stream
-#EXTINF:-1,Radio Nostalgia Porto
-http://centova.radios.pt:8435/stream?type=.mp3
-#EXTINF:-1,Rádio AEMM
-https://stream.zeno.fm/i4h26gvtah5tv
-#EXTINF:-1,Radio Clube de Monsanto
-https://centova.radio.com.pt/proxy/424?mp=/stream
 #EXTINF:-1,Rádio Clube Asas do Atlântico
 http://centova.radio.com.pt:9544/stream
-#EXTINF:-1,RUC Radio
-http://radio.cesumar.br:8000/
-#EXTINF:-1,Rádio Clube da Meda 96.6 FM
-http://centova.radio.com.pt/proxy/493?mp=/stream
-#EXTINF:-1,Radio Cristo Digital
-https://stream-55.zeno.fm/jgosw66ywhquv
-#EXTINF:-1,LordFader_Soundworks
-http://listen.shoutcast.com/lordfader-soundworks
-#EXTINF:-1,DJ.Sets
-https://stream.zeno.fm/9m1gvvayz08uv
-#EXTINF:-1,Rádio Voz do Douro
-http://46.105.172.166:9968/
 #EXTINF:-1,Radio Vone
 http://noasrv.caster.fm:10028/live
-#EXTINF:-1,AZFM – Azeméis FM – 89.7 FM – Oliveira de Azeméis – Aveiro District – PT
-http://azfm.no-ip.biz:8080/
-#EXTINF:-1,Rádio Marmeleira Portugal
-https://stream.zeno.fm/f60a3gtaya0uv
-#EXTINF:-1,Rádio Bisas
-http://209.126.127.202:8133/
-#EXTINF:-1,Radio Algarve1
-http://88.198.72.46:9942/
-#EXTINF:-1,Radioexplosaomusical
-https://stream.zeno.fm/zt7erzks2p8uv
-#EXTINF:-1,Mekoo And Miike Post punk Shosegaze 80s VOL-9
-https://stream.zeno.fm/gw2ntc3wezzuv
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37777/logo_JND4R7V6ZW.png",Top FM Radio
-http://5.9.71.122:8420/stream
-#EXTINF:-1,Rádio Sensações – Lisbon – Lisbon District – PT
-https://ssls.stmxp.net:8000/stream
 #EXTINF:-1,Radio Marginal  radio
 http://centova.radios.pt:8499/listen.pls
 #EXTINF:-1,Radio vila
 https://stream1.svrdedicado.org:7152/stream
-#EXTINF:-1,Radio Gilão FM 94.8
-http://link.radios.pt/gilaofm
-#EXTINF:-1,Planeta Net Rádio
-https://spaudio.servers.pt/8012/stream
-#EXTINF:-1,Radio Metal On - The Heavy
-http://5.135.142.60:8000/radio.aac
 #EXTINF:-1 tv-logo="",Radio RTP 2
-http://www.rtp.pt/play/direto/rtp2
+https://www.rtp.pt/play/direto/rtp2
 #EXTINF:-1,Radio Popular Afifense 87.6 FM
 http://centova.radios.pt:8471/stream
 #EXTINF:-1,Classic Rock Portugal
 https://online.classicrock.pt/?type=http&ampnocache=67
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37563/logo_1VCwQy8c2W.jpg?v=20260529-media-restore",Radio Castrense
 http://centova.radio.com.pt:8431/stream/
-#EXTINF:-1,Rádio Ligação Portuguesa
-https://stream.zeno.fm/m2hw54e0wd0uv
 #EXTINF:-1,RDS Radio
 http://s9.yesstreaming.net:7070/stream
 #EXTINF:-1,Rádio Nova Paivense FM – Castelo de Paiva – Aveiro District – PT
 http://paivense.no-ip.info:8080
-#EXTINF:-1,Web Rádio PRL
-https://stream.zeno.fm/rztuh2e3cf9uv
 #EXTINF:-1,Radio PA News – Torres Vedras – Lisbon District – PT
 http://s2.stmxp.net:7218
 #EXTINF:-1,M80 Radio - Rock
 https://stream-hls.bauermedia.pt/m80rock.aac/playlist.m3u8
-#EXTINF:-1,Rádio AgitÁgueda
-https://s2.radio.co/s28e1a105c/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-terranova-logo.jpg",Radio Rádio Terranova
 http://centova.radios.pt:9404/stream/;
 #EXTINF:-1,Rádio Palmeira – Santa Cruz – Madeira – PT
 http://radiosmadeira.net:8018
-#EXTINF:-1 tv-logo="",Radio as Nove Maravilhas FM
-http://94.23.77.130:9960/;
-#EXTINF:-1,OndaRomantica
-https://stream.zeno.fm/bbwt3czaqm0uv
-#EXTINF:-1,RadioCidadeGaiaPorto
-http://148.251.253.98:9862/
-#EXTINF:-1,Antena 1 - Memória
-https://streaming-live.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
-#EXTINF:-1,Canção Nova
-http://rdportugal-lh.akamaihd.net/i/rdportugal_1@191321/master.m3u8
-#EXTINF:-1,Calom FM Rádio
-https://stream.zeno.fm/h5xdw7sbkuhvv
 #EXTINF:-1,Rádio Estádio – 89.0 FM – PT-13
 http://radios2.justweb.pt:8008/
 #EXTINF:-1,MKLab FM
 https://streamlive1.hearthis.at:8000/26450.ogg?latency=high
-#EXTINF:-1,AMS Rádio – Lisbon – Lisbon District – PT
-http://185.32.188.17:8027/live
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37977/logo_4b4tzKRU6n.png",Radio Gilao
-https://centova.radio.com.pt/proxy/440?mp=%2Fstream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103883/logo_M4bYPVxAY9.jpg?v=20260529-media-restore",Cabriz Radio Sintra
-https://streaming.brol.tech/rtfmlounge
-#EXTINF:-1,MixPlay
-https://stream.zeno.fm/e2msxc1dy38uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37742/logo_fLajnlcDY7.jpg?v=20260529-media-restore",Radio Comercial - By Night
-https://bauermedia.pt/radioStream.aspx?radio=65&type=AAC
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/130811.v2.png",Evolução Radio .PT 
+https://stream-icy.bauermedia.pt/rcsoft.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/130811.v2.png",Evolução Radio .PT
 https://server.vendaslotus.pt:7025/
-#EXTINF:-1,Radio Canto Universal
-http://173.212.203.18:8082/
 #EXTINF:-1,Torres Novas FM
 http://centova.radio.com.pt:8475/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37707/logo_Mj97yRgyHL.png",RadioImpec
 https://stm8.xcast.com.br:8296/stream
 #EXTINF:-1,Radio Vone – Cascais – Lisbon District – PT
 http://noasrv.caster.fm:10028/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37929/logo_IYsokQmMwP.jpg?v=20260529-media-restore",Radio Voz da Planicie
-https://centova.radio.com.pt/proxy/441?mp=%2Fstream
-#EXTINF:-1 tv-logo="",RadioOndasCabreira
-http://198.50.197.90:9942/;
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/96X8WM.png",McM Web Radio 
-https://stream.zeno.fm/6nutyvmkbsquv
-#EXTINF:-1,SUNSHINE – Lisbon – Lisbon District – PT
-https://cast1.lunabroadcasting.net/listen/sunshine/radio.aac
-#EXTINF:-1,Rádio Cidade de Matosinhos
-http://s1.xps-ip.eu:8064/stream.nsv
-#EXTINF:-1,Cabriz Radio
-https://stream.zenolive.com/s440abts4gruv.aac
 #EXTINF:-1,Radio Ansiães
 http://centova.radios.pt:8419/listen.pls
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37786/logo_67XPzndQwV.jpg?v=20260529-media-restore",Radio Musicalidades
-https://stream.zeno.fm/g17h3c1qxk8uv
-#EXTINF:-1,Radio Coracao Do Alentejo
-https://sonic.servsonic.com:7021//stream
-#EXTINF:-1,Radio Hitz
-http://174.142.196.188:8018/stream?type=.mp3
-#EXTINF:-1,RealiteFm95
-https://stream.zeno.fm/rym54euk3qzuv
-#EXTINF:-1,radiobskjovem
-https://stream.zeno.fm/vzycxraydy8uv
-#EXTINF:-1,Tamil Sangam Portugal Radio - Portugal - Lisbon
-https://ptr-unicast2u.radioca.st/stream
-#EXTINF:-1,RMS ONLINE
-https://stream.zeno.fm/dootlzwznkwuv
-#EXTINF:-1,Rádio Pax – PT-02
-https://centova.radio.com.pt/proxy/484?mp=/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vozes-portuguesas-603379-logo.jpg",Radio Vozes Portuguesas
-http://s1.xps-ip.eu:8024/;
 #EXTINF:-1,RadiOeste 97.8 FM
 http://radios2.justweb.pt:8004/stream
-#EXTINF:-1,Radio Breca
-http://radiobreca.ddns.net:8000/live
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/amizades_da_belinha-642824-logo.jpg",Radio amizades_da_belinha
-http://46.4.94.39:9568/;
-#EXTINF:-1,JorgeRock1
-https://stream.zeno.fm/rf1mk140fs8uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-portugal-online-598274-logo.jpg",Radio Portugal Online
-http://212.129.34.67:9824/;
-#EXTINF:-1,80 na pista
-https://stream.zeno.fm/t1oyyvkjupdvv
-#EXTINF:-1,Radio Clube Santa Marta
-http://185.32.188.17:8005/live
-#EXTINF:-1,Radio JFB
-https://stream.zeno.fm/0dp7f4fdqs8uv
-#EXTINF:-1,Rádio Comercial Dance – Lisbon – Lisbon District – PT
-https://media2.mcr.iol.pt/wrcomercial/rcdance.stream/playlist.m3u8
-#EXTINF:-1,Rádio Dom Fuas
-http://link.radios.pt/radiovidigueira
-#EXTINF:-1,Radio Deixem Passar a Musica
-http://s2.stmxp.net:7180/
-#EXTINF:-1,Peter Tosh - Selajahfary.com
-https://stream.zeno.fm/rbtydycu2f8uv
-#EXTINF:-1,RADIOESPERANCA
-https://stream.zeno.fm/u9d85pwr3nhvv
-#EXTINF:-1,Rádio Valdevez – Ponte da Barca – PT-16
-https://centova.radio.com.pt/proxy/508
-#EXTINF:-1,Radio Web Melodia
-http://78.47.96.202:8142/
-#EXTINF:-1,Radio da Borzesinha
-https://stream.zeno.fm/hb38cdf39nhvv
-#EXTINF:-1,RADIO_MARMELAL_PARAISO_DO_ALTO_DOURO
-http://91.134.203.83:9974/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-douro-sul-167937-logo.jpg",Radio Rádio Douro Sul
-http://109.71.41.250:8082/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-portugalfm-640074-logo.jpg",Radio Rádio PortugalFm
-http://167.114.254.147:8104/;
-#EXTINF:-1,Radio Cidade de Matosinhos - Portugal - Matosinhos
-https://s1.stmxp.net:8064/;
-#EXTINF:-1,TESTE AULA
-https://stream.zeno.fm/em3x8rxds2ruv
-#EXTINF:-1,Rádio Comercial 97.4 FM
-http://mcrscast.mcr.iol.pt:80/comercial
 #EXTINF:-1,Radio Clube de Grandola  RCG
 http://centova.radios.pt:9474/
-#EXTINF:-1,Rádio Ideias Listen live
-https://is.ntradio.pt/ideias
 #EXTINF:-1,Rádio Portalegre 100.5 FM
 http://centova.radios.pt:9492/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37640/logo_SQCmADe6HT.jpg?v=20260529-media-restore",Radio Globalmix
-http://stream.zeno.fm/297etft8qs8uv
-#EXTINF:-1,Moon Music
-https://stream.zeno.fm/ec4bnqztqnhvv
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/997GI8.png",Alvor FM
-http://link.radios.pt/alvorfm
 #EXTINF:-1,RDP Internacional radio
 https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37580/logo_d2yXCdfAcR.jpg?v=20260529-media-restore",Hard & Heavy Metal Hits Radio
 https://audio.serv.pt/8040/stream
-#EXTINF:-1,RADIO 4 EVER WOLF
-https://stream.zeno.fm/071fv5nuyd0uv
-#EXTINF:-1,Rádio Calheta Listen live
-https://streamonline.pt/radio/8000/server
-#EXTINF:-1,Rádio Baía
-http://213.136.92.8:8090/
 #EXTINF:-1,Rádio Nova Estrela
 http://sonic.h2.pt:8008/stream
-#EXTINF:-1,The Music Spot
-http://listen.radionomy.com/themusicspotradio
-#EXTINF:-1,Rádio HipHop24
-http://radioritmo.ddns.net:8000/stream.mp3
-#EXTINF:-1,sala de testes da radiovilasjota
-http://s1.stmip.eu:8152/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HWJC16.png",Mega Hits
-https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC.aac
-#EXTINF:-1,Latina1050 Radio Web
-https://stream.zeno.fm/egusm51mmkhvv
-#EXTINF:-1,Rádio Clube de Matosinhos
-https://stream.zeno.fm/380zrvqek5zuv
-#EXTINF:-1,radiolima
-https://stream.zeno.fm/zphuen3x438uv
-#EXTINF:-1,Radio Despertar
-https://radios.vpn.sapo.pt/AO/radio15.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-electro-613609-logo.jpg",Radio Rádio Electro
-http://213.136.88.226:8013/;
+https://29003.live.streamtheworld.com/MEGA_HITSAAC.aac
 #EXTINF:-1,Smooth FM - Blues
 https://stream-icy.bauermedia.pt/smoblues.aac
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37978/logo_7ymKn5F6pj.jpg?v=20260529-media-restore",Terra Quente FM
 http://centova.radios.pt:9402/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-deixem-passar-a-musica-logo.jpg",Radio Deixem Passar a Musica
 https://ssl.radiodpm.com:7000/;
-#EXTINF:-1 tv-logo="",Radio Rádio Amigo Ramalho
-http://s1.stmip.eu:8244/;
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37864/logo_SCSX0QTgpc.png",Antenna Web Setúbal Radio
-https://tinyurl.com/AntennaWebSetubal
-#EXTINF:-1,RADIO MY LOVE
-https://stream.zeno.fm/ttbna7rpyhhvv
-#EXTINF:-1,Radio Manobras radio
-https://stream.radiozero.pt/radiomanobrasonlive.mp3
-#EXTINF:-1,Rádio Blog
-https://usa15.fastcast4u.com/proxy/radioblog?mp=/1
-#EXTINF:-1,Rádio Cidade de Tomar
-http://193.164.131.215:9306/stream.mp3
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/118431.v4.png",Radio Cristo Digital 
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/118431.v4.png",Radio Cristo Digital
 https://stm1.voxhd.com.br:9980/
-#EXTINF:-1,M80 Radio – 60’s
-https://media2.mcr.iol.pt/wrm80/m8060.stream/chunks.m3u8
 #EXTINF:-1 tv-logo="",Radio RTP Acores TV
-http://www.rtp.pt/play/direto/rtpacores
-#EXTINF:-1,gospel valadares
-https://stream.zeno.fm/pdm6xdkayg0uv
-#EXTINF:-1,PORTUGAL
-https://stream.zeno.fm/mfhmmbszsy8uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-gira-o-mundo-627804-logo.jpg",Radio Gira o Mundo
-http://46.4.94.39:9910/;
-#EXTINF:-1,RÁDIO NIKITA NA ONDA DA MÚSICA
-http://148.251.253.98:9952/
-#EXTINF:-1,M80 Rádio – Portugal
-https://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
-#EXTINF:-1,Vendas de bots
-https://stream.zeno.fm/71ac3dq0r98uv
+https://www.rtp.pt/play/direto/rtpacores
 #EXTINF:-1,Roxx 2 Radio
 https://listen6.myradio24.com/6359
-#EXTINF:-1,Radio-Torres-Rio-Vez--(-RTRV-)
-http://5.9.17.124:9422/
 #EXTINF:-1,Radio Antena Livre Gouveia radio
 http://centova.radios.pt:9456/stream/
-#EXTINF:-1,TheKillerDj24-7
-https://stream.zeno.fm/7ube21tb3k0uv
-#EXTINF:-1,RossyNoivas - Radio
-https://stream.zeno.fm/fhly4pga2gtvv
-#EXTINF:-1,Sound Diver
-https://stream.zeno.fm/p4f45puftv8uv
 #EXTINF:-1,Rdio Voz da Ria
 http://centova.radios.pt:8541/stream
 #EXTINF:-1,Antenne Bayern - 70er Hits Listen live
 https://s3-webradio.webradio.de/70er-hits
-#EXTINF:-1,I Need Music Radio
-https://stream.zeno.fm/cpx5g7rr0v8uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37606/logo_Hg4egHrz2F.jpg?v=20260529-media-restore",RFM - On The Rock
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFMONTHEROCKAAC.aac
-#EXTINF:-1 tv-logo="",sala de testes da radiovilasjota
-http://s1.stmip.eu:8152/;
+https://29043.live.streamtheworld.com/RFMONTHEROCKAAC.aac
 #EXTINF:-1,Radio Pico
 http://centova.radios.pt:9420/
-#EXTINF:-1,Digital Radio Portugal
-http://centova.radios.pt:8465/
-#EXTINF:-1,Naruto Music
-https://stream.zeno.fm/ytw0hefgny8uv
-#EXTINF:-1,DoLaSi Radio
-https://stream.zeno.fm/6vemdd5m2p8uv
-#EXTINF:-1,Antena Web - Canal 113
-https://stream.zeno.fm/8wprgh0uz3gvv
-#EXTINF:-1,DJ4500
-https://stream.zeno.fm/qpbemy3vaq8uv
-#EXTINF:-1,Epix Radio – Caldas da Rainha – PT-10
-http://ecast.myautodj.com:2500/?type=http&nocache=1615646704
-#EXTINF:-1,Rádio Mundial Fm
-http://212.129.34.67:9974/
-#EXTINF:-1,larysssss
-https://stream.zeno.fm/41ehtrbwwrhvv
-#EXTINF:-1,RADIO ISLAND AZORES FM
-https://stream.zeno.fm/qp1x3nck1c9uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37956/logo_765JyyJ8ok.jpg?v=20260529-media-restore",Radio Festival
 https://audio.serv.pt/8012/stream.mp3?_=5
-#EXTINF:-1,Ldradio
-https://stream.zeno.fm/auyyxr6ddd0uv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-costa-verde-radio-logo.jpg",Costa Verde Radio
 https://sonic1.transmissaodigital.com/8062/stream;stream.nsv
 #EXTINF:-1,Radio Sénior da Misericórdia – PT-06
 https://sp0.redeaudio.com/8198/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37707/logo_QIFLvJfsqq.jpg?v=20260529-media-restore",RadioImpec
-https://stm8.xcast.com.br:8296/stream
 #EXTINF:-1,ORBITAL
 http://centova.radios.pt:8401/listen.pls
-#EXTINF:-1,Radio Doce Amiga
-https://stream.zeno.fm/2khmcan4bshvv
 #EXTINF:-1,RBO FM
 https://tonyvendas.top/8300/stream
-#EXTINF:-1 tv-logo="",RADIO LUSITANA
-http://37.187.93.104:8010/;
-#EXTINF:-1,Urbanvibsz
-https://stream.zeno.fm/4bd4tgm5zehvv
 #EXTINF:-1,Radio RLCB Tuga
-https://ssl.conectastreaming.com:8272/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37573/logo_N2RvSsoQXn.png",RDP Antena 1 Madeira Radio
-https://radiocast.rtp.pt/antena1madeira80a.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-musica-a-seu-gosto-611386-logo.jpg",Radio Rádio Música a seu gosto
-http://s1.xps-ip.eu:8042/;
-#EXTINF:-1,Cidade Latina
-https://media2.mcr.iol.pt/wrcidade/cidlatina.stream/playlist.m3u8
+https://ssl.conectastreaming.com:8272/index.html?sid=1
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37597/logo_Br0VL20GLL.jpg?v=20260529-media-restore",M80 Radio - 70's
 https://stream-icy.bauermedia.pt/m8070.aac
-#EXTINF:-1,Radio Paroquia Web
-https://stream.zeno.fm/6dma7qterm0uv
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WLOS.png",Radio Castrense
-https://centova.radio.com.pt/proxy/431?mp=/stream&1596198688050
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radionovemaravilhas-619427-logo.jpg",RadioNoveMaravilhas
-http://173.208.235.238:9512/;
 #EXTINF:-1,Informédia 106.3 – 106.3 FM – São João da Madeira – Aveiro District – PT
 http://server.zibiz.net:8000/stream1/stream1
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FPJVX.png",Radio Voz da Planicie
-http://95.217.75.38:9920/listen.pls?sid=1
-#EXTINF:-1,R.S.V.U.TOP
-http://212.129.34.67:9918/
-#EXTINF:-1,SonosStation Remote
-https://stream.zeno.fm/bs3psh6tb18uv
-#EXTINF:-1,Reatech
-https://stream.zeno.fm/sckv90naxnhvv
-#EXTINF:-1,playlist mta
-https://stream.zeno.fm/4t080d58mf9uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/europa-amigos-radio-626995-logo.jpg",EUROPA AMIGOS RADIO
-http://62.210.79.179:8004/;
 #EXTINF:-1,Pink Floyd My Tribute
-https://streaming.radionomy.com/RockGiantsRadio
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiorockfmpt-645330-logo.jpg",radiorockfm.pt
-http://176.9.66.66:9998/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-voz-e-amizades-639525-logo.jpg",RADIO VOZ E AMIZADES
-http://46.4.94.39:9778/;
-#EXTINF:-1,Radio Utopia Dance
-https://node-17.zeno.fm/ev6wncecvkeuv?ver=radioonlinelive.com
-#EXTINF:-1,EAGLES FLASH BACK
-https://stream.zeno.fm/yvmmp698xg0uv
 #EXTINF:-1,Rádio Lousada radio
 https://sp0.redeaudio.com/9932/stream
-#EXTINF:-1,On the Radio-Lisbon
-https://cast3.asurahosting.com/proxy/mediawis/live
 #EXTINF:-1,Wonder 80s
 https://80.streeemer.com/listen/80s/radio.mp3
-#EXTINF:-1,RadioFogoePaixao
-http://s1.stmxp.net:8128/
-#EXTINF:-1,Brazuca Flash radio
-https://ssl.a.stmxp.net:8237/stream
-#EXTINF:-1,RADIO_TANYA2020
-https://stream.zeno.fm/kaasg3w2ng0uv
-#EXTINF:-1,DJ RYCKY EM DIRETO
-https://stream.zeno.fm/1d7z1q9vpv8uv
-#EXTINF:-1,80'S RFM 
-https://25343.live.streamtheworld.com/GR80SRFMAAC.aac
-#EXTINF:-1,Antena Web - Canal 44
-https://stream.zeno.fm/u4nr2k8feq8uv
 #EXTINF:-1,Mega Hits – PT-13
-https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC_SC
-#EXTINF:-1,Horizonte Profundo
-http://107.6.144.42:9688/
-#EXTINF:-1,Rádio 94FM 
+https://27793.live.streamtheworld.com/MEGA_HITSAAC_SC
+#EXTINF:-1,Rádio 94FM
 https://22593.live.streamtheworld.com/RFMAAC.aac
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5NMRGE.png",radiovidalegria
-http://167.114.254.147:8180/stream
-#EXTINF:-1,RádioM
-https://stream.zeno.fm/tehtobfnt0rtv
-#EXTINF:-1,Rádio Jornal do Centro
-http://95.217.75.38:9120/stream/
-#EXTINF:-1,RVD RADIO – PT
-http://185.32.188.17:8047/stream
-#EXTINF:-1,LUNA FM - Portugal
-http://lunaportugal.lunabroadcasting.net:80/stream
-#EXTINF:-1,RÁDIO MIX WEB
-https://stream.zeno.fm/qshgner7mg0uv
-#EXTINF:-1,Admirável
-http://listen.radionomy.com/admiravelnet
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-portuguesa-do-var-582610-logo.jpg",Radio Rádio Portuguesa do Var
-http://rcpvar.org:8558/;
-#EXTINF:-1,groove sessions
-https://stream.zeno.fm/y38x3v0tyd0uv
 #EXTINF:-1,Rádio SBSR - Rock Vibes from Portugal
 https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8
 #EXTINF:-1,Radio Nuvem Branca
 https://s2.stmxp.net:7096/stream
-#EXTINF:-1,Radio Pulsar
-http://cast.radio-indie.com/radio/8000/pulsar.mp3
-#EXTINF:-1,Antena Web - Canal 95
-https://stream.zeno.fm/yc7021snrv8uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jota-mix-615356-logo.jpg",radio jota mix
-http://37.59.45.91:9930/;
-#EXTINF:-1,Rádio Novos Amigos
-http://37.59.45.91:9992/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-metal-on-lusitania-logo.jpg",Radio Metal On: Lusitania
-https://radiometalon.com/listen/radio_metal_on_lusitania/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cidade-de-tomar-588335-logo.jpg",Radio Cidade de Tomar
-http://193.164.131.215:9306/;
-#EXTINF:-1,Rádio Transcultural
-http://94.23.76.235:9474/
 #EXTINF:-1,RFM – 80s RFM
 http://20133.live.streamtheworld.com:80/GR80SRFMAAC_SC
-#EXTINF:-1,Seguidor Chill
-https://ec4.yesstreaming.net:1930/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/on-move-fm-584307-logo.jpg",Radio on move fm
-http://stm2.sejaguia.com.br:6806/;
-#EXTINF:-1,Mekoo And MIiike Shoegaze Post punk 80s 2022
-https://stream.zeno.fm/vgbpsfn0yuhvv
-#EXTINF:-1,Radio 5 Estrelas
-http://198.7.58.248:21580/stream
-#EXTINF:-1,Cidade Radio – Lisbon – Lisbon District – PT
-http://stream.zeno.fm/70854g7k6s8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37954/logo_fibk7ZHgg4.jpg?v=20260529-media-restore",Radio Alvor
-https://centova.radio.com.pt/proxy/469?mp=%2Fstream%2F%3Blisten.pls
-#EXTINF:-1,Rádio Comercial - Rock Listen live
-https://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/chunklist_w1975576799.m3u8
-#EXTINF:-1,Chilling
-https://stream.zeno.fm/6v987rrwfy8uv
-#EXTINF:-1,Antena Web - Canal 68
-https://stream.zeno.fm/6f4hy1vaby8uv
-#EXTINF:-1,cabra figa
-https://stream.zeno.fm/fspr4p4kbm0uv
-#EXTINF:-1,Radio Cantinho Do Vale
-http://185.32.188.17:8067/stream#
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radioacoriana-642326-logo.jpg",Radioaçoriana
-http://195.154.176.199:9374/;
-#EXTINF:-1,Radio 94 FM
-http://185.11.164.106:35022/stream
-#EXTINF:-1,Nove3cinco – Póvoa de Lanhoso – PT-03
-https://centova.radios.pt/proxy/522?mp=/stream
-#EXTINF:-1,Radio CliksFilebo
-https://stream.zeno.fm/d9rfq5n16k0uv
-#EXTINF:-1,RDP Antena 1 Memória – Lisbon – Lisbon District – PT
-https://radioip.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
-#EXTINF:-1,Carmelitas
-http://185.32.188.17:8013/live
-#EXTINF:-1,sereia_do_norte
-https://stream.zeno.fm/cuwsb4nkxtzuv
-#EXTINF:-1,Rádio Voz da Ria 90.2 FM - Portugal - Estarreja
-https://centova.radio.com.pt/proxy/541?mp=/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-novos-amigos-616473-logo.jpg",Radio Rádio Novos Amigos
-http://37.59.45.91:9992/;
 #EXTINF:-1,Rádio Barca 99.6 FM
 http://centova.radio.com.pt:8483/stream
-#EXTINF:-1,Antena Minho Radio
-https://stream.pcradio.ru/antena_minho-med
-#EXTINF:-1,Radio_Ilha_Da_Montanha
-https://stream.zeno.fm/66e5n0a6aa9uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cidade-matosinhos-644117-logo.jpg",Radio Rádio Cidade Matosinhos
-http://s1.xps-ip.eu:8064/;
-#EXTINF:-1,atividade DCA
-https://stream.zeno.fm/yszy038bdchvv
-#EXTINF:-1,Radio Brazuca Flash
-http://s6.stmxp.net:8237/stream
-#EXTINF:-1,AOR and Hard Rock Radio
-https://stream.zeno.fm/2upa8kq2238uv
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37851/logo_kSlz3b4Int.png",Antenna Web Aveiro Radio
-https://tinyurl.com/AntennaWebAveiro
-#EXTINF:-1,UNIVERS FM
-https://stream.zeno.fm/ckh5ncq96zhvv
 #EXTINF:-1,Radio Lagoa
 http://centova.radios.pt:9488/
-#EXTINF:-1,EU_Maria
-https://stream.zeno.fm/bb15eyev538uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rm-hits-165664-logo.jpg",Radio RM Hits
-http://81.92.219.14:8012/stream
-#EXTINF:-1,Rádio Macau 98.0 FM
-https://live4.tdm.com.mo/live/_definst_http:/ch1.live/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37696/logo_59pukcUbef.jpg?v=20260529-media-restore",Rádio Mega FM
-https://ssls.stmxp.net:5878/1
 #EXTINF:-1,RUM 97.5 FM - Rádio Universitária do Minho
 http://centova.radios.pt:9558/stream/1/
-#EXTINF:-1,Canal Kids
-https://stream.zeno.fm/6n0rm87zdf9uv
-#EXTINF:-1,JR Gaspar
-https://stream.zeno.fm/ma2a6qg4ckhvv
-#EXTINF:-1,Dj_Tony
-https://stream.zeno.fm/4pc14zyjsczuv
 #EXTINF:-1,Radio Alto Minho
 https://ec2.yesstreaming.net:3705/stream
-#EXTINF:-1,RADIO FAUSTEX 3
-http://78.129.222.62:28679
-#EXTINF:-1,RADIOMELODIASDEHOJE
-https://stream.zeno.fm/2sbp1u7qcwzuv
-#EXTINF:-1,Canal 1
-http://stream.antenaweb.info/canal1.m3u
-#EXTINF:-1,Radio Terceira Lilas
-https://stream.zeno.fm/k305efu2kwzuv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bisas-639266-logo.jpg",Radio Rádio Bisas
-http://209.126.127.202:8133/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/amigos-do-bar-armada-622724-logo.jpg",Radio Amigos do Bar Armada
-http://46.4.94.39:9536/;
 #EXTINF:-1,Radio Voz de Leça da Palmeira
 http://centova.radios.pt:9476/stream/;
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/103862.v5.png",Radio Adonai, Moreira 
-https://stm4.onecast.com.br:7264/
-#EXTINF:-1,Vodafone FM – PT-13
-http://media3.mcr.iol.pt/livefm/vodafone.mp3/icecast.audio
-#EXTINF:-1,Radio Zero
-http://stream.radiozero.pt:8000/zero128.mp3
-#EXTINF:-1,DJMUSIC MAG RADIO
-https://stream.zeno.fm/l8elkn6qde8vv
-#EXTINF:-1,Agora Varandas radio
-https://servidor24-1.brlogic.com:7234/live
 #EXTINF:-1,Schwabbelfm Listen live
-https://stream.laut.fm/schwabbelfm?ref=radiode
-#EXTINF:-1,radio portista ilhavo
-https://stream.zeno.fm/9dqbeb91znhvv
-#EXTINF:-1,OscarSonia
-http://88.198.72.46:9860/
+https://schwabbelfm.stream.laut.fm/schwabbelfm?ref=radiode&t302=2026-08-09_13-43-53&uuid=070d1e25-e2b6-4abb-bbee-711de28bc0ff
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37632/logo_A92cD8cjY8.jpg?v=20260529-media-restore",Radio Comercial - Dance
-https://bauermedia.pt/radioStream.aspx?radio=53&type=AAC
-#EXTINF:-1,Malacueco010
-https://stream.zeno.fm/nc14yu2rw38uv
-#EXTINF:-1,Radio Coração do Alentejo
-https://sonic.servsonic.com:7021/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lixafm-632162-logo.jpg",Radio LixaFM
-http://sc.lixafm.pt:8605/;
+https://stream-icy.bauermedia.pt/rcdance.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
 #EXTINF:-1,Antena2 Jazzin
 https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/chunklist_DVR.m3u8
-#EXTINF:-1,Estudios Opal
-https://stream.zeno.fm/6uzrk5kwz08uv
-#EXTINF:-1,Conversas FM
-https://stream.zeno.fm/de9k7m2w808uv
-#EXTINF:-1,WNTR  World  Network Radio
-http://rs2.ptservidor.com:8030/live
-#EXTINF:-1,Rádio Regional HD
-https://play1.radioregional.pt/stream/2/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-conexao-gospel-portugal-595903-logo.jpg",Radio Rádio Conexão Gospel Portugal
-http://stm6.sejaguia.com.br:20810/;
-#EXTINF:-1,Radio Posto Emissor do Funchal - Canal 2 FM 92.0
-http://stream.radio.com.pt:9422/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-memoria-603806-logo.jpg",Radio Memoria
-http://176.9.88.190:9762/;
-#EXTINF:-1,Radio_do_Sol
-http://198.50.197.90:9824/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cidade-nova-632645-logo.jpg",Radio Rádio Cidade Nova
-http://178.32.239.25:8067/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37890/logo_NWV32uVSCC.jpg?v=20260529-media-restore",Radio Clube De Arganil
-http://176.9.43.216:8135/stream
-#EXTINF:-1,Rádio Lafoes 93.0 FM
-http://stream.radio.com.pt:9564/stream
-#EXTINF:-1,Radio DJSteve
-https://stream.zeno.fm/knw7mf4m2uhvv
-#EXTINF:-1,Radio Mundo Musical Mix
-https://stream.zeno.fm/a64c0ez9468uv
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37847/logo_6MLOaGkZ5f.png",Radio Sons do Coração
-http://stream.zeno.fm/iwa3qstdafwtv
-#EXTINF:-1,Rádio para VRRP
-https://stream.zeno.fm/2amxr3rhkf9uv
 #EXTINF:-1,Rádio Portugal Mais
 http://sv15.hdradios.net:7432/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37681/logo_4LOWLEtBkg.png",Rádio Borba
-https://centova.radio.com.pt/proxy/578?mp=%2Fstream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/top_porto-623709-logo.jpg",Radio Top_Porto
-http://198.50.197.90:9802/;
 #EXTINF:-1,Radio Clube de Angra
 https://nl.digitalrm.pt:8104/stream
-#EXTINF:-1,Gamero Radio
-https://stream.zeno.fm/nd6k2bw4098uv
-#EXTINF:-1,Mekoo And Miike Math Noise rock Vol1-1
-https://stream.zeno.fm/592p4s620a0uv
 #EXTINF:-1,TSF Rádio Notícias 89.5
 http://centova.radios.pt:8405/
-#EXTINF:-1,Radio Coracao Musical
-http://5.9.17.124:9776/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37771/logo_oh8QlrrcEv.png",Radio Paivense
 http://paivense.no-ip.info:8080/stream
-#EXTINF:-1,Radio Lousado Online
-https://stream.zeno.fm/8ut0ut4tzwzuv
-#EXTINF:-1,Wallace Fernandes
-https://stream.zeno.fm/mmfxu9z4by8uv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-comercial-90s-logo.jpg",Radio Comercial - 90's
 https://bauermedia.pt/radioStream.aspx?radio=69u0026type=AAC
-#EXTINF:-1 tv-logo="",Radio Mira FM Portugal
-http://stream-11.streamsolutions.co.uk/9170/
-#EXTINF:-1,Reis__
-https://stream.zeno.fm/z411cghanf9uv
 #EXTINF:-1,Rádio Urbana FM 97.5 - Portugal - Castelo Branco
 https://radios2.justweb.pt/8038/stream
-#EXTINF:-1,Rádio Xingó 98.7 FM Listen live
-https://audio8.cmaudioevideo.com:10101/server
-#EXTINF:-1,Misteriosa
-https://stream.zeno.fm/syfeh0pu0v8uv
-#EXTINF:-1,ARTV – Canal Parlamento – Lisbon – Lisbon District – PT
-https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-perola-do-oceano-607810-logo.jpg",Radio Perola do Oceano
-http://136.243.71.35:9948/;
-#EXTINF:-1,Amor Portugal Radio – Lisbon – Lisbon District – PT
-http://stream.zeno.fm/yyue51ta998uv
-#EXTINF:-1,Playlist do Dia Mundial da Criança
-https://stream.zeno.fm/5tn4bet3af9uv
 #EXTINF:-1,Rádio Limite
 http://centova.radio.com.pt:9408/
-#EXTINF:-1,RUA Rádio Universitária do Algarve
-https://centova.radio.com.pt/proxy/536?mp=/stream
 #EXTINF:-1,Rádio Observador
 http://195.23.85.126:8455/listen.pls?sid=1
 #EXTINF:-1,Rádio Barca
 http://centova.radio.com.pt:8483/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rfm-80s-rfm-logo.jpg",Radio RFM - 80s RFM
-https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFMAAC_SC?dist=onlineradiobox
-#EXTINF:-1,Rádio Love Hits radio
-http://radiolove.myftp.biz:8000/radiolove
-#EXTINF:-1,Arpeggio
-http://146.185.18.251:7067/
-#EXTINF:-1,Central FM
-http://stm51.srvstm.com:27240/stream
+https://29043.live.streamtheworld.com/GR80SRFMAAC_SC?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cidade-hoje-578055-logo.jpg",Radio Cidade Hoje
 http://centova.radios.pt:8119/;listen.pls
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nuno-lourenco-642132-logo.jpg",Radio Nuno Lourenco
-http://107.6.144.42:9742/;
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37770/logo_WWKZrnGrrF.png",Hiper FM Radio
-https://centova.radio.com.pt/proxy/500?mp=%2Fstream
-#EXTINF:-1,Dennis Brown - Selajahfary.com
-https://stream.zeno.fm/s7ky4xwt2f8uv
-#EXTINF:-1,Rádio Caria
-http://centova.radio.com.pt:8521/
-#EXTINF:-1,PBZ RADIO
-https://stream.zeno.fm/4g86ht7fqm0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37647/logo_lgey2QvJtx.jpg?v=20260529-media-restore",Radio Amor Eterno
-https://ssl.stmxp.net:7134/stream
-#EXTINF:-1,Radio Flash
-https://stream.zeno.fm/nkz3et1vgs8uv
 #EXTINF:-1,Rádio SINFA online - Portugal - Lisbon
 https://stream.streamaudio.de:8000/radio-sinfa
-#EXTINF:-1,Radio Cantinho do Leo
-https://stream.zeno.fm/3ydshh73ud0uv
-#EXTINF:-1,Radio TJI
-https://stream.zeno.fm/tb6vwa3tb18uv
-#EXTINF:-1,RTN – Ponta Delgada – Azores – PT
-https://servidor23-1.brlogic.com:9270/live
-#EXTINF:-1,Radio Faustex - Portuguese Music 2
-http://freeuk27.listen2myradio.com:28655/
-#EXTINF:-1,Jornal da Portugália
-https://stream.zeno.fm/b94cwvdh268uv
-#EXTINF:-1,five stars
-https://stream.zeno.fm/1erpwnqaxzzuv
-#EXTINF:-1,Radio Regional Portugal
-http://46.105.172.166:8093/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-calheta-logo.jpg",Radio Calheta
-https://streamonline.pt/radio/8000/radiocalheta/;
-#EXTINF:-1,Rádio Santa Casa
-http://94.23.76.235:9942/
-#EXTINF:-1,RADIO_SAOMAMEDE_MIX
-http://stream.zeno.fm/p1t9pad5b48uv
-#EXTINF:-1,Rádio Atividade FM
-https://stream.zeno.fm/zhygaqzskxwvv
-#EXTINF:-1,Radio Extra FM Listen live
-https://streamingv2.shoutcast.com/RADIOEXTRAFM
-#EXTINF:-1,CMG WEB RADIO
-https://stream.zeno.fm/xup15qq1np8uv
 #EXTINF:-1,Portimão fm line
 https://stream1.svrdedicado.org/8336/stream
-#EXTINF:-1,REMEMBER FM
-http://176.9.43.216:8449/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-amor-fogo-paixao-613017-logo.jpg",Radio Rádio Amor Fogo Paixão
-http://s1.stmip.eu:8258/;
-#EXTINF:-1,M80 – Rock – Lisbon – Lisbon District – PT
-https://media2.mcr.iol.pt/wrm80/m80rock.stream/playlist.m3u8
-#EXTINF:-1,Rádio Terras de portugal – Lisbon – Lisbon District – PT
-http://109.71.41.230:9968
-#EXTINF:-1,GATINHA E LINDA MADEIRA
-https://ssl.ndvendas.eu:9774/stream?icy=http
-#EXTINF:-1,Radio-maradonavdp
-https://stream.zeno.fm/c3yv0g2r3f8uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-megatuga-606571-logo.jpg",Radio Rádio Megatuga
-http://176.9.88.190:9928/;
 #EXTINF:-1,Radio Comercial - Rock - Pop Hits from Portugal
 https://stream-icy.bauermedia.pt/rcrock.aac
-#EXTINF:-1,Pirata Fm
-https://stream.zeno.fm/bcf0w83wcfhvv
 #EXTINF:-1,Tejo Rádio Jornal
 http://centova.radio.com.pt:8531/
-#EXTINF:-1,Rádio Caima FM
-https://stream.zeno.fm/da7tkbmwnwzuv
-#EXTINF:-1,Douro FM 91.4
-http://centova.radio.com.pt:8437/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-voz-do-norte-646583-logo.jpg",RADIO VOZ DO NORTE
-http://176.9.43.216:8246/stream
 #EXTINF:-1,Regional do Centro (Condeixa-a-Nova)
 https://nl.digitalrm.pt:8030/stream
-#EXTINF:-1,Radio Montemuro 87.8 FM
-http://95.217.75.38:9814/stream?type=http&#038nocache=34/
-#EXTINF:-1,Rádio  Canção do Céu
-https://stream.zeno.fm/fdmeab3w2a0uv
 #EXTINF:-1,Pyongyang FM Listen live
 https://listen7.myradio24.com/69366
-#EXTINF:-1,Radio Wolf
-https://stream.zeno.fm/61xeyv2pa8zuv
-#EXTINF:-1,Surtada sertanejo
-https://stream.zeno.fm/bs4ngctpp2zuv
-#EXTINF:-1,XL FM 92.8 - Portugal - Lisbon
-https://radios2.justweb.pt:8028/stream
-#EXTINF:-1,Exclusively New Order Listen live
-https://streaming.exclusive.radio/er/neworder/icecast.audio
-#EXTINF:-1,Radio Ebenezer Church Portugal
-https://stream.zeno.fm/47q3gzb9nf9uv
-#EXTINF:-1,Radioferalatina2016
-http://5.189.148.143:8054/
-#EXTINF:-1,Gatinhasanhada
-https://stream.zeno.fm/v6nufys5608uv
-#EXTINF:-1,music classic and destroy
-https://stream.zeno.fm/q7uspvp3sxhvv
-#EXTINF:-1,radio.obrilho.com
-http://94.23.43.135:8010/live.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37593/logo_BEbvmRcR51.jpg?v=20260529-media-restore",RÁDIO REGIONAL CHAVES
-https://play1.radioregional.pt/stream/4/
-#EXTINF:-1,ZTUDODEBOMZ
-https://stream.zeno.fm/qwm3m1u5kv8uv
-#EXTINF:-1,Radio Guadiana 
-http://sp0.redeaudio.com:9844/
-#EXTINF:-1,RADIO POESIA EM PORTUGAL
-https://stream.zeno.fm/pqnmabty0l8vv
-#EXTINF:-1,Radio Alternative Online
-http://46.4.94.39:9420/
-#EXTINF:-1,Maxi Digital Emoção – PT-17
-http://51.15.3.214:8014/live
-#EXTINF:-1,Rádio Sete Mares – Lisbon – Lisbon District – PT
-http://s1.stmip.eu:8126/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pma-619637-logo.jpg",Radio PMA
-http://185.32.188.17:8018/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vidigueira-578085-logo.jpg",Radio Vidigueira
 http://centova.radios.pt:8567/stream/;
-#EXTINF:-1,Sol Rádio
-https://stream.zeno.fm/qqhs693ygkhvv
-#EXTINF:-1,MegaHertz
-http://185.31.158.86:9316/
-#EXTINF:-1,Radio Faustex - Faustex 5 (2)
-http://freeuk29.listen2myradio.com:11834/
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132491.v2.png",108fm 
-https://stream.zeno.fm/vpzrr5p1rpguv
-#EXTINF:-1,Rádio Clube Da Feira
-https://centova.radio.com.pt/proxy/544?mp=/stream
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BIP03K.png",Reggae Portugal
-http://5.189.189.245:8006/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-faustex-oldies-2-logo.jpg",Radio Faustex Oldies 2
-https://uk13freenew.listen2myradio.com/live.mp3?typeportmount=s1_35332_stream_908342053;stream.nsv
-#EXTINF:-1,VsRadio
-https://stream.zeno.fm/t4n82s5g31zuv
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BJ8GXD.png",Fama Radio - Portugal
-https://1469676209.rsc.cdn77.org/digitalfm64
-#EXTINF:-1,Vodafone.fm
-https://media1.mcr.iol.pt/livefm/vodafone/playlist.m3u8
 #EXTINF:-1,Rádio Voz do Sorraia – 94.7 FM – Coruche – PT-14
 http://centova.radio.com.pt:8511
-#EXTINF:-1,estoradas
-https://stream.zeno.fm/63v5t9rpmrhvv
-#EXTINF:-1,Rádio Onda Celta - Portugal - Guimaraes
-https://stream.zeno.fm/fbzmurbgu22tv
 #EXTINF:-1,SFTD Radio
 http://centova.radios.pt:9566/
-#EXTINF:-1,Radio Zueira
-https://stream.zeno.fm/e3ymhq0mgzzuv
 #EXTINF:-1,Radio Palmeira
 http://radiosmadeira.net:8018/
-#EXTINF:-1,Radio Amor Eterno
-https://ssl.stmxp.net:7134/
 #EXTINF:-1,RDP Internacional
 https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u8
 #EXTINF:-1,Rádio Transmundial de Portugal - Portugal - Lisbon
 https://radio.midiaserverbr.com/8008/stream
-#EXTINF:-1,Soul Radio
-https://stream.zeno.fm/hff4cy6mgg0uv
 #EXTINF:-1,WEBfm Listen live
-https://stream1.webfm.dk/Web192
-#EXTINF:-1,RFM2009
-https://stream.zeno.fm/l1gtkt3hbf0vv
-#EXTINF:-1,Put me On
-https://stream.zeno.fm/vghsd1jqpsrtv
-#EXTINF:-1 tv-logo="",webradiomundo_FM
-http://46.4.94.39:7998/;
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GBLQ4.png",Radio Promove Portugal
-https://www.evsportugal.com/radiopromoveportugal/player.php/mp3
-#EXTINF:-1,Radio Alvalade
-http://176.9.43.216:8056/
-#EXTINF:-1,VENOM RAP
-https://stream.zeno.fm/l5glp0immpivv
+https://webfm.dk/
 #EXTINF:-1,TSF Rádio Acores 99.4 FM
 http://centova.radios.pt:8243/stream
-#EXTINF:-1,DarioOurique
-https://stream.zeno.fm/320ewzpe0rhvv
 #EXTINF:-1,VIVA 80 Radio
-http://streaming.radionomy.com/VIVA80
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-web-vidense-615742-logo.jpg",RADIO WEB VIDENSE
-http://213.136.69.80:9984/;
-#EXTINF:-1,PortugalLive
-https://stream.zeno.fm/dbygx5cs92quv
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37922/logo_niY2kS6LXS.png",Rádio Meo Sudoeste
-https://centova.radios.pt/proxy/495?mp=%2Fstream
-#EXTINF:-1,Record FM 107.7 radio
-https://stream.zeno.fm/admqxb7de2zuv
-#EXTINF:-1,Radio_Angel_Mix
-https://stream.zeno.fm/2qk8wd59z38uv
 #EXTINF:-1,Rádio Utopia
-https://rcast.live/stream/66027.mp3
+https://seeka.my/
 #EXTINF:-1,Mega Hits 92.4 FM - Portugal - Lisbon
 https://22653.live.streamtheworld.com:443/MEGA_HITSAAC.aac
-#EXTINF:-1,Erotika Wanderer
-https://stream.zeno.fm/ht9mkf1gxxhvv
-#EXTINF:-1,Causa Perdida FM
-https://stream.zeno.fm/yaygalykkafuv
 #EXTINF:-1,Sesimbra FM
 http://centova.radios.pt:9444/stream?type=.mp3
 #EXTINF:-1,JOCAVI Radio - Portugal - Cascais
 https://sp0.redeaudio.com/9930/stream
-#EXTINF:-1,Rádio Power Hits
-https://stream.zeno.fm/163e2bhd2c9uv
 #EXTINF:-1,Estacao Diaria 96.8 FM
 http://centova.radios.pt:9430/
-#EXTINF:-1,Comercial 80
-http://195.23.102.207/m80
-#EXTINF:-1,Radio Renaissance
-http://7719.live.streamtheworld.com/RADIO_RENASCENCAAAC
 #EXTINF:-1,Radio RCI 105.5 FM
 https://nl.digitalrm.pt:8002/stream
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MW7IMU.png",101.7FM
-http://radios.dotsi.pt:8057/%3Bstream.nsv&type=mp3&volume=50&autostart=true?s=1463108049
-#EXTINF:-1,Rádio Pestinhas Music
-http://s1.xps-ip.eu:8022/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37779/logo_xqFNr93WA8.jpg?v=20260529-media-restore",Radio Popular
 https://audio.serv.pt/8008/stream.mp3?_=5
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/setubal-fm-643859-logo.jpg",Radio Setúbal FM
-http://95.154.202.117:39131/;
-#EXTINF:-1,Porto Digital – PT-13
-https://ssls.stmxp.net:8129/.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37832/logo_DghCwNOP6M.jpg?v=20260529-media-restore",7kilowatte Radio Station
-https://myradio24.org/86047
-#EXTINF:-1,Mundo NAF
-https://stream.zeno.fm/s64f7nn5wnhvv
-#EXTINF:-1,Radio-JOTA-FM
-https://stream.zeno.fm/26gha51mcd0uv
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127849.v2.png",radio divina online 
+https://listen1.myradio24.com/86047
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127849.v2.png",radio divina online
 https://stream1.svrdedicado.org:7179/
-#EXTINF:-1,lady_e_amigos
-http://104.247.209.218:25276/
-#EXTINF:-1,Rádio Regional de Grijó
-https://stream.zeno.fm/0yzfnngg0k8uv
-#EXTINF:-1,Podcast A Rádio Da Moda
-https://stream.zeno.fm/bvr9c9wagc9uv
-#EXTINF:-1,RLCB Dance radio
-https://stm2.painelcast.com:7544/
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/84592.v15.png",Radio Faustex 5 (2) 
-https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_11834_stream_549826512
-#EXTINF:-1,MR80's - Portugal - Setúbal
-https://stream.zeno.fm/rgnxkctthm8uv
-#EXTINF:-1,Radio Cruzeiro
-http://176.9.43.216:8437/
-#EXTINF:-1,Rádio Horizonte Açores Terceira
-http://s2.stmxp.net:7080/stream.nsv
 #EXTINF:-1,Radio Cova Da Beira 107.0
 http://centova.radios.pt:8467/stream
 #EXTINF:-1,Radio Deixem Passar a Musica radio
 https://ssl.radiodpm.com:7000/
-#EXTINF:-1,MFM 96.2 – 96.2 FM – Barreiro – PT-15
-http://c10.radioboss.fm:8050/autodj
 #EXTINF:-1,Ribatejo Online
 https://tonyvendas.top/8514/stream
-#EXTINF:-1,Rádio Tágide
-https://radiotag.radioca.st/stream
-#EXTINF:-1,roadunion fm
-https://stream.zeno.fm/gsnnb30nyrhvv
-#EXTINF:-1,AÇORES RADIO
-https://stream.zeno.fm/suzpxsvgwtfvv
-#EXTINF:-1,Genesis FM – PT-13
-https://vozmedia.eu/radio/8000/radio.mp3
-#EXTINF:-1,Luzdapalavra
-https://stream.zeno.fm/mydp0nugglwvv
-#EXTINF:-1,Confraria Anos 80
-https://stream.zeno.fm/8vfur0t742quv
-#EXTINF:-1,Antena Web - Canal 108
-https://stream.zeno.fm/9uhqhxm19zhvv
-#EXTINF:-1,Metro Groove Radio Listen live
-https://meg.novahost.bg/proxy/metrocastsd2?mp=/service
-#EXTINF:-1,Best Radio Portugal – Lisbon – Lisbon District – PT
-https://player.srvif.com:7806/listen.pls
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37879/logo_ldqXXaf4Vw.jpg?v=20260529-media-restore",Radio_Portalegre
 https://tonyvendas.top:8018/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-amizade-viva-logo.jpg",Radio Rádio Amizade Viva
 https://cc1.streammaximum.com:20070/;
-#EXTINF:-1,1955 radio latina
-https://stream.zeno.fm/cc72uw8v8k0uv
-#EXTINF:-1,Radio Jovem de Tomar
-https://stream.zeno.fm/5qpwww1v4yzuv
-#EXTINF:-1,Radio Cantinho da Madeira
-http://109.71.41.6:8129/stream
-#EXTINF:-1,Radio Antonio Jorge Pais Tadeu
-https://node-03.zeno.fm/7whe2f0bdchvv?rj-ttl=5&amprj-tok=AAABflyM52QA2tgFgK7RujJPDQ
-#EXTINF:-1,Antena Web - Canal 94
-https://stream.zeno.fm/du3qu34mrv8uv
-#EXTINF:-1,Radio Nostalgia Elvas
-https://stream.zeno.fm/fuyexdguywzuv
-#EXTINF:-1,Chillout Lounge
-https://stream.zeno.fm/fkhnh09hkzzuv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-paraquedistas-626971-logo.jpg",Radio Paraquedistas
-http://46.4.94.39:9756/;
-#EXTINF:-1,Radio Ilheu
-https://stream.zeno.fm/9m8ktp5brm0uv
-#EXTINF:-1,Webradio Luzuca Metal
-http://freeuk21.listen2myradio.com:4099/
-#EXTINF:-1,Mekoo Dream pop Shoegaze
-https://stream.zeno.fm/3p91tudwbg8uv
 #EXTINF:-1,RCPFM 92.6 - Portugal - Pampilhosa
 https://sp0.redeaudio.com/9802/stream
-#EXTINF:-1,M80 Rádio – 70s
-https://mcrwowza7.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
 #EXTINF:-1,Rádio São Miguel FM 93.4 - Portugal - Penela
 https://nl.digitalrm.pt:8140/stream
 #EXTINF:-1,M80 Radio - 60&#039;s
 https://stream-icy.bauermedia.pt/m8060.aac
 #EXTINF:-1,Best of Rock.FM - Soft Rock.FM Listen live
 https://radio21.streamabc.net/radio21-softrock-mp3-256-8445450
-#EXTINF:-1,The SofzB Radio
-https://stream.zeno.fm/gekgns2p6e9uv
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QLPN94.png",RADIO FAUSTEX PORTUGUESE MUSIC 2
-https://freeuk6.listen2myradio.com/live.mp3?typeportmount=s1_14926_stream_13897174
-#EXTINF:-1,Radio fiambre
-https://stream.zeno.fm/7d2uennnhf9uv
-#EXTINF:-1,radio coracao da amizade
-http://94.23.214.38:9868/
-#EXTINF:-1,Radio Medley
-http://streaming.brazink.com:8010/?ver=346137
-#EXTINF:-1,Yoko Radio
-https://stream.zeno.fm/393vc0gv6k8uv
-#EXTINF:-1,Rádio Horizonte FM 92.8
-http://centova.radios.pt:9436/stream
-#EXTINF:-1,Maxi Digital Fado
-http://62.210.79.179:8012/
-#EXTINF:-1,Rádio Doce Paixão 
-http://s1.stmxp.net:7170/
-#EXTINF:-1,Antena Minho
-http://stream.radio.com.pt:9464/stream?type=.mp3
 #EXTINF:-1,Rádio Vendas Lotus
 http://server.vendaslotus.pt:9988/stream/
-#EXTINF:-1,Antena Web - Canal 18
-https://stream.zeno.fm/6ahtc3yhq18uv
-#EXTINF:-1,Radio No Fear
-http://88.198.72.46:9900
-#EXTINF:-1,Radio Comercial - Made in Portugal
-https://stream-icy.bauermedia.pthttp:/ctuga.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
-#EXTINF:-1,RadioNoveMaravilhas
-http://173.208.235.238:9512/
-#EXTINF:-1,Antena Web - Canal 66
-https://stream.zeno.fm/pghmgk69ay8uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37909/logo_Kx4Hzs0zFT.jpg?v=20260529-media-restore",Radio Palmeira
-http://radiosmadeira.net:8018/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-valdevez-578160-logo.jpg",Radio Valdevez
 http://centova.radios.pt:9508/stream/;
-#EXTINF:-1,Vibe FM
-http://91.121.109.80:8047/
-#EXTINF:-1,RadioGamesBr
-https://stream.zeno.fm/ff0b3vby0p8uv
 #EXTINF:-1,Radio Cartaxo
 http://centova.radios.pt:8531/
-#EXTINF:-1,Golo FM Portugal
-https://stream.zeno.fm/hpmf8p6taphvv
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OSL16S.png",Rádio Urbana
-http://213.136.92.8:8024/stream
-#EXTINF:-1,Radio Portus Alacer
-http://95.217.75.38:9286/
-#EXTINF:-1,Rádio Tradição
-https://stream.zeno.fm/r7xcobnoc3iuv
-#EXTINF:-1,Club 57
-https://stream.zeno.fm/v5699hkswrhvv
 #EXTINF:-1,Rádio Popular de Soure 104.4 FM
 http://nl.digitalrm.pt:8072/stream
-#EXTINF:-1,Rádio
-https://stream.zeno.fm/5kfwv060rxhvv
-#EXTINF:-1,eletronica
-https://stream.zeno.fm/f23t98q0x68uv
-#EXTINF:-1,Radio Orbital - 101.9 MHz FM
-https://stream.zeno.fm/pfcm0nepu5quv
-#EXTINF:-1,Radio cantinho da senhora da povoa 
-http://185.32.188.17:8065/stream
-#EXTINF:-1,Lounge Radio Portugal
-http://nl1.streamhosting.ch:80/stream.nsv
-#EXTINF:-1,Radio Grafia
-http://94.23.45.209:9302/stream/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-transcultural-599441-logo.jpg",Radio Rádio Transcultural
-http://02.stmip.in:7426/;
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37749/logo_UCPcPOrAdo.jpg?v=20260529-media-restore",RCL 99fm
 https://sp0.redeaudio.com/8116/stream
 #EXTINF:-1,Radio Comercial 2000
 https://stream-hls.bauermedia.pt/rcbest2000.aac/playlist.m3u8
-#EXTINF:-1,Radio x 10 centro
-https://stream.zeno.fm/gx8mnqerxk8uv
-#EXTINF:-1,Radio Luso Brasileira FM
-http://176.9.43.216:8105/stream
 #EXTINF:-1,On FM – Torres Vedras – Lisbon District – PT
 http://shoutcast.lunabroadcasting.net:8052/stream
-#EXTINF:-1,RadioMusicaqueTocaSeuCoracao
-https://stream.zeno.fm/pa53n8unqvrtv
-#EXTINF:-1,RADIO LBA
-https://stream.zeno.fm/huuy3wzscvstv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xat-rjg-632480-logo.jpg",Radio Xat - RJG
-http://s1.xps-ip.eu:8066/;
 #EXTINF:-1,Rádio Valdevez
 http://centova.radios.pt:9508/stream
-#EXTINF:-1,Antena Web - Canal 79
-https://stream.zeno.fm/kwvzm6w41s8uv
-#EXTINF:-1,Radio Ritmos Kalientes de Portugal
-http://192.99.18.13:8233/autodj
-#EXTINF:-1,ALENTEJO FM
-https://stream.zeno.fm/dtxq6phyurhvv
-#EXTINF:-1,Matosinhostv
-https://stream.zeno.fm/718rvmufs18uv
-#EXTINF:-1,Radio 5 Estrelas radio
-http://78.129.229.113:19733/stream.nsv
 #EXTINF:-1,Rádio Linear FM 88.6 - Portugal - Vila do Conde
 https://nl.digitalrm.pt:8184/stream
-#EXTINF:-1,LUA VERMALHA
-https://stream.zeno.fm/6usy5zka5p8uv
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37567/logo_yjwusXHRw6.png",Antena 2 Jazz in Radio
-https://radiocast.rtp.pt/antena2jazzin80a.mp3
-#EXTINF:-1,TLA Radio
-http://stream.radio.com.pt/ROLI-ENC-545
-#EXTINF:-1,Heavy Metal
-https://stream.zeno.fm/pha7cqs5h0hvv
 #EXTINF:-1,Radio Comercial - 2000s - Pop Hits from Portugal
 https://stream-icy.bauermedia.pt/rcbest2000.aac
-#EXTINF:-1,Rádio SBSR
-http://centova.radios.pt/proxy/435?mp=/stream
-#EXTINF:-1,Radio Lusitania CB radio
-https://stm11.painelcast.com:7118/
-#EXTINF:-1,Top FM – PT-13
-http://213.136.92.8:8038
-#EXTINF:-1,MR FAMILY – Alcoentre – Lisbon District – PT
-https://s2.stmxp.net:7060/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37698/logo_4USfKwmorI.jpg?v=20260529-media-restore",Rádio Vida Marília/Portugal
-https://stm15.xcast.com.br:11498/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37800/logo_oe4oJscpIT.png",Radioportusalacer
-https://stream.zeno.fm/ba5iojxol7vuv
 #EXTINF:-1,Rádio Popular Afifense
 http://centova.radio.com.pt:8471/
-#EXTINF:-1,Radio EuroPub radio
-http://hts08.kshost.com.br:11264/stream.nsv
-#EXTINF:-1,Rádio Voz da Planície – PT-02
-https://centova.radio.com.pt/proxy/441?mp=/stream
-#EXTINF:-1,radio_ondas_lethes_rio_lima
-http://198.50.197.90:9860/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiotop60olhao-624977-logo.jpg",RadioTop60Olhao
-http://5.9.17.124:9658/;
 #EXTINF:-1,Radio Faustex Portuguese Music 2 radio
 https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s1_35528_stream_784242911stream.nsv
-#EXTINF:-1,Rádio Kris wb
-https://stream.zeno.fm/8z51p6ha5uhvv
 #EXTINF:-1,RFM - 00's - Portugal - Lisbon
 https://27793.live.streamtheworld.com:443/LIVESTREAMAAC.aac
-#EXTINF:-1,DECOMPRESSION
-https://stream.zeno.fm/21ktaq97ec9uv
 #EXTINF:-1,Mega Hits FM 92.4
-http://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC
-#EXTINF:-1,Veep Radio
-https://www.radioking.com/play/dinamik-radio
-#EXTINF:-1,Selajahfary Radio
-https://stream.zeno.fm/ed9dtdeddc9uv
-#EXTINF:-1,Radio 100
-https://stream.zeno.fm/03hdwzjki0zuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37670/logo_YNxjSdrZf5.jpg?v=20260529-media-restore",Rádio Tágide
-https://rs2.ptservidor.com/proxy/carlos31?mp=/stream
-#EXTINF:-1,RADIO FAUSTEX OLD-HITS
-https://stream.zeno.fm/a67xzuapdphvv
-#EXTINF:-1,Rádio Super Santiago
-https://stream.zeno.fm/c9fu779r538uv
+http://25553.live.streamtheworld.com/MEGA_HITS_SC
 #EXTINF:-1,Radio Da Maria
 https://server.vendaslotus.pt:7020/stream?icy=http
-#EXTINF:-1,Smooth Radio West Midlands Listen live
-https://media-ssl.musicradio.com/SmoothNorthWest
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127889.v1.png",Rádio AVFM 
-https://uk2.streamingpulse.com/ssl/radioavfm
 #EXTINF:-1,PEF – Posto Emissor do Funchal (Canal 2) – 92.0 FM – Funchal – Madeira – PT
 http://centova.radios.pt:9426/listen.pls
-#EXTINF:-1,Antena Web - Canal 54
-https://stream.zeno.fm/srrqhbsbby8uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dos-anjos-625041-logo.jpg",Radio dos Anjos
-http://136.243.71.35:9768/;
-#EXTINF:-1,RADIO NOVA/FAUSTEX
-http://shaincast.caster.fm:21111/listen.mp3?authn9724e67f16a491036fc303f739323324
-#EXTINF:-1,ZukaxNéVida
-https://stream.zeno.fm/kgujt0b0hlxvv
-#EXTINF:-1,RÁDIO   SALZEDAS PORTUGAL
-https://stream.zeno.fm/fz061bygka0uv
-#EXTINF:-1,Radio Ondas Cabreira
-http://s4.stm-ip.eu:7012/
-#EXTINF:-1,Radio Faustex Oldies
-http://listen.radionomy.com/radiofaustexoldies
 #EXTINF:-1,Radio Pirate - Portugal - Aveiro
 https://sp0.redeaudio.com/9976/stream
-#EXTINF:-1,AS BRABA DO ABELHA
-https://stream.zeno.fm/dryajwrg9ybtv
-#EXTINF:-1,KickDown
-https://node-26.zeno.fm/stfx0h5gr2zuv.aac?rj-ttl=5&amprj-tok=AAABc9173CwAGmzKWBxlqJs-uw
 #EXTINF:-1,RADIO FAUSTEX 6
-http://streaming.radionomy.com/RADIOFAUSTEX6?
-#EXTINF:-1,RADIO SEREIA
-https://stream.zeno.fm/h25p0ztvnc9uv
-#EXTINF:-1,Radio Обозреватель - Шансон Listen live
-https://radio-stream-0.obozrevatel.com/shanson128.mp3
-#EXTINF:-1,RADIO FM MUSICAL
-https://stream.zeno.fm/f7h0hqr3uhhvv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-marte-madeira-646463-logo.jpg",Radio Marte Madeira
 http://138.201.198.218:8010/;
-#EXTINF:-1,Brazuca Flash – PT-18
-https://ssls.stmxp.net:8237/stream
 #EXTINF:-1,Rádio do Concelho de Mafra
 http://centova.radio.com.pt:8551/
 #EXTINF:-1,Dao Digital - Portugal - Mangualde
 https://nl.digitalrm.pt:8206/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pestinhas-music-617248-logo.jpg",Radio Rádio Pestinhas Music
-http://s1.xps-ip.eu:8022/;
-#EXTINF:-1,BA MOZART RADIO
-https://stream.zeno.fm/yvs1syvrc18uv
-#EXTINF:-1,HRT - Radio Pula Listen live
-https://21223.live.streamtheworld.com/PULAAAC.aac
-#EXTINF:-1,Baile da tropa
-https://stream.zeno.fm/3w91xm4kb8zuv
-#EXTINF:-1,RADIO DANRUI MUSIC
-https://stream.zeno.fm/qnvedbar1bxuv
-#EXTINF:-1,Radio Amigos Josh
-https://stream.zeno.fm/vcahy3stzhrvv
-#EXTINF:-1,RADIO_SINTONIA_ACOREANA
-https://stream.zeno.fm/ggsq2k53xuhvv
-#EXTINF:-1,Proper Rádio
-https://stream.zeno.fm/7ns6gddz5bhvv
-#EXTINF:-1,Raizes do Minho
-http://136.243.71.35:9858/
-#EXTINF:-1,Rádio Ideias – Sintra – Lisbon District – PT
-http://b0ne.hopto.org:8443/radioideias
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-academia-da-musica-621423-logo.jpg",Radio academia da musica
-http://78.47.96.202:8226/;
 #EXTINF:-1,Radio lisboa live
 https://sonicpanel.oficialserver.com/8326/stream
-#EXTINF:-1,wxanta
-https://stream.zeno.fm/ew2gmkwvgkuuv
-#EXTINF:-1,RADIO FAUSTEX PARTY
-http://82.145.59.200:25813/
-#EXTINF:-1,Rádio Motard FM Radio
-https://stream.pcradio.ru/motard_fm-med
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37805/logo_gsqiXYm4cq.png",Radio Online Adorando Jesus
 https://stm3.srvif.com:8088/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/amigos-das-gafanhas-623104-logo.jpg",Radio AMIGOS DAS GAFANHAS
-http://46.4.94.39:9792/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37925/logo_jRsIDilvz8.jpg?v=20260529-media-restore",Rádio Corval Alentejo
-https://centova.radio.com.pt/proxy/184?mp=%2Fstream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-unidos-para-sempre-629303-logo.jpg",Radio Rádio Unidos Para Sempre
-http://212.129.34.67:9735/;
-#EXTINF:-1,OH SEU ANTA RADIO
-https://stream.zeno.fm/c7935byfm48uv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-favor-radio-portugal-logo.jpg",Favor Radio (Portugal)
 https://a10.asurahosting.com:7660/portugal.mp3
-#EXTINF:-1,Rádio AlcabidecheFM – Barreiro – PT-15
-http://185.32.188.17:8038/stream
-#EXTINF:-1,HTV_EL_PODER_LA_MUSICA
-https://stream.zeno.fm/xsaere5obm5tv
-#EXTINF:-1,Castelo de Vide
-http://195.200.253.179:8050/
-#EXTINF:-1,Radio Comercial - Rock
-https://stream-icy.bauermedia.pthttp:/crock.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
-#EXTINF:-1,Rádio Agita
-https://www.radioking.com/play/radioagita
 #EXTINF:-1,M80 Radio
 https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8
 #EXTINF:-1,widecom radio
 https://listen.radioking.com/radio/42445/stream/79033
-#EXTINF:-1,Só as melhores
-https://stream.zeno.fm/btxmdacbguhvv
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37593/logo_r8TxABFHUi.png",RÁDIO REGIONAL CHAVES
-https://play1.radioregional.pt/stream/4/
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/133105.v5.png",YÉYÉ rádio 
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/133105.v5.png",YÉYÉ rádio
 https://s4.radio.co/s32bfb521e/listen
 #EXTINF:-1,Radio Santiago LD
 http://s5.stmxp.net:8004/stream
-#EXTINF:-1,irmao carlos
-https://stream.zeno.fm/1gek4x3geq8uv
-#EXTINF:-1,Radio Oasis Portugal
-http://5.9.17.124:9966/
 #EXTINF:-1,Rádio Amália FM
 http://centova.radios.pt:9496/stream
-#EXTINF:-1,Rádio Portugal News AM
-https://stream-058.zeno.fm/kgkdr4frnc9uv?zs=-QvwslxSQBCuB6eN4l5tmw
 #EXTINF:-1,Radio Manchete - Portugal - Penacova
 https://radios.justweb.pt/8008/stream
-#EXTINF:-1,Magui Rádio Mística
-http://46.4.94.39:9780/
-#EXTINF:-1,Radio Tulipas do Amor 2014
-http://46.4.94.39:9306/
-#EXTINF:-1,Radio Cidade de Tomar
-http://193.164.131.215:9306/stream
-#EXTINF:-1,BARGASFM
-http://195.154.182.222:25170/live
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mersom-172855-logo.jpg",Radio Mersom
-http://109.71.41.250:8090/
-#EXTINF:-1,Web Rádio Aemm Vila Real
-https://stream.zeno.fm/mzlfyy0xyfmuv
-#EXTINF:-1,Radio Portugal Emigrante 2015
-http://46.4.94.39:9802/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/webclbportugal-616773-logo.jpg",Radio webclbportugal
-http://198.143.132.154:9872/;
-#EXTINF:-1,Tutorial
-https://stream.zeno.fm/mqga3u31yp8uv
-#EXTINF:-1,Antena Web - Canal 60
-https://stream.zeno.fm/dyy9tt3uqv8uv
-#EXTINF:-1,The Mighty Diamonds - Selajahfary.com
-https://stream.zeno.fm/s3ftq0fu2f8uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lafoes-578033-logo.jpg",Radio Lafoes
-http://centova.radios.pt:9564/;
-#EXTINF:-1,Edelion - In Deep Love
-https://stream.zeno.fm/wzsctf5vczhtv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37762/logo_xiIuRrKjPN.jpg?v=20260529-media-restore",Radialistas de Viseu
-https://stream.zeno.fm/77r7ufhaz98uv
-#EXTINF:-1,Classic Rock Portugal radio
-http://online.classicrock.pt:8002/
-#EXTINF:-1,RDS Radio 87.6
-http://51.255.118.192:8020/stream/1/
-#EXTINF:-1,Radio Susanense
-http://s1.xps-ip.eu:8068/stream.nsv
 #EXTINF:-1,Radio Clube Da Meda
 http://195.23.85.126:8493/stream
-#EXTINF:-1,Radio Faustex Portuguese Music 2
-http://78.129.224.21:25996/
-#EXTINF:-1,RÁDIO H
-https://cast.evsportugal.com:2199/start/radioh
-#EXTINF:-1,Trance
-https://stream.zeno.fm/8wmn243f6f8uv
-#EXTINF:-1,RADIO SONS DO OCEANO
-http://198.50.197.90:9828/
-#EXTINF:-1,Radioostugas
-http://136.243.71.35:9838/
-#EXTINF:-1,LUNA FM - Quiet Storm - Portugal - Alcochete
-https://cast1.lunabroadcasting.net/listen/quietstorm/radio.aac
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/77519.v9.png",Web Rádio Portugal Online 
-https://stm12.voxhd.com.br:9114/
-#EXTINF:-1,Os Sucessos de Ontem
-https://stream.zeno.fm/5qtvgween98uv
 #EXTINF:-1,Alvor FM – 90.1 FM – Alvor – PT-08
 http://centova.radios.pt:8469/listen.pls
-#EXTINF:-1,Super Web Radio Ativa
-http://fox1.streamjei.com.br:7020/
 #EXTINF:-1,Kiss Fm
 http://nl.digitalrm.pt:8024/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/all-stars-radio-603562-logo.jpg",All Stars Radio
-http://s1.xps-ip.eu:8008/;
-#EXTINF:-1,SUA RADIO.pt
-https://stream.zeno.fm/ie03ubc9i3ytv
 #EXTINF:-1,RCM – Rádio do Concelho de Mafra – Mafra – Lisbon District – PT
 http://centova.radio.com.pt:8551
-#EXTINF:-1,cidade_da_wish
-https://stream.zeno.fm/sabc0gdwvs8uv
-#EXTINF:-1,Rádio Fundação – Guimarães – PT-03
-http://46.105.172.166:8044
 #EXTINF:-1,Zig Zag
 https://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8
 #EXTINF:-1,Sintonia Feirense - Portugal - Santa Maria da Feira
 https://sp0.redeaudio.com/9832/stream;
-#EXTINF:-1,Radio Fuzetaman
-https://stream.zeno.fm/9fxds61zjvnuv
 #EXTINF:-1,Rádio Tranquilidade – Lisbon – Lisbon District – PT
 http://www.iasdcoimbra.tv:8000/stream/1/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-faustex-relax-2-logo.jpg",Radio Faustex Relax 2
-https://freeuk24.listen2myradio.com/live.mp3?typeportmount=s1_39125_stream_901229985;stream.nsv
-#EXTINF:-1,Rádio Jovem FM
-http://199.233.234.34:8751/stream/1/
 #EXTINF:-1,Rádio Amizade Viva radio
 https://stream2.svrdedicado.org/8434/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37713/logo_37eF5iAcA0.jpg?v=20260529-media-restore",Radio Balada Musical
-https://ssl.stmxp.net:7224/stream
-#EXTINF:-1,Radios PT Algarve - Radio Fe
-https://stream.zeno.fm/nc526fv1k18uv
-#EXTINF:-1,FM5035
-https://stream.zeno.fm/fam3k7kyaphvv
-#EXTINF:-1,RADIO ESTRELINHA
-https://stream.zeno.fm/wdbxjciyl7wtv
 #EXTINF:-1,Radio Nova Oeste
 https://s1.stmxp.net:7164/stream.mp3
-#EXTINF:-1,RÁDIO REGIONAL NACIONAL HD
-https://play3.radioregional.pt/stream/2/
-#EXTINF:-1,ArpeggioRadio
-http://159.8.16.16:7113/stream/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37647/logo_c2nKoEkREx.png",Radio Amor Eterno
-https://ssl.stmxp.net:7134/stream
-#EXTINF:-1,Rádio Portimão – 106.5 FM – Portimão – PT-08
-http://95.217.75.38:9440/
-#EXTINF:-1,Music4U
-https://stream.zeno.fm/cdd5sn7q7whvv
-#EXTINF:-1,Web Radio Estamos Em Familia
-https://stream.zeno.fm/0mahpt7pnc9uv
 #EXTINF:-1,Rádio Autónoma - Portugal - Lisbon
 https://spaudio.servers.pt/8006/stream
 #EXTINF:-1,Radio Atlantida - Portugal - Ponta Delgada
 https://cast1.lunabroadcasting.net/listen/atlantida/radio.mp3
-#EXTINF:-1,Rust Station
-https://stream.zeno.fm/xe013ays108uv
-#EXTINF:-1,VintageRadio
-https://stream.zeno.fm/mr5lx2wzng4vv
-#EXTINF:-1,Rede Atividade News radio
-https://stream.zeno.fm/ans27lh4sikuv
-#EXTINF:-1,RADIO VIRIATO ONLINE
-https://stream.zeno.fm/uenpwvxnk98uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-amor-e-carinho-597462-logo.jpg",RADIO AMOR E CARINHO
-http://195.154.176.199:8243/;
-#EXTINF:-1,Lusophonica
-https://stream.radiojar.com/dxkmh6hv1f8uv?1651072328
-#EXTINF:-1,RadioEstrelaDosAmigos
-https://ssl.radioestreladosamigos.com:7025/
-#EXTINF:-1,YourVision Radio
-https://stream.zeno.fm/530kw2p081zuv
-#EXTINF:-1,Mekoo Post punk Goth INDIE SETEMBRO 2021
-https://stream.zeno.fm/nf5v7dznh48uv
-#EXTINF:-1,Radio Ancorensis Listen live
-https://stream.zenolive.com/pg1e6yrywxquv.aac
-#EXTINF:-1,BALEIA NÉ VIDAH
-https://stream.zeno.fm/n5q9wtgnc0hvv
-#EXTINF:-1,Rádio Mira – Mira – PT-06
-https://stm4.xcast.com.br:11654/stream
-#EXTINF:-1,Onda Livre Rádio
-https://centova.radio.com.pt/proxy/572?mp=/stream
-#EXTINF:-1,Guiznx O espanca utero
-https://stream.zeno.fm/pebn6k5c0hhvv
-#EXTINF:-1,Rádio Sines 95.9 FM
-http://95.217.75.38:9580/stream
 #EXTINF:-1,RADIO M.R.A
 https://stm1.marioaleixo.top:7002/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-minho-e-douro-614200-logo.jpg",Radio Minho e Douro
-http://strm3.djhost.info:9724/;
-#EXTINF:-1,BingoStrike
-https://stream.zeno.fm/q6rydc3tn18uv
-#EXTINF:-1,Radio Universitaria do Minho radio
-https://centova.radio.com.pt/proxy/558?mp=/stream
 #EXTINF:-1,Rádio Portimão
 https://sp0.redeaudio.com/9440/stream
-#EXTINF:-1,Sagres Rádio
-http://stream.zeno.fm/q9k377tdzy8uv
 #EXTINF:-1,Rádio Vidigueira 90 FM
 http://centova.radio.com.pt:8567/stream
-#EXTINF:-1,Testamento WB
-https://stream.zeno.fm/hx2hohjuvukuv
-#EXTINF:-1,RADIO FAUSTEX OLDIES
-http://109.169.15.20:17777/
 #EXTINF:-1,Radio Forum Boticas
 http://188.93.231.97:9300/
-#EXTINF:-1,Luna Quiet Storm
-http://shout2.lunabroadcasting.net:7074/stream.mp3?ver=364864
 #EXTINF:-1,Radio Clube de Grandola - RCG
 http://centova.radios.pt:9474/;
-#EXTINF:-1,Radio Voz de Matosinhos
-http://213.136.92.8:8060/
 #EXTINF:-1,Rádio Clube da Madeira 106.8 FM
 http://radiosmadeira.net:8020/
 #EXTINF:-1,Radio Popular
 http://centova.radios.pt:8471/stream/
 #EXTINF:-1,Rádio Praia Porto Santo 91.6FM
 http://centova.radio.com.pt:9548/stream
-#EXTINF:-1,Radio Comercial - Best 90&#039;s
-https://stream-icy.bauermedia.pthttp:/cbest90.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
-#EXTINF:-1,radio pular
-https://stream.zeno.fm/w9pb36c8uwzuv
-#EXTINF:-1,TheTest
-https://stream.zeno.fm/85vvtuh6098uv
-#EXTINF:-1,TESTE 1
-https://stream.zeno.fm/6pvtc4msf48uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37684/logo_wqJNHB82D0.jpg?v=20260529-media-restore",Radio Paixao FM
 https://stream2.soundflux.eu/8146/stream
-#EXTINF:-1,Antena 1 - Portugal - Lisbon
-https://radiocast.rtp.pt/antena180a.mp3
-#EXTINF:-1 tv-logo="",Radiocascaissintra
-http://185.32.188.17:8015/;
-#EXTINF:-1 tv-logo="",RADIO TUGA Night
-http://198.50.197.90:9322/;
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37947/logo_bEHAx1y5Jx.jpg?v=20260529-media-restore",Radioeste
 https://radios2.justweb.pt:8004/:8000/
 #EXTINF:-1,Rádio Sesimbra FM
 http://195.23.85.126:9444/stream
-#EXTINF:-1,RADIO FAUSTEX 2 radio
-http://freeuk27.listen2myradio.com:15859/stream.nsv
 #EXTINF:-1,Songs For The Deaf Radio
 http://hyades.shoutca.st:8270/stream
-#EXTINF:-1,Rádio Braga
-https://s13.maxcast.com.br:8268/live?id=1630449063817
-#EXTINF:-1,Radio amor caliente
-http://148.251.253.98:9814/
-#EXTINF:-1,BillDorey music
-https://stream.zeno.fm/1hden559n98uv
-#EXTINF:-1,Algarve FM 91.8
-http://213.239.218.99:7128/streamstream/1
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-indyeamigos-617419-logo.jpg",Radio indyeamigos
-http://94.23.76.235:9898/;
-#EXTINF:-1,Mekoo And Miike Goth rock Goth wave Vol - 2
-https://stream.zeno.fm/3wb0zh2ckg0uv
-#EXTINF:-1,Groito Radio
-https://stream.zeno.fm/eukaczt9hg8uv
 #EXTINF:-1,RDS - Rádio Seixal
 https://s9.yesstreaming.net:7070/stream
-#EXTINF:-1,Rádio Comercial online Famalicão
-https://stream.zeno.fm/rgcdnd1n9hhvv
 #EXTINF:-1,RFM 80's
-http://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
-#EXTINF:-1,Habbo Futsal Cup
-https://stream.zeno.fm/puhyg7qvudhvv
-#EXTINF:-1,Radio Golo Fm radio
-https://s9.yesstreaming.net:18032/live
-#EXTINF:-1,RCB - Rádio Cova da Beira - Portugal - Fundão
-https://centova.radio.com.pt/proxy/467?mp=/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/plus-167795-logo.jpg",Radio Plus +
-http://81.92.219.14:8103
-#EXTINF:-1,102 FM Rádio – 102.0 FM – Peniche – PT-10
-https://freeuk20.listen2myradio.com/live.mp3?typeportmount=s2_17492_stream_497278169
-#EXTINF:-1,XOXOTA FM
-https://stream.zeno.fm/w7ypv75phs8uv
-#EXTINF:-1,Genesis FM
-https://stream.zeno.fm/633c6s5m1k0uv
-#EXTINF:-1,radio gordin
-https://stream.zeno.fm/67ehb9z7mg0uv
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37645/logo_Ktmtj15jWE.png",Radio Albufeira Online
-http://stream.zeno.fm/en3v5u9zarruv
-#EXTINF:-1,Bblack Radio Listen live
-https://radio-streaming.net/france/ouest-fm/icecast.audio
-#EXTINF:-1,Rádio Castedo do douro
-https://stream.zeno.fm/efh42ampmkhvv
+http://28563.live.streamtheworld.com/RFM_SC
 #EXTINF:-1,Radio Noar
 https://radios.justweb.pt:7016/
-#EXTINF:-1,RLX - Rádio Lisboa
-https://stream.zeno.fm/kc1u4bc4fm0uv
-#EXTINF:-1,radio portuguesa mix
-http://88.198.72.46:9974/
-#EXTINF:-1,Radio Sheherazade Musica Hip Hop
-https://node-28.zeno.fm/qn2ysp5ph48uv
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZLA4UT.png",Brazuca Flash
-http://62.210.178.71:8237/streem
-#EXTINF:-1,Chaves FM – 93.5 FM – Chaves – PT-17
-http://213.136.92.8:8004
-#EXTINF:-1,RADIO WUTSALA
-https://stream.zeno.fm/88zqt3yz0f8uv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-felgueiras-logo.jpg",Radio Felgueiras
 http://centova.radios.pt:8459/stream/;
-#EXTINF:-1,BY MIRO PORTUGUES
-https://stream.zeno.fm/mn737hgyfxhvv
 #EXTINF:-1,Smooth FM - Cool
 https://stream-icy.bauermedia.pt/smocool.aac
-#EXTINF:-1,Radio bruas
-https://stream.zeno.fm/r70rgyvc5uhvv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-clbportugal-logo.jpg",Radio ClbPortugal
-http://51.75.145.68:9872/;stream.mp3
-#EXTINF:-1,Boa Onda - Portugal
-https://stream.zeno.fm/5hr349uf5ehvv
-#EXTINF:-1,RADIO ONDA MUSICAL MIX
-https://stream.zeno.fm/q3d81qgt7k8uv
-#EXTINF:-1,Radio Globalmix, Porto radio
-https://ssl.stmxp.net:7220/
-#EXTINF:-1,Enrola punho Radio
-https://stream.zeno.fm/fapvwugnzd0uv
-#EXTINF:-1,Rádio Jornal Artistas de Portugal
-https://stream.zeno.fm/wq182xg704zuv
 #EXTINF:-1,Antena3 Madeira
 https://streaming-live.rtp.pt/liveradio/antena3madeira80a/chunklist_DVR.m3u8
-#EXTINF:-1,radioconquistador2014oficial
-http://213.202.233.13:9984/
-#EXTINF:-1,ThiagoAzedoFM – Lisbon – Lisbon District – PT
-http://stream.zeno.fm/y9qfmteths8uv
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37843/logo_QzW5YDkQYg.png",Modern Italo Euro Radio
-http://stream.zeno.fm/pa8zvdg0bsdtv
-#EXTINF:-1,Luso Hallyu
-https://stream.zeno.fm/vux9wz0grd0uv
-#EXTINF:-1,Rádio Horizonte Algarve 96.9 FM
-http://stream.radio.com.pt/roli-enc-458
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-pinhoense-logo.jpg",Radio Pinhoense
 https://ssl.ndvendas.eu:9464/;
 #EXTINF:-1,Rádio Cister FM – 95.5 FM – Alcobaça – PT-10
 http://centova.radio.com.pt:8453
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/setubal-webradio-614154-logo.jpg",Setubal WebRadio
-http://78.47.96.202:8172/;
-#EXTINF:-1,Associação Cultural Melodias de Aveiro
-http://webradio.melodias-aveiro.pt:9996/stream
-#EXTINF:-1,Rádio Dreams – Cascais – Lisbon District – PT
-http://195.154.176.199:8195/stream
 #EXTINF:-1,Radio Comercial Santos Populares
 https://stream-hls.bauermedia.pt/rcsantos.aac/playlist.m3u8
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/era-fm-180626-logo.jpg",Radio ERA FM
-http://78.46.237.229:8700/;
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37601/logo_gNla1ZbclS.jpg?v=20260529-media-restore",Smooth FM - Bossa Nova
 https://stream-icy.bauermedia.pt/smobossa.aac
-#EXTINF:-1,radioava.global – Lisbon – Lisbon District – PT
-http://185.118.112.12:8029/stream.mp3
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ODF2DU.png",Mais Kizomba
-http://109.71.41.6:8123/stream?1493819315934.mp3
 #EXTINF:-1,Rádio Nova Antena - Portugal - Montemor-o-Novo
 https://radios2.justweb.pt/8068/stream
-#EXTINF:-1,LUNA FM – Quiet Storm
-http://shout2.lunabroadcasting.net:7074/stream
-#EXTINF:-1,Rádio Regiao de Basto 105.6 FM
-http://46.105.172.166:8104
-#EXTINF:-1,Radio Romantica
-http://5.9.14.150:7040/
-#EXTINF:-1,RCI Viseu – 104.8 FM – PT-18
-http://213.239.218.99:7032/listen.pls?sid=1
-#EXTINF:-1,RadioOnAir
-https://stream.zeno.fm/nyra4fhqz7zuv
-#EXTINF:-1,RES FM  
+#EXTINF:-1,RES FM
 http://stream2.soundflux.eu:8440/stream
-#EXTINF:-1,JAGUAR
-https://stream.zeno.fm/scbg7zhppd0uv
 #EXTINF:-1,M80 Radio - 90&#039;s
 https://stream-icy.bauermedia.pt/m8090.aac
 #EXTINF:-1,Zoom Lusófona
 https://audio.serv.pt/8030/stream
-#EXTINF:-1,Rádio Clube de Pombal 97 FM - Portugal - Pombal
-https://centova.radios.com.pt/proxy/410?mp=/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37671/logo_dpEA2t0BBh.png",Radio Fundacao
 https://radios2.justweb.pt:8092/stream
 #EXTINF:-1,Rude Party Web Radio – PT-01
 http://176.9.43.216:8346/
 #EXTINF:-1,RCA Ribatejo radio
 https://stream2.soundflux.eu/8430/stream
-#EXTINF:-1,RadioAltas
-https://stream.zeno.fm/a3ewtdvy9vzuv
-#EXTINF:-1,Radio BLUE SKY
-https://stream.zeno.fm/axadc8vfmy8uv
 #EXTINF:-1,Rádio Inquieta - Portugal - Guimaraes
 https://servidor20-3.brlogic.com:7022//live
-#EXTINF:-1,BrokerFM
-https://stream.zeno.fm/kazcd5t3q98uv
 #EXTINF:-1,4DJ 4Drive Jazz
 https://radio.streemlion.com:4870/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-tsf-logo.jpg",Radio TSF
-https://gmg-tsfdireto.global.ssl.fastly.net/tsf1-dfg98mnb0/emissao/playlist.m3u8
-#EXTINF:-1,Rádio Jornal do Centro radio
-https://sp0.redeaudio.com/9120/stream
-#EXTINF:-1,Radios PT Algarve - Radio Louvores
-https://stream.zeno.fm/qzfsz1p6g18uv
-#EXTINF:-1,AlphaJR
-https://stream.zeno.fm/bk681tbmxxhvv
-#EXTINF:-1,Rádio Transcultural – Quarteira – PT-08
-http://02.stmip.in:7426/
 #EXTINF:-1,Rádio Vida Nova – Ansião – PT-10
 http://centova.radio.com.pt:8061
-#EXTINF:-1,Mekoo Post punk Shoegaze Goth Indie March 2021
-https://stream.zeno.fm/x1nuc17uaq8uv
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37985/logo_Ml2gQZMTOH.png",Rádio Braga
-http://stream.zeno.fm/msb59desrp8uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/amor-dos-imigrantes-623400-logo.jpg",Radio AMOR DOS IMIGRANTES
-http://46.4.94.39:9886/;
-#EXTINF:-1,On the Radio- Lisbon
-https://stream.zeno.fm/z51d7nptwrhvv
-#EXTINF:-1,Mid-Time Radio
-https://stream.zeno.fm/ipzau86yt1evv
-#EXTINF:-1,Rádio Lafões FM 
+#EXTINF:-1,Rádio Lafões FM
 https://sp0.redeaudio.com/9304/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BO11CZ.png",Rádio Cova da Beira
 http://centova.radios.pt:8467/
-#EXTINF:-1,ABC Portugal FM radio
-https://centova.radio.com.pt/proxy/547?mp=/stream
-#EXTINF:-1,Radio 95fm
-http://213.239.218.99:7027/stream?type=.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-coracao-do-alentejo-logo.jpg",Radio Coração do Alentejo
 http://rca.radiocoracaoalentejo.com:8016/;
-#EXTINF:-1,Noventa Rádio Dance Listen live
-https://stream.zenolive.com/qg8x4wyuyqzuv.aac
-#EXTINF:-1,Rádio Caria 102.5 FM
-http://stream.radio.com.pt:8521/stream
 #EXTINF:-1,4Drive Jazz – Cascais – Lisbon District – PT
 https://radio.streemlion.com:1150/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/beat-pt-620877-logo.jpg",Radio Beat PT
-http://185.32.188.17:8043/;
-#EXTINF:-1,RADIO FAUSTEX PORTUGUESE MUSIC 2
-http://109.169.23.22:14926
-#EXTINF:-1,Rádio Lusoportuguesa
-https://player.stmxp.net/proxy/7022
-#EXTINF:-1,Radio Coração do Alentejo 
-https://rs2.ptservidor.com/proxy/orlando?mp=/stream?type=.mp3
-#EXTINF:-1,PlayList 1
-https://stream.zeno.fm/hhhcasdpk98uv
-#EXTINF:-1,Radio Faustex – Orchestres 2
-https://freeuk3.listen2myradio.com/live.mp3?typeportmount=s1_18254_stream_613323302
-#EXTINF:-1,Eletro Swing
-https://stream.zeno.fm/e23vhtfrg48uv
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/19076.v5.png",Radio Nova Antena RNA 
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/19076.v5.png",Radio Nova Antena RNA
 https://radios2.justweb.pt:8068/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-porto-life-622213-logo.jpg",RADIO PORTO LIFE
-http://62.210.79.179:8028/;
-#EXTINF:-1,LUNA FM -  Portugal Listen live
-https://lunaportugal.lunabroadcasting.net:80/listen
-#EXTINF:-1,radioscalabitana
-http://5.9.17.103:9372/
 #EXTINF:-1,TLA Rádio
 http://centova.radio.com.pt:8545/
-#EXTINF:-1,Rádio Interativa FM radio
-https://stream.zeno.fm/kvuya0t4gc9uv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-ondas-do-douro-logo.jpg",Radio Ondas do Douro
 https://server.vendaslotus.pt:7028/;stream.nsv
-#EXTINF:-1,GOSTO CRU
-https://stream.zeno.fm/a1wkkuu6kfhvv
 #EXTINF:-1,Rádio Miúdos
 https://s5.radio.co/s9c516a065/listen
-#EXTINF:-1,Porokhane FM Listen live
-https://betelgeuse.dribbcast.com/proxy/mamediarra?mp=/server
-#EXTINF:-1,RADIO ROMANCE FM
-https://stream.zeno.fm/amrh0nnvqnhvv
-#EXTINF:-1,Radio Feiticeira do Amor
-http://stream-ip.eu:8032/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37724/logo_RAioEgld3t.png",HITS CUBA Radio
-https://azura.servercast.com.br/listen/hits_cuba/radio.mp3
-#EXTINF:-1,Guetto
-https://stream.zeno.fm/68vecqzqtg0uv
-#EXTINF:-1,WWE PT_BR
-https://stream.zeno.fm/0sw3ar64es8uv
-#EXTINF:-1,Killer BOT
-https://stream.zeno.fm/8384pttn17zuv
-#EXTINF:-1,Natal todo ano
-https://stream.zeno.fm/83ahn089u68uv
-#EXTINF:-1,Radio Nove Maravilhas – Vila Nova de Gaia – PT-13
-http://s2.stmxp.net:7154
-#EXTINF:-1,radio dance portugal
-https://stream.zeno.fm/8m67z0tddchvv
 #EXTINF:-1,Radio Hertz 92 FM - Portugal - Tomar
 https://radios2.justweb.pt/8042/stream;
-#EXTINF:-1,Web Radio Açoriana
-https://ssl.stmxp.net:7044/stream
-#EXTINF:-1,Aacplus
-http://88.198.72.46:9976/
-#EXTINF:-1,RÁDIO ESCOLAR lombo guiné
-https://stream.zeno.fm/mbruyzfe21zuv
-#EXTINF:-1,Rádio CantoBAVIrock
-http://stream.zeno.fm/x170n54cc9quv
-#EXTINF:-1,Rádio Festival – 94.8 FM – PT-13
-http://centova.radios.pt:9520
-#EXTINF:-1,Let It Be Radio
-http://185.11.164.106:8002/stream?type=.mp3
-#EXTINF:-1,RADIO FAUSTEX CLASSICAL MUSIC
-https://stream.zeno.fm/zpedx3qndphvv
-#EXTINF:-1,Rádio Voz da Ria
-http://78.129.189.182:15133/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-nostalgia-elvas-logo.jpg",Radio Rádio Nostalgia Elvas
-http://stm6.srvstm.com:6162/;
-#EXTINF:-1,Radio Amizades Sem Limite
-http://136.243.71.35:9868/
-#EXTINF:-1,RADIO ESTRELA DO TAMEGA
-http://136.243.71.35:9974/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rdio-kapa-181597-logo.jpg",Radio R?dio Kapa
-http://81.92.203.6:8029
 #EXTINF:-1,Cabriz Radio – Lisbon – Lisbon District – PT
 http://stm1.xcast.com.br:10996
 #EXTINF:-1,PEF – Posto Emissor do Funchal (Canal 1) – 1530 AM – Funchal – Madeira – PT
 http://centova.radio.com.pt:9422
-#EXTINF:-1,Remember FM – Lisbon – Lisbon District – PT
-http://176.9.43.216:8449/index.html/
-#EXTINF:-1 tv-logo="",RADIO DJ LOBO E AMIGOS
-http://46.4.94.39:9316/;
-#EXTINF:-1,Dj Moon
-https://stream.zeno.fm/cv6ppamhswzuv
-#EXTINF:-1,Radio Montemuro 87.8 FM radio
-https://eu8.fastcast4u.com/proxy/montemuro?mp=/1
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/80s-rfm-587728-logo.jpg",Radio 80's RFM
-http://player.streamtheworld.com/liveplayer.php?CALLSIGN=GR80SRFM
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HOBV07.png",RADIO FAUSTEX 5 (2)
-https://freeuk25.listen2myradio.com/live.mp3
-#EXTINF:-1,Radio Voz dos Acores – Ponta Delgada – Azores – PT
-http://ca5.rcast.net:8024/
-#EXTINF:-1,Lisboa Sound
-https://stream.zeno.fm/2444ratq2p8uv
-#EXTINF:-1 tv-logo="",Radio Rádio Verdadeiro Amor Infinito
-http://centova.hostingfull.eu:8855/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37789/logo_mL5lenEv5n.jpg?v=20260529-media-restore",Rádio Talego
-http://stream.zeno.fm/qy7zrpumq2zuv
-#EXTINF:-1,RADIO RCP-VAR 
+#EXTINF:-1,RADIO RCP-VAR
 https://sonic.servsonic.com/8028/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/deusadossonhos-648903-logo.jpg",Radio DEUSADOSSONHOS
-http://s1.xps-ip.eu:8096/;
-#EXTINF:-1,Rádio Lousa - Torre de Moncorvo
-https://listen.radionomy.com/lousaradio
-#EXTINF:-1,AMOR DOS IMIGRANTES
-http://46.4.94.39:9886/
-#EXTINF:-1 tv-logo="",RADIO MUNDO RICKY FM
-http://46.4.94.39:9434/;
-#EXTINF:-1,Antena 1 radio
-https://audio.serv.pt/8040/stream
-#EXTINF:-1 tv-logo="",Radio Rádio Mar Azul
-http://212.129.34.67:9864/;
-#EXTINF:-1,Web Rdio Portugal Online
-http://95.217.75.38:9838/
-#EXTINF:-1,Rádio dartanhaeos 3 Mosqueteiros
-http://centova.hostingfull.eu:9868/
-#EXTINF:-1,Eurovision Song Contest Radio 
-https://icepool.silvacast.com/ESCRADIO.mp3
-#EXTINF:-1,Realradio
-https://stream.zeno.fm/tbu7443r7k8uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/come-to-the-darkside-645711-logo.jpg",Radio Come to the Darkside
-http://142.44.159.230:5049/;
-#EXTINF:-1,Radio Cova Da Beira radio
-https://centova.radio.com.pt/proxy/467?mp=/stream
-#EXTINF:-1,OCLUBEDOSARGENTOPIMENTAPORTUGAL
-https://stream.zeno.fm/0yqhw209508uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mundialfm-portugal-616362-logo.jpg",Radio MUNDIALFM PORTUGAL
-http://176.9.88.190:9000/;
-#EXTINF:-1,Radio Impec
-https://evcast01.mediacp.eu/impec
-#EXTINF:-1,Benedita FM
-http://95.217.75.38:8024/
+#EXTINF:-1,Antena 1 radio#PLAYLIST:Online radio: STATION_T_web Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1561128212.jpg" group-title="STATION_T_web Radio", Radio Orbital - 192 kbit/s
+http://195.23.85.126:8401/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550026872.jpg" group-title="STATION_T_web Radio", Radio Marginal - 128 kbit/s
+http://195.23.85.126:8499/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/116102.jpg" group-title="STATION_T_web Radio", HIPER FM // PORTUGAL - 128 kbit/s
+http://195.23.85.126:9500/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1576315820.jpg" group-title="STATION_T_web Radio", Radio Nova Era FM - Porangatu GO - 128 kbit/s
+http://centova.radios.pt:9478
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550026872.jpg" group-title="STATION_T_web Radio", R - 128 kbit/s
+http://195.23.85.126:8495/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1563604351.jpg" group-title="STATION_T_web Radio", 1 - 128 kbit/s
+http://195.23.85.126:8485/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1556619529.jpg" group-title="STATION_T_web Radio", R80 - 128 kbit/s
+http://r80.lunabroadcasting.net:80/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550026872.jpg" group-title="STATION_T_web Radio", Radio Castelo Branco - 128 kbit/s
+http://centova.radios.pt:9462/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1552105327.jpg" group-title="STATION_T_web Radio", Radio Clube de Lamego - 128 kbit/s
+http://109.71.41.6:8110/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550026872.jpg" group-title="STATION_T_web Radio", Radio Cova da Beira - 128 kbit/s
+http://195.23.85.126:8467/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550026872.jpg" group-title="STATION_T_web Radio", Radio Dueca - 96 kbit/s
+http://109.71.41.6:8008/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550026872.jpg" group-title="STATION_T_web Radio", realname - 128 kbit/s
+http://centova.radio.com.pt:9548/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1478328985.jpg" group-title="STATION_T_web Radio", RADIO RLCB TUGA - 96 kbit/s
+http://stm6.conectastreaming.com:8272/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1552103779.jpg" group-title="STATION_T_web Radio", RADIO 100% DANCE - 128 kbit/s
+http://54.36.98.201:8064
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1552103779.jpg" group-title="STATION_T_web Radio", Radio Miradouro.pt - 128 kbit/s
+http://radio.miradouro.pt:8000/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1551770906.jpg" group-title="STATION_T_web Radio", Rádio 100% Rock - 128 kbit/s
+http://54.36.98.201:8046/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1596184832.jpg" group-title="STATION_T_web Radio", Radio Mundo Portugal - 128 kbit/s
+http://sp0.redeaudio.com:8022
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1594351730.jpg" group-title="STATION_T_web Radio", SomaSubir - 128 kbit/s
+http://109.71.41.6:8004
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1552103779.jpg" group-title="STATION_T_web Radio", Rádio 100% Oldies - 128 kbit/s
+http://54.36.98.201:8052/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1552103619.jpg" group-title="STATION_T_web Radio", Rádio 100% Portuguesa - 128 kbit/s
+http://54.36.98.201:8040/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/8037.jpg" group-title="STATION_T_web Radio", Estrela do Sul - 128 kbit/s
+http://176.9.43.216:8027/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1552103928.jpg" group-title="STATION_T_web Radio", Rádio Regional Vila Real - 128 kbit/s
+http://54.36.98.201:8004/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1551594272.jpg" group-title="STATION_T_web Radio", Rádio 100% Love Songs - 128 kbit/s
+http://54.36.98.201:8058/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1552104033.jpg" group-title="STATION_T_web Radio", Rádio Regional Chaves - 128 kbit/s
+http://54.36.98.201:8008/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1552103779.jpg" group-title="STATION_T_web Radio", Rádio Regional Bragança - 128 kbit/s
+http://54.36.98.201:8012/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1596184832.jpg" group-title="STATION_T_web Radio", SPAR - 128 kbit/s
+http://sp0.redeaudio.com:8022/stream/1/
+mms://213.228.161.7
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403629217.png" group-title="STATION_T_web Radio", JamendoLounge - 128 kbit/s
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+mms://stream.rr.pt/RR

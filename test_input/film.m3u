@@ -1,75 +1,37 @@
 #EXTM3U
-#EXTINF:-1,MKR_filmzenei_csatorna
-https://stream.rcast.net/207750
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fred-film-radio-ch3-extra-contents-593347-logo.jpg",FRED FILM RADIO CH3 Extra Contents
-http://91.121.139.194:8090/stream
-#EXTINF:-1,Filmmuziek
-https://stream.rcast.net/233980
-#EXTINF:-1,RadioArt - Film Scores
-https://stream.rcast.net/235533
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sequence-fm-paris-605464-logo.jpg",Radio Sequence FM Paris
-http://163.172.37.18:8000/sequence-rnt.mp3
-#EXTINF:-1,ego CHILLOUT - by egoFM (LQ)
-https://stream.rcast.net/237233
-#EXTINF:-1,FRED FILM RADIO CH10 Slovenian
-https://stream.rcast.net/7594
-#EXTINF:-1,38
-https://stream.rcast.net/234467
-#EXTINF:-1,4Lobos Bollywood Radio
-https://stream.rcast.net/204545
-#EXTINF:-1,Radio Regenbogen Musicals and Film Hits
-https://stream.rcast.net/238281
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cult-radio-a-go-go-581663-logo.jpg",Cult Radio A-Go-Go!
-http://162.252.85.85:8502/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rant-entertainment-media-597724-logo.jpg",Radio Rant Entertainment Media
-http://streamer.radio.co/s6dbdef606/listen
-#EXTINF:-1,STUDIO FILM
-https://stream.rcast.net/239927
-#EXTINF:-1,57
-https://stream.rcast.net/233166
-#EXTINF:-1,Classic FM Movies - 128 - The United Kingdom Of Great Britain And Northern Ireland - classical - film score - movies
-http://streams.greenhost.nl:8080/film
 #EXTINF:-1,Filmradio - 128 - Germany - film music - instrumental - movies - ost - score - soundtracks
 https://filmradio.stream.laut.fm/filmradio?t302=2018-03-10 04-44-05&uuid=59ca68e0-84a4-492d-9b0b-36c45690cd59
-#EXTINF:-1,Christmas UK Playing the best in old and new music with film soundtracks
-https://stream.rcast.net/4095
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fred-film-radio-ch4-german-593346-logo.jpg",FRED FILM RADIO CH4 German
-http://91.121.139.194:8034/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/directors-cut-radio-584646-logo.jpg",Directors Cut Radio
-http://radiobash.com:2199/tunein/dgutierr.pls
 #EXTINF:-1,Universitetsradioen
 https://uniradio.out.airtime.pro/uniradio_a
 #EXTINF:-1,Klassik Radio - Movie - 0 - Germany - film score - film scores
-http://stream.klassikradio.de/filmklassiker/mp3-192/stream.klassikradio.de
-#EXTINF:-1,Klassik Radio Filmklassiker
-https://klassikr.streamabc.net/klr-filmklassiker-mp3-128-6956565
-#EXTINF:-1,Scala Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/scala.aac
+http://klassikr.streamabc.net/klr_ywfg0xhyqhd_qj49-mp3-192-9330415?sABC=6n7890qo%230%232qpn85rrp88p28s3519pnqn6o21rsrp3%23fgernz.xynffvxenqvb.qr&aw_0_1st.playerid=stream.klassikradio.de&amsparams=playerid:stream.klassikradio.de;skey:1786286299
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/movie-scores-and-more-radio-647052-logo.jpg",Movie Scores and More Radio
 http://dione.shoutca.st:8102/;
-#EXTINF:-1,Radio Concierto
-https://radio02.ferozo.com/proxy/ra02001297
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/onda-regional-de-murcia-569896-logo.jpg",Radio Onda Regional De Murcia
-https://live.redctnet.es/live/orm/orm/playlist.m3u8
-#EXTINF:-1,Good Rock Radio
-https://stream.rcast.net/203815
-#EXTINF:-1,live
-https://stream.rcast.net/206445
 #EXTINF:-1,Radio-Classique - 320 - Canada - classical - film music - opera
-http://www.miastomuzyki.pl/n/rmffilmowa.pls
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fred-film-radio-ch1-english-592014-logo.jpg",FRED Film Radio CH1 English
-http://91.121.139.194:8094/stream
-#EXTINF:-1,RMF PIOSENKA FILMOWA
-https://stream.rcast.net/254512
-#EXTINF:-1,CLASSIC ROCK CALIFORNIA - HIGH DEFINITION
-https://stream.rcast.net/255096
-#EXTINF:-1,Default Stream
-https://stream.rcast.net/257595
-#EXTINF:-1,RMF PIOSENKA FILMOWA - 128 - Poland - rmf piosenka filmowa
-http://217.74.72.10/rmf piosenka filmowa
-#EXTINF:-1,95.9 JAMZ
-https://stream.rcast.net/254906
-#EXTINF:-1,STUDIO FILM CANALE 2
-https://stream.rcast.net/234776
-#EXTINF:-1,GAY SA Radio
-https://zas1.ndx.co.za:8018/stream
+https://app.rmfon.pl/n/rmffilmowa.pls#PLAYLIST:Online radio: FILM Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="FILM Radio", Secret Agent: The soundtrack for your stylish, mysterious, dangerous life. For Spys and P.I.&#039;s too! [SomaFM] - 128 kbit/s
+http://ice1.somafm.com/secretagent-128-mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="FILM Radio", Film-Radio - 128 kbit/s
+http://filmradio.stream.laut.fm/filmradio?t302=2025-10-29_11-31-48&uuid=6d2bc424-35a6-4f34-87c5-d60a720ecb1d
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537528414.jpg" group-title="FILM Radio", RMF MUZYKA FILMOWA - 48 kbit/s
+http://rs8-krk2.rmfstream.pl/MUZYKAFILMOWA
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537528414.jpg" group-title="FILM Radio", [RMF MUZYKA FILMOWA] - 128 kbit/s
+http://rs6-krk2-cyfronet.rmfstream.pl/rmf_muzyka_filmowa
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1549710295.jpg" group-title="FILM Radio", 80ssoundtracks - 192 kbit/s
+http://139.162.245.57:8256/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1559957920.jpg" group-title="FILM Radio", Radio Regenbogen Musical und Filmhits - 128 kbit/s
+http://audiotainment-sw.streamabc.net/atsw-softlazy-mp3-128-3089323?sABC=6901so24%230%232734r319n1331sp86602p728p4o3qq8p%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1761737508
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1552224195.jpg" group-title="FILM Radio", GotRadio - The Big Score - 128 kbit/s
+http://gr02.cdnstream.com:8060/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="FILM Radio", 1.FM - Movie Soundtracks Hits Radio - 192 kbit/s
+https://strm112.1.fm/moviesoundtracks_128
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1549968954.jpg" group-title="FILM Radio", Radio Domeldo Movie - 256 kbit/s
+http://185.105.4.53:3006/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1561187089.jpg" group-title="FILM Radio", CINEMIX Radio - 128 kbit/s
+http://kathy.torontocast.com:1190
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552792182.jpg" group-title="FILM Radio", 011.FM - Holiday Soundtrack - 192 kbit/s
+http://listen.011fm.com:80/stream41
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4855.jpg" group-title="FILM Radio", FFH SOUNDTRACK - 128 kbit/s
+http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4855.jpg" group-title="FILM Radio", Atmospheres by Sorcerer Radio - 128 kbit/s
+https://14223.live.streamtheworld.com/SP_R2670862.mp3

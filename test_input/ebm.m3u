@@ -1,26 +1,16 @@
 #EXTM3U
-#EXTINF:-1,SynthWay Radio
-http://c24.radioboss.fm:8014/stream
-#EXTINF:-1,EBM Radio, Budapest
-http://stream.rcast.net/62272
 #EXTINF:-1,black raven
 http://black-raven.stream.laut.fm/black-raven
 #EXTINF:-1,distortionsekt
 http://distortionsekt.stream.laut.fm/distortionsekt
 #EXTINF:-1,Uselinks
 https://uselinks.stream.laut.fm/uselinks?t302=2023-04-25_19-33-04&uuid=562e92cf-9d19-46d2-9f60-b0d05436a345
-#EXTINF:-1,The Bat Station
-https://stream.batstationrad.io/stream
 #EXTINF:-1,electric sound area
 http://electric-sound-area.stream.laut.fm/electric-sound-area
 #EXTINF:-1,hardandheavy
 http://hardandheavy.stream.laut.fm/hardandheavy
-#EXTINF:-1,Radio-Dunklemacht
-http://85.214.231.209:8000/
 #EXTINF:-1,Radio Uselinks
 https://uselinks.stream.laut.fm/uselinks?ref=web-app&ampt302=2019-05-26_10-37-00&ampuuid=d35e2366-9b9e-4274-8849-7050c56cc866
-#EXTINF:-1,Synthetic FM
-http://stream.syntheticfm.com:8040/live
 #EXTINF:-1,ultradarkradio
 http://ultradarkradio.stream.laut.fm/ultradarkradio
 #EXTINF:-1,klangruinen
@@ -35,34 +25,16 @@ http://thedarkbluhell.stream.laut.fm/thedarkbluhell
 http://darkzeroradio.stream.laut.fm/darkzeroradio
 #EXTINF:-1,pronoize radio
 http://pronoize-radio.stream.laut.fm/pronoize-radio
-#EXTINF:-1,Energy 106 Belfast
-http://195.154.166.226:8076/listen1.mp3/
 #EXTINF:-1,nachtflug
 http://nachtflug.stream.laut.fm/nachtflug
-#EXTINF:-1,Indie Radio Network – IRN Party
-http://stream1.laut.fm/klangwelt
 #EXTINF:-1,session
 http://session.stream.laut.fm/session
-#EXTINF:-1,ON Gothic
-http://0n-gothic.radionetz.de/0n-gothic.mp3
 #EXTINF:-1,Hall of Music 2
 https://hallofmusic2.stream.laut.fm/hallofmusic2
-#EXTINF:-1,Radio Dunkle Welle
-https://saurus.streampanel.nethttp:/jmvggsr?mp=/stream
 #EXTINF:-1,bpm
 http://bpm.stream.laut.fm/bpm
-#EXTINF:-1,Rebm Tracks
-https://stream.rcast.net/257167
-#EXTINF:-1,Fase Zen FM
-http://stream.zeno.fm/4b13115a408uv
-#EXTINF:-1,Klangwald Radio
-http://klangwald-radio.de:8000/stream1
 #EXTINF:-1,promofabrikamerica
 http://promofabrikamerica.stream.laut.fm/promofabrikamerica
-#EXTINF:-1,sdx's synthetic experience! Synth, EBM, Industrial, C64, and more!
-https://stream.rcast.net/205280
-#EXTINF:-1,Bloodlit Radio
-https://usa5.fastcast4u.com/proxy/wwwblood?mp=/1
 #EXTINF:-1,darkzdream
 http://darkzdream.stream.laut.fm/darkzdream
 #EXTINF:-1,Radio HaZZard of Darkness - 192 - Germany - alternative - darkwave - ebm - electro - gothic - industrial - metal - ndh - rock
@@ -78,7 +50,7 @@ http://htd-radio.stream.laut.fm/htd-radio
 #EXTINF:-1,bnkr
 http://bnkr.stream.laut.fm/bnkr
 #EXTINF:-1,Additan Radio
-http://stream.laut.fm/additan
+http://additan.stream.laut.fm/additan?t302=2026-08-09_14-35-11&uuid=38a877da-d4da-4b14-9497-b9cec99f9ee3
 #EXTINF:-1,80er zone
 http://80er-zone.stream.laut.fm/80er-zone
 #EXTINF:-1,BNR Darkwave Sounds
@@ -105,10 +77,6 @@ http://electropop.stream.laut.fm/electropop?t302=2023-04-25_19-36-30&uuid=57e9e6
 http://snakedance.stream.laut.fm/snakedance?t302=2023-04-25_19-48-00&uuid=9c793cd4-62db-4da2-93cc-d43f0377034c
 #EXTINF:-1,dark noir
 http://dark_noir.stream.laut.fm/dark_noir
-#EXTINF:-1,Global-X Radio
-http://usa2.fastcast4u.com:3232/stream/
-#EXTINF:-1,Gothic Girl Magazine Radio
-http://stream.zeno.fm/3uhy5my7echvv
 #EXTINF:-1,nightshift
 http://nightshift.stream.laut.fm/nightshift
 #EXTINF:-1,sunbeatsradio
@@ -116,19 +84,15 @@ http://sunbeatsradio.stream.laut.fm/sunbeatsradio
 #EXTINF:-1,666darksociety666
 http://666darksociety666.stream.laut.fm/666darksociety666
 #EXTINF:-1,Electrozombies
-http://stream.laut.fm/electrozombies
-#EXTINF:-1,(((EBM Radio)))
-https://stream.rcast.net/26
+http://electrozombies.stream.laut.fm/electrozombies?t302=2026-08-09_14-35-12&uuid=ef4e4409-4931-4aa7-93c5-b60e8711be09
 #EXTINF:-1,Soundsystem Synthetic Radio
-http://stream.laut.fm/soundsystem
+http://soundsystem.stream.laut.fm/soundsystem?t302=2026-08-09_14-35-12&uuid=7fe26352-2615-4a68-8234-b9d2d0082f6d
 #EXTINF:-1,dark-bites
-https://stream.laut.fm/dark-bites
+https://dark-bites.stream.laut.fm/dark-bites?t302=2026-08-09_14-35-12&uuid=810b7d64-0223-4308-95dd-674cf0f0b37b
 #EXTINF:-1,Panorama80
 https://panorama80.stream.laut.fm/panorama80
 #EXTINF:-1,rocktohell
 http://rocktohell.stream.laut.fm/rocktohell
-#EXTINF:-1,radiowebmelodia
-https://stream.rcast.net/250019
 #EXTINF:-1,darksoundradio
 http://darksoundradio.stream.laut.fm/darksoundradio
 #EXTINF:-1,silent darkangel
@@ -145,8 +109,6 @@ https://darkzeroradio.stream.laut.fm/darkzeroradio?t302=2023-04-25_19-33-22&uuid
 https://streaming.servicioswebmx.com/8260/stream
 #EXTINF:-1,zeitsprung
 http://zeitsprung.stream.laut.fm/zeitsprung
-#EXTINF:-1,gachimuchi.club AV1 WEBM MUSIC VIDEOS
-https://stream.rcast.net/209927
 #EXTINF:-1,Indie Radio Network - IRN Party
 http://live.indieradionetwork.net:1040/stream
 #EXTINF:-1,dark bites
@@ -154,7 +116,7 @@ http://dark-bites.stream.laut.fm/dark-bites
 #EXTINF:-1,radiodarkpulse
 http://radiodarkpulse.stream.laut.fm/radiodarkpulse
 #EXTINF:-1,digital gunfire
-http://digital_gunfire.stream.laut.fm/digital_gunfire
+http://digitalgunfire.stream.laut.fm/digital_gunfire?uuid=32d53b21-2323-bdfc-7571-f37556a58a4b&t302=2026-08-09_16-35-13
 #EXTINF:-1,ebm
 http://ebm.stream.laut.fm/ebm
 #EXTINF:-1,snakedance
@@ -179,40 +141,22 @@ http://technoszene.stream.laut.fm/technoszene
 http://streaming.servicioswebmx.com/8286/stream
 #EXTINF:-1,flatlines
 http://flatlines.stream.laut.fm/flatlines
-#EXTINF:-1,Sanctuary Radio
-http://192.111.140.6:9772/stream/
-#EXTINF:-1,Cimafilo WebM 720P 30fps
-https://stream.rcast.net/252048
 #EXTINF:-1,electrozombies
 http://electrozombies.stream.laut.fm/electrozombies
-#EXTINF:-1,Dark Asylum Radio
-http://91.121.165.137:8020/;
 #EXTINF:-1,radio auerhahn
 http://radio-auerhahn.stream.laut.fm/radio-auerhahn
 #EXTINF:-1,gothwritershome
 http://gothwritershome.stream.laut.fm/gothwritershome
-#EXTINF:-1,QNHoniH_SpiceBMF
-https://stream.rcast.net/254148
 #EXTINF:-1,darkzone
 http://darkzone.stream.laut.fm/darkzone
 #EXTINF:-1,Dark Bites
 https://dark-bites.stream.laut.fm/dark-bites
-#EXTINF:-1,Synthetika Internet Radio
-http://45.138.172.124:8000/
 #EXTINF:-1,Mindestverzehr
 https://mindestverzehr-radio.stream.laut.fm/mindestverzehr-radio
-#EXTINF:-1,Radio HaZZard of Darkness
-http://85.93.89.57:7777/http://85.93.89.57:7777/
 #EXTINF:-1,phoenix club
 http://phoenix-club.stream.laut.fm/phoenix-club
-#EXTINF:-1,Radio Dark Pulse
-http://stream.radio-diabolus.nl:9070/
 #EXTINF:-1,rexradio
 http://rexradio.stream.laut.fm/rexradio
-#EXTINF:-1,Sanctuary Radio's Dark Electro Channel
-http://192.111.140.6:9772/stream
-#EXTINF:-1,Detroit Industrial Underground
-http://138.197.0.4:8000/stream
 #EXTINF:-1,rdt
 http://rdt.stream.laut.fm/rdt
 #EXTINF:-1,Klangwelt
@@ -220,45 +164,33 @@ https://klangwelt.stream.laut.fm/klangwelt
 #EXTINF:-1,Laut.FM Dark-Bites
 http://dark-bites.stream.laut.fm/dark-bites?t302=2023-04-25_19-50-28&uuid=6113de60-0c16-4eb8-9cd5-07150613f090
 #EXTINF:-1,Abglanz FM
-http://stream.laut.fm/abglanz-fm
+http://abglanz-fm.stream.laut.fm/abglanz-fm?t302=2026-08-09_14-35-15&uuid=6b971312-1127-4e5a-b076-ebd3d1e60bb2
 #EXTINF:-1,ClassixTechno
 http://classixtechno.stream.laut.fm/classixtechno
 #EXTINF:-1,klangwelt
 http://klangwelt.stream.laut.fm/klangwelt
-#EXTINF:-1,- 0 N - Gothic on Radio
-https://0n-gothic.radionetz.de/0n-gothic.aac
-#EXTINF:-1,darksynthradio
-http://stream2.laut.fm/darksynthradio
 #EXTINF:-1,illusion castle
 http://illusion-castle.stream.laut.fm/illusion-castle
 #EXTINF:-1,Radio Nachtflug - 256 - Germany - darkwave - ebm - gothic - industrial
 https://streaming.servicioswebmx.com/8026/stream
 #EXTINF:-1,Promofabrikamerica
-https://stream.laut.fm/promofabrikamerica
+https://promofabrikamerica.stream.laut.fm/promofabrikamerica?t302=2026-08-09_14-35-16&uuid=d9e6430d-a429-4d50-a96b-4d9749cf9745
 #EXTINF:-1,Promofabrik-Radio
-http://stream.laut.fm/promofabrik-radio
+http://promofabrik-radio.stream.laut.fm/promofabrik-radio?t302=2026-08-09_14-35-16&uuid=5c0aea72-8e5a-4c66-b465-fb59d5461b17
 #EXTINF:-1,technoszene.com Radio
 https://technoszene.stream.laut.fm/technoszene?pl=m3u&t302=2023-05-10_12-36-39&uuid=80fb3349-64dc-49ec-b3ed-2aa1e60c7740
 #EXTINF:-1,Fallout
-http://stream.laut.fm/fallout
-#EXTINF:-1,/mdtwebMaster
-https://stream.rcast.net/257891
+http://fallout.stream.laut.fm/fallout?t302=2026-08-09_14-35-17&uuid=be566541-37d6-4a47-a04d-42afcb20a02d
 #EXTINF:-1,bluenightshadow
 http://bluenightshadow.stream.laut.fm/bluenightshadow
 #EXTINF:-1,b 9
-http://b_9.stream.laut.fm/b_9
+http://b9.stream.laut.fm/b_9?uuid=4e14c871-db47-ee75-7d0e-d77eaf7ad887&t302=2026-08-09_16-35-17
 #EXTINF:-1,panorama80
 http://panorama80.stream.laut.fm/panorama80
 #EXTINF:-1,HEXX 9 Radio
 http://46.105.124.120:8604/stream
-#EXTINF:-1,Hazzard of Darkness
-http://hazzardstream.de:7777/listen1
-#EXTINF:-1,AFTV Radio
-http://stream.zeno.fm/qf76h467ytzuv
-#EXTINF:-1,Cabaret del Diavolo Radio
-http://stream.zeno.fm/f9bd6n2k7yzuv
 #EXTINF:-1,EBM
-http://stream.laut.fm/ebm
+http://ebm.stream.laut.fm/ebm?t302=2026-08-09_14-35-18&uuid=271f0378-5fd7-480a-b634-a0c7105762be
 #EXTINF:-1,Uselinks - 128 - Germany - alternative - ebm - electropop - gothic - industrial - synthpop
 https://streaming.servicioswebmx.com/8226/stream
 #EXTINF:-1,webmedia - 128 - Germany - dance - disco - italo-dance - relax. - vocal
@@ -268,7 +200,7 @@ http://0zero0.stream.laut.fm/0zero0
 #EXTINF:-1,greyarea
 http://greyarea.stream.laut.fm/greyarea
 #EXTINF:-1,80er Zone
-http://stream.laut.fm/80er-zone
+http://80er-zone.stream.laut.fm/80er-zone?t302=2026-08-09_14-35-18&uuid=50d39db8-0f9c-4b4b-8505-3c5c1792d4ba
 #EXTINF:-1,hallofmusic2
 http://hallofmusic2.stream.laut.fm/hallofmusic2
 #EXTINF:-1,Radio Nachtflug
@@ -277,18 +209,12 @@ http://server26265.streamplus.de/;stream.mp3
 http://dark-mythos.stream.laut.fm/dark-mythos?t302=2023-04-25_19-27-30&uuid=559c757e-1b60-4e4f-91de-00bd18a9190f
 #EXTINF:-1,flyflew
 http://flyflew.stream.laut.fm/flyflew
-#EXTINF:-1,941QZK – WQZK-FM
-http://icy1.abacast.com/wvradio-wqzkfmmp3-64
 #EXTINF:-1,radio kingdom of darkness
 http://radio-kingdom-of-darkness.stream.laut.fm/radio-kingdom-of-darkness
-#EXTINF:-1,FRMX
-http://95.31.2.223:8001/live
 #EXTINF:-1,radio-body-music
-http://stream.laut.fm/radio-body-music
+http://radio-body-music.stream.laut.fm/radio-body-music?t302=2026-08-09_14-35-19&uuid=dcb7ab28-b663-4f7d-aa44-818ef60288f9
 #EXTINF:-1,Radio DarkFire
 http://37.59.82.8:8344/
-#EXTINF:-1,road2music
-http://road2music.stream.laut.fm/road2music
 #EXTINF:-1,rebel bell
 http://rebel-bell.stream.laut.fm/rebel-bell
 #EXTINF:-1,synthpop
@@ -297,42 +223,20 @@ http://synthpop.stream.laut.fm/synthpop
 http://pommfriedel.stream.laut.fm/pommfriedel
 #EXTINF:-1,Radio Fomix
 https://stream.radiofomix.nl/listen/fomix/stream.mp3
-#EXTINF:-1,DarkRadio
-http://138.201.234.215:11050/stream/
-#EXTINF:-1,80er-zone
-http://stream1.laut.fm/80er-zone
-#EXTINF:-1,EBM-Radio.com
-http://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC475.mp3
-#EXTINF:-1,NRG Radio FM
-https://serverparadize.com/8026/stream
-#EXTINF:-1,STL Club Radio
-http://91.121.134.23:8276/stream/
-#EXTINF:-1,M&#039;era Luna FM
-https://meralunafm.radionetz.de:8001/meralunafm.mp3
-#EXTINF:-1,Futurepop & Synthpop Radio
-http://stream.zeno.fm/b9s03wg09vzuv
 #EXTINF:-1,SynthPop Radio
 https://synthpop.stream.laut.fm/synthpop
 #EXTINF:-1,EBM - 128 - Germany - dark wave - ebm - electronic - electronica - experimental - industrial - martial industrial - new wave
-https://stream.laut.fm/ebm
+https://ebm.stream.laut.fm/ebm?t302=2026-08-09_14-35-20&uuid=365847cf-460c-4a86-bf2c-2cbe4d52cf78
 #EXTINF:-1,spontis
 http://spontis.stream.laut.fm/spontis
 #EXTINF:-1,fallout
 http://fallout.stream.laut.fm/fallout
 #EXTINF:-1,al dente - 128 -  - ebm - industrial
 https://streaming.servicioswebmx.com/8126/stream
-#EXTINF:-1,XWave Radio
-http://ns319459.ip-91-121-67.eu:8000/;
-#EXTINF:-1,sdx s synthetic experience! Synth, EBM, Industrial, C64, and more!
-https://stream.rcast.net/6150
-#EXTINF:-1,(((EBM Radio))) strange music 4 strange people
-https://stream.rcast.net/250171
 #EXTINF:-1,Club 6400
 http://comet.shoutca.st:8205/stream
 #EXTINF:-1,luzi
 http://luzi.stream.laut.fm/luzi
-#EXTINF:-1,dOs.gr - WebM Video Vp9 Video & Vorbis 1080p - https://rdst.win:59000/dos.webm < Watch Live!
-https://stream.rcast.net/205000
 #EXTINF:-1,Ultra Dark Radio
 https://ultradarkradio.stream.laut.fm/ultradarkradio
 #EXTINF:-1,eigengrau
@@ -354,27 +258,19 @@ https://streaming.servicioswebmx.com/8258/stream
 #EXTINF:-1,uselinks
 http://uselinks.stream.laut.fm/uselinks
 #EXTINF:-1,Dark Zero Radio
-https://stream.laut.fm/darkzeroradio
+https://darkzeroradio.stream.laut.fm/darkzeroradio?t302=2026-08-09_14-35-21&uuid=b7099510-0ec5-4338-98e5-3616c7ef1574
 #EXTINF:-1,soundwelten
 http://soundwelten.stream.laut.fm/soundwelten
 #EXTINF:-1,avalostblog
 http://avalostblog.stream.laut.fm/avalostblog
 #EXTINF:-1,al-dente
-http://stream.laut.fm/al-dente
+http://al-dente.stream.laut.fm/al-dente?t302=2026-08-09_14-35-21&uuid=80343f90-a865-4e0f-bb39-f95f93147c79
 #EXTINF:-1,terahertzwellen
 http://terahertzwellen.stream.laut.fm/terahertzwellen
-#EXTINF:-1,Club Zero Radio
-https://music.clubzeroradio.com:8443/live
-#EXTINF:-1,IceRadio
-http://uk2.internet-radio.com:8346/live
-#EXTINF:-1,Radio Diabolus
-http://dunkelhost.com:9070/
 #EXTINF:-1,Rock Antenne - Gothic
 https://s3-webradio.rockantenne.de/gothic
 #EXTINF:-1,mindestverzehr radio
 http://mindestverzehr-radio.stream.laut.fm/mindestverzehr-radio
-#EXTINF:-1,Radio Estação em Foco
-http://stream.zeno.fm/tngw1dzf8zquv
 #EXTINF:-1,nosw podcast
 http://nosw-podcast.stream.laut.fm/nosw-podcast
 #EXTINF:-1,Rock Antenne - Gothic - 128 - Germany - dark wave - ebm - gothic - metal - punk
@@ -384,17 +280,15 @@ https://al-dente.stream.laut.fm/al-dente
 #EXTINF:-1,blackspot
 http://blackspot.stream.laut.fm/blackspot
 #EXTINF:-1,Terahertzwellen
-http://stream.laut.fm/terahertzwellen
+http://terahertzwellen.stream.laut.fm/terahertzwellen?t302=2026-08-09_14-35-22&uuid=030fe300-b0f0-4014-86de-4aa114a2e60a
 #EXTINF:-1,schwarzer kanal
-http://schwarzer_kanal.stream.laut.fm/schwarzer_kanal
-#EXTINF:-1,KracRadio
-http://stream.radio.co/s38bb0cb88/listen
+http://schwarzerkanal.stream.laut.fm/schwarzer_kanal?uuid=e0228375-ee27-f88c-938d-4452d27bb588&t302=2026-08-09_16-35-22
 #EXTINF:-1,radio freitag der 13te
 http://radio-freitag-der-13te.stream.laut.fm/radio-freitag-der-13te
 #EXTINF:-1,Darksynth-Radio
-http://stream.laut.fm/darksynthradio
+http://darksynthradio.stream.laut.fm/darksynthradio?t302=2026-08-09_14-35-23&uuid=48558b4b-ac39-4111-a67f-029106da193b
 #EXTINF:-1,Flatlines Radio - 128 - Germany - darkwave - ebm - folk - gothic - industrial - melodic rock - metal - mittelalter - neofolk - new wave - post-punk
-https://play.gongfm.de/live/webmp3/
+https://edge72.streamonkey.net/gongfm-regensburg/stream/mp3?aggregator=web
 #EXTINF:-1,corvusnigrum
 http://corvusnigrum.stream.laut.fm/corvusnigrum
 #EXTINF:-1,livingdead
@@ -402,10 +296,16 @@ http://livingdead.stream.laut.fm/livingdead
 #EXTINF:-1,true mania
 http://true-mania.stream.laut.fm/true-mania
 #EXTINF:-1,German Gothic Radio
-http://stream.laut.fm/german-gothic-radio
-#EXTINF:-1,Radiowebmelodia
-https://stream.rcast.net/246227
+http://german-gothic-radio.stream.laut.fm/german-gothic-radio?t302=2026-08-09_14-35-23&uuid=7bec4242-62a5-4a01-8ba6-a8569e57472e
 #EXTINF:-1,die schwarze kunst
-http://die-schwarze-kunst.stream.laut.fm/die-schwarze-kunst
-#EXTINF:-1,M&#039;era Luna FM (2019-02-25)
-http://meralunafm.radionetz.de:8000/meralunafm.mp3
+http://die-schwarze-kunst.stream.laut.fm/die-schwarze-kunst#PLAYLIST:Online radio: EBM Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550162580.jpg" group-title="EBM Radio", (((EBM Radio))) - 192 kbit/s
+http://www.ebm-radio.org:7000/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550162580.jpg" group-title="EBM Radio", (((EBM Radio))) strange music 4 strange people - 128 kbit/s
+http://87.106.138.241:8000/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550162580.jpg" group-title="EBM Radio", Detroit Industrial Underground - 256 kbit/s
+http://138.197.0.4:8000/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1537514341.jpg" group-title="EBM Radio", THE EBM-Radio.com - 128 kbit/s
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="EBM Radio", Radio Schwarze Welle - 128 kbit/s
+http://www.schwarze-welle.de:7500

@@ -2,3 +2,13 @@
 https://abc.streamguys1.com/live/newsradio/icecast.audio
 #EXTINF:-1,ABC Radio National AAC+
 https://abc.streamguys1.com/live/rnnsw/icecast.audio
+#EXTINF:-1,ABC Country (MP3)
+https://live-radio01.mediahubaustralia.com/CTRW/mp3/;*.mp3
+#EXTINF:-1,ABC Jazz (AAC)
+https://live-radio01.mediahubaustralia.com/JAZW/aac/
+#EXTINF:-1,ABC Local Radio 774 Melbourne (AAC)
+https://live-radio01.mediahubaustralia.com/3LRW/aac/
+#EXTINF:-1,ABC Grandstand (AAC)
+https://live-radio02.mediahubaustralia.com/GSDW/aac/;
+#EXTINF:-1,ABC Classic FM (MP3)
+https://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3

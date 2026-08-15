@@ -8,3 +8,13 @@ https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web
 https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
 #EXTINF:-1,NDR Info (Schleswig-Holstein)
 https://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3
+#EXTINF:-1,NDR Info (Niedersachsen)
+https://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio Manarat
+https://listen.radioking.com/radio/252934/stream/297385
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | MP3 128k
+https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:-1,Algérie Chaîne 3
+https://radiochaine3.ice.infomaniak.ch/chaine3.mp3

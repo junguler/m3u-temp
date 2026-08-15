@@ -168,3 +168,93 @@ https://streaming.radionomy.com/JamendoLounge
 https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
 #EXTINF:-1,มิติข่าว 90.5
 http://live3.smartbomb.co.th:8624/;stream.mp3
+#EXTINF:-1,BBC Arabic Radio
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8
+#EXTINF:-1,Radio Jamaica 94FM
+https://stream.zeno.fm/cub84trbgy5tv
+#EXTINF:-1,SRF 4 News
+http://stream.srg-ssr.ch/m/drs4news/mp3_128
+#EXTINF:-1,RFI Romania
+http://asculta.rfi.ro:9128/live.aac
+#EXTINF:-1,Sirasa FM
+http://live.trusl.com:1170/;
+#EXTINF:-1,bandnews fm sp
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8
+#EXTINF:-1,VRT Radio 1
+https://icecast.vrtcdn.be/radio1-high.mp3
+#EXTINF:-1,Радиостация Маяк Москва 128kbs
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
+#EXTINF:-1,Unión Radio 90.3 FM Caracas
+http://ur58.lorini.net:2080/stream
+#EXTINF:-1,reka
+http://kanliveicy.media.kan.org.il/icy/kanreka_mp3
+#EXTINF:-1,Gen 98.7 FM Jakarta
+http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8
+#EXTINF:-1,Ran FM
+https://a3.asurahosting.com/listen/ranfm/radio.mp3
+#EXTINF:-1,RNZ National MP3
+http://radionz-ice.streamguys.com/national.mp3
+#EXTINF:-1,CTV News Audio Channel
+https://18183.live.streamtheworld.com/TV_CTV_NEWSAAC_SC
+#EXTINF:-1,Sveriges Radio - P1
+https://live1.sr.se/p1-aac-320
+#EXTINF:-1,GBNews
+https://listen-gbnews.sharp-stream.com/gbnews.mp3
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | MP3 128k
+https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,Truckers Radio USA
+https://streamer.radio.co/s81d30349a/low
+#EXTINF:-1,Energy Zürich (NRJ)
+http://broadcast.infomaniak.ch/energyzuerich-high.mp3
+#EXTINF:-1,Radio Prvi
+https://mp3.rtvslo.si/ra1
+#EXTINF:-1,BBC Radio 5 Live (128k)
+https://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
+#EXTINF:-1,CRI中文环球广播·CRI chinese service
+https://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1,WDR 2 Rhein und Ruhr
+https://wdr-wdr2-rheinruhr.icecast.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
+#EXTINF:-1,Bombo Radyo Iloilo
+https://stream.zenolive.com/gzudz59nz9duv
+#EXTINF:-1,Radio Con Vos 89.9
+https://server1.stweb.tv/rcvos/live/playlist.m3u8
+#EXTINF:-1,CRI英语资讯广播 China Plus Radio
+https://sk.cri.cn/am846.m3u8
+#EXTINF:-1,RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
+#EXTINF:-1,Radio Popolare
+https://livex.radiopopolare.it/radiopop
+#EXTINF:-1,Catalunya Informació (Catinfo)
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
+#EXTINF:-1,CBN São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC_SC
+#EXTINF:-1,CCTV-4中文国际伴音
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1,Radio Pampa FM 97,5 - Porto Alegre
+http://cast4.audiostream.com.br:8653/aac
+#EXTINF:-1,Radio101
+https://live.radio101.hr:9531/
+#EXTINF:-1,Radio ABC Cardinal 730 AM
+http://sc.abc.com.py:8000/stream
+#EXTINF:-1,Rudaw News Radio
+https://l3.itworkscdn.net/itwaudio/9006/stream
+#EXTINF:-1,NPR Newscast
+https://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3
+#EXTINF:-1,Hereti FM
+http://iis.ge:8000/hereti.mp3
+#EXTINF:-1,Algérie Chaîne 3
+https://radiochaine3.ice.infomaniak.ch/chaine3.mp3
+#EXTINF:-1,Radio Mitre
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC_SC
+#EXTINF:-1,RFI Anglais - English
+https://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3
+#EXTINF:-1,Sitha FM
+https://shaincast.caster.fm:48148/listen.mp3
+#EXTINF:-1,Jak 101 FM
+http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8
+#EXTINF:-1,Спутник 91.2 fm
+https://stream03.pcradio.ru/sputnik_ria_ru-med
+#EXTINF:-1,ECR - East Coast Radio -KwaZulu Natal
+https://edge.iono.fm/xice/ecr_live_medium.aac
+#EXTINF:-1,esRadio_AAC
+http://livestreaming9.esradio.fm/aaclive32

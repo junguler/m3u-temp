@@ -34,3 +34,27 @@ http://stream2.srr.ro:8012/
 https://live1ag.antenaplay.ro/radioromantic/radioromantic-48000.m3u8
 #EXTINF:-1,eteatru
 http://stream2.srr.ro:8078/eteatru.mp3
+#EXTINF:-1,Radio Tequila Dance Romania
+http://dance.radiotequila.ro:7000/;stream.nsv
+#EXTINF:-1,RFI Romania
+http://asculta.rfi.ro:9128/live.aac
+#EXTINF:-1,Antena satelor
+http://89.238.227.6:8042/
+#EXTINF:-1,Europa FM Romania
+https://astreaming.edi.ro:8443/EuropaFM_aac
+#EXTINF:-1,Smart FM
+http://live.smartradio.ro:9128/live
+#EXTINF:-1,Gherla FM
+http://89.39.189.52:8000/;
+#EXTINF:-1,Chill FM Romania
+http://edge126.rdsnet.ro:84/profm/chillfm.mp3
+#EXTINF:-1,Radio Trinitas
+http://81.196.25.70:8000/
+#EXTINF:-1,Radio 1 Manele
+http://radio1manele.no-ip.org:8000/;
+#EXTINF:-1,Radio Pro Manele
+http://radiopromanele.zapto.org:8000/;
+#EXTINF:-1,Radio Manele Premium
+http://88.198.70.25:8894/;
+#EXTINF:-1,Radio România Muzical
+http://stream2.srr.ro:8022/

@@ -26,3 +26,21 @@ http://live.top80.fm:8086/
 http://centova.radio.com.pt:9496/;
 #EXTINF:-1,Deep in Radio
 http://s3.viastreaming.net:8525/
+#EXTINF:-1,Rádio Nova Era
+https://centova.radio.com.pt/proxy/478?mp=/stream
+#EXTINF:-1,4Drive Jazz
+https://radio.streemlion.com:1150/stream
+#EXTINF:-1,Rádio Planície 92.8 Moura
+http://109.71.41.6:8026/stream
+#EXTINF:-1,M80 rádio
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1,ABC Portugal
+http://centova.radio.com.pt:8547/;
+#EXTINF:-1,Rádio Comercial
+https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
+#EXTINF:-1,Rádio MEO Music
+http://centova.radio.com.pt:8495/;
+#EXTINF:-1,Rádio Nova 98.9 FM
+http://centova.radio.com.pt:9528/
+#EXTINF:-1,Rádio Marginal
+https://centova.radios.pt/proxy/499?mp=/stream

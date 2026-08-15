@@ -2,3 +2,9 @@
 http://26673.live.streamtheworld.com:3690/TROPICANA_SC
 #EXTINF:-1,Olímpica Stereo (Medellín) 104.9-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac
+#EXTINF:-1,La Mejor FM 98.9
+http://158.69.219.162:8024/stream
+#EXTINF:-1,Tropicana Cali 93.1 fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/TR_CALI.mp3
+#EXTINF:-1,Top Salsa Radio
+https://radio.dominiserver.com/proxy/topsalsaradio?mp=/stream

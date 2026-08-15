@@ -1,2 +1,8 @@
 #EXTINF:-1,Cadena SER Radio MADRID
 http://server7.20comunicacion.com:8040/
+#EXTINF:-1,RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:-1,Catalunya Informació (Catinfo)
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
+#EXTINF:-1,Digital hits
+http://digitalhits.frilab.com:8000/digitalhits

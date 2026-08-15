@@ -2,3 +2,11 @@
 https://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3
 #EXTINF:-1,MDR KLASSIK
 https://radio-hls.mdr.de/hls/live/2112906/mdr-284350-0-hls/index.m3u8
+#EXTINF:-1,WDR 3
+https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+#EXTINF:-1,Jazzradio.fr Jazz & Classique
+https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
+#EXTINF:-1,NPO Radio 4
+https://icecast.omroep.nl:80/radio4-bb-mp3
+#EXTINF:-1,MDR KULTUR
+https://radio-hls.mdr.de/hls/live/2112903/mdr-284310-0-hls/index.m3u8

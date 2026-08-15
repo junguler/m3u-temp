@@ -30,3 +30,11 @@ http://stream2.vivafm.it:8002/stream
 http://wma08.fluidstream.net:4610/
 #EXTINF:-1,Закарпаття FM
 http://195.234.148.51:8000/;
+#EXTINF:-1,BBC Radio 2 (128k)
+https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
+#EXTINF:-1,Kaya FM
+https://edge.iono.fm/xice/82_medium.aac
+#EXTINF:-1,Rádio MEO Music
+http://centova.radio.com.pt:8495/;
+#EXTINF:-1,Smooth Radio London 102.2
+https://media-the.musicradio.com/SmoothLondonMP3

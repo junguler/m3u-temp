@@ -12,3 +12,15 @@ http://live.slovakradio.sk:8000/Slovensko_256.mp3
 https://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:-1,Fun Radio 80&90
 https://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1,Rádio MÁRIA SLOVENSKO
+https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3
+#EXTINF:-1,Europa 2
+https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1,Radio Melody
+https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false
+#EXTINF:-1,SRo8 Rádio Litera
+https://icecast.stv.livebox.sk/litera_128.mp3
+#EXTINF:-1,Rádio Lumen
+http://audio.lumen.sk:8000/live128.mp3
+#EXTINF:-1,SRo4 Rádio FM
+http://live.slovakradio.sk:8000/FM_256.mp3

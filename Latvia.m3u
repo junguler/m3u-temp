@@ -2,3 +2,15 @@
 http://stream.europeanhitradio.com:8000/Stream_24.aac
 #EXTINF:-1,Ретро FM Рига (Retro FM)
 https://live.retrofm.lv/retrofmlatvia
+#EXTINF:-1,Latvijas Radio 2
+https://muste.latvijasradio.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8
+#EXTINF:-1,NewDanceRadio
+https://stream.newdanceradio.lv/mp3_192
+#EXTINF:-1,European Hit Radio - SuperHits
+http://stream.europeanhitradio.com:8000/Stream_21.aac
+#EXTINF:-1,Latvijas Radio 1
+https://60766ff53d5e6.streamlock.net/liveALR1/mp4:LR1/playlist.m3u8
+#EXTINF:-1,Radio ENERGY.LV - Russian
+http://www.radioenergy.lv:9000/
+#EXTINF:-1,European Hit Radio - Russkie Hiti
+http://stream.europeanhitradio.com:8000/khr.aac

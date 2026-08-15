@@ -16,3 +16,33 @@ https://mediaserv33.live-streams.nl:8036/live
 https://icecast.omroep.nl/radio5-bb-mp3
 #EXTINF:-1,NPO Radio 2 Soul & Jazz
 https://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1,Sky Radio 80's Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
+#EXTINF:-1,SLAM!
+https://stream.slam.nl/slam
+#EXTINF:-1,Concertzender Baroque
+http://streams.greenhost.nl:8080/barok
+#EXTINF:-1,Qmusic
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3
+#EXTINF:-1,Fantasy Italo Dance 90s radio
+https://mscp2.live-streams.nl:8152/italodance
+#EXTINF:-1,C-Dance RETRO
+https://s45.myradiostream.com/18304/;?type=http
+#EXTINF:-1,NPO Radio 4
+https://icecast.omroep.nl:80/radio4-bb-mp3
+#EXTINF:-1,NPO 3FM Serious Radio
+https://icecast.omroep.nl/3fm-bb-mp3
+#EXTINF:-1,Radio Continu
+https://stream.radiocontinu.nl/radio-continu
+#EXTINF:-1,Hi On Line World Radio
+http://mediaserv38.live-streams.nl:8027/live
+#EXTINF:-1,Sky Radio Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web
+#EXTINF:-1,Hardcore Radio
+http://shoutcast1.hardcoreradio.nl/
+#EXTINF:-1,Pinguin Radio
+https://streams.pinguinradio.com/PinguinRadio320.mp3
+#EXTINF:-1,Grolloo Radio
+https://uk1.streamingpulse.com/ssl/grollooradio
+#EXTINF:-1,Radio 10 60's & 70's Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3

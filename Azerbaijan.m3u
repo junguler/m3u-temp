@@ -26,3 +26,9 @@ https://radio.autoliferadio.com:8005/radio
 https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8
 #EXTINF:-1,İctimai Radio – 90 FM
 https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:-1,Kepez FM
+http://85.132.78.122:3344/now
+#EXTINF:-1,Baku Hit FM
+http://5.191.241.101:8000/bakuhitfm
+#EXTINF:-1,TMB 100.5
+https://s39.myradiostream.com:5458/

@@ -56,3 +56,33 @@ https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac?aggregator=web
 https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3?aggregator=custom1
 #EXTINF:-1,Radio Free Brooklyn.com - Brooklyn, NY
 http://us1.internet-radio.com:8155/live
+#EXTINF:-1,KOPB 91.5 Oregon Public Broadcasting - Portland, OR
+http://stream1.opb.org/radio.mp3
+#EXTINF:-1,Radio Notre Dame (lower bitrate)
+https://windu.radionotredame.net/RadioNotreDame-Fm.mp3
+#EXTINF:-1,新西兰中文广播电台 FM90.6 Radio Chinese
+https://s26.myradiostream.com:20274/listen.mp3
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | OPUS 24k
+https://st02.sslstream.dlf.de/dlf/02/low/opus/stream.opus?aggregator=web
+#EXTINF:-1,NDR Info Spezial
+https://icecast.ndr.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3
+#EXTINF:-1,Fred Film Radio(中文)
+https://s10.webradio-hosting.com/proxy/fredradiocn/stream
+#EXTINF:-1,MPR News [AAC 48k]
+https://nis.stream.publicradio.org/nis.aac
+#EXTINF:-1,CCTV农业节目伴音
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+#EXTINF:-1,Rúv rás1
+http://netradio.ruv.is/ras1.aac
+#EXTINF:-1,Radio SRF 2 Kultur
+https://stream.srg-ssr.ch/m/drs2/aacp_96
+#EXTINF:-1,Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)
+https://radiolatina.info/8170/stream
+#EXTINF:-1,BBC Radio 3
+https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8
+#EXTINF:-1,Radio Art - Violin
+https://air.radioart.com/fViolin_works.mp3
+#EXTINF:-1,Radio Udaan
+https://stream.radioudaan.com/listen/radio_udaan/radio.mp3
+#EXTINF:-1,Metraf FM 103.7 Dakar
+https://stream.zeno.fm/66yrv69ffv8uv

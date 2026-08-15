@@ -172,3 +172,47 @@ https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac
 https://live-radio01.mediahubaustralia.com/FM2W/mp3/
 #EXTINF:-1,Radio Hamrah رادیو همراه
 https://stream.zenolive.com/gxdq0awu30duv.aac
+#EXTINF:-1,БНР – Радио Пловдив
+http://stream.bnr.bg:8032/radio-plovdiv.aac
+#EXTINF:-1,All India Radio Neighbourhood Service 1
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio233/hlspbaudio233_Auto.m3u8
+#EXTINF:-1,KCSM 91.1  "Jazz 91" San Mateo, CA (AAC+)
+https://ice5.securenetsystems.net/KCSM
+#EXTINF:-1,Hitradio center megamix
+http://stream3.radiocenter.si:8066/;stream/1
+#EXTINF:-1,CBC Radio One Montréal
+https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
+#EXTINF:-1,ORF Radio Kärnten
+https://ors-sn02.ors-shoutcast.at/ktn-q1a
+#EXTINF:-1,RFI Russe
+https://rfienrusse64k.ice.infomaniak.ch/rfienrusse-64.mp3
+#EXTINF:-1,RSI Rete Uno
+http://stream.srg-ssr.ch/m/reteuno/mp3_128
+#EXTINF:-1,Radio SRF 1 Regionaljournal Ostschweiz
+http://stream.srg-ssr.ch/m/regi_ost/mp3_128
+#EXTINF:-1,ERT3 102 FM
+https://radiostreaming.ert.gr/ert-102fm
+#EXTINF:-1,SR 3 Saarlandwelle (56 kbit/s)
+https://sr.audiostream.io/sr/1011/mp3/56/sr3
+#EXTINF:-1,Radio SRF 1 Zentralschweiz
+http://stream.srg-ssr.ch/m/regi_zentr/mp3_128
+#EXTINF:-1,澳門電台 FM100.7
+https://mo.ufofm.com/live/rch2.live/chunklist_w905210118.m3u8?audio
+#EXTINF:-1,RTHK Radio 8 央廣粵港澳大灣區之聲
+https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8
+#EXTINF:-1,ABC Country HLS
+https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/index.m3u8
+#EXTINF:-1,ČRO Radiožurnál Sport
+https://rozhlas.stream/radiozurnal_sport_high.aac
+#EXTINF:-1,Duna World Rádió
+http://mr-stream.mediaconnect.hu/4760/dwr.aac
+#EXTINF:-1,Lider FM 107,4
+https://liderfm.ipradio.mk/
+#EXTINF:-1,БНР – Радио Стара Загора
+http://stream.bnr.bg:8034/radio-stara-zagora.aac
+#EXTINF:-1,KUVO Denver, CO (AAC, 128)
+http://kuvo-ice.streamguys.org/kuvo-aac-128
+#EXTINF:-1,ABC A-League Live (MP3)
+https://live-radio02.mediahubaustralia.com/IT2W/mp3/;
+#EXTINF:-1,WGUC-HD2 Jazz Stream - Cincinatti, OH
+http://cpr2.streamguys.net/jazz

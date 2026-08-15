@@ -62,3 +62,59 @@ http://stream.skyradio.sk:8000/sky128
 https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3
 #EXTINF:-1,RTV Oost Radio
 https://streams.rtvoost.nl/audio/oost/mp3
+#EXTINF:-1,COPE + Sevilla
+https://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3
+#EXTINF:-1,KQED 128 AAC
+https://hls.kqed.org/hls/kqed_app/playlist.m3u8
+#EXTINF:-1,Onda Cero Malaga
+https://atres-live.ondacero.es/live/delegaciones/oc/malaga/master.m3u8
+#EXTINF:-1,Záhorácke Rádio
+http://live.zahorackeradio.sk:8080/zr128.mp3
+#EXTINF:-1,Newstalk ZB Christchurch
+http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.m3u8
+#EXTINF:-1,CBC Radio One Montréal
+https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
+#EXTINF:-1,Nova Brasil FM Recife (ZYD241, 94,3 MHz FM)
+http://24373.live.streamtheworld.com:3690/NOVABRASIL_RECAAC_SC
+#EXTINF:-1,Energy Basel (NRJ)
+https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
+#EXTINF:-1,Ecos del Combeima (HJNC, 790 kHz AM, Ibagué, Tolima)
+http://s2.viastreaming.net:8030/;
+#EXTINF:-1,Radio M Utrecht
+https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3
+#EXTINF:-1,ABC Local Radio 702 Sydney (MP3)
+https://live-radio01.mediahubaustralia.com/2LRW/mp3/
+#EXTINF:-1,VOCM-AM 590 St. John's, NL
+https://newcap.leanstream.co/VOCMAM
+#EXTINF:-1,Best FM - Nyíregyháza
+https://icast.connectmedia.hu/5115/live.mp3
+#EXTINF:-1,ABC Local Radio 1233 Newcastle, NSW (AAC)
+https://live-radio01.mediahubaustralia.com/2NEWW/aac/
+#EXTINF:-1,Radio SRF 1 Regionaljournal Ostschweiz
+http://stream.srg-ssr.ch/m/regi_ost/mp3_128
+#EXTINF:-1,KSFO 560 AM San Francisco, CA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAM_SC
+#EXTINF:-1,Jovem Pan FM - Sorocaba 91.1
+https://cast2.hoost.com.br:8039/stream
+#EXTINF:-1,Radio SRF 1 Zentralschweiz
+http://stream.srg-ssr.ch/m/regi_zentr/mp3_128
+#EXTINF:-1,Radio România Brașov
+http://stream2.srr.ro:8210/;
+#EXTINF:-1,RBB 24 Inforadio
+https://f121.rndfnk.com/ard/rbb/inforadio/live/mp3/128/stream.mp3?cid=01FC1WYDPN76K6HSCD8QCR9D3S
+#EXTINF:-1,TSF Rádio Açores
+http://centova.radio.com.pt:8243/;
+#EXTINF:-1,Rythmos FM.GR
+https://n01.radiojar.com/g4tyehk5yvduv.mp3
+#EXTINF:-1,NDR Info (Mecklenburg-Vorpommern)
+https://icecast.ndr.de/ndr/ndrinfo/mecklenburgvorpommern/mp3/128/stream.mp3
+#EXTINF:-1,Radio Andina Tarata
+http://sp.oyotunstream.com:8064/
+#EXTINF:-1,Canal Sur Radio Andalucía
+https://rtva-live-radio.flumotion.com/rtva/csr.mp3
+#EXTINF:-1,Airplay Radio
+https://stream.and-stuff.nl:8443/live-airplay_320
+#EXTINF:-1,WDR 2 Südwestfalen
+https://f121.rndfnk.com/ard/wdr/wdr2/suedwestfalen/mp3/128/stream.mp3?cid=01FBS08TQX4AQFH6JVDNRYVE7Y
+#EXTINF:-1,Sonora 97.4 FM Yogyakarta
+https://cast3.asurahosting.com/proxy/radios28/stream

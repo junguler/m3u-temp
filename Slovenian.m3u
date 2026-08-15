@@ -38,3 +38,9 @@ http://frekvenca.eu:8000/radiomars.mp3
 http://stream02.exit.si:8000/EXYU?
 #EXTINF:-1,Hitradio center yu
 http://stream3.radiocenter.si:8100/;stream/1
+#EXTINF:-1,Radio Sora
+http://radio-sora.si:8000/radio-sora.mp3
+#EXTINF:-1,Hit Radio Center (Ljubljana - 102.4MHz)
+http://stream3.radiocenter.si:8000/;center/1
+#EXTINF:-1,Radio Mister Deejay
+http://stream.mister-deejay.com:9008/;

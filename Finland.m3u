@@ -14,3 +14,7 @@ https://icecast.live.yle.fi/radio/YleRS/icecast.audio
 http://212.47.220.188:8000/listen.mp3
 #EXTINF:-1,Radio Nova
 https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false
+#EXTINF:-1,Kaaos Radio Techno Electro
+http://stream.kaaosradio.fi:8000/stream2
+#EXTINF:-1,Radio SuomiRock
+https://stream.bauermedia.fi/suomirock/suomirock_128.mp3

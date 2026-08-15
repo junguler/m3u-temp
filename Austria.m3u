@@ -40,3 +40,33 @@ https://live.antenne.at/ak
 https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile
 #EXTINF:-1,Energy NRJ Innsbruck
 http://stream1.energy.at:8000/ibk
+#EXTINF:-1,Kronehit
+http://onair.krone.at/kronehit.mp3
+#EXTINF:-1,ORF Radio Steiermark | HQ
+https://orf-live.ors-shoutcast.at/stm-q2a
+#EXTINF:-1,Antenne Vorarlberg Oldies but Goldies
+https://web.radio.antennevorarlberg.at/av-oldies
+#EXTINF:-1,ORF Radio Kärnten
+https://ors-sn02.ors-shoutcast.at/ktn-q1a
+#EXTINF:-1,Antenne Vorarlberg Partymix
+https://web.radio.antennevorarlberg.at/av-partymix
+#EXTINF:-1,Arabella Golden oldies
+https://frontend.streams.arabella.at/arabella-goldenoldies/stream/mp3?aggregator=arabella-playlistfile
+#EXTINF:-1,Freies Radio Salzkammergut
+https://streaming.xaok.org/frs.ogg
+#EXTINF:-1,ORF Hitradio Ö3
+https://ors-sn03.ors-shoutcast.at/oe3-q1a
+#EXTINF:-1,Radio Arabella Oberösterreich
+https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=tunein
+#EXTINF:-1,Radio Xmas
+http://www.radio-xmas.at:443/xmas?1512905036085
+#EXTINF:-1,Radio Osttirol
+http://streamplus20.leonex.de:28768/;
+#EXTINF:-1,Antenne Vorarlberg Classic Rock
+https://web.radio.antennevorarlberg.at/av-classicrock/stream/mp3
+#EXTINF:-1,Arabella schlager
+https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile
+#EXTINF:-1,Radio SOL 95.5
+http://sol.anw.at:8023/stream
+#EXTINF:-1,WELLE 1 - Oberösterreich - HQ
+https://live.welle1.at:17256/stream

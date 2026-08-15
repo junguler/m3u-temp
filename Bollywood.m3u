@@ -32,3 +32,11 @@ https://2.mystreaming.net/uber/bollywood2000s/icecast.audio
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/chunklist.m3u8
 #EXTINF:-1,Tinder Radio
 https://streaming.exclusive.radio/er/bollywood/icecast.audio
+#EXTINF:-1,Indifun Radio
+http://162.241.114.203:7000/;
+#EXTINF:-1,BBC Asian Network (128k)
+https://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d128000.norewind.m3u8
+#EXTINF:-1,Ujala Radio
+https://stream2.ujala.nl/stream/2/listen.mp3
+#EXTINF:-1,Radio Udaan
+https://stream.radioudaan.com/listen/radio_udaan/radio.mp3

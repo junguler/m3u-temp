@@ -74,3 +74,23 @@ https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
 https://stream.srg-ssr.ch/m/drs4news/aacp_32
 #EXTINF:-1,ABC Local Radio 91.7 Gold Coast, QLD (MP3)
 https://abc.streamguys1.com/live/localgoldcoast/icecast.audio
+#EXTINF:-1,新西兰中文广播电台 FM90.6 Radio Chinese
+https://s26.myradiostream.com:20274/listen.mp3
+#EXTINF:-1,France24 Français
+https://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8
+#EXTINF:-1,NDR Info Spezial
+https://icecast.ndr.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3
+#EXTINF:-1,ABC Local Radio 891 Adelaide (AAC)
+https://live-radio01.mediahubaustralia.com/5LRW/aac/
+#EXTINF:-1,ABC Local Radio 1233 Newcastle, NSW (AAC)
+https://live-radio01.mediahubaustralia.com/2NEWW/aac/
+#EXTINF:-1,XEWK "W Radio" 1190 AM Guadalajara, JA
+http://26143.live.streamtheworld.com:3690/WRADIO_GDLAAC_SC
+#EXTINF:-1,KSFO 560 AM San Francisco, CA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAM_SC
+#EXTINF:-1,华夏之声China FM·西班牙马德里FM92.9
+https://radioserver12.profesionalhosting.com/proxy/pkg152387/stream
+#EXTINF:-1,Cause Commune (Libre @ Toi)
+http://vdl.stream-lat.org:8000/voixdulat_mp3
+#EXTINF:-1,WKDM 纽约华语广播国语台
+https://video1.getstreamhosting.com:8292/stream?.mp3

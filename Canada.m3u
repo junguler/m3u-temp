@@ -116,3 +116,55 @@ http://streams.calmradio.com/api/59/128/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
 #EXTINF:-1,Calm Radio - Symphony
 https://streams.calmradio.com:1028/stream
+#EXTINF:-1,Radio-Classique
+https://listen.radioking.com/radio/228241/stream/271810
+#EXTINF:-1,Radio Pakistan Toronto
+https://s3.radio.co/s3b10a57ef/listen
+#EXTINF:-1,RadioSky Music Jazz
+http://jazz.radioskymusic.com:7006/live
+#EXTINF:-1,CBC Radio One Montréal
+https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
+#EXTINF:-1,CJRK-FM 102.7 "East FM" Toronto, ON
+https://centova.radioservers.biz/proxy/eastfmc1/stream
+#EXTINF:-1,Radio Italia Canada
+https://streaming.radiostreamlive.com/radioitaliacanada_devices
+#EXTINF:-1,CHES 91.7 Erin Radio, ON
+https://streaming.radio.co/saa34f11f4/listen
+#EXTINF:-1,Lighthouse VOAR-FM
+https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1
+#EXTINF:-1,101.9 ROCK
+https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy?environment=tunein
+#EXTINF:-1,WEFUNK
+https://s-17.wefunkradio.com:8443/wefunk64.mp3
+#EXTINF:-1,CKOM News/Talk 650 (Saskatoon, SK)
+https://rawlco.leanstream.co/CKOMAM
+#EXTINF:-1,CFOX 99.3 Vancouver, BC
+https://live.leanstream.co/CFOXFM-MP3
+#EXTINF:-1,PunkRockRadio.ca
+https://stream.radio.co/s904013bb1/listen
+#EXTINF:-1,irock24/7
+https://streamer.radio.co/s493283a7e/listen
+#EXTINF:-1,VOCM-AM 590 St. John's, NL
+https://newcap.leanstream.co/VOCMAM
+#EXTINF:-1,J1 GOLD
+https://jenny.torontocast.com:2000/stream/J1GOLD
+#EXTINF:-1,CKYE-FM 93.1 "Red FM" Vancouver, BC
+https://ice24.securenetsystems.net/CKYE
+#EXTINF:-1,SENSUAL LOUNGE RADIO
+https://kathy.torontocast.com:3590/;?type=http
+#EXTINF:-1,SENSUAL LOUNGE RADIO
+https://kathy.torontocast.com:3590/;?type=http
+#EXTINF:-1,Calm Radio - Schubert
+https://streams.calmradio.com:8228/stream
+#EXTINF:-1,#1 RdMix Love Songs
+https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+#EXTINF:-1,Toronto Global Radio - Freestyle
+https://london-dedicated.myautodj.com:3199/proxy/freestyle/stream
+#EXTINF:-1,Calm Radio - Debussy
+https://streams.calmradio.com:10228/stream
+#EXTINF:-1,Lapfox Radio (FLAC)
+https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+#EXTINF:-1,CKGY "Real Country 95.5"  Red Deer, AB
+https://newcap.leanstream.co/CKGYFM-MP3
+#EXTINF:-1,CFCO "Country 92.9 & 630" - Chatham, ON
+https://live.leanstream.co/CFCOFM

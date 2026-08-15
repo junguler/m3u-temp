@@ -4,3 +4,9 @@ http://138.197.0.4:8000/stream
 http://www.ebm-radio.org:7000/
 #EXTINF:-1,EBM
 https://stream.laut.fm/ebm
+#EXTINF:-1,SDX synthetic experience - EBM, Synth and Industrial
+http://radio.dawnshadow.se:8000/stream
+#EXTINF:-1,XWave Radio
+http://vps-260b74e9.vps.ovh.net:8000/
+#EXTINF:-1,laut.fm Dark-Mythos
+https://stream.laut.fm/dark-mythos

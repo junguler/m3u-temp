@@ -32,3 +32,11 @@ http://rstream.mcot.net:9044/;.mp3
 http://fm94.tv5.co.th:8000/fm94ch3
 #EXTINF:-1,Chili Radio Thailand
 https://stream.chiliradio.app/chiliclassics
+#EXTINF:-1,talay 90.25FM
+https://stream.talay.asia/talay
+#EXTINF:-1,JS100
+http://103.246.19.203:8004/stream?type=http
+#EXTINF:-1,ThaiRadio 96.5 thinking
+https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8
+#EXTINF:-1,Top News (Mobile Stream)
+https://live3.topnews.co.th/hls/mobile_v1.m3u8

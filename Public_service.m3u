@@ -18,3 +18,5 @@ https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=web
 https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus?aggregator=web
 #EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 192k
 https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | OPUS 24k
+https://st02.sslstream.dlf.de/dlf/02/low/opus/stream.opus?aggregator=web

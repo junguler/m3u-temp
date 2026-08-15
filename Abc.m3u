@@ -30,3 +30,15 @@ https://live-radio02.mediahubaustralia.com/GSDW/mp3/;
 https://abc.streamguys1.com/live/localgoldcoast/icecast.audio
 #EXTINF:-1,ABC Classic 2 Stream (MP3)
 https://live-radio01.mediahubaustralia.com/FM2W/mp3/
+#EXTINF:-1,ABC Local Radio 702 Sydney (MP3)
+https://live-radio01.mediahubaustralia.com/2LRW/mp3/
+#EXTINF:-1,ABC Local Radio 891 Adelaide (AAC)
+https://live-radio01.mediahubaustralia.com/5LRW/aac/
+#EXTINF:-1,ABC Local Radio 1233 Newcastle, NSW (AAC)
+https://live-radio01.mediahubaustralia.com/2NEWW/aac/
+#EXTINF:-1,ABC Country HLS
+https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/index.m3u8
+#EXTINF:-1,ABC Double J (MP3)
+https://live-radio01.mediahubaustralia.com/DJDW/mp3/
+#EXTINF:-1,ABC A-League Live (MP3)
+https://live-radio02.mediahubaustralia.com/IT2W/mp3/;

@@ -94,3 +94,53 @@ https://stream.radionl.fm/radionl
 https://classic.nl/streams/?s=opera
 #EXTINF:-1,RTV Oost Radio
 https://streams.rtvoost.nl/audio/oost/mp3
+#EXTINF:-1,LX Classics
+https://mcp-1.streampanel.nl:8020/lxclassics_mp3
+#EXTINF:-1,Radio 2 Antwerpen
+https://icecast.vrtcdn.be/ra2ant-high.mp3
+#EXTINF:-1,Concertzender De Muzikant
+http://streams.greenhost.nl:8080/amateurmuziek
+#EXTINF:-1,Kink 192k mp3
+http://25273.live.streamtheworld.com/KINK_SC
+#EXTINF:-1,Pinguin Classics
+https://streams.pinguinradio.com/PinguinClassics192.mp3
+#EXTINF:-1,KINK 128k aac
+https://22553.live.streamtheworld.com/KINKAAC_SC
+#EXTINF:-1,Nostalgie Extra (What a Feeling)
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3
+#EXTINF:-1,SLAM! DANCE CLASSICS
+https://stream.slam.nl/WEB15_MP3
+#EXTINF:-1,Dfm rtv int160k
+http://213.133.109.221:8205/dfm_1
+#EXTINF:-1,Freak31
+http://stream.freak31.com:8322/
+#EXTINF:-1,Willy Class X
+https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac
+#EXTINF:-1,Radio M Utrecht
+https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3
+#EXTINF:-1,Grand Prix Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3
+#EXTINF:-1,Omroep Brabant
+http://streaming.omroepbrabant.nl/mp3hq
+#EXTINF:-1,NPO Radio 6 Soul & Jazz
+https://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1,NPO Radio 6 Soul & Jazz
+https://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1,Sky Radio Nice & Easy
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3
+#EXTINF:-1,Pinguin Aardschok
+https://streams.pinguinradio.com/Aardschok192.mp3
+#EXTINF:-1,Radio 10 non-stop
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3
+#EXTINF:-1,Concertzender Jazz
+http://streams.greenhost.nl:8080/jazz
+#EXTINF:-1,Radio Noord
+https://media.rtvnoord.nl/icecast/rtvnoord/radio?.pls
+#EXTINF:-1,Sky Radio Lounge
+http://25233.live.streamtheworld.com:3690/SRGSTR07AAC_SC
+#EXTINF:-1,Airplay Radio
+https://stream.and-stuff.nl:8443/live-airplay_320
+#EXTINF:-1,Radio Noordvaarder Angel Healing
+http://www1.radionoordvaarder.nl:8000/;
+#EXTINF:-1,Reformatorische Omroep Radio 3
+http://ro3.reformatorischeomroep.nl:8072/live

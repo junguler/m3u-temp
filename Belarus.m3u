@@ -54,3 +54,19 @@ https://stream2.datacenter.by/kultura
 https://radio.mk.by:8443/radiominsk
 #EXTINF:-1,Radio Plato
 https://azura.radioplato.by/radio/8000/radio.mp3
+#EXTINF:-1,Unistar - Офисный Канал
+https://stream.unistar.by/unistar_office_internal/unistar_office/playlist.m3u8
+#EXTINF:-1,Радио Беларусь FM/Radio Belarus FM
+http://stream2.datacenter.by:8009/belarusfm
+#EXTINF:-1,Еўрарадыё Alternative
+http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910
+#EXTINF:-1,ЦЕНТР FM
+https://stream2.datacenter.by/stream
+#EXTINF:-1,Radio Racyja
+http://air.racyja.com:8000/racja320
+#EXTINF:-1,Авторадио Минск
+https://live.humorfm.by:8443/avtoradio
+#EXTINF:-1,МВ-Радио
+https://stream2.datacenter.by/mvradio
+#EXTINF:-1,Ватыканскае радыё
+https://radio.vaticannews.va/stream-be

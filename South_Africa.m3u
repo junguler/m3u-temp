@@ -52,3 +52,13 @@ https://edge.iono.fm/xice/212_medium.aac
 https://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8
 #EXTINF:-1,East Coast Radio
 https://live.ecr.co.za/ecrhigh.mp3?aw_0_pinpoll=1,2,9
+#EXTINF:-1,Jozi FM (HiFi aac)
+https://edge.iono.fm/xice/51_high.aac
+#EXTINF:-1,KFM 94.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3
+#EXTINF:-1,Channel Islam International
+https://edge.iono.fm/xice/109_medium.aac
+#EXTINF:-1,Fine Music Radio
+https://edge.iono.fm/xhls/fmr_live_medium.m3u8
+#EXTINF:-1,MFM
+https://edge.iono.fm/xice/46_medium.aac

@@ -50,3 +50,17 @@ https://strm.radionula.com/lounge
 http://stream02.exit.si:8000/EXYU?
 #EXTINF:-1,Hitradio center yu
 http://stream3.radiocenter.si:8100/;stream/1
+#EXTINF:-1,Hitradio center megamix
+http://stream3.radiocenter.si:8066/;stream/1
+#EXTINF:-1,Radio Sora
+http://radio-sora.si:8000/radio-sora.mp3
+#EXTINF:-1,Radio Nula Organic
+https://strm.radionula.com/channel2
+#EXTINF:-1,Radio Nula Classics
+http://streaming.radionula.com:8800/classics
+#EXTINF:-1,Hit Radio Center (Ljubljana - 102.4MHz)
+http://stream3.radiocenter.si:8000/;center/1
+#EXTINF:-1,Radio Mister Deejay
+http://stream.mister-deejay.com:9008/;
+#EXTINF:-1,Radio Ognjišče
+https://live.radio.si/ognjisce.mp3

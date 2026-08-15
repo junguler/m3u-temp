@@ -4,3 +4,7 @@ https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
 https://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3
 #EXTINF:-1,SRF 2
 https://stream.srg-ssr.ch/srgssr/srf2/mp3/128
+#EXTINF:-1,NDR Info Spezial
+https://icecast.ndr.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3
+#EXTINF:-1,__SALSA__ by rautemusik (rm.fm)
+https://salsa-high.rautemusik.fm/?ref=radiobrowser

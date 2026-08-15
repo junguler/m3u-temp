@@ -26,3 +26,11 @@ https://icecast-cklx.rncm.ca/cklx.mp3
 https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
 #EXTINF:-1,CJCL Sportsnet 590 The Fan
 https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+#EXTINF:-1,BBC Radio Scotland (128k)
+https://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d128000.norewind.m3u8
+#EXTINF:-1,RPP Mundial
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1005617_y9ORJb3Z__0000001ATBc
+#EXTINF:-1,Sport Nation - AAC
+https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8
+#EXTINF:-1,FOX Sports 98.9FM / 1340AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRLVAMAAC.aac

@@ -22,3 +22,7 @@ https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
 https://liveradio.swr.de/d9zadj3/dasding/
 #EXTINF:-1,SR 2 KulturRadio
 https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3?aggregator=custom1
+#EXTINF:-1,Russia Today Germany
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1,SR 3 Saarlandwelle (56 kbit/s)
+https://sr.audiostream.io/sr/1011/mp3/56/sr3

@@ -14,3 +14,19 @@ http://streaming.hdserver.biz:9368/stream
 https://streamingecuador.net:9000/radiogaviota
 #EXTINF:-1,Radio Aventura 107.1 FM
 http://streaming.hdserver.biz:9424/stream
+#EXTINF:-1,Chanquete FM 99.5
+http://185.23.192.118:8008/;
+#EXTINF:-1,Radio Marejada 100.9 FM
+http://streaming.hdserver.biz:9330/stream
+#EXTINF:-1,Radio Norte Bahia
+https://icecast.hostingbahia.com.ar:8002/live?1475282235673
+#EXTINF:-1,Amor FM 93.9
+https://player.hostingtico.com/proxy/8094
+#EXTINF:-1,103 (FM 103.1)
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac
+#EXTINF:-1,Canal Fiesta Radio
+https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
+#EXTINF:-1,La Jefa 1300 AM
+https://sonic.paulatina.co/7046/stream
+#EXTINF:-1,94.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/949FM_ADP.m3u8

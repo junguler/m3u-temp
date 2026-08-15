@@ -26,3 +26,7 @@ https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3?aggregator=custom1
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1,SR 3 Saarlandwelle (56 kbit/s)
 https://sr.audiostream.io/sr/1011/mp3/56/sr3
+#EXTINF:-1,rbb FRITZ (48 kbit/s)
+http://fritz.de/livemp3_s
+#EXTINF:-1,tagesschau24
+https://icecast.tagesschau.de/ndr/tagesschau24/live/mp3/128/stream.mp3

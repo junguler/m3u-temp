@@ -44,3 +44,11 @@ http://radio-sora.si:8000/radio-sora.mp3
 http://stream3.radiocenter.si:8000/;center/1
 #EXTINF:-1,Radio Mister Deejay
 http://stream.mister-deejay.com:9008/;
+#EXTINF:-1,Radio Antena (105.2MHz)
+https://live.radio.si/Antena
+#EXTINF:-1,Hitradio center rock
+http://stream.rockradio.si:9034/;stream/1
+#EXTINF:-1,Radio Capris LOVE
+http://stream02.exit.si:8000/LOVE?
+#EXTINF:-1,Balkan Hip-Hop Radio
+http://centova.dukahosting.com:2022/stream

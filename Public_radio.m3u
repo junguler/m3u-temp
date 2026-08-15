@@ -216,3 +216,53 @@ http://kuvo-ice.streamguys.org/kuvo-aac-128
 https://live-radio02.mediahubaustralia.com/IT2W/mp3/;
 #EXTINF:-1,WGUC-HD2 Jazz Stream - Cincinatti, OH
 http://cpr2.streamguys.net/jazz
+#EXTINF:-1,WVPE HD3 - Blues
+http://live.str3am.com:2240/live
+#EXTINF:-1,ABC Triple J Unearthed  (MP3)
+https://live-radio01.mediahubaustralia.com/UNEW/mp3/
+#EXTINF:-1,CBC Radio One - Ottawa, ON (MP3 stream)
+https://29243.live.streamtheworld.com/CBOFM_CBC_SC
+#EXTINF:-1,Muravidéki Magyar Rádió
+https://mp3.rtvslo.si/mmr
+#EXTINF:-1,Radio Ostrowiec 95.2 FM
+https://s1.slotex.pl:7050/stream/1/;?type=http
+#EXTINF:-1,Vermont Public Radio "VPR Classical"
+http://vprclassical.streamguys.net/vprclassical64.aac
+#EXTINF:-1,FM 101 Sargodha
+https://whmsonic.radio.gov.pk:8040/relay
+#EXTINF:-1,Radio SRF 1 Regionaljournal Zürich, Schaffhausen
+http://stream.srg-ssr.ch/m/regi_zh_sh/mp3_128
+#EXTINF:-1,Hitradio center rock
+http://stream.rockradio.si:9034/;stream/1
+#EXTINF:-1,WFUV "24-7 Music" New York, NY
+http://wfuv-music.streamguys.org/music-hi
+#EXTINF:-1,Capital Public Radio News (KXJZ, KKTO, KUOP, KQNC)
+https://13743.live.streamtheworld.com/KXJZ_SC
+#EXTINF:-1,БНР – Детска програма (Детското.БНР)
+http://stream.bnr.bg:8013/detskoto-bnr.aac
+#EXTINF:-1,Hitradio center fresh pop
+http://stream3.radiocenter.si:8058/;stream/1
+#EXTINF:-1,France Bleu Alsace
+https://icecast.radiofrance.fr/fbalsace-midfi.mp3
+#EXTINF:-1,HRT Radio Dubrovnik
+http://27873.live.streamtheworld.com:3690/DUBROVNIKAAC_SC
+#EXTINF:-1,Hitradio center latin
+http://stream3.radiocenter.si:8200/;stream/1
+#EXTINF:-1,Fip : Metal
+https://icecast.radiofrance.fr/fipmetal-hifi.aac
+#EXTINF:-1,ČRo Radio Wave
+http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg
+#EXTINF:-1,RTHK Radio 6 央廣香港之聲
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
+#EXTINF:-1,БНР – Радио Кърджали
+http://stream.bnr.bg:8038/radio-kardzhali.aac
+#EXTINF:-1,KBAQ 89.5 "K-Bach" Classical - Phoenix, AZ
+http://stream.kbaq.org/kbaq_mp3_128
+#EXTINF:-1,RSI Rete Due
+http://stream.srg-ssr.ch/m/retedue/mp3_128
+#EXTINF:-1,SRo6 Radio Slovakia International
+https://icecast.stv.livebox.sk/rsi_128.mp3
+#EXTINF:-1,Needs Radio 全球華語廣播網
+https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/chunklist.m3u8
+#EXTINF:-1,ERR Raadio 2
+https://icecast.err.ee/raadio2.mp3

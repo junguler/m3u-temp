@@ -144,3 +144,45 @@ https://stream.and-stuff.nl:8443/live-airplay_320
 http://www1.radionoordvaarder.nl:8000/;
 #EXTINF:-1,Reformatorische Omroep Radio 3
 http://ro3.reformatorischeomroep.nl:8072/live
+#EXTINF:-1,NPO FunX Dance
+https://icecast.omroep.nl/funx-dancefb-bb-mp3
+#EXTINF:-1,Keizerstad Radio 80s
+http://server-06.stream-server.nl:8800/
+#EXTINF:-1,Kink 90's
+https://22533.live.streamtheworld.com/KINK_90S_SC
+#EXTINF:-1,Concertzender Folk it!
+http://streams.greenhost.nl:8080/folkit
+#EXTINF:-1,Only 80's Radio
+https://server-28.stream-server.nl:8850/stream
+#EXTINF:-1,538 TOP 50
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13AAC.aac
+#EXTINF:-1,Radio 2 Oost-Vlaanderen
+https://icecast.vrtcdn.be/ra2ovl-high.mp3
+#EXTINF:-1,Classic NL
+https://classic.nl/streams/?s=main
+#EXTINF:-1,Studio Brussel UNTZ
+https://icecast.vrtcdn.be/stubru_untz.aac
+#EXTINF:-1,Concertzender X-Rated
+http://streams.greenhost.nl:8080/concertzenderlive
+#EXTINF:-1,192 Radio Veronica
+http://server-14.stream-server.nl:8030/
+#EXTINF:-1,Willy
+https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3
+#EXTINF:-1,Omrop Fryslân Radio
+https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3
+#EXTINF:-1,Radio Drenthe
+https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio
+#EXTINF:-1,RTV Maastricht 107.5
+http://stream.rtvmaastricht.nl:8081/rtv/radio_audio/icecast.audio
+#EXTINF:-1,Old Men's Radio
+https://server-10.stream-server.nl:8140/
+#EXTINF:-1,Radio 2 Vlaams-Brabant
+https://icecast.vrtcdn.be/ra2vlb-high.mp3
+#EXTINF:-1,Radio Noordvaarder Reiki
+http://stream.radionoordvaarder.nl:8050/
+#EXTINF:-1,Concertzender Oriënt Express
+http://streams.greenhost.nl:8080/orientexpress
+#EXTINF:-1,Echtepiraten.nl
+https://azuraserv3.live-streams.nl:8040/stream.mp3
+#EXTINF:-1,Sky Radio Smooth Hits
+https://22713.live.streamtheworld.com/SRGSTR15AAC_SC

@@ -50,3 +50,21 @@ http://listen.mrg.fm:8100/stream
 https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm
 #EXTINF:-1,Urban Radio - Hip Hop Hits
 https://hydra.cdnstream.com/1525_128
+#EXTINF:-1,bigFM Baden-Württemberg
+https://stream.bigfm.de/bw/mp3-128/radio-browser
+#EXTINF:-1,OpenLab Radio
+https://ice04.fluidstream.net/openlab.mp3
+#EXTINF:-1,Luxfunk Radio
+https://luxfunkbroadcast.com/proxy/luxfunkradio/stream
+#EXTINF:-1,bigFM Rheinland-Pfalz
+https://stream.bigfm.de/rlp/mp3-128/radio-browser
+#EXTINF:-1,103.7 Da Beat
+http://s1.voscast.com:8580/;
+#EXTINF:-1,Radio Tequila Hip-Hop
+http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1,Radio Tequila Hip-Hop
+http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1,Urban Radio - All The Hip Hop Hits
+https://hydra.cdnstream.com/1537_128
+#EXTINF:-1,Colombia Urbana
+https://play10.tikast.com/proxy/colurbana?mp=/stream

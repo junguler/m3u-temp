@@ -168,3 +168,53 @@ https://centova.svdns.com.br:19373/stream
 http://centova.radio.com.pt:9464/;
 #EXTINF:-1,CM Rádio
 https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8
+#EXTINF:-1,Rádio nove3cinco
+http://centova.radio.com.pt:9522/;
+#EXTINF:-1,Rádio Condestável
+http://centova.radio.com.pt:8427/;
+#EXTINF:-1,RES FM
+http://stream2.soundflux.eu:8440/stream
+#EXTINF:-1,Radio Maria Brazil
+http://dreamsiteradiocp.com:8064/stream
+#EXTINF:-1,Antena 3 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR
+#EXTINF:-1,89FM Radio Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac
+#EXTINF:-1,Rádio Musical
+http://stm21.conectastm.com:6892/stream
+#EXTINF:-1,M80 Rádio – Rock
+https://stream-icy.bauermedia.pt/m80rock.aac
+#EXTINF:-1,Rádio Portalegre
+http://centova.radio.com.pt:9492/;
+#EXTINF:-1,Rádio Comercial Dance
+https://stream-icy.bauermedia.pt/rcdance.aac
+#EXTINF:-1,Rádio Vizela
+https://proxy-audio.ptisp.com:8100/stream
+#EXTINF:-1,Nova Brasil FM 93.5 Aracaju
+http://27393.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC
+#EXTINF:-1,Liberal FM 97.5MHz
+http://177.105.192.70:9750/liberalfm.mp3
+#EXTINF:-1,Radio Santiago Guimaraes
+http://eu6.fastcast4u.com:5002/stream
+#EXTINF:-1,Rádio Antena Livre
+http://centova.radio.com.pt:8571/;
+#EXTINF:-1,Rádio Bandeirantes 85.7 FM
+https://stm23.xcast.com.br:11284/stream
+#EXTINF:-1,Rádio Café Viola
+https://stm6.xcast.com.br:9328/;?1685284162874
+#EXTINF:-1,Antena 1 Açores (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1,Jovem Fm
+http://wz3.dnip.com.br/aycomau1/aycomau1.stream/playlist.m3u8
+#EXTINF:-1,Nativa
+http://centova17.ciclanohost.com.br:8085/stream.mp3
+#EXTINF:-1,Rádio Lisboa
+http://radiolisboa.ddns.net:8080/stream/1/
+#EXTINF:-1,M80 Rádio – Pop
+https://stream-icy.bauermedia.pt/m80pop.aac
+#EXTINF:-1,Atlântida (Santa Maria)
+http://222747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_sma.sdp/playlist.m3u8
+#EXTINF:-1,Antena 2 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+#EXTINF:-1,M80 Rádio – Dance
+https://stream-icy.bauermedia.pt/m80dance.aac

@@ -18,3 +18,13 @@ https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_
 http://stream.kaaosradio.fi:8000/stream2
 #EXTINF:-1,Radio SuomiRock
 https://stream.bauermedia.fi/suomirock/suomirock_128.mp3
+#EXTINF:-1,Kaaos Radio Chiptune
+http://stream.kaaosradio.fi:8000/chip
+#EXTINF:-1,LBC
+https://ice-sov.musicradio.com/LBCLondon
+#EXTINF:-1,Radio Santa Claus
+https://streaming.radiostreamlive.com/radiosantaclaus_devices
+#EXTINF:-1,Tick Tock Radio - 1950
+https://streaming.ticktock.radio/tt/1950/icecast.audio
+#EXTINF:-1,Kaaosradio - 24h
+http://stream.kaaosradio.fi:8000/stream

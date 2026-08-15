@@ -104,3 +104,31 @@ https://01.solumedia.com.ar:7828/stream
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 #EXTINF:-1,LRA1 Radio Nacional Argentina
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
+#EXTINF:-1,Radio Norte Bahia
+https://icecast.hostingbahia.com.ar:8002/live?1475282235673
+#EXTINF:-1,FM Plus 93.1 Rosario
+http://fmplus.radio.rosario3.com:8006/
+#EXTINF:-1,Radio Britannia
+https://01.solumedia.com.ar:8472/stream/;
+#EXTINF:-1,Radio Cadena 3
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO3_SC
+#EXTINF:-1,Radio El Mundo - AM 1070
+https://streaming.escuchanosonline.com:7118//stream?type=http
+#EXTINF:-1,Radio Cristiana FM 88.3
+https://rr5100.globalhost1.com/8540/;
+#EXTINF:-1,María Argentina
+http://dreamsiteradiocp.com:8004/
+#EXTINF:-1,FM 97.9 Vida
+https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
+#EXTINF:-1,Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac
+#EXTINF:-1,Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac
+#EXTINF:-1,Radio Saint Germain
+http://173.255.205.241:8200/
+#EXTINF:-1,LT7 Radio Provincia de Corrientes
+http://turadioenvivo.com:11045/stream
+#EXTINF:-1,Milenium 94.1 FM
+http://23.111.184.195:8020/mileniumrosario.mp3
+#EXTINF:-1,FM UTN Mendoza
+http://streaming.fmutn.com.ar:8000/FMUTN#;.mp3

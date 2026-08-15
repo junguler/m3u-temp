@@ -278,3 +278,59 @@ https://radio.905heartfm.com:8000/radio.mp3
 https://hls-rmc.nextradiotv.com/no_ssai/128k/media.m3u8
 #EXTINF:-1,WAMU American University Radio
 https://wamu.cdnstream1.com/wamu.mp3
+#EXTINF:-1,РТС - Радио Београд - 202
+https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8
+#EXTINF:-1,Sveriges Radio P1
+https://edge1.sr.se/p1-aac-320
+#EXTINF:-1,RADIO MARIA SERBIA
+http://dreamsiteradiocp.com:8012/stream
+#EXTINF:-1,News Talk 99.5 WRNO
+https://stream.revma.ihrhls.com/zc1033
+#EXTINF:-1,LBC
+https://ice-sov.musicradio.com/LBCLondon
+#EXTINF:-1,Talk Radio 1190
+https://stream.revma.ihrhls.com/zc4276
+#EXTINF:-1,KSCO "Talk Back Radio" 1080 AM Santa Cruz, CA
+http://184.105.148.154:8000/live
+#EXTINF:-1,Skai Patras
+http://i.streams.ovh:9519/stream?type=http
+#EXTINF:-1,Radio Maria Brazil
+http://dreamsiteradiocp.com:8064/stream
+#EXTINF:-1,Radio Art - Orchestral
+https://air.radioart.com/fOrchestral.mp3
+#EXTINF:-1,Boss FM 104.1-104.9 - Grenada
+https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1
+#EXTINF:-1,Lady Radio
+http://onair15.xdevel.com:9126/;stream.mp3
+#EXTINF:-1,LA Talk Radio
+https://securestreams2.autopo.st:1185/;stream/1
+#EXTINF:-1,WRKO-AM 680
+https://stream.revma.ihrhls.com/zc7750
+#EXTINF:-1,Radio4
+https://netradio.radio4.dk/radio4
+#EXTINF:-1,WFLA 970 AM Tampa Bay, FL
+https://stream.revma.ihrhls.com/zc2823
+#EXTINF:-1,桃園GO GO104.3
+https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8
+#EXTINF:-1,CJOB 680 Winnipeg, MB
+https://live.leanstream.co/CJOBAM-MP3
+#EXTINF:-1,Africa Radio Paris
+https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+#EXTINF:-1,RADIO MARIA URUGUAY
+http://dreamsiteradiocp.com:8088/stream
+#EXTINF:-1,Most Radio 105.8 FM
+http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w118038145.m3u8
+#EXTINF:-1,WJR 760 Detroit, MI
+https://18363.live.streamtheworld.com/WJRAMAAC_SC
+#EXTINF:-1,CKNW 980 New Westminster, BC
+https://live.leanstream.co/CKNWAM
+#EXTINF:-1,Metropolis 97.2
+https://s6.onweb.gr:8092/;stream.nsv
+#EXTINF:-1,Radio Canal 100.1 FM
+https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8
+#EXTINF:-1,Radioactiva
+http://23043.live.streamtheworld.com:3690/ACTIVA_SC
+#EXTINF:-1,CBC Radio 1 Ottawa (CBO-FM)
+https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1,下港之聲FM90.5
+http://59.120.255.155:8081/

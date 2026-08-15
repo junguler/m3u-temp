@@ -90,3 +90,35 @@ https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
 http://centova.radio.com.pt:9464/;
 #EXTINF:-1,CM Rádio
 https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8
+#EXTINF:-1,Rádio nove3cinco
+http://centova.radio.com.pt:9522/;
+#EXTINF:-1,Rádio Condestável
+http://centova.radio.com.pt:8427/;
+#EXTINF:-1,RES FM
+http://stream2.soundflux.eu:8440/stream
+#EXTINF:-1,Antena 3 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR
+#EXTINF:-1,SmoothFM Soul
+https://stream-icy.bauermedia.pt/smoothsoul.aac
+#EXTINF:-1,M80 Rádio – Rock
+https://stream-icy.bauermedia.pt/m80rock.aac
+#EXTINF:-1,Rádio Portalegre
+http://centova.radio.com.pt:9492/;
+#EXTINF:-1,Rádio Comercial Dance
+https://stream-icy.bauermedia.pt/rcdance.aac
+#EXTINF:-1,Rádio Vizela
+https://proxy-audio.ptisp.com:8100/stream
+#EXTINF:-1,Radio Santiago Guimaraes
+http://eu6.fastcast4u.com:5002/stream
+#EXTINF:-1,Rádio Antena Livre
+http://centova.radio.com.pt:8571/;
+#EXTINF:-1,Antena 1 Açores (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1,Rádio Lisboa
+http://radiolisboa.ddns.net:8080/stream/1/
+#EXTINF:-1,M80 Rádio – Pop
+https://stream-icy.bauermedia.pt/m80pop.aac
+#EXTINF:-1,Antena 2 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+#EXTINF:-1,M80 Rádio – Dance
+https://stream-icy.bauermedia.pt/m80dance.aac

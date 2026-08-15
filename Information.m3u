@@ -1,0 +1,28 @@
+#EXTINF:-1,RFI-Afrique
+http://live02.rfi.fr/rfiafrique-96k.mp3
+#EXTINF:-1,BFM radio
+https://audio.bfmtv.com/bfmradio_128.mp3
+#EXTINF:-1,Virgin Radio UK
+https://radio.virginradio.co.uk/stream
+#EXTINF:-1,Polskie Radio 24
+http://stream3.polskieradio.pl:8080/;.mp3
+#EXTINF:-1,Inforadio
+https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
+#EXTINF:-1,Times Radio UK
+https://timesradio.wireless.radio/stream
+#EXTINF:-1,TOK FM
+https://radiostream.pl/tuba10-1.mp3#TOK_FM
+#EXTINF:-1,WNYC-FM 93.9 New York Public Radio
+https://fm939.wnyc.org/wnycfm
+#EXTINF:-1,B5 aktuell
+https://streams.br.de/b5aktuell_2.m3u
+#EXTINF:-1,Radio HRN La Voz de Honduras
+https://ice42.securenetsystems.net/HRN
+#EXTINF:-1,NDR Info (Hamburg)
+https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+#EXTINF:-1,NDR Info (Schleswig-Holstein)
+https://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3
+#EXTINF:-1,Radio RMF24.pl
+https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false
+#EXTINF:-1,ABC Radio National AAC+
+https://abc.streamguys1.com/live/rnnsw/icecast.audio

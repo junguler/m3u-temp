@@ -1,0 +1,10 @@
+#EXTINF:-1,France Culture
+https://icecast.radiofrance.fr/franceculture-hifi.aac
+#EXTINF:-1,WDR 5
+https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+#EXTINF:-1,Deutschlandfunk | DLF | MP3 128k
+https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,NDR Info (Hamburg)
+https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+#EXTINF:-1,NDR Info (Schleswig-Holstein)
+https://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3

@@ -66,3 +66,27 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?d
 http://stream1.radio88.hu:8300/;stream
 #EXTINF:-1,Aswat FM
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
+#EXTINF:-1,Unistar - 2000-е
+https://stream.unistar.by/unistar_best_internal/unistar_best/playlist.m3u8
+#EXTINF:-1,Antenne Bayern - Hitmix
+https://mp3channels.webradio.antenne.de/hitmix
+#EXTINF:-1,Zhulduz Radio
+http://91.201.214.229:8000/zhulduz
+#EXTINF:-1,Virgin Radio Oman
+http://uk5.internet-radio.com:8115/stream
+#EXTINF:-1,Arab Mix FM
+https://stream.zeno.fm/na3vpvn10qruv
+#EXTINF:-1,NRJ België
+https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser
+#EXTINF:-1,Virgin Radio Rock Hits
+https://icy.unitedradio.it/VirginRockHits.mp3
+#EXTINF:-1,RadioFEST
+https://play.radiofest.pl:8443/fest
+#EXTINF:-1,Radio Policía (Medellín) Nacional 96.4 FM
+https://radio35.virtualtronics.com/proxy/radiopolicia964?mp=/stream
+#EXTINF:-1,Новое радио - MegaMix
+https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio
+#EXTINF:-1,Jovem Pan Florianópolis
+http://wz5.dnip.com.br/jfloripa/jfloripa.stream/chunklist_w2047482307.m3u8
+#EXTINF:-1,__SEX__ by rautemusik (rm.fm)
+https://sex-high.rautemusik.fm/?ref=radiobrowser

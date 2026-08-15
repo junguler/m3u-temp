@@ -68,3 +68,15 @@ http://cast4.audiostream.com.br:8653/aac
 https://srv1.braudio.com.br:7308/;stream.nsv
 #EXTINF:-1,GOLD INSTRUMENTAL
 https://centova.svdns.com.br:19373/stream1
+#EXTINF:-1,Rádio Transamérica 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+#EXTINF:-1,Rádio Metropolitana 98.5 FM Sertanejo
+https://ice.fabricahost.com.br/metrospsertanejo
+#EXTINF:-1,Rádio Itatiaia 95.7 FM
+https://8903.brasilstream.com.br/stream
+#EXTINF:-1,Jovem Pan Florianópolis
+http://wz5.dnip.com.br/jfloripa/jfloripa.stream/chunklist_w2047482307.m3u8
+#EXTINF:-1,Nova Brasil Fm São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
+#EXTINF:-1,Rádio Gospel
+http://148.72.158.239:8120/live

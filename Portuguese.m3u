@@ -78,3 +78,17 @@ http://centova.radio.com.pt:8495/;
 http://cast4.audiostream.com.br:8653/aac
 #EXTINF:-1,Rádio Nova 98.9 FM
 http://centova.radio.com.pt:9528/
+#EXTINF:-1,Radio Comercial Portugal
+https://stream-icy.bauermedia.pt/rctuga.aac
+#EXTINF:-1,M80 Rádio – 80s
+https://stream-icy.bauermedia.pt/m8080.aac
+#EXTINF:-1,Rádio Transamérica 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+#EXTINF:-1,Hiper FM
+http://195.23.85.126:9500/;
+#EXTINF:-1,Rádio Regional de Arouca
+http://centova.radio.com.pt:8485/;
+#EXTINF:-1,Rádio Itatiaia 95.7 FM
+https://8903.brasilstream.com.br/stream
+#EXTINF:-1,Rádio Gospel
+http://148.72.158.239:8120/live

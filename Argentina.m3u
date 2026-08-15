@@ -26,3 +26,25 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AA
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
 #EXTINF:-1,Radio Mitre
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC_SC
+#EXTINF:-1,Radio Recuerdos 106.7
+http://198.204.234.10:8580/stream
+#EXTINF:-1,Radio Nacional Rock 93.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
+#EXTINF:-1,Feeling 91.9 FM
+http://turadioenvivo.com:8430/stream
+#EXTINF:-1,Radio nacional AM 870
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+#EXTINF:-1,Radio nacional AM 870
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+#EXTINF:-1,Fm Cumbiambera
+https://streaming1.locucionar.com/proxy/fmcumbiambera?mp=/stream
+#EXTINF:-1,Cadena 3 Cordoba
+https://liveradio.mediainbox.net/radio3.mp3
+#EXTINF:-1,AM 530 Somos radio
+https://ipanel.instream.audio:7000/stream
+#EXTINF:-1,Vale 97.1
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+#EXTINF:-1,The Musical Box Radio
+http://albireo.shoutca.st:9740/stream
+#EXTINF:-1,Radio Disney Argentina 94.3. Ciudad de Buenos Aires
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3

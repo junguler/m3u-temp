@@ -26,3 +26,21 @@ https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8
 https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv
 #EXTINF:-1,Radio S Narodni
 https://stream.radios.rs:9016/stream
+#EXTINF:-1,Radio Studio B
+http://radio.studiob.rs:8004/
+#EXTINF:-1,Srce Krajine
+https://srv.mediastriming.com/8330/stream
+#EXTINF:-1,iFM Narodni Radio
+http://91.228.254.72:7000/;stream.nsv
+#EXTINF:-1,Radio IN Beograd
+https://radio3-64ssl.streaming.rs:9212/;*.mp3
+#EXTINF:-1,Radio S1
+https://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8
+#EXTINF:-1,Big Radio 1 Banja Luka
+http://big1.bigportal.ba:8100/big1
+#EXTINF:-1,Naxi 80-e Radio
+https://naxidigital-80s128ssl.streaming.rs:8042/;
+#EXTINF:-1,Radio Pingvin
+http://uzivo4.radiopingvin.com:8187/domaci1
+#EXTINF:-1,Radio Beograd 202
+https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8

@@ -38,3 +38,9 @@ http://stream1.radio88.hu:8300/;stream
 http://91.82.85.44:8080/debrecenradiofm95
 #EXTINF:-1,Klasszik Rádió 92.1
 https://www.klasszikradio.hu/klasszik.mp3
+#EXTINF:-1,Mixradio fresh
+http://adas.adasszerver.hu/live
+#EXTINF:-1,BDPST ROCK Rádió (Hi-Fi / Lossless / FLAC)
+http://s2.audiostream.hu:8091/bdpstrock_FLAC
+#EXTINF:-1,Pannon Rádió
+http://breddstream.unrealhosting.hu:4120/;

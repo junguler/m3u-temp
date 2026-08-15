@@ -126,3 +126,45 @@ https://media-ice.musicradio.com/GoldMP3
 https://media-the.musicradio.com/SmoothLondonMP3
 #EXTINF:-1,Радио Сева (Radio Seva Novgorodsev)
 https://seva.ru/radio/stream
+#EXTINF:-1,Radio X London (MP3)
+https://media-the.musicradio.com/RadioXLondonMP3
+#EXTINF:-1,BBC Radio 3 (128k)
+https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+#EXTINF:-1,BBC Radio 4 Extra (128k)
+https://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
+#EXTINF:-1,80s Soundtracks Radio
+http://uk5.internet-radio.com:8256/;
+#EXTINF:-1,Weymouth Rocks (Medium Bitrate)
+http://cast1.asurahosting.com:8621/med
+#EXTINF:-1,TruckersFM
+https://radio.truckers.fm/
+#EXTINF:-1,Heart
+https://media-the.musicradio.com/HeartNorthLancsCumbria
+#EXTINF:-1,Worldwide FM
+https://worldwide-fm.radiocult.fm/stream
+#EXTINF:-1,Dance UK Radio danceradiouk
+http://51.89.148.171:8022/stream
+#EXTINF:-1,TMM 2 (HQ)
+https://listen-msmn.sharp-stream.com/nme2high.mp3
+#EXTINF:-1,Deepvibes Radio
+http://88.208.218.19:8090/stream
+#EXTINF:-1,NTS Radio 1
+https://stream-relay-geo.ntslive.net/stream
+#EXTINF:-1,Chill
+https://media-ice.musicradio.com/ChillMP3
+#EXTINF:-1,BBC Radio 6 Music (128k)
+https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8
+#EXTINF:-1,1Mix EDM Radio
+http://fr1.1mix.co.uk:8060/
+#EXTINF:-1,Exclusively Supertramp
+https://streaming.exclusive.radio/er/supertramp/icecast.audio
+#EXTINF:-1,Radio Caroline Flashback
+http://sc2.radiocaroline.net:10558/;stream.mp3
+#EXTINF:-1,NonStopPlay Dance Radio
+http://stream.nonstopplay.co.uk/nsp-192k-mp3
+#EXTINF:-1,Radio Caroline AAC 96 kbps
+http://78.129.202.200:8030/;
+#EXTINF:-1,1Mix Radio - Trance (UK) 32kb aac+
+http://fr2.1mix.co.uk:9000/aacb
+#EXTINF:-1,TrancePulse FM
+http://live.trance.ie:8000/stream

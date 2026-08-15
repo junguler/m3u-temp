@@ -6,3 +6,11 @@ http://server1.tnt.ba:8010/
 http://stream.rtvbn.com:8522/;.mp3
 #EXTINF:-1,Nes Radio
 http://188.40.62.20:8070/;
+#EXTINF:-1,Srce Krajine
+https://srv.mediastriming.com/8330/stream
+#EXTINF:-1,Radio Posavina Zagreb
+http://cmr-hosting.com:8500/;stream.mp3
+#EXTINF:-1,Big Radio 1 Banja Luka
+http://big1.bigportal.ba:8100/big1
+#EXTINF:-1,BH Radio 1
+https://webtvstream.bhtelecom.ba/bh_radio1.m3u8

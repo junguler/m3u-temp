@@ -1,2 +1,8 @@
 #EXTINF:-1,Radio Plus Mauritius
 https://stream.radioplus.mu:8000/radio.mp3
+#EXTINF:-1,Top FM
+https://s1.radioforge.com:4433/topfmlive/stream?hash=1663883843609.mp3
+#EXTINF:-1,MBC Kool FM
+https://radio.mbconline.xyz/hls/koolfm.m3u8
+#EXTINF:-1,MBC Best FM
+https://radio.mbconline.xyz/hls/bestfm.m3u8

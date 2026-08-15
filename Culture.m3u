@@ -18,3 +18,19 @@ https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
 #EXTINF:-1,Algérie Chaîne 3
 https://radiochaine3.ice.infomaniak.ch/chaine3.mp3
+#EXTINF:-1,Deutschlandfunk | DLF | OPUS 24k
+https://st01.sslstream.dlf.de/dlf/01/low/opus/stream.opus?aggregator=web
+#EXTINF:-1,NDR Kultur
+https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3?1728425224079
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 48k
+https://st01.sslstream.dlf.de/dlf/01/low/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | MP3 128k
+https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,Fred Film Radio(لغة عربية)
+https://s10.webradio-hosting.com/proxy/fredradioar/stream
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 96k
+https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 192k
+https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,SRF 2
+https://stream.srg-ssr.ch/srgssr/srf2/mp3/128

@@ -10,3 +10,15 @@ https://coolism-web.cdn.byteark.com/;stream/1
 http://27.254.142.208:8300/
 #EXTINF:-1,ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก
 https://inter.lannaradio.com/radio/8000/radio.mp3
+#EXTINF:-1,Thai PBS TV
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1,สวพ.91
+http://122.155.16.48:8955/;stream.mp3
+#EXTINF:-1,Isan FM 98
+http://radio11.plathong.net:8900/stream.mp3
+#EXTINF:-1,Top News
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1,RequestRadio Dance
+https://cast.requestradio.in.th:850//stream/3
+#EXTINF:-1,RequestRadio Inter
+https://cast.requestradio.in.th:840//stream/3

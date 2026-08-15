@@ -112,3 +112,67 @@ https://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
 https://icecast5.play.cz/cro3-128.mp3
 #EXTINF:-1,Klara
 https://icecast.vrtcdn.be/klara-high.mp3
+#EXTINF:-1,BBC Radio 3 (128k)
+https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+#EXTINF:-1,Radio Caprice - Classical Baroque
+http://79.111.14.76:8002/baroque
+#EXTINF:-1,NDR Kultur
+https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3?1728425224079
+#EXTINF:-1,Concertzender Oude Muziek
+http://streams.greenhost.nl:8080/oudemuziek
+#EXTINF:-1,KBS Classic FM
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njg2MjQ3NDR9fX1dfQ__
+#EXTINF:-1,Al jazeera
+http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
+#EXTINF:-1,ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]
+https://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
+#EXTINF:-1,Calm Radio - Bach
+https://streams.calmradio.com:6828/stream
+#EXTINF:-1,SRo3: Rádio Devín
+https://icecast.stv.livebox.sk/devin_128.mp3
+#EXTINF:-1,Klassik Radio - Barock
+https://stream.klassikradio.de/barock/mp3-192
+#EXTINF:-1,Klassik Radio - Opera
+https://stream.klassikradio.de/opera/mp3-128/www.klassikradio.de/
+#EXTINF:-1,Venice Classic Radio *LIVE
+http://116.202.241.212:8020/
+#EXTINF:-1,DirtyBass.FM
+http://dirtybass.fm:8000/dirtybass.mp3
+#EXTINF:-1,Classic21
+https://radios.rtbf.be/classic21-128.mp3
+#EXTINF:-1,France Musique | Concerts Radio France
+https://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3
+#EXTINF:-1,Classic FM 1027
+https://edge.iono.fm/xice/49_medium.aac?p=embed
+#EXTINF:-1,Radio Suisse Classique
+https://stream.srg-ssr.ch/m/rsc_fr/mp3_128
+#EXTINF:-1,Chinese Music World
+https://radio.chinesemusicworld.com/chinesemusic.ogg
+#EXTINF:-1,Radio Art - Piano for Sleep
+https://air.radioart.com/fPiano_for_sleep.mp3
+#EXTINF:-1,Radio RMF FM
+https://rs202-krk.rmfstream.pl/rmf_fm
+#EXTINF:-1,WDR 3 HQ
+https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
+#EXTINF:-1,fm.92
+https://s33.myradiostream.com:13872/listen.m4a
+#EXTINF:-1,Nidaa FM
+http://nidaa.fm:8811/stream.mp3
+#EXTINF:-1,Shalom Info
+http://stream.zeno.fm/a0kvrgmcqm0uv
+#EXTINF:-1,Klara Continuo
+https://icecast.vrtcdn.be/klaracontinuo-high.mp3
+#EXTINF:-1,Air Tamil
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
+#EXTINF:-1,REGGAE ROOTS
+http://relay5.181.fm:8096/
+#EXTINF:-1,RADIO COOPERATIVA
+https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
+#EXTINF:-1,KBC
+http://stream.zeno.fm/ud2u96xst5quv
+#EXTINF:-1,Venice Classic Radio
+https://uk2.streamingpulse.com/ssl/vcr1
+#EXTINF:-1,seba
+http://213.6.93.254:8000/sebafm
+#EXTINF:-1,Radio Rodja 756 AM
+https://radioislamindonesia.com/rodja.mp3?_=2

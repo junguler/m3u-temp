@@ -8,3 +8,9 @@ https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
 http://digitalhits.frilab.com:8000/digitalhits
 #EXTINF:-1,Remember the music FM 96.6
 https://eu1.lhdserver.es:9041/stream
+#EXTINF:-1,FlaixBAC
+https://stream.flaixbac.cat/icecast
+#EXTINF:-1,iCat FM
+https://shoutcast.ccma.cat/ccma/icatHD.mp3
+#EXTINF:-1,Los 40 Catalunya
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC

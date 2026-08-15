@@ -22,3 +22,9 @@ http://stream.europeanhitradio.com:8000/Stream_12.aac
 http://lr4mp1.latvijasradio.lv:8020/;
 #EXTINF:-1,Alise Plus
 http://fm2inet.aliseplus.lv:8080/
+#EXTINF:-1,Talsi Lounge
+http://radio.kuums.lv:5555/;
+#EXTINF:-1,Skonto
+https://stream.radioskonto.lv:8443/stereo
+#EXTINF:-1,European Hit Radio - Darbam
+http://stream.europeanhitradio.com:8000/Stream_23.aac

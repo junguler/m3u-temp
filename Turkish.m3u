@@ -22,3 +22,17 @@ http://nfw.video.ria.ru/flv/audio.aspx?ID=99244423
 https://radyo.duhnet.tv/ak_dtvh_slowturk
 #EXTINF:-1,Radyo 45lik yeni
 https://stream.radyo45lik.com:4545/
+#EXTINF:-1,Power Dance
+https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio
+#EXTINF:-1,TRT3
+https://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Radyo 1
+https://trt.radyotvonline.net/trt1
+#EXTINF:-1,Radyo Sputnik
+https://icecast-rian.cdnvideo.ru/voicestm
+#EXTINF:-1,102.1 Arabeskin Merkezi Fm
+https://canli.arabeskinmerkezi.com:9180/stream
+#EXTINF:-1,Azadi Fm
+https://amed.ozelip.com/8040/;
+#EXTINF:-1,Ribat FM
+http://yayin1.canliyayin.org:7010/;*.mp3

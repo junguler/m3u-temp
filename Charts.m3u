@@ -8,3 +8,11 @@ https://radio-hls.mdr.de/hls/live/2112905/mdr-284330-0-hls/index.m3u8
 https://stream.laut.fm/hitradio-germany
 #EXTINF:-1,Jam FM
 https://stream.jam.fm/jamfm-live/mp3-128/radio-browser.info/
+#EXTINF:-1,Nexus Radio
+http://stream1.nexusradio.fm/nexusdance.mp3
+#EXTINF:-1,__CHARTHITS.FM__ by rautemusik (rm.fm)
+https://charthits-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,bigFM Deutschland
+https://stream.bigfm.de/deutschland/mp3-128/radio-browser
+#EXTINF:-1,__TECHHOUSE__ by rautemusik (rm.fm)
+https://techhouse-high.rautemusik.fm/?ref=radiobrowser

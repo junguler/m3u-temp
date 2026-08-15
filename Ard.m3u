@@ -16,3 +16,9 @@ https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
 https://radio-hls.mdr.de/hls/live/2112903/mdr-284310-0-hls/index.m3u8
 #EXTINF:-1,MDR SPUTNIK
 https://radio-hls.mdr.de/hls/live/2112905/mdr-284330-0-hls/index.m3u8
+#EXTINF:-1,Bremen Zwei NEU
+https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
+#EXTINF:-1,SWR dasding
+https://liveradio.swr.de/d9zadj3/dasding/
+#EXTINF:-1,SR 2 KulturRadio
+https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3?aggregator=custom1

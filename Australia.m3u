@@ -32,3 +32,47 @@ https://live-radio01.mediahubaustralia.com/2RNW/mp3/
 https://sbs-ice.streamguys1.com/sbschill
 #EXTINF:-1,Radio Italian Music
 https://streaming.radiostreamlive.com/radioitalianmusic_devices
+#EXTINF:-1,KIIS 106.5
+https://ais-arn.streamguys1.com/au_007_icy
+#EXTINF:-1,ABC Local Radio 720 Perth (AAC)
+https://live-radio01.mediahubaustralia.com/6LRW/aac/
+#EXTINF:-1,Free FM Rock Austral
+https://freefmrock.radioca.st/
+#EXTINF:-1,ItaliaFm
+http://167.114.174.197:8634/stream
+#EXTINF:-1,Radio 2Moro
+http://s4.voscast.com:7648/;listen.mp3
+#EXTINF:-1,Australian Digital Radio Network - The Beatles (MP3)
+http://abm21.com.au:8000/CONTAINER142
+#EXTINF:-1,774 ABC Melbourne
+https://live-radio01.mediahubaustralia.com/3LRW/mp3/;
+#EXTINF:-1,ABC Radio Australia (MP3)
+https://live-radio01.mediahubaustralia.com/RAEW/mp3/
+#EXTINF:-1,ABC Local Radio 91.7 Gold Coast, QLD (AAC)
+https://live-radio01.mediahubaustralia.com/4GLDW/aac/
+#EXTINF:-1,Triple M 90s
+https://legacy.scahw.com.au/290s_32
+#EXTINF:-1,ABC Grandstand (MP3)
+https://live-radio02.mediahubaustralia.com/GSDW/mp3/;
+#EXTINF:-1,2GB Sydney
+https://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
+#EXTINF:-1,Triple M Sydney
+https://legacy.scahw.com.au/2mmm_128
+#EXTINF:-1,ABC Radio Sydney
+https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8
+#EXTINF:-1,Triple M Melbourne
+https://wz3drp.scahw.com.au/live/3mmm_32.stream/playlist.m3u8
+#EXTINF:-1,KIIS 101.1
+https://ais-arn.streamguys1.com/au_001_icy
+#EXTINF:-1,ABC Local Radio 91.7 Gold Coast, QLD (MP3)
+https://abc.streamguys1.com/live/localgoldcoast/icecast.audio
+#EXTINF:-1,Smooth Relax Australia (AAC+ 320k)
+https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC320.aac
+#EXTINF:-1,Island FM Whitsundays 88.0MHz Airlie Beach Central Queensland
+https://onlineradiobox.com/json/au/islandwhitsundays/play?platform=web
+#EXTINF:-1,ABC Classic 2 Stream (MP3)
+https://live-radio01.mediahubaustralia.com/FM2W/mp3/
+#EXTINF:-1,Triple M Classic Rock
+https://sa47.scastream.com.au/live/2classicrock_128.stream/playlist.m3u8
+#EXTINF:-1,2FBI "FBi Radio" 94.5 FM Sydney, NSW
+https://streamer.fbiradio.com/stream

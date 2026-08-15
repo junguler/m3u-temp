@@ -34,3 +34,25 @@ https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web
 https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
 #EXTINF:-1,SRF 2
 https://stream.srg-ssr.ch/srgssr/srf2/mp3/128
+#EXTINF:-1,RRI Voice Of Indonesia
+https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+#EXTINF:-1,Bremen Zwei NEU
+https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio Kledu
+https://stream.zeno.fm/f38bxpt3v2quv
+#EXTINF:-1,Fred Film Radio(日本語)
+https://s10.webradio-hosting.com/proxy/fredradiojp/stream
+#EXTINF:-1,TRT3
+https://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 96k
+https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,Most 105.8 FM Jakarta
+https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8
+#EXTINF:-1,Deutschlandfunk | DLF | OPUS 64k
+https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 192k
+https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,SR 2 KulturRadio
+https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3?aggregator=custom1
+#EXTINF:-1,Radio Free Brooklyn.com - Brooklyn, NY
+http://us1.internet-radio.com:8155/live

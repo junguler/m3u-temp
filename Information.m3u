@@ -56,3 +56,21 @@ http://68.235.35.243:9027/;stream.mp3
 https://live-radio01.mediahubaustralia.com/2RNW/mp3/
 #EXTINF:-1,Infowars AAC Stream
 http://streams.infowars.com/alexjonesshow-aac
+#EXTINF:-1,Bremen Zwei NEU
+https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
+#EXTINF:-1,ABC Local Radio 91.7 Gold Coast, QLD (AAC)
+https://live-radio01.mediahubaustralia.com/4GLDW/aac/
+#EXTINF:-1,Радіо Шлягер FM
+https://cast.brg.ua/shanson_main_public_mp3_hq
+#EXTINF:-1,Radio Brcko District
+http://91.191.0.45:8000/
+#EXTINF:-1,kontrafunk
+https://icecast.multhielemedia.de/listen/kontrafunk/radio.mp3
+#EXTINF:-1,Стильне радіо "Перець FM"
+http://radio.stilnoe.fm:8080/radio-stilnoe
+#EXTINF:-1,RTHK Radio 3
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+#EXTINF:-1,Radio SRF 4 News
+https://stream.srg-ssr.ch/m/drs4news/aacp_32
+#EXTINF:-1,ABC Local Radio 91.7 Gold Coast, QLD (MP3)
+https://abc.streamguys1.com/live/localgoldcoast/icecast.audio

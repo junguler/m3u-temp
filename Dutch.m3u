@@ -60,3 +60,37 @@ https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
 #EXTINF:-1,Nostalgie Vlaanderen
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser
+#EXTINF:-1,Concertzender Gregoriaans
+http://streams.greenhost.nl:8080/gregoriaans
+#EXTINF:-1,Qmusic Het Foute Uur
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3
+#EXTINF:-1,Oude Piraten Hits
+https://server-67.stream-server.nl:8910/stream
+#EXTINF:-1,Tukker FM
+https://stream.tukkerfm.nl/tukkerfm
+#EXTINF:-1,Radio 538 Party
+https://28973.live.streamtheworld.com/TLPSTR16_SC
+#EXTINF:-1,KINK80s
+http://25343.live.streamtheworld.com/KINK_DNA_SC
+#EXTINF:-1,NPO FunX Latin
+https://icecast.omroep.nl/funx-latinfb-bb-mp3
+#EXTINF:-1,NPO FunX NL
+https://icecast.omroep.nl/funx-bb-mp3
+#EXTINF:-1,JOE
+https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3
+#EXTINF:-1,Olympia Classics
+https://streams.olympia-classics.nl/classics
+#EXTINF:-1,Feel Good Radio 107.6 FM
+http://live.feelgoodradio.eu:8344/stream
+#EXTINF:-1,KINK CLASSICS
+https://22613.live.streamtheworld.com/KINK_DNA_SC
+#EXTINF:-1,JOE mp3
+https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3
+#EXTINF:-1,Qmusic Non-Stop
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3
+#EXTINF:-1,RADIONL
+https://stream.radionl.fm/radionl
+#EXTINF:-1,Classicnl Opera
+https://classic.nl/streams/?s=opera
+#EXTINF:-1,RTV Oost Radio
+https://streams.rtvoost.nl/audio/oost/mp3

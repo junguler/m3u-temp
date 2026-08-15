@@ -6,3 +6,9 @@ https://26433.live.streamtheworld.com/WBBRAMAAC_SC
 http://shoutcast.radio24.it:8000/
 #EXTINF:-1,Bloomberg 99.1/105.7 HD2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRDCAAC.aac
+#EXTINF:-1,Duna
+https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1,Blu Radio (Medellín) 97.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac
+#EXTINF:-1,Bloomberg 960
+https://stream.revma.ihrhls.com/zc301

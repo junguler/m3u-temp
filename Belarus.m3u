@@ -40,3 +40,17 @@ https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio
 https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio
 #EXTINF:-1,Aplus One (aac, 16 kb/s)
 http://s.aplus.fm:9000/aplus_16.aac
+#EXTINF:-1,Radio Roks
+https://stream02.pcradio.biz/roks_minsk-hi
+#EXTINF:-1,Unistar - Каверы
+https://stream.unistar.by/unistar_covers_internal/unistar_covers/playlist.m3u8
+#EXTINF:-1,Легенды ФМ Минск 94.1 FM
+http://live.legendy.by:8000/legendyfm
+#EXTINF:-1,Легенды ФМ Минск 94.1 FM
+http://live.legendy.by:8000/legendyfm
+#EXTINF:-1,Радио Канал Культура Минск 102.9 FM
+https://stream2.datacenter.by/kultura
+#EXTINF:-1,радио Минск 92.4
+https://radio.mk.by:8443/radiominsk
+#EXTINF:-1,Radio Plato
+https://azura.radioplato.by/radio/8000/radio.mp3

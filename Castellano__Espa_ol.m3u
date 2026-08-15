@@ -6,3 +6,11 @@ https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1,Radio Nacional de España - Radio 5 Todo noticias
 https://d131.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?aggregator=tunein
+#EXTINF:-1,Radio YSUCA, 91.7 FM
+https://fast.citrus3.com:8314/stream
+#EXTINF:-1,MDT Radio
+http://streams1.mdtradio.com:8020/mdtweb
+#EXTINF:-1,Onda Cero Valencia
+https://atres-live.ondacero.es/live/delegaciones/oc/valencia/master.m3u8
+#EXTINF:-1,Radio El Mundo - 93.7 FM
+http://streaming.mundoclasicaupa.com:8000/radioelmundo

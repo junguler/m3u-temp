@@ -350,3 +350,139 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
 http://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC
 #EXTINF:-1,BH Radio 1
 https://webtvstream.bhtelecom.ba/bh_radio1.m3u8
+#EXTINF:-1,RRI Voice Of Indonesia
+https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+#EXTINF:-1,987FM
+https://22393.live.streamtheworld.com/987FM_PREM.aac
+#EXTINF:-1,Radio 2 1230 AM
+http://radio2.radio.rosario3.com:8000/prueba2
+#EXTINF:-1,CGTN Radio
+https://sk.cri.cn/am846.m3u8
+#EXTINF:-1,Radio Olímpica 96.3 FM
+http://stream.hdserver.biz:9320/stream
+#EXTINF:-1,Delta 90.3
+https://cdn.instream.audio//:9069//stream
+#EXTINF:-1,RTÉ Radio 1
+https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
+#EXTINF:-1,ABC Local Radio 720 Perth (AAC)
+https://live-radio01.mediahubaustralia.com/6LRW/aac/
+#EXTINF:-1,CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ_ADP.m3u8
+#EXTINF:-1,CRTV Radio
+https://listen.radioking.com/radio/39218/stream/75659
+#EXTINF:-1,Спутник ФМ - Уфимская Волна
+https://radio.mediacdn.ru/sputnik_fm.mp3
+#EXTINF:-1,Международное Французское Радио RFI
+http://live02.rfi.fr/rfirusse-96k.mp3
+#EXTINF:-1,Dublin's 98FM
+https://stream.audioxi.com/98
+#EXTINF:-1,Pro1 RRI Makassar
+https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3
+#EXTINF:-1,Rádio Gaúcha 93.7 FM
+https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1,Sveriges Radio - SR Sisuradio
+https://live1.sr.se/finska-aac-320
+#EXTINF:-1,BBC Radio 4
+https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8
+#EXTINF:-1,Bio Bio Valparaíso
+https://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio
+#EXTINF:-1,News Talk 560 KLVI
+https://stream.revma.ihrhls.com/zc2197
+#EXTINF:-1,RMN DYRI Iloilo
+https://us1.amfmph.com/ssl/rmniloilo?mp=/stream
+#EXTINF:-1,WBUR 90.9 FM Boston [MP3]
+http://wbur-sc.streamguys.com/wbur
+#EXTINF:-1,ABC Radio Australia (MP3)
+https://live-radio01.mediahubaustralia.com/RAEW/mp3/
+#EXTINF:-1,Radio Vaticana English
+https://radio.vaticannews.va/stream-en
+#EXTINF:-1,WTOP 103.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM.mp3
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 96k
+https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,RMN DYHB Bacolod
+http://us2.amfmph.com:8848/live
+#EXTINF:-1,Radio Company
+https://sphera.fluidstream.eu/company.aac
+#EXTINF:-1,Radyo Sputnik
+https://icecast-rian.cdnvideo.ru/voicestm
+#EXTINF:-1,Radio Mainwelle 104.3
+https://webstream.mainwelle.de/radio-mainwelle.mp3
+#EXTINF:-1,Радіо Шлягер FM
+https://cast.brg.ua/shanson_main_public_mp3_hq
+#EXTINF:-1,WALO 1240 "Radio Oriental" Humacao
+http://68.235.35.243:9031/stream?type=.mp3
+#EXTINF:-1,CFIQ 640 "Global News Radio" Toronto, ON
+https://corus.leanstream.co/CFIQAM-MP3
+#EXTINF:-1,Radio Svoboda (Радіо Свобода)
+https://n04.radiojar.com/hcrb063nn3quv?rj-ttl=5
+#EXTINF:-1,kontrafunk
+https://icecast.multhielemedia.de/listen/kontrafunk/radio.mp3
+#EXTINF:-1,גלי ישראל Galey Yisrael
+https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio
+#EXTINF:-1,Oasis FM Chile
+https://mdstrm.com/audio/5c915497c6fd7c085b29169d/live.m3u8
+#EXTINF:-1,Alpha 98.9
+https://n01.radiojar.com/xcdg6yggzfeuv?rj-ttl=5
+#EXTINF:-1,Imagen Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM.mp3
+#EXTINF:-1,RTHK Radio 3
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+#EXTINF:-1,Radio Mbiu
+http://dreamsiteradiocp5.com:8004/stream.mp3
+#EXTINF:-1,COPE Santander
+https://wecast01-h-cloud.flumotion.com/copesedes/santander.mp3
+#EXTINF:-1,Rai News 24
+https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1,Radio Slavonija
+http://s8.iqstreaming.com:8026/;
+#EXTINF:-1,Deutschlandfunk | DLF | OPUS 64k
+https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus?aggregator=web
+#EXTINF:-1,Focus 103.6
+https://ice.greekstream.net/focusfm
+#EXTINF:-1,WBUR 90.9 FM Boston [AAC+]
+http://wbur-sc.streamguys.com/wbur.aac
+#EXTINF:-1,VPR(Vermont Public Radio) relay BBC
+https://vprbbc.streamguys1.com/vprbbc24.mp3
+#EXTINF:-1,ABC Radio Sydney
+https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8
+#EXTINF:-1,Radio Elite 99.7 FM
+https://streamingecuador.net:8135/radioelite
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 192k
+https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,Radio SRF 4 News
+https://stream.srg-ssr.ch/m/drs4news/aacp_32
+#EXTINF:-1,إذاعة الأخبار كل 5 دقائق   REPLAY NEWS - العربية
+https://replaynewsar.ice.infomaniak.ch/replaynewsar-128.mp3
+#EXTINF:-1,BR24live
+https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid
+#EXTINF:-1,AIR Jalandhar
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8
+#EXTINF:-1,SKY Rádio
+http://stream.skyradio.sk:8000/sky128
+#EXTINF:-1,CCTV-4中文国际欧洲伴音
+https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
+#EXTINF:-1,Island FM Whitsundays 88.0MHz Airlie Beach Central Queensland
+https://onlineradiobox.com/json/au/islandwhitsundays/play?platform=web
+#EXTINF:-1,WABC
+http://18093.live.streamtheworld.com:3690/WABCAMAAC_SC
+#EXTINF:-1,iHeartPodcast AM 1470
+https://stream.revma.ihrhls.com/zc3348
+#EXTINF:-1,Bío-Bío Concepción 98.1
+https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
+#EXTINF:-1,CBC Radio 1 Vancouver
+https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8
+#EXTINF:-1,Бизнес ФМ Санкт-Петербург 107.4 FM
+https://bfmreg.hostingradio.ru/spb.bfm128.mp3
+#EXTINF:-1,Radio Gamma 5
+https://ice09.fluidstream.net/fluid0902.aac?FLID=6
+#EXTINF:-1,Radio fórmula (Monterrey) - 89.3 FM [Monterrey, Nuevo León]
+https://stream.radiojar.com/332kkh84xp8uv
+#EXTINF:-1,Posto Emissor do Funchal FM
+http://centova.radio.com.pt:9426/;
+#EXTINF:-1,RFI Russia
+https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3
+#EXTINF:-1,WGN 720 Chicago, IL
+http://35.174.10.46/wgnam-wgnammp3-ibc2?session-id=4a12ff7ddcd09fa6a45e1e8281fc57dd
+#EXTINF:-1,RTV Oost Radio
+https://streams.rtvoost.nl/audio/oost/mp3

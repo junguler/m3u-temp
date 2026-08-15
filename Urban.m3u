@@ -6,3 +6,7 @@ https://edge.iono.fm/xice/ecr_live_medium.aac
 http://radio.studiob.rs:8004/
 #EXTINF:-1,40 Principales Colombia
 https://playerservices.streamtheworld.com/api/livestream-redirect/%20LOS40_COLOMBIA.mp3
+#EXTINF:-1,Radio Vibras 92.7FM
+https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8
+#EXTINF:-1,NPO FunX NL
+https://icecast.omroep.nl/funx-bb-mp3

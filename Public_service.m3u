@@ -12,3 +12,9 @@ https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web
 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web
 #EXTINF:-1,Deutschlandfunk | DLF | AAC 192k
 https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 96k
+https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | OPUS 64k
+https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 192k
+https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac?aggregator=web

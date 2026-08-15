@@ -14,3 +14,7 @@ https://listen13.vdfm.ru:8000/dacha
 https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
 #EXTINF:-1,Радио "Маяк"
 https://icecast-vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1,MCOT อุดรธานี
+http://rstream.mcot.net:9044/;.mp3
+#EXTINF:-1,ретро фм 96.4 FM
+https://online2.gkvr.ru:8001/retro_che_64.aac

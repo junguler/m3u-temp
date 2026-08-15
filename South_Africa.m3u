@@ -38,3 +38,17 @@ http://25553.live.streamtheworld.com:3690/FM947_SC
 https://edge.iono.fm/xice/65_medium.aac
 #EXTINF:-1,Jozi FM
 https://edge.iono.fm/xice/51_medium.aac
+#EXTINF:-1,Talk Radio 702
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac
+#EXTINF:-1,Radio Sonder Grense
+https://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget
+#EXTINF:-1,East Coast Gold
+https://live.ecr.co.za/ecrgoldhigh.mp3
+#EXTINF:-1,Tuks FM
+https://edge.iono.fm/xice/tuksfm_live_medium.aac
+#EXTINF:-1,Smile 90.4 FM
+https://edge.iono.fm/xice/212_medium.aac
+#EXTINF:-1,Izwi LoMzansi
+https://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8
+#EXTINF:-1,East Coast Radio
+https://live.ecr.co.za/ecrhigh.mp3?aw_0_pinpoll=1,2,9

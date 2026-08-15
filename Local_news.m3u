@@ -34,3 +34,31 @@ http://68.235.35.243:9027/;stream.mp3
 https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
 #EXTINF:-1,Cadena SER - Radio Valencia
 http://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC
+#EXTINF:-1,CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ_ADP.m3u8
+#EXTINF:-1,Radio Viva Metropol
+https://stream.sepia.sk:8000/viva128.mp3
+#EXTINF:-1,Best FM - Debrecen
+http://stream.webthings.hu:8000/fm95-x-128.mp3
+#EXTINF:-1,Radio CRC
+https://stream9.xdevel.com/audio2s975936-745/stream/icecast.audio
+#EXTINF:-1,Fantástica Internacional (HJF92, 103.9 MHz FM, Leticia, Amazonas)
+http://51.15.160.78:8326/;
+#EXTINF:-1,WALO 1240 "Radio Oriental" Humacao
+http://68.235.35.243:9031/stream?type=.mp3
+#EXTINF:-1,Stereo 100, Quetzaltenango
+https://sh1.radioonlinehd.com:8056/stream?type=.mp3
+#EXTINF:-1,BBC Radio London (128k)
+https://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8
+#EXTINF:-1,Radio Visoko
+http://188.40.62.20:8080/
+#EXTINF:-1,Radio Cimarrona
+https://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a
+#EXTINF:-1,Radio Popular Herri Irratia - Bilbao
+http://79.137.33.224/radiopopular2
+#EXTINF:-1,SKY Rádio
+http://stream.skyradio.sk:8000/sky128
+#EXTINF:-1,RRI Pro 2 92.1 FM Tanjungpinang
+https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3
+#EXTINF:-1,RTV Oost Radio
+https://streams.rtvoost.nl/audio/oost/mp3

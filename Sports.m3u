@@ -18,3 +18,11 @@ http://sc.abc.com.py:8000/stream
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1006885_YNhDxhXb__0000001B3Ny
 #EXTINF:-1,Rádio Itatiaia 95.7 FM
 https://8903.brasilstream.com.br/stream
+#EXTINF:-1,Super Sport FM 104.0
+https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
+#EXTINF:-1,BPM sports 91.9
+https://icecast-cklx.rncm.ca/cklx.mp3
+#EXTINF:-1,CCTV-5+体育赛事伴音
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1,CJCL Sportsnet 590 The Fan
+https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8

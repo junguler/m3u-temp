@@ -10,9 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          #node ./m3u-checker.js test_input/ test_output/ --quiet
-          while read id ; do echo "Processing ID: $id" ; curl -s "https://retunefm.com/radio/$id/" > mep1 ; title=$(./htmlq h1 -t < mep1 | sed 's/ — listen online//') ; stream=$(grep -oP '(?<=;stream&quot;:&quot;)[^&]*' mep1 | head -n1) ; grep -oP '(Country|Language|Genres)</td><td[^>]*>\K[^<]+' mep1 | while read value ; do echo "$value" | tr ',' '\n' | sed 's/^ *// ; s/ *$// ; s/ /_/g ; s/[^a-zA-Z0-9_]/_/g' | while read val ; do [ -n "$val" ] && (echo "#EXTINF:-1,$title" >> "$val.m3u" ; echo "$stream" >> "$val.m3u") ; done ; done ; done < list.txt
-          rm mep1
+          node ./m3u-checker.js test_input/ test_output/ --quiet
 
       - name: git stuff
         run: |

@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,RTHK Radio 2
+https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
+#EXTINF:-1,AisaFM亚洲粤语台
+https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts
+#EXTINF:-1,SBS PopAsia
+https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
+#EXTINF:-1,新西兰中文广播电台 FM90.6 Radio Chinese
+https://s26.myradiostream.com:20274/listen.mp3
+#EXTINF:-1,RTHK Radio 4
+https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+#EXTINF:-1,CRI世界华声
+https://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1,RTHK Radio 8 央廣粵港澳大灣區之聲
+https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8
+#EXTINF:-1,RTHK Radio 6 央廣香港之聲
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
+#EXTINF:-1,恐怖在線（周一至周五23:11）
+https://acast01.kolorboxlab.com/radio/8010/radio.mp3
+#EXTINF:-1,CNR-14 香港之声
+https://ngcdn002.cnr.cn/live/xgzs/index.m3u8

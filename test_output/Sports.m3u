@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,TalkSPORT
+https://radio.talksport.com/stream
+#EXTINF:-1,Antena 1 (Portugal)
+https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1,Hot FM 105
+http://172.93.237.106:8000/listen.mp3
+#EXTINF:-1,Radio Marca Madrid
+https://25643.live.streamtheworld.com/RADIOMARCA_NACIONAL_SC
+#EXTINF:-1,BBC Radio 5 Live (128k)
+https://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
+#EXTINF:-1,CBN São Paulo
+https://27573.live.streamtheworld.com/CBN_SPAAC_SC
+#EXTINF:-1,Radio ABC Cardinal 730 AM
+http://sc.abc.com.py:8000/stream
+#EXTINF:-1,RPP Mundial (Perú)
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1006885_YNhDxhXb__0000001B3Ny
+#EXTINF:-1,Rádio Itatiaia 95.7 FM
+https://8903.brasilstream.com.br/stream
+#EXTINF:-1,Super Sport FM 104.0
+https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
+#EXTINF:-1,CCTV-5+体育赛事伴音
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1,CJCL Sportsnet 590 The Fan
+https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+#EXTINF:-1,BBC Radio Scotland (128k)
+https://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d128000.norewind.m3u8
+#EXTINF:-1,RPP Mundial
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1005617_y9ORJb3Z__0000001ATBc
+#EXTINF:-1,Sport Nation - AAC
+https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8
+#EXTINF:-1,FOX Sports 98.9FM / 1340AM
+https://18533.live.streamtheworld.com/KRLVAMAAC.aac
+#EXTINF:-1,CBS Sports 1430 AM
+https://18153.live.streamtheworld.com/WXNTAMAAC.aac
+#EXTINF:-1,Fox Sports Radio 1400
+https://stream.revma.ihrhls.com/zc2089
+#EXTINF:-1,WFLA 970 AM Tampa Bay, FL
+https://stream.revma.ihrhls.com/zc2823
+#EXTINF:-1,CBS Sports Radio on AM 1500
+https://18533.live.streamtheworld.com/KHKAAMAAC.aac
+#EXTINF:-1,Metropolis 97.2
+https://s6.onweb.gr:8092/;stream.nsv
+#EXTINF:-1,Fox Sports 1360
+https://stream.revma.ihrhls.com/zc4688

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Rock FM
+https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186
+#EXTINF:-1,Sky Plus DnB
+https://edge03.cdn.bitflip.ee:8888/NRJdnb
+#EXTINF:-1,Võmba FM
+https://c4.radioboss.fm:18123/stream
+#EXTINF:-1,Raadio Relax International
+https://edge03.cdn.bitflip.ee:8888/international?_i=acb887e0
+#EXTINF:-1,Relax cafe
+https://edge03.cdn.bitflip.ee:8888/cafe?_i=acb887e0
+#EXTINF:-1,Raadio 7
+https://edge05.cdn.bitflip.ee:8888/R7
+#EXTINF:-1,MyHits
+https://le05.euddn.net/571bc7e6e3dea1dcb2bad2c223b7fc4535a649e3e7a6957d9ad2b790abf78a108844f4e65d9fb3f25be9f0d3c962a3c717d339e9eec97ed7b60e26de4b5fbea17df38e25e79a74d24e4a53604c15a75b7cbedf3479ccbb76cf319e98b9090e81f49b0a5eddf67796c75ee835e34df178c27d359a6db29b280c18177d792340d856dabf2fd1558d8dc5bcf6f9dacc7f06a74d49ef1b15abdb5f51312c59913b4d44ab1b569028aed853b51114acb443a6/myhits.aac
+#EXTINF:-1,NRJ Tallinn
+https://edge03.cdn.bitflip.ee:8888/NRJ
+#EXTINF:-1,Sooviraadio
+http://media.uunox.net:8888/;

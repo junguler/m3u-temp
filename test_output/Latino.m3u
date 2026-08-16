@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,FUN Radio
+https://streaming-ice.audiomeans.fr/rtl/feed-funradio-mp3-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=fun&aw_0_1st.program=fun
+#EXTINF:-1,Top Latino
+http://online.radiodifusion.net:8020/stream
+#EXTINF:-1,Candela Estéreo Bogotá (HJPU 101.9)
+http://24403.live.streamtheworld.com:3690/CANDELAESTEREO_SC
+#EXTINF:-1,ABC Portugal
+http://centova.radio.com.pt:8547/;
+#EXTINF:-1,Radio Ciudad
+https://streamingenbolivia.com/8002/stream
+#EXTINF:-1,Radio Vibras 92.7FM
+https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8
+#EXTINF:-1,Bachata Radio
+http://radio.domiplay.net:8002/;
+#EXTINF:-1,Radio Kiss Kiss Latina
+https://ice08.fluidstream.net/kk_latina.aac
+#EXTINF:-1,La Central 103.7 FM
+https://radio.videct.com/8176/stream
+#EXTINF:-1,Fiesta Latina 89.1 FM
+https://radios.solumedia.com/6596/stream
+#EXTINF:-1,Fabulosa Estéreo 100.5 FM
+https://www.streaming507.net:8130/stream
+#EXTINF:-1,Estéreo Azul 100.9 FM
+https://14103.live.streamtheworld.com/ESTEREOAZULAAC.aac
+#EXTINF:-1,Dominicana FM 98.9 y 99.9 FM
+https://protvradiostream.com:8610/;

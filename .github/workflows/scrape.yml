@@ -11,6 +11,7 @@ jobs:
       - name: run commands
         run: |
           node ./m3u-checker.js test_input/ test_output/ --quiet
+          rm test_input/*.m3u
 
       - name: git stuff
         run: |

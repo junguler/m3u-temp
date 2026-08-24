@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,Radio FM4
+https://orf-live.ors-shoutcast.at/fm4-q1a
+#EXTINF:-1,Rádio Diário FM
+https://hts02.brascast.com:8856/live
+#EXTINF:-1,Ronin Radio
+https://s3.radio.co/sff133d65b/listen
+#EXTINF:-1,Classic-Videogames Radio
+https://lead-server.de:1551/stream/2/
+#EXTINF:-1,Cinemusic Radio
+https://listen.radioking.com/radio/422/stream/62785
+#EXTINF:-1,Radio PARALAX
+http://radio-paralax.de:8000/;
+#EXTINF:-1,Free FM
+https://rocafmadrid.radioca.st/stream
+#EXTINF:-1,Simulator Radio
+https://simulatorradio.stream/stream?
+#EXTINF:-1,B4GG
+https://b4gg.stream.laut.fm/b4gg
+#EXTINF:-1,Yes We Cannabis
+https://yeswecannabis.stream.laut.fm/yeswecannabis?t302=2026-08-23_22-49-51&uuid=d96da7e1-854c-43db-9791-7af58df0f903
+#EXTINF:-1,NİĞDE TEMPO FM
+https://radyoserver1.okeylisans.com:8082/;
+#EXTINF:-1,92.3 The Fox
+https://19273.live.streamtheworld.com/KOFXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Yes We Cannabis Mix
+https://yeswecannabismix.stream.laut.fm/yeswecannabismix?t302=2026-08-23_22-49-51&uuid=135f70e3-42c6-44b2-837b-c6facdbd431b
+#EXTINF:-1,Radio RMF - GameMusic
+https://rs103-krk-cyfronet.rmfstream.pl/GAMEMUSIC
+#EXTINF:-1,Pommes  Hund
+https://pommesfm.stream.laut.fm/pommesfm
+#EXTINF:-1,SimLiveRadio
+https://simliveradio.stream.laut.fm/simliveradio
+#EXTINF:-1,Tydox-Radio
+https://tydox-radio.stream.laut.fm/tydox-radio?t302=2026-08-23_22-49-52&uuid=a448e535-5038-4d59-a119-1246afe60931
+#EXTINF:-1,100FM Radius - Gamer
+https://gb25.streamgates.net/radios-audio/100Gamer/playlist.m3u8
+#EXTINF:-1,Zocker FM
+https://zockerfm.stream.laut.fm/zockerfm?t302=2026-08-23_22-49-53&uuid=4221a548-d31a-4f4a-8a5c-ddb4334b6016
+#EXTINF:-1,Zocker Radio
+https://zocker-radio.stream.laut.fm/zocker-radio?t302=2026-08-23_22-49-53&uuid=2f833e41-04f4-424d-a32e-d74433666654
+#EXTINF:-1,Wargaming FM 2
+https://sv.wargaming.fm/2/128
+#EXTINF:-1,Wargaming FM TRANCE
+https://sv.wargaming.fm/3/128
+#EXTINF:-1,Game FM
+https://game.stream.laut.fm/game
+#EXTINF:-1,Wargaming FM ROCK
+https://sv.wargaming.fm/4/128
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/02/36851.v2.png",Kirtang Pirate Radio
+https://server.kirtangpirateradio.com:8000/radiohq.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/44125.v2.png",Classic-Videogames Radio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/67175.v5.png",Nerds and Geeks: THE STATION
+https://nerdsandgeeks.de:2874/stream/2/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/50725.v6.png",Radio PARALAX
+http://radio-paralax.de:8000/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/63393.v5.png",Tsumugi Radio
+https://azuracast.mahoro-net.org/listen/tsumugi/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/51149/logo_KIncFEjvwp.png",Simulator Radio
+https://simulatorradio.stream/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27916/logo_24FadmMpAQ.png",GamingRadio
+https://gamingradio.stream.laut.fm/gamingradio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/45673/logo_2hTmbrxATs.png",Hotmixradio Gaming
+https://streaming.hotmixradio.com/hotmix-gaming-en-mp3?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005447/logo_xEG8LZMu4J.jpg?v=20260529-media-restore",Радио Открытие
+https://discoveryfm.hostingradio.ru/discovery128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005457/logo_1OCb5M2gM9.jpg?v=20260529-media-restore",Retro LAN Party
+https://radio.retrolan.party:8000//radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004955/logo_LhoxlD4Gr2.jpg?v=20260529-media-restore",TRP2 FM
+https://listen7.myradio24.com/trp2fm
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005388/logo_OLAv6xZhsp.jpg?v=20260529-media-restore",GRELLA Radio
+https://listen6.myradio24.com/grella
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103898/logo_Cr8bpwYQgD.jpg?v=20260529-media-restore",Mod FM
+http://radio.modules.pl:8500/;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28626/logo_VmSTMUfOsa.jpg?v=20260529-media-restore",Games Klassik Radio
+https://klassikr.streamabc.net/klassikr-games-aac-128-8785286
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-paralax-155205-logo.jpg",Radio PARALAX

@@ -11,7 +11,7 @@ jobs:
       - name: run commands
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet
-          for i in A-*.txt ; do printf '#EXTM3U\n' > "${i%.txt}.m3u" ; for j in $(cat "$i") ; do curl -Ls "https://myworldtuner.com/station/$j/" > mep1 ; t=$(cat mep1 | ./htmlq -t h1 | head -n 1 | sed 's/[[:space:]]\+/ /g;s/^ *//;s/ *$//') ; l=$(cat mep1 | ./htmlq -a src '.station-logo' | head -n 1) ; s=$(cat mep1 | ./htmlq -a data-stream '.js-play' | head -n 1 | sed 's| live||g') ; if [ -n "$s" ] ; then printf '#EXTINF:-1 tvg-logo="%s",%s\n%s\n' "$l" "${t:-$j}" "$s" >> "${i%.txt}.m3u" ; fi ; echo "$i - $j" ; done ; done
+          for i in *.txt ; do printf '#EXTM3U\n' > "${i%.txt}.m3u" ; for j in $(cat "$i") ; do curl -Ls "https://myworldtuner.com/station/$j/" > mep1 ; t=$(cat mep1 | ./htmlq -t h1 | head -n 1 | sed 's/[[:space:]]\+/ /g;s/^ *//;s/ *$//') ; l=$(cat mep1 | ./htmlq -a src '.station-logo' | head -n 1) ; s=$(cat mep1 | ./htmlq -a data-stream '.js-play' | head -n 1 | sed 's| live||g') ; if [ -n "$s" ] ; then printf '#EXTINF:-1 tvg-logo="%s",%s\n%s\n' "$l" "${t:-$j}" "$s" >> "${i%.txt}.m3u" ; fi ; echo "$i - $j" ; done ; done
 
       - name: git stuff
         run: |

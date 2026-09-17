@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,RTÉ Raidió na Gaeltachta
+https://25553.live.streamtheworld.com/RTE_RAIDIO_NA_GAELTACHTAAACLC/HLS/playlist.m3u8?tdsdk=rte
+#EXTINF:-1,BBC Radio nan Gàidheal (128k)
+http://as-hls-ww-live.akamaized.net/pool_01935182/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d128000.norewind.m3u8
+#EXTINF:-1,Radio Wester Ross
+https://stream.rcs.revma.com/96z3d1qs5bcwv
+#EXTINF:-1,LiveIreland
+http://lynx.prostreaming.net:8058/;
+#EXTINF:-1,CBFM.ca Gaelic College - St. Ann's, NS
+https://s4.radio.co/s6f58ddb4f/listen
+#EXTINF:-1,Raidió na Gaeltachta
+https://28033.live.streamtheworld.com/RTE_RAIDIO_NA_GAELTACHTAAACLC/HLS/playlist.m3u8?tdsdk=rte
+#EXTINF:-1,Free FM World
+https://rocafmadrid.radioca.st/stream
+#EXTINF:-1,Free FM Gaita Venezuela
+https://gaita.radioca.st/stream
+#EXTINF:-1,Free FM Rock
+https://freefmrock.radioca.st/stream
+#EXTINF:-1,Free FM Classics
+https://xxdelgado.radioca.st/stream

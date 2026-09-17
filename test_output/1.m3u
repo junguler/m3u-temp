@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1,CKYR-FM 106.7 "Red FM" Calgary, AB
+https://ice10.securenetsystems.net/CKYR
+#EXTINF:-1,第四台
+https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+#EXTINF:-1,Paradise
+http://stream-uk1.radioparadise.com/aac-32
+#EXTINF:-1,Ilha do Mel FM
+https://str1.streamhostpg.com.br:8002/stream
+#EXTINF:-1,CKYE-FM 93.1 "Red FM" Vancouver, BC
+https://ice24.securenetsystems.net/CKYE
+#EXTINF:-1,1LIVE
+http://d121.rndfnk.com/ard/wdr/1live/live/mp3/128/stream.mp3?cid=01FBRZTS1K1TCD4KA2YZ1ND8X3&sid=3JTKXlXv3iGTjzalUDMEcvI2ntw&token=DqFM9mymLwAg5DYZJSHOKfA_RRqNIIsqB0wcZqB_c3c&tvf=VMJRKNBL1hhkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,111
+https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8
+#EXTINF:-1,Radio Paradise Main Mix (EU) 32k ACC
+#EXTINF:-1,name
+https://listen11.myradio24.com/5129
+#EXTINF:-1,Free FM Classics
+https://xxdelgado.radioca.st/stream
+#EXTINF:-1,Free FM 80s
+https://freefm80.radioca.st/stream?sid=1
+#EXTINF:-1,Free FM World
+https://rocafmadrid.radioca.st/stream
+#EXTINF:-1,Free FM Gaita Venezuela
+https://gaita.radioca.st/stream
+#EXTINF:-1,Free FM Rock
+https://freefmrock.radioca.st/stream

@@ -1,26 +1,85 @@
 // m3u-checker.js
-// made with Gemini 2.5 Flash via https://t3.chat/ free tier - thanks
-// usage example:
-// node ./m3u-checker.js -> this expects m3u files in "m3u-files" folder and puts output files in "m3u-checked"
-// or
-// node ./m3u-checker.js input_folder/ output_folder/
-// or
-// node ./m3u-checker.js input_folder/ output_folder/ --quiet
+//
+// Usage:
+//
+//   node m3u-checker.js
+//   node m3u-checker.js input_folder/ output_folder/
+//   node m3u-checker.js input_folder/ output_folder/ --quiet
+//
+// Optional environment variables:
+//
+//   CONCURRENCY=100
+//   LINK_TIMEOUT=8000
+//   MAX_REDIRECTS=3
+//
+// Example:
+//
+//   CONCURRENCY=150 LINK_TIMEOUT=8000 node m3u-checker.js
 
 const fs = require('fs/promises');
 const path = require('path');
 
-const concurrencyLimit = 50; // 10
-const linkTimeout = 8000; // 5000 - 5 seconds timeout for each link
-const maxRedirects = 3; // Maximum number of redirections to follow
+const concurrencyLimit = Number(process.env.CONCURRENCY || 100);
+const linkTimeout = Number(process.env.LINK_TIMEOUT || 8000);
+const maxRedirects = Number(process.env.MAX_REDIRECTS || 3);
+
+const USER_AGENT = 'm3u-checker/1.0';
+
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 /**
- * Parses M3U content and extracts stream links with their associated titles.
- * @param {string} m3uContent - The raw M3U playlist content.
- * @returns {Array<{title: string, url: string, originalIndex: number, originalTitleLineIndex: number}>} An array of stream objects.
+ * Creates a global concurrency limiter.
+ *
+ * This limiter is shared across all files, so processing multiple files
+ * concurrently cannot create more than concurrencyLimit HTTP requests.
+ *
+ * @param {number} limit
+ * @returns {(task: () => Promise<any>) => Promise<any>}
+ */
+function createLimiter(limit) {
+  const queue = [];
+  let active = 0;
+
+  function runNext() {
+    while (active < limit && queue.length > 0) {
+      const { task, resolve, reject } = queue.shift();
+
+      active++;
+
+      Promise.resolve()
+        .then(task)
+        .then(resolve, reject)
+        .finally(() => {
+          active--;
+          runNext();
+        });
+    }
+  }
+
+  return function limitTask(task) {
+    return new Promise((resolve, reject) => {
+      queue.push({ task, resolve, reject });
+      runNext();
+    });
+  };
+}
+
+/**
+ * Parses M3U content and extracts stream links.
+ *
+ * The URL does not need to be immediately after #EXTINF.
+ * For example, #EXTGRP lines between the title and URL are supported.
+ *
+ * @param {string} m3uContent
+ * @returns {Array<{
+ *   title: string,
+ *   url: string,
+ *   originalIndex: number,
+ *   originalTitleLineIndex: number
+ * }>}
  */
 function parseM3UContent(m3uContent) {
-  const originalLines = m3uContent.split('\n');
+  const originalLines = m3uContent.split(/\r?\n/);
   const linksToProcess = [];
 
   let currentTitle = '';
@@ -32,323 +91,532 @@ function parseM3UContent(m3uContent) {
     if (line.startsWith('#EXTINF')) {
       currentTitle = line;
       currentTitleLineIndex = i;
-    } else if (line.startsWith('http://') || line.startsWith('https://')) {
-      // Explicitly check for http/https
+      continue;
+    }
+
+    if (line.startsWith('http://') || line.startsWith('https://')) {
       linksToProcess.push({
         title: currentTitle,
         url: line,
         originalIndex: i,
         originalTitleLineIndex: currentTitleLineIndex,
       });
+
       currentTitle = '';
       currentTitleLineIndex = -1;
     }
-    // Any other lines (like #EXTGRP, comments, etc.) are ignored by this parser,
-    // which is the correct behavior for identifying stream links.
   }
+
   return linksToProcess;
 }
 
 /**
- * Checks a single stream link for its availability, following redirects.
- * @param {{title: string, url: string, originalIndex: number, originalTitleLineIndex: number}} item - The stream item.
- * @param {string} fileName - The name of the file being processed (for logging).
- * @param {number} redirectCount - Current redirection count.
- * @param {boolean} quiet - Whether to suppress individual link logs.
- * @returns {Promise<{url: string, status: number|string, finalUrl?: string}>} The URL, its status, and the final URL after redirects.
+ * Performs one HTTP request with a timeout.
+ *
+ * @param {string} url
+ * @param {object} options
+ * @returns {Promise<Response>}
  */
-async function checkSingleLink(item, fileName, redirectCount = 0, quiet = false) {
+async function fetchWithTimeout(url, options = {}) {
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), linkTimeout);
+  const timeoutId = setTimeout(() => {
+    controller.abort();
+  }, linkTimeout);
 
   try {
-    const response = await fetch(item.url, {
-      method: 'HEAD',
+    return await fetch(url, {
+      ...options,
       signal: controller.signal,
-      redirect: 'manual', // Manually handle redirects
+      redirect: 'manual',
+      headers: {
+        'User-Agent': USER_AGENT,
+        Accept: '*/*',
+        ...(options.headers || {}),
+      },
     });
+  } finally {
     clearTimeout(timeoutId);
+  }
+}
 
-    // Handle redirects
-    if (
+/**
+ * Checks a URL with HEAD first.
+ *
+ * Some streaming servers reject HEAD with 405 or 501 even though GET works,
+ * so those responses fall back to a small ranged GET request.
+ *
+ * @param {string} url
+ * @returns {Promise<Response>}
+ */
+async function requestUrl(url) {
+  let response = await fetchWithTimeout(url, {
+    method: 'HEAD',
+  });
+
+  if (response.status === 405 || response.status === 501) {
+    response = await fetchWithTimeout(url, {
+      method: 'GET',
+      headers: {
+        Range: 'bytes=0-0',
+      },
+    });
+
+    // Do not download the complete stream.
+    try {
+      await response.body?.cancel();
+    } catch {
+      // Ignore body cancellation errors.
+    }
+  }
+
+  return response;
+}
+
+/**
+ * Checks a single stream link, following redirects.
+ *
+ * @param {{
+ *   title: string,
+ *   url: string,
+ *   originalIndex: number,
+ *   originalTitleLineIndex: number
+ * }} item
+ * @param {string} fileName
+ * @param {boolean} quiet
+ * @param {number} redirectCount
+ * @returns {Promise<{
+ *   url: string,
+ *   status: number|string,
+ *   finalUrl?: string
+ * }>}
+ */
+async function checkSingleLink(
+  item,
+  fileName,
+  quiet = false,
+  redirectCount = 0,
+) {
+  try {
+    const response = await requestUrl(item.url);
+
+    const isRedirect =
       response.status >= 300 &&
       response.status < 400 &&
-      response.headers.has('location') &&
-      redirectCount < maxRedirects
-    ) {
+      response.headers.has('location');
+
+    if (isRedirect && redirectCount < maxRedirects) {
       const redirectUrl = response.headers.get('location');
-      const absoluteRedirectUrl = new URL(redirectUrl, item.url).href; // Resolve relative redirects
+      const absoluteRedirectUrl = new URL(redirectUrl, item.url).href;
+
       if (!quiet) {
         console.log(
-          `  [${fileName}] - Redirect (${response.status}): ${item.url} -> ${absoluteRedirectUrl} (Attempt ${redirectCount + 1}/${maxRedirects})`,
+          `  [${fileName}] Redirect ${response.status}: ` +
+            `${item.url} -> ${absoluteRedirectUrl} ` +
+            `(attempt ${redirectCount + 1}/${maxRedirects})`,
         );
       }
-      // Recursively call checkSingleLink with the new URL
-      return await checkSingleLink(
-        { ...item, url: absoluteRedirectUrl },
+
+      return checkSingleLink(
+        {
+          ...item,
+          url: absoluteRedirectUrl,
+        },
         fileName,
-        redirectCount + 1,
         quiet,
+        redirectCount + 1,
       );
     }
 
-    // If it's a successful non-redirecting link or after max redirects
-    if (response.status === 200) {
+    // Treat all 2xx responses as alive.
+    if (response.status >= 200 && response.status < 300) {
       if (!quiet) {
-        console.log(`  [${fileName}] - Status ${response.status}: ${item.url}`);
+        console.log(
+          `  [${fileName}] Status ${response.status}: ${item.url}`,
+        );
       }
-      return { url: item.url, status: response.status, finalUrl: item.url };
-    } else {
-      if (!quiet) {
-        console.log(`  [${fileName}] - Status ${response.status}: ${item.url}`);
-      }
-      return { url: item.url, status: response.status };
+
+      return {
+        url: item.url,
+        status: response.status,
+        finalUrl: item.url,
+      };
     }
-  } catch (error) {
-    clearTimeout(timeoutId);
-    if (error.name === 'AbortError') {
-      if (!quiet) {
-        console.log(`  [${fileName}] - Timed out: ${item.url}`);
-      }
-      return { url: item.url, status: 'timedout' };
-    }
+
     if (!quiet) {
-      console.log(`  [${fileName}] - Invalid/Error (${error.message}): ${item.url}`);
+      console.log(
+        `  [${fileName}] Status ${response.status}: ${item.url}`,
+      );
     }
-    return { url: item.url, status: 'invalid' };
+
+    return {
+      url: item.url,
+      status: response.status,
+    };
+  } catch (error) {
+    if (error?.name === 'AbortError') {
+      if (!quiet) {
+        console.log(`  [${fileName}] Timed out: ${item.url}`);
+      }
+
+      return {
+        url: item.url,
+        status: 'timedout',
+      };
+    }
+
+    if (!quiet) {
+      console.log(
+        `  [${fileName}] Error (${error.message}): ${item.url}`,
+      );
+    }
+
+    return {
+      url: item.url,
+      status: 'invalid',
+    };
   }
 }
 
 /**
- * Processes a list of stream links with a concurrency limit.
- * @param {Array<{title: string, url: string, originalIndex: number, originalTitleLineIndex: number}>} linksToProcess - Array of stream objects.
- * @param {string} fileName - The name of the file being processed.
- * @param {boolean} quiet - Whether to suppress logs.
- * @returns {Promise<Map<number, {titleLine: string, urlLine: string}>>} A map of valid links.
+ * Processes links using the shared global limiter.
+ *
+ * @param {Array} linksToProcess
+ * @param {string} fileName
+ * @param {boolean} quiet
+ * @param {(task: () => Promise<any>) => Promise<any>} limiter
+ * @returns {Promise<Map<number, {titleLine: string, urlLine: string}>>}
  */
-async function processLinks(linksToProcess, fileName, quiet = false) {
-  const tempValidLinks = new Map();
-  const activePromises = new Set();
-  let linksProcessedCount = 0;
+async function processLinks(
+  linksToProcess,
+  fileName,
+  quiet,
+  limiter,
+) {
+  const validLinks = new Map();
 
-  for (let i = 0; i < linksToProcess.length; i++) {
-    const item = linksToProcess[i];
-    const promise = checkSingleLink(item, fileName, 0, quiet).then((result) => {
-      // We only care about successful 200 status AFTER all redirects
-      if (result && result.status === 200) {
-        // Store the final valid URL if a redirection occurred, otherwise the original
-        const urlToStore = result.finalUrl || item.url;
-        tempValidLinks.set(item.originalIndex, {
+  let nextIndex = 0;
+
+  async function worker() {
+    while (true) {
+      const currentIndex = nextIndex++;
+
+      if (currentIndex >= linksToProcess.length) {
+        return;
+      }
+
+      const item = linksToProcess[currentIndex];
+
+      const result = await limiter(() =>
+        checkSingleLink(item, fileName, quiet),
+      );
+
+      if (
+        result &&
+        typeof result.status === 'number' &&
+        result.status >= 200 &&
+        result.status < 300
+      ) {
+        validLinks.set(item.originalIndex, {
           titleLine: item.title,
-          urlLine: urlToStore, // Use the final validated URL
+          urlLine: result.finalUrl || item.url,
         });
       }
-      linksProcessedCount++;
-      // console.log(`  [${fileName}] - Processed ${linksProcessedCount}/${linksToProcess.length}`);
-      activePromises.delete(promise);
-      return result;
-    });
-
-    activePromises.add(promise);
-
-    if (activePromises.size >= concurrencyLimit) {
-      await Promise.race(Array.from(activePromises));
     }
   }
 
-  await Promise.allSettled(Array.from(activePromises));
-  return tempValidLinks;
+  // One worker per available global slot, capped by this file's link count.
+  const workerCount = Math.min(
+    concurrencyLimit,
+    linksToProcess.length,
+  );
+
+  await Promise.all(
+    Array.from({ length: workerCount }, () => worker()),
+  );
+
+  return validLinks;
 }
 
 /**
- * Generates the content for the checked M3U playlist.
- * This function is now more robust in preserving non-stream lines
- * and correctly handling only valid #EXTINF + URL pairs.
- * @param {string} originalM3uContent - The original M3U content.
- * @param {Map<number, {titleLine: string, urlLine: string}>} tempValidLinks - Map of valid links by their original URL line index, with potentially updated URLs.
- * @returns {string} The content of the cleaned M3U playlist.
+ * Finds the next HTTP/HTTPS URL after an #EXTINF line.
+ *
+ * It stops if another #EXTINF is found first.
+ *
+ * @param {string[]} lines
+ * @param {number} titleIndex
+ * @returns {number}
  */
-function generateOutputM3U(originalM3uContent, tempValidLinks) {
-  const originalLines = originalM3uContent.split('\n');
-  const outputLines = ['#EXTM3U']; // Always start with #EXTM3U
-  const addedLines = new Set(['#EXTM3U']); // Keep track of lines already added to avoid duplicates
+function findNextUrlIndex(lines, titleIndex) {
+  for (let i = titleIndex + 1; i < lines.length; i++) {
+    const line = lines[i].trim();
 
-  for (let i = 0; i < originalLines.length; i++) {
-    const line = originalLines[i].trim();
-
-    if (line.startsWith('#EXTM3U')) {
-      continue; // Skip the original #EXTM3U as we added it at the beginning
+    if (line.startsWith('#EXTINF')) {
+      return -1;
     }
 
-    // Handle #EXTINF lines. We only add them if their associated URL is valid.
-    if (line.startsWith('#EXTINF')) {
-      const nextLineIndex = i + 1;
-      // Check if there is a next line and if it corresponds to a valid stream URL
-      if (
-        nextLineIndex < originalLines.length &&
-        tempValidLinks.has(nextLineIndex)
-      ) {
-        const { titleLine, urlLine } = tempValidLinks.get(nextLineIndex);
-        // Add #EXTINF and its validated URL
-        if (!addedLines.has(titleLine)) {
-          outputLines.push(titleLine);
-          addedLines.add(titleLine);
-        }
-        if (!addedLines.has(urlLine)) {
-          outputLines.push(urlLine);
-          addedLines.add(urlLine);
-        }
-        i = nextLineIndex; // Skip the URL line as it's already processed with its #EXTINF
-      }
-      // If the next line is not a valid URL or doesn't exist, we simply skip this #EXTINF
+    if (line.startsWith('http://') || line.startsWith('https://')) {
+      return i;
+    }
+  }
+
+  return -1;
+}
+
+/**
+ * Generates the cleaned M3U playlist.
+ *
+ * Validated stream entries are retained. Invalid stream entries are removed.
+ * Non-stream lines are preserved where practical.
+ *
+ * @param {string} originalM3uContent
+ * @param {Map<number, {titleLine: string, urlLine: string}>} validLinks
+ * @returns {string}
+ */
+function generateOutputM3U(originalM3uContent, validLinks) {
+  const originalLines = originalM3uContent.split(/\r?\n/);
+  const outputLines = ['#EXTM3U'];
+
+  for (let i = 0; i < originalLines.length; i++) {
+    const rawLine = originalLines[i];
+    const line = rawLine.trim();
+
+    if (line.length === 0) {
       continue;
     }
 
-    // Handle standalone HTTP/HTTPS links (without an #EXTINF directly above them)
-    // or HTTP/HTTPS links that *were* preceded by #EXTINF but deemed invalid
-    else if (line.startsWith('http://') || line.startsWith('https://')) {
-      // If this specific URL line itself (by its original index) was marked as valid
-      // and it wasn't already handled by an #EXTINF block
-      if (tempValidLinks.has(i)) {
-        const { urlLine } = tempValidLinks.get(i);
-        if (!addedLines.has(urlLine)) {
-          outputLines.push(urlLine);
-          addedLines.add(urlLine);
-        }
-      }
-      continue; // Move to the next iteration
+    if (line.startsWith('#EXTM3U')) {
+      continue;
     }
 
-    // Preserve any other non-empty lines (e.g., comments, #EXTGRP, etc.)
-    if (line.length > 0 && !addedLines.has(line)) {
-      outputLines.push(line);
-      addedLines.add(line);
+    if (line.startsWith('#EXTINF')) {
+      const urlIndex = findNextUrlIndex(originalLines, i);
+
+      if (urlIndex !== -1 && validLinks.has(urlIndex)) {
+        const { titleLine, urlLine } = validLinks.get(urlIndex);
+
+        outputLines.push(titleLine);
+
+        // Preserve lines such as #EXTGRP between #EXTINF and the URL.
+        for (let j = i + 1; j < urlIndex; j++) {
+          const intermediateLine = originalLines[j].trim();
+
+          if (
+            intermediateLine.length > 0 &&
+            !intermediateLine.startsWith('http://') &&
+            !intermediateLine.startsWith('https://') &&
+            !intermediateLine.startsWith('#EXTINF')
+          ) {
+            outputLines.push(intermediateLine);
+          }
+        }
+
+        outputLines.push(urlLine);
+
+        // Skip all lines belonging to this entry.
+        i = urlIndex;
+      } else {
+        // Skip invalid #EXTINF entries and their associated URL.
+        if (urlIndex !== -1) {
+          i = urlIndex;
+        }
+      }
+
+      continue;
     }
+
+    if (line.startsWith('http://') || line.startsWith('https://')) {
+      if (validLinks.has(i)) {
+        const { urlLine } = validLinks.get(i);
+        outputLines.push(urlLine);
+      }
+
+      continue;
+    }
+
+    // Preserve other playlist metadata and comments.
+    outputLines.push(line);
   }
-  return outputLines.join('\n');
+
+  return `${outputLines.join('\n')}\n`;
 }
 
 /**
- * Main function to read, process, and write M3U files.
- * @param {string} inputDir - The directory containing M3U files.
- * @param {string} outputDir - The directory to save checked M3U files.
- * @param {boolean} quiet - Whether to run in quiet mode.
+ * Processes one M3U file.
+ *
+ * @param {string} inputDir
+ * @param {string} outputDir
+ * @param {string} fileName
+ * @param {boolean} quiet
+ * @param {(task: () => Promise<any>) => Promise<any>} limiter
  */
-async function main(inputDir, outputDir, quiet = false) {
-  try {
-    // Ensure output directory exists
-    await fs.mkdir(outputDir, { recursive: true });
+async function processFile(
+  inputDir,
+  outputDir,
+  fileName,
+  quiet,
+  limiter,
+) {
+  const fullPath = path.join(inputDir, fileName);
+  const originalM3uContent = await fs.readFile(fullPath, 'utf8');
 
-    const files = await fs.readdir(inputDir);
-    const m3uFiles = files.filter(
-      (file) => file.endsWith('.m3u') || file.endsWith('.m3u8'),
+  const linksToProcess = parseM3UContent(originalM3uContent);
+
+  if (!quiet) {
+    console.log(
+      `[${fileName}] Found ${linksToProcess.length} stream links.`,
+    );
+  }
+
+  if (linksToProcess.length === 0) {
+    const outputM3uContent = generateOutputM3U(
+      originalM3uContent,
+      new Map(),
     );
 
-    if (m3uFiles.length === 0) {
-      if (!quiet) {
-        console.log(`No .m3u or .m3u8 files found in "${inputDir}"`);
-      }
-      return;
-    }
+    if (outputM3uContent.trim() !== '#EXTM3U') {
+      const outputPath = path.join(outputDir, fileName);
 
-    if (!quiet) {
-      console.log(`Found ${m3uFiles.length} M3U files to check in "${inputDir}".`);
-    }
-
-    for (const fileName of m3uFiles) {
-      if (!quiet) {
-        console.log(`\n--- Checking "${fileName}" ---`);
-      }
-      const fullPath = path.join(inputDir, fileName);
-      const originalM3uContent = await fs.readFile(fullPath, 'utf8');
-
-      const linksToProcess = parseM3UContent(originalM3uContent);
-      if (!quiet) {
-        console.log(`  Found ${linksToProcess.length} stream links.`);
-      }
-
-      // Case 1: No stream links were found at all by the parser
-      if (linksToProcess.length === 0) {
-        const outputM3uContent = generateOutputM3U(originalM3uContent, new Map());
-        // If, after preserving other M3U tags, the output is only '#EXTM3U',
-        // then the file effectively contained no streams or meaningful content.
-        if (outputM3uContent.trim() !== '#EXTM3U') {
-          const outputPath = path.join(outputDir, fileName);
-          await fs.writeFile(outputPath, outputM3uContent, 'utf8');
-          if (!quiet) {
-            console.log(
-              `  "${fileName}" had no stream links but contained other M3U data. Saved to "${outputPath}"`,
-            );
-          }
-        } else {
-          if (!quiet) {
-            console.log(
-              `  "${fileName}" contained only the M3U header or no valid streams (initial parse). Skipping output.`,
-            );
-          }
-        }
-        if (quiet) {
-          console.log(`${fileName} checked - 0/0 streams were alive`);
-        }
-        continue; // Move to the next file
-      }
-
-      // Case 2: Stream links were found, now check their validity
-      const tempValidLinks = await processLinks(linksToProcess, fileName, quiet);
-
-      const validStreamCount = tempValidLinks.size;
-      if (quiet) {
-        console.log(`${fileName} checked - ${validStreamCount}/${linksToProcess.length} streams were alive`);
-      } else {
-        console.log(
-          `  Check complete for "${fileName}". Found ${validStreamCount} valid streams out of ${linksToProcess.length}.`,
-        );
-      }
-
-      // Condition 2: Exclude if none of the links are status coded 200
-      if (validStreamCount === 0) {
-        if (!quiet) {
-          console.log(
-            `  "${fileName}" has no valid (200 OK) streams after checking. Skipping output.`,
-          );
-        }
-        continue; // Move to the next file without writing
-      }
-
-      const outputFileName = fileName;
-      const outputPath = path.join(outputDir, outputFileName);
-      const outputM3uContent = generateOutputM3U(
-        originalM3uContent,
-        tempValidLinks,
+      await fs.writeFile(
+        outputPath,
+        outputM3uContent,
+        'utf8',
       );
 
-      // Final check: ensure the generated output M3U isn't just '#EXTM3U' if validStreamCount > 0
-      // This is a safety check, in theory, if validStreamCount > 0, this shouldn't happen.
-      if (outputM3uContent.trim() === '#EXTM3U') {
-        if (!quiet) {
-          console.warn(
-            `  WARNING: "${fileName}" had ${validStreamCount} valid streams, but output M3U is only '#EXTM3U'. Skipping output.`,
-          );
-        }
-      } else {
-        await fs.writeFile(outputPath, outputM3uContent, 'utf8');
-        if (!quiet) {
-          console.log(`  Saved checked playlist to "${outputPath}"`);
-        }
+      if (!quiet) {
+        console.log(
+          `[${fileName}] No stream links found. Saved metadata output.`,
+        );
       }
+    } else if (!quiet) {
+      console.log(
+        `[${fileName}] No stream links or meaningful content. Skipped.`,
+      );
     }
+
+    if (quiet) {
+      console.log(`${fileName} checked - 0/0 streams were alive`);
+    }
+
+    return;
+  }
+
+  const validLinks = await processLinks(
+    linksToProcess,
+    fileName,
+    quiet,
+    limiter,
+  );
+
+  const validStreamCount = validLinks.size;
+
+  if (quiet) {
+    console.log(
+      `${fileName} checked - ` +
+        `${validStreamCount}/${linksToProcess.length} streams were alive`,
+    );
+  } else {
+    console.log(
+      `[${fileName}] Complete: ` +
+        `${validStreamCount}/${linksToProcess.length} streams alive.`,
+    );
+  }
+
+  if (validStreamCount === 0) {
     if (!quiet) {
-      console.log('\n--- All M3U files processed ---');
+      console.log(`[${fileName}] No valid streams. Output skipped.`);
     }
-  } catch (error) {
-    console.error('An error occurred:', error);
-    process.exit(1);
+
+    return;
+  }
+
+  const outputM3UContent = generateOutputM3U(
+    originalM3uContent,
+    validLinks,
+  );
+
+  if (outputM3UContent.trim() === '#EXTM3U') {
+    if (!quiet) {
+      console.warn(
+        `[${fileName}] Valid links were found, but output was empty. Skipped.`,
+      );
+    }
+
+    return;
+  }
+
+  const outputPath = path.join(outputDir, fileName);
+
+  await fs.writeFile(
+    outputPath,
+    outputM3UContent,
+    'utf8',
+  );
+
+  if (!quiet) {
+    console.log(`[${fileName}] Saved to "${outputPath}"`);
   }
 }
 
-// Get input and output directories from command-line arguments, handling --quiet flag
+/**
+ * Main function.
+ *
+ * @param {string} inputDir
+ * @param {string} outputDir
+ * @param {boolean} quiet
+ */
+async function main(inputDir, outputDir, quiet = false) {
+  await fs.mkdir(outputDir, { recursive: true });
+
+  const files = await fs.readdir(inputDir);
+
+  const m3uFiles = files.filter((file) => {
+    const lowerFile = file.toLowerCase();
+
+    return (
+      lowerFile.endsWith('.m3u') ||
+      lowerFile.endsWith('.m3u8')
+    );
+  });
+
+  if (m3uFiles.length === 0) {
+    if (!quiet) {
+      console.log(`No .m3u or .m3u8 files found in "${inputDir}"`);
+    }
+
+    return;
+  }
+
+  console.log(
+    `Found ${m3uFiles.length} M3U files. ` +
+      `Global concurrency: ${concurrencyLimit}. ` +
+      `Timeout: ${linkTimeout}ms.`,
+  );
+
+  // One global limiter is shared by every file.
+  const limiter = createLimiter(concurrencyLimit);
+
+  // Process files concurrently while keeping total HTTP concurrency capped.
+  await Promise.all(
+    m3uFiles.map((fileName) =>
+      processFile(
+        inputDir,
+        outputDir,
+        fileName,
+        quiet,
+        limiter,
+      ),
+    ),
+  );
+
+  if (!quiet) {
+    console.log('\n--- All M3U files processed ---');
+  }
+}
+
+// Parse command-line arguments.
 let quiet = false;
-let filteredArgs = [];
+const filteredArgs = [];
+
 for (const arg of process.argv.slice(2)) {
   if (arg === '--quiet') {
     quiet = true;
@@ -356,13 +624,19 @@ for (const arg of process.argv.slice(2)) {
     filteredArgs.push(arg);
   }
 }
+
 const inputDirectory = filteredArgs[0] || 'm3u-files';
 const outputDirectory = filteredArgs[1] || 'm3u-checked';
 
 if (!quiet) {
-  console.log(`Starting M3U Link Checker...`);
+  console.log('Starting M3U Link Checker...');
   console.log(`Input Directory: ${inputDirectory}`);
   console.log(`Output Directory: ${outputDirectory}`);
+  console.log(`Concurrency: ${concurrencyLimit}`);
+  console.log(`Timeout: ${linkTimeout}ms`);
 }
 
-main(inputDirectory, outputDirectory, quiet);
+main(inputDirectory, outputDirectory, quiet).catch((error) => {
+  console.error('An error occurred:', error);
+  process.exitCode = 1;
+});

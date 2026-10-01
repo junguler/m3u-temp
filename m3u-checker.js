@@ -11,6 +11,7 @@
 //   CONCURRENCY=100
 //   LINK_TIMEOUT=8000
 //   MAX_REDIRECTS=3
+//   PROGRESS_INTERVAL=30000   (milliseconds between progress reports)
 //
 // Example:
 //
@@ -22,10 +23,159 @@ const path = require('path');
 const concurrencyLimit = Number(process.env.CONCURRENCY || 100);
 const linkTimeout = Number(process.env.LINK_TIMEOUT || 8000);
 const maxRedirects = Number(process.env.MAX_REDIRECTS || 3);
+const progressInterval = Number(process.env.PROGRESS_INTERVAL || 30000);
 
 const USER_AGENT = 'm3u-checker/1.0';
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+/**
+ * Global statistics used by the periodic progress report.
+ */
+const stats = {
+  startTime: Date.now(),
+  totalFiles: 0,
+  filesParsed: 0,
+  filesDone: 0,
+  totalLinks: 0,
+  checked: 0,
+  alive: 0,
+  timedOut: 0,
+  invalid: 0,
+  httpError: 0,
+  inFlight: 0,
+
+  // fileName -> { total, checked, alive }
+  activeFiles: new Map(),
+};
+
+/**
+ * Formats milliseconds as e.g. "1h 02m 05s", "3m 07s" or "12s".
+ *
+ * @param {number} ms
+ * @returns {string}
+ */
+function formatDuration(ms) {
+  const totalSeconds = Math.max(0, Math.round(ms / 1000));
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  const seconds = totalSeconds % 60;
+
+  if (hours > 0) {
+    return (
+      `${hours}h ` +
+      `${String(minutes).padStart(2, '0')}m ` +
+      `${String(seconds).padStart(2, '0')}s`
+    );
+  }
+
+  if (minutes > 0) {
+    return `${minutes}m ${String(seconds).padStart(2, '0')}s`;
+  }
+
+  return `${seconds}s`;
+}
+
+/**
+ * Prints one progress report.
+ *
+ * @param {boolean} final  true for the closing summary
+ */
+function printProgress(final = false) {
+  const elapsedMs = Date.now() - stats.startTime;
+  const elapsedSeconds = elapsedMs / 1000;
+
+  const percent =
+    stats.totalLinks > 0
+      ? ((stats.checked / stats.totalLinks) * 100).toFixed(1)
+      : '0.0';
+
+  const rate = elapsedSeconds > 0 ? stats.checked / elapsedSeconds : 0;
+
+  // The ETA is only meaningful once every file has been parsed,
+  // because only then is the total link count final.
+  let eta = 'estimating...';
+
+  if (stats.filesParsed >= stats.totalFiles && rate > 0) {
+    const remaining = stats.totalLinks - stats.checked;
+    eta = remaining > 0 ? formatDuration((remaining / rate) * 1000) : '0s';
+  }
+
+  const label = final ? 'FINAL' : 'PROGRESS';
+
+  const lines = [
+    '',
+    `[${label}] Elapsed: ${formatDuration(elapsedMs)}`,
+    `[${label}] Files:   ${stats.filesDone}/${stats.totalFiles} done ` +
+      `(${stats.filesParsed}/${stats.totalFiles} read)`,
+    `[${label}] Links:   ${stats.checked}/${stats.totalLinks} checked ` +
+      `(${percent}%), ${stats.inFlight} in flight`,
+    `[${label}] Results: ${stats.alive} alive, ` +
+      `${stats.timedOut} timed out, ` +
+      `${stats.invalid} invalid/unreachable, ` +
+      `${stats.httpError} HTTP errors`,
+  ];
+
+  if (!final) {
+    lines.push(
+      `[${label}] Speed:   ${rate.toFixed(1)} links/s, ETA: ${eta}`,
+    );
+
+    if (stats.activeFiles.size > 0) {
+      const active = [...stats.activeFiles.entries()]
+        .sort((a, b) => b[1].total - b[1].checked - (a[1].total - a[1].checked))
+        .slice(0, 5);
+
+      lines.push(
+        `[${label}] Busiest unfinished files ` +
+          `(${stats.activeFiles.size} in progress):`,
+      );
+
+      for (const [name, info] of active) {
+        lines.push(
+          `[${label}]   ${name}: ${info.checked}/${info.total} checked, ` +
+            `${info.alive} alive`,
+        );
+      }
+    }
+  } else {
+    lines.push(
+      `[${label}] Average speed: ${rate.toFixed(1)} links/s`,
+    );
+  }
+
+  console.log(lines.join('\n'));
+}
+
+/**
+ * Records the result of one checked link in the global statistics.
+ *
+ * @param {number|string} status
+ * @param {string} fileName
+ */
+function recordResult(status, fileName) {
+  stats.checked++;
+
+  const fileInfo = stats.activeFiles.get(fileName);
+
+  if (fileInfo) {
+    fileInfo.checked++;
+  }
+
+  if (typeof status === 'number' && status >= 200 && status < 300) {
+    stats.alive++;
+
+    if (fileInfo) {
+      fileInfo.alive++;
+    }
+  } else if (status === 'timedout') {
+    stats.timedOut++;
+  } else if (status === 'invalid') {
+    stats.invalid++;
+  } else {
+    stats.httpError++;
+  }
+}
 
 /**
  * Creates a global concurrency limiter.
@@ -306,9 +456,17 @@ async function processLinks(
 
       const item = linksToProcess[currentIndex];
 
-      const result = await limiter(() =>
-        checkSingleLink(item, fileName, quiet),
-      );
+      const result = await limiter(async () => {
+        stats.inFlight++;
+
+        try {
+          return await checkSingleLink(item, fileName, quiet);
+        } finally {
+          stats.inFlight--;
+        }
+      });
+
+      recordResult(result?.status, fileName);
 
       if (
         result &&
@@ -461,6 +619,15 @@ async function processFile(
 
   const linksToProcess = parseM3UContent(originalM3uContent);
 
+  // Register this file with the progress reporter.
+  stats.filesParsed++;
+  stats.totalLinks += linksToProcess.length;
+  stats.activeFiles.set(fileName, {
+    total: linksToProcess.length,
+    checked: 0,
+    alive: 0,
+  });
+
   if (!quiet) {
     console.log(
       `[${fileName}] Found ${linksToProcess.length} stream links.`,
@@ -592,21 +759,38 @@ async function main(inputDir, outputDir, quiet = false) {
       `Timeout: ${linkTimeout}ms.`,
   );
 
+  stats.totalFiles = m3uFiles.length;
+  stats.startTime = Date.now();
+
+  // Periodic progress report (printed even in --quiet mode).
+  const progressTimer = setInterval(() => {
+    printProgress(false);
+  }, progressInterval);
+
   // One global limiter is shared by every file.
   const limiter = createLimiter(concurrencyLimit);
 
-  // Process files concurrently while keeping total HTTP concurrency capped.
-  await Promise.all(
-    m3uFiles.map((fileName) =>
-      processFile(
-        inputDir,
-        outputDir,
-        fileName,
-        quiet,
-        limiter,
+  try {
+    // Process files concurrently while keeping total HTTP concurrency capped.
+    await Promise.all(
+      m3uFiles.map((fileName) =>
+        processFile(
+          inputDir,
+          outputDir,
+          fileName,
+          quiet,
+          limiter,
+        ).finally(() => {
+          stats.filesDone++;
+          stats.activeFiles.delete(fileName);
+        }),
       ),
-    ),
-  );
+    );
+  } finally {
+    clearInterval(progressTimer);
+  }
+
+  printProgress(true);
 
   if (!quiet) {
     console.log('\n--- All M3U files processed ---');
@@ -634,6 +818,7 @@ if (!quiet) {
   console.log(`Output Directory: ${outputDirectory}`);
   console.log(`Concurrency: ${concurrencyLimit}`);
   console.log(`Timeout: ${linkTimeout}ms`);
+  console.log(`Progress interval: ${progressInterval}ms`);
 }
 
 main(inputDirectory, outputDirectory, quiet).catch((error) => {

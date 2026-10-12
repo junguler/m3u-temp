@@ -20,10 +20,10 @@
 const fs = require('fs/promises');
 const path = require('path');
 
-const concurrencyLimit = Number(process.env.CONCURRENCY || 100);
+const concurrencyLimit = Number(process.env.CONCURRENCY || 50);
 const linkTimeout = Number(process.env.LINK_TIMEOUT || 8000);
 const maxRedirects = Number(process.env.MAX_REDIRECTS || 3);
-const progressInterval = Number(process.env.PROGRESS_INTERVAL || 30000);
+const progressInterval = Number(process.env.PROGRESS_INTERVAL || 60000);
 
 const USER_AGENT = 'm3u-checker/1.0';
 

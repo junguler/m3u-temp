@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,W Radio Ciudad de México (XEW-AM 900 kHz, XEW-FM 96.9 MHz) Televisa Radio
+http://19293.live.streamtheworld.com:3690/W_RADIOAAC_SC
+#EXTINF:-1,CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ_ADP.m3u8
+#EXTINF:-1,Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)
+https://radiolatina.info/8170/stream
+#EXTINF:-1,ABC A-League Live (MP3)
+https://live-radio02.mediahubaustralia.com/IT2W/mp3/;
+#EXTINF:-1,Fußball-Bundesliga: Konferenz
+https://wdr-sportschau-liga1konferenz.icecastssl.wdr.de/wdr/sportschau/liga1konferenz/mp3/high
+#EXTINF:-1,Radio Viva Fenix Pasto (HJFV, 780 kHz AM)
+https://radiolatina.info/8166/stream

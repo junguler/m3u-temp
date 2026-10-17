@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,RFI Monde
+http://live02.rfi.fr/rfimonde-64.mp3
+#EXTINF:-1,Radio Nova
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1,1.FM - Cafe Radio
+https://strm112.1.fm/caferadio_mobile_mp3
+#EXTINF:-1,ABC Portugal
+http://centova.radio.com.pt:8547/;
+#EXTINF:-1,Radio Sunce
+https://shoutcast.pondi.hr:8002/;*.mp3
+#EXTINF:-1,Yabiladi Chaabi Maroc
+https://radio.yabiladi.com:8102/;stream.mp3
+#EXTINF:-1,RequestRadio Inter
+https://cast.requestradio.in.th:840//stream/3
+#EXTINF:-1,Light FM 90.5 & 90.7 Beirut
+https://28573.live.streamtheworld.com/LIGHTFMAAC_SC
+#EXTINF:-1,Filarmonía (OCR-4V, 102.7 MHz FM, Lima) (IRTP)
+https://c22.radioboss.fm:18100/live
+#EXTINF:-1,Yabiladi Radio
+https://radio.yabiladi.com:8002/;stream.mp3
+#EXTINF:-1,Yabiladi Azawan Amazigh
+https://radio.yabiladi.com:9002/;stream.mp3
+#EXTINF:-1,Rádio Universitária do Minho
+http://centova.radio.com.pt:9558/;
+#EXTINF:-1,bigFM Worldbeats
+https://streams.bigfm.de/bigfm-worldbeats-128-aac
+#EXTINF:-1,- 1 A - Schlager Kult von 1A Radio
+https://1a-schlagerkult.radionetz.de/1a-schlagerkult.mp3
+#EXTINF:-1,Polushon
+https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream
+#EXTINF:-1,pmr.lt - world music radio
+http://pmr.lt/streams/pmr-1
+#EXTINF:-1,Emisora de Radio "ATodaMecha"
+https://stream.zeno.fm/gjexooyemj3uv
+#EXTINF:-1,France Musique | Ocora - Musiques du monde
+https://direct.francemusique.fr/live/francemusiqueocoramonde-hifi.mp3
+#EXTINF:-1,Radio Paradise World/Etc Mix 64k AAC
+https://stream.radioparadise.com/world-etc-64
+#EXTINF:-1,Rádio Antena Minho
+http://centova.radio.com.pt:9464/;
+#EXTINF:-1,Concertzender Folk it!
+http://streams.greenhost.nl:8080/folkit
+#EXTINF:-1,Fréquence 3 - World FLAC
+https://frequence3.net-radio.fr/frequence3world.flac
+#EXTINF:-1,Lolli Radio Happy Station
+https://stream.lolliradio.net/lolli_happy.mp3
+#EXTINF:-1,Concertzender Oriënt Express
+http://streams.greenhost.nl:8080/orientexpress

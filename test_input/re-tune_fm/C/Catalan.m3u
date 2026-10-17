@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Cadena SER Radio MADRID
+http://server7.20comunicacion.com:8040/
+#EXTINF:-1,RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:-1,Catalunya Informació (Catinfo)
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
+#EXTINF:-1,Digital hits
+http://digitalhits.frilab.com:8000/digitalhits
+#EXTINF:-1,Remember the music FM 96.6
+https://eu1.lhdserver.es:9041/stream
+#EXTINF:-1,FlaixBAC
+https://stream.flaixbac.cat/icecast
+#EXTINF:-1,iCat FM
+https://shoutcast.ccma.cat/ccma/icatHD.mp3
+#EXTINF:-1,Los 40 Catalunya
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC
+#EXTINF:-1,Catalunya Música (CatMúsica)
+https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3
+#EXTINF:-1,Ona Mediterrània
+https://streaming.enacast.com/onamediterrania128.mp3
+#EXTINF:-1,IB3 Ràdio Menorca
+http://streaming01.ib3radio.com:8000/ib3radio_menorca
+#EXTINF:-1,Café del Mar CALM
+https://streamer.radio.co/sb748f24ad/listen
+#EXTINF:-1,Digital Hits FM
+https://dhits.frilab.com:8443/dhits
+#EXTINF:-1,RAC105
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3
+#EXTINF:-1,Ràdio Olot
+http://chrome.frilab.com:8000/radiolot

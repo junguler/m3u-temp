@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,Sveriges Radio - P1
+https://live1.sr.se/p1-aac-320
+#EXTINF:-1,Mix Megapol
+https://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB
+#EXTINF:-1,NRJ Sweden
+https://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3
+#EXTINF:-1,Country Rocks Radio
+https://stream.dbmedia.se/crr96
+#EXTINF:-1,Pirate Rock  Västkustens bästa rock
+https://stream.piraterock.se:8101/webradio
+#EXTINF:-1,Svensk Pop
+https://tx.sharp-stream.com/http_live.php?i=svenskpop_se_mp3
+#EXTINF:-1,Sveriges Radio - P3
+https://live1.sr.se/p3-mp3-96
+#EXTINF:-1,Bandit Rock
+https://fm02-ice.stream.khz.se/fm02_mp3
+#EXTINF:-1,Retro FM Skåne
+https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB
+#EXTINF:-1,Sveriges Radio - P4 Plus
+https://live1.sr.se/p4plus-aac-320
+#EXTINF:-1,Lugna Favoriter Stockholm
+https://fm03-ice.stream.khz.se/fm03_mp3?
+#EXTINF:-1,SlayRadio
+http://relay1.slayradio.org:8000/
+#EXTINF:-1,Svensk Folkmusik - AkkA radio
+https://mediaserv38.live-streams.nl:8107/stream
+#EXTINF:-1,Sveriges Radio - P2
+https://live1.sr.se/p2-aac-320
+#EXTINF:-1,Pop & Rock
+http://62.101.46.15:8000/poporock
+#EXTINF:-1,Mix Megapol GBG
+https://tx-bauerse.sharp-stream.com/http_live.php?i=mixmegapolgbg_instream_se_mp3
+#EXTINF:-1,SDX synthetic experience - EBM, Synth and Industrial
+http://radio.dawnshadow.se:8000/stream
+#EXTINF:-1,Polushon
+https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream
+#EXTINF:-1,SceneSat Radio (MP3)
+http://oscar.scenesat.com:8000/scenesatmax
+#EXTINF:-1,Vinyl FM
+https://edge-bauerse-06-thn.sharp-stream.com/vinylfm_instream_se_mp3?
+#EXTINF:-1,SVT P1 192kps
+https://live1.sr.se/p1-mp3-96
+#EXTINF:-1,Sveriges Radio P2
+https://http-live.sr.se/p2musik-aac-320
+#EXTINF:-1,Guldkanalen Malmö/Lund
+https://stream.dbmedia.se/gk96
+#EXTINF:-1,Bandit Classic Rock
+https://wr11-ice.stream.khz.se/wr11_mp3
+#EXTINF:-1,Dansbandskanalen.se*
+https://stream.dbmedia.se/dbkMP3
+#EXTINF:-1,Sveriges Radio P1
+https://edge1.sr.se/p1-aac-320
+#EXTINF:-1,Soul Classics
+https://wr08-ice.stream.khz.se/wr08_mp3
+#EXTINF:-1,SceneSat Radio (AAC+ mobile)
+http://oscar.scenesat.com:8000/scenesatmed
+#EXTINF:-1,Stockholm FM 88,0 Sweden
+http://radiostreamfour.sytes.net:18000/
+#EXTINF:-1,Go Country
+https://wr14-ice.stream.khz.se/wr14_mp3
+#EXTINF:-1,Disco 54
+https://wr15-ice.stream.khz.se/wr15_mp3
+#EXTINF:-1,Stockholm FM 101,1 Sweden
+http://radiostreamthree.mine.nu:18020/
+#EXTINF:-1,Star 80's
+https://wr02-ice.stream.khz.se/wr02_mp3
+#EXTINF:-1,FUN RADIO 95,3 Sweden
+http://stream.funradio.se:81/live192

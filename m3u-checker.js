@@ -1,5 +1,15 @@
 // m3u-checker.js
 //
+// Recursively scans the input folder for .m3u / .m3u8 files (any depth) and
+// writes the cleaned playlists to the output folder, keeping the exact same
+// sub-folder structure:
+//
+//   input/rock/a.m3u        ->  output/rock/a.m3u
+//   input/world/asia/b.m3u8 ->  output/world/asia/b.m3u8
+//
+// Hidden folders (starting with ".") and node_modules are skipped, and so is
+// the output folder if it happens to live inside the input folder.
+//
 // Usage:
 //
 //   node m3u-checker.js
@@ -601,9 +611,13 @@ function generateOutputM3U(originalM3uContent, validLinks) {
 /**
  * Processes one M3U file.
  *
+ * fileName is the path relative to inputDir (e.g. "rock/90s/a.m3u").
+ * The result is written to the same relative path inside outputDir,
+ * creating sub-folders as needed.
+ *
  * @param {string} inputDir
  * @param {string} outputDir
- * @param {string} fileName
+ * @param {string} fileName  relative path, "/" separated
  * @param {boolean} quiet
  * @param {(task: () => Promise<any>) => Promise<any>} limiter
  */
@@ -643,6 +657,7 @@ async function processFile(
     if (outputM3uContent.trim() !== '#EXTM3U') {
       const outputPath = path.join(outputDir, fileName);
 
+      await fs.mkdir(path.dirname(outputPath), { recursive: true });
       await fs.writeFile(
         outputPath,
         outputM3uContent,
@@ -713,6 +728,7 @@ async function processFile(
 
   const outputPath = path.join(outputDir, fileName);
 
+  await fs.mkdir(path.dirname(outputPath), { recursive: true });
   await fs.writeFile(
     outputPath,
     outputM3UContent,
@@ -725,6 +741,51 @@ async function processFile(
 }
 
 /**
+ * Recursively collects every .m3u / .m3u8 file below rootDir.
+ *
+ * Returned paths are relative to rootDir and use "/" as separator,
+ * e.g. "rock/90s/a.m3u". Symlinked directories are not followed.
+ *
+ * @param {string} rootDir
+ * @param {string[]} skipDirs  directories that must not be scanned
+ * @returns {Promise<string[]>}
+ */
+async function collectM3UFiles(rootDir, skipDirs = []) {
+  const results = [];
+  const skip = new Set(skipDirs.map((dir) => path.resolve(dir)));
+
+  async function walk(currentDir) {
+    const entries = await fs.readdir(currentDir, { withFileTypes: true });
+
+    entries.sort((a, b) => a.name.localeCompare(b.name));
+
+    for (const entry of entries) {
+      const fullPath = path.join(currentDir, entry.name);
+
+      if (entry.isDirectory()) {
+        if (
+          entry.name.startsWith('.') ||
+          entry.name === 'node_modules' ||
+          skip.has(path.resolve(fullPath))
+        ) {
+          continue;
+        }
+
+        await walk(fullPath);
+      } else if (entry.isFile() && /\.m3u8?$/i.test(entry.name)) {
+        results.push(
+          path.relative(rootDir, fullPath).split(path.sep).join('/'),
+        );
+      }
+    }
+  }
+
+  await walk(rootDir);
+
+  return results;
+}
+
+/**
  * Main function.
  *
  * @param {string} inputDir
@@ -734,27 +795,20 @@ async function processFile(
 async function main(inputDir, outputDir, quiet = false) {
   await fs.mkdir(outputDir, { recursive: true });
 
-  const files = await fs.readdir(inputDir);
-
-  const m3uFiles = files.filter((file) => {
-    const lowerFile = file.toLowerCase();
-
-    return (
-      lowerFile.endsWith('.m3u') ||
-      lowerFile.endsWith('.m3u8')
-    );
-  });
+  const m3uFiles = await collectM3UFiles(inputDir, [outputDir]);
 
   if (m3uFiles.length === 0) {
     if (!quiet) {
-      console.log(`No .m3u or .m3u8 files found in "${inputDir}"`);
+      console.log(
+        `No .m3u or .m3u8 files found in "${inputDir}" (searched recursively)`,
+      );
     }
 
     return;
   }
 
   console.log(
-    `Found ${m3uFiles.length} M3U files. ` +
+    `Found ${m3uFiles.length} M3U files (recursive). ` +
       `Global concurrency: ${concurrencyLimit}. ` +
       `Timeout: ${linkTimeout}ms.`,
   );

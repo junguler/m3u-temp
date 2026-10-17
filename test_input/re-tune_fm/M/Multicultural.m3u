@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Radio FM
+https://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:-1,WDR COSMO
+https://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio Quito 760 AM
+https://streamingecuador.net:8332/radioquito?1679294453918
+#EXTINF:-1,CJRK-FM 102.7 "East FM" Toronto, ON
+https://centova.radioservers.biz/proxy/eastfmc1/stream
+#EXTINF:-1,CKYE-FM 93.1 "Red FM" Vancouver, BC
+https://ice24.securenetsystems.net/CKYE
+#EXTINF:-1,CIRV-HD3 88.9 "Thaalam FM"(Tamil Stream) Toronto, ON
+https://ec4.yesstreaming.net:1990/stream

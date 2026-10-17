@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Deutschlandfunk | DLF | MP3 128k
+https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | MP3 128k
+https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | OPUS 24k
+https://st01.sslstream.dlf.de/dlf/01/low/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 48k
+https://st01.sslstream.dlf.de/dlf/01/low/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | MP3 128k
+https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 96k
+https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 192k
+https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 96k
+https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | OPUS 64k
+https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 192k
+https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | OPUS 24k
+https://st02.sslstream.dlf.de/dlf/02/low/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | OPUS 24k
+https://st03.sslstream.dlf.de/dlf/03/low/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 48k
+https://st02.sslstream.dlf.de/dlf/02/low/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | OPUS 64k
+https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | AAC 48k
+https://st03.sslstream.dlf.de/dlf/03/low/aac/stream.aac?aggregator=web

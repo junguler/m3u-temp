@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,EBM-Radio
+http://www.ebm-radio.org:7000/
+#EXTINF:-1,EBM
+https://ebm.stream.laut.fm/ebm?uuid=d4b93737-a90a-b586-9797-0016e95321f5&t302=2026-10-17_13-56-01
+#EXTINF:-1,XWave Radio
+http://vps-260b74e9.vps.ovh.net:8000/
+#EXTINF:-1,laut.fm Dark-Mythos
+https://dark-mythos.stream.laut.fm/dark-mythos?uuid=0b87e820-5e2a-29c8-8c47-c599ac2cc036&t302=2026-10-17_13-56-02
+#EXTINF:-1,technoszene.com Radio
+https://technoszene.stream.laut.fm/technoszene?pl=m3u

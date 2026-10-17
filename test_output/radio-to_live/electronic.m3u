@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,Joy Radio Friesland & Drenthe
+https://stream.joyradio.nl/joyradio
+#EXTINF:-1,Powermix FM
+https://cast.iplayradio.net/radio/9500/stream
+#EXTINF:-1,Kiss FM Algarve
+https://nl.digitalrm.pt:8024/stream
+#EXTINF:-1,Enter Zagreb
+http://live.enterzagreb.hr:8023/
+#EXTINF:-1,MegaStar FM
+https://megastar-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1,Groove London Radio
+https://eu10.fastcast4u.com/groovelondon
+#EXTINF:-1,Italo Radio
+https://stream-179.surfernetwork.com/k27sy16a47zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrMjdzeTE2YTQ3enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ikswby1sX01mUzhTTktvNFJpZjRFTUEiLCJpYXQiOjE3OTIyMjQxOTksImV4cCI6MTc5MjIyNDI1OX0.S46RT3nVXpk3cycJ-Zf-zYp6osrZ9PWibXT-M0bxVGk
+#EXTINF:-1,you FM
+https://hlsyoufm.akamaized.net/hls/live/2016538/youfm/master.m3u8
+#EXTINF:-1,Fun Radio
+http://streaming-ice.audiomeans.fr/rtl/feed-funradio-mp3-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=fun&aw_0_1st.program=fun
+#EXTINF:-1,Radio m2o
+https://streamcdnm6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master.m3u8
+#EXTINF:-1,France Musique
+http://icecast.radiofrance.fr/francemusique-midfi.mp3
+#EXTINF:-1,FIP Electro
+https://icecast.radiofrance.fr/fipelectro-midfi.mp3?id=radiofrance
+#EXTINF:-1,Radio Nova France
+http://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1,Fritz
+https://d111.rndfnk.com/ard/rbb/fritz/live/mp3/128/stream.mp3?cid=01FC1WK1H1KDC5EBKW5Z191BW4&sid=3KoW3fybmwejID7IEbEc16UVsph&token=3lNmRAjcSVR3S02W-ffmBU92dNJNJS0FEvFYM1mmThc&tvf=5evg9Q9W3xhkMTExLnJuZGZuay5jb20
+#EXTINF:-1,Radio FG
+https://stream.rcs.revma.com/7081n2b6p98uv
+#EXTINF:-1,Radio Scoop Lyon
+https://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-64.aac
+#EXTINF:-1,N-Joy
+https://d121.rndfnk.com/ard/ndr/njoy/live/mp3/128/stream.mp3?cid=01FBRKKTM6TVGA3B3W6Y8NMXK8&sid=3KoW3isegkUHm5hA8YyCfQoSqRF&token=T3HOrEsGKQbOGD6d5nf7zUrAEpnIQ_mXR2qKjI0EJtc&tvf=b0EKHxBW3xhkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,SPIN 1038
+https://stream.audioxi.com/SP
+#EXTINF:-1,FluxFM
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/7efc3ff2-4804-431f-aaa9-7d1f8a7727c7/stream.mp3?source=fluxmusic.api.radiosphere.io
+#EXTINF:-1,Vibration
+https://vibration.ice.infomaniak.ch/vibration-high.mp3
+#EXTINF:-1,98.8 KISS FM Berlin
+https://topradio.stream31.radiohost.de/kissfm_mp3-192?agend=true&upd-meta&upd-scheme=https&_art=dD0xNzkyMjI0NTA1JmQ9NjAyZDJjNTY1YzdiMmVjMjEzOTQ
+#EXTINF:-1,Rádio TechnoBase.FM
+http://listener3.mp3.tb-group.fm/tb.mp3
+#EXTINF:-1,Activ Radio Saint-Étienne
+https://activradio-stetienne.ice.infomaniak.ch/stetienne.mp3
+#EXTINF:-1,Activ Radio Roanne
+https://activradio-roanne.ice.infomaniak.ch/roanne.mp3
+#EXTINF:-1,Radio Galaxy
+https://edge22.streamonkey.net/fhn-radiogalaxy/stream/mp3?aggregator=webseite
+#EXTINF:-1,Radio Nova
+http://149.13.0.81/nova128

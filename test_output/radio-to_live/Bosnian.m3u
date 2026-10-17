@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Radio Visoko
+http://188.40.62.20:8080/live/type=mp3
+#EXTINF:-1,Radio Daš
+http://158.69.119.6:8095/&amptype=mp3
+#EXTINF:-1,Daš Extra Radio
+http://158.69.119.6:8085/&amptype=mp3
+#EXTINF:-1,Radio Doboj
+http://188.40.62.20:8034/
+#EXTINF:-1,RSG Radio
+http://195.201.112.14:9000/stream
+#EXTINF:-1,Radio BIR
+http://188.40.62.20:8090/
+#EXTINF:-1,Nes radio
+http://188.40.62.20:8070/
+#EXTINF:-1,Radio Čapljina
+http://s8.iqstreaming.com:8016/stream
+#EXTINF:-1,Kiss FM BiH
+http://stream.kissfm.ba:8010/live
+#EXTINF:-1,Radio 8
+http://94.130.11.28:8000/stream/1/

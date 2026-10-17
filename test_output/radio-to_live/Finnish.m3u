@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,Yle Radio 1
+https://icecast.live.yle.fi/radio/YleRadio1/icecast.audio
+#EXTINF:-1,Yle X3M
+https://icecast.live.yle.fi/radio/YleX3M/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Helsinki
+https://icecast.live.yle.fi/radio/YleRS/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Turku
+https://icecast.live.yle.fi/radio/YleTurku/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Oulu
+https://icecast.live.yle.fi/radio/YleOulu/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Jyväskylä
+https://icecast.live.yle.fi/radio/YleJKL/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Tampere
+https://icecast.live.yle.fi/radio/YleTampere/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Pori
+https://icecast.live.yle.fi/radio/YlePori/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Hämeenlinna
+https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Joensuu
+https://icecast.live.yle.fi/radio/YleJoensuu/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Lappeenranta
+https://icecast.live.yle.fi/radio/YleLPR/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Lahti
+https://icecast.live.yle.fi/radio/YleLahti/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Kotka
+https://icecast.live.yle.fi/radio/YleKotka/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Rovaniemi
+https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Kajaani
+https://icecast.live.yle.fi/radio/YleKajaani/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Kemi
+https://icecast.live.yle.fi/radio/YleKemi/icecast.audio
+#EXTINF:-1,Yle Klassinen
+https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio
+#EXTINF:-1,YleX
+https://icecast.live.yle.fi/radio/YleX/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Kokkola
+https://icecast.live.yle.fi/radio/YleKokkola/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Kuopio
+https://icecast.live.yle.fi/radio/YleKuopio/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Mikkeli
+https://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Pohjanmaa
+https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio
+#EXTINF:-1,Radio Sun
+http://st.downtime.fi/sun.aac
+#EXTINF:-1,Radio m2o
+https://streamcdnm6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master.m3u8
+#EXTINF:-1,Radio Patmos
+https://s3.yesstreaming.net:7011/radio

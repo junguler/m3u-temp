@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,iLike FM 107.3 - XHGTS
+http://216.251.65.78:8000/
+#EXTINF:-1,Radiónica
+http://52.7.57.94:8010/
+#EXTINF:-1,Radio 105 Network
+http://icecast.unitedradio.it/Radio105.mp3
+#EXTINF:-1,YXY 105.7
+http://158.69.200.1:8020/stream/
+#EXTINF:-1,psyradio - psytrance channel
+http://streamer.psyradio.org:8010/stream
+#EXTINF:-1,Radio Splash
+http://51.254.76.66:8002/stream.mp3
+#EXTINF:-1,abstrait
+http://abstrait.stream.laut.fm/abstrait?uuid=93f93f2b-29dd-8082-28e4-31a98221428c&t302=2026-10-17_23-27-03
+#EXTINF:-1,Radio L'Olgiata
+http://195.201.166.244:8071/stream
+#EXTINF:-1,RadIQ
+http://129.152.8.201:8000/aac
+#EXTINF:-1,Ultra Dark Radio
+http://ultradarkradio.stream.laut.fm/ultradarkradio?pl=m3u&ampt302=2023-04-14_16-51-33&ampuuid=a3e8d1b0-e828-4feb-919c-66781b0636cd
+#EXTINF:-1,RauteMusik - Club
+https://rautemusik.stream48.radiohost.de/club?ref=streema&upd-meta&upd-scheme=https&_art=dD0xNzkyMjc0NTI2JmQ9ODcyYjM5Mjk3YzRlZmUxYjAyZmQ
+#EXTINF:-1,Dance.FM
+https://streams.dancefm.net/mp3
+#EXTINF:-1,ItaloDance Radio
+http://radio.italiandancenetwork.com:8000/stream.mp3
+#EXTINF:-1,Power FM - Dance FM
+http://65.60.1.98:80/nexusdance.mp3
+#EXTINF:-1,Hitradio Polska
+http://51.255.8.139:9090/stream
+#EXTINF:-1,Atlântida FM Blumenau
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1,Radio California
+http://stream9.xdevel.com/audio0s976541-1299/stream/icecast.audio
+#EXTINF:-1,Rádio Atlântida FM (Pelotas)
+http://232747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_pel.sdp/playlist.m3u8
+#EXTINF:-1,ReggaeWorldCrew Radio
+http://66.70.249.70:5315/stream
+#EXTINF:-1,Cool D Radio Electronica
+http://209.126.119.28:8032/live/

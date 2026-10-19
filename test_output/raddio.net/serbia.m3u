@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,OK Radio
+http://live.okradio.net:8054/
+#EXTINF:-1,Play Radio
+http://stream.playradio.rs:8001/play.aac
+#EXTINF:-1,Antena Radio
+http://www.antenaradio.rs:4560/index.html/
+#EXTINF:-1,Radio Beograd 1
+https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
+#EXTINF:-1,Радио Београд 202
+https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8
+#EXTINF:-1,Radio Stari grad - RSG
+http://stream.rsg.rs:8043/
+#EXTINF:-1,Radio Llapi (Podujevë)
+http://radio.1dhe1.com:8555/
+#EXTINF:-1,Radio Studio B
+http://radio.studiob.rs:8004/
+#EXTINF:-1,Radio Dzenarika
+http://stream.dzenarika.net:8000/stream
+#EXTINF:-1,Slovo Ljubve
+http://160.153.245.85:8000/stream/1/
+#EXTINF:-1,Resavski radio (Despotovac)
+http://78.129.199.49:80/
+#EXTINF:-1,IFM Radio Topola
+http://91.228.254.72:8000/
+#EXTINF:-1,iFM Narodni Radio
+http://91.228.254.72:7000/
+#EXTINF:-1,Radio Gracanica
+http://188.40.95.74:8012/
+#EXTINF:-1,Radio 012
+http://144.76.219.22:8762/
+#EXTINF:-1,Radio Song
+http://213.239.205.210:8148/index.html/

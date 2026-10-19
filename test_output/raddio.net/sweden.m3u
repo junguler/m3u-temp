@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,NRJ Sverige
+https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3
+#EXTINF:-1,Mix Megapol
+http://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp
+#EXTINF:-1,Rockklassiker
+http://edge-bauerse-03-gos2.sharp-stream.com/rockklassiker_instream_se_mp3?
+#EXTINF:-1,Mix Megapol Göteborg
+http://edge-bauerse-05-gos2.sharp-stream.com/mixmegapolgbg_instream_se_mp3?
+#EXTINF:-1,Guldkanalen 60-tal
+http://stream.dbmedia.se/gk60tal96
+#EXTINF:-1,Guldkanalen 80-tal
+http://stream.dbmedia.se/gk80tal96
+#EXTINF:-1,Guldkanalen
+http://stream.dbmedia.se/gk96
+#EXTINF:-1,Guldkanalen 70-tal
+http://stream.dbmedia.se/gk70tal96
+#EXTINF:-1,P2
+https://edge1.sr.se/p2-mp3-96
+#EXTINF:-1,Dansbandskanalen
+http://stream.dbmedia.se/dbk96
+#EXTINF:-1,Radio Rivendell
+https://play.radiorivendell.com/radio/8000/radio.mp3
+#EXTINF:-1,Trucknet Radio
+http://stream.ueteknik.se:8000/trucknetradio
+#EXTINF:-1,Radio Gbg Narodna
+http://62.210.188.38:8050/relay2
+#EXTINF:-1,Radio Gbg
+http://62.210.188.38:8050/relay
+#EXTINF:-1,Radio Haninge Direkt
+http://213.115.49.175:1157/
+#EXTINF:-1,Radio Gbg Sevdah
+http://62.210.188.38:8050/relay4
+#EXTINF:-1,Radio Gbg Laganini
+http://62.210.188.38:8050/relay3

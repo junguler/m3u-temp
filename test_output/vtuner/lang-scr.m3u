@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1,Gradski Radio 97 Virovitica
+http://85.17.172.242:8040/live.mp3
+mms://wms.iskon.hr/Gradski%20radio%20Osijek
+#EXTINF:-1,Radio Dalmacija
+http://5.9.210.22:8000/
+#EXTINF:-1,Radio Marija Bistrica
+http://178.218.163.171:8024/stream
+#EXTINF:-1,Radio Ogulin 96.6 FM
+http://144.76.172.23:8002/
+#EXTINF:-1,Radio Op Top
+http://213.239.205.210:8112/stream
+#EXTINF:-1,Radio Samobor
+http://185.150.235.162:80/

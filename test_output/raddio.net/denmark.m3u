@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,ANR
+http://stream.anr.dk:80/anr
+#EXTINF:-1,Retro Radio
+http://stream128.retro-radio.dk/retro
+#EXTINF:-1,Radio ABC
+https://radioserver.dk/abc
+#EXTINF:-1,Radio go!FM
+https://radioserver.dk/gofm
+#EXTINF:-1,Radio Alfa (Østjylland)
+https://radioserver.dk/alfa
+#EXTINF:-1,Rockkanalen
+http://stream.kanalplus.fm/kp96
+#EXTINF:-1,PartyFM
+http://stream1.partyfm.dk/Tunein64
+#EXTINF:-1,Radio Skive
+https://radioserver.dk/skive
+#EXTINF:-1,Radio Silkeborg
+https://radioserver.dk/silkeborg
+#EXTINF:-1,Retro-Radio Millennium
+http://tx-2.retro-radio.dk/TX-2
+#EXTINF:-1,Radio SOLO
+https://radioserver.dk/solo
+#EXTINF:-1,Retro radio jul
+http://isstream.kanalplus.fm/TX-1
+#EXTINF:-1,902 FM Det nye Radio Ballerup
+http://stream.wlmm.dk/902fmmp3
+#EXTINF:-1,Skaga FM
+http://media.wlmm.dk:80/skagafm
+#EXTINF:-1,Globus Guld Jul
+http://stream.wlmm.dk/jul
+#EXTINF:-1,Uniradioen
+http://uniradio.out.airtime.pro:8000/uniradio_a
+#EXTINF:-1,Classic Rock
+http://stream.wlmm.dk/classicrockarhmp3
+#EXTINF:-1,Radio Odsherred
+http://87.104.40.139:88/broadwave.mp3?src=1&rate=1
+#EXTINF:-1,Radioti
+http://195.215.168.146:9200/live
+#EXTINF:-1,Radio Boost
+http://149.202.22.75:8066/
+#EXTINF:-1,Radio Kultur
+http://198.7.62.157:8278/
+#EXTINF:-1,Thozhafm
+http://192.95.18.39:5352/

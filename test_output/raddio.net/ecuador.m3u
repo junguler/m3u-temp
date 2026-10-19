@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Radio Santa Maria
+http://192.95.16.140:8020/stream/
+#EXTINF:-1,Radio NEXO
+http://192.99.41.102:5064/stream.mp3
+#EXTINF:-1,Jp Radio La Troncal
+http://45.71.3.20:9980/stream.nsv&amptype=mp3
+#EXTINF:-1,EVAFM
+http://88.99.185.157/radio/8000/evafm

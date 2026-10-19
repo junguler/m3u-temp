@@ -23,6 +23,13 @@
 //   MAX_REDIRECTS=3
 //   PROGRESS_INTERVAL=30000   (milliseconds between progress reports)
 //
+// Runtime limit (hard-coded for GitHub Actions 6 h job limit):
+//
+//   MAX_RUNTIME_MS = 5 h 45 m
+//   After this duration the script stops accepting new link checks.
+//   Fully-checked playlists are removed from the input folder so a
+//   subsequent run can resume with only the remaining files.
+//
 // Example:
 //
 //   CONCURRENCY=150 LINK_TIMEOUT=8000 node m3u-checker.js
@@ -35,9 +42,17 @@ const linkTimeout = Number(process.env.LINK_TIMEOUT || 8000);
 const maxRedirects = Number(process.env.MAX_REDIRECTS || 3);
 const progressInterval = Number(process.env.PROGRESS_INTERVAL || 60000);
 
+// Hard runtime limit for GitHub Actions (6 h max). Stop accepting new work
+// after 5 h 45 m so the job can finish cleanly and leave remaining files
+// for a subsequent run.
+const MAX_RUNTIME_MS = (5 * 60 + 45) * 60 * 1000; // 5 h 45 m
+
 const USER_AGENT = 'm3u-checker/1.0';
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+/** Set to true when MAX_RUNTIME_MS is reached; workers stop taking new links. */
+let timeUp = false;
 
 /**
  * Global statistics used by the periodic progress report.
@@ -458,6 +473,11 @@ async function processLinks(
 
   async function worker() {
     while (true) {
+      // Stop accepting new work once the runtime limit is reached.
+      if (timeUp) {
+        return;
+      }
+
       const currentIndex = nextIndex++;
 
       if (currentIndex >= linksToProcess.length) {
@@ -467,6 +487,11 @@ async function processLinks(
       const item = linksToProcess[currentIndex];
 
       const result = await limiter(async () => {
+        // Double-check after waiting for a concurrency slot.
+        if (timeUp) {
+          return null;
+        }
+
         stats.inFlight++;
 
         try {
@@ -475,6 +500,11 @@ async function processLinks(
           stats.inFlight--;
         }
       });
+
+      // A null result means we aborted due to the time limit.
+      if (result === null) {
+        continue;
+      }
 
       recordResult(result?.status, fileName);
 
@@ -628,6 +658,16 @@ async function processFile(
   quiet,
   limiter,
 ) {
+  // Bail early if the global time limit was already hit before this file started.
+  if (timeUp) {
+    if (!quiet) {
+      console.log(
+        `[${fileName}] Skipped (runtime limit already reached).`,
+      );
+    }
+    return;
+  }
+
   const fullPath = path.join(inputDir, fileName);
   const originalM3uContent = await fs.readFile(fullPath, 'utf8');
 
@@ -646,6 +686,24 @@ async function processFile(
     console.log(
       `[${fileName}] Found ${linksToProcess.length} stream links.`,
     );
+  }
+
+  /**
+   * Removes the source playlist from the input folder once it has been
+   * fully processed. This lets subsequent runs resume with only the
+   * remaining unchecked files.
+   */
+  async function removeFromInput() {
+    try {
+      await fs.unlink(fullPath);
+      if (!quiet) {
+        console.log(`[${fileName}] Removed from input folder.`);
+      }
+    } catch (err) {
+      console.warn(
+        `[${fileName}] Could not remove input file: ${err.message}`,
+      );
+    }
   }
 
   if (linksToProcess.length === 0) {
@@ -679,6 +737,8 @@ async function processFile(
       console.log(`${fileName} checked - 0/0 streams were alive`);
     }
 
+    // Fully processed (nothing to check) → remove from input.
+    await removeFromInput();
     return;
   }
 
@@ -688,6 +748,29 @@ async function processFile(
     quiet,
     limiter,
   );
+
+  // Decide whether this file finished completely.
+  const fileInfo = stats.activeFiles.get(fileName);
+  const fullyChecked =
+    fileInfo && fileInfo.checked === fileInfo.total;
+
+  // If the time limit interrupted this file, keep it in the input folder
+  // so a later run can finish the remaining links.
+  if (timeUp && !fullyChecked) {
+    if (!quiet) {
+      console.log(
+        `[${fileName}] Incomplete due to runtime limit ` +
+          `(${fileInfo ? fileInfo.checked : 0}/${linksToProcess.length} checked). ` +
+          `Keeping in input folder.`,
+      );
+    } else {
+      console.log(
+        `${fileName} incomplete - ` +
+          `${fileInfo ? fileInfo.checked : 0}/${linksToProcess.length} checked (time limit)`,
+      );
+    }
+    return;
+  }
 
   const validStreamCount = validLinks.size;
 
@@ -708,6 +791,8 @@ async function processFile(
       console.log(`[${fileName}] No valid streams. Output skipped.`);
     }
 
+    // Fully checked and nothing usable → still remove from input.
+    await removeFromInput();
     return;
   }
 
@@ -723,6 +808,7 @@ async function processFile(
       );
     }
 
+    await removeFromInput();
     return;
   }
 
@@ -738,6 +824,10 @@ async function processFile(
   if (!quiet) {
     console.log(`[${fileName}] Saved to "${outputPath}"`);
   }
+
+  // Fully processed and written → remove from input so the next run
+  // only sees remaining unchecked playlists.
+  await removeFromInput();
 }
 
 /**
@@ -810,7 +900,8 @@ async function main(inputDir, outputDir, quiet = false) {
   console.log(
     `Found ${m3uFiles.length} M3U files (recursive). ` +
       `Global concurrency: ${concurrencyLimit}. ` +
-      `Timeout: ${linkTimeout}ms.`,
+      `Timeout: ${linkTimeout}ms. ` +
+      `Max runtime: ${formatDuration(MAX_RUNTIME_MS)}.`,
   );
 
   stats.totalFiles = m3uFiles.length;
@@ -820,6 +911,17 @@ async function main(inputDir, outputDir, quiet = false) {
   const progressTimer = setInterval(() => {
     printProgress(false);
   }, progressInterval);
+
+  // Fire once when the hard runtime limit is reached. Existing in-flight
+  // requests are allowed to finish; workers simply stop taking new work.
+  const timeUpTimer = setTimeout(() => {
+    timeUp = true;
+    console.log(
+      `\n[TIME LIMIT] Maximum runtime of ${formatDuration(MAX_RUNTIME_MS)} reached. ` +
+        `Stopping new link checks. Fully checked playlists have been removed from input.`,
+    );
+    printProgress(false);
+  }, MAX_RUNTIME_MS);
 
   // One global limiter is shared by every file.
   const limiter = createLimiter(concurrencyLimit);
@@ -842,11 +944,16 @@ async function main(inputDir, outputDir, quiet = false) {
     );
   } finally {
     clearInterval(progressTimer);
+    clearTimeout(timeUpTimer);
   }
 
   printProgress(true);
 
-  if (!quiet) {
+  if (timeUp) {
+    console.log(
+      '\n--- Runtime limit reached. Remaining unchecked playlists are still in the input folder ---',
+    );
+  } else if (!quiet) {
     console.log('\n--- All M3U files processed ---');
   }
 }
@@ -873,6 +980,7 @@ if (!quiet) {
   console.log(`Concurrency: ${concurrencyLimit}`);
   console.log(`Timeout: ${linkTimeout}ms`);
   console.log(`Progress interval: ${progressInterval}ms`);
+  console.log(`Max runtime: ${formatDuration(MAX_RUNTIME_MS)}`);
 }
 
 main(inputDirectory, outputDirectory, quiet).catch((error) => {

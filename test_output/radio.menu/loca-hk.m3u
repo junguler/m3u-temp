@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,RTHK Radio 6 央廣香港之聲
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8?n=50acc36b0287f33e37f0
+#EXTINF:-1,RTHK Radio 8 央廣粵港澳大灣區之聲
+https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8?n=cdfa9953155dadeb6537
+#EXTINF:-1,RTHK Radio-3
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8?n=e44e929663be1bdff81b
+#EXTINF:-1,夜空傳情
+http://procyon.shoutca.st:8492/listen.mp3?n=10c7962af8523a3fd323
+#EXTINF:-1,熱血時報
+https://ptmirror3.passiontimes.hk/hls3/stream.m3u8?n=69f315d9308df7c97f71
+#EXTINF:-1,香港普通话台
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8?n=90e1159db33862e946de
+#EXTINF:-1,面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?n=e0593721364f8523b4ef

@@ -23,9 +23,9 @@
 //   MAX_REDIRECTS=3
 //   PROGRESS_INTERVAL=30000   (milliseconds between progress reports)
 //
-// Runtime limit (hard-coded for GitHub Actions 6 h job limit):
+// Runtime limit (hard-coded for GitHub Actions 6h job limit):
 //
-//   MAX_RUNTIME_MS = 5 h 45 m
+//   MAX_RUNTIME_MS = 5h 45m
 //   After this duration the script stops accepting new link checks.
 //   Fully-checked playlists are removed from the input folder so a
 //   subsequent run can resume with only the remaining files.
@@ -33,23 +33,29 @@
 // Example:
 //
 //   CONCURRENCY=150 LINK_TIMEOUT=8000 node m3u-checker.js
+
 const fs = require('fs/promises');
 const path = require('path');
+
 const concurrencyLimit = Number(process.env.CONCURRENCY || 50);
 const linkTimeout = Number(process.env.LINK_TIMEOUT || 8000);
 const maxRedirects = Number(process.env.MAX_REDIRECTS || 3);
 const progressInterval = Number(process.env.PROGRESS_INTERVAL || 60000);
-// Hard runtime limit for GitHub Actions (6 h max). Stop accepting new work
-// after 5 h 45 m so the job can finish cleanly and leave remaining files
+
+// Hard runtime limit for GitHub Actions (6h max). Stop accepting new work
+// after 5h 45m so the job can finish cleanly and leave remaining files
 // for a subsequent run.
-const MAX_RUNTIME_MS = (5 * 60 + 45) * 60 * 1000; // 5 h 45 m
+const MAX_RUNTIME_MS = (5 * 60 + 45) * 60 * 1000; // 5h 45m
+
 const USER_AGENT = 'm3u-checker/1.0';
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 /** Set to true when MAX_RUNTIME_MS is reached; workers stop taking new links. */
 let timeUp = false;
+
 /**
-Global statistics used by the periodic progress report.
-*/
+ * Global statistics used by the periodic progress report.
+ */
 const stats = {
   startTime: Date.now(),
   totalFiles: 0,
@@ -65,32 +71,31 @@ const stats = {
   // fileName -> { total, checked, alive }
   activeFiles: new Map(),
 };
+
 /**
-Formats milliseconds as e.g. "1h 02m 05s", "3m 07s" or "12s".
-@param {number} ms
-@returns {string}
-*/
+ * Formats milliseconds as e.g. "1h 02m 05s", "3m 07s" or "12s".
+ * @param {number} ms
+ * @returns {string}
+ */
 function formatDuration(ms) {
   const totalSeconds = Math.max(0, Math.round(ms / 1000));
   const hours = Math.floor(totalSeconds / 3600);
   const minutes = Math.floor((totalSeconds % 3600) / 60);
   const seconds = totalSeconds % 60;
+  
   if (hours > 0) {
-    return (
-      `${hours}h ` +
-      `${String(minutes).padStart(2, '0')}m ` +
-      `${String(seconds).padStart(2, '0')}s`
-    );
+    return `${hours}h ${String(minutes).padStart(2, '0')}m ${String(seconds).padStart(2, '0')}s`;
   }
   if (minutes > 0) {
     return `${minutes}m ${String(seconds).padStart(2, '0')}s`;
   }
   return `${seconds}s`;
 }
+
 /**
-Prints one progress report.
-@param {boolean} final  true for the closing summary
-*/
+ * Prints one progress report.
+ * @param {boolean} final - true for the closing summary
+ */
 function printProgress(final = false) {
   const elapsedMs = Date.now() - stats.startTime;
   const elapsedSeconds = elapsedMs / 1000;
@@ -99,6 +104,7 @@ function printProgress(final = false) {
       ? ((stats.checked / stats.totalLinks) * 100).toFixed(1)
       : '0.0';
   const rate = elapsedSeconds > 0 ? stats.checked / elapsedSeconds : 0;
+
   // The ETA is only meaningful once every file has been parsed,
   // because only then is the total link count final.
   let eta = 'estimating...';
@@ -106,19 +112,16 @@ function printProgress(final = false) {
     const remaining = stats.totalLinks - stats.checked;
     eta = remaining > 0 ? formatDuration((remaining / rate) * 1000) : '0s';
   }
+
   const label = final ? 'FINAL' : 'PROGRESS';
   const lines = [
     '',
     `[${label}] Elapsed: ${formatDuration(elapsedMs)}`,
-    `[${label}] Files: ${stats.filesDone}/${stats.totalFiles} done` +
-      `(${stats.filesParsed}/${stats.totalFiles} read)`,
-    `[${label}] Links: ${stats.checked}/${stats.totalLinks} checked` +
-      `(${percent}%), ${stats.inFlight} in flight`,
-    `[${label}] Results: ${stats.alive} alive,` +
-      `${stats.timedOut} timed out,` +
-      `${stats.invalid} invalid/unreachable,` +
-      `${stats.httpError} HTTP errors`,
+    `[${label}] Files: ${stats.filesDone}/${stats.totalFiles} done (${stats.filesParsed}/${stats.totalFiles} read)`,
+    `[${label}] Links: ${stats.checked}/${stats.totalLinks} checked (${percent}%), ${stats.inFlight} in flight`,
+    `[${label}] Results: ${stats.alive} alive, ${stats.timedOut} timed out, ${stats.invalid} invalid/unreachable, ${stats.httpError} HTTP errors`,
   ];
+
   if (!final) {
     lines.push(
       `[${label}] Speed: ${rate.toFixed(1)} links/s, ETA: ${eta}`,
@@ -128,13 +131,11 @@ function printProgress(final = false) {
         .sort((a, b) => b[1].total - b[1].checked - (a[1].total - a[1].checked))
         .slice(0, 5);
       lines.push(
-        `[${label}] Busiest unfinished files ` +
-          `(${stats.activeFiles.size} in progress):`,
+        `[${label}] Busiest unfinished files (${stats.activeFiles.size} in progress):`,
       );
       for (const [name, info] of active) {
         lines.push(
-          `[${label}]   ${name}: ${info.checked}/${info.total} checked, ` +
-            `${info.alive} alive`,
+          `[${label}] ${name}: ${info.checked}/${info.total} checked, ${info.alive} alive`,
         );
       }
     }
@@ -145,17 +146,19 @@ function printProgress(final = false) {
   }
   console.log(lines.join('\n'));
 }
+
 /**
-Records the result of one checked link in the global statistics.
-@param {number|string} status
-@param {string} fileName
-*/
+ * Records the result of one checked link in the global statistics.
+ * @param {number|string} status
+ * @param {string} fileName
+ */
 function recordResult(status, fileName) {
   stats.checked++;
   const fileInfo = stats.activeFiles.get(fileName);
   if (fileInfo) {
     fileInfo.checked++;
   }
+
   if (typeof status === 'number' && status >= 200 && status < 300) {
     stats.alive++;
     if (fileInfo) {
@@ -169,16 +172,18 @@ function recordResult(status, fileName) {
     stats.httpError++;
   }
 }
+
 /**
-Creates a global concurrency limiter.
-This limiter is shared across all files, so processing multiple files
-concurrently cannot create more than concurrencyLimit HTTP requests.
-@param {number} limit
-@returns {(task: () => Promise<any>) => Promise<any>}
-*/
+ * Creates a global concurrency limiter.
+ * This limiter is shared across all files, so processing multiple files
+ * concurrently cannot create more than concurrencyLimit HTTP requests.
+ * @param {number} limit
+ * @returns {(task: () => Promise<any>) => Promise<any>}
+ */
 function createLimiter(limit) {
   const queue = [];
   let active = 0;
+
   function runNext() {
     while (active < limit && queue.length > 0) {
       const { task, resolve, reject } = queue.shift();
@@ -192,6 +197,7 @@ function createLimiter(limit) {
         });
     }
   }
+
   return function limitTask(task) {
     return new Promise((resolve, reject) => {
       queue.push({ task, resolve, reject });
@@ -199,23 +205,25 @@ function createLimiter(limit) {
     });
   };
 }
+
 /**
-Parses M3U content and extracts stream links.
-The URL does not need to be immediately after #EXTINF.
-For example, #EXTGRP lines between the title and URL are supported.
-@param {string} m3uContent
-@returns {Array<{
-  title: string,
-  url: string,
-  originalIndex: number,
-  originalTitleLineIndex: number
-}>}
-*/
+ * Parses M3U content and extracts stream links.
+ * The URL does not need to be immediately after #EXTINF.
+ * For example, #EXTGRP lines between the title and URL are supported.
+ * @param {string} m3uContent
+ * @returns {Array<{
+ *   title: string,
+ *   url: string,
+ *   originalIndex: number,
+ *   originalTitleLineIndex: number
+ * }>}
+ */
 function parseM3UContent(m3uContent) {
   const originalLines = m3uContent.split(/\r?\n/);
   const linksToProcess = [];
   let currentTitle = '';
   let currentTitleLineIndex = -1;
+
   for (let i = 0; i < originalLines.length; i++) {
     const line = originalLines[i].trim();
     if (line.startsWith('#EXTINF')) {
@@ -236,17 +244,19 @@ function parseM3UContent(m3uContent) {
   }
   return linksToProcess;
 }
+
 /**
-Performs one HTTP request with a timeout.
-@param {string} url
-@param {object} options
-@returns {Promise<Response>}
-*/
+ * Performs one HTTP request with a timeout.
+ * @param {string} url
+ * @param {object} options
+ * @returns {Promise<Response>}
+ */
 async function fetchWithTimeout(url, options = {}) {
   const controller = new AbortController();
   const timeoutId = setTimeout(() => {
     controller.abort();
   }, linkTimeout);
+
   try {
     return await fetch(url, {
       ...options,
@@ -262,17 +272,19 @@ async function fetchWithTimeout(url, options = {}) {
     clearTimeout(timeoutId);
   }
 }
+
 /**
-Checks a URL with HEAD first.
-Some streaming servers reject HEAD with 405 or 501 even though GET works,
-so those responses fall back to a small ranged GET request.
-@param {string} url
-@returns {Promise<Response>}
-*/
+ * Checks a URL with HEAD first.
+ * Some streaming servers reject HEAD with 405 or 501 even though GET works,
+ * so those responses fall back to a small ranged GET request.
+ * @param {string} url
+ * @returns {Promise<Response>}
+ */
 async function requestUrl(url) {
   let response = await fetchWithTimeout(url, {
     method: 'HEAD',
   });
+
   if (response.status === 405 || response.status === 501) {
     response = await fetchWithTimeout(url, {
       method: 'GET',
@@ -289,23 +301,24 @@ async function requestUrl(url) {
   }
   return response;
 }
-/**
-Checks a single stream link, following redirects.
-@param {{
-  title: string,
-  url: string,
-  originalIndex: number,
-  originalTitleLineIndex: number
-}} item
-@param {string} fileName
-@param {boolean} quiet
-@param {number} redirectCount
-@returns {Promise<{
-  url: string,
-  status: number|string,
-  finalUrl?: string
-}>}
-*/
+
+/** 
+ * Checks a single stream link, following redirects.
+ * @param {{
+ *   title: string,
+ *   url: string,
+ *   originalIndex: number,
+ *   originalTitleLineIndex: number
+ * }} item
+ * @param {string} fileName
+ * @param {boolean} quiet
+ * @param {number} redirectCount
+ * @returns {Promise<{
+ *   url: string,
+ *   status: number|string,
+ *   finalUrl?: string
+ * }>}
+ */
 async function checkSingleLink(
   item,
   fileName,
@@ -325,9 +338,7 @@ async function checkSingleLink(
       const absoluteRedirectUrl = new URL(redirectUrl, item.url).href;
       if (!quiet) {
         console.log(
-          `[${fileName}] Redirect ${response.status}:` +
-            `${item.url} -> ${absoluteRedirectUrl}` +
-            `(attempt ${redirectCount + 1}/${maxRedirects})`,
+          `[${fileName}] Redirect ${response.status}: ${item.url} -> ${absoluteRedirectUrl} (attempt ${redirectCount + 1}/${maxRedirects})`,
         );
       }
       return checkSingleLink(
@@ -386,7 +397,7 @@ async function checkSingleLink(
   } finally {
     // 🔥 CRITICAL FIX FOR NODE.JS FETCH 🔥
     // We must cancel the response body to release the TCP socket back to the OS.
-    // If we don't, the open sockets will keep the Node.js event loop alive 
+    // If we don't, the open sockets will keep the Node.js event loop alive
     // and the GitHub Action will hang forever after finishing its work.
     if (response?.body) {
       try {
@@ -397,14 +408,15 @@ async function checkSingleLink(
     }
   }
 }
+
 /**
-Processes links using the shared global limiter.
-@param {Array} linksToProcess
-@param {string} fileName
-@param {boolean} quiet
-@param {(task: () => Promise<any>) => Promise<any>} limiter
-@returns {Promise<Map<number, {titleLine: string, urlLine: string}>>}
-*/
+ * Processes links using the shared global limiter.
+ * @param {Array} linksToProcess
+ * @param {string} fileName
+ * @param {boolean} quiet
+ * @param {(task: () => Promise<any>) => Promise<any>} limiter
+ * @returns {Promise<Map<number, {titleLine: string, urlLine: string}>>}
+ */
 async function processLinks(
   linksToProcess,
   fileName,
@@ -413,6 +425,7 @@ async function processLinks(
 ) {
   const validLinks = new Map();
   let nextIndex = 0;
+
   async function worker() {
     while (true) {
       // Stop accepting new work once the runtime limit is reached.
@@ -424,6 +437,7 @@ async function processLinks(
         return;
       }
       const item = linksToProcess[currentIndex];
+
       const result = await limiter(async () => {
         // Double-check after waiting for a concurrency slot.
         if (timeUp) {
@@ -436,11 +450,14 @@ async function processLinks(
           stats.inFlight--;
         }
       });
+
       // A null result means we aborted due to the time limit.
       if (result === null) {
         continue;
       }
+
       recordResult(result?.status, fileName);
+
       if (
         result &&
         typeof result.status === 'number' &&
@@ -454,6 +471,7 @@ async function processLinks(
       }
     }
   }
+
   // One worker per available global slot, capped by this file's link count.
   const workerCount = Math.min(
     concurrencyLimit,
@@ -464,13 +482,14 @@ async function processLinks(
   );
   return validLinks;
 }
+
 /**
-Finds the next HTTP/HTTPS URL after an #EXTINF line.
-It stops if another #EXTINF is found first.
-@param {string[]} lines
-@param {number} titleIndex
-@returns {number}
-*/
+ * Finds the next HTTP/HTTPS URL after an #EXTINF line.
+ * It stops if another #EXTINF is found first.
+ * @param {string[]} lines
+ * @param {number} titleIndex
+ * @returns {number}
+ */
 function findNextUrlIndex(lines, titleIndex) {
   for (let i = titleIndex + 1; i < lines.length; i++) {
     const line = lines[i].trim();
@@ -483,20 +502,23 @@ function findNextUrlIndex(lines, titleIndex) {
   }
   return -1;
 }
+
 /**
-Generates the cleaned M3U playlist.
-Validated stream entries are retained. Invalid stream entries are removed.
-Non-stream lines are preserved where practical.
-@param {string} originalM3uContent
-@param {Map<number, {titleLine: string, urlLine: string}>} validLinks
-@returns {string}
-*/
+ * Generates the cleaned M3U playlist.
+ * Validated stream entries are retained. Invalid stream entries are removed.
+ * Non-stream lines are preserved where practical.
+ * @param {string} originalM3uContent
+ * @param {Map<number, {titleLine: string, urlLine: string}>} validLinks
+ * @returns {string}
+ */
 function generateOutputM3U(originalM3uContent, validLinks) {
   const originalLines = originalM3uContent.split(/\r?\n/);
   const outputLines = ['#EXTM3U'];
+
   for (let i = 0; i < originalLines.length; i++) {
     const rawLine = originalLines[i];
     const line = rawLine.trim();
+
     if (line.length === 0) {
       continue;
     }
@@ -543,17 +565,18 @@ function generateOutputM3U(originalM3uContent, validLinks) {
   }
   return `${outputLines.join('\n')}\n`;
 }
+
 /**
-Processes one M3U file.
-fileName is the path relative to inputDir (e.g. "rock/90s/a.m3u").
-The result is written to the same relative path inside outputDir,
-creating sub-folders as needed.
-@param {string} inputDir
-@param {string} outputDir
-@param {string} fileName  relative path, "/" separated
-@param {boolean} quiet
-@param {(task: () => Promise<any>) => Promise<any>} limiter
-*/
+ * Processes one M3U file.
+ * fileName is the path relative to inputDir (e.g. "rock/90s/a.m3u").
+ * The result is written to the same relative path inside outputDir,
+ * creating sub-folders as needed.
+ * @param {string} inputDir
+ * @param {string} outputDir
+ * @param {string} fileName - relative path, "/" separated
+ * @param {boolean} quiet
+ * @param {(task: () => Promise<any>) => Promise<any>} limiter
+ */
 async function processFile(
   inputDir,
   outputDir,
@@ -570,9 +593,11 @@ async function processFile(
     }
     return;
   }
+
   const fullPath = path.join(inputDir, fileName);
   const originalM3uContent = await fs.readFile(fullPath, 'utf8');
   const linksToProcess = parseM3UContent(originalM3uContent);
+
   // Register this file with the progress reporter.
   stats.filesParsed++;
   stats.totalLinks += linksToProcess.length;
@@ -581,16 +606,18 @@ async function processFile(
     checked: 0,
     alive: 0,
   });
+
   if (!quiet) {
     console.log(
       `[${fileName}] Found ${linksToProcess.length} stream links.`,
     );
   }
+
   /**
-  Removes the source playlist from the input folder once it has been
-  fully processed. This lets subsequent runs resume with only the
-  remaining unchecked files.
-  */
+   * Removes the source playlist from the input folder once it has been
+   * fully processed. This lets subsequent runs resume with only the
+   * remaining unchecked files.
+   */
   async function removeFromInput() {
     try {
       await fs.unlink(fullPath);
@@ -603,6 +630,7 @@ async function processFile(
       );
     }
   }
+
   if (linksToProcess.length === 0) {
     const outputM3uContent = generateOutputM3U(
       originalM3uContent,
@@ -633,45 +661,45 @@ async function processFile(
     await removeFromInput();
     return;
   }
+
   const validLinks = await processLinks(
     linksToProcess,
     fileName,
     quiet,
     limiter,
   );
+
   // Decide whether this file finished completely.
   const fileInfo = stats.activeFiles.get(fileName);
   const fullyChecked =
     fileInfo && fileInfo.checked === fileInfo.total;
+
   // If the time limit interrupted this file, keep it in the input folder
   // so a later run can finish the remaining links.
   if (timeUp && !fullyChecked) {
     if (!quiet) {
       console.log(
-        `[${fileName}] Incomplete due to runtime limit` +
-        `(${fileInfo ? fileInfo.checked : 0}/${linksToProcess.length} checked).` +
-        `Keeping in input folder.`,
+        `[${fileName}] Incomplete due to runtime limit (${fileInfo ? fileInfo.checked : 0}/${linksToProcess.length} checked). Keeping in input folder.`,
       );
     } else {
       console.log(
-        `${fileName} incomplete - ` +
-        `${fileInfo ? fileInfo.checked : 0}/${linksToProcess.length} checked (time limit)`,
+        `${fileName} incomplete - ${fileInfo ? fileInfo.checked : 0}/${linksToProcess.length} checked (time limit)`,
       );
     }
     return;
   }
+
   const validStreamCount = validLinks.size;
   if (quiet) {
     console.log(
-      `${fileName} checked - ` +
-      `${validStreamCount}/${linksToProcess.length} streams were alive`,
+      `${fileName} checked - ${validStreamCount}/${linksToProcess.length} streams were alive`,
     );
   } else {
     console.log(
-      `[${fileName}] Complete:` +
-      `${validStreamCount}/${linksToProcess.length} streams alive.`,
+      `[${fileName}] Complete: ${validStreamCount}/${linksToProcess.length} streams alive.`,
     );
   }
+
   if (validStreamCount === 0) {
     if (!quiet) {
       console.log(`[${fileName}] No valid streams. Output skipped.`);
@@ -680,10 +708,12 @@ async function processFile(
     await removeFromInput();
     return;
   }
+
   const outputM3UContent = generateOutputM3U(
     originalM3uContent,
     validLinks,
   );
+
   if (outputM3UContent.trim() === '#EXTM3U') {
     if (!quiet) {
       console.warn(
@@ -693,6 +723,7 @@ async function processFile(
     await removeFromInput();
     return;
   }
+
   const outputPath = path.join(outputDir, fileName);
   await fs.mkdir(path.dirname(outputPath), { recursive: true });
   await fs.writeFile(
@@ -700,27 +731,32 @@ async function processFile(
     outputM3UContent,
     'utf8',
   );
+
   if (!quiet) {
     console.log(`[${fileName}] Saved to "${outputPath}"`);
   }
+
   // Fully processed and written → remove from input so the next run
   // only sees remaining unchecked playlists.
   await removeFromInput();
 }
+
 /**
-Recursively collects every .m3u / .m3u8 file below rootDir.
-Returned paths are relative to rootDir and use "/" as separator,
-e.g. "rock/90s/a.m3u". Symlinked directories are not followed.
-@param {string} rootDir
-@param {string[]} skipDirs  directories that must not be scanned
-@returns {Promise<string[]>}
-*/
+ * Recursively collects every .m3u / .m3u8 file below rootDir.
+ * Returned paths are relative to rootDir and use "/" as separator,
+ * e.g. "rock/90s/a.m3u". Symlinked directories are not followed.
+ * @param {string} rootDir
+ * @param {string[]} skipDirs - directories that must not be scanned
+ * @returns {Promise<string[]>}
+ */
 async function collectM3UFiles(rootDir, skipDirs = []) {
   const results = [];
   const skip = new Set(skipDirs.map((dir) => path.resolve(dir)));
+
   async function walk(currentDir) {
     const entries = await fs.readdir(currentDir, { withFileTypes: true });
     entries.sort((a, b) => a.name.localeCompare(b.name));
+
     for (const entry of entries) {
       const fullPath = path.join(currentDir, entry.name);
       if (entry.isDirectory()) {
@@ -742,15 +778,17 @@ async function collectM3UFiles(rootDir, skipDirs = []) {
   await walk(rootDir);
   return results;
 }
+
 /**
-Main function.
-@param {string} inputDir
-@param {string} outputDir
-@param {boolean} quiet
-*/
+ * Main function.
+ * @param {string} inputDir
+ * @param {string} outputDir
+ * @param {boolean} quiet
+ */
 async function main(inputDir, outputDir, quiet = false) {
   await fs.mkdir(outputDir, { recursive: true });
   const m3uFiles = await collectM3UFiles(inputDir, [outputDir]);
+
   if (m3uFiles.length === 0) {
     if (!quiet) {
       console.log(
@@ -759,30 +797,36 @@ async function main(inputDir, outputDir, quiet = false) {
     }
     return;
   }
+
   console.log(
-    `Found ${m3uFiles.length} M3U files (recursive).` +
-    `Global concurrency: ${concurrencyLimit}.` +
-    `Timeout: ${linkTimeout}ms.` +
+    `Found ${m3uFiles.length} M3U files (recursive). ` +
+    `Global concurrency: ${concurrencyLimit}. ` +
+    `Timeout: ${linkTimeout}ms. ` +
     `Max runtime: ${formatDuration(MAX_RUNTIME_MS)}.`,
   );
+
   stats.totalFiles = m3uFiles.length;
   stats.startTime = Date.now();
+
   // Periodic progress report (printed even in --quiet mode).
   const progressTimer = setInterval(() => {
     printProgress(false);
   }, progressInterval);
+
   // Fire once when the hard runtime limit is reached. Existing in-flight
   // requests are allowed to finish; workers simply stop taking new work.
   const timeUpTimer = setTimeout(() => {
     timeUp = true;
     console.log(
-      `\n[TIME LIMIT] Maximum runtime of ${formatDuration(MAX_RUNTIME_MS)} reached.` +
+      `\n[TIME LIMIT] Maximum runtime of ${formatDuration(MAX_RUNTIME_MS)} reached. ` +
       `Stopping new link checks. Fully checked playlists have been removed from input.`,
     );
     printProgress(false);
   }, MAX_RUNTIME_MS);
+
   // One global limiter is shared by every file.
   const limiter = createLimiter(concurrencyLimit);
+
   try {
     // Process files concurrently while keeping total HTTP concurrency capped.
     await Promise.all(
@@ -803,7 +847,9 @@ async function main(inputDir, outputDir, quiet = false) {
     clearInterval(progressTimer);
     clearTimeout(timeUpTimer);
   }
+
   printProgress(true);
+
   if (timeUp) {
     console.log(
       '\n--- Runtime limit reached. Remaining unchecked playlists are still in the input folder ---',
@@ -812,6 +858,7 @@ async function main(inputDir, outputDir, quiet = false) {
     console.log('\n--- All M3U files processed ---');
   }
 }
+
 // Parse command-line arguments.
 let quiet = false;
 const filteredArgs = [];
@@ -822,8 +869,10 @@ for (const arg of process.argv.slice(2)) {
     filteredArgs.push(arg);
   }
 }
+
 const inputDirectory = filteredArgs[0] || 'm3u-files';
 const outputDirectory = filteredArgs[1] || 'm3u-checked';
+
 if (!quiet) {
   console.log('Starting M3U Link Checker...');
   console.log(`Input Directory: ${inputDirectory}`);
@@ -833,6 +882,7 @@ if (!quiet) {
   console.log(`Progress interval: ${progressInterval}ms`);
   console.log(`Max runtime: ${formatDuration(MAX_RUNTIME_MS)}`);
 }
+
 main(inputDirectory, outputDirectory, quiet).catch((error) => {
   console.error('An error occurred:', error);
   process.exitCode = 1;

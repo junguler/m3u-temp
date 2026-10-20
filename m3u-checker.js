@@ -77,8 +77,8 @@ function formatDuration(ms) {
   const seconds = totalSeconds % 60;
   if (hours > 0) {
     return (
-      `${hours}h` +
-      `${String(minutes).padStart(2, '0')}m` +
+      `${hours}h ` +
+      `${String(minutes).padStart(2, '0')}m ` +
       `${String(seconds).padStart(2, '0')}s`
     );
   }
@@ -654,7 +654,7 @@ async function processFile(
       );
     } else {
       console.log(
-        `${fileName} incomplete -` +
+        `${fileName} incomplete - ` +
         `${fileInfo ? fileInfo.checked : 0}/${linksToProcess.length} checked (time limit)`,
       );
     }
@@ -663,7 +663,7 @@ async function processFile(
   const validStreamCount = validLinks.size;
   if (quiet) {
     console.log(
-      `${fileName} checked -` +
+      `${fileName} checked - ` +
       `${validStreamCount}/${linksToProcess.length} streams were alive`,
     );
   } else {

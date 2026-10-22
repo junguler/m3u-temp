@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,ROCK RADIO SI
+http://stream.radiocenter.si:9034/
+#EXTINF:-1,Radio Center
+http://stream.radiocenter.si:80/
+#EXTINF:-1,Radio Ekspres
+http://stream2.radioekspres.si:8016/
+#EXTINF:-1,Radio Rogla
+http://193.105.67.24:8010/
+#EXTINF:-1,Radio MARS
+http://frekvenca.eu:8000/radiomars.mp3

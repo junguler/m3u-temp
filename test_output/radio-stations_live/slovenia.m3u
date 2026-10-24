@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/26346.v4.png",Radio 24 SI
+http://stream2.radiocenter.si:8064/type=mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/25191.v3.png",Radio Mister Deejay
+http://stream.mister-deejay.com:9008/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/25246.v1.png",Radio Prlek
+http://86.61.68.81:8000/stream.nsv&amptype=mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/26841.v10.png",Radio Rogla
+http://193.105.67.24:8010/

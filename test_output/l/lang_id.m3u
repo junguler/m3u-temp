@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,RDI - Radio Dangdut Indonesia 97.1 FM
+http://202.147.199.99:8000/
+#EXTINF:-1,Global FM Jakarta
+http://202.147.199.98/stream.mp3
+#EXTINF:-1,Sindo Radio 104.6 FM
+http://202.147.199.101:8000/
+#EXTINF:-1,Metrum Radio
+http://45.64.97.82:8400/
+#EXTINF:-1,88.0  Mustang FM Jakarta
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8?n=ad8f74d72c989119330d
+#EXTINF:-1,Gen 98.7 FM Jakarta
+http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8?n=0eb4b3b0c1c1d7ac28ca
+#EXTINF:-1,Kis 95.1 FM
+http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist_w1678859544.m3u8?n=dd0e6d43e4354e3e679a
+#EXTINF:-1,Kis 95.1 FM Jakarta
+http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8?n=9427cf239172c6234d0c
+#EXTINF:-1,Most Radio 105.8 FM
+http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w118038145.m3u8?n=ff3808e2e5884b67192b
+#EXTINF:-1,RDI 97.1 FM Jakarta
+http://202.147.199.99:8000/stream?n=7177ff2b694bea549c86

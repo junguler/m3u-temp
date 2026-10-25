@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,Arirang Radio
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1,부산극동방송FM 93.3 (FEBC Busan HLQQ-FM)
+http://mlive2.febc.net:1935/live/bsfebc/playlist.m3u8
+#EXTINF:-1,JIBS 제주국제자유도시방송
+http://123.140.197.22/stream/2/play.m3u8
+#EXTINF:-1,KFN-FM 국방홍보원
+http://mediaworks.dema.mil.kr:1935/live_edge/audio.sdp/playlist.m3u8
+#EXTINF:-1,CJB 청주방송 Joy FM
+http://1.222.207.80:1935/live/cjbradio/playlist.m3u8
+#EXTINF:-1,TBN 광주교통방송
+http://radio2.tbn.or.kr:1935/gwangju/myStream/playlist.m3u8
+#EXTINF:-1,Una FM 마음챙김을 위한 힐링 라디오
+http://cdn.podbbang.com/data1/unamaster/6m080110m3.mp3
+#EXTINF:-1,TBN 대전교통방송
+http://radio2.tbn.or.kr:1935/daejeon/myStream/playlist.m3u8
+#EXTINF:-1,TBN 창원교통방송
+http://radio2.tbn.or.kr:1935/gyeongnam/myStream/playlist.m3u8
+#EXTINF:-1,TBN 강원교통방송
+http://radio2.tbn.or.kr:1935/gangwon/myStream/playlist.m3u8
+#EXTINF:-1,제주극동방송FM 104.7 (FEBC Jeju HLAZ)
+http://mlive2.febc.net:1935/live/jejufm/playlist.m3u8
+#EXTINF:-1,KBS_kor
+http://serpent0.duckdns.org:8088/kbs1radio.pls?n=0d5dc613c51408a7e933
+#EXTINF:-1,Listen.moe K-Pop
+https://listen.moe/kpop/fallback?n=48c862938a0920eab8ac
+#EXTINF:-1,Listen.moe Kpop
+https://listen.moe/kpop/stream?n=f0465d65400621beb174
+#EXTINF:-1,MBC FM
+http://serpent0.duckdns.org:8088/mbcsfm.pls?n=4a8b2689812a042e8bd9
+#EXTINF:-1,MBC FM for you
+http://serpent0.duckdns.org:8088/mbcfm.pls?n=bdb6aec051d3f1f0a37b
+#EXTINF:-1,MBC FM4U
+http://serpent0.duckdns.org:8088/mbcfm.pls?n=8bc1b0087dd04cfbdde1
+#EXTINF:-1,MBC충북 FM4U
+http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8?n=394a7d6a4e3c35429fb3
+#EXTINF:-1,MBC충북 표준FM
+http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8?n=79f56bea19239cde12aa
+#EXTINF:-1,Oldpop Cafe
+http://cast.oldpopcafe.net:7080/?n=f7e7d0f4e8acad5ac756
+#EXTINF:-1,SBS Love FM
+http://serpent0.duckdns.org:8088/sbs2fm.pls?n=a5e2b08c556c60be03a7
+#EXTINF:-1,SBS Power FM
+http://serpent0.duckdns.org:8088/sbsfm.pls?n=7bd149ed23adbb060ac8
+#EXTINF:-1,마포FM
+http://115.85.182.39/mapofm?type=.mp3?n=860cebea75d82329bf54
+#EXTINF:-1,안동MBC AM
+http://andong.webcasting.co.kr:1935/live/amlive/playlist.m3u8?n=d1e2560db76417db2cd4
+#EXTINF:-1,올드팝카페
+http://cast.oldpopcafe.net:7080/?n=4009e010f3755e53c291
+#EXTINF:-1,평양FM
+https://listen7.myradio24.com/69366?n=d1c55998b996a04cfc83

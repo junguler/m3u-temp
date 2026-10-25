@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,CAPITOL FM MP3 128 Kbps Skopje Macedonia
+http://176.9.117.123:9996/
+#EXTINF:-1,City Radio
+http://176.9.117.123:9998/
+#EXTINF:-1,City Radio 94.7
+http://176.9.117.123:9998/stream/
+#EXTINF:-1,RFM 91.3
+http://213.133.109.18:10004
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/city-radio-179716-logo.jpg",City Radio
+http://176.9.117.123:9998/live
+#EXTINF:-1,RTV - Radio Novi Sad 3
+http://212.200.230.50:1935/rns3/treciprogram/livestream/stream.m3u8
+#EXTINF:-1,RFM 91.3 - North Macedonia
+http://213.133.109.18:10004/stream

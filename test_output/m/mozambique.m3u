@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,RDP África
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/chunklist_DVR.m3u8
+#EXTINF:-1,RFI Afrique
+https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3
+#EXTINF:-1,Antenne Halle Listen live
+https://antenne-halle.stream.laut.fm/antenne-halle?t302=2026-10-25_20-40-25&uuid=e5b6ca6f-77b1-26cc-6809-e037552a7989
+#EXTINF:-1,Radio 80er-90er Listen live
+https://80er-90er.stream.laut.fm/80er-90er?t302=2026-10-25_20-40-25&uuid=fb386eb8-b287-e1c5-0632-0f197073f0c3
+#EXTINF:-1,laserbeat-fm Listen live
+https://laserbeat-fm.stream.laut.fm/laserbeat-fm?ref=radiode&uuid=255d9db3-7c51-f695-154a-567f433892c8&t302=2026-10-25_20-40-25
+#EXTINF:-1,Bavarias 80th Listen live
+https://bavarias-80th.stream.laut.fm/bavarias-80th?t302=2026-10-25_20-40-25&uuid=dff15c43-6591-d5ce-d786-dced9a0043bf
+#EXTINF:-1,100% NL Nederpop Listen live
+https://22673.live.streamtheworld.com/WEB04_MP3.mp3
+#EXTINF:-1,Exclusively Stevie Ray Vaughan Listen live
+https://streaming.exclusive.radio/er/stevierayvaughan/icecast.audio
+#EXTINF:-1,Apresski Lounge Radio Listen live
+https://apresski-lounge.stream.laut.fm/apresski-lounge?t302=2026-10-25_20-40-26&uuid=cbfcec01-4ddc-3c33-a141-8fbb221f9dd0
+#EXTINF:-1,Miramar
+https://nl.digitalrm.pt:8066/stream
+#EXTINF:-1,Radio Maria Mozambique
+http://dreamsiteradiocp2.com:8088/stream/
+#EXTINF:-1,Radio Ocean Indien MRV
+http://stream.vestaradio.com/RadioMRV
+#EXTINF:-1,Super FM
+http://41.223.153.14:8000/
+#EXTINF:-1,RDP África Moçambique – Beira – MZ-S
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1,Rádio Capital – MZ-MPM
+https://17643.live.streamtheworld.com/RADIOTRANSMUNDIALAAC_SC
+#EXTINF:-1,RFI Afrique – Maputo – 105.0 FM – MZ-MPM
+http://live02.rfi.fr/rfiafrique-64.mp3
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,LM Radio Mozambique
+https://edge.iono.fm/xice/392_medium.mp3
+#EXTINF:-1,LM Radio
+https://ukwesta.streaming.broadcast.radio/lmradio
+#EXTINF:-1,Rádio Miramar 101.4 FM - Mozambique - Maputo
+https://nl.digitalrm.pt:8150/stream
+#EXTINF:-1,Super FM 101.9
+http://41.223.153.14:8000/;stream/1

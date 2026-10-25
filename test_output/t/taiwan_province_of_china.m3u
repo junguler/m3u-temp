@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,台中廣播
+http://211.20.119.101:8081/
+#EXTINF:-1,台中歡喜之聲FM105.5
+http://59.125.41.65:8081/
+#EXTINF:-1,嘉義環球廣播
+http://60.248.53.115:8081/
+#EXTINF:-1,台北流行音樂廣播
+http://202.39.43.67:1935/live/RA000080/chunklist.m3u8
+#EXTINF:-1,太陽電台
+http://211.20.119.102:8081/
+#EXTINF:-1,漢聲調頻
+http://202.39.43.67:1935/live/RA000076/chunklist.m3u8
+#EXTINF:-1,下港之聲FM90.5
+http://59.120.255.155:8081/
+#EXTINF:-1,人人電台 好事聯播網FM98.9
+http://202.39.43.67:1935/live/RA000013/chunklist.m3u8
+#EXTINF:-1,美聲廣播電臺
+http://1.34.23.16:8080/broadwavehigh.mp3
+#EXTINF:-1,好事聯播網 高雄港都
+http://202.39.43.67:1935/live/RA000012/chunklist.m3u8
+#EXTINF:-1,屏東大武山廣播
+http://59.120.255.171:8081/
+#EXTINF:-1,金聲廣播電台
+http://60.249.186.105:9000/
+#EXTINF:-1,潮州之聲
+http://59.120.255.170:8081/
+#EXTINF:-1,屏東之聲廣播電台FM92.5
+http://59.120.255.169:8081/
+#EXTINF:-1,漢聲中波
+http://202.39.43.67:1935/live/RA000074/chunklist.m3u8
+#EXTINF:-1,竹塹廣播電台
+http://211.72.230.118:8081/
+#EXTINF:-1,苗栗正義電台
+http://211.20.119.103:8081/
+#EXTINF:-1,A-Line Radio
+http://202.39.43.67:1935/live/RA000001/chunklist.m3u8
+#EXTINF:-1,凱旋廣播電台
+http://59.125.209.209:8081/
+#EXTINF:-1,新竹好聽廣播電台
+http://202.39.43.67:1935/live/RA000124/chunklist.m3u8
+#EXTINF:-1,好事聯播網 蓮花電台
+http://202.39.43.67:1935/live/RA000011/chunklist.m3u8
+#EXTINF:-1,噶瑪蘭廣播電台
+http://61.220.209.152:8081/
+#EXTINF:-1,新竹勞工之聲
+http://202.39.43.67:1935/live/RA000101/chunklist.m3u8
+#EXTINF:-1,幸福廣播電台TR Radio FM102.5
+http://61.218.61.251:8080/
+#EXTINF:-1,陽光電台
+http://202.39.43.67:1935/live/RA000079/chunklist.m3u8
+#EXTINF:-1,益世廣播電台
+http://210.209.16.1:1935/YSLive/YSLive/playlist.m3u8
+#EXTINF:-1,電聲電台
+http://59.120.102.91:8000/OnAir

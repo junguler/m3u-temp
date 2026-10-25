@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,#01 RADIO MOTEL .COM - MOBILE
+http://192.99.170.8:5580/stream
+#EXTINF:-1,#02 RADIO MOTEL .COM - SITE
+http://192.99.170.8:5580/stream1
+#EXTINF:-1,#03 RADIO MOTEL .COM - HD
+http://192.99.170.8:5580/stream2
+#EXTINF:-1,#04 RADIO MOTEL .COM - MP3
+http://192.99.170.8:5580/stream3
+#EXTINF:-1,ANTENNE BAYERN Lovesongs (Germany)
+http://s2-webradio.antenne.de/lovesongs
+#EXTINF:-1,Rádio 100% Love Songs
+http://54.36.98.201:8000/stream/9/
+#EXTINF:-1,Radio Bravo DK
+http://49.12.129.103:9043/stream
+#EXTINF:-1,RADIO CENTER LOVE
+http://212.30.80.195:8060/stream
+#EXTINF:-1,Club Music Radio - LOVE SONG
+http://78.46.83.77:8040/stream

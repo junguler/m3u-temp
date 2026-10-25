@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Allahu Akbar Radio
+http://66.45.232.132:9996/
+#EXTINF:-1,Radio Quraan
+http://66.45.232.131:9994/
+#EXTINF:-1,Radio Izlam
+http://66.45.232.133:9998/
+#EXTINF:-1,Quran Radio Tafsir
+http://206.72.199.179:9992/
+#EXTINF:-1,The Voice of the Cape
+http://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8
+#EXTINF:-1,Radio Islamico
+http://66.45.232.134:9300/
+#EXTINF:-1,Radio Quraan - Chinese
+http://206.72.199.178:9302/
+#EXTINF:-1,Radio Faydatidianiya
+http://listen.senemultimedia.net:5526/
+#EXTINF:-1,Radio Urum-Bi
+http://listen.radioking.com/radio/4735/stream/12887
+#EXTINF:-1,Radyo Cihan
+https://listen.radioking.com/radio/301204/stream/347869
+#EXTINF:-1,Radyo Denge
+http://yayin1.canliyayin.org:8248/
+#EXTINF:-1,Seyr FM
+https://sslyayin.netyayin.net/8024/stream
+#EXTINF:-1,Tijaniyyah Corner
+http://tijaniyyah.asuscomm.com:8000/stream/1/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sunni-cultural-center-malayalam-radio-601194-logo.jpg",SUNNI CULTURAL CENTER MALAYALAM RADIO
+http://eu4.fastcast4u.com:5184/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/salaam-radio-624988-logo.jpg",Salaam Radio
+http://radio.canstream.co.uk:8005/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/quran-radio-tafsir-597024-logo.jpg",Quran Radio Tafsir
+http://206.72.199.179:9992/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-quraan-chinese-589586-logo.jpg",Radio Quraan - Chinese
+http://206.72.199.178:9302/;

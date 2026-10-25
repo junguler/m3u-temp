@@ -1,7 +1,6 @@
 name: test
 on:
-  # push
-  workflow_dispatch:
+  workflow_dispatch: # push:
 jobs:
   automated-scrape:
     runs-on: ubuntu-24.04 #ubuntu-latest

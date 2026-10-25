@@ -115,10 +115,10 @@ function printProgress(final = false) {
       : '0.0';
   const rate = elapsedSeconds > 0 ? stats.checked / elapsedSeconds : 0;
 
-  // The ETA is only meaningful once every file has been parsed,
-  // because only then is the total link count final.
+  // Total link count is known up-front (pre-counted while sorting),
+  // so ETA is available as soon as we have a non-zero rate.
   let eta = 'estimating...';
-  if (stats.filesParsed >= stats.totalFiles && rate > 0) {
+  if (stats.totalLinks > 0 && rate > 0) {
     const remaining = stats.totalLinks - stats.checked;
     eta = remaining > 0 ? formatDuration((remaining / rate) * 1000) : '0s';
   }
@@ -610,7 +610,7 @@ async function processFile(
 
   // Register this file with the progress reporter.
   stats.filesParsed++;
-  stats.totalLinks += linksToProcess.length;
+  // Note: totalLinks is already set from the pre-count; we do not add again.
   stats.activeFiles.set(fileName, {
     total: linksToProcess.length,
     checked: 0,
@@ -808,7 +808,8 @@ async function main(inputDir, outputDir, quiet = false) {
     return;
   }
 
-  // Sort playlists by number of stream links (smallest first).
+  // Sort playlists by number of stream links (smallest first) and
+  // pre-compute the global totalLinks so ETA works immediately.
   if (!quiet) {
     console.log(
       `Counting stream links in ${m3uFiles.length} files to prioritise smaller playlists...`,
@@ -826,6 +827,10 @@ async function main(inputDir, outputDir, quiet = false) {
     (a, b) => a.linkCount - b.linkCount || a.fileName.localeCompare(b.fileName),
   );
   const sortedM3uFiles = filesWithCounts.map((f) => f.fileName);
+
+  // Set totalLinks once from the pre-count so progress/ETA is accurate
+  // from the very first report (no more "estimating...").
+  stats.totalLinks = filesWithCounts.reduce((sum, f) => sum + f.linkCount, 0);
 
   if (!quiet) {
     const smallest = filesWithCounts[0];

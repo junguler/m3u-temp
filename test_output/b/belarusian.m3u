@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Radio Poland
+https://stream85.polskieradio.pl/pr5/pr5.sdp/chunklist.m3u8
+#EXTINF:-1,Radius FM
+http://media2.datacenter.by:8002/radiusfm_main
+#EXTINF:-1,Euroradio
+http://stream.euroradio.fm:8000/euroradio1
+#EXTINF:-1,TEPLOE RADIO
+http://radio2.teploe.net:8000/teploeradio
+#EXTINF:-1,Mestnoe Radio
+https://listen1.myradio24.com/3355
+#EXTINF:-1,Euroradio.FM - Толькi BY
+http://stream.euroradio.fm:8000/euroradio5
+#EXTINF:-1,Jesus Coming FM - Belarusan
+http://live.jesuscomingfm.com:8448/
+#EXTINF:-1,Radio Racyja Радыё Рацыя 98.1 FM Podlaskie Voivodeship
+https://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
+#EXTINF:-1,Intense Radio - We love Dance 256K
+https://secure.live-streams.nl/main
+#EXTINF:-1,Radio Unistar
+https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8
+#EXTINF:-1,Радыё Сталiца
+https://media2.datacenter.by/stream/stalica/stream
+#EXTINF:-1,Club Hits 2000s
+https://radio.retrolan.party:8000/radio.mp3
+#EXTINF:-1,Новое радио
+https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
+#EXTINF:-1,Radio Alesia
+https://hls.alesia.live/alesia/aac_hifi.m3u8
+#EXTINF:-1,Free FM Gaita Venezuela
+https://gaita.radioca.st/stream
+#EXTINF:-1,Free FM 80s
+https://freefm80.radioca.st/stream?sid=1
+#EXTINF:-1,Free FM Classics
+https://xxdelgado.radioca.st/stream
+#EXTINF:-1,Free FM Rock
+https://freefmrock.radioca.st/stream
+#EXTINF:-1,Free FM World
+https://rocafmadrid.radioca.st/stream

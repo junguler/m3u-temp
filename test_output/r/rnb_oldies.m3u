@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,wdr3_klassik
+https://d121.rndfnk.com/ard/wdr/wdr3/klassik/mp3/128/stream.mp3?cid=01FC1TEEAYA0C4G4FNH6230ACS&sid=3LBAmbADJzBaAuXXvVvNN4RoQLE&token=n-e-9Wl_JsODWtp7aBnu3p5LnCrqdPfeLeVdIgwMCzY&tvf=DGgVx2HM4RhkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,Streaming by Securenet Systems Cirrus(R)
+https://ice5.securenetsystems.net:80/KALI
+#EXTINF:-1,Furry Pirate Radio
+https://icecast.bungles.net:8000/furry_pirate_radio

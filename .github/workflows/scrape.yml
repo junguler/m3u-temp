@@ -1,17 +1,31 @@
 name: test
+
 on:
   # push
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   automated-scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout repository
-        uses: actions/checkout@main
+    runs-on: ubuntu-24.04
 
-      - name: run commands
+    steps:
+      - name: Checkout destination repository
+        uses: actions/checkout@main
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Copy source folder
+        shell: bash
         run: |
-          node ./m3u-checker.js test_input/ test_output/ --quiet
+          set -euo pipefail
+          git fetch --depth=1 https://github.com/junguler/m3u-radio-music-playlists.git refs/heads/main
+          mkdir -p test_input
+          git archive --format=tar FETCH_HEAD '+merged+' \
+            | tar -xf - --strip-components=1 -C test_input
 
       - name: git stuff
         run: |

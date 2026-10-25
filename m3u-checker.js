@@ -30,6 +30,12 @@
 //   Fully-checked playlists are removed from the input folder so a
 //   subsequent run can resume with only the remaining files.
 //
+// Processing order:
+//
+//   Playlists are sorted by number of stream links (smallest first) before
+//   processing begins. This maximises the number of fully-checked files that
+//   can be completed and removed before the runtime limit is hit.
+//
 // Example:
 //
 //   CONCURRENCY=150 LINK_TIMEOUT=8000 node m3u-checker.js
@@ -798,14 +804,43 @@ async function main(inputDir, outputDir, quiet = false) {
     return;
   }
 
+  // Sort playlists by number of stream links (smallest first) so that
+  // smaller files are started and completed earlier. This maximises the
+  // number of fully-checked playlists that can be finished (and removed
+  // from the input folder) before the runtime limit is reached.
+  if (!quiet) {
+    console.log(`Counting stream links in ${m3uFiles.length} files to prioritise smaller playlists...`);
+  }
+  const filesWithCounts = await Promise.all(
+    m3uFiles.map(async (fileName) => {
+      const fullPath = path.join(inputDir, fileName);
+      const content = await fs.readFile(fullPath, 'utf8');
+      const linkCount = parseM3UContent(content).length;
+      return { fileName, linkCount };
+    }),
+  );
+  filesWithCounts.sort(
+    (a, b) => a.linkCount - b.linkCount || a.fileName.localeCompare(b.fileName),
+  );
+  const sortedM3uFiles = filesWithCounts.map((f) => f.fileName);
+
+  if (!quiet) {
+    const smallest = filesWithCounts[0];
+    const largest = filesWithCounts[filesWithCounts.length - 1];
+    console.log(
+      `Sorted by size: smallest has ${smallest.linkCount} links (${smallest.fileName}), ` +
+      `largest has ${largest.linkCount} links (${largest.fileName}).`,
+    );
+  }
+
   console.log(
-    `Found ${m3uFiles.length} M3U files (recursive). ` +
+    `Found ${sortedM3uFiles.length} M3U files (recursive). ` +
     `Global concurrency: ${concurrencyLimit}. ` +
     `Timeout: ${linkTimeout}ms. ` +
     `Max runtime: ${formatDuration(MAX_RUNTIME_MS)}.`,
   );
 
-  stats.totalFiles = m3uFiles.length;
+  stats.totalFiles = sortedM3uFiles.length;
   stats.startTime = Date.now();
 
   // Periodic progress report (printed even in --quiet mode).
@@ -829,8 +864,9 @@ async function main(inputDir, outputDir, quiet = false) {
 
   try {
     // Process files concurrently while keeping total HTTP concurrency capped.
+    // Smaller playlists are started first because of the sort above.
     await Promise.all(
-      m3uFiles.map((fileName) =>
+      sortedM3uFiles.map((fileName) =>
         processFile(
           inputDir,
           outputDir,

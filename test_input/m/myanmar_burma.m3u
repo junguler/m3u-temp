@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,Mandalay FM
+http://app.mandalayfm.com:6561/listen.pls?sid=1
+#EXTINF:-1,Padamyar FM
+https://s2.radio.co/s969e6c4b7/listen
+#EXTINF:-1,Teen Radio (Pyinsawadi)
+http://stereo.wavestreamer.com:4242/
+#EXTINF:-1,Radio Voice of Burma / Голос Бирмы
+https://myradio24.org/39982
+#EXTINF:-1,Thitsarparami
+http://edge.mixlr.com/channel/nmtev
+#EXTINF:-1,DWG Radio Burmese
+https://server32349.streamplus.de/
+#EXTINF:-1,Cherry FM
+http://150.95.80.54:8000/stream/89/
+#EXTINF:-1,Nichijou Shuffle
+https://stream.zeno.fm/rbr1kqmcwnhvv
+#EXTINF:-1,Thazin FM Radio
+http://109.169.23.124:8447/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/great-international-tipitaka-council-be-25001957s-dhamma-rad-589914-logo.jpg",Radio Great International Tipitaka Council B.E 2500(1957)'s Dhamma Rad
+http://config.dhammavideo.com/radio/ch01/playlist.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mogok-sayadaw-590472-logo.jpg",Radio Mogok Sayadaw
+http://cast.mediastreamservice.com/cast/tunein.php/ch02/playlist.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/drnandamalabhivansarector-of-itbmus-dhamma-radio-590476-logo.jpg",Dr.Nandamalabhivansa(Rector of ITBMU)'s Dhamma Radio
+http://cast.mediastreamservice.com/cast/tunein.php/ch04/playlist.pls
+#EXTINF:-1 tv-logo="",Radio Mandalay FM
+http://stream0.radiostyle.ru:8000/voiceofburma
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/teen-radio-pyinsawadi-634363-logo.jpg",Teen Radio (Pyinsawadi)
+http://stereo.wavestreamer.com:4242/;

@@ -47,7 +47,7 @@ const fs = require('fs/promises');
 const path = require('path');
 
 const concurrencyLimit = Number(process.env.CONCURRENCY || 50);
-const fileConcurrency = Number(process.env.FILE_CONCURRENCY || 5);
+const fileConcurrency = Number(process.env.FILE_CONCURRENCY || 1);
 const linkTimeout = Number(process.env.LINK_TIMEOUT || 8000);
 const maxRedirects = Number(process.env.MAX_REDIRECTS || 3);
 const progressInterval = Number(process.env.PROGRESS_INTERVAL || 60000);

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,2CR Australia Chinese Radio
+https://streaming.shoutcast.com/2cr-chinese-radio
+#EXTINF:-1,Harman Radio Australia
+http://harmanradio.net:8000/main_48.mp3
+#EXTINF:-1,Australian Digital Radio Network - K Pop (MP3)
+http://abm21.com.au:8000/CONTAINER112
+#EXTINF:-1,LiSTNR - K-Pop
+http://worldradio.online/proxy/?q=http://wz0liw.scahw.com.au/live/k-pop.stream/playlist.m3u8
+#EXTINF:-1,LiSTNR - K-Pop (HLS)
+http://sa46.scastream.com.au/live/k-pop.stream/playlist.m3u8
+#EXTINF:-1,SBS PopAsia
+https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
+#EXTINF:-1,Nightride FM
+https://stream.nightride.fm/nightride.mp3
+#EXTINF:-1,All Time Hits Radio Christmas - Melbourne (MP3)
+http://167.114.11.80:2044/;

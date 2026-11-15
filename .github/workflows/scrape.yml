@@ -7,6 +7,8 @@ jobs:
     steps:
       - name: checkout repository
         uses: actions/checkout@main
+      - name: set up warp
+        uses: viperadnan-git/setup-warp@v1
       - name: run commands
         run: |
           #node ./m3u-checker.js test_input/ test_output/ --quiet

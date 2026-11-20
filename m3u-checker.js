@@ -76,8 +76,8 @@ const maxRedirects = readIntegerEnv('MAX_REDIRECTS', 3, 0);
 const progressInterval = readIntegerEnv('PROGRESS_INTERVAL', 1 * MINUTE);
 
 // Hard runtime limit for GitHub Actions (6h maximum). Stop 15 minutes early.
-// const MAX_RUNTIME_MS = (5 * HOUR) + (45 * MINUTE);
-const MAX_RUNTIME_MS = (15 * MINUTE);
+const MAX_RUNTIME_MS = (5 * HOUR) + (45 * MINUTE);
+// const MAX_RUNTIME_MS = (15 * MINUTE);
 
 const USER_AGENT = 'm3u-checker/1.0';
 const UNFINISHED_PREFIX = 'unfinished_';
